@@ -1,0 +1,66 @@
+name: Python Package CI
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'python/**'
+      - '.github/workflows/python-ci.yml'
+  pull_request:
+    paths:
+      - 'python/**'
+      - '.github/workflows/python-ci.yml'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.8', '3.9', '3.10', '3.11', '3.12']
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      
+      - name: Install dependencies
+        working-directory: python/packages/countries
+        run: |
+          pip install -e ".[dev]"
+      
+      - name: Run tests
+        working-directory: python/packages/countries
+        run: |
+          pytest --cov=countrystatecity_countries --cov-report=xml --cov-report=term
+      
+      - name: Type check with mypy
+        working-directory: python/packages/countries
+        run: |
+          mypy countrystatecity_countries/ --strict
+      
+      - name: Lint with ruff
+        working-directory: python/packages/countries
+        run: |
+          ruff check countrystatecity_countries/ tests/
+      
+      - name: Check code formatting with black
+        working-directory: python/packages/countries
+        run: |
+          black --check countrystatecity_countries/ tests/
+      
+      - name: Check import sorting with isort
+        working-directory: python/packages/countries
+        run: |
+          isort --check countrystatecity_countries/ tests/
+      
+      - name: Upload coverage to Codecov
+        if: matrix.python-version == '3.12'
+        uses: codecov/codecov-action@v4
+        with:
+          files: ./python/packages/countries/coverage.xml
+          flags: unittests
+          name: codecov-umbrella
+          fail_ci_if_error: false

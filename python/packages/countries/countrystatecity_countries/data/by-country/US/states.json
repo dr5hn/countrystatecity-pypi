@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "California",
+    "country_id": 1,
+    "country_code": "US",
+    "state_code": "CA",
+    "type": "state",
+    "latitude": "36.77826100",
+    "longitude": "-119.41793240"
+  },
+  {
+    "id": 2,
+    "name": "New York",
+    "country_id": 1,
+    "country_code": "US",
+    "state_code": "NY",
+    "type": "state",
+    "latitude": "43.29942850",
+    "longitude": "-74.21793260"
+  },
+  {
+    "id": 3,
+    "name": "Texas",
+    "country_id": 1,
+    "country_code": "US",
+    "state_code": "TX",
+    "type": "state",
+    "latitude": "31.96859880",
+    "longitude": "-99.90181310"
+  }
+]

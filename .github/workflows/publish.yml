@@ -1,0 +1,146 @@
+name: Publish to PyPI
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - 'python/packages/*/pyproject.toml'
+      - 'python/packages/*/countrystatecity_*/**'
+  workflow_dispatch:
+    inputs:
+      package:
+        description: 'Package to publish (e.g., countries)'
+        required: true
+        type: choice
+        options:
+          - countries
+          - all
+
+jobs:
+  publish:
+    name: Publish Package to PyPI
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      id-token: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Install build tools
+        run: |
+          pip install build twine
+      
+      - name: Install dependencies
+        working-directory: python/packages/countries
+        run: |
+          pip install -e ".[dev]"
+      
+      - name: Run tests
+        working-directory: python/packages/countries
+        run: |
+          pytest --cov=countrystatecity_countries --cov-report=term
+      
+      - name: Type check
+        working-directory: python/packages/countries
+        run: |
+          mypy countrystatecity_countries/ --strict
+      
+      - name: Lint
+        working-directory: python/packages/countries
+        run: |
+          ruff check countrystatecity_countries/ tests/
+          black --check countrystatecity_countries/ tests/
+          isort --check countrystatecity_countries/ tests/
+      
+      - name: Get package version
+        id: get-version
+        working-directory: python/packages/countries
+        run: |
+          VERSION=$(python -c "import tomllib; print(tomllib.load(open('pyproject.toml', 'rb'))['project']['version'])")
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "Package version: $VERSION"
+      
+      - name: Check if version already published
+        id: check-version
+        run: |
+          PACKAGE_NAME="countrystatecity-countries"
+          VERSION="${{ steps.get-version.outputs.version }}"
+          
+          echo "Checking if $PACKAGE_NAME version $VERSION is published..."
+          
+          if pip index versions "$PACKAGE_NAME" 2>/dev/null | grep -q "$VERSION"; then
+            echo "published=true" >> $GITHUB_OUTPUT
+            echo "Version $VERSION already published to PyPI"
+          else
+            echo "published=false" >> $GITHUB_OUTPUT
+            echo "Version $VERSION not yet published to PyPI"
+          fi
+      
+      - name: Build package
+        if: steps.check-version.outputs.published == 'false'
+        working-directory: python/packages/countries
+        run: |
+          python -m build
+          echo "Build artifacts:"
+          ls -lh dist/
+      
+      - name: Check package with twine
+        if: steps.check-version.outputs.published == 'false'
+        working-directory: python/packages/countries
+        run: |
+          twine check dist/*
+      
+      - name: Publish to PyPI
+        if: steps.check-version.outputs.published == 'false'
+        working-directory: python/packages/countries
+        env:
+          TWINE_USERNAME: __token__
+          TWINE_PASSWORD: ${{ secrets.PYPI_TOKEN }}
+        run: |
+          twine upload dist/*
+      
+      - name: Create GitHub Release
+        if: steps.check-version.outputs.published == 'false'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.get-version.outputs.version }}
+          name: Release v${{ steps.get-version.outputs.version }}
+          body: |
+            ## countrystatecity-countries v${{ steps.get-version.outputs.version }}
+            
+            Published to PyPI: https://pypi.org/project/countrystatecity-countries/
+            
+            ### Installation
+            ```bash
+            pip install countrystatecity-countries
+            ```
+            
+            ### Usage
+            ```python
+            from countrystatecity_countries import get_countries, get_country_by_code
+            
+            countries = get_countries()
+            usa = get_country_by_code("US")
+            print(f"{usa.emoji} {usa.name}")
+            ```
+            
+            See the [README](https://github.com/dr5hn/countrystatecity-pypi/blob/main/python/packages/countries/README.md) for full documentation.
+          draft: false
+          prerelease: false
+          files: |
+            python/packages/countries/dist/*.whl
+            python/packages/countries/dist/*.tar.gz
+      
+      - name: Already published
+        if: steps.check-version.outputs.published == 'true'
+        run: |
+          echo "ℹ️ Version ${{ steps.get-version.outputs.version }} is already published to PyPI. Skipping publish step."
