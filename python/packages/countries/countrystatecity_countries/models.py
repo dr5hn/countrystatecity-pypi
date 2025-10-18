@@ -45,6 +45,9 @@ class State(BaseModel):
     type: Optional[str] = None
     latitude: Optional[str] = None
     longitude: Optional[str] = None
+    iso3166_2: Optional[str] = None
+    native: Optional[str] = None
+    timezone: Optional[str] = None
 
 
 class City(BaseModel):

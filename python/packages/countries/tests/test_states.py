@@ -99,7 +99,7 @@ def test_state_belongs_to_country():
     california = get_state_by_code("US", "CA")
     assert california is not None
     assert california.country_code == "US"
-    assert california.country_id == 1
+    assert california.country_id == 233  # US country ID in the dataset
 
 
 def test_all_states_have_same_country():
