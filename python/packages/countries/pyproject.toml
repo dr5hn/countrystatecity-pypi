@@ -5,12 +5,15 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "countrystatecity-countries"
 version = "1.0.0"
-description = "Official countries, states, and cities database with type hints and lazy loading"
-readme = "README.md"
+description = "Type-safe Python package for countries, states, and cities data with 250+ countries, 5000+ states, and 151K+ cities. Features Pydantic models, lazy loading, and comprehensive geographic metadata."
+readme = {file = "README.md", content-type = "text/markdown"}
 authors = [
     {name = "dr5hn", email = "contact@countrystatecity.in"}
 ]
-license = {text = "ODbL-1.0"}
+maintainers = [
+    {name = "dr5hn", email = "contact@countrystatecity.in"}
+]
+license = {file = "LICENSE"}
 keywords = [
     "countries",
     "states",
@@ -56,7 +59,9 @@ dev = [
 Homepage = "https://github.com/dr5hn/countrystatecity-pypi"
 Documentation = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/countries"
 Repository = "https://github.com/dr5hn/countrystatecity-pypi"
+Source = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/countries"
 Issues = "https://github.com/dr5hn/countrystatecity-pypi/issues"
+Changelog = "https://github.com/dr5hn/countrystatecity-pypi/blob/master/python/packages/countries/CHANGELOG.md"
 
 [tool.setuptools.packages.find]
 where = ["."]

@@ -1,0 +1,22 @@
+# Include package metadata
+include README.md
+include LICENSE
+include CHANGELOG.md
+
+# Include type hints marker
+include countrystatecity_countries/py.typed
+
+# Include all JSON data files
+recursive-include countrystatecity_countries/data *.json
+
+# Exclude test files
+recursive-exclude tests *
+exclude tests
+
+# Exclude development files
+exclude .gitignore
+exclude pyproject.toml.bak
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+recursive-exclude * .pytest_cache
+recursive-exclude * .mypy_cache
