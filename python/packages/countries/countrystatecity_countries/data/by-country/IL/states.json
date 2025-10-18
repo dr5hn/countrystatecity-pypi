@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1367,
+    "name": "Central",
+    "country_id": 106,
+    "country_code": "IL",
+    "state_code": "M",
+    "type": "district",
+    "latitude": "-25.34820600",
+    "longitude": "-57.56961500",
+    "iso3166_2": "IL-M",
+    "native": "Central",
+    "timezone": "Asia/Jerusalem"
+  },
+  {
+    "id": 1369,
+    "name": "Haifa",
+    "country_id": 106,
+    "country_code": "IL",
+    "state_code": "HA",
+    "type": "district",
+    "latitude": "32.63042970",
+    "longitude": "34.98009920",
+    "iso3166_2": "IL-HA",
+    "native": "Haifa",
+    "timezone": "Asia/Jerusalem"
+  },
+  {
+    "id": 1370,
+    "name": "Jerusalem",
+    "country_id": 106,
+    "country_code": "IL",
+    "state_code": "JM",
+    "type": "district",
+    "latitude": "31.74282530",
+    "longitude": "35.06406900",
+    "iso3166_2": "IL-JM",
+    "native": "Jerusalem",
+    "timezone": "Asia/Jerusalem"
+  },
+  {
+    "id": 1366,
+    "name": "Northern",
+    "country_id": 106,
+    "country_code": "IL",
+    "state_code": "Z",
+    "type": "district",
+    "latitude": "33.06018330",
+    "longitude": "35.24481950",
+    "iso3166_2": "IL-Z",
+    "native": "Northern",
+    "timezone": "Asia/Jerusalem"
+  },
+  {
+    "id": 1368,
+    "name": "Southern",
+    "country_id": 106,
+    "country_code": "IL",
+    "state_code": "D",
+    "type": "district",
+    "latitude": "30.68233340",
+    "longitude": "34.88242290",
+    "iso3166_2": "IL-D",
+    "native": "Southern",
+    "timezone": "Asia/Jerusalem"
+  },
+  {
+    "id": 1371,
+    "name": "Tel Aviv",
+    "country_id": 106,
+    "country_code": "IL",
+    "state_code": "TA",
+    "type": "district",
+    "latitude": "32.09290750",
+    "longitude": "34.80721650",
+    "iso3166_2": "IL-TA",
+    "native": "Tel Aviv",
+    "timezone": "Asia/Jerusalem"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 3396,
+    "name": "Abu Dhabi",
+    "country_id": 231,
+    "country_code": "AE",
+    "state_code": "AZ",
+    "type": "emirate",
+    "latitude": "24.45388400",
+    "longitude": "54.37734380",
+    "iso3166_2": "AE-AZ",
+    "native": "أبو ظبي",
+    "timezone": "Asia/Dubai"
+  },
+  {
+    "id": 3395,
+    "name": "Ajman",
+    "country_id": 231,
+    "country_code": "AE",
+    "state_code": "AJ",
+    "type": "emirate",
+    "latitude": "25.39365570",
+    "longitude": "55.44514320",
+    "iso3166_2": "AE-AJ",
+    "native": "عجمان",
+    "timezone": "Asia/Dubai"
+  },
+  {
+    "id": 3391,
+    "name": "Dubai",
+    "country_id": 231,
+    "country_code": "AE",
+    "state_code": "DU",
+    "type": "emirate",
+    "latitude": "25.26472270",
+    "longitude": "55.29241460",
+    "iso3166_2": "AE-DU",
+    "native": "دبي",
+    "timezone": "Asia/Dubai"
+  },
+  {
+    "id": 3393,
+    "name": "Fujairah",
+    "country_id": 231,
+    "country_code": "AE",
+    "state_code": "FU",
+    "type": "emirate",
+    "latitude": "25.12446040",
+    "longitude": "56.33550850",
+    "iso3166_2": "AE-FU",
+    "native": "فجيرة",
+    "timezone": "Asia/Dubai"
+  },
+  {
+    "id": 3394,
+    "name": "Ras Al Khaimah",
+    "country_id": 231,
+    "country_code": "AE",
+    "state_code": "RK",
+    "type": "emirate",
+    "latitude": "25.73863490",
+    "longitude": "55.92492240",
+    "iso3166_2": "AE-RK",
+    "native": "رأس الخيمة",
+    "timezone": "Asia/Dubai"
+  },
+  {
+    "id": 3390,
+    "name": "Sharjah",
+    "country_id": 231,
+    "country_code": "AE",
+    "state_code": "SH",
+    "type": "emirate",
+    "latitude": "25.34614980",
+    "longitude": "55.42106330",
+    "iso3166_2": "AE-SH",
+    "native": "الشارقة",
+    "timezone": "Asia/Dubai"
+  },
+  {
+    "id": 3392,
+    "name": "Umm Al Quwain",
+    "country_id": 231,
+    "country_code": "AE",
+    "state_code": "UQ",
+    "type": "emirate",
+    "latitude": "25.61124880",
+    "longitude": "55.61746310",
+    "iso3166_2": "AE-UQ",
+    "native": "أم القوي",
+    "timezone": "Asia/Dubai"
+  }
+]

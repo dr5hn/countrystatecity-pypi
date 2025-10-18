@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1992,
+    "name": "Capital",
+    "country_id": 18,
+    "country_code": "BH",
+    "state_code": "13",
+    "type": "governorate",
+    "latitude": "26.42432330",
+    "longitude": "50.47472510",
+    "iso3166_2": "BH-13",
+    "native": "عاصمة",
+    "timezone": "Asia/Bahrain"
+  },
+  {
+    "id": 1996,
+    "name": "Central",
+    "country_id": 18,
+    "country_code": "BH",
+    "state_code": "16",
+    "type": "governorate",
+    "latitude": "39.85733790",
+    "longitude": "32.85637580",
+    "iso3166_2": "BH-16",
+    "native": "مركزي",
+    "timezone": "Asia/Bahrain"
+  },
+  {
+    "id": 1995,
+    "name": "Muharraq",
+    "country_id": 18,
+    "country_code": "BH",
+    "state_code": "15",
+    "type": "governorate",
+    "latitude": "26.24659460",
+    "longitude": "50.61641270",
+    "iso3166_2": "BH-15",
+    "native": "محارق",
+    "timezone": "Asia/Bahrain"
+  },
+  {
+    "id": 1994,
+    "name": "Northern",
+    "country_id": 18,
+    "country_code": "BH",
+    "state_code": "17",
+    "type": "governorate",
+    "latitude": "26.27784770",
+    "longitude": "50.41811230",
+    "iso3166_2": "BH-17",
+    "native": "شمالي",
+    "timezone": "Asia/Bahrain"
+  },
+  {
+    "id": 1993,
+    "name": "Southern",
+    "country_id": 18,
+    "country_code": "BH",
+    "state_code": "14",
+    "type": "governorate",
+    "latitude": "25.84000690",
+    "longitude": "50.59026930",
+    "iso3166_2": "BH-14",
+    "native": "الجنوب",
+    "timezone": "Asia/Bahrain"
+  }
+]

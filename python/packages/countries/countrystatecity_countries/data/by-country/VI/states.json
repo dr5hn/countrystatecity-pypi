@@ -1,0 +1,41 @@
+[
+  {
+    "id": 5074,
+    "name": "Saint Croix",
+    "country_id": 242,
+    "country_code": "VI",
+    "state_code": "SC",
+    "type": "district",
+    "latitude": "17.72912400",
+    "longitude": "-64.75891560",
+    "iso3166_2": "VI-SC",
+    "native": "Holy cross",
+    "timezone": "America/St_Thomas"
+  },
+  {
+    "id": 5073,
+    "name": "Saint John",
+    "country_id": 242,
+    "country_code": "VI",
+    "state_code": "SJ",
+    "type": "district",
+    "latitude": "18.33560130",
+    "longitude": "-64.75504060",
+    "iso3166_2": "VI-SJ",
+    "native": "Saint John",
+    "timezone": "America/St_Thomas"
+  },
+  {
+    "id": 5072,
+    "name": "Saint Thomas",
+    "country_id": 242,
+    "country_code": "VI",
+    "state_code": "ST",
+    "type": "district",
+    "latitude": "18.34290810",
+    "longitude": "-64.91889970",
+    "iso3166_2": "VI-ST",
+    "native": "Saint Thomas",
+    "timezone": "America/St_Thomas"
+  }
+]
