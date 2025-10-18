@@ -1,0 +1,92 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "countrystatecity-countries"
+version = "1.0.0"
+description = "Official countries, states, and cities database with type hints and lazy loading"
+readme = "README.md"
+authors = [
+    {name = "dr5hn", email = "contact@countrystatecity.in"}
+]
+license = {text = "ODbL-1.0"}
+keywords = [
+    "countries",
+    "states",
+    "cities",
+    "geography",
+    "geolocation",
+    "timezone",
+    "translations",
+    "iso",
+    "lazy-loading",
+    "type-hints",
+    "pydantic"
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: Open Database License (ODbL)",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed"
+]
+requires-python = ">=3.8"
+dependencies = [
+    "pydantic>=2.0.0,<3.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "mypy>=1.0.0",
+    "black>=23.0.0",
+    "isort>=5.0.0",
+    "ruff>=0.1.0"
+]
+
+[project.urls]
+Homepage = "https://github.com/dr5hn/countrystatecity-pypi"
+Documentation = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/countries"
+Repository = "https://github.com/dr5hn/countrystatecity-pypi"
+Issues = "https://github.com/dr5hn/countrystatecity-pypi/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["countrystatecity_countries*"]
+
+[tool.setuptools.package-data]
+countrystatecity_countries = ["data/**/*.json", "py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-v --cov=countrystatecity_countries --cov-report=term-missing"
+
+[tool.mypy]
+strict = true
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+
+[tool.black]
+line-length = 88
+target-version = ["py38"]
+
+[tool.isort]
+profile = "black"
+line_length = 88
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W", "UP"]
+ignore = ["N815"]  # Ignore mixedCase variable names (from original data structure)
