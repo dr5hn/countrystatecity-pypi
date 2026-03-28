@@ -71,18 +71,19 @@ jobs:
       
       - name: Check if version already published
         id: check-version
+        env:
+          PACKAGE_NAME: countrystatecity-countries
+          VERSION: ${{ steps.get-version.outputs.version }}
         run: |
-          PACKAGE_NAME="countrystatecity-countries"
-          VERSION="${{ steps.get-version.outputs.version }}"
-          
           echo "Checking if $PACKAGE_NAME version $VERSION is published..."
-          
-          if pip index versions "$PACKAGE_NAME" 2>/dev/null | grep -q "$VERSION"; then
+
+          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "https://pypi.org/pypi/$PACKAGE_NAME/$VERSION/json")
+          if [ "$HTTP_STATUS" = "200" ]; then
             echo "published=true" >> $GITHUB_OUTPUT
             echo "Version $VERSION already published to PyPI"
           else
             echo "published=false" >> $GITHUB_OUTPUT
-            echo "Version $VERSION not yet published to PyPI"
+            echo "Version $VERSION not yet published to PyPI (HTTP $HTTP_STATUS)"
           fi
       
       - name: Build package
