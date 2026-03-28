@@ -11,7 +11,7 @@ Example:
     'United States'
 """
 
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 
 from .api import (  # Countries API; States API; Cities API
     get_cities_of_country,
