@@ -85,16 +85,15 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
       
-      - name: Check for changes
+      - name: Check for data changes
         id: check-changes
         run: |
-          git add python/packages/countries/countrystatecity_countries/data python/packages/countries/pyproject.toml python/packages/countries/countrystatecity_countries/__init__.py
-          if git diff --cached --quiet; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-            echo "No data changes detected"
-          else
+          if git diff --name-only -- python/packages/countries/countrystatecity_countries/data | grep -q .; then
             echo "changed=true" >> $GITHUB_OUTPUT
             echo "Data changes detected"
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No data changes detected"
           fi
 
       - name: Bump patch version
