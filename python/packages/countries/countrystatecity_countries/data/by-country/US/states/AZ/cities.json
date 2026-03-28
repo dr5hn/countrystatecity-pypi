@@ -45,7 +45,7 @@
   },
   {
     "id": 111380,
-    "name": "Apache County",
+    "name": "Apache",
     "state_id": 1434,
     "state_code": "AZ",
     "country_id": 233,
@@ -474,7 +474,7 @@
   },
   {
     "id": 114349,
-    "name": "Cochise County",
+    "name": "Cochise",
     "state_id": 1434,
     "state_code": "AZ",
     "country_id": 233,
@@ -485,7 +485,7 @@
   },
   {
     "id": 114360,
-    "name": "Coconino County",
+    "name": "Coconino",
     "state_id": 1434,
     "state_code": "AZ",
     "country_id": 233,
@@ -825,6 +825,17 @@
     "wikiDataId": null
   },
   {
+    "id": 117201,
+    "name": "Gila",
+    "state_id": 1434,
+    "state_code": "AZ",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "33.79975000",
+    "longitude": "-110.81174000",
+    "wikiDataId": null
+  },
+  {
     "id": 117200,
     "name": "Gila Bend",
     "state_id": 1434,
@@ -833,17 +844,6 @@
     "country_code": "US",
     "latitude": "32.94782000",
     "longitude": "-112.71683000",
-    "wikiDataId": null
-  },
-  {
-    "id": 117201,
-    "name": "Gila County",
-    "state_id": 1434,
-    "state_code": "AZ",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "33.79975000",
-    "longitude": "-110.81174000",
     "wikiDataId": null
   },
   {
@@ -969,7 +969,7 @@
   },
   {
     "id": 117659,
-    "name": "Greenlee County",
+    "name": "Greenlee",
     "state_id": 1434,
     "state_code": "AZ",
     "country_id": 233,
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 119771,
-    "name": "La Paz County",
+    "name": "La Paz",
     "state_id": 1434,
     "state_code": "AZ",
     "country_id": 233,
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 122019,
-    "name": "Mohave County",
+    "name": "Mohave",
     "state_id": 1434,
     "state_code": "AZ",
     "country_id": 233,
@@ -1376,7 +1376,7 @@
   },
   {
     "id": 122598,
-    "name": "Navajo County",
+    "name": "Navajo",
     "state_id": 1434,
     "state_code": "AZ",
     "country_id": 233,
@@ -1596,7 +1596,7 @@
   },
   {
     "id": 124206,
-    "name": "Pinal County",
+    "name": "Pinal",
     "state_id": 1434,
     "state_code": "AZ",
     "country_id": 233,
@@ -2443,7 +2443,7 @@
   },
   {
     "id": 129672,
-    "name": "Yavapai County",
+    "name": "Yavapai",
     "state_id": 1434,
     "state_code": "AZ",
     "country_id": 233,

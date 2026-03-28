@@ -1,31 +1,5 @@
 [
   {
-    "id": 1242,
-    "name": "'Adan",
-    "country_id": 245,
-    "country_code": "YE",
-    "state_code": "AD",
-    "type": "governorate",
-    "latitude": "12.83333300",
-    "longitude": "44.91666700",
-    "iso3166_2": "YE-AD",
-    "native": "عدن",
-    "timezone": "Asia/Aden"
-  },
-  {
-    "id": 1250,
-    "name": "'Amran",
-    "country_id": 245,
-    "country_code": "YE",
-    "state_code": "AM",
-    "type": "governorate",
-    "latitude": "16.23021800",
-    "longitude": "43.90983400",
-    "iso3166_2": "YE-AM",
-    "native": "عمران",
-    "timezone": "Asia/Aden"
-  },
-  {
     "id": 1237,
     "name": "Abyan",
     "country_id": 245,
@@ -49,6 +23,19 @@
     "longitude": "44.73000000",
     "iso3166_2": "YE-DA",
     "native": "الضالع",
+    "timezone": "Asia/Aden"
+  },
+  {
+    "id": 1242,
+    "name": "Adan",
+    "country_id": 245,
+    "country_code": "YE",
+    "state_code": "AD",
+    "type": "governorate",
+    "latitude": "12.83333300",
+    "longitude": "44.91666700",
+    "iso3166_2": "YE-AD",
+    "native": "عدن",
     "timezone": "Asia/Aden"
   },
   {
@@ -127,6 +114,19 @@
     "longitude": "44.20000000",
     "iso3166_2": "YE-SA",
     "native": "أمانة العاصمة",
+    "timezone": "Asia/Aden"
+  },
+  {
+    "id": 1250,
+    "name": "Amran",
+    "country_id": 245,
+    "country_code": "YE",
+    "state_code": "AM",
+    "type": "governorate",
+    "latitude": "16.23021800",
+    "longitude": "43.90983400",
+    "iso3166_2": "YE-AM",
+    "native": "عمران",
     "timezone": "Asia/Aden"
   },
   {

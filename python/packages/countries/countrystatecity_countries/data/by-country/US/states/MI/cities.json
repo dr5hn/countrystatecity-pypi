@@ -23,7 +23,7 @@
   },
   {
     "id": 111133,
-    "name": "Alcona County",
+    "name": "Alcona",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -34,7 +34,7 @@
   },
   {
     "id": 111161,
-    "name": "Alger County",
+    "name": "Alger",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -155,7 +155,7 @@
   },
   {
     "id": 111377,
-    "name": "Antrim County",
+    "name": "Antrim",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -166,7 +166,7 @@
   },
   {
     "id": 111445,
-    "name": "Arenac County",
+    "name": "Arenac",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -320,7 +320,7 @@
   },
   {
     "id": 111856,
-    "name": "Barry County",
+    "name": "Barry",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -352,6 +352,17 @@
     "wikiDataId": null
   },
   {
+    "id": 111925,
+    "name": "Bay",
+    "state_id": 1426,
+    "state_code": "MI",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "43.72137000",
+    "longitude": "-83.94184000",
+    "wikiDataId": null
+  },
+  {
     "id": 111922,
     "name": "Bay City",
     "state_id": 1426,
@@ -360,17 +371,6 @@
     "country_code": "US",
     "latitude": "43.59447000",
     "longitude": "-83.88886000",
-    "wikiDataId": null
-  },
-  {
-    "id": 111925,
-    "name": "Bay County",
-    "state_id": 1426,
-    "state_code": "MI",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "43.72137000",
-    "longitude": "-83.94184000",
     "wikiDataId": null
   },
   {
@@ -485,7 +485,7 @@
   },
   {
     "id": 112212,
-    "name": "Benzie County",
+    "name": "Benzie",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -507,7 +507,7 @@
   },
   {
     "id": 112250,
-    "name": "Berrien County",
+    "name": "Berrien",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -639,7 +639,7 @@
   },
   {
     "id": 112685,
-    "name": "Branch County",
+    "name": "Branch",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -902,6 +902,17 @@
     "wikiDataId": null
   },
   {
+    "id": 113531,
+    "name": "Cass",
+    "state_id": 1426,
+    "state_code": "MI",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.91540000",
+    "longitude": "-85.99346000",
+    "wikiDataId": null
+  },
+  {
     "id": 113525,
     "name": "Cass City",
     "state_id": 1426,
@@ -910,17 +921,6 @@
     "country_code": "US",
     "latitude": "43.60085000",
     "longitude": "-83.17467000",
-    "wikiDataId": null
-  },
-  {
-    "id": 113531,
-    "name": "Cass County",
-    "state_id": 1426,
-    "state_code": "MI",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "41.91540000",
-    "longitude": "-85.99346000",
     "wikiDataId": null
   },
   {
@@ -1046,7 +1046,7 @@
   },
   {
     "id": 113973,
-    "name": "Chippewa County",
+    "name": "Chippewa",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -1244,7 +1244,7 @@
   },
   {
     "id": 114781,
-    "name": "Crawford County",
+    "name": "Crawford",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -1387,7 +1387,7 @@
   },
   {
     "id": 115329,
-    "name": "Dickinson County",
+    "name": "Dickinson",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -1541,7 +1541,7 @@
   },
   {
     "id": 115803,
-    "name": "Eaton County",
+    "name": "Eaton",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -1618,7 +1618,7 @@
   },
   {
     "id": 116103,
-    "name": "Emmet County",
+    "name": "Emmet",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -1915,7 +1915,7 @@
   },
   {
     "id": 117135,
-    "name": "Genesee County",
+    "name": "Genesee",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -1970,7 +1970,7 @@
   },
   {
     "id": 117337,
-    "name": "Gogebic County",
+    "name": "Gogebic",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -2036,7 +2036,7 @@
   },
   {
     "id": 117477,
-    "name": "Grand Traverse County",
+    "name": "Grand Traverse",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -2069,7 +2069,7 @@
   },
   {
     "id": 117544,
-    "name": "Gratiot County",
+    "name": "Gratiot",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -2553,7 +2553,7 @@
   },
   {
     "id": 118935,
-    "name": "Ingham County",
+    "name": "Ingham",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -2597,7 +2597,7 @@
   },
   {
     "id": 118973,
-    "name": "Iosco County",
+    "name": "Iosco",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -2608,7 +2608,7 @@
   },
   {
     "id": 118989,
-    "name": "Iron County",
+    "name": "Iron",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -2652,7 +2652,7 @@
   },
   {
     "id": 119016,
-    "name": "Isabella County",
+    "name": "Isabella",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -2794,6 +2794,17 @@
     "wikiDataId": null
   },
   {
+    "id": 119492,
+    "name": "Kent",
+    "state_id": 1426,
+    "state_code": "MI",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "43.03216000",
+    "longitude": "-85.54930000",
+    "wikiDataId": null
+  },
+  {
     "id": 119489,
     "name": "Kent City",
     "state_id": 1426,
@@ -2802,17 +2813,6 @@
     "country_code": "US",
     "latitude": "43.22002000",
     "longitude": "-85.75115000",
-    "wikiDataId": null
-  },
-  {
-    "id": 119492,
-    "name": "Kent County",
-    "state_id": 1426,
-    "state_code": "MI",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "43.03216000",
-    "longitude": "-85.54930000",
     "wikiDataId": null
   },
   {
@@ -2828,7 +2828,7 @@
   },
   {
     "id": 119536,
-    "name": "Keweenaw County",
+    "name": "Keweenaw",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -2893,6 +2893,17 @@
     "wikiDataId": null
   },
   {
+    "id": 119893,
+    "name": "Lake",
+    "state_id": 1426,
+    "state_code": "MI",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "43.99001000",
+    "longitude": "-85.80170000",
+    "wikiDataId": null
+  },
+  {
     "id": 119884,
     "name": "Lake City",
     "state_id": 1426,
@@ -2901,17 +2912,6 @@
     "country_code": "US",
     "latitude": "44.33529000",
     "longitude": "-85.21505000",
-    "wikiDataId": null
-  },
-  {
-    "id": 119893,
-    "name": "Lake County",
-    "state_id": 1426,
-    "state_code": "MI",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "43.99001000",
-    "longitude": "-85.80170000",
     "wikiDataId": null
   },
   {
@@ -3070,7 +3070,7 @@
   },
   {
     "id": 120322,
-    "name": "Leelanau County",
+    "name": "Leelanau",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -3092,7 +3092,7 @@
   },
   {
     "id": 120368,
-    "name": "Lenawee County",
+    "name": "Lenawee",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -3213,7 +3213,7 @@
   },
   {
     "id": 120863,
-    "name": "Luce County",
+    "name": "Luce",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -3246,7 +3246,7 @@
   },
   {
     "id": 120959,
-    "name": "Mackinac County",
+    "name": "Mackinac",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -3257,7 +3257,7 @@
   },
   {
     "id": 120962,
-    "name": "Macomb County",
+    "name": "Macomb",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -3466,7 +3466,7 @@
   },
   {
     "id": 121589,
-    "name": "Mecosta County",
+    "name": "Mecosta",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -3609,7 +3609,7 @@
   },
   {
     "id": 121978,
-    "name": "Missaukee County",
+    "name": "Missaukee",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -3653,7 +3653,7 @@
   },
   {
     "id": 122104,
-    "name": "Montcalm County",
+    "name": "Montcalm",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -3664,7 +3664,7 @@
   },
   {
     "id": 122172,
-    "name": "Montmorency County",
+    "name": "Montmorency",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -3972,7 +3972,7 @@
   },
   {
     "id": 123295,
-    "name": "Oakland County",
+    "name": "Oakland",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -3983,7 +3983,7 @@
   },
   {
     "id": 123340,
-    "name": "Oceana County",
+    "name": "Oceana",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -3994,7 +3994,7 @@
   },
   {
     "id": 123373,
-    "name": "Ogemaw County",
+    "name": "Ogemaw",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -4082,7 +4082,7 @@
   },
   {
     "id": 123607,
-    "name": "Oscoda County",
+    "name": "Oscoda",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -4357,7 +4357,7 @@
   },
   {
     "id": 124650,
-    "name": "Presque Isle County",
+    "name": "Presque Isle",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -4808,7 +4808,7 @@
   },
   {
     "id": 125895,
-    "name": "Sanilac County",
+    "name": "Sanilac",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -4907,7 +4907,7 @@
   },
   {
     "id": 126345,
-    "name": "Shiawassee County",
+    "name": "Shiawassee",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -5292,7 +5292,7 @@
   },
   {
     "id": 127912,
-    "name": "Tuscola County",
+    "name": "Tuscola",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -5435,7 +5435,7 @@
   },
   {
     "id": 128592,
-    "name": "Washtenaw County",
+    "name": "Washtenaw",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,
@@ -5589,7 +5589,7 @@
   },
   {
     "id": 129097,
-    "name": "Wexford County",
+    "name": "Wexford",
     "state_id": 1426,
     "state_code": "MI",
     "country_id": 233,

@@ -11,17 +11,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105245,
-    "name": "Amphoe Bang Saphan Noi",
-    "state_id": 3508,
-    "state_code": "77",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "11.07057000",
-    "longitude": "99.34105000",
-    "wikiDataId": null
-  },
-  {
     "id": 105349,
     "name": "Amphoe Hua Hin",
     "state_id": 3508,
@@ -41,17 +30,6 @@
     "country_code": "TH",
     "latitude": "12.11311000",
     "longitude": "99.75462000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105577,
-    "name": "Amphoe Mueang Prachuap Khiri Khan",
-    "state_id": 3508,
-    "state_code": "77",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "11.87144000",
-    "longitude": "99.73563000",
     "wikiDataId": null
   },
   {
@@ -77,17 +55,6 @@
     "wikiDataId": null
   },
   {
-    "id": 106301,
-    "name": "Amphoe Thap Sakae",
-    "state_id": 3508,
-    "state_code": "77",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "11.54787000",
-    "longitude": "99.57159000",
-    "wikiDataId": null
-  },
-  {
     "id": 106445,
     "name": "Bang Saphan",
     "state_id": 3508,
@@ -96,6 +63,17 @@
     "country_code": "TH",
     "latitude": "11.21259000",
     "longitude": "99.51167000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105245,
+    "name": "Bang Saphan Noi",
+    "state_id": 3508,
+    "state_code": "77",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "11.07057000",
+    "longitude": "99.34105000",
     "wikiDataId": null
   },
   {
@@ -118,6 +96,17 @@
     "country_code": "TH",
     "latitude": "12.08283000",
     "longitude": "99.85431000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105577,
+    "name": "Mueang Prachuap Khiri Khan",
+    "state_id": 3508,
+    "state_code": "77",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "11.87144000",
+    "longitude": "99.73563000",
     "wikiDataId": null
   },
   {
@@ -151,6 +140,17 @@
     "country_code": "TH",
     "latitude": "12.27081000",
     "longitude": "99.87203000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106301,
+    "name": "Thap Sakae",
+    "state_id": 3508,
+    "state_code": "77",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "11.54787000",
+    "longitude": "99.57159000",
     "wikiDataId": null
   }
 ]

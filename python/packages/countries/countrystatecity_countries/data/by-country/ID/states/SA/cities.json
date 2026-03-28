@@ -1,7 +1,7 @@
 [
   {
     "id": 56368,
-    "name": "Kabupaten Bolaang Mongondow",
+    "name": "Bolaang Mongondow",
     "state_id": 1808,
     "state_code": "SA",
     "country_id": 102,
@@ -12,7 +12,7 @@
   },
   {
     "id": 56369,
-    "name": "Kabupaten Bolaang Mongondow Selatan",
+    "name": "Bolaang Mongondow Selatan",
     "state_id": 1808,
     "state_code": "SA",
     "country_id": 102,
@@ -23,7 +23,7 @@
   },
   {
     "id": 56370,
-    "name": "Kabupaten Bolaang Mongondow Timur",
+    "name": "Bolaang Mongondow Timur",
     "state_id": 1808,
     "state_code": "SA",
     "country_id": 102,
@@ -34,7 +34,7 @@
   },
   {
     "id": 56371,
-    "name": "Kabupaten Bolaang Mongondow Utara",
+    "name": "Bolaang Mongondow Utara",
     "state_id": 1808,
     "state_code": "SA",
     "country_id": 102,
@@ -45,7 +45,7 @@
   },
   {
     "id": 56454,
-    "name": "Kabupaten Kepulauan Sangihe",
+    "name": "Kepulauan Sangihe",
     "state_id": 1808,
     "state_code": "SA",
     "country_id": 102,
@@ -56,68 +56,13 @@
   },
   {
     "id": 56456,
-    "name": "Kabupaten Kepulauan Talaud",
+    "name": "Kepulauan Talaud",
     "state_id": 1808,
     "state_code": "SA",
     "country_id": 102,
     "country_code": "ID",
     "latitude": "4.31178000",
     "longitude": "126.78085000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56536,
-    "name": "Kabupaten Minahasa",
-    "state_id": 1808,
-    "state_code": "SA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "1.25370000",
-    "longitude": "124.83000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56537,
-    "name": "Kabupaten Minahasa Selatan",
-    "state_id": 1808,
-    "state_code": "SA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "1.21291000",
-    "longitude": "124.59708000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56538,
-    "name": "Kabupaten Minahasa Tenggara",
-    "state_id": 1808,
-    "state_code": "SA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "1.05633000",
-    "longitude": "124.79250000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56539,
-    "name": "Kabupaten Minahasa Utara",
-    "state_id": 1808,
-    "state_code": "SA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "1.40250000",
-    "longitude": "124.96000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56627,
-    "name": "Kabupaten Siau Tagulandang Biaro",
-    "state_id": 1808,
-    "state_code": "SA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "2.11728000",
-    "longitude": "125.37512000",
     "wikiDataId": null
   },
   {
@@ -140,6 +85,61 @@
     "country_code": "ID",
     "latitude": "1.48218000",
     "longitude": "124.84892000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56536,
+    "name": "Minahasa",
+    "state_id": 1808,
+    "state_code": "SA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "1.25370000",
+    "longitude": "124.83000000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56537,
+    "name": "Minahasa Selatan",
+    "state_id": 1808,
+    "state_code": "SA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "1.21291000",
+    "longitude": "124.59708000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56538,
+    "name": "Minahasa Tenggara",
+    "state_id": 1808,
+    "state_code": "SA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "1.05633000",
+    "longitude": "124.79250000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56539,
+    "name": "Minahasa Utara",
+    "state_id": 1808,
+    "state_code": "SA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "1.40250000",
+    "longitude": "124.96000000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56627,
+    "name": "Siau Tagulandang Biaro",
+    "state_id": 1808,
+    "state_code": "SA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "2.11728000",
+    "longitude": "125.37512000",
     "wikiDataId": null
   },
   {

@@ -1,5 +1,16 @@
 [
   {
+    "id": 157087,
+    "name": "Banan",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "29.44787400",
+    "longitude": "106.38924860",
+    "wikiDataId": null
+  },
+  {
     "id": 19327,
     "name": "Beibei",
     "state_id": 2271,
@@ -11,36 +22,91 @@
     "wikiDataId": null
   },
   {
-    "id": 19356,
-    "name": "Caijia",
+    "id": 157088,
+    "name": "Bishan",
     "state_id": 2271,
     "state_code": "CQ",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "28.90889000",
-    "longitude": "106.34040000",
+    "latitude": "29.58148280",
+    "longitude": "105.87890850",
     "wikiDataId": null
   },
   {
-    "id": 19404,
-    "name": "Chongqing",
+    "id": 157089,
+    "name": "Changshou",
     "state_id": 2271,
     "state_code": "CQ",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "29.56278000",
-    "longitude": "106.55278000",
+    "latitude": "29.97443950",
+    "longitude": "106.82844880",
     "wikiDataId": null
   },
   {
-    "id": 19479,
-    "name": "Dongxi",
+    "id": 157090,
+    "name": "Chengkou",
     "state_id": 2271,
     "state_code": "CQ",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "28.76139000",
-    "longitude": "106.66111000",
+    "latitude": "31.90977240",
+    "longitude": "108.11183850",
+    "wikiDataId": null
+  },
+  {
+    "id": 157091,
+    "name": "Dadukou",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "29.42019070",
+    "longitude": "106.38150430",
+    "wikiDataId": null
+  },
+  {
+    "id": 157092,
+    "name": "Dazu",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "29.61547250",
+    "longitude": "105.42487360",
+    "wikiDataId": null
+  },
+  {
+    "id": 157093,
+    "name": "Dianjiang",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "30.24436230",
+    "longitude": "107.12759910",
+    "wikiDataId": null
+  },
+  {
+    "id": 157094,
+    "name": "Fengdu",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "29.90471010",
+    "longitude": "107.51494870",
+    "wikiDataId": null
+  },
+  {
+    "id": 157095,
+    "name": "Fengjie",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "30.92856680",
+    "longitude": "109.06452940",
     "wikiDataId": null
   },
   {
@@ -66,17 +132,6 @@
     "wikiDataId": null
   },
   {
-    "id": 19577,
-    "name": "Guofuchang",
-    "state_id": 2271,
-    "state_code": "CQ",
-    "country_id": 45,
-    "country_code": "CN",
-    "latitude": "28.85000000",
-    "longitude": "106.60139000",
-    "wikiDataId": null
-  },
-  {
     "id": 19604,
     "name": "Hechuan",
     "state_id": 2271,
@@ -88,19 +143,52 @@
     "wikiDataId": null
   },
   {
-    "id": 19724,
-    "name": "Jijiang",
+    "id": 157096,
+    "name": "Jiangbei",
     "state_id": 2271,
     "state_code": "CQ",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "29.28993000",
-    "longitude": "106.25001000",
+    "latitude": "29.61530810",
+    "longitude": "106.50724230",
+    "wikiDataId": null
+  },
+  {
+    "id": 157097,
+    "name": "Jiangjin",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "28.98759800",
+    "longitude": "105.88772330",
+    "wikiDataId": null
+  },
+  {
+    "id": 157098,
+    "name": "Jiulongpo",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "29.40706850",
+    "longitude": "106.23737730",
+    "wikiDataId": null
+  },
+  {
+    "id": 157099,
+    "name": "Kaizhou",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "31.25471700",
+    "longitude": "107.75789160",
     "wikiDataId": null
   },
   {
     "id": 19815,
-    "name": "Liangping District",
+    "name": "Liangping",
     "state_id": 2271,
     "state_code": "CQ",
     "country_id": 45,
@@ -110,19 +198,74 @@
     "wikiDataId": null
   },
   {
-    "id": 19991,
-    "name": "Puhechang",
+    "id": 157100,
+    "name": "Nan'an",
     "state_id": 2271,
     "state_code": "CQ",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "28.95250000",
-    "longitude": "106.83111000",
+    "latitude": "29.53763820",
+    "longitude": "106.50186730",
+    "wikiDataId": null
+  },
+  {
+    "id": 157101,
+    "name": "Nanchuan",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "29.12904170",
+    "longitude": "106.83693330",
+    "wikiDataId": null
+  },
+  {
+    "id": 157102,
+    "name": "Pengshui",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "29.39765940",
+    "longitude": "107.87190350",
+    "wikiDataId": null
+  },
+  {
+    "id": 157103,
+    "name": "Qianjiang",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "29.46926380",
+    "longitude": "108.39098350",
+    "wikiDataId": null
+  },
+  {
+    "id": 157104,
+    "name": "Qijiang",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "28.81947440",
+    "longitude": "106.39312320",
+    "wikiDataId": null
+  },
+  {
+    "id": 157105,
+    "name": "Rongchang",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "29.46985840",
+    "longitude": "105.35059720",
     "wikiDataId": null
   },
   {
     "id": 20084,
-    "name": "Shapingba District",
+    "name": "Shapingba",
     "state_id": 2271,
     "state_code": "CQ",
     "country_id": 45,
@@ -132,36 +275,91 @@
     "wikiDataId": null
   },
   {
-    "id": 20095,
-    "name": "Shijiaochang",
+    "id": 157106,
+    "name": "Shizhu",
     "state_id": 2271,
     "state_code": "CQ",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "28.92444000",
-    "longitude": "106.75611000",
+    "latitude": "30.09969360",
+    "longitude": "107.95632390",
     "wikiDataId": null
   },
   {
-    "id": 20211,
-    "name": "Wanxian",
+    "id": 157107,
+    "name": "Tongliang",
     "state_id": 2271,
     "state_code": "CQ",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.81544000",
-    "longitude": "108.37089000",
+    "latitude": "29.80704080",
+    "longitude": "105.69984370",
+    "wikiDataId": null
+  },
+  {
+    "id": 157108,
+    "name": "Tongnan",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "30.11225830",
+    "longitude": "105.44838890",
     "wikiDataId": null
   },
   {
     "id": 20212,
-    "name": "Wanzhou District",
+    "name": "Wanzhou",
     "state_id": 2271,
     "state_code": "CQ",
     "country_id": 45,
     "country_code": "CN",
     "latitude": "30.70576000",
     "longitude": "108.40202000",
+    "wikiDataId": null
+  },
+  {
+    "id": 157109,
+    "name": "Wulong",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "29.35065470",
+    "longitude": "107.32680340",
+    "wikiDataId": null
+  },
+  {
+    "id": 157110,
+    "name": "Wushan",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "31.12042030",
+    "longitude": "109.55370450",
+    "wikiDataId": null
+  },
+  {
+    "id": 157111,
+    "name": "Wuxi",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "31.47945020",
+    "longitude": "108.67888230",
+    "wikiDataId": null
+  },
+  {
+    "id": 157112,
+    "name": "Xiushan",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "28.52112710",
+    "longitude": "108.68845800",
     "wikiDataId": null
   },
   {
@@ -176,25 +374,58 @@
     "wikiDataId": null
   },
   {
-    "id": 20395,
-    "name": "Yudong",
+    "id": 157113,
+    "name": "Youyang",
     "state_id": 2271,
     "state_code": "CQ",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "29.38500000",
-    "longitude": "106.51944000",
+    "latitude": "28.86229080",
+    "longitude": "108.15828510",
+    "wikiDataId": null
+  },
+  {
+    "id": 157114,
+    "name": "Yubei",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "29.84794050",
+    "longitude": "106.38773870",
+    "wikiDataId": null
+  },
+  {
+    "id": 157115,
+    "name": "Yunyang",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "31.00952620",
+    "longitude": "108.50273450",
     "wikiDataId": null
   },
   {
     "id": 20412,
-    "name": "Yuzhong District",
+    "name": "Yuzhong",
     "state_id": 2271,
     "state_code": "CQ",
     "country_id": 45,
     "country_code": "CN",
     "latitude": "29.55208000",
     "longitude": "106.53814000",
+    "wikiDataId": null
+  },
+  {
+    "id": 157116,
+    "name": "Zhong",
+    "state_id": 2271,
+    "state_code": "CQ",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "30.31972670",
+    "longitude": "107.56516910",
     "wikiDataId": null
   }
 ]

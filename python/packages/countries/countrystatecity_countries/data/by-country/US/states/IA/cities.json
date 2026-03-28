@@ -12,7 +12,7 @@
   },
   {
     "id": 111010,
-    "name": "Adair County",
+    "name": "Adair",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -78,7 +78,7 @@
   },
   {
     "id": 111176,
-    "name": "Allamakee County",
+    "name": "Allamakee",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -177,7 +177,7 @@
   },
   {
     "id": 111391,
-    "name": "Appanoose County",
+    "name": "Appanoose",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -342,7 +342,7 @@
   },
   {
     "id": 112377,
-    "name": "Black Hawk County",
+    "name": "Black Hawk",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -408,7 +408,7 @@
   },
   {
     "id": 112722,
-    "name": "Bremer County",
+    "name": "Bremer",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -452,7 +452,7 @@
   },
   {
     "id": 113005,
-    "name": "Buena Vista County",
+    "name": "Buena Vista",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -584,7 +584,7 @@
   },
   {
     "id": 113529,
-    "name": "Cass County",
+    "name": "Cass",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -595,7 +595,7 @@
   },
   {
     "id": 113605,
-    "name": "Cedar County",
+    "name": "Cedar",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -661,7 +661,7 @@
   },
   {
     "id": 113703,
-    "name": "Cerro Gordo County",
+    "name": "Cerro Gordo",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -716,7 +716,7 @@
   },
   {
     "id": 113940,
-    "name": "Chickasaw County",
+    "name": "Chickasaw",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -749,7 +749,7 @@
   },
   {
     "id": 114138,
-    "name": "Clarke County",
+    "name": "Clarke",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -925,7 +925,7 @@
   },
   {
     "id": 114780,
-    "name": "Crawford County",
+    "name": "Crawford",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -1002,7 +1002,7 @@
   },
   {
     "id": 115074,
-    "name": "Davis County",
+    "name": "Davis",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -1112,7 +1112,7 @@
   },
   {
     "id": 115328,
-    "name": "Dickinson County",
+    "name": "Dickinson",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -1277,7 +1277,7 @@
   },
   {
     "id": 116102,
-    "name": "Emmet County",
+    "name": "Emmet",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -1453,7 +1453,7 @@
   },
   {
     "id": 116925,
-    "name": "Fremont County",
+    "name": "Fremont",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -1584,6 +1584,17 @@
     "wikiDataId": null
   },
   {
+    "id": 117771,
+    "name": "Grundy",
+    "state_id": 1459,
+    "state_code": "IA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "42.40187000",
+    "longitude": "-92.79142000",
+    "wikiDataId": null
+  },
+  {
     "id": 117769,
     "name": "Grundy Center",
     "state_id": 1459,
@@ -1595,14 +1606,14 @@
     "wikiDataId": null
   },
   {
-    "id": 117771,
-    "name": "Grundy County",
+    "id": 117815,
+    "name": "Guthrie",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
     "country_code": "US",
-    "latitude": "42.40187000",
-    "longitude": "-92.79142000",
+    "latitude": "41.68375000",
+    "longitude": "-94.50105000",
     "wikiDataId": null
   },
   {
@@ -1614,17 +1625,6 @@
     "country_code": "US",
     "latitude": "41.67721000",
     "longitude": "-94.50330000",
-    "wikiDataId": null
-  },
-  {
-    "id": 117815,
-    "name": "Guthrie County",
-    "state_id": 1459,
-    "state_code": "IA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "41.68375000",
-    "longitude": "-94.50105000",
     "wikiDataId": null
   },
   {
@@ -1772,7 +1772,7 @@
   },
   {
     "id": 118715,
-    "name": "Howard County",
+    "name": "Howard",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -1838,7 +1838,7 @@
   },
   {
     "id": 118866,
-    "name": "Ida County",
+    "name": "Ida",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -1881,6 +1881,17 @@
     "wikiDataId": null
   },
   {
+    "id": 118978,
+    "name": "Iowa",
+    "state_id": 1459,
+    "state_code": "IA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.68632000",
+    "longitude": "-92.06552000",
+    "wikiDataId": null
+  },
+  {
     "id": 118976,
     "name": "Iowa City",
     "state_id": 1459,
@@ -1889,17 +1900,6 @@
     "country_code": "US",
     "latitude": "41.66113000",
     "longitude": "-91.53017000",
-    "wikiDataId": null
-  },
-  {
-    "id": 118978,
-    "name": "Iowa County",
-    "state_id": 1459,
-    "state_code": "IA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "41.68632000",
-    "longitude": "-92.06552000",
     "wikiDataId": null
   },
   {
@@ -2003,7 +2003,7 @@
   },
   {
     "id": 119296,
-    "name": "Jones County",
+    "name": "Jones",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -2080,7 +2080,7 @@
   },
   {
     "id": 119711,
-    "name": "Kossuth County",
+    "name": "Kossuth",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -2201,7 +2201,7 @@
   },
   {
     "id": 120316,
-    "name": "Lee County",
+    "name": "Lee",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -2289,7 +2289,7 @@
   },
   {
     "id": 120861,
-    "name": "Lucas County",
+    "name": "Lucas",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -2300,7 +2300,7 @@
   },
   {
     "id": 120937,
-    "name": "Lyon County",
+    "name": "Lyon",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -2344,7 +2344,7 @@
   },
   {
     "id": 121042,
-    "name": "Mahaska County",
+    "name": "Mahaska",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -2553,7 +2553,7 @@
   },
   {
     "id": 121898,
-    "name": "Mills County",
+    "name": "Mills",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -2575,7 +2575,7 @@
   },
   {
     "id": 122002,
-    "name": "Mitchell County",
+    "name": "Mitchell",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -2861,7 +2861,7 @@
   },
   {
     "id": 123225,
-    "name": "O'Brien County",
+    "name": "O'Brien",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -2982,7 +2982,7 @@
   },
   {
     "id": 123719,
-    "name": "Page County",
+    "name": "Page",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -3004,7 +3004,7 @@
   },
   {
     "id": 123782,
-    "name": "Palo Alto County",
+    "name": "Palo Alto",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -3146,6 +3146,17 @@
     "wikiDataId": null
   },
   {
+    "id": 124447,
+    "name": "Polk",
+    "state_id": 1459,
+    "state_code": "IA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.68550000",
+    "longitude": "-93.57353000",
+    "wikiDataId": null
+  },
+  {
     "id": 124439,
     "name": "Polk City",
     "state_id": 1459,
@@ -3154,17 +3165,6 @@
     "country_code": "US",
     "latitude": "41.77138000",
     "longitude": "-93.71300000",
-    "wikiDataId": null
-  },
-  {
-    "id": 124447,
-    "name": "Polk County",
-    "state_id": 1459,
-    "state_code": "IA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "41.68550000",
-    "longitude": "-93.57353000",
     "wikiDataId": null
   },
   {
@@ -3180,7 +3180,7 @@
   },
   {
     "id": 124591,
-    "name": "Pottawattamie County",
+    "name": "Pottawattamie",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -3191,7 +3191,7 @@
   },
   {
     "id": 124617,
-    "name": "Poweshiek County",
+    "name": "Poweshiek",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -3268,7 +3268,7 @@
   },
   {
     "id": 125143,
-    "name": "Ringgold County",
+    "name": "Ringgold",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -3344,6 +3344,17 @@
     "wikiDataId": null
   },
   {
+    "id": 125572,
+    "name": "Sac",
+    "state_id": 1459,
+    "state_code": "IA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "42.38626000",
+    "longitude": "-95.10539000",
+    "wikiDataId": null
+  },
+  {
     "id": 125571,
     "name": "Sac City",
     "state_id": 1459,
@@ -3352,17 +3363,6 @@
     "country_code": "US",
     "latitude": "42.42220000",
     "longitude": "-94.98971000",
-    "wikiDataId": null
-  },
-  {
-    "id": 125572,
-    "name": "Sac County",
-    "state_id": 1459,
-    "state_code": "IA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "42.38626000",
-    "longitude": "-95.10539000",
     "wikiDataId": null
   },
   {
@@ -3400,7 +3400,7 @@
   },
   {
     "id": 126051,
-    "name": "Scott County",
+    "name": "Scott",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -3509,6 +3509,17 @@
     "wikiDataId": null
   },
   {
+    "id": 126459,
+    "name": "Sioux",
+    "state_id": 1459,
+    "state_code": "IA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "43.08262000",
+    "longitude": "-96.17788000",
+    "wikiDataId": null
+  },
+  {
     "id": 126457,
     "name": "Sioux Center",
     "state_id": 1459,
@@ -3528,17 +3539,6 @@
     "country_code": "US",
     "latitude": "42.49999000",
     "longitude": "-96.40031000",
-    "wikiDataId": null
-  },
-  {
-    "id": 126459,
-    "name": "Sioux County",
-    "state_id": 1459,
-    "state_code": "IA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "43.08262000",
-    "longitude": "-96.17788000",
     "wikiDataId": null
   },
   {
@@ -3619,6 +3619,17 @@
     "wikiDataId": null
   },
   {
+    "id": 127107,
+    "name": "Story",
+    "state_id": 1459,
+    "state_code": "IA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "42.03624000",
+    "longitude": "-93.46504000",
+    "wikiDataId": null
+  },
+  {
     "id": 127106,
     "name": "Story City",
     "state_id": 1459,
@@ -3627,17 +3638,6 @@
     "country_code": "US",
     "latitude": "42.18721000",
     "longitude": "-93.59577000",
-    "wikiDataId": null
-  },
-  {
-    "id": 127107,
-    "name": "Story County",
-    "state_id": 1459,
-    "state_code": "IA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "42.03624000",
-    "longitude": "-93.46504000",
     "wikiDataId": null
   },
   {
@@ -3982,6 +3982,17 @@
     "wikiDataId": null
   },
   {
+    "id": 128741,
+    "name": "Webster",
+    "state_id": 1459,
+    "state_code": "IA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "42.42797000",
+    "longitude": "-94.18179000",
+    "wikiDataId": null
+  },
+  {
     "id": 128735,
     "name": "Webster City",
     "state_id": 1459,
@@ -3990,17 +4001,6 @@
     "country_code": "US",
     "latitude": "42.46942000",
     "longitude": "-93.81605000",
-    "wikiDataId": null
-  },
-  {
-    "id": 128741,
-    "name": "Webster County",
-    "state_id": 1459,
-    "state_code": "IA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "42.42797000",
-    "longitude": "-94.18179000",
     "wikiDataId": null
   },
   {
@@ -4126,7 +4126,7 @@
   },
   {
     "id": 129413,
-    "name": "Winneshiek County",
+    "name": "Winneshiek",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -4159,7 +4159,7 @@
   },
   {
     "id": 129512,
-    "name": "Woodbury County",
+    "name": "Woodbury",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -4181,7 +4181,7 @@
   },
   {
     "id": 129593,
-    "name": "Worth County",
+    "name": "Worth",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,
@@ -4192,7 +4192,7 @@
   },
   {
     "id": 129609,
-    "name": "Wright County",
+    "name": "Wright",
     "state_id": 1459,
     "state_code": "IA",
     "country_id": 233,

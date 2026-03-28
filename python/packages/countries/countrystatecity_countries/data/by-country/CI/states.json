@@ -13,32 +13,6 @@
     "timezone": "Africa/Abidjan"
   },
   {
-    "id": 2626,
-    "name": "Agnéby",
-    "country_id": 54,
-    "country_code": "CI",
-    "state_code": "16",
-    "type": "region",
-    "latitude": "5.32245030",
-    "longitude": "-4.34495290",
-    "iso3166_2": "CI-16",
-    "native": "Agnéby",
-    "timezone": "Africa/Abidjan"
-  },
-  {
-    "id": 2636,
-    "name": "Bafing",
-    "country_id": 54,
-    "country_code": "CI",
-    "state_code": "17",
-    "type": "region",
-    "latitude": "8.32520470",
-    "longitude": "-7.52472430",
-    "iso3166_2": "CI-17",
-    "native": "Brafing",
-    "timezone": "Africa/Abidjan"
-  },
-  {
     "id": 2643,
     "name": "Bas-Sassandra",
     "country_id": 54,
@@ -78,32 +52,6 @@
     "timezone": "Africa/Abidjan"
   },
   {
-    "id": 2645,
-    "name": "Dix-Huit Montagnes",
-    "country_id": 54,
-    "country_code": "CI",
-    "state_code": "06",
-    "type": "region",
-    "latitude": "7.37623730",
-    "longitude": "-7.43813550",
-    "iso3166_2": "CI-06",
-    "native": "Dix-Huit Montagnes",
-    "timezone": "Africa/Abidjan"
-  },
-  {
-    "id": 2633,
-    "name": "Fromager",
-    "country_id": 54,
-    "country_code": "CI",
-    "state_code": "18",
-    "type": "region",
-    "latitude": "45.54502130",
-    "longitude": "-73.60462230",
-    "iso3166_2": "CI-18",
-    "native": "Fromager",
-    "timezone": "Africa/Abidjan"
-  },
-  {
     "id": 2651,
     "name": "Gôh-Djiboua",
     "country_id": 54,
@@ -114,19 +62,6 @@
     "longitude": "-5.56172790",
     "iso3166_2": "CI-GD",
     "native": "Gôh-Djiboua",
-    "timezone": "Africa/Abidjan"
-  },
-  {
-    "id": 2638,
-    "name": "Haut-Sassandra",
-    "country_id": 54,
-    "country_code": "CI",
-    "state_code": "02",
-    "type": "region",
-    "latitude": "6.87578480",
-    "longitude": "-6.57833870",
-    "iso3166_2": "CI-02",
-    "native": "Haut-Sassandra",
     "timezone": "Africa/Abidjan"
   },
   {
@@ -156,19 +91,6 @@
     "timezone": "Africa/Abidjan"
   },
   {
-    "id": 2631,
-    "name": "Marahoué",
-    "country_id": 54,
-    "country_code": "CI",
-    "state_code": "12",
-    "type": "region",
-    "latitude": "6.88462070",
-    "longitude": "-5.89871390",
-    "iso3166_2": "CI-12",
-    "native": "Marahoué",
-    "timezone": "Africa/Abidjan"
-  },
-  {
     "id": 2629,
     "name": "Montagnes",
     "country_id": 54,
@@ -179,45 +101,6 @@
     "longitude": "-9.10706440",
     "iso3166_2": "CI-MG",
     "native": "Montagnes",
-    "timezone": "Africa/Abidjan"
-  },
-  {
-    "id": 2646,
-    "name": "Moyen-Cavally",
-    "country_id": 54,
-    "country_code": "CI",
-    "state_code": "19",
-    "type": "region",
-    "latitude": "6.52087930",
-    "longitude": "-7.61142170",
-    "iso3166_2": "CI-19",
-    "native": "Moyen-cavally",
-    "timezone": "Africa/Abidjan"
-  },
-  {
-    "id": 2630,
-    "name": "Moyen-Comoé",
-    "country_id": 54,
-    "country_code": "CI",
-    "state_code": "05",
-    "type": "region",
-    "latitude": "6.65149170",
-    "longitude": "-3.50034540",
-    "iso3166_2": "CI-05",
-    "native": "Moyen-Comoé",
-    "timezone": "Africa/Abidjan"
-  },
-  {
-    "id": 2655,
-    "name": "N'zi-Comoé",
-    "country_id": 54,
-    "country_code": "CI",
-    "state_code": "11",
-    "type": "region",
-    "latitude": "7.24567490",
-    "longitude": "-4.23333550",
-    "iso3166_2": "CI-11",
-    "native": "N'zi-Comoé",
     "timezone": "Africa/Abidjan"
   },
   {
@@ -238,38 +121,12 @@
     "name": "Savanes",
     "country_id": 54,
     "country_code": "CI",
-    "state_code": "03",
-    "type": "region",
+    "state_code": "SV",
+    "type": "district",
     "latitude": "9.63735270",
     "longitude": "-6.70071860",
-    "iso3166_2": "CI-03",
+    "iso3166_2": "CI-SV",
     "native": "Savanes",
-    "timezone": "Africa/Abidjan"
-  },
-  {
-    "id": 2628,
-    "name": "Sud-Bandama",
-    "country_id": 54,
-    "country_code": "CI",
-    "state_code": "15",
-    "type": "region",
-    "latitude": "5.53570830",
-    "longitude": "-5.56172790",
-    "iso3166_2": "CI-15",
-    "native": "Sud-Bandama",
-    "timezone": "Africa/Abidjan"
-  },
-  {
-    "id": 2652,
-    "name": "Sud-Comoé",
-    "country_id": 54,
-    "country_code": "CI",
-    "state_code": "13",
-    "type": "region",
-    "latitude": "5.66697040",
-    "longitude": "-3.94723050",
-    "iso3166_2": "CI-13",
-    "native": "Sud-Comoé",
     "timezone": "Africa/Abidjan"
   },
   {
@@ -296,19 +153,6 @@
     "longitude": "-6.92091350",
     "iso3166_2": "CI-WR",
     "native": "Ver",
-    "timezone": "Africa/Abidjan"
-  },
-  {
-    "id": 2649,
-    "name": "Worodougou",
-    "country_id": 54,
-    "country_code": "CI",
-    "state_code": "14",
-    "type": "region",
-    "latitude": "8.25489620",
-    "longitude": "-6.57833870",
-    "iso3166_2": "CI-14",
-    "native": "Worodougou",
     "timezone": "Africa/Abidjan"
   },
   {

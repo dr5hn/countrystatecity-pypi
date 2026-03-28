@@ -55,17 +55,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105824,
-    "name": "Amphoe Sai Noi",
-    "state_id": 3495,
-    "state_code": "12",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.00627000",
-    "longitude": "100.31072000",
-    "wikiDataId": null
-  },
-  {
     "id": 106423,
     "name": "Bang Bua Thong",
     "state_id": 3495,
@@ -118,6 +107,17 @@
     "country_code": "TH",
     "latitude": "13.91301000",
     "longitude": "100.49883000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105824,
+    "name": "Sai Noi",
+    "state_id": 3495,
+    "state_code": "12",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.00627000",
+    "longitude": "100.31072000",
     "wikiDataId": null
   }
 ]

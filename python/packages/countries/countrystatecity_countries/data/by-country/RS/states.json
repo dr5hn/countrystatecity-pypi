@@ -78,6 +78,58 @@
     "timezone": "Europe/Belgrade"
   },
   {
+    "id": 5689,
+    "name": "Kosovo",
+    "country_id": 196,
+    "country_code": "RS",
+    "state_code": "25",
+    "type": "district",
+    "latitude": "42.66333333",
+    "longitude": "21.16222222",
+    "iso3166_2": "RS-25",
+    "native": "Косово",
+    "timezone": "Europe/Belgrade"
+  },
+  {
+    "id": 5688,
+    "name": "Kosovo-Metohija",
+    "country_id": 196,
+    "country_code": "RS",
+    "state_code": "KM",
+    "type": "province",
+    "latitude": "42.66666667",
+    "longitude": "21.16666667",
+    "iso3166_2": "RS-KM",
+    "native": "Косово и Метохија",
+    "timezone": "Europe/Belgrade"
+  },
+  {
+    "id": 5693,
+    "name": "Kosovo-Pomoravlje",
+    "country_id": 196,
+    "country_code": "RS",
+    "state_code": "29",
+    "type": "district",
+    "latitude": "42.53330000",
+    "longitude": "21.56670000",
+    "iso3166_2": "RS-29",
+    "native": "Косовско-Поморавље",
+    "timezone": "Europe/Belgrade"
+  },
+  {
+    "id": 5692,
+    "name": "Kosovska Mitrovica",
+    "country_id": 196,
+    "country_code": "RS",
+    "state_code": "28",
+    "type": "district",
+    "latitude": "42.88333333",
+    "longitude": "20.86666667",
+    "iso3166_2": "RS-28",
+    "native": "Косовска Митровица",
+    "timezone": "Europe/Belgrade"
+  },
+  {
     "id": 3719,
     "name": "Mačva",
     "country_id": 196,
@@ -156,6 +208,19 @@
     "timezone": "Europe/Belgrade"
   },
   {
+    "id": 5690,
+    "name": "Peć",
+    "country_id": 196,
+    "country_code": "RS",
+    "state_code": "26",
+    "type": "district",
+    "latitude": "42.66000000",
+    "longitude": "20.28800000",
+    "iso3166_2": "RS-26",
+    "native": "Пећ",
+    "timezone": "Europe/Belgrade"
+  },
+  {
     "id": 3712,
     "name": "Pirot",
     "country_id": 196,
@@ -192,6 +257,19 @@
     "longitude": "21.44085670",
     "iso3166_2": "RS-13",
     "native": "Морски",
+    "timezone": "Europe/Belgrade"
+  },
+  {
+    "id": 5691,
+    "name": "Prizren",
+    "country_id": 196,
+    "country_code": "RS",
+    "state_code": "27",
+    "type": "district",
+    "latitude": "42.21277778",
+    "longitude": "20.73916667",
+    "iso3166_2": "RS-27",
+    "native": "Призрен",
     "timezone": "Europe/Belgrade"
   },
   {

@@ -13,19 +13,6 @@
     "timezone": "America/Nassau"
   },
   {
-    "id": 3628,
-    "name": "Acklins and Crooked Islands",
-    "country_id": 17,
-    "country_code": "BS",
-    "state_code": "AC",
-    "type": "district",
-    "latitude": "22.50764240",
-    "longitude": "-74.44170410",
-    "iso3166_2": "BS-AC",
-    "native": "Acklins and Crooked Islands",
-    "timezone": "America/Nassau"
-  },
-  {
     "id": 3593,
     "name": "Berry Islands",
     "country_id": 17,
@@ -169,32 +156,6 @@
     "timezone": "America/Nassau"
   },
   {
-    "id": 3619,
-    "name": "Fresh Creek",
-    "country_id": 17,
-    "country_code": "BS",
-    "state_code": "FC",
-    "type": "district",
-    "latitude": "24.72491610",
-    "longitude": "-77.78576730",
-    "iso3166_2": "BS-FC",
-    "native": "Fresh Creek",
-    "timezone": "America/Nassau"
-  },
-  {
-    "id": 3597,
-    "name": "Governor's Harbour",
-    "country_id": 17,
-    "country_code": "BS",
-    "state_code": "GH",
-    "type": "district",
-    "latitude": "25.19480960",
-    "longitude": "-76.24396220",
-    "iso3166_2": "BS-GH",
-    "native": "Governor's Harbour",
-    "timezone": "America/Nassau"
-  },
-  {
     "id": 3632,
     "name": "Grand Cay",
     "country_id": 17,
@@ -208,19 +169,6 @@
     "timezone": "America/Nassau"
   },
   {
-    "id": 3595,
-    "name": "Green Turtle Cay",
-    "country_id": 17,
-    "country_code": "BS",
-    "state_code": "GT",
-    "type": "district",
-    "latitude": "26.77471070",
-    "longitude": "-77.32957080",
-    "iso3166_2": "BS-GT",
-    "native": "Green Turtle Cay",
-    "timezone": "America/Nassau"
-  },
-  {
     "id": 3613,
     "name": "Harbour Island",
     "country_id": 17,
@@ -231,19 +179,6 @@
     "longitude": "-76.63405110",
     "iso3166_2": "BS-HI",
     "native": "Harbour Island",
-    "timezone": "America/Nassau"
-  },
-  {
-    "id": 3598,
-    "name": "High Rock",
-    "country_id": 17,
-    "country_code": "BS",
-    "state_code": "HR",
-    "type": "district",
-    "latitude": "26.62649270",
-    "longitude": "-78.28322360",
-    "iso3166_2": "BS-HR",
-    "native": "High Rock",
     "timezone": "America/Nassau"
   },
   {
@@ -273,19 +208,6 @@
     "timezone": "America/Nassau"
   },
   {
-    "id": 3618,
-    "name": "Kemps Bay",
-    "country_id": 17,
-    "country_code": "BS",
-    "state_code": "KB",
-    "type": "district",
-    "latitude": "24.09468110",
-    "longitude": "-77.54859330",
-    "iso3166_2": "BS-KB",
-    "native": "Kemps Bay",
-    "timezone": "America/Nassau"
-  },
-  {
     "id": 3610,
     "name": "Long Island",
     "country_id": 17,
@@ -312,19 +234,6 @@
     "timezone": "America/Nassau"
   },
   {
-    "id": 3604,
-    "name": "Marsh Harbour",
-    "country_id": 17,
-    "country_code": "BS",
-    "state_code": "MH",
-    "type": "district",
-    "latitude": "26.53827280",
-    "longitude": "-77.06103820",
-    "iso3166_2": "BS-MH",
-    "native": "Marsh Harbour",
-    "timezone": "America/Nassau"
-  },
-  {
     "id": 3633,
     "name": "Mayaguana",
     "country_id": 17,
@@ -338,6 +247,19 @@
     "timezone": "America/Nassau"
   },
   {
+    "id": 5717,
+    "name": "Moore's Island",
+    "country_id": 17,
+    "country_code": "BS",
+    "state_code": "MI",
+    "type": "district",
+    "latitude": "25.86666700",
+    "longitude": "-77.96666700",
+    "iso3166_2": "BS-MI",
+    "native": "Moore's Island",
+    "timezone": "America/Nassau"
+  },
+  {
     "id": 4881,
     "name": "New Providence",
     "country_id": 17,
@@ -348,19 +270,6 @@
     "longitude": "-77.29532970",
     "iso3166_2": "BS-NP",
     "native": "New Providence",
-    "timezone": "America/Nassau"
-  },
-  {
-    "id": 3594,
-    "name": "Nichollstown and Berry Islands",
-    "country_id": 17,
-    "country_code": "BS",
-    "state_code": "NB",
-    "type": "district",
-    "latitude": "25.72362340",
-    "longitude": "-77.83101040",
-    "iso3166_2": "BS-NB",
-    "native": "Nichollstown and Berry Islands",
     "timezone": "America/Nassau"
   },
   {
@@ -416,19 +325,6 @@
     "timezone": "America/Nassau"
   },
   {
-    "id": 3623,
-    "name": "Rock Sound",
-    "country_id": 17,
-    "country_code": "BS",
-    "state_code": "RS",
-    "type": "district",
-    "latitude": "24.86445420",
-    "longitude": "-76.15848350",
-    "iso3166_2": "BS-RS",
-    "native": "Rock Sound",
-    "timezone": "America/Nassau"
-  },
-  {
     "id": 3600,
     "name": "Rum Cay",
     "country_id": 17,
@@ -442,19 +338,6 @@
     "timezone": "America/Nassau"
   },
   {
-    "id": 3620,
-    "name": "San Salvador and Rum Cay",
-    "country_id": 17,
-    "country_code": "BS",
-    "state_code": "SR",
-    "type": "district",
-    "latitude": "23.68546760",
-    "longitude": "-74.83901620",
-    "iso3166_2": "BS-SR",
-    "native": "San Salvador and Rum Cay",
-    "timezone": "America/Nassau"
-  },
-  {
     "id": 3627,
     "name": "San Salvador Island",
     "country_id": 17,
@@ -465,19 +348,6 @@
     "longitude": "-74.48513730",
     "iso3166_2": "BS-SS",
     "native": "San Salvador Island",
-    "timezone": "America/Nassau"
-  },
-  {
-    "id": 3606,
-    "name": "Sandy Point",
-    "country_id": 17,
-    "country_code": "BS",
-    "state_code": "SP",
-    "type": "district",
-    "latitude": "26.02573290",
-    "longitude": "-77.39934080",
-    "iso3166_2": "BS-SP",
-    "native": "Sandy Point",
     "timezone": "America/Nassau"
   },
   {

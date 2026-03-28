@@ -11,17 +11,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56517,
-    "name": "Kabupaten Mamasa",
-    "state_id": 1817,
-    "state_code": "SR",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.96492000",
-    "longitude": "119.30631000",
-    "wikiDataId": null
-  },
-  {
     "id": 56520,
     "name": "Kabupaten Mamuju",
     "state_id": 1817,
@@ -30,39 +19,6 @@
     "country_code": "ID",
     "latitude": "-2.50000000",
     "longitude": "119.41667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56521,
-    "name": "Kabupaten Mamuju Tengah",
-    "state_id": 1817,
-    "state_code": "SR",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.82120000",
-    "longitude": "119.26620000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56522,
-    "name": "Kabupaten Mamuju Utara",
-    "state_id": 1817,
-    "state_code": "SR",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.51639000",
-    "longitude": "119.42139000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56596,
-    "name": "Kabupaten Polewali Mandar",
-    "state_id": 1817,
-    "state_code": "SR",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.30000000",
-    "longitude": "119.16667000",
     "wikiDataId": null
   },
   {
@@ -77,6 +33,17 @@
     "wikiDataId": null
   },
   {
+    "id": 56517,
+    "name": "Mamasa",
+    "state_id": 1817,
+    "state_code": "SR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.96492000",
+    "longitude": "119.30631000",
+    "wikiDataId": null
+  },
+  {
     "id": 56857,
     "name": "Mamuju",
     "state_id": 1817,
@@ -88,6 +55,28 @@
     "wikiDataId": null
   },
   {
+    "id": 56521,
+    "name": "Mamuju Tengah",
+    "state_id": 1817,
+    "state_code": "SR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.82120000",
+    "longitude": "119.26620000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56522,
+    "name": "Mamuju Utara",
+    "state_id": 1817,
+    "state_code": "SR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.51639000",
+    "longitude": "119.42139000",
+    "wikiDataId": null
+  },
+  {
     "id": 56935,
     "name": "Polewali",
     "state_id": 1817,
@@ -96,6 +85,17 @@
     "country_code": "ID",
     "latitude": "-3.43240000",
     "longitude": "119.34350000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56596,
+    "name": "Polewali Mandar",
+    "state_id": 1817,
+    "state_code": "SR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.30000000",
+    "longitude": "119.16667000",
     "wikiDataId": null
   }
 ]

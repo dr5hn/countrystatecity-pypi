@@ -1,16 +1,5 @@
 [
   {
-    "id": 105262,
-    "name": "Amphoe Bueng Sam Phan",
-    "state_id": 3515,
-    "state_code": "67",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.81650000",
-    "longitude": "101.00399000",
-    "wikiDataId": null
-  },
-  {
     "id": 105306,
     "name": "Amphoe Chon Daen",
     "state_id": 3515,
@@ -19,28 +8,6 @@
     "country_code": "TH",
     "latitude": "16.10735000",
     "longitude": "100.83572000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105395,
-    "name": "Amphoe Khao Kho",
-    "state_id": 3515,
-    "state_code": "67",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "16.66313000",
-    "longitude": "100.99450000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105492,
-    "name": "Amphoe Lom Kao",
-    "state_id": 3515,
-    "state_code": "67",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "16.97209000",
-    "longitude": "101.26185000",
     "wikiDataId": null
   },
   {
@@ -55,28 +22,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105570,
-    "name": "Amphoe Mueang Phetchabun",
-    "state_id": 3515,
-    "state_code": "67",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "16.38215000",
-    "longitude": "101.17652000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105636,
-    "name": "Amphoe Nam Nao",
-    "state_id": 3515,
-    "state_code": "67",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "16.84489000",
-    "longitude": "101.60080000",
-    "wikiDataId": null
-  },
-  {
     "id": 105675,
     "name": "Amphoe Nong Phai",
     "state_id": 3515,
@@ -85,28 +30,6 @@
     "country_code": "TH",
     "latitude": "16.01162000",
     "longitude": "101.15042000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106229,
-    "name": "Amphoe Si Thep",
-    "state_id": 3515,
-    "state_code": "67",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.44253000",
-    "longitude": "101.14767000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106343,
-    "name": "Amphoe Wang Pong",
-    "state_id": 3515,
-    "state_code": "67",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "16.35049000",
-    "longitude": "100.80772000",
     "wikiDataId": null
   },
   {
@@ -121,6 +44,17 @@
     "wikiDataId": null
   },
   {
+    "id": 105262,
+    "name": "Bueng Sam Phan",
+    "state_id": 3515,
+    "state_code": "67",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "15.81650000",
+    "longitude": "101.00399000",
+    "wikiDataId": null
+  },
+  {
     "id": 106482,
     "name": "Chon Daen",
     "state_id": 3515,
@@ -132,6 +66,28 @@
     "wikiDataId": null
   },
   {
+    "id": 105395,
+    "name": "Khao Kho",
+    "state_id": 3515,
+    "state_code": "67",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "16.66313000",
+    "longitude": "100.99450000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105492,
+    "name": "Lom Kao",
+    "state_id": 3515,
+    "state_code": "67",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "16.97209000",
+    "longitude": "101.26185000",
+    "wikiDataId": null
+  },
+  {
     "id": 106558,
     "name": "Lom Sak",
     "state_id": 3515,
@@ -140,6 +96,28 @@
     "country_code": "TH",
     "latitude": "16.77983000",
     "longitude": "101.24225000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105570,
+    "name": "Mueang Phetchabun",
+    "state_id": 3515,
+    "state_code": "67",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "16.38215000",
+    "longitude": "101.17652000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105636,
+    "name": "Nam Nao",
+    "state_id": 3515,
+    "state_code": "67",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "16.84489000",
+    "longitude": "101.60080000",
     "wikiDataId": null
   },
   {
@@ -162,6 +140,28 @@
     "country_code": "TH",
     "latitude": "16.41904000",
     "longitude": "101.16056000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106229,
+    "name": "Si Thep",
+    "state_id": 3515,
+    "state_code": "67",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "15.44253000",
+    "longitude": "101.14767000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106343,
+    "name": "Wang Pong",
+    "state_id": 3515,
+    "state_code": "67",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "16.35049000",
+    "longitude": "100.80772000",
     "wikiDataId": null
   },
   {

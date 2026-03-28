@@ -1,16 +1,5 @@
 [
   {
-    "id": 161,
-    "name": "Bashkia Finiq",
-    "state_id": 634,
-    "state_code": "12",
-    "country_id": 3,
-    "country_code": "AL",
-    "latitude": "39.84393000",
-    "longitude": "20.16659000",
-    "wikiDataId": null
-  },
-  {
     "id": 162,
     "name": "Bashkia Himarë",
     "state_id": 634,
@@ -63,6 +52,17 @@
     "country_code": "AL",
     "latitude": "39.95111000",
     "longitude": "20.09778000",
+    "wikiDataId": null
+  },
+  {
+    "id": 161,
+    "name": "Finiq",
+    "state_id": 634,
+    "state_code": "12",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "39.84393000",
+    "longitude": "20.16659000",
     "wikiDataId": null
   },
   {

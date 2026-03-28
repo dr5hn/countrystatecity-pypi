@@ -11,61 +11,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105319,
-    "name": "Amphoe Dan Makham Tia",
-    "state_id": 3511,
-    "state_code": "71",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.83422000",
-    "longitude": "99.34125000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105353,
-    "name": "Amphoe Huai Krachao",
-    "state_id": 3511,
-    "state_code": "71",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.34056000",
-    "longitude": "99.67633000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105484,
-    "name": "Amphoe Lao Khwan",
-    "state_id": 3511,
-    "state_code": "71",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.59488000",
-    "longitude": "99.68338000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105544,
-    "name": "Amphoe Mueang Kanchanaburi",
-    "state_id": 3511,
-    "state_code": "71",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.06987000",
-    "longitude": "99.32769000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105677,
-    "name": "Amphoe Nong Prue",
-    "state_id": 3511,
-    "state_code": "71",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.67801000",
-    "longitude": "99.41075000",
-    "wikiDataId": null
-  },
-  {
     "id": 105730,
     "name": "Amphoe Phanom Thuan",
     "state_id": 3511,
@@ -77,17 +22,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105826,
-    "name": "Amphoe Sai Yok",
-    "state_id": 3511,
-    "state_code": "71",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.25652000",
-    "longitude": "98.93372000",
-    "wikiDataId": null
-  },
-  {
     "id": 106188,
     "name": "Amphoe Sangkhla Buri",
     "state_id": 3511,
@@ -96,17 +30,6 @@
     "country_code": "TH",
     "latitude": "15.19337000",
     "longitude": "98.52791000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106225,
-    "name": "Amphoe Si Sawat",
-    "state_id": 3511,
-    "state_code": "71",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.67254000",
-    "longitude": "99.12992000",
     "wikiDataId": null
   },
   {
@@ -132,17 +55,6 @@
     "wikiDataId": null
   },
   {
-    "id": 106309,
-    "name": "Amphoe Thong Pha Phum",
-    "state_id": 3511,
-    "state_code": "71",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.83277000",
-    "longitude": "98.69233000",
-    "wikiDataId": null
-  },
-  {
     "id": 106452,
     "name": "Bo Phloi",
     "state_id": 3511,
@@ -151,6 +63,28 @@
     "country_code": "TH",
     "latitude": "14.32517000",
     "longitude": "99.51467000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105319,
+    "name": "Dan Makham Tia",
+    "state_id": 3511,
+    "state_code": "71",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.83422000",
+    "longitude": "99.34125000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105353,
+    "name": "Huai Krachao",
+    "state_id": 3511,
+    "state_code": "71",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.34056000",
+    "longitude": "99.67633000",
     "wikiDataId": null
   },
   {
@@ -165,6 +99,39 @@
     "wikiDataId": null
   },
   {
+    "id": 105484,
+    "name": "Lao Khwan",
+    "state_id": 3511,
+    "state_code": "71",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.59488000",
+    "longitude": "99.68338000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105544,
+    "name": "Mueang Kanchanaburi",
+    "state_id": 3511,
+    "state_code": "71",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.06987000",
+    "longitude": "99.32769000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105677,
+    "name": "Nong Prue",
+    "state_id": 3511,
+    "state_code": "71",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.67801000",
+    "longitude": "99.41075000",
+    "wikiDataId": null
+  },
+  {
     "id": 106624,
     "name": "Phanom Thuan",
     "state_id": 3511,
@@ -176,6 +143,17 @@
     "wikiDataId": null
   },
   {
+    "id": 105826,
+    "name": "Sai Yok",
+    "state_id": 3511,
+    "state_code": "71",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.25652000",
+    "longitude": "98.93372000",
+    "wikiDataId": null
+  },
+  {
     "id": 106685,
     "name": "Sangkhla Buri",
     "state_id": 3511,
@@ -184,6 +162,17 @@
     "country_code": "TH",
     "latitude": "15.15553000",
     "longitude": "98.45361000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106225,
+    "name": "Si Sawat",
+    "state_id": 3511,
+    "state_code": "71",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.67254000",
+    "longitude": "99.12992000",
     "wikiDataId": null
   },
   {
@@ -206,6 +195,17 @@
     "country_code": "TH",
     "latitude": "13.96118000",
     "longitude": "99.64122000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106309,
+    "name": "Thong Pha Phum",
+    "state_id": 3511,
+    "state_code": "71",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.83277000",
+    "longitude": "98.69233000",
     "wikiDataId": null
   }
 ]

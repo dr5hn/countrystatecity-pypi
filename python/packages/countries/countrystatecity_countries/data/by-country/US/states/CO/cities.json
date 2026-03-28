@@ -89,7 +89,7 @@
   },
   {
     "id": 111415,
-    "name": "Arapahoe County",
+    "name": "Arapahoe",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -100,7 +100,7 @@
   },
   {
     "id": 111434,
-    "name": "Archuleta County",
+    "name": "Archuleta",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -177,7 +177,7 @@
   },
   {
     "id": 111717,
-    "name": "Baca County",
+    "name": "Baca",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -232,7 +232,7 @@
   },
   {
     "id": 112188,
-    "name": "Bent County",
+    "name": "Bent",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -529,7 +529,7 @@
   },
   {
     "id": 113710,
-    "name": "Chaffee County",
+    "name": "Chaffee",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -562,7 +562,7 @@
   },
   {
     "id": 113927,
-    "name": "Cheyenne County",
+    "name": "Cheyenne",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -595,7 +595,7 @@
   },
   {
     "id": 114208,
-    "name": "Clear Creek County",
+    "name": "Clear Creek",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -716,7 +716,7 @@
   },
   {
     "id": 114687,
-    "name": "Costilla County",
+    "name": "Costilla",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -771,7 +771,7 @@
   },
   {
     "id": 114865,
-    "name": "Crowley County",
+    "name": "Crowley",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -870,7 +870,7 @@
   },
   {
     "id": 115391,
-    "name": "Dolores County",
+    "name": "Dolores",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -1013,7 +1013,7 @@
   },
   {
     "id": 115943,
-    "name": "Elbert County",
+    "name": "Elbert",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -1233,7 +1233,7 @@
   },
   {
     "id": 116926,
-    "name": "Fremont County",
+    "name": "Fremont",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -1277,7 +1277,7 @@
   },
   {
     "id": 117084,
-    "name": "Garfield County",
+    "name": "Garfield",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 117224,
-    "name": "Gilpin County",
+    "name": "Gilpin",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -1387,7 +1387,7 @@
   },
   {
     "id": 117456,
-    "name": "Grand County",
+    "name": "Grand",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -1497,7 +1497,7 @@
   },
   {
     "id": 118487,
-    "name": "Hinsdale County",
+    "name": "Hinsdale",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -1552,7 +1552,7 @@
   },
   {
     "id": 118755,
-    "name": "Huerfano County",
+    "name": "Huerfano",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -1717,7 +1717,7 @@
   },
   {
     "id": 119659,
-    "name": "Kit Carson County",
+    "name": "Kit Carson",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -1761,7 +1761,7 @@
   },
   {
     "id": 119775,
-    "name": "La Plata County",
+    "name": "La Plata",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -1793,6 +1793,17 @@
     "wikiDataId": null
   },
   {
+    "id": 119897,
+    "name": "Lake",
+    "state_id": 1450,
+    "state_code": "CO",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "39.20238000",
+    "longitude": "-106.34484000",
+    "wikiDataId": null
+  },
+  {
     "id": 119886,
     "name": "Lake City",
     "state_id": 1450,
@@ -1801,17 +1812,6 @@
     "country_code": "US",
     "latitude": "38.03000000",
     "longitude": "-107.31533000",
-    "wikiDataId": null
-  },
-  {
-    "id": 119897,
-    "name": "Lake County",
-    "state_id": 1450,
-    "state_code": "CO",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "39.20238000",
-    "longitude": "-106.34484000",
     "wikiDataId": null
   },
   {
@@ -1849,7 +1849,7 @@
   },
   {
     "id": 120145,
-    "name": "Larimer County",
+    "name": "Larimer",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2091,7 +2091,7 @@
   },
   {
     "id": 121721,
-    "name": "Mesa County",
+    "name": "Mesa",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2113,7 +2113,7 @@
   },
   {
     "id": 121935,
-    "name": "Mineral County",
+    "name": "Mineral",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2135,7 +2135,7 @@
   },
   {
     "id": 122016,
-    "name": "Moffat County",
+    "name": "Moffat",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2157,7 +2157,7 @@
   },
   {
     "id": 122129,
-    "name": "Montezuma County",
+    "name": "Montezuma",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2311,7 +2311,7 @@
   },
   {
     "id": 123625,
-    "name": "Otero County",
+    "name": "Otero",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2399,7 +2399,7 @@
   },
   {
     "id": 123841,
-    "name": "Park County",
+    "name": "Park",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2443,7 +2443,7 @@
   },
   {
     "id": 124137,
-    "name": "Phillips County",
+    "name": "Phillips",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2454,7 +2454,7 @@
   },
   {
     "id": 124286,
-    "name": "Pitkin County",
+    "name": "Pitkin",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2487,7 +2487,7 @@
   },
   {
     "id": 124722,
-    "name": "Prowers County",
+    "name": "Prowers",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2564,7 +2564,7 @@
   },
   {
     "id": 125148,
-    "name": "Rio Blanco County",
+    "name": "Rio Blanco",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2597,7 +2597,7 @@
   },
   {
     "id": 125476,
-    "name": "Routt County",
+    "name": "Routt",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2652,7 +2652,7 @@
   },
   {
     "id": 125820,
-    "name": "San Juan County",
+    "name": "San Juan",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2872,7 +2872,7 @@
   },
   {
     "id": 127216,
-    "name": "Summit County",
+    "name": "Summit",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -2894,7 +2894,7 @@
   },
   {
     "id": 127489,
-    "name": "Teller County",
+    "name": "Teller",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,
@@ -3048,7 +3048,7 @@
   },
   {
     "id": 128768,
-    "name": "Weld County",
+    "name": "Weld",
     "state_id": 1450,
     "state_code": "CO",
     "country_id": 233,

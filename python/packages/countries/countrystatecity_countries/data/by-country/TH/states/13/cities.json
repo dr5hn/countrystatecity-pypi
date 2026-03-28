@@ -11,61 +11,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105473,
-    "name": "Amphoe Lam Luk Ka",
-    "state_id": 3500,
-    "state_code": "13",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.97744000",
-    "longitude": "100.79244000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105488,
-    "name": "Amphoe Lat Lum Kaeo",
-    "state_id": 3500,
-    "state_code": "13",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.04459000",
-    "longitude": "100.40948000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105565,
-    "name": "Amphoe Mueang Pathum Thani",
-    "state_id": 3500,
-    "state_code": "13",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.99105000",
-    "longitude": "100.53554000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105682,
-    "name": "Amphoe Nong Suea",
-    "state_id": 3500,
-    "state_code": "13",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.16030000",
-    "longitude": "100.83929000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106298,
-    "name": "Amphoe Thanyaburi",
-    "state_id": 3500,
-    "state_code": "13",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.02852000",
-    "longitude": "100.76291000",
-    "wikiDataId": null
-  },
-  {
     "id": 106397,
     "name": "Ban Lam Luk Ka",
     "state_id": 3500,
@@ -88,6 +33,50 @@
     "wikiDataId": null
   },
   {
+    "id": 105473,
+    "name": "Lam Luk Ka",
+    "state_id": 3500,
+    "state_code": "13",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.97744000",
+    "longitude": "100.79244000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105488,
+    "name": "Lat Lum Kaeo",
+    "state_id": 3500,
+    "state_code": "13",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.04459000",
+    "longitude": "100.40948000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105565,
+    "name": "Mueang Pathum Thani",
+    "state_id": 3500,
+    "state_code": "13",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.99105000",
+    "longitude": "100.53554000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105682,
+    "name": "Nong Suea",
+    "state_id": 3500,
+    "state_code": "13",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.16030000",
+    "longitude": "100.83929000",
+    "wikiDataId": null
+  },
+  {
     "id": 106614,
     "name": "Pathum Thani",
     "state_id": 3500,
@@ -96,6 +85,17 @@
     "country_code": "TH",
     "latitude": "14.01346000",
     "longitude": "100.53049000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106298,
+    "name": "Thanyaburi",
+    "state_id": 3500,
+    "state_code": "13",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.02852000",
+    "longitude": "100.76291000",
     "wikiDataId": null
   }
 ]

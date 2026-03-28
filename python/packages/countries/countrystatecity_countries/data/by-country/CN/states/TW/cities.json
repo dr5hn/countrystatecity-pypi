@@ -11,6 +11,17 @@
     "wikiDataId": null
   },
   {
+    "id": 159998,
+    "name": "Changhua",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "24.07556670",
+    "longitude": "120.54446670",
+    "wikiDataId": null
+  },
+  {
     "id": 19376,
     "name": "Changshu City",
     "state_id": 2255,
@@ -44,6 +55,17 @@
     "wikiDataId": null
   },
   {
+    "id": 160002,
+    "name": "Chiayi",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "23.45916640",
+    "longitude": "120.29300040",
+    "wikiDataId": null
+  },
+  {
     "id": 19442,
     "name": "Dazhong",
     "state_id": 2255,
@@ -74,17 +96,6 @@
     "country_code": "CN",
     "latitude": "32.85231000",
     "longitude": "120.30947000",
-    "wikiDataId": null
-  },
-  {
-    "id": 19510,
-    "name": "Fengxian",
-    "state_id": 2255,
-    "state_code": "TW",
-    "country_id": 45,
-    "country_code": "CN",
-    "latitude": "34.70388000",
-    "longitude": "116.58717000",
     "wikiDataId": null
   },
   {
@@ -132,6 +143,17 @@
     "wikiDataId": null
   },
   {
+    "id": 160009,
+    "name": "Hsinchu",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "24.81382870",
+    "longitude": "120.96747980",
+    "wikiDataId": null
+  },
+  {
     "id": 19635,
     "name": "Huai'an",
     "state_id": 2255,
@@ -151,6 +173,17 @@
     "country_code": "CN",
     "latitude": "33.31162000",
     "longitude": "119.04559000",
+    "wikiDataId": null
+  },
+  {
+    "id": 160004,
+    "name": "Hualien",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "23.98715890",
+    "longitude": "121.60157140",
     "wikiDataId": null
   },
   {
@@ -220,6 +253,39 @@
     "wikiDataId": null
   },
   {
+    "id": 160005,
+    "name": "Kaohsiung",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "22.62033480",
+    "longitude": "120.31203750",
+    "wikiDataId": null
+  },
+  {
+    "id": 160014,
+    "name": "Keelung",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "25.13172320",
+    "longitude": "121.74465200",
+    "wikiDataId": null
+  },
+  {
+    "id": 160007,
+    "name": "Kinmen",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "24.43676380",
+    "longitude": "118.31864350",
+    "wikiDataId": null
+  },
+  {
     "id": 19784,
     "name": "Kunshan",
     "state_id": 2255,
@@ -253,6 +319,28 @@
     "wikiDataId": null
   },
   {
+    "id": 160011,
+    "name": "Lienchiang",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "26.15779510",
+    "longitude": "119.95197560",
+    "wikiDataId": null
+  },
+  {
+    "id": 160006,
+    "name": "Miaoli",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "24.56015900",
+    "longitude": "120.82142650",
+    "wikiDataId": null
+  },
+  {
     "id": 19930,
     "name": "Mudu",
     "state_id": 2255,
@@ -283,6 +371,50 @@
     "country_code": "CN",
     "latitude": "32.03028000",
     "longitude": "120.87472000",
+    "wikiDataId": null
+  },
+  {
+    "id": 160001,
+    "name": "Nantou",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "23.90235000",
+    "longitude": "120.69091670",
+    "wikiDataId": null
+  },
+  {
+    "id": 160015,
+    "name": "New Taipei",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "25.01199700",
+    "longitude": "121.46566190",
+    "wikiDataId": null
+  },
+  {
+    "id": 159997,
+    "name": "Penghu",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "23.56969400",
+    "longitude": "119.56645430",
+    "wikiDataId": null
+  },
+  {
+    "id": 159999,
+    "name": "Pingtung",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "22.66284680",
+    "longitude": "120.49156770",
     "wikiDataId": null
   },
   {
@@ -363,6 +495,50 @@
     "wikiDataId": null
   },
   {
+    "id": 160000,
+    "name": "Taichung",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "24.16316200",
+    "longitude": "120.64782820",
+    "wikiDataId": null
+  },
+  {
+    "id": 160012,
+    "name": "Tainan",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "22.99123480",
+    "longitude": "120.18498200",
+    "wikiDataId": null
+  },
+  {
+    "id": 160013,
+    "name": "Taipei",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "25.03296940",
+    "longitude": "121.56541770",
+    "wikiDataId": null
+  },
+  {
+    "id": 160003,
+    "name": "Taitung",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "22.75604470",
+    "longitude": "121.14565380",
+    "wikiDataId": null
+  },
+  {
     "id": 20161,
     "name": "Taixing",
     "state_id": 2255,
@@ -382,6 +558,17 @@
     "country_code": "CN",
     "latitude": "32.49069000",
     "longitude": "119.90812000",
+    "wikiDataId": null
+  },
+  {
+    "id": 160010,
+    "name": "Taoyuan",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "24.99362810",
+    "longitude": "121.30097980",
     "wikiDataId": null
   },
   {
@@ -481,6 +668,28 @@
     "country_code": "CN",
     "latitude": "31.36059000",
     "longitude": "119.82016000",
+    "wikiDataId": null
+  },
+  {
+    "id": 159996,
+    "name": "Yilan",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "24.73027910",
+    "longitude": "121.76311490",
+    "wikiDataId": null
+  },
+  {
+    "id": 160008,
+    "name": "Yunlin",
+    "state_id": 2255,
+    "state_code": "TW",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "23.69907750",
+    "longitude": "120.52455110",
     "wikiDataId": null
   },
   {

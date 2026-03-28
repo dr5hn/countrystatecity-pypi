@@ -89,7 +89,7 @@
   },
   {
     "id": 111185,
-    "name": "Allegheny County",
+    "name": "Allegheny",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -254,7 +254,7 @@
   },
   {
     "id": 111480,
-    "name": "Armstrong County",
+    "name": "Armstrong",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -738,7 +738,7 @@
   },
   {
     "id": 112232,
-    "name": "Berks County",
+    "name": "Berks",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -881,7 +881,7 @@
   },
   {
     "id": 112411,
-    "name": "Blair County",
+    "name": "Blair",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -1332,7 +1332,7 @@
   },
   {
     "id": 112991,
-    "name": "Bucks County",
+    "name": "Bucks",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -1420,7 +1420,7 @@
   },
   {
     "id": 113247,
-    "name": "Cambria County",
+    "name": "Cambria",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -1497,7 +1497,7 @@
   },
   {
     "id": 113382,
-    "name": "Carbon County",
+    "name": "Carbon",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -1662,7 +1662,7 @@
   },
   {
     "id": 113689,
-    "name": "Centre County",
+    "name": "Centre",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -2333,7 +2333,7 @@
   },
   {
     "id": 114782,
-    "name": "Crawford County",
+    "name": "Crawford",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -2465,7 +2465,7 @@
   },
   {
     "id": 115056,
-    "name": "Dauphin County",
+    "name": "Dauphin",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -3158,7 +3158,7 @@
   },
   {
     "id": 115985,
-    "name": "Elk County",
+    "name": "Elk",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -3685,6 +3685,17 @@
     "wikiDataId": null
   },
   {
+    "id": 116650,
+    "name": "Forest",
+    "state_id": 1422,
+    "state_code": "PA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.51307000",
+    "longitude": "-79.23601000",
+    "wikiDataId": null
+  },
+  {
     "id": 116649,
     "name": "Forest City",
     "state_id": 1422,
@@ -3693,17 +3704,6 @@
     "country_code": "US",
     "latitude": "41.65147000",
     "longitude": "-75.46657000",
-    "wikiDataId": null
-  },
-  {
-    "id": 116650,
-    "name": "Forest County",
-    "state_id": 1422,
-    "state_code": "PA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "41.51307000",
-    "longitude": "-79.23601000",
     "wikiDataId": null
   },
   {
@@ -5061,7 +5061,7 @@
   },
   {
     "id": 119340,
-    "name": "Juniata County",
+    "name": "Juniata",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -5204,7 +5204,7 @@
   },
   {
     "id": 119814,
-    "name": "Lackawanna County",
+    "name": "Lackawanna",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -5567,7 +5567,7 @@
   },
   {
     "id": 120335,
-    "name": "Lehigh County",
+    "name": "Lehigh",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -5930,7 +5930,7 @@
   },
   {
     "id": 120905,
-    "name": "Lycoming County",
+    "name": "Lycoming",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -6238,7 +6238,7 @@
   },
   {
     "id": 121516,
-    "name": "McKean County",
+    "name": "McKean",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -6447,7 +6447,7 @@
   },
   {
     "id": 121825,
-    "name": "Mifflin County",
+    "name": "Mifflin",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -6711,7 +6711,7 @@
   },
   {
     "id": 122173,
-    "name": "Montour County",
+    "name": "Montour",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -8097,7 +8097,7 @@
   },
   {
     "id": 124193,
-    "name": "Pike County",
+    "name": "Pike",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -8339,7 +8339,7 @@
   },
   {
     "id": 124592,
-    "name": "Potter County",
+    "name": "Potter",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -8988,7 +8988,7 @@
   },
   {
     "id": 126026,
-    "name": "Schuylkill County",
+    "name": "Schuylkill",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -9395,7 +9395,7 @@
   },
   {
     "id": 126551,
-    "name": "Snyder County",
+    "name": "Snyder",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -10132,7 +10132,7 @@
   },
   {
     "id": 127670,
-    "name": "Tioga County",
+    "name": "Tioga",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -10495,7 +10495,7 @@
   },
   {
     "id": 128166,
-    "name": "Venango County",
+    "name": "Venango",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,
@@ -11067,7 +11067,7 @@
   },
   {
     "id": 129056,
-    "name": "Westmoreland County",
+    "name": "Westmoreland",
     "state_id": 1422,
     "state_code": "PA",
     "country_id": 233,

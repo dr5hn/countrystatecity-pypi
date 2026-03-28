@@ -11,28 +11,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105254,
-    "name": "Amphoe Bo Thong",
-    "state_id": 3513,
-    "state_code": "20",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.24227000",
-    "longitude": "101.50864000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105438,
-    "name": "Amphoe Ko Chan",
-    "state_id": 3513,
-    "state_code": "20",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.40253000",
-    "longitude": "101.38800000",
-    "wikiDataId": null
-  },
-  {
     "id": 105445,
     "name": "Amphoe Ko Si Chang",
     "state_id": 3513,
@@ -41,17 +19,6 @@
     "country_code": "TH",
     "latitude": "13.15286000",
     "longitude": "100.81156000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105686,
-    "name": "Amphoe Nong Yai",
-    "state_id": 3513,
-    "state_code": "20",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.11772000",
-    "longitude": "101.37471000",
     "wikiDataId": null
   },
   {
@@ -154,6 +121,17 @@
     "wikiDataId": null
   },
   {
+    "id": 105254,
+    "name": "Bo Thong",
+    "state_id": 3513,
+    "state_code": "20",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.24227000",
+    "longitude": "101.50864000",
+    "wikiDataId": null
+  },
+  {
     "id": 106481,
     "name": "Chon Buri",
     "state_id": 3513,
@@ -162,6 +140,17 @@
     "country_code": "TH",
     "latitude": "13.36220000",
     "longitude": "100.98345000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105438,
+    "name": "Ko Chan",
+    "state_id": 3513,
+    "state_code": "20",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.40253000",
+    "longitude": "101.38800000",
     "wikiDataId": null
   },
   {
@@ -177,13 +166,24 @@
   },
   {
     "id": 106572,
-    "name": "Mueang Chonburi District",
+    "name": "Mueang Chonburi",
     "state_id": 3513,
     "state_code": "20",
     "country_id": 219,
     "country_code": "TH",
     "latitude": "13.34271000",
     "longitude": "101.00111000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105686,
+    "name": "Nong Yai",
+    "state_id": 3513,
+    "state_code": "20",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.11772000",
+    "longitude": "101.37471000",
     "wikiDataId": null
   },
   {
