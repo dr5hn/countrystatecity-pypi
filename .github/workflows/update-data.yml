@@ -96,42 +96,13 @@ jobs:
             echo "No data changes detected"
           fi
 
-      - name: Bump patch version
-        if: steps.check-changes.outputs.changed == 'true'
-        id: bump-version
-        working-directory: python/packages/countries
-        run: |
-          python -c "
-          import re, pathlib
-
-          # Bump version in pyproject.toml
-          pyproject = pathlib.Path('pyproject.toml')
-          content = pyproject.read_text()
-          match = re.search(r'version = \"(\d+)\.(\d+)\.(\d+)\"', content)
-          major, minor, patch = int(match.group(1)), int(match.group(2)), int(match.group(3))
-          new_version = f'{major}.{minor}.{patch + 1}'
-          content = re.sub(r'version = \"\d+\.\d+\.\d+\"', f'version = \"{new_version}\"', content)
-          pyproject.write_text(content)
-
-          # Bump version in __init__.py
-          init = pathlib.Path('countrystatecity_countries/__init__.py')
-          init_content = init.read_text()
-          init_content = re.sub(r'__version__ = \"\d+\.\d+\.\d+\"', f'__version__ = \"{new_version}\"', init_content)
-          init.write_text(init_content)
-
-          print(new_version)
-          "
-          NEW_VERSION=$(python -c "import re, pathlib; m=re.search(r'version = \"(.+?)\"', pathlib.Path('pyproject.toml').read_text()); print(f'v{m.group(1)}')")
-          echo "version=$NEW_VERSION" >> $GITHUB_OUTPUT
-          echo "Bumped version to $NEW_VERSION"
-
       - name: Create Pull Request
         if: steps.check-changes.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'chore: update countries/states/cities data'
-          title: '🔄 Automated Data Update ${{ steps.bump-version.outputs.version }}'
+          title: '🔄 Automated Data Update'
           body: |
             ## Automated Data Update
             

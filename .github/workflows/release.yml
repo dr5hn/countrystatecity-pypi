@@ -1,0 +1,87 @@
+name: Release
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main, master]
+
+jobs:
+  release:
+    name: Bump Version & Update Changelog
+    if: github.event.pull_request.merged == true && contains(github.event.pull_request.labels.*.name, 'data-update')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        working-directory: python/packages/countries
+        run: pip install -e ".[dev]"
+
+      - name: Bump patch version
+        id: bump
+        working-directory: python/packages/countries
+        run: |
+          python -c "
+          import re, pathlib
+
+          pyproject = pathlib.Path('pyproject.toml')
+          content = pyproject.read_text()
+          match = re.search(r'version = \"(\d+)\.(\d+)\.(\d+)\"', content)
+          old_version = f'{match.group(1)}.{match.group(2)}.{match.group(3)}'
+          major, minor, patch = int(match.group(1)), int(match.group(2)), int(match.group(3))
+          new_version = f'{major}.{minor}.{patch + 1}'
+
+          content = re.sub(r'version = \"\d+\.\d+\.\d+\"', f'version = \"{new_version}\"', content)
+          pyproject.write_text(content)
+
+          init = pathlib.Path('countrystatecity_countries/__init__.py')
+          init_content = init.read_text()
+          init_content = re.sub(r'__version__ = \"\d+\.\d+\.\d+\"', f'__version__ = \"{new_version}\"', init_content)
+          init.write_text(init_content)
+
+          print(f'OLD={old_version}')
+          print(f'NEW={new_version}')
+          "
+
+          NEW_VERSION=$(python -c "import re, pathlib; m=re.search(r'version = \"(.+?)\"', pathlib.Path('pyproject.toml').read_text()); print(m.group(1))")
+          echo "new_version=v$NEW_VERSION" >> $GITHUB_OUTPUT
+          echo "Bumped to v$NEW_VERSION"
+
+      - name: Update CHANGELOG.md
+        env:
+          NEW_VERSION: ${{ steps.bump.outputs.new_version }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          ENTRY="## [${NEW_VERSION#v}] - $DATE\n\n### Changed\n- Updated countries/states/cities data from upstream database (PR #$PR_NUMBER)\n"
+
+          if [ -f CHANGELOG.md ]; then
+            sed -i "0,/^## \[/s//$ENTRY\n## [/" CHANGELOG.md
+          else
+            printf "# Changelog\n\nAll notable changes to \`countrystatecity-countries\` (Python) will be documented in this file.\n\n$ENTRY" > CHANGELOG.md
+          fi
+
+      - name: Run tests
+        working-directory: python/packages/countries
+        run: pytest
+
+      - name: Commit and push
+        env:
+          NEW_VERSION: ${{ steps.bump.outputs.new_version }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add python/packages/countries/pyproject.toml python/packages/countries/countrystatecity_countries/__init__.py CHANGELOG.md
+          git commit -m "chore: release ${NEW_VERSION}"
+          git push
