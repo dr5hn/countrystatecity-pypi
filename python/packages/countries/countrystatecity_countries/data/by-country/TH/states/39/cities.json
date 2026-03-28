@@ -1,16 +1,5 @@
 [
   {
-    "id": 105561,
-    "name": "Amphoe Mueang Nong Bua Lamphu",
-    "state_id": 3480,
-    "state_code": "39",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "17.15818000",
-    "longitude": "102.39860000",
-    "wikiDataId": null
-  },
-  {
     "id": 105616,
     "name": "Amphoe Na Klang",
     "state_id": 3480,
@@ -19,17 +8,6 @@
     "country_code": "TH",
     "latitude": "17.32466000",
     "longitude": "102.21456000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105626,
-    "name": "Amphoe Na Wang",
-    "state_id": 3480,
-    "state_code": "39",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "17.34290000",
-    "longitude": "102.07157000",
     "wikiDataId": null
   },
   {
@@ -55,14 +33,14 @@
     "wikiDataId": null
   },
   {
-    "id": 106258,
-    "name": "Amphoe Suwannakhuha",
+    "id": 105561,
+    "name": "Mueang Nong Bua Lamphu",
     "state_id": 3480,
     "state_code": "39",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "17.54605000",
-    "longitude": "102.24852000",
+    "latitude": "17.15818000",
+    "longitude": "102.39860000",
     "wikiDataId": null
   },
   {
@@ -74,6 +52,17 @@
     "country_code": "TH",
     "latitude": "17.30720000",
     "longitude": "102.18886000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105626,
+    "name": "Na Wang",
+    "state_id": 3480,
+    "state_code": "39",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "17.34290000",
+    "longitude": "102.07157000",
     "wikiDataId": null
   },
   {
@@ -107,6 +96,17 @@
     "country_code": "TH",
     "latitude": "16.96705000",
     "longitude": "102.27607000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106258,
+    "name": "Suwannakhuha",
+    "state_id": 3480,
+    "state_code": "39",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "17.54605000",
+    "longitude": "102.24852000",
     "wikiDataId": null
   }
 ]

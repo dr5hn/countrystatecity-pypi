@@ -79,7 +79,7 @@
   },
   {
     "id": 2278,
-    "name": "Guangxi Zhuang",
+    "name": "Guangxi",
     "country_id": 45,
     "country_code": "CN",
     "state_code": "GX",
@@ -274,7 +274,7 @@
   },
   {
     "id": 2262,
-    "name": "Ningxia Huizu",
+    "name": "Ningxia",
     "country_id": 45,
     "country_code": "CN",
     "state_code": "NX",
@@ -390,6 +390,19 @@
     "timezone": "Asia/Shanghai"
   },
   {
+    "id": 2264,
+    "name": "Tibet",
+    "country_id": 45,
+    "country_code": "CN",
+    "state_code": "XZ",
+    "type": "autonomous region",
+    "latitude": "29.85564430",
+    "longitude": "90.87498070",
+    "iso3166_2": "CN-XZ",
+    "native": "Xizang",
+    "timezone": "Asia/Shanghai"
+  },
+  {
     "id": 2263,
     "name": "Xinjiang",
     "country_id": 45,
@@ -401,19 +414,6 @@
     "iso3166_2": "CN-XJ",
     "native": "Xinjiang",
     "timezone": "Asia/Urumqi"
-  },
-  {
-    "id": 2264,
-    "name": "Xizang",
-    "country_id": 45,
-    "country_code": "CN",
-    "state_code": "XZ",
-    "type": "autonomous region",
-    "latitude": "29.85564430",
-    "longitude": "90.87498070",
-    "iso3166_2": "CN-XZ",
-    "native": "Xizang",
-    "timezone": "Asia/Shanghai"
   },
   {
     "id": 2260,

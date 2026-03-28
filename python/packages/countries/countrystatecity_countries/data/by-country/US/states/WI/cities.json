@@ -331,7 +331,7 @@
   },
   {
     "id": 111942,
-    "name": "Bayfield County",
+    "name": "Bayfield",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -628,7 +628,7 @@
   },
   {
     "id": 112914,
-    "name": "Brown County",
+    "name": "Brown",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -694,7 +694,7 @@
   },
   {
     "id": 113080,
-    "name": "Burnett County",
+    "name": "Burnett",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -738,7 +738,7 @@
   },
   {
     "id": 113231,
-    "name": "Calumet County",
+    "name": "Calumet",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -859,7 +859,7 @@
   },
   {
     "id": 113975,
-    "name": "Chippewa County",
+    "name": "Chippewa",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -1057,7 +1057,7 @@
   },
   {
     "id": 114783,
-    "name": "Crawford County",
+    "name": "Crawford",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -1266,7 +1266,7 @@
   },
   {
     "id": 115380,
-    "name": "Dodge County",
+    "name": "Dodge",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -1288,7 +1288,7 @@
   },
   {
     "id": 115406,
-    "name": "Door County",
+    "name": "Door",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 115547,
-    "name": "Dunn County",
+    "name": "Dunn",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -1618,7 +1618,7 @@
   },
   {
     "id": 116651,
-    "name": "Forest County",
+    "name": "Forest",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -1837,6 +1837,17 @@
     "wikiDataId": null
   },
   {
+    "id": 117593,
+    "name": "Green",
+    "state_id": 1441,
+    "state_code": "WI",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "42.67999000",
+    "longitude": "-89.60221000",
+    "wikiDataId": null
+  },
+  {
     "id": 117591,
     "name": "Green Bay",
     "state_id": 1441,
@@ -1845,17 +1856,6 @@
     "country_code": "US",
     "latitude": "44.51916000",
     "longitude": "-88.01983000",
-    "wikiDataId": null
-  },
-  {
-    "id": 117593,
-    "name": "Green County",
-    "state_id": 1441,
-    "state_code": "WI",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "42.67999000",
-    "longitude": "-89.60221000",
     "wikiDataId": null
   },
   {
@@ -2135,7 +2135,7 @@
   },
   {
     "id": 118979,
-    "name": "Iowa County",
+    "name": "Iowa",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -2146,7 +2146,7 @@
   },
   {
     "id": 118990,
-    "name": "Iron County",
+    "name": "Iron",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -2575,7 +2575,7 @@
   },
   {
     "id": 120112,
-    "name": "Langlade County",
+    "name": "Langlade",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -3598,7 +3598,7 @@
   },
   {
     "id": 123648,
-    "name": "Outagamie County",
+    "name": "Outagamie",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -3609,7 +3609,7 @@
   },
   {
     "id": 123700,
-    "name": "Ozaukee County",
+    "name": "Ozaukee",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -3675,7 +3675,7 @@
   },
   {
     "id": 124053,
-    "name": "Pepin County",
+    "name": "Pepin",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -3785,7 +3785,7 @@
   },
   {
     "id": 124450,
-    "name": "Polk County",
+    "name": "Polk",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -3917,7 +3917,7 @@
   },
   {
     "id": 124664,
-    "name": "Price County",
+    "name": "Price",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -4070,6 +4070,17 @@
     "wikiDataId": null
   },
   {
+    "id": 125077,
+    "name": "Richland",
+    "state_id": 1441,
+    "state_code": "WI",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "43.37564000",
+    "longitude": "-90.42948000",
+    "wikiDataId": null
+  },
+  {
     "id": 125073,
     "name": "Richland Center",
     "state_id": 1441,
@@ -4078,17 +4089,6 @@
     "country_code": "US",
     "latitude": "43.33471000",
     "longitude": "-90.38679000",
-    "wikiDataId": null
-  },
-  {
-    "id": 125077,
-    "name": "Richland County",
-    "state_id": 1441,
-    "state_code": "WI",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "43.37564000",
-    "longitude": "-90.42948000",
     "wikiDataId": null
   },
   {
@@ -4170,7 +4170,7 @@
   },
   {
     "id": 125274,
-    "name": "Rock County",
+    "name": "Rock",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -4247,7 +4247,7 @@
   },
   {
     "id": 125628,
-    "name": "Saint Croix County",
+    "name": "Saint Croix",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -4301,6 +4301,17 @@
     "wikiDataId": null
   },
   {
+    "id": 125964,
+    "name": "Sauk",
+    "state_id": 1441,
+    "state_code": "WI",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "43.42678000",
+    "longitude": "-89.94837000",
+    "wikiDataId": null
+  },
+  {
     "id": 125963,
     "name": "Sauk City",
     "state_id": 1441,
@@ -4309,17 +4320,6 @@
     "country_code": "US",
     "latitude": "43.27082000",
     "longitude": "-89.72207000",
-    "wikiDataId": null
-  },
-  {
-    "id": 125964,
-    "name": "Sauk County",
-    "state_id": 1441,
-    "state_code": "WI",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "43.42678000",
-    "longitude": "-89.94837000",
     "wikiDataId": null
   },
   {
@@ -4335,7 +4335,7 @@
   },
   {
     "id": 125982,
-    "name": "Sawyer County",
+    "name": "Sawyer",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -4885,7 +4885,7 @@
   },
   {
     "id": 128193,
-    "name": "Vernon County",
+    "name": "Vernon",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -4907,7 +4907,7 @@
   },
   {
     "id": 128240,
-    "name": "Vilas County",
+    "name": "Vilas",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -5105,7 +5105,7 @@
   },
   {
     "id": 128661,
-    "name": "Waushara County",
+    "name": "Waushara",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,
@@ -5380,7 +5380,7 @@
   },
   {
     "id": 129486,
-    "name": "Wood County",
+    "name": "Wood",
     "state_id": 1441,
     "state_code": "WI",
     "country_id": 233,

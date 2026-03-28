@@ -88,6 +88,17 @@
     "wikiDataId": null
   },
   {
+    "id": 111743,
+    "name": "Baker",
+    "state_id": 1415,
+    "state_code": "OR",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "44.70923000",
+    "longitude": "-117.67534000",
+    "wikiDataId": null
+  },
+  {
     "id": 111740,
     "name": "Baker City",
     "state_id": 1415,
@@ -96,17 +107,6 @@
     "country_code": "US",
     "latitude": "44.77487000",
     "longitude": "-117.83438000",
-    "wikiDataId": null
-  },
-  {
-    "id": 111743,
-    "name": "Baker County",
-    "state_id": 1415,
-    "state_code": "OR",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "44.70923000",
-    "longitude": "-117.67534000",
     "wikiDataId": null
   },
   {
@@ -419,7 +419,7 @@
   },
   {
     "id": 114161,
-    "name": "Clatsop County",
+    "name": "Clatsop",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -473,6 +473,17 @@
     "wikiDataId": null
   },
   {
+    "id": 114612,
+    "name": "Coos",
+    "state_id": 1415,
+    "state_code": "OR",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "43.18501000",
+    "longitude": "-124.09333000",
+    "wikiDataId": null
+  },
+  {
     "id": 114610,
     "name": "Coos Bay",
     "state_id": 1415,
@@ -481,17 +492,6 @@
     "country_code": "US",
     "latitude": "43.36650000",
     "longitude": "-124.21789000",
-    "wikiDataId": null
-  },
-  {
-    "id": 114612,
-    "name": "Coos County",
-    "state_id": 1415,
-    "state_code": "OR",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "43.18501000",
-    "longitude": "-124.09333000",
     "wikiDataId": null
   },
   {
@@ -551,7 +551,7 @@
   },
   {
     "id": 114836,
-    "name": "Crook County",
+    "name": "Crook",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -584,7 +584,7 @@
   },
   {
     "id": 114928,
-    "name": "Curry County",
+    "name": "Curry",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -639,7 +639,7 @@
   },
   {
     "id": 115277,
-    "name": "Deschutes County",
+    "name": "Deschutes",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -881,7 +881,7 @@
   },
   {
     "id": 117218,
-    "name": "Gilliam County",
+    "name": "Gilliam",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -1013,7 +1013,7 @@
   },
   {
     "id": 118030,
-    "name": "Harney County",
+    "name": "Harney",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -1233,7 +1233,7 @@
   },
   {
     "id": 119321,
-    "name": "Josephine County",
+    "name": "Josephine",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -1288,7 +1288,7 @@
   },
   {
     "id": 119670,
-    "name": "Klamath County",
+    "name": "Klamath",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -1343,7 +1343,7 @@
   },
   {
     "id": 119899,
-    "name": "Lake County",
+    "name": "Lake",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -1387,7 +1387,7 @@
   },
   {
     "id": 120106,
-    "name": "Lane County",
+    "name": "Lane",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -1497,7 +1497,7 @@
   },
   {
     "id": 121061,
-    "name": "Malheur County",
+    "name": "Malheur",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -1695,7 +1695,7 @@
   },
   {
     "id": 122463,
-    "name": "Multnomah County",
+    "name": "Multnomah",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -1937,7 +1937,7 @@
   },
   {
     "id": 124451,
-    "name": "Polk County",
+    "name": "Polk",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -2575,7 +2575,7 @@
   },
   {
     "id": 128411,
-    "name": "Wallowa County",
+    "name": "Wallowa",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,
@@ -2619,7 +2619,7 @@
   },
   {
     "id": 128529,
-    "name": "Wasco County",
+    "name": "Wasco",
     "state_id": 1415,
     "state_code": "OR",
     "country_id": 233,

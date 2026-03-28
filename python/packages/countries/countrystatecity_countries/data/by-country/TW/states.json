@@ -26,6 +26,19 @@
     "timezone": "Asia/Taipei"
   },
   {
+    "id": 5704,
+    "name": "Chiayi County",
+    "country_id": 216,
+    "country_code": "TW",
+    "state_code": "CYQ",
+    "type": "county",
+    "latitude": "23.49620556",
+    "longitude": "120.64187500",
+    "iso3166_2": "TW-CYQ",
+    "native": "嘉義縣",
+    "timezone": "Asia/Taipei"
+  },
+  {
     "id": 3417,
     "name": "Hsinchu",
     "country_id": 216,
@@ -36,6 +49,19 @@
     "longitude": "120.96747980",
     "iso3166_2": "TW-HSZ",
     "native": "Hsinchu",
+    "timezone": "Asia/Taipei"
+  },
+  {
+    "id": 5705,
+    "name": "Hsinchu County",
+    "country_id": 216,
+    "country_code": "TW",
+    "state_code": "HSQ",
+    "type": "county",
+    "latitude": "24.83333333",
+    "longitude": "121.01472222",
+    "iso3166_2": "TW-HSQ",
+    "native": "新竹縣",
     "timezone": "Asia/Taipei"
   },
   {

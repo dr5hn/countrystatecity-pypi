@@ -254,7 +254,7 @@
   },
   {
     "id": 111261,
-    "name": "Amador County",
+    "name": "Amador",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -1409,7 +1409,7 @@
   },
   {
     "id": 113125,
-    "name": "Butte County",
+    "name": "Butte",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -1475,7 +1475,7 @@
   },
   {
     "id": 113176,
-    "name": "Calaveras County",
+    "name": "Calaveras",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -2354,6 +2354,17 @@
     "wikiDataId": null
   },
   {
+    "id": 114576,
+    "name": "Contra Costa",
+    "state_id": 1416,
+    "state_code": "CA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "37.92342000",
+    "longitude": "-121.95121000",
+    "wikiDataId": null
+  },
+  {
     "id": 114575,
     "name": "Contra Costa Centre",
     "state_id": 1416,
@@ -2362,17 +2373,6 @@
     "country_code": "US",
     "latitude": "37.92752000",
     "longitude": "-122.05786000",
-    "wikiDataId": null
-  },
-  {
-    "id": 114576,
-    "name": "Contra Costa County",
-    "state_id": 1416,
-    "state_code": "CA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "37.92342000",
-    "longitude": "-121.95121000",
     "wikiDataId": null
   },
   {
@@ -2751,7 +2751,7 @@
   },
   {
     "id": 115191,
-    "name": "Del Norte County",
+    "name": "Del Norte",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -3312,7 +3312,7 @@
   },
   {
     "id": 115921,
-    "name": "El Dorado County",
+    "name": "El Dorado",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -4104,7 +4104,7 @@
   },
   {
     "id": 117296,
-    "name": "Glenn County",
+    "name": "Glenn",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -4874,7 +4874,7 @@
   },
   {
     "id": 118964,
-    "name": "Inyo County",
+    "name": "Inyo",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -5105,7 +5105,7 @@
   },
   {
     "id": 119514,
-    "name": "Kern County",
+    "name": "Kern",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -5159,6 +5159,17 @@
     "wikiDataId": null
   },
   {
+    "id": 119600,
+    "name": "Kings",
+    "state_id": 1416,
+    "state_code": "CA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "36.07536000",
+    "longitude": "-119.81550000",
+    "wikiDataId": null
+  },
+  {
     "id": 119598,
     "name": "Kings Beach",
     "state_id": 1416,
@@ -5167,17 +5178,6 @@
     "country_code": "US",
     "latitude": "39.23768000",
     "longitude": "-120.02658000",
-    "wikiDataId": null
-  },
-  {
-    "id": 119600,
-    "name": "Kings County",
-    "state_id": 1416,
-    "state_code": "CA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "36.07536000",
-    "longitude": "-119.81550000",
     "wikiDataId": null
   },
   {
@@ -5478,6 +5478,17 @@
     "wikiDataId": null
   },
   {
+    "id": 119896,
+    "name": "Lake",
+    "state_id": 1416,
+    "state_code": "CA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "39.09965000",
+    "longitude": "-122.75318000",
+    "wikiDataId": null
+  },
+  {
     "id": 119866,
     "name": "Lake Arrowhead",
     "state_id": 1416,
@@ -5486,17 +5497,6 @@
     "country_code": "US",
     "latitude": "34.24834000",
     "longitude": "-117.18921000",
-    "wikiDataId": null
-  },
-  {
-    "id": 119896,
-    "name": "Lake County",
-    "state_id": 1416,
-    "state_code": "CA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "39.09965000",
-    "longitude": "-122.75318000",
     "wikiDataId": null
   },
   {
@@ -5710,7 +5710,7 @@
   },
   {
     "id": 120166,
-    "name": "Lassen County",
+    "name": "Lassen",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -6402,6 +6402,17 @@
     "wikiDataId": null
   },
   {
+    "id": 121222,
+    "name": "Marin",
+    "state_id": 1416,
+    "state_code": "CA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "38.05518000",
+    "longitude": "-122.74886000",
+    "wikiDataId": null
+  },
+  {
     "id": 121221,
     "name": "Marin City",
     "state_id": 1416,
@@ -6410,17 +6421,6 @@
     "country_code": "US",
     "latitude": "37.86854000",
     "longitude": "-122.50914000",
-    "wikiDataId": null
-  },
-  {
-    "id": 121222,
-    "name": "Marin County",
-    "state_id": 1416,
-    "state_code": "CA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "38.05518000",
-    "longitude": "-122.74886000",
     "wikiDataId": null
   },
   {
@@ -6623,7 +6623,7 @@
   },
   {
     "id": 121652,
-    "name": "Mendocino County",
+    "name": "Mendocino",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -6809,6 +6809,17 @@
     "wikiDataId": null
   },
   {
+    "id": 121985,
+    "name": "Mission",
+    "state_id": 1416,
+    "state_code": "CA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "37.75993000",
+    "longitude": "-122.41914000",
+    "wikiDataId": null
+  },
+  {
     "id": 121984,
     "name": "Mission Canyon",
     "state_id": 1416,
@@ -6817,17 +6828,6 @@
     "country_code": "US",
     "latitude": "34.45083000",
     "longitude": "-119.71291000",
-    "wikiDataId": null
-  },
-  {
-    "id": 121985,
-    "name": "Mission District",
-    "state_id": 1416,
-    "state_code": "CA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "37.75993000",
-    "longitude": "-122.41914000",
     "wikiDataId": null
   },
   {
@@ -6865,7 +6865,7 @@
   },
   {
     "id": 122015,
-    "name": "Modoc County",
+    "name": "Modoc",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -6887,7 +6887,7 @@
   },
   {
     "id": 122048,
-    "name": "Mono County",
+    "name": "Mono",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -7304,6 +7304,17 @@
     "wikiDataId": null
   },
   {
+    "id": 122653,
+    "name": "Nevada",
+    "state_id": 1416,
+    "state_code": "CA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "39.30137000",
+    "longitude": "-120.76875000",
+    "wikiDataId": null
+  },
+  {
     "id": 122651,
     "name": "Nevada City",
     "state_id": 1416,
@@ -7312,17 +7323,6 @@
     "country_code": "US",
     "latitude": "39.26173000",
     "longitude": "-121.01779000",
-    "wikiDataId": null
-  },
-  {
-    "id": 122653,
-    "name": "Nevada County",
-    "state_id": 1416,
-    "state_code": "CA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "39.30137000",
-    "longitude": "-120.76875000",
     "wikiDataId": null
   },
   {
@@ -8361,7 +8361,7 @@
   },
   {
     "id": 124311,
-    "name": "Placer County",
+    "name": "Placer",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -8416,7 +8416,7 @@
   },
   {
     "id": 124395,
-    "name": "Plumas County",
+    "name": "Plumas",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -9296,7 +9296,7 @@
   },
   {
     "id": 125792,
-    "name": "San Benito County",
+    "name": "San Benito",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -10176,7 +10176,7 @@
   },
   {
     "id": 126402,
-    "name": "Sierra County",
+    "name": "Sierra",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -10242,7 +10242,7 @@
   },
   {
     "id": 126465,
-    "name": "Siskiyou County",
+    "name": "Siskiyou",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -10297,7 +10297,7 @@
   },
   {
     "id": 126566,
-    "name": "Solano County",
+    "name": "Solano",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -10583,7 +10583,7 @@
   },
   {
     "id": 126957,
-    "name": "Stanislaus County",
+    "name": "Stanislaus",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -10935,7 +10935,7 @@
   },
   {
     "id": 127484,
-    "name": "Tehama County",
+    "name": "Tehama",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -11220,6 +11220,17 @@
     "wikiDataId": null
   },
   {
+    "id": 127896,
+    "name": "Tuolumne",
+    "state_id": 1416,
+    "state_code": "CA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "38.02760000",
+    "longitude": "-119.95475000",
+    "wikiDataId": null
+  },
+  {
     "id": 127895,
     "name": "Tuolumne City",
     "state_id": 1416,
@@ -11228,17 +11239,6 @@
     "country_code": "US",
     "latitude": "37.96270000",
     "longitude": "-120.24130000",
-    "wikiDataId": null
-  },
-  {
-    "id": 127896,
-    "name": "Tuolumne County",
-    "state_id": 1416,
-    "state_code": "CA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "38.02760000",
-    "longitude": "-119.95475000",
     "wikiDataId": null
   },
   {
@@ -12244,7 +12244,7 @@
   },
   {
     "id": 129686,
-    "name": "Yolo County",
+    "name": "Yolo",
     "state_id": 1416,
     "state_code": "CA",
     "country_id": 233,
@@ -12309,6 +12309,17 @@
     "wikiDataId": null
   },
   {
+    "id": 129727,
+    "name": "Yuba",
+    "state_id": 1416,
+    "state_code": "CA",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "39.26902000",
+    "longitude": "-121.35126000",
+    "wikiDataId": null
+  },
+  {
     "id": 129726,
     "name": "Yuba City",
     "state_id": 1416,
@@ -12317,17 +12328,6 @@
     "country_code": "US",
     "latitude": "39.14045000",
     "longitude": "-121.61691000",
-    "wikiDataId": null
-  },
-  {
-    "id": 129727,
-    "name": "Yuba County",
-    "state_id": 1416,
-    "state_code": "CA",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "39.26902000",
-    "longitude": "-121.35126000",
     "wikiDataId": null
   },
   {

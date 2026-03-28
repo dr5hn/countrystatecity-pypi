@@ -1,49 +1,5 @@
 [
   {
-    "id": 105185,
-    "name": "Amphoe Ba Cho",
-    "state_id": 3553,
-    "state_code": "96",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.54591000",
-    "longitude": "101.64923000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105283,
-    "name": "Amphoe Chanae",
-    "state_id": 3553,
-    "state_code": "96",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.04591000",
-    "longitude": "101.61765000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105301,
-    "name": "Amphoe Cho-airong",
-    "state_id": 3553,
-    "state_code": "96",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.23011000",
-    "longitude": "101.84721000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105560,
-    "name": "Amphoe Mueang Narathiwat",
-    "state_id": 3553,
-    "state_code": "96",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.39391000",
-    "longitude": "101.81316000",
-    "wikiDataId": null
-  },
-  {
     "id": 105802,
     "name": "Amphoe Ra-ngae",
     "state_id": 3553,
@@ -52,28 +8,6 @@
     "country_code": "TH",
     "latitude": "6.25504000",
     "longitude": "101.70496000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105815,
-    "name": "Amphoe Rueso",
-    "state_id": 3553,
-    "state_code": "96",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.37450000",
-    "longitude": "101.51491000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106222,
-    "name": "Amphoe Si Sakhon",
-    "state_id": 3553,
-    "state_code": "96",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.19360000",
-    "longitude": "101.51257000",
     "wikiDataId": null
   },
   {
@@ -88,28 +22,6 @@
     "wikiDataId": null
   },
   {
-    "id": 106252,
-    "name": "Amphoe Su-ngai Padi",
-    "state_id": 3553,
-    "state_code": "96",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.10425000",
-    "longitude": "101.89333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106255,
-    "name": "Amphoe Sukhirin",
-    "state_id": 3553,
-    "state_code": "96",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "5.91513000",
-    "longitude": "101.73811000",
-    "wikiDataId": null
-  },
-  {
     "id": 106261,
     "name": "Amphoe Tak Bai",
     "state_id": 3553,
@@ -121,25 +33,14 @@
     "wikiDataId": null
   },
   {
-    "id": 106330,
-    "name": "Amphoe Waeng",
+    "id": 105185,
+    "name": "Ba Cho",
     "state_id": 3553,
     "state_code": "96",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "5.90042000",
-    "longitude": "101.86195000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106379,
-    "name": "Amphoe Yi-ngo",
-    "state_id": 3553,
-    "state_code": "96",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.41655000",
-    "longitude": "101.70035000",
+    "latitude": "6.54591000",
+    "longitude": "101.64923000",
     "wikiDataId": null
   },
   {
@@ -151,6 +52,39 @@
     "country_code": "TH",
     "latitude": "6.07239000",
     "longitude": "101.87172000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105283,
+    "name": "Chanae",
+    "state_id": 3553,
+    "state_code": "96",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "6.04591000",
+    "longitude": "101.61765000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105301,
+    "name": "Cho-airong",
+    "state_id": 3553,
+    "state_code": "96",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "6.23011000",
+    "longitude": "101.84721000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105560,
+    "name": "Mueang Narathiwat",
+    "state_id": 3553,
+    "state_code": "96",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "6.39391000",
+    "longitude": "101.81316000",
     "wikiDataId": null
   },
   {
@@ -176,6 +110,28 @@
     "wikiDataId": null
   },
   {
+    "id": 105815,
+    "name": "Rueso",
+    "state_id": 3553,
+    "state_code": "96",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "6.37450000",
+    "longitude": "101.51491000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106222,
+    "name": "Si Sakhon",
+    "state_id": 3553,
+    "state_code": "96",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "6.19360000",
+    "longitude": "101.51257000",
+    "wikiDataId": null
+  },
+  {
     "id": 106705,
     "name": "Su-ngai Kolok",
     "state_id": 3553,
@@ -187,6 +143,28 @@
     "wikiDataId": null
   },
   {
+    "id": 106252,
+    "name": "Su-ngai Padi",
+    "state_id": 3553,
+    "state_code": "96",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "6.10425000",
+    "longitude": "101.89333000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106255,
+    "name": "Sukhirin",
+    "state_id": 3553,
+    "state_code": "96",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "5.91513000",
+    "longitude": "101.73811000",
+    "wikiDataId": null
+  },
+  {
     "id": 106714,
     "name": "Tak Bai",
     "state_id": 3553,
@@ -195,6 +173,28 @@
     "country_code": "TH",
     "latitude": "6.25947000",
     "longitude": "102.05461000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106330,
+    "name": "Waeng",
+    "state_id": 3553,
+    "state_code": "96",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "5.90042000",
+    "longitude": "101.86195000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106379,
+    "name": "Yi-ngo",
+    "state_id": 3553,
+    "state_code": "96",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "6.41655000",
+    "longitude": "101.70035000",
     "wikiDataId": null
   }
 ]

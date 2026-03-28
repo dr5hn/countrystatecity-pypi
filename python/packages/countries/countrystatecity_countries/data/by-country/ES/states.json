@@ -104,6 +104,19 @@
     "timezone": "Europe/Madrid"
   },
   {
+    "id": 5701,
+    "name": "Asturias, Principality of",
+    "country_id": 207,
+    "country_code": "ES",
+    "state_code": "AS",
+    "type": "autonomous community",
+    "latitude": "43.36138889",
+    "longitude": "-5.84777778",
+    "iso3166_2": "ES-AS",
+    "native": "Principado de Asturias",
+    "timezone": "Europe/Madrid"
+  },
+  {
     "id": 1189,
     "name": "Ávila",
     "country_id": 207,
@@ -244,6 +257,19 @@
     "longitude": "-4.08783820",
     "iso3166_2": "ES-S",
     "native": "Furtivo",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5702,
+    "name": "Cantabria",
+    "country_id": 207,
+    "country_code": "ES",
+    "state_code": "CB",
+    "type": "autonomous community",
+    "latitude": "43.33333333",
+    "longitude": "-4.00000000",
+    "iso3166_2": "ES-CB",
+    "native": "Cantabria",
     "timezone": "Europe/Madrid"
   },
   {
@@ -491,6 +517,19 @@
     "longitude": "-3.78832890",
     "iso3166_2": "ES-J",
     "native": "Jaén",
+    "timezone": "Europe/Madrid"
+  },
+  {
+    "id": 5703,
+    "name": "La Rioja",
+    "country_id": 207,
+    "country_code": "ES",
+    "state_code": "RI",
+    "type": "autonomous community",
+    "latitude": "42.25000000",
+    "longitude": "-2.50000000",
+    "iso3166_2": "ES-RI",
+    "native": "La Rioja",
     "timezone": "Europe/Madrid"
   },
   {

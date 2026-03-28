@@ -1,7 +1,7 @@
 [
   {
     "id": 56342,
-    "name": "Kabupaten Barito Selatan",
+    "name": "Barito Selatan",
     "state_id": 1794,
     "state_code": "KT",
     "country_id": 102,
@@ -12,7 +12,7 @@
   },
   {
     "id": 56343,
-    "name": "Kabupaten Barito Timur",
+    "name": "Barito Timur",
     "state_id": 1794,
     "state_code": "KT",
     "country_id": 102,
@@ -23,7 +23,7 @@
   },
   {
     "id": 56344,
-    "name": "Kabupaten Barito Utara",
+    "name": "Barito Utara",
     "state_id": 1794,
     "state_code": "KT",
     "country_id": 102,
@@ -34,7 +34,7 @@
   },
   {
     "id": 56415,
-    "name": "Kabupaten Gunung Mas",
+    "name": "Gunung Mas",
     "state_id": 1794,
     "state_code": "KT",
     "country_id": 102,
@@ -45,7 +45,7 @@
   },
   {
     "id": 56437,
-    "name": "Kabupaten Kapuas",
+    "name": "Kapuas",
     "state_id": 1794,
     "state_code": "KT",
     "country_id": 102,
@@ -56,7 +56,7 @@
   },
   {
     "id": 56443,
-    "name": "Kabupaten Katingan",
+    "name": "Katingan",
     "state_id": 1794,
     "state_code": "KT",
     "country_id": 102,
@@ -67,7 +67,7 @@
   },
   {
     "id": 56469,
-    "name": "Kabupaten Kotawaringin Barat",
+    "name": "Kotawaringin Barat",
     "state_id": 1794,
     "state_code": "KT",
     "country_id": 102,
@@ -78,68 +78,13 @@
   },
   {
     "id": 56470,
-    "name": "Kabupaten Kotawaringin Timur",
+    "name": "Kotawaringin Timur",
     "state_id": 1794,
     "state_code": "KT",
     "country_id": 102,
     "country_code": "ID",
     "latitude": "-2.08333000",
     "longitude": "112.75000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56482,
-    "name": "Kabupaten Lamandau",
-    "state_id": 1794,
-    "state_code": "KT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.83828000",
-    "longitude": "111.28690000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56547,
-    "name": "Kabupaten Murung Raya",
-    "state_id": 1794,
-    "state_code": "KT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-0.01667000",
-    "longitude": "114.26667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56601,
-    "name": "Kabupaten Pulang Pisau",
-    "state_id": 1794,
-    "state_code": "KT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.11858000",
-    "longitude": "113.86230000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56625,
-    "name": "Kabupaten Seruyan",
-    "state_id": 1794,
-    "state_code": "KT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.33333000",
-    "longitude": "112.25000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56646,
-    "name": "Kabupaten Sukamara",
-    "state_id": 1794,
-    "state_code": "KT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.62675000",
-    "longitude": "111.23681000",
     "wikiDataId": null
   },
   {
@@ -151,6 +96,28 @@
     "country_code": "ID",
     "latitude": "-3.00913000",
     "longitude": "114.38759000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56482,
+    "name": "Lamandau",
+    "state_id": 1794,
+    "state_code": "KT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.83828000",
+    "longitude": "111.28690000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56547,
+    "name": "Murung Raya",
+    "state_id": 1794,
+    "state_code": "KT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-0.01667000",
+    "longitude": "114.26667000",
     "wikiDataId": null
   },
   {
@@ -176,6 +143,17 @@
     "wikiDataId": null
   },
   {
+    "id": 56601,
+    "name": "Pulang Pisau",
+    "state_id": 1794,
+    "state_code": "KT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.11858000",
+    "longitude": "113.86230000",
+    "wikiDataId": null
+  },
+  {
     "id": 56961,
     "name": "Sampit",
     "state_id": 1794,
@@ -184,6 +162,28 @@
     "country_code": "ID",
     "latitude": "-2.53150000",
     "longitude": "112.94960000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56625,
+    "name": "Seruyan",
+    "state_id": 1794,
+    "state_code": "KT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.33333000",
+    "longitude": "112.25000000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56646,
+    "name": "Sukamara",
+    "state_id": 1794,
+    "state_code": "KT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.62675000",
+    "longitude": "111.23681000",
     "wikiDataId": null
   }
 ]

@@ -195,6 +195,19 @@
     "timezone": "Africa/Mogadishu"
   },
   {
+    "id": 5699,
+    "name": "Sool",
+    "country_id": 203,
+    "country_code": "SO",
+    "state_code": "SO",
+    "type": "region",
+    "latitude": "8.39611111",
+    "longitude": "47.69138889",
+    "iso3166_2": "SO-SO",
+    "native": "Sool",
+    "timezone": "Africa/Mogadishu"
+  },
+  {
     "id": 929,
     "name": "Togdheer",
     "country_id": 203,
@@ -205,6 +218,19 @@
     "longitude": "45.48612130",
     "iso3166_2": "SO-TO",
     "native": "Togdheer",
+    "timezone": "Africa/Mogadishu"
+  },
+  {
+    "id": 5700,
+    "name": "Woqooyi Galbeed",
+    "country_id": 203,
+    "country_code": "SO",
+    "state_code": "WO",
+    "type": "region",
+    "latitude": "9.56305556",
+    "longitude": "44.06750000",
+    "iso3166_2": "SO-WO",
+    "native": "Maroodi Jeex",
     "timezone": "Africa/Mogadishu"
   }
 ]

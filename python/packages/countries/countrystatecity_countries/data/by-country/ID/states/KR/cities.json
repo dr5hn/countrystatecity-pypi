@@ -1,7 +1,7 @@
 [
   {
     "id": 56361,
-    "name": "Kabupaten Bintan",
+    "name": "Bintan",
     "state_id": 1807,
     "state_code": "KR",
     "country_id": 102,
@@ -12,7 +12,7 @@
   },
   {
     "id": 56441,
-    "name": "Kabupaten Karimun",
+    "name": "Karimun",
     "state_id": 1807,
     "state_code": "KR",
     "country_id": 102,
@@ -23,35 +23,13 @@
   },
   {
     "id": 56450,
-    "name": "Kabupaten Kepulauan Anambas",
+    "name": "Kepulauan Anambas",
     "state_id": 1807,
     "state_code": "KR",
     "country_id": 102,
     "country_code": "ID",
     "latitude": "3.00000000",
     "longitude": "106.00000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56495,
-    "name": "Kabupaten Lingga",
-    "state_id": 1807,
-    "state_code": "KR",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "0.20000000",
-    "longitude": "104.61667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56554,
-    "name": "Kabupaten Natuna",
-    "state_id": 1807,
-    "state_code": "KR",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.71417000",
-    "longitude": "107.97639000",
     "wikiDataId": null
   },
   {
@@ -63,6 +41,28 @@
     "country_code": "ID",
     "latitude": "0.90000000",
     "longitude": "104.63333000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56495,
+    "name": "Lingga",
+    "state_id": 1807,
+    "state_code": "KR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.20000000",
+    "longitude": "104.61667000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56554,
+    "name": "Natuna",
+    "state_id": 1807,
+    "state_code": "KR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "4.71417000",
+    "longitude": "107.97639000",
     "wikiDataId": null
   },
   {

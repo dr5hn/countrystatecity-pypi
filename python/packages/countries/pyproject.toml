@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-countries"
-version = "1.0.0"
+version = "1.0.1"
 description = "Type-safe Python package for countries, states, and cities data with 250+ countries, 5000+ states, and 151K+ cities. Features Pydantic models, lazy loading, and comprehensive geographic metadata."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [

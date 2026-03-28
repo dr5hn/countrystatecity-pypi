@@ -11,61 +11,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105392,
-    "name": "Amphoe Khao Chakan",
-    "state_id": 3529,
-    "state_code": "27",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.62293000",
-    "longitude": "102.02665000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105405,
-    "name": "Amphoe Khlong Hat",
-    "state_id": 3529,
-    "state_code": "27",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.47396000",
-    "longitude": "102.27604000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105420,
-    "name": "Amphoe Khok Sung",
-    "state_id": 3529,
-    "state_code": "27",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.87388000",
-    "longitude": "102.66075000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105582,
-    "name": "Amphoe Mueang Sa Kaeo",
-    "state_id": 3529,
-    "state_code": "27",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.92969000",
-    "longitude": "102.10626000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106260,
-    "name": "Amphoe Ta Phraya",
-    "state_id": 3529,
-    "state_code": "27",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.06272000",
-    "longitude": "102.72601000",
-    "wikiDataId": null
-  },
-  {
     "id": 106340,
     "name": "Amphoe Wang Nam Yen",
     "state_id": 3529,
@@ -74,28 +19,6 @@
     "country_code": "TH",
     "latitude": "13.51900000",
     "longitude": "102.08718000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106347,
-    "name": "Amphoe Wang Sombun",
-    "state_id": 3529,
-    "state_code": "27",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.36112000",
-    "longitude": "102.12490000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106358,
-    "name": "Amphoe Watthana Nakhon",
-    "state_id": 3529,
-    "state_code": "27",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.88582000",
-    "longitude": "102.35652000",
     "wikiDataId": null
   },
   {
@@ -110,6 +33,50 @@
     "wikiDataId": null
   },
   {
+    "id": 105392,
+    "name": "Khao Chakan",
+    "state_id": 3529,
+    "state_code": "27",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.62293000",
+    "longitude": "102.02665000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105405,
+    "name": "Khlong Hat",
+    "state_id": 3529,
+    "state_code": "27",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.47396000",
+    "longitude": "102.27604000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105420,
+    "name": "Khok Sung",
+    "state_id": 3529,
+    "state_code": "27",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.87388000",
+    "longitude": "102.66075000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105582,
+    "name": "Mueang Sa Kaeo",
+    "state_id": 3529,
+    "state_code": "27",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.92969000",
+    "longitude": "102.10626000",
+    "wikiDataId": null
+  },
+  {
     "id": 106671,
     "name": "Sa Kaeo",
     "state_id": 3529,
@@ -121,6 +88,17 @@
     "wikiDataId": null
   },
   {
+    "id": 106260,
+    "name": "Ta Phraya",
+    "state_id": 3529,
+    "state_code": "27",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.06272000",
+    "longitude": "102.72601000",
+    "wikiDataId": null
+  },
+  {
     "id": 106743,
     "name": "Wang Nam Yen",
     "state_id": 3529,
@@ -129,6 +107,28 @@
     "country_code": "TH",
     "latitude": "13.50325000",
     "longitude": "102.18115000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106347,
+    "name": "Wang Sombun",
+    "state_id": 3529,
+    "state_code": "27",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.36112000",
+    "longitude": "102.12490000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106358,
+    "name": "Watthana Nakhon",
+    "state_id": 3529,
+    "state_code": "27",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.88582000",
+    "longitude": "102.35652000",
     "wikiDataId": null
   }
 ]

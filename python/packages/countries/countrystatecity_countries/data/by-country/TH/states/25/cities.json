@@ -1,16 +1,5 @@
 [
   {
-    "id": 105217,
-    "name": "Amphoe Ban Sang",
-    "state_id": 3542,
-    "state_code": "25",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.95005000",
-    "longitude": "101.25063000",
-    "wikiDataId": null
-  },
-  {
     "id": 105362,
     "name": "Amphoe Kabin Buri",
     "state_id": 3542,
@@ -22,58 +11,14 @@
     "wikiDataId": null
   },
   {
-    "id": 105576,
-    "name": "Amphoe Mueang Prachin Buri",
+    "id": 105217,
+    "name": "Ban Sang",
     "state_id": 3542,
     "state_code": "25",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "14.09335000",
-    "longitude": "101.39776000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105610,
-    "name": "Amphoe Na Di",
-    "state_id": 3542,
-    "state_code": "25",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.19253000",
-    "longitude": "101.84557000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105794,
-    "name": "Amphoe Prachantakham",
-    "state_id": 3542,
-    "state_code": "25",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.22813000",
-    "longitude": "101.57440000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106214,
-    "name": "Amphoe Si Maha Phot",
-    "state_id": 3542,
-    "state_code": "25",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.89041000",
-    "longitude": "101.54181000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106215,
-    "name": "Amphoe Si Mahosot",
-    "state_id": 3542,
-    "state_code": "25",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.87669000",
-    "longitude": "101.42499000",
+    "latitude": "13.95005000",
+    "longitude": "101.25063000",
     "wikiDataId": null
   },
   {
@@ -88,6 +33,39 @@
     "wikiDataId": null
   },
   {
+    "id": 105576,
+    "name": "Mueang Prachin Buri",
+    "state_id": 3542,
+    "state_code": "25",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.09335000",
+    "longitude": "101.39776000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105610,
+    "name": "Na Di",
+    "state_id": 3542,
+    "state_code": "25",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.19253000",
+    "longitude": "101.84557000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105794,
+    "name": "Prachantakham",
+    "state_id": 3542,
+    "state_code": "25",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.22813000",
+    "longitude": "101.57440000",
+    "wikiDataId": null
+  },
+  {
     "id": 106655,
     "name": "Prachin Buri",
     "state_id": 3542,
@@ -96,6 +74,28 @@
     "country_code": "TH",
     "latitude": "14.04992000",
     "longitude": "101.36864000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106214,
+    "name": "Si Maha Phot",
+    "state_id": 3542,
+    "state_code": "25",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.89041000",
+    "longitude": "101.54181000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106215,
+    "name": "Si Mahosot",
+    "state_id": 3542,
+    "state_code": "25",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.87669000",
+    "longitude": "101.42499000",
     "wikiDataId": null
   }
 ]

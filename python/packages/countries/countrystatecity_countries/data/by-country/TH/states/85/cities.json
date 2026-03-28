@@ -1,7 +1,7 @@
 [
   {
     "id": 105377,
-    "name": "Amphoe Kapoe",
+    "name": "Kapoe",
     "state_id": 3479,
     "state_code": "85",
     "country_id": 219,
@@ -12,7 +12,7 @@
   },
   {
     "id": 105451,
-    "name": "Amphoe Kra Buri",
+    "name": "Kra Buri",
     "state_id": 3479,
     "state_code": "85",
     "country_id": 219,
@@ -23,7 +23,7 @@
   },
   {
     "id": 105469,
-    "name": "Amphoe La-un",
+    "name": "La-un",
     "state_id": 3479,
     "state_code": "85",
     "country_id": 219,
@@ -34,24 +34,13 @@
   },
   {
     "id": 105578,
-    "name": "Amphoe Mueang Ranong",
+    "name": "Mueang Ranong",
     "state_id": 3479,
     "state_code": "85",
     "country_id": 219,
     "country_code": "TH",
     "latitude": "9.86238000",
     "longitude": "98.62229000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106254,
-    "name": "Amphoe Suk Samran",
-    "state_id": 3479,
-    "state_code": "85",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "9.41570000",
-    "longitude": "98.49117000",
     "wikiDataId": null
   },
   {
@@ -63,6 +52,17 @@
     "country_code": "TH",
     "latitude": "9.96583000",
     "longitude": "98.63476000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106254,
+    "name": "Suk Samran",
+    "state_id": 3479,
+    "state_code": "85",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "9.41570000",
+    "longitude": "98.49117000",
     "wikiDataId": null
   }
 ]

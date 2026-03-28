@@ -1,16 +1,5 @@
 [
   {
-    "id": 105346,
-    "name": "Amphoe Hat Samran",
-    "state_id": 3541,
-    "state_code": "92",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "7.25733000",
-    "longitude": "99.58160000",
-    "wikiDataId": null
-  },
-  {
     "id": 105359,
     "name": "Amphoe Huai Yot",
     "state_id": 3541,
@@ -33,80 +22,14 @@
     "wikiDataId": null
   },
   {
-    "id": 105598,
-    "name": "Amphoe Mueang Trang",
+    "id": 105346,
+    "name": "Hat Samran",
     "state_id": 3541,
     "state_code": "92",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "7.60944000",
-    "longitude": "99.61772000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105629,
-    "name": "Amphoe Na Yong",
-    "state_id": 3541,
-    "state_code": "92",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "7.56257000",
-    "longitude": "99.74791000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105709,
-    "name": "Amphoe Palian",
-    "state_id": 3541,
-    "state_code": "92",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "7.23340000",
-    "longitude": "99.79491000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105807,
-    "name": "Amphoe Ratsada",
-    "state_id": 3541,
-    "state_code": "92",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "7.93779000",
-    "longitude": "99.66771000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106233,
-    "name": "Amphoe Sikao",
-    "state_id": 3541,
-    "state_code": "92",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "7.57122000",
-    "longitude": "99.33915000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106349,
-    "name": "Amphoe Wang Wiset",
-    "state_id": 3541,
-    "state_code": "92",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "7.76061000",
-    "longitude": "99.40861000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106373,
-    "name": "Amphoe Yan Ta Khao",
-    "state_id": 3541,
-    "state_code": "92",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "7.42580000",
-    "longitude": "99.73438000",
+    "latitude": "7.25733000",
+    "longitude": "99.58160000",
     "wikiDataId": null
   },
   {
@@ -132,6 +55,61 @@
     "wikiDataId": null
   },
   {
+    "id": 105598,
+    "name": "Mueang Trang",
+    "state_id": 3541,
+    "state_code": "92",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "7.60944000",
+    "longitude": "99.61772000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105629,
+    "name": "Na Yong",
+    "state_id": 3541,
+    "state_code": "92",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "7.56257000",
+    "longitude": "99.74791000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105709,
+    "name": "Palian",
+    "state_id": 3541,
+    "state_code": "92",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "7.23340000",
+    "longitude": "99.79491000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105807,
+    "name": "Ratsada",
+    "state_id": 3541,
+    "state_code": "92",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "7.93779000",
+    "longitude": "99.66771000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106233,
+    "name": "Sikao",
+    "state_id": 3541,
+    "state_code": "92",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "7.57122000",
+    "longitude": "99.33915000",
+    "wikiDataId": null
+  },
+  {
     "id": 106735,
     "name": "Trang",
     "state_id": 3541,
@@ -140,6 +118,28 @@
     "country_code": "TH",
     "latitude": "7.55633000",
     "longitude": "99.61141000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106349,
+    "name": "Wang Wiset",
+    "state_id": 3541,
+    "state_code": "92",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "7.76061000",
+    "longitude": "99.40861000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106373,
+    "name": "Yan Ta Khao",
+    "state_id": 3541,
+    "state_code": "92",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "7.42580000",
+    "longitude": "99.73438000",
     "wikiDataId": null
   }
 ]

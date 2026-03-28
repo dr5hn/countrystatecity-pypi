@@ -1,16 +1,5 @@
 [
   {
-    "id": 158,
-    "name": "Bashkia Dropull",
-    "state_id": 604,
-    "state_code": "05",
-    "country_id": 3,
-    "country_code": "AL",
-    "latitude": "39.98584000",
-    "longitude": "20.30529000",
-    "wikiDataId": null
-  },
-  {
     "id": 164,
     "name": "Bashkia Kelcyrë",
     "state_id": 604,
@@ -63,6 +52,17 @@
     "country_code": "AL",
     "latitude": "40.26736000",
     "longitude": "19.97003000",
+    "wikiDataId": null
+  },
+  {
+    "id": 158,
+    "name": "Dropull",
+    "state_id": 604,
+    "state_code": "05",
+    "country_id": 3,
+    "country_code": "AL",
+    "latitude": "39.98584000",
+    "longitude": "20.30529000",
     "wikiDataId": null
   },
   {

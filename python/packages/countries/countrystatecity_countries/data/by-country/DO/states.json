@@ -39,6 +39,58 @@
     "timezone": "America/Santo_Domingo"
   },
   {
+    "id": 5540,
+    "name": "Cibao Nordeste",
+    "country_id": 62,
+    "country_code": "DO",
+    "state_code": "33",
+    "type": "region",
+    "latitude": "19.40000000",
+    "longitude": "-69.90000000",
+    "iso3166_2": "DO-33",
+    "native": "Cibao Nordeste",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5541,
+    "name": "Cibao Noroeste",
+    "country_id": 62,
+    "country_code": "DO",
+    "state_code": "34",
+    "type": "region",
+    "latitude": "19.60000000",
+    "longitude": "-71.00000000",
+    "iso3166_2": "DO-34",
+    "native": "Cibao Noroeste",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5542,
+    "name": "Cibao Norte",
+    "country_id": 62,
+    "country_code": "DO",
+    "state_code": "35",
+    "type": "region",
+    "latitude": "19.50000000",
+    "longitude": "-70.70000000",
+    "iso3166_2": "DO-35",
+    "native": "Cibao Norte",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5543,
+    "name": "Cibao Sur",
+    "country_id": 62,
+    "country_code": "DO",
+    "state_code": "36",
+    "type": "region",
+    "latitude": "19.20000000",
+    "longitude": "-70.50000000",
+    "iso3166_2": "DO-36",
+    "native": "Cibao Sur",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
     "id": 4107,
     "name": "Dajabón",
     "country_id": 62,
@@ -91,6 +143,45 @@
     "timezone": "America/Santo_Domingo"
   },
   {
+    "id": 5544,
+    "name": "El Valle",
+    "country_id": 62,
+    "country_code": "DO",
+    "state_code": "37",
+    "type": "region",
+    "latitude": "18.80000000",
+    "longitude": "-71.20000000",
+    "iso3166_2": "DO-37",
+    "native": "El Valle",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5539,
+    "name": "Elías Piña",
+    "country_id": 62,
+    "country_code": "DO",
+    "state_code": "07",
+    "type": "province",
+    "latitude": "19.03333000",
+    "longitude": "-71.68333000",
+    "iso3166_2": "DO-07",
+    "native": "Elías Piña",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5545,
+    "name": "Enriquillo",
+    "country_id": 62,
+    "country_code": "DO",
+    "state_code": "38",
+    "type": "region",
+    "latitude": "18.20000000",
+    "longitude": "-71.30000000",
+    "iso3166_2": "DO-38",
+    "native": "Enriquillo",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
     "id": 4102,
     "name": "Espaillat",
     "country_id": 62,
@@ -127,6 +218,19 @@
     "longitude": "-70.38405780",
     "iso3166_2": "DO-19",
     "native": "Hermanas Mirabal",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5546,
+    "name": "Higuamo",
+    "country_id": 62,
+    "country_code": "DO",
+    "state_code": "39",
+    "type": "region",
+    "latitude": "18.70000000",
+    "longitude": "-69.20000000",
+    "iso3166_2": "DO-39",
+    "native": "Higuamo",
     "timezone": "America/Santo_Domingo"
   },
   {
@@ -231,6 +335,19 @@
     "longitude": "-69.78691460",
     "iso3166_2": "DO-29",
     "native": "Monte Plata",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5547,
+    "name": "Ozama",
+    "country_id": 62,
+    "country_code": "DO",
+    "state_code": "40",
+    "type": "region",
+    "latitude": "18.50000000",
+    "longitude": "-69.90000000",
+    "iso3166_2": "DO-40",
+    "native": "Ozama",
     "timezone": "America/Santo_Domingo"
   },
   {
@@ -390,6 +507,19 @@
     "timezone": "America/Santo_Domingo"
   },
   {
+    "id": 5548,
+    "name": "Valdesia",
+    "country_id": 62,
+    "country_code": "DO",
+    "state_code": "41",
+    "type": "region",
+    "latitude": "18.40000000",
+    "longitude": "-70.30000000",
+    "iso3166_2": "DO-41",
+    "native": "Valdesia",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
     "id": 4104,
     "name": "Valverde",
     "country_id": 62,
@@ -400,6 +530,19 @@
     "longitude": "-71.03039740",
     "iso3166_2": "DO-27",
     "native": "Valverde",
+    "timezone": "America/Santo_Domingo"
+  },
+  {
+    "id": 5549,
+    "name": "Yuma",
+    "country_id": 62,
+    "country_code": "DO",
+    "state_code": "42",
+    "type": "region",
+    "latitude": "18.60000000",
+    "longitude": "-68.70000000",
+    "iso3166_2": "DO-42",
+    "native": "Yuma",
     "timezone": "America/Santo_Domingo"
   }
 ]

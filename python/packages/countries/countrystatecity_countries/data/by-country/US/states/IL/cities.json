@@ -78,7 +78,7 @@
   },
   {
     "id": 111147,
-    "name": "Alexander County",
+    "name": "Alexander",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -683,7 +683,7 @@
   },
   {
     "id": 112531,
-    "name": "Bond County",
+    "name": "Bond",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -826,7 +826,7 @@
   },
   {
     "id": 112907,
-    "name": "Brown County",
+    "name": "Brown",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -881,7 +881,7 @@
   },
   {
     "id": 113049,
-    "name": "Bureau County",
+    "name": "Bureau",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -1211,7 +1211,7 @@
   },
   {
     "id": 113526,
-    "name": "Cass County",
+    "name": "Cass",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -1475,7 +1475,7 @@
   },
   {
     "id": 113995,
-    "name": "Christian County",
+    "name": "Christian",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -1618,7 +1618,7 @@
   },
   {
     "id": 114402,
-    "name": "Coles County",
+    "name": "Coles",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -1673,7 +1673,7 @@
   },
   {
     "id": 114592,
-    "name": "Cook County",
+    "name": "Cook",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -1728,7 +1728,7 @@
   },
   {
     "id": 114776,
-    "name": "Crawford County",
+    "name": "Crawford",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -1882,7 +1882,7 @@
   },
   {
     "id": 115123,
-    "name": "De Witt County",
+    "name": "De Witt",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -2091,7 +2091,7 @@
   },
   {
     "id": 115488,
-    "name": "DuPage County",
+    "name": "DuPage",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -2234,7 +2234,7 @@
   },
   {
     "id": 115836,
-    "name": "Edgar County",
+    "name": "Edgar",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -2267,7 +2267,7 @@
   },
   {
     "id": 115889,
-    "name": "Edwards County",
+    "name": "Edwards",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -2608,7 +2608,7 @@
   },
   {
     "id": 116637,
-    "name": "Ford County",
+    "name": "Ford",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -2850,7 +2850,7 @@
   },
   {
     "id": 117034,
-    "name": "Gallatin County",
+    "name": "Gallatin",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -3323,7 +3323,7 @@
   },
   {
     "id": 117772,
-    "name": "Grundy County",
+    "name": "Grundy",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -3917,7 +3917,7 @@
   },
   {
     "id": 119000,
-    "name": "Iroquois County",
+    "name": "Iroquois",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -4016,7 +4016,7 @@
   },
   {
     "id": 119232,
-    "name": "Jersey County",
+    "name": "Jersey",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -4038,7 +4038,7 @@
   },
   {
     "id": 119249,
-    "name": "Jo Daviess County",
+    "name": "Jo Daviess",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -4115,7 +4115,7 @@
   },
   {
     "id": 119377,
-    "name": "Kane County",
+    "name": "Kane",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -4148,7 +4148,7 @@
   },
   {
     "id": 119447,
-    "name": "Kendall County",
+    "name": "Kendall",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -4334,6 +4334,17 @@
     "wikiDataId": null
   },
   {
+    "id": 119891,
+    "name": "Lake",
+    "state_id": 1425,
+    "state_code": "IL",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "42.34941000",
+    "longitude": "-87.86179000",
+    "wikiDataId": null
+  },
+  {
     "id": 119869,
     "name": "Lake Barrington",
     "state_id": 1425,
@@ -4375,17 +4386,6 @@
     "country_code": "US",
     "latitude": "42.47919000",
     "longitude": "-88.13342000",
-    "wikiDataId": null
-  },
-  {
-    "id": 119891,
-    "name": "Lake County",
-    "state_id": 1425,
-    "state_code": "IL",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "42.34941000",
-    "longitude": "-87.86179000",
     "wikiDataId": null
   },
   {
@@ -4522,7 +4522,7 @@
   },
   {
     "id": 119806,
-    "name": "LaSalle County",
+    "name": "LaSalle",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -4577,7 +4577,7 @@
   },
   {
     "id": 120317,
-    "name": "Lee County",
+    "name": "Lee",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -4973,7 +4973,7 @@
   },
   {
     "id": 120973,
-    "name": "Macoupin County",
+    "name": "Macoupin",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -5237,7 +5237,7 @@
   },
   {
     "id": 121388,
-    "name": "Massac County",
+    "name": "Massac",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -5292,7 +5292,7 @@
   },
   {
     "id": 121494,
-    "name": "McDonough County",
+    "name": "McDonough",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -5336,7 +5336,7 @@
   },
   {
     "id": 121529,
-    "name": "McLean County",
+    "name": "McLean",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -5710,7 +5710,7 @@
   },
   {
     "id": 122317,
-    "name": "Moultrie County",
+    "name": "Moultrie",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -6304,7 +6304,7 @@
   },
   {
     "id": 123376,
-    "name": "Ogle County",
+    "name": "Ogle",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -6711,7 +6711,7 @@
   },
   {
     "id": 124152,
-    "name": "Piatt County",
+    "name": "Piatt",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -6722,7 +6722,7 @@
   },
   {
     "id": 124188,
-    "name": "Pike County",
+    "name": "Pike",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -6832,7 +6832,7 @@
   },
   {
     "id": 124482,
-    "name": "Pope County",
+    "name": "Pope",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -6986,7 +6986,7 @@
   },
   {
     "id": 124766,
-    "name": "Putnam County",
+    "name": "Putnam",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -7019,7 +7019,7 @@
   },
   {
     "id": 124875,
-    "name": "Randolph County",
+    "name": "Randolph",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -7052,7 +7052,7 @@
   },
   {
     "id": 125074,
-    "name": "Richland County",
+    "name": "Richland",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -7547,7 +7547,7 @@
   },
   {
     "id": 125750,
-    "name": "Saline County",
+    "name": "Saline",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -7580,7 +7580,7 @@
   },
   {
     "id": 125889,
-    "name": "Sangamon County",
+    "name": "Sangamon",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -7646,13 +7646,24 @@
   },
   {
     "id": 126022,
-    "name": "Schuyler County",
+    "name": "Schuyler",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
     "country_code": "US",
     "latitude": "40.15803000",
     "longitude": "-90.61507000",
+    "wikiDataId": null
+  },
+  {
+    "id": 126044,
+    "name": "Scott",
+    "state_id": 1425,
+    "state_code": "IL",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "39.64414000",
+    "longitude": "-90.47470000",
     "wikiDataId": null
   },
   {
@@ -7664,17 +7675,6 @@
     "country_code": "US",
     "latitude": "38.54270000",
     "longitude": "-89.85035000",
-    "wikiDataId": null
-  },
-  {
-    "id": 126044,
-    "name": "Scott County",
-    "state_id": 1425,
-    "state_code": "IL",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "39.64414000",
-    "longitude": "-90.47470000",
     "wikiDataId": null
   },
   {
@@ -8031,7 +8031,7 @@
   },
   {
     "id": 126984,
-    "name": "Stark County",
+    "name": "Stark",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -8075,7 +8075,7 @@
   },
   {
     "id": 127024,
-    "name": "Stephenson County",
+    "name": "Stephenson",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -8537,7 +8537,7 @@
   },
   {
     "id": 128183,
-    "name": "Vermilion County",
+    "name": "Vermilion",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -9054,7 +9054,7 @@
   },
   {
     "id": 129136,
-    "name": "White County",
+    "name": "White",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -9076,7 +9076,7 @@
   },
   {
     "id": 129186,
-    "name": "Whiteside County",
+    "name": "Whiteside",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -9087,7 +9087,7 @@
   },
   {
     "id": 129253,
-    "name": "Will County",
+    "name": "Will",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -9098,7 +9098,7 @@
   },
   {
     "id": 129276,
-    "name": "Williamson County",
+    "name": "Williamson",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,
@@ -9274,7 +9274,7 @@
   },
   {
     "id": 129520,
-    "name": "Woodford County",
+    "name": "Woodford",
     "state_id": 1425,
     "state_code": "IL",
     "country_id": 233,

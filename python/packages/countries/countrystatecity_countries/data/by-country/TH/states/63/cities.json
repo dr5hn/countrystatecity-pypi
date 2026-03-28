@@ -33,61 +33,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105597,
-    "name": "Amphoe Mueang Tak",
-    "state_id": 3525,
-    "state_code": "63",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "16.87650000",
-    "longitude": "99.16617000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105758,
-    "name": "Amphoe Phop Phra",
-    "state_id": 3525,
-    "state_code": "63",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "16.47215000",
-    "longitude": "98.83501000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106285,
-    "name": "Amphoe Tha Song Yang",
-    "state_id": 3525,
-    "state_code": "63",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "17.47481000",
-    "longitude": "98.12079000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106326,
-    "name": "Amphoe Umphang",
-    "state_id": 3525,
-    "state_code": "63",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.79496000",
-    "longitude": "98.87787000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106335,
-    "name": "Amphoe Wang Chao",
-    "state_id": 3525,
-    "state_code": "63",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "16.63311000",
-    "longitude": "99.14826000",
-    "wikiDataId": null
-  },
-  {
     "id": 106415,
     "name": "Ban Tak",
     "state_id": 3525,
@@ -121,6 +66,28 @@
     "wikiDataId": null
   },
   {
+    "id": 105597,
+    "name": "Mueang Tak",
+    "state_id": 3525,
+    "state_code": "63",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "16.87650000",
+    "longitude": "99.16617000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105758,
+    "name": "Phop Phra",
+    "state_id": 3525,
+    "state_code": "63",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "16.47215000",
+    "longitude": "98.83501000",
+    "wikiDataId": null
+  },
+  {
     "id": 106713,
     "name": "Tak",
     "state_id": 3525,
@@ -129,6 +96,39 @@
     "country_code": "TH",
     "latitude": "16.86968000",
     "longitude": "99.12898000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106285,
+    "name": "Tha Song Yang",
+    "state_id": 3525,
+    "state_code": "63",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "17.47481000",
+    "longitude": "98.12079000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106326,
+    "name": "Umphang",
+    "state_id": 3525,
+    "state_code": "63",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "15.79496000",
+    "longitude": "98.87787000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106335,
+    "name": "Wang Chao",
+    "state_id": 3525,
+    "state_code": "63",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "16.63311000",
+    "longitude": "99.14826000",
     "wikiDataId": null
   }
 ]

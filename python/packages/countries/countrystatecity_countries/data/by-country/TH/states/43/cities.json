@@ -1,71 +1,5 @@
 [
   {
-    "id": 105341,
-    "name": "Amphoe Fao Rai",
-    "state_id": 3484,
-    "state_code": "43",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "18.00275000",
-    "longitude": "103.29640000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105562,
-    "name": "Amphoe Mueang Nong Khai",
-    "state_id": 3484,
-    "state_code": "43",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "17.84661000",
-    "longitude": "102.78911000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105748,
-    "name": "Amphoe Pho Tak",
-    "state_id": 3484,
-    "state_code": "43",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "17.88819000",
-    "longitude": "102.43023000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105757,
-    "name": "Amphoe Phonphisai",
-    "state_id": 3484,
-    "state_code": "43",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "17.95443000",
-    "longitude": "103.12279000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105809,
-    "name": "Amphoe Rattanawapi",
-    "state_id": 3484,
-    "state_code": "43",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "18.19255000",
-    "longitude": "103.23760000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105817,
-    "name": "Amphoe Sa Khrai",
-    "state_id": 3484,
-    "state_code": "43",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "17.65985000",
-    "longitude": "102.70847000",
-    "wikiDataId": null
-  },
-  {
     "id": 106189,
     "name": "Amphoe Sangkhom",
     "state_id": 3484,
@@ -99,6 +33,28 @@
     "wikiDataId": null
   },
   {
+    "id": 105341,
+    "name": "Fao Rai",
+    "state_id": 3484,
+    "state_code": "43",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "18.00275000",
+    "longitude": "103.29640000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105562,
+    "name": "Mueang Nong Khai",
+    "state_id": 3484,
+    "state_code": "43",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "17.84661000",
+    "longitude": "102.78911000",
+    "wikiDataId": null
+  },
+  {
     "id": 106600,
     "name": "Nong Khai",
     "state_id": 3484,
@@ -110,6 +66,17 @@
     "wikiDataId": null
   },
   {
+    "id": 105748,
+    "name": "Pho Tak",
+    "state_id": 3484,
+    "state_code": "43",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "17.88819000",
+    "longitude": "102.43023000",
+    "wikiDataId": null
+  },
+  {
     "id": 106640,
     "name": "Phon Charoen",
     "state_id": 3484,
@@ -118,6 +85,39 @@
     "country_code": "TH",
     "latitude": "18.03333000",
     "longitude": "103.16667000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105757,
+    "name": "Phonphisai",
+    "state_id": 3484,
+    "state_code": "43",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "17.95443000",
+    "longitude": "103.12279000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105809,
+    "name": "Rattanawapi",
+    "state_id": 3484,
+    "state_code": "43",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "18.19255000",
+    "longitude": "103.23760000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105817,
+    "name": "Sa Khrai",
+    "state_id": 3484,
+    "state_code": "43",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "17.65985000",
+    "longitude": "102.70847000",
     "wikiDataId": null
   },
   {

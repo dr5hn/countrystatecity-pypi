@@ -342,7 +342,7 @@
   },
   {
     "id": 112150,
-    "name": "Beltrami County",
+    "name": "Beltrami",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -397,7 +397,7 @@
   },
   {
     "id": 112336,
-    "name": "Big Stone County",
+    "name": "Big Stone",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -551,7 +551,7 @@
   },
   {
     "id": 112911,
-    "name": "Brown County",
+    "name": "Brown",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -683,7 +683,7 @@
   },
   {
     "id": 113532,
-    "name": "Cass County",
+    "name": "Cass",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -760,13 +760,24 @@
   },
   {
     "id": 113974,
-    "name": "Chippewa County",
+    "name": "Chippewa",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
     "country_code": "US",
     "latitude": "45.02234000",
     "longitude": "-95.56669000",
+    "wikiDataId": null
+  },
+  {
+    "id": 113978,
+    "name": "Chisago",
+    "state_id": 1420,
+    "state_code": "MN",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "45.50247000",
+    "longitude": "-92.90834000",
     "wikiDataId": null
   },
   {
@@ -778,17 +789,6 @@
     "country_code": "US",
     "latitude": "45.37358000",
     "longitude": "-92.88994000",
-    "wikiDataId": null
-  },
-  {
-    "id": 113978,
-    "name": "Chisago County",
-    "state_id": 1420,
-    "state_code": "MN",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "45.50247000",
-    "longitude": "-92.90834000",
     "wikiDataId": null
   },
   {
@@ -958,7 +958,7 @@
   },
   {
     "id": 114593,
-    "name": "Cook County",
+    "name": "Cook",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -1057,7 +1057,7 @@
   },
   {
     "id": 114861,
-    "name": "Crow Wing County",
+    "name": "Crow Wing",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -1079,7 +1079,7 @@
   },
   {
     "id": 114976,
-    "name": "Dakota County",
+    "name": "Dakota",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -1177,6 +1177,17 @@
     "wikiDataId": null
   },
   {
+    "id": 115378,
+    "name": "Dodge",
+    "state_id": 1420,
+    "state_code": "MN",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "44.02259000",
+    "longitude": "-92.86205000",
+    "wikiDataId": null
+  },
+  {
     "id": 115375,
     "name": "Dodge Center",
     "state_id": 1420,
@@ -1185,17 +1196,6 @@
     "country_code": "US",
     "latitude": "44.02802000",
     "longitude": "-92.85464000",
-    "wikiDataId": null
-  },
-  {
-    "id": 115378,
-    "name": "Dodge County",
-    "state_id": 1420,
-    "state_code": "MN",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "44.02259000",
-    "longitude": "-92.86205000",
     "wikiDataId": null
   },
   {
@@ -1508,7 +1508,7 @@
   },
   {
     "id": 116510,
-    "name": "Fillmore County",
+    "name": "Fillmore",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -1563,7 +1563,7 @@
   },
   {
     "id": 116899,
-    "name": "Freeborn County",
+    "name": "Freeborn",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -1860,7 +1860,7 @@
   },
   {
     "id": 118291,
-    "name": "Hennepin County",
+    "name": "Hennepin",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -1948,7 +1948,7 @@
   },
   {
     "id": 118732,
-    "name": "Hubbard County",
+    "name": "Hubbard",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -2036,7 +2036,7 @@
   },
   {
     "id": 119041,
-    "name": "Itasca County",
+    "name": "Itasca",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -2102,7 +2102,7 @@
   },
   {
     "id": 119373,
-    "name": "Kanabec County",
+    "name": "Kanabec",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -2113,7 +2113,7 @@
   },
   {
     "id": 119375,
-    "name": "Kandiyohi County",
+    "name": "Kandiyohi",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -2157,7 +2157,7 @@
   },
   {
     "id": 119667,
-    "name": "Kittson County",
+    "name": "Kittson",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -2168,7 +2168,7 @@
   },
   {
     "id": 119705,
-    "name": "Koochiching County",
+    "name": "Koochiching",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -2190,13 +2190,24 @@
   },
   {
     "id": 119811,
-    "name": "Lac qui Parle County",
+    "name": "Lac qui Parle",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
     "country_code": "US",
     "latitude": "44.99549000",
     "longitude": "-96.17348000",
+    "wikiDataId": null
+  },
+  {
+    "id": 119894,
+    "name": "Lake",
+    "state_id": 1420,
+    "state_code": "MN",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "47.52317000",
+    "longitude": "-91.40885000",
     "wikiDataId": null
   },
   {
@@ -2208,17 +2219,6 @@
     "country_code": "US",
     "latitude": "44.44968000",
     "longitude": "-92.26820000",
-    "wikiDataId": null
-  },
-  {
-    "id": 119894,
-    "name": "Lake County",
-    "state_id": 1420,
-    "state_code": "MN",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "47.52317000",
-    "longitude": "-91.40885000",
     "wikiDataId": null
   },
   {
@@ -2245,7 +2245,7 @@
   },
   {
     "id": 120008,
-    "name": "Lake of the Woods County",
+    "name": "Lake of the Woods",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -2509,7 +2509,7 @@
   },
   {
     "id": 120938,
-    "name": "Lyon County",
+    "name": "Lyon",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -2685,7 +2685,7 @@
   },
   {
     "id": 121341,
-    "name": "Martin County",
+    "name": "Martin",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -2707,7 +2707,7 @@
   },
   {
     "id": 121535,
-    "name": "McLeod County",
+    "name": "McLeod",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -2740,7 +2740,7 @@
   },
   {
     "id": 121614,
-    "name": "Meeker County",
+    "name": "Meeker",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -2795,7 +2795,7 @@
   },
   {
     "id": 121876,
-    "name": "Mille Lacs County",
+    "name": "Mille Lacs",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -2949,7 +2949,7 @@
   },
   {
     "id": 122277,
-    "name": "Morrison County",
+    "name": "Morrison",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -3004,7 +3004,7 @@
   },
   {
     "id": 122445,
-    "name": "Mower County",
+    "name": "Mower",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -3015,7 +3015,7 @@
   },
   {
     "id": 122495,
-    "name": "Murray County",
+    "name": "Murray",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -3147,7 +3147,7 @@
   },
   {
     "id": 122920,
-    "name": "Nobles County",
+    "name": "Nobles",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -3158,7 +3158,7 @@
   },
   {
     "id": 122950,
-    "name": "Norman County",
+    "name": "Norman",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -3312,7 +3312,7 @@
   },
   {
     "id": 123454,
-    "name": "Olmsted County",
+    "name": "Olmsted",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -3389,7 +3389,7 @@
   },
   {
     "id": 123641,
-    "name": "Otter Tail County",
+    "name": "Otter Tail",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -3466,7 +3466,7 @@
   },
   {
     "id": 124030,
-    "name": "Pennington County",
+    "name": "Pennington",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -3509,6 +3509,17 @@
     "wikiDataId": null
   },
   {
+    "id": 124219,
+    "name": "Pine",
+    "state_id": 1420,
+    "state_code": "MN",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "46.12077000",
+    "longitude": "-92.74127000",
+    "wikiDataId": null
+  },
+  {
     "id": 124218,
     "name": "Pine City",
     "state_id": 1420,
@@ -3517,17 +3528,6 @@
     "country_code": "US",
     "latitude": "45.82607000",
     "longitude": "-92.96854000",
-    "wikiDataId": null
-  },
-  {
-    "id": 124219,
-    "name": "Pine County",
-    "state_id": 1420,
-    "state_code": "MN",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "46.12077000",
-    "longitude": "-92.74127000",
     "wikiDataId": null
   },
   {
@@ -3587,7 +3587,7 @@
   },
   {
     "id": 124448,
-    "name": "Polk County",
+    "name": "Polk",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -3598,7 +3598,7 @@
   },
   {
     "id": 124483,
-    "name": "Pope County",
+    "name": "Pope",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -3730,7 +3730,7 @@
   },
   {
     "id": 124987,
-    "name": "Redwood County",
+    "name": "Redwood",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -3840,7 +3840,7 @@
   },
   {
     "id": 125272,
-    "name": "Rock County",
+    "name": "Rock",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -4060,7 +4060,7 @@
   },
   {
     "id": 125682,
-    "name": "Saint Louis County",
+    "name": "Saint Louis",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -4192,7 +4192,7 @@
   },
   {
     "id": 126052,
-    "name": "Scott County",
+    "name": "Scott",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -4236,7 +4236,7 @@
   },
   {
     "id": 126316,
-    "name": "Sherburne County",
+    "name": "Sherburne",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -4269,7 +4269,7 @@
   },
   {
     "id": 126392,
-    "name": "Sibley County",
+    "name": "Sibley",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -4423,7 +4423,7 @@
   },
   {
     "id": 127005,
-    "name": "Stearns County",
+    "name": "Stearns",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -4445,7 +4445,7 @@
   },
   {
     "id": 127040,
-    "name": "Stevens County",
+    "name": "Stevens",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -4478,7 +4478,7 @@
   },
   {
     "id": 127345,
-    "name": "Swift County",
+    "name": "Swift",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -4511,7 +4511,7 @@
   },
   {
     "id": 127693,
-    "name": "Todd County",
+    "name": "Todd",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -4544,7 +4544,7 @@
   },
   {
     "id": 127785,
-    "name": "Traverse County",
+    "name": "Traverse",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -4797,7 +4797,7 @@
   },
   {
     "id": 128637,
-    "name": "Watonwan County",
+    "name": "Watonwan",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -4885,7 +4885,7 @@
   },
   {
     "id": 129248,
-    "name": "Wilkin County",
+    "name": "Wilkin",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -4995,7 +4995,7 @@
   },
   {
     "id": 129610,
-    "name": "Wright County",
+    "name": "Wright",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,
@@ -5017,7 +5017,7 @@
   },
   {
     "id": 129678,
-    "name": "Yellow Medicine County",
+    "name": "Yellow Medicine",
     "state_id": 1420,
     "state_code": "MN",
     "country_id": 233,

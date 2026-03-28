@@ -1,7 +1,7 @@
 [
   {
     "id": 105256,
-    "name": "Amphoe Bua Chet",
+    "name": "Bua Chet",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -12,7 +12,7 @@
   },
   {
     "id": 105304,
-    "name": "Amphoe Chom Phra",
+    "name": "Chom Phra",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -23,7 +23,7 @@
   },
   {
     "id": 105313,
-    "name": "Amphoe Chumphon Buri",
+    "name": "Chumphon Buri",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -34,7 +34,7 @@
   },
   {
     "id": 105375,
-    "name": "Amphoe Kap Choeng",
+    "name": "Kap Choeng",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -45,7 +45,7 @@
   },
   {
     "id": 105436,
-    "name": "Amphoe Khwao Sinarin",
+    "name": "Khwao Sinarin",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -56,7 +56,7 @@
   },
   {
     "id": 105479,
-    "name": "Amphoe Lamduan",
+    "name": "Lamduan",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -67,7 +67,7 @@
   },
   {
     "id": 105596,
-    "name": "Amphoe Mueang Surin",
+    "name": "Mueang Surin",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -78,7 +78,7 @@
   },
   {
     "id": 105651,
-    "name": "Amphoe Non Narai",
+    "name": "Non Narai",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -89,7 +89,7 @@
   },
   {
     "id": 105727,
-    "name": "Amphoe Phanom Dong Rak",
+    "name": "Phanom Dong Rak",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -100,7 +100,7 @@
   },
   {
     "id": 105798,
-    "name": "Amphoe Prasat",
+    "name": "Prasat",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -111,7 +111,7 @@
   },
   {
     "id": 105808,
-    "name": "Amphoe Rattanaburi",
+    "name": "Rattanaburi",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -122,7 +122,7 @@
   },
   {
     "id": 106181,
-    "name": "Amphoe Samrong Thap",
+    "name": "Samrong Thap",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -133,7 +133,7 @@
   },
   {
     "id": 106187,
-    "name": "Amphoe Sangkha",
+    "name": "Sangkha",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -144,7 +144,7 @@
   },
   {
     "id": 106191,
-    "name": "Amphoe Sanom",
+    "name": "Sanom",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -155,7 +155,7 @@
   },
   {
     "id": 106213,
-    "name": "Amphoe Si Khoraphum",
+    "name": "Si Khoraphum",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
@@ -166,24 +166,13 @@
   },
   {
     "id": 106218,
-    "name": "Amphoe Si Narong",
+    "name": "Si Narong",
     "state_id": 3531,
     "state_code": "32",
     "country_id": 219,
     "country_code": "TH",
     "latitude": "14.78085000",
     "longitude": "103.88651000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106288,
-    "name": "Amphoe Tha Tum",
-    "state_id": 3531,
-    "state_code": "32",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.30940000",
-    "longitude": "103.65111000",
     "wikiDataId": null
   },
   {
@@ -195,6 +184,17 @@
     "country_code": "TH",
     "latitude": "14.88181000",
     "longitude": "103.49364000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106288,
+    "name": "Tha Tum",
+    "state_id": 3531,
+    "state_code": "32",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "15.30940000",
+    "longitude": "103.65111000",
     "wikiDataId": null
   }
 ]

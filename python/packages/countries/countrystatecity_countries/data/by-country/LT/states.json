@@ -13,6 +13,19 @@
     "timezone": "Europe/Vilnius"
   },
   {
+    "id": 5722,
+    "name": "Alytus",
+    "country_id": 126,
+    "country_code": "LT",
+    "state_code": "03",
+    "type": "district municipality",
+    "latitude": "54.39246770",
+    "longitude": "24.10876070",
+    "iso3166_2": "LT-03",
+    "native": "Alytus",
+    "timezone": "Europe/Vilnius"
+  },
+  {
     "id": 1605,
     "name": "Alytus",
     "country_id": 126,
@@ -182,19 +195,6 @@
     "timezone": "Europe/Vilnius"
   },
   {
-    "id": 1580,
-    "name": "Kaunas",
-    "country_id": 126,
-    "country_code": "LT",
-    "state_code": "15",
-    "type": "district municipality",
-    "latitude": "54.89821390",
-    "longitude": "23.90448170",
-    "iso3166_2": "LT-15",
-    "native": "Kaunas",
-    "timezone": "Europe/Vilnius"
-  },
-  {
     "id": 1556,
     "name": "Kaunas",
     "country_id": 126,
@@ -204,6 +204,32 @@
     "latitude": "54.89821390",
     "longitude": "23.90448170",
     "iso3166_2": "LT-KU",
+    "native": "Kaunas",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 5723,
+    "name": "Kaunas",
+    "country_id": 126,
+    "country_code": "LT",
+    "state_code": "16",
+    "type": "district municipality",
+    "latitude": "54.89821390",
+    "longitude": "23.90448170",
+    "iso3166_2": "LT-16",
+    "native": "Kaunas",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1580,
+    "name": "Kaunas",
+    "country_id": 126,
+    "country_code": "LT",
+    "state_code": "15",
+    "type": "district municipality",
+    "latitude": "54.89821390",
+    "longitude": "23.90448170",
+    "iso3166_2": "LT-15",
     "native": "Kaunas",
     "timezone": "Europe/Vilnius"
   },
@@ -270,6 +296,19 @@
     "longitude": "21.13504690",
     "iso3166_2": "LT-21",
     "native": "Klaipėda",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 5720,
+    "name": "Klaipėdos miestas",
+    "country_id": 126,
+    "country_code": "LT",
+    "state_code": "20",
+    "type": "city municipality",
+    "latitude": "55.70329430",
+    "longitude": "21.14427950",
+    "iso3166_2": "LT-20",
+    "native": "Klaipėdos miestas",
     "timezone": "Europe/Vilnius"
   },
   {
@@ -416,16 +455,16 @@
     "timezone": "Europe/Vilnius"
   },
   {
-    "id": 1558,
-    "name": "Panevėžys",
+    "id": 5721,
+    "name": "Panevėžio miestas",
     "country_id": 126,
     "country_code": "LT",
-    "state_code": "PN",
-    "type": "county",
+    "state_code": "32",
+    "type": "city municipality",
     "latitude": "55.73449850",
     "longitude": "24.35780550",
-    "iso3166_2": "LT-PN",
-    "native": "Panevėžys",
+    "iso3166_2": "LT-32",
+    "native": "Panevėžio miestas",
     "timezone": "Europe/Vilnius"
   },
   {
@@ -438,6 +477,19 @@
     "latitude": "55.73449850",
     "longitude": "24.35780550",
     "iso3166_2": "LT-33",
+    "native": "Panevėžys",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 1558,
+    "name": "Panevėžys",
+    "country_id": 126,
+    "country_code": "LT",
+    "state_code": "PN",
+    "type": "county",
+    "latitude": "55.73449850",
+    "longitude": "24.35780550",
+    "iso3166_2": "LT-PN",
     "native": "Panevėžys",
     "timezone": "Europe/Vilnius"
   },
@@ -581,6 +633,19 @@
     "latitude": "55.93408230",
     "longitude": "23.31577750",
     "iso3166_2": "LT-43",
+    "native": "Šiauliai",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 5724,
+    "name": "Šiauliai",
+    "country_id": 126,
+    "country_code": "LT",
+    "state_code": "44",
+    "type": "district municipality",
+    "latitude": "55.93408230",
+    "longitude": "23.31577750",
+    "iso3166_2": "LT-44",
     "native": "Šiauliai",
     "timezone": "Europe/Vilnius"
   },
@@ -777,6 +842,19 @@
     "longitude": "23.03515500",
     "iso3166_2": "LT-56",
     "native": "Vilkaviškis",
+    "timezone": "Europe/Vilnius"
+  },
+  {
+    "id": 5725,
+    "name": "Vilnius",
+    "country_id": 126,
+    "country_code": "LT",
+    "state_code": "58",
+    "type": "district municipality",
+    "latitude": "54.68704580",
+    "longitude": "25.28291110",
+    "iso3166_2": "LT-58",
+    "native": "Vilnius",
     "timezone": "Europe/Vilnius"
   },
   {

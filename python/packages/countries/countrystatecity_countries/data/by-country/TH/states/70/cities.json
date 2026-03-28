@@ -1,16 +1,5 @@
 [
   {
-    "id": 105194,
-    "name": "Amphoe Ban Kha",
-    "state_id": 3499,
-    "state_code": "70",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.32374000",
-    "longitude": "99.37323000",
-    "wikiDataId": null
-  },
-  {
     "id": 105215,
     "name": "Amphoe Ban Pong",
     "state_id": 3499,
@@ -55,28 +44,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105579,
-    "name": "Amphoe Mueang Ratchaburi",
-    "state_id": 3499,
-    "state_code": "70",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.54559000",
-    "longitude": "99.77678000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105707,
-    "name": "Amphoe Pak Tho",
-    "state_id": 3499,
-    "state_code": "70",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.38761000",
-    "longitude": "99.67700000",
-    "wikiDataId": null
-  },
-  {
     "id": 105759,
     "name": "Amphoe Photharam",
     "state_id": 3499,
@@ -88,25 +55,14 @@
     "wikiDataId": null
   },
   {
-    "id": 106253,
-    "name": "Amphoe Suan Phueng",
+    "id": 105194,
+    "name": "Ban Kha",
     "state_id": 3499,
     "state_code": "70",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "13.56361000",
-    "longitude": "99.31133000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106356,
-    "name": "Amphoe Wat Phleng",
-    "state_id": 3499,
-    "state_code": "70",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.44705000",
-    "longitude": "99.86959000",
+    "latitude": "13.32374000",
+    "longitude": "99.37323000",
     "wikiDataId": null
   },
   {
@@ -154,6 +110,28 @@
     "wikiDataId": null
   },
   {
+    "id": 105579,
+    "name": "Mueang Ratchaburi",
+    "state_id": 3499,
+    "state_code": "70",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.54559000",
+    "longitude": "99.77678000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105707,
+    "name": "Pak Tho",
+    "state_id": 3499,
+    "state_code": "70",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.38761000",
+    "longitude": "99.67700000",
+    "wikiDataId": null
+  },
+  {
     "id": 106641,
     "name": "Photharam",
     "state_id": 3499,
@@ -173,6 +151,28 @@
     "country_code": "TH",
     "latitude": "13.53671000",
     "longitude": "99.81712000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106253,
+    "name": "Suan Phueng",
+    "state_id": 3499,
+    "state_code": "70",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.56361000",
+    "longitude": "99.31133000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106356,
+    "name": "Wat Phleng",
+    "state_id": 3499,
+    "state_code": "70",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.44705000",
+    "longitude": "99.86959000",
     "wikiDataId": null
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "id": 56395,
-    "name": "Kabupaten Deiyai",
+    "name": "Deiyai",
     "state_id": 5235,
     "state_code": "PT",
     "country_id": 102,
@@ -12,7 +12,7 @@
   },
   {
     "id": 56399,
-    "name": "Kabupaten Dogiyai",
+    "name": "Dogiyai",
     "state_id": 5235,
     "state_code": "PT",
     "country_id": 102,
@@ -23,24 +23,13 @@
   },
   {
     "id": 56427,
-    "name": "Kabupaten Intan Jaya",
+    "name": "Intan Jaya",
     "state_id": 5235,
     "state_code": "PT",
     "country_id": 102,
     "country_code": "ID",
     "latitude": "-3.41016000",
     "longitude": "136.70837000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56535,
-    "name": "Kabupaten Mimika",
-    "state_id": 5235,
-    "state_code": "PT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-4.54357000",
-    "longitude": "136.56555000",
     "wikiDataId": null
   },
   {
@@ -55,36 +44,14 @@
     "wikiDataId": null
   },
   {
-    "id": 56577,
-    "name": "Kabupaten Paniai",
+    "id": 56535,
+    "name": "Mimika",
     "state_id": 5235,
     "state_code": "PT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-3.90000000",
-    "longitude": "136.60000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56604,
-    "name": "Kabupaten Puncak",
-    "state_id": 5235,
-    "state_code": "PT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.67241000",
-    "longitude": "137.43896000",
-    "wikiDataId": null
-  },
-  {
-    "id": 153774,
-    "name": "Kabupaten Puncak Jaya",
-    "state_id": 5235,
-    "state_code": "PT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.51069440",
-    "longitude": "137.86611111",
+    "latitude": "-4.54357000",
+    "longitude": "136.56555000",
     "wikiDataId": null
   },
   {
@@ -96,6 +63,39 @@
     "country_code": "ID",
     "latitude": "-3.35989000",
     "longitude": "135.50074000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56577,
+    "name": "Paniai",
+    "state_id": 5235,
+    "state_code": "PT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.90000000",
+    "longitude": "136.60000000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56604,
+    "name": "Puncak",
+    "state_id": 5235,
+    "state_code": "PT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.67241000",
+    "longitude": "137.43896000",
+    "wikiDataId": null
+  },
+  {
+    "id": 153774,
+    "name": "Puncak Jaya",
+    "state_id": 5235,
+    "state_code": "PT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.51069440",
+    "longitude": "137.86611111",
     "wikiDataId": null
   }
 ]

@@ -39,16 +39,16 @@
     "timezone": "Indian/Maldives"
   },
   {
-    "id": 2604,
-    "name": "Central",
+    "id": 5727,
+    "name": "Baa",
     "country_id": 133,
     "country_code": "MV",
-    "state_code": "CE",
-    "type": "province",
-    "latitude": "39.86291630",
-    "longitude": "32.85410400",
-    "iso3166_2": "MV-CE",
-    "native": "ސެންޓްރަލް",
+    "state_code": "20",
+    "type": "administrative atoll",
+    "latitude": "5.13333333",
+    "longitude": "72.95000000",
+    "iso3166_2": "MV-20",
+    "native": "ބ އަތޮޅު",
     "timezone": "Indian/Maldives"
   },
   {
@@ -221,19 +221,6 @@
     "timezone": "Indian/Maldives"
   },
   {
-    "id": 2589,
-    "name": "North Central",
-    "country_id": 133,
-    "country_code": "MV",
-    "state_code": "NC",
-    "type": "province",
-    "latitude": "3.94102320",
-    "longitude": "73.48984850",
-    "iso3166_2": "MV-NC",
-    "native": "ނޯތު ސެންޓްރަލް",
-    "timezone": "Indian/Maldives"
-  },
-  {
     "id": 2602,
     "name": "Raa",
     "country_id": 133,
@@ -260,32 +247,6 @@
     "timezone": "Indian/Maldives"
   },
   {
-    "id": 2605,
-    "name": "South",
-    "country_id": 133,
-    "country_code": "MV",
-    "state_code": "SU",
-    "type": "province",
-    "latitude": "2.74096980",
-    "longitude": "73.01774140",
-    "iso3166_2": "MV-SU",
-    "native": "ދެކުނު",
-    "timezone": "Indian/Maldives"
-  },
-  {
-    "id": 2606,
-    "name": "South Central",
-    "country_id": 133,
-    "country_code": "MV",
-    "state_code": "SC",
-    "type": "province",
-    "latitude": "2.17076980",
-    "longitude": "72.91687870",
-    "iso3166_2": "MV-SC",
-    "native": "ސައުތު ސެންޓްރަލް",
-    "timezone": "Indian/Maldives"
-  },
-  {
     "id": 2591,
     "name": "Thaa",
     "country_id": 133,
@@ -296,19 +257,6 @@
     "longitude": "73.02882450",
     "iso3166_2": "MV-08",
     "native": "ތައާ",
-    "timezone": "Indian/Maldives"
-  },
-  {
-    "id": 2593,
-    "name": "Upper South",
-    "country_id": 133,
-    "country_code": "MV",
-    "state_code": "US",
-    "type": "province",
-    "latitude": "0.23070000",
-    "longitude": "73.27948460",
-    "iso3166_2": "MV-US",
-    "native": "މަތީ ދެކުނު",
     "timezone": "Indian/Maldives"
   },
   {

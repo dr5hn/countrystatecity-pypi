@@ -122,7 +122,7 @@
   },
   {
     "id": 112637,
-    "name": "Box Elder County",
+    "name": "Box Elder",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -144,7 +144,7 @@
   },
   {
     "id": 113156,
-    "name": "Cache County",
+    "name": "Cache",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -166,7 +166,7 @@
   },
   {
     "id": 113383,
-    "name": "Carbon County",
+    "name": "Carbon",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -287,7 +287,7 @@
   },
   {
     "id": 114969,
-    "name": "Daggett County",
+    "name": "Daggett",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -309,7 +309,7 @@
   },
   {
     "id": 115075,
-    "name": "Davis County",
+    "name": "Davis",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -419,7 +419,7 @@
   },
   {
     "id": 116096,
-    "name": "Emery County",
+    "name": "Emery",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -562,7 +562,7 @@
   },
   {
     "id": 117085,
-    "name": "Garfield County",
+    "name": "Garfield",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -595,7 +595,7 @@
   },
   {
     "id": 117455,
-    "name": "Grand County",
+    "name": "Grand",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -793,7 +793,7 @@
   },
   {
     "id": 118991,
-    "name": "Iron County",
+    "name": "Iron",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -815,7 +815,7 @@
   },
   {
     "id": 119325,
-    "name": "Juab County",
+    "name": "Juab",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -859,7 +859,7 @@
   },
   {
     "id": 119378,
-    "name": "Kane County",
+    "name": "Kane",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 121869,
-    "name": "Millard County",
+    "name": "Millard",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -1431,7 +1431,7 @@
   },
   {
     "id": 124307,
-    "name": "Piute County",
+    "name": "Piute",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -1519,7 +1519,7 @@
   },
   {
     "id": 125056,
-    "name": "Rich County",
+    "name": "Rich",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -1639,6 +1639,17 @@
     "wikiDataId": null
   },
   {
+    "id": 125768,
+    "name": "Salt Lake",
+    "state_id": 1414,
+    "state_code": "UT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "40.66758000",
+    "longitude": "-111.92403000",
+    "wikiDataId": null
+  },
+  {
     "id": 125767,
     "name": "Salt Lake City",
     "state_id": 1414,
@@ -1650,19 +1661,8 @@
     "wikiDataId": null
   },
   {
-    "id": 125768,
-    "name": "Salt Lake County",
-    "state_id": 1414,
-    "state_code": "UT",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "40.66758000",
-    "longitude": "-111.92403000",
-    "wikiDataId": null
-  },
-  {
     "id": 125822,
-    "name": "San Juan County",
+    "name": "San Juan",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -1695,7 +1695,7 @@
   },
   {
     "id": 125896,
-    "name": "Sanpete County",
+    "name": "Sanpete",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -1739,7 +1739,7 @@
   },
   {
     "id": 126182,
-    "name": "Sevier County",
+    "name": "Sevier",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -1904,7 +1904,7 @@
   },
   {
     "id": 127217,
-    "name": "Summit County",
+    "name": "Summit",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -2025,7 +2025,7 @@
   },
   {
     "id": 128064,
-    "name": "Utah County",
+    "name": "Utah",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -2058,7 +2058,7 @@
   },
   {
     "id": 128526,
-    "name": "Wasatch County",
+    "name": "Wasatch",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,
@@ -2113,7 +2113,7 @@
   },
   {
     "id": 128729,
-    "name": "Weber County",
+    "name": "Weber",
     "state_id": 1414,
     "state_code": "UT",
     "country_id": 233,

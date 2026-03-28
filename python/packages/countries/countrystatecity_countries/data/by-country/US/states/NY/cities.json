@@ -396,6 +396,17 @@
     "wikiDataId": null
   },
   {
+    "id": 161558,
+    "name": "Auburndale",
+    "state_id": 1452,
+    "state_code": "NY",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "40.76110000",
+    "longitude": "-73.79000000",
+    "wikiDataId": null
+  },
+  {
     "id": 111650,
     "name": "Augusta",
     "state_id": 1452,
@@ -1222,7 +1233,7 @@
   },
   {
     "id": 112899,
-    "name": "Broome County",
+    "name": "Broome",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -1508,7 +1519,7 @@
   },
   {
     "id": 113580,
-    "name": "Cattaraugus County",
+    "name": "Cattaraugus",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -1519,7 +1530,7 @@
   },
   {
     "id": 113594,
-    "name": "Cayuga County",
+    "name": "Cayuga",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -1695,7 +1706,7 @@
   },
   {
     "id": 113815,
-    "name": "Chautauqua County",
+    "name": "Chautauqua",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -1728,13 +1739,24 @@
   },
   {
     "id": 113836,
-    "name": "Chemung County",
+    "name": "Chemung",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
     "country_code": "US",
     "latitude": "42.14125000",
     "longitude": "-76.76003000",
+    "wikiDataId": null
+  },
+  {
+    "id": 113838,
+    "name": "Chenango",
+    "state_id": 1452,
+    "state_code": "NY",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "42.49351000",
+    "longitude": "-75.61158000",
     "wikiDataId": null
   },
   {
@@ -1746,17 +1768,6 @@
     "country_code": "US",
     "latitude": "42.16674000",
     "longitude": "-75.86242000",
-    "wikiDataId": null
-  },
-  {
-    "id": 113838,
-    "name": "Chenango County",
-    "state_id": 1452,
-    "state_code": "NY",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "42.49351000",
-    "longitude": "-75.61158000",
     "wikiDataId": null
   },
   {
@@ -2520,7 +2531,7 @@
   },
   {
     "id": 115579,
-    "name": "Dutchess County",
+    "name": "Dutchess",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -3311,6 +3322,17 @@
     "wikiDataId": null
   },
   {
+    "id": 161557,
+    "name": "Flushing",
+    "state_id": 1452,
+    "state_code": "NY",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "40.76580000",
+    "longitude": "-73.83310000",
+    "wikiDataId": null
+  },
+  {
     "id": 116629,
     "name": "Fonda",
     "state_id": 1452,
@@ -3642,7 +3664,7 @@
   },
   {
     "id": 117136,
-    "name": "Genesee County",
+    "name": "Genesee",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -5148,6 +5170,17 @@
     "wikiDataId": null
   },
   {
+    "id": 119601,
+    "name": "Kings",
+    "state_id": 1452,
+    "state_code": "NY",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "40.63439000",
+    "longitude": "-73.95027000",
+    "wikiDataId": null
+  },
+  {
     "id": 119599,
     "name": "Kings Bridge",
     "state_id": 1452,
@@ -5156,17 +5189,6 @@
     "country_code": "US",
     "latitude": "40.87871000",
     "longitude": "-73.90514000",
-    "wikiDataId": null
-  },
-  {
-    "id": 119601,
-    "name": "Kings County",
-    "state_id": 1452,
-    "state_code": "NY",
-    "country_id": 233,
-    "country_code": "US",
-    "latitude": "40.63439000",
-    "longitude": "-73.95027000",
     "wikiDataId": null
   },
   {
@@ -5490,7 +5512,7 @@
   },
   {
     "id": 120415,
-    "name": "Lewis County",
+    "name": "Lewis",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -6997,7 +7019,7 @@
   },
   {
     "id": 122881,
-    "name": "Niagara County",
+    "name": "Niagara",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -7580,7 +7602,7 @@
   },
   {
     "id": 123482,
-    "name": "Onondaga County",
+    "name": "Onondaga",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -7668,7 +7690,7 @@
   },
   {
     "id": 123565,
-    "name": "Orleans County",
+    "name": "Orleans",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -8383,7 +8405,7 @@
   },
   {
     "id": 124768,
-    "name": "Putnam County",
+    "name": "Putnam",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -8691,7 +8713,7 @@
   },
   {
     "id": 125310,
-    "name": "Rockland County",
+    "name": "Rockland",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -9010,7 +9032,7 @@
   },
   {
     "id": 125943,
-    "name": "Saratoga County",
+    "name": "Saratoga",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -9120,7 +9142,7 @@
   },
   {
     "id": 126024,
-    "name": "Schuyler County",
+    "name": "Schuyler",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -9230,7 +9252,7 @@
   },
   {
     "id": 126159,
-    "name": "Seneca County",
+    "name": "Seneca",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -9780,7 +9802,7 @@
   },
   {
     "id": 126927,
-    "name": "St. Lawrence County",
+    "name": "St. Lawrence",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -9835,7 +9857,7 @@
   },
   {
     "id": 127039,
-    "name": "Steuben County",
+    "name": "Steuben",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -9923,7 +9945,7 @@
   },
   {
     "id": 127168,
-    "name": "Suffolk County",
+    "name": "Suffolk",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -10121,7 +10143,7 @@
   },
   {
     "id": 127669,
-    "name": "Tioga County",
+    "name": "Tioga",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -10143,7 +10165,7 @@
   },
   {
     "id": 127713,
-    "name": "Tompkins County",
+    "name": "Tompkins",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -10253,7 +10275,7 @@
   },
   {
     "id": 127959,
-    "name": "Ulster County",
+    "name": "Ulster",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -11089,7 +11111,7 @@
   },
   {
     "id": 129020,
-    "name": "Westchester County",
+    "name": "Westchester",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,
@@ -11463,7 +11485,7 @@
   },
   {
     "id": 129671,
-    "name": "Yates County",
+    "name": "Yates",
     "state_id": 1452,
     "state_code": "NY",
     "country_id": 233,

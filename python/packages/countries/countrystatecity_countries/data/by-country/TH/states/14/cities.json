@@ -1,16 +1,5 @@
 [
   {
-    "id": 105213,
-    "name": "Amphoe Ban Phraek",
-    "state_id": 3494,
-    "state_code": "14",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.64381000",
-    "longitude": "100.54883000",
-    "wikiDataId": null
-  },
-  {
     "id": 105221,
     "name": "Amphoe Bang Ban",
     "state_id": 3494,
@@ -33,50 +22,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105235,
-    "name": "Amphoe Bang Pahan",
-    "state_id": 3494,
-    "state_code": "14",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.47174000",
-    "longitude": "100.54731000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105242,
-    "name": "Amphoe Bang Sai",
-    "state_id": 3494,
-    "state_code": "14",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.21043000",
-    "longitude": "100.49422000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105487,
-    "name": "Amphoe Lat Bua Luang",
-    "state_id": 3494,
-    "state_code": "14",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.16810000",
-    "longitude": "100.34892000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105521,
-    "name": "Amphoe Maha Rat",
-    "state_id": 3494,
-    "state_code": "14",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.57064000",
-    "longitude": "100.54089000",
-    "wikiDataId": null
-  },
-  {
     "id": 105632,
     "name": "Amphoe Nakhon Luang",
     "state_id": 3494,
@@ -85,17 +30,6 @@
     "country_code": "TH",
     "latitude": "14.46703000",
     "longitude": "100.62572000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105717,
-    "name": "Amphoe Phachi",
-    "state_id": 3494,
-    "state_code": "14",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.43795000",
-    "longitude": "100.72780000",
     "wikiDataId": null
   },
   {
@@ -121,17 +55,6 @@
     "wikiDataId": null
   },
   {
-    "id": 106207,
-    "name": "Amphoe Sena",
-    "state_id": 3494,
-    "state_code": "14",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.29605000",
-    "longitude": "100.37486000",
-    "wikiDataId": null
-  },
-  {
     "id": 106282,
     "name": "Amphoe Tha Ruea",
     "state_id": 3494,
@@ -140,17 +63,6 @@
     "country_code": "TH",
     "latitude": "14.53587000",
     "longitude": "100.71268000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106327,
-    "name": "Amphoe Uthai",
-    "state_id": 3494,
-    "state_code": "14",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.35321000",
-    "longitude": "100.69643000",
     "wikiDataId": null
   },
   {
@@ -176,6 +88,17 @@
     "wikiDataId": null
   },
   {
+    "id": 105213,
+    "name": "Ban Phraek",
+    "state_id": 3494,
+    "state_code": "14",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.64381000",
+    "longitude": "100.54883000",
+    "wikiDataId": null
+  },
+  {
     "id": 106420,
     "name": "Bang Ban",
     "state_id": 3494,
@@ -198,6 +121,50 @@
     "wikiDataId": null
   },
   {
+    "id": 105235,
+    "name": "Bang Pahan",
+    "state_id": 3494,
+    "state_code": "14",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.47174000",
+    "longitude": "100.54731000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105242,
+    "name": "Bang Sai",
+    "state_id": 3494,
+    "state_code": "14",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.21043000",
+    "longitude": "100.49422000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105487,
+    "name": "Lat Bua Luang",
+    "state_id": 3494,
+    "state_code": "14",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.16810000",
+    "longitude": "100.34892000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105521,
+    "name": "Maha Rat",
+    "state_id": 3494,
+    "state_code": "14",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.57064000",
+    "longitude": "100.54089000",
+    "wikiDataId": null
+  },
+  {
     "id": 106579,
     "name": "Nakhon Luang",
     "state_id": 3494,
@@ -206,6 +173,17 @@
     "country_code": "TH",
     "latitude": "14.46281000",
     "longitude": "100.60832000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105717,
+    "name": "Phachi",
+    "state_id": 3494,
+    "state_code": "14",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.43795000",
+    "longitude": "100.72780000",
     "wikiDataId": null
   },
   {
@@ -231,6 +209,17 @@
     "wikiDataId": null
   },
   {
+    "id": 106207,
+    "name": "Sena",
+    "state_id": 3494,
+    "state_code": "14",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.29605000",
+    "longitude": "100.37486000",
+    "wikiDataId": null
+  },
+  {
     "id": 106724,
     "name": "Tha Ruea",
     "state_id": 3494,
@@ -239,6 +228,17 @@
     "country_code": "TH",
     "latitude": "14.56739000",
     "longitude": "100.72598000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106327,
+    "name": "Uthai",
+    "state_id": 3494,
+    "state_code": "14",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "14.35321000",
+    "longitude": "100.69643000",
     "wikiDataId": null
   },
   {

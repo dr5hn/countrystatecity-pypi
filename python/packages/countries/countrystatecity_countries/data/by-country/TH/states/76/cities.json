@@ -1,27 +1,5 @@
 [
   {
-    "id": 105198,
-    "name": "Amphoe Ban Laem",
-    "state_id": 3532,
-    "state_code": "76",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.16968000",
-    "longitude": "99.98771000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105199,
-    "name": "Amphoe Ban Lat",
-    "state_id": 3532,
-    "state_code": "76",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.04533000",
-    "longitude": "99.83788000",
-    "wikiDataId": null
-  },
-  {
     "id": 105266,
     "name": "Amphoe Cha-am",
     "state_id": 3532,
@@ -30,17 +8,6 @@
     "country_code": "TH",
     "latitude": "12.75374000",
     "longitude": "99.89828000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105366,
-    "name": "Amphoe Kaeng Krachan",
-    "state_id": 3532,
-    "state_code": "76",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "12.85919000",
-    "longitude": "99.46339000",
     "wikiDataId": null
   },
   {
@@ -55,28 +22,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105571,
-    "name": "Amphoe Mueang Phetchaburi",
-    "state_id": 3532,
-    "state_code": "76",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.08173000",
-    "longitude": "99.96721000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105685,
-    "name": "Amphoe Nong Ya Plong",
-    "state_id": 3532,
-    "state_code": "76",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.12590000",
-    "longitude": "99.46880000",
-    "wikiDataId": null
-  },
-  {
     "id": 106292,
     "name": "Amphoe Tha Yang",
     "state_id": 3532,
@@ -85,6 +30,28 @@
     "country_code": "TH",
     "latitude": "12.81743000",
     "longitude": "99.78738000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105198,
+    "name": "Ban Laem",
+    "state_id": 3532,
+    "state_code": "76",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.16968000",
+    "longitude": "99.98771000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105199,
+    "name": "Ban Lat",
+    "state_id": 3532,
+    "state_code": "76",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.04533000",
+    "longitude": "99.83788000",
     "wikiDataId": null
   },
   {
@@ -99,6 +66,17 @@
     "wikiDataId": null
   },
   {
+    "id": 105366,
+    "name": "Kaeng Krachan",
+    "state_id": 3532,
+    "state_code": "76",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "12.85919000",
+    "longitude": "99.46339000",
+    "wikiDataId": null
+  },
+  {
     "id": 106521,
     "name": "Khao Yoi",
     "state_id": 3532,
@@ -107,6 +85,28 @@
     "country_code": "TH",
     "latitude": "13.24025000",
     "longitude": "99.82428000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105571,
+    "name": "Mueang Phetchaburi",
+    "state_id": 3532,
+    "state_code": "76",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.08173000",
+    "longitude": "99.96721000",
+    "wikiDataId": null
+  },
+  {
+    "id": 105685,
+    "name": "Nong Ya Plong",
+    "state_id": 3532,
+    "state_code": "76",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "13.12590000",
+    "longitude": "99.46880000",
     "wikiDataId": null
   },
   {

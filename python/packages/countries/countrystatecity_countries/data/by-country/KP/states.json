@@ -13,6 +13,19 @@
     "timezone": "Asia/Pyongyang"
   },
   {
+    "id": 5719,
+    "name": "Kaesong",
+    "country_id": 115,
+    "country_code": "KP",
+    "state_code": "15",
+    "type": "metropolitan city",
+    "latitude": "37.97166667",
+    "longitude": "126.55277778",
+    "iso3166_2": "KP-15",
+    "native": "개성시",
+    "timezone": "Asia/Pyongyang"
+  },
+  {
     "id": 3999,
     "name": "Kangwon",
     "country_id": 115,
@@ -23,6 +36,19 @@
     "longitude": "127.51465470",
     "iso3166_2": "KP-07",
     "native": "강원도",
+    "timezone": "Asia/Pyongyang"
+  },
+  {
+    "id": 5718,
+    "name": "Nampho",
+    "country_id": 115,
+    "country_code": "KP",
+    "state_code": "14",
+    "type": "metropolitan city",
+    "latitude": "38.73555556",
+    "longitude": "125.40888889",
+    "iso3166_2": "KP-14",
+    "native": "남포시",
     "timezone": "Asia/Pyongyang"
   },
   {

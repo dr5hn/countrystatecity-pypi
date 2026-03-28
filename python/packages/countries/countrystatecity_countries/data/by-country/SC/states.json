@@ -13,6 +13,19 @@
     "timezone": "Indian/Mahe"
   },
   {
+    "id": 5694,
+    "name": "Anse Etoile",
+    "country_id": 197,
+    "country_code": "SC",
+    "state_code": "03",
+    "type": "district",
+    "latitude": "-4.59166667",
+    "longitude": "55.45000000",
+    "iso3166_2": "SC-03",
+    "native": "Anse Étoile",
+    "timezone": "Indian/Mahe"
+  },
+  {
     "id": 502,
     "name": "Anse Royale",
     "country_id": 197,
@@ -166,6 +179,32 @@
     "longitude": "55.71773430",
     "iso3166_2": "SC-14",
     "native": "Grand'Anse Praslin",
+    "timezone": "Indian/Mahe"
+  },
+  {
+    "id": 5695,
+    "name": "Ile Perseverance I",
+    "country_id": 197,
+    "country_code": "SC",
+    "state_code": "26",
+    "type": "district",
+    "latitude": "-4.63000000",
+    "longitude": "55.47000000",
+    "iso3166_2": "SC-26",
+    "native": "Ile Perseverance I",
+    "timezone": "Indian/Mahe"
+  },
+  {
+    "id": 5696,
+    "name": "Ile Perseverance II",
+    "country_id": 197,
+    "country_code": "SC",
+    "state_code": "27",
+    "type": "district",
+    "latitude": "-4.63500000",
+    "longitude": "55.47500000",
+    "iso3166_2": "SC-27",
+    "native": "Ile Perseverance II",
     "timezone": "Indian/Mahe"
   },
   {

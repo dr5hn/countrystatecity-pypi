@@ -1,5 +1,16 @@
 [
   {
+    "id": 56347,
+    "name": "Batang Hari",
+    "state_id": 1815,
+    "state_code": "JA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.75000000",
+    "longitude": "103.11667000",
+    "wikiDataId": null
+  },
+  {
     "id": 56214,
     "name": "Bejubang Dua",
     "state_id": 1815,
@@ -8,6 +19,17 @@
     "country_code": "ID",
     "latitude": "-1.79230000",
     "longitude": "103.31670000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56382,
+    "name": "Bungo",
+    "state_id": 1815,
+    "state_code": "JA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.50222000",
+    "longitude": "101.96000000",
     "wikiDataId": null
   },
   {
@@ -22,102 +44,14 @@
     "wikiDataId": null
   },
   {
-    "id": 56347,
-    "name": "Kabupaten Batang Hari",
-    "state_id": 1815,
-    "state_code": "JA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.75000000",
-    "longitude": "103.11667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56382,
-    "name": "Kabupaten Bungo",
-    "state_id": 1815,
-    "state_code": "JA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.50222000",
-    "longitude": "101.96000000",
-    "wikiDataId": null
-  },
-  {
     "id": 56458,
-    "name": "Kabupaten Kerinci",
+    "name": "Kerinci",
     "state_id": 1815,
     "state_code": "JA",
     "country_id": 102,
     "country_code": "ID",
     "latitude": "-2.03333000",
     "longitude": "101.53333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56532,
-    "name": "Kabupaten Merangin",
-    "state_id": 1815,
-    "state_code": "JA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.06933000",
-    "longitude": "102.13303000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56543,
-    "name": "Kabupaten Muaro Jambi",
-    "state_id": 1815,
-    "state_code": "JA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.55214000",
-    "longitude": "103.82163000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56618,
-    "name": "Kabupaten Sarolangun",
-    "state_id": 1815,
-    "state_code": "JA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.30000000",
-    "longitude": "102.65000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56668,
-    "name": "Kabupaten Tanjung Jabung Barat",
-    "state_id": 1815,
-    "state_code": "JA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.15440000",
-    "longitude": "103.24402000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56669,
-    "name": "Kabupaten Tanjung Jabung Timur",
-    "state_id": 1815,
-    "state_code": "JA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.13198000",
-    "longitude": "103.61755000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56675,
-    "name": "Kabupaten Tebo",
-    "state_id": 1815,
-    "state_code": "JA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.45576000",
-    "longitude": "102.37473000",
     "wikiDataId": null
   },
   {
@@ -143,6 +77,39 @@
     "wikiDataId": null
   },
   {
+    "id": 56532,
+    "name": "Merangin",
+    "state_id": 1815,
+    "state_code": "JA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.06933000",
+    "longitude": "102.13303000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56543,
+    "name": "Muaro Jambi",
+    "state_id": 1815,
+    "state_code": "JA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.55214000",
+    "longitude": "103.82163000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56618,
+    "name": "Sarolangun",
+    "state_id": 1815,
+    "state_code": "JA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.30000000",
+    "longitude": "102.65000000",
+    "wikiDataId": null
+  },
+  {
     "id": 56978,
     "name": "Simpang",
     "state_id": 1815,
@@ -162,6 +129,39 @@
     "country_code": "ID",
     "latitude": "-2.05610000",
     "longitude": "101.39130000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56668,
+    "name": "Tanjung Jabung Barat",
+    "state_id": 1815,
+    "state_code": "JA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.15440000",
+    "longitude": "103.24402000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56669,
+    "name": "Tanjung Jabung Timur",
+    "state_id": 1815,
+    "state_code": "JA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.13198000",
+    "longitude": "103.61755000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56675,
+    "name": "Tebo",
+    "state_id": 1815,
+    "state_code": "JA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.45576000",
+    "longitude": "102.37473000",
     "wikiDataId": null
   }
 ]

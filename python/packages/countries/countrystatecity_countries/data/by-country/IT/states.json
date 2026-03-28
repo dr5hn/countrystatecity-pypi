@@ -130,6 +130,19 @@
     "timezone": "Europe/Rome"
   },
   {
+    "id": 5626,
+    "name": "Bari",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "BA",
+    "type": "metropolitan city",
+    "latitude": "41.11714300",
+    "longitude": "16.87187200",
+    "iso3166_2": "IT-BA",
+    "native": "Bari",
+    "timezone": "Europe/Rome"
+  },
+  {
     "id": 1686,
     "name": "Barletta-Andria-Trani",
     "country_id": 107,
@@ -208,6 +221,19 @@
     "timezone": "Europe/Rome"
   },
   {
+    "id": 5627,
+    "name": "Bologna",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "BO",
+    "type": "metropolitan city",
+    "latitude": "44.49488700",
+    "longitude": "11.34262100",
+    "iso3166_2": "IT-BO",
+    "native": "Bologna",
+    "timezone": "Europe/Rome"
+  },
+  {
     "id": 1717,
     "name": "Brescia",
     "country_id": 107,
@@ -231,6 +257,19 @@
     "longitude": "17.68849750",
     "iso3166_2": "IT-BR",
     "native": "Brindisi",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5628,
+    "name": "Cagliari",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "CA",
+    "type": "metropolitan city",
+    "latitude": "39.22380400",
+    "longitude": "9.12166700",
+    "iso3166_2": "IT-CA",
+    "native": "Cagliari",
     "timezone": "Europe/Rome"
   },
   {
@@ -296,6 +335,19 @@
     "longitude": "14.11686240",
     "iso3166_2": "IT-CE",
     "native": "Caserta",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5629,
+    "name": "Catania",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "CT",
+    "type": "metropolitan city",
+    "latitude": "37.50287800",
+    "longitude": "15.08704200",
+    "iso3166_2": "IT-CT",
+    "native": "Catania",
     "timezone": "Europe/Rome"
   },
   {
@@ -442,6 +494,19 @@
     "timezone": "Europe/Rome"
   },
   {
+    "id": 5630,
+    "name": "Florence",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "FI",
+    "type": "metropolitan city",
+    "latitude": "43.76923100",
+    "longitude": "11.25588400",
+    "iso3166_2": "IT-FI",
+    "native": "Firenze",
+    "timezone": "Europe/Rome"
+  },
+  {
     "id": 1771,
     "name": "Foggia",
     "country_id": 107,
@@ -491,6 +556,19 @@
     "longitude": "13.57584980",
     "iso3166_2": "IT-FR",
     "native": "Frosinone",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5631,
+    "name": "Genoa",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "GE",
+    "type": "metropolitan city",
+    "latitude": "44.41149100",
+    "longitude": "8.93285900",
+    "iso3166_2": "IT-GE",
+    "native": "Genova",
     "timezone": "Europe/Rome"
   },
   {
@@ -754,6 +832,32 @@
     "timezone": "Europe/Rome"
   },
   {
+    "id": 5632,
+    "name": "Messina",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "ME",
+    "type": "metropolitan city",
+    "latitude": "38.19395000",
+    "longitude": "15.55256200",
+    "iso3166_2": "IT-ME",
+    "native": "Messina",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5633,
+    "name": "Milan",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "MI",
+    "type": "metropolitan city",
+    "latitude": "45.46679400",
+    "longitude": "9.19007200",
+    "iso3166_2": "IT-MI",
+    "native": "Milano",
+    "timezone": "Europe/Rome"
+  },
+  {
     "id": 1757,
     "name": "Modena",
     "country_id": 107,
@@ -790,6 +894,19 @@
     "longitude": "9.27883040",
     "iso3166_2": "IT-MB",
     "native": "Monza and Brianza",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5634,
+    "name": "Naples",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "NA",
+    "type": "metropolitan city",
+    "latitude": "40.85177700",
+    "longitude": "14.26811700",
+    "iso3166_2": "IT-NA",
+    "native": "Napoli",
     "timezone": "Europe/Rome"
   },
   {
@@ -1040,6 +1157,19 @@
     "timezone": "Europe/Rome"
   },
   {
+    "id": 5635,
+    "name": "Reggio Calabria",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "RC",
+    "type": "metropolitan city",
+    "latitude": "38.10882200",
+    "longitude": "15.64392200",
+    "iso3166_2": "IT-RC",
+    "native": "Reggio Calabria",
+    "timezone": "Europe/Rome"
+  },
+  {
     "id": 1708,
     "name": "Reggio Emilia",
     "country_id": 107,
@@ -1076,6 +1206,19 @@
     "longitude": "12.56951580",
     "iso3166_2": "IT-RN",
     "native": "Rimini",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5636,
+    "name": "Rome",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "RM",
+    "type": "metropolitan city",
+    "latitude": "41.89277000",
+    "longitude": "12.48366000",
+    "iso3166_2": "IT-RM",
+    "native": "Roma",
     "timezone": "Europe/Rome"
   },
   {
@@ -1209,6 +1352,19 @@
     "timezone": "Europe/Rome"
   },
   {
+    "id": 5639,
+    "name": "South Tyrol",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "BZ",
+    "type": "autonomous province",
+    "latitude": "46.49933500",
+    "longitude": "11.35662200",
+    "iso3166_2": "IT-BZ",
+    "native": "Bolzano",
+    "timezone": "Europe/Rome"
+  },
+  {
     "id": 1743,
     "name": "Taranto",
     "country_id": 107,
@@ -1261,6 +1417,19 @@
     "timezone": "Europe/Rome"
   },
   {
+    "id": 5640,
+    "name": "Trentino",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "TN",
+    "type": "autonomous province",
+    "latitude": "46.06787800",
+    "longitude": "11.12108300",
+    "iso3166_2": "IT-TN",
+    "native": "Trento",
+    "timezone": "Europe/Rome"
+  },
+  {
     "id": 1725,
     "name": "Trentino-South Tyrol",
     "country_id": 107,
@@ -1297,6 +1466,19 @@
     "longitude": "13.78330720",
     "iso3166_2": "IT-TS",
     "native": "Trieste",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5637,
+    "name": "Turin",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "TO",
+    "type": "metropolitan city",
+    "latitude": "45.07049600",
+    "longitude": "7.68682200",
+    "iso3166_2": "IT-TO",
+    "native": "Torino",
     "timezone": "Europe/Rome"
   },
   {
@@ -1362,6 +1544,19 @@
     "longitude": "11.86652540",
     "iso3166_2": "IT-34",
     "native": "Veneto",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5638,
+    "name": "Venice",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "VE",
+    "type": "metropolitan city",
+    "latitude": "45.43409700",
+    "longitude": "12.33890600",
+    "iso3166_2": "IT-VE",
+    "native": "Venezia",
     "timezone": "Europe/Rome"
   },
   {
