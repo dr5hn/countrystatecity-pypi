@@ -16,7 +16,7 @@ python scripts/generate-data.py <path-to-combined-json>
 
 ```bash
 # Download the latest data
-curl -L "https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/refs/heads/master/json/countries%2Bstates%2Bcities.json.gz" \
+curl -L "https://github.com/dr5hn/countries-states-cities-database/releases/latest/download/json-countries%2Bstates%2Bcities.json.gz" \
   -o /tmp/countries-data.json.gz
 gunzip /tmp/countries-data.json.gz
 
@@ -36,4 +36,4 @@ The script generates:
 The script expects data from: https://github.com/dr5hn/countries-states-cities-database
 
 The combined JSON file is available at:
-https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/json/countries%2Bstates%2Bcities.json.gz
+https://github.com/dr5hn/countries-states-cities-database/releases/latest/download/json-countries%2Bstates%2Bcities.json.gz
