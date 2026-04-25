@@ -8,6 +8,8 @@ Official Python packages for accessing comprehensive countries, states, and citi
 
 ## 📦 Available Packages
 
+> **Note:** All Python distributions are published with an entity suffix (e.g. `countrystatecity-countries`). Currently there is no bare `countrystatecity` package on PyPI, so `pip install countrystatecity` may not work as expected. Pick the suffixed package you need from the list below.
+
 ### Priority 1 (Released)
 - **[countrystatecity-countries](./python/packages/countries/)** - Countries, states, and cities database with type hints and lazy loading
 
@@ -24,6 +26,8 @@ Official Python packages for accessing comprehensive countries, states, and citi
 ```bash
 pip install countrystatecity-countries
 ```
+
+> ⚠️ Don't run `pip install countrystatecity` — that name is unpublished. Always include the entity suffix (`-countries`, `-timezones`, etc.).
 
 ### Usage
 
