@@ -3,7 +3,7 @@
 [![PyPI version](https://badge.fury.io/py/countrystatecity-currencies.svg)](https://badge.fury.io/py/countrystatecity-currencies)
 [![Python versions](https://img.shields.io/pypi/pyversions/countrystatecity-currencies.svg)](https://pypi.org/project/countrystatecity-currencies/)
 
-Official Python package for currency data — 150+ currencies with ISO 4217 codes, symbols, and country associations. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
+Official Python package for currency data — 250+ entries covering currency codes, symbols, and country associations. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
 
 ## Installation
 

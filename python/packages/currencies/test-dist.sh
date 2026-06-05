@@ -1,6 +1,9 @@
 #!/bin/bash
 set -e
 
+echo "==> Installing build tool..."
+pip install build -q
+
 echo "==> Building package..."
 python3 -m build
 

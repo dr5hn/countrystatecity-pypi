@@ -36,13 +36,17 @@ jobs:
           python -c "
           import re, pathlib
 
-          packages = ['countries', 'timezones', 'currencies', 'translations']
-          for pkg in packages:
+          # Compute new version once from countries (source of truth)
+          pyproject = pathlib.Path('python/packages/countries/pyproject.toml')
+          content = pyproject.read_text()
+          match = re.search(r'version = \"(\d+)\.(\d+)\.(\d+)\"', content)
+          major, minor, patch = int(match.group(1)), int(match.group(2)), int(match.group(3))
+          new_version = f'{major}.{minor}.{patch + 1}'
+
+          # Apply same version to all packages
+          for pkg in ['countries', 'timezones', 'currencies', 'translations']:
               pyproject = pathlib.Path(f'python/packages/{pkg}/pyproject.toml')
               content = pyproject.read_text()
-              match = re.search(r'version = \"(\d+)\.(\d+)\.(\d+)\"', content)
-              major, minor, patch = int(match.group(1)), int(match.group(2)), int(match.group(3))
-              new_version = f'{major}.{minor}.{patch + 1}'
               content = re.sub(r'version = \"\d+\.\d+\.\d+\"', f'version = \"{new_version}\"', content)
               pyproject.write_text(content)
 

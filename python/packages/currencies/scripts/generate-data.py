@@ -37,6 +37,9 @@ def generate(source: Path, output: Path) -> None:
         symbol = country.get("currency_symbol")
         if not code or not name or not symbol:
             continue
+        # Skip non-ISO 4217 codes (must be exactly 3 uppercase letters)
+        if not (len(code) == 3 and code.isupper() and code.isalpha()):
+            continue
         currencies.append(
             {
                 "code": code,
