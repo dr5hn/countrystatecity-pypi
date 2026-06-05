@@ -4,7 +4,10 @@ This package provides access to country name translations across 19 languages
 with country associations and language codes.
 
 Example:
-    >>> from countrystatecity_translations import get_translation, get_translations_by_language
+    >>> from countrystatecity_translations import (
+    ...     get_translation,
+    ...     get_translations_by_language,
+    ... )
     >>> t = get_translation("DE", "fr")
     >>> french_countries = get_translations_by_language("fr")
 """
