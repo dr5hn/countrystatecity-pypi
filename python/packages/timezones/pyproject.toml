@@ -82,8 +82,8 @@ warn_unused_configs = true
 disallow_untyped_defs = true
 
 [[tool.mypy.overrides]]
-module = "backports.zoneinfo"
-ignore_missing_imports = true
+module = "countrystatecity_timezones.api"
+warn_unused_ignores = false
 
 [tool.black]
 line-length = 88

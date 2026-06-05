@@ -7,7 +7,7 @@ from typing import List, Optional
 if sys.version_info >= (3, 9):
     from zoneinfo import ZoneInfo
 else:
-    from backports.zoneinfo import ZoneInfo  # type: ignore[import-not-found]
+    from backports.zoneinfo import ZoneInfo  # type: ignore[import-not-found,no-redef]
 
 from .loaders import DataLoader
 from .models import Timezone
@@ -133,8 +133,8 @@ def convert_time(dt: datetime, from_tz: str, to_tz: str) -> datetime:
         >>> result.hour
         22
     """
-    source_tz = ZoneInfo(from_tz)
-    target_tz = ZoneInfo(to_tz)
+    source_tz = ZoneInfo(from_tz)  # type: ignore[abstract]
+    target_tz = ZoneInfo(to_tz)  # type: ignore[abstract]
 
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=source_tz)
