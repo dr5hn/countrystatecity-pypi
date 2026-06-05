@@ -25,56 +25,57 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        working-directory: python/packages/countries
-        run: pip install -e ".[dev]"
+        run: |
+          for pkg in countries timezones currencies translations; do
+            pip install -e "python/packages/$pkg/.[dev]" -q
+          done
 
-      - name: Bump patch version
+      - name: Bump patch version for all packages
         id: bump
-        working-directory: python/packages/countries
         run: |
           python -c "
           import re, pathlib
 
-          pyproject = pathlib.Path('pyproject.toml')
-          content = pyproject.read_text()
-          match = re.search(r'version = \"(\d+)\.(\d+)\.(\d+)\"', content)
-          old_version = f'{match.group(1)}.{match.group(2)}.{match.group(3)}'
-          major, minor, patch = int(match.group(1)), int(match.group(2)), int(match.group(3))
-          new_version = f'{major}.{minor}.{patch + 1}'
+          packages = ['countries', 'timezones', 'currencies', 'translations']
+          for pkg in packages:
+              pyproject = pathlib.Path(f'python/packages/{pkg}/pyproject.toml')
+              content = pyproject.read_text()
+              match = re.search(r'version = \"(\d+)\.(\d+)\.(\d+)\"', content)
+              major, minor, patch = int(match.group(1)), int(match.group(2)), int(match.group(3))
+              new_version = f'{major}.{minor}.{patch + 1}'
+              content = re.sub(r'version = \"\d+\.\d+\.\d+\"', f'version = \"{new_version}\"', content)
+              pyproject.write_text(content)
 
-          content = re.sub(r'version = \"\d+\.\d+\.\d+\"', f'version = \"{new_version}\"', content)
-          pyproject.write_text(content)
-
-          init = pathlib.Path('countrystatecity_countries/__init__.py')
-          init_content = init.read_text()
-          init_content = re.sub(r'__version__ = \"\d+\.\d+\.\d+\"', f'__version__ = \"{new_version}\"', init_content)
-          init.write_text(init_content)
-
-          print(f'OLD={old_version}')
-          print(f'NEW={new_version}')
+              init = pathlib.Path(f'python/packages/{pkg}/countrystatecity_{pkg}/__init__.py')
+              init_content = init.read_text()
+              init_content = re.sub(r'__version__ = \"\d+\.\d+\.\d+\"', f'__version__ = \"{new_version}\"', init_content)
+              init.write_text(init_content)
+              print(f'{pkg}: bumped to {new_version}')
           "
 
-          NEW_VERSION=$(python -c "import re, pathlib; m=re.search(r'version = \"(.+?)\"', pathlib.Path('pyproject.toml').read_text()); print(m.group(1))")
+          NEW_VERSION=$(python -c "import re, pathlib; m=re.search(r'version = \"(.+?)\"', pathlib.Path('python/packages/countries/pyproject.toml').read_text()); print(m.group(1))")
           echo "new_version=v$NEW_VERSION" >> $GITHUB_OUTPUT
-          echo "Bumped to v$NEW_VERSION"
+          echo "Bumped all packages to v$NEW_VERSION"
 
-      - name: Update CHANGELOG.md
+      - name: Update CHANGELOGs
         env:
           NEW_VERSION: ${{ steps.bump.outputs.new_version }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
           DATE=$(date +%Y-%m-%d)
-          ENTRY="## [${NEW_VERSION#v}] - $DATE\n\n### Changed\n- Updated countries/states/cities data from upstream database (PR #$PR_NUMBER)\n"
-
-          if [ -f CHANGELOG.md ]; then
-            sed -i "0,/^## \[/s//$ENTRY\n## [/" CHANGELOG.md
-          else
-            printf "# Changelog\n\nAll notable changes to \`countrystatecity-countries\` (Python) will be documented in this file.\n\n$ENTRY" > CHANGELOG.md
-          fi
+          for pkg in countries timezones currencies translations; do
+            CHANGELOG="python/packages/$pkg/CHANGELOG.md"
+            ENTRY="## [${NEW_VERSION#v}] - $DATE\n\n### Changed\n- Updated data from upstream database (PR #$PR_NUMBER)\n"
+            if [ -f "$CHANGELOG" ]; then
+              sed -i "0,/^## \[/s//$ENTRY\n## [/" "$CHANGELOG"
+            fi
+          done
 
       - name: Run tests
-        working-directory: python/packages/countries
-        run: pytest
+        run: |
+          for pkg in countries timezones currencies translations; do
+            pytest python/packages/$pkg/tests/
+          done
 
       - name: Commit and push
         env:
@@ -82,6 +83,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add python/packages/countries/pyproject.toml python/packages/countries/countrystatecity_countries/__init__.py CHANGELOG.md
-          git commit -m "chore: release ${NEW_VERSION}"
+          git add \
+            python/packages/countries/pyproject.toml python/packages/countries/countrystatecity_countries/__init__.py python/packages/countries/CHANGELOG.md \
+            python/packages/timezones/pyproject.toml python/packages/timezones/countrystatecity_timezones/__init__.py python/packages/timezones/CHANGELOG.md \
+            python/packages/currencies/pyproject.toml python/packages/currencies/countrystatecity_currencies/__init__.py python/packages/currencies/CHANGELOG.md \
+            python/packages/translations/pyproject.toml python/packages/translations/countrystatecity_translations/__init__.py python/packages/translations/CHANGELOG.md
+          git commit -m "chore: release ${NEW_VERSION} for all packages"
           git push

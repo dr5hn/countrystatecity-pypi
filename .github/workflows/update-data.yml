@@ -55,30 +55,41 @@ jobs:
         run: |
           cd python/packages/countries
           python scripts/generate-data.py /tmp/countries-data.json
-      
+
+      - name: Regenerate derived package data
+        run: |
+          pip install -e "python/packages/countries/.[dev]"
+          python python/packages/timezones/scripts/generate-data.py
+          python python/packages/currencies/scripts/generate-data.py
+          python python/packages/translations/scripts/generate-data.py
+
       - name: Collect new data statistics
         id: data-stats
         run: |
-          echo "=== New Data Statistics ===" > /tmp/data-stats-after.txt
-          echo "Countries: $(cat python/packages/countries/countrystatecity_countries/data/countries.json | grep -o '"id"' | wc -l)" >> /tmp/data-stats-after.txt
-          echo "Data files: $(find python/packages/countries/countrystatecity_countries/data -type f | wc -l)" >> /tmp/data-stats-after.txt
-          cat /tmp/data-stats-after.txt
-          
-          # Export for PR description
           COUNTRIES=$(cat python/packages/countries/countrystatecity_countries/data/countries.json | grep -o '"id"' | wc -l)
-          FILES=$(find python/packages/countries/countrystatecity_countries/data -type f | wc -l)
+          TIMEZONES=$(cat python/packages/timezones/countrystatecity_timezones/data/timezones.json | grep -o '"zoneName"' | wc -l)
+          CURRENCIES=$(cat python/packages/currencies/countrystatecity_currencies/data/currencies.json | grep -o '"code"' | wc -l)
+          TRANSLATIONS=$(cat python/packages/translations/countrystatecity_translations/data/translations.json | grep -o '"lang"' | wc -l)
           echo "countries=$COUNTRIES" >> $GITHUB_OUTPUT
-          echo "files=$FILES" >> $GITHUB_OUTPUT
-      
+          echo "timezones=$TIMEZONES" >> $GITHUB_OUTPUT
+          echo "currencies=$CURRENCIES" >> $GITHUB_OUTPUT
+          echo "translations=$TRANSLATIONS" >> $GITHUB_OUTPUT
+          echo "Countries: $COUNTRIES | Timezones: $TIMEZONES | Currencies: $CURRENCIES | Translations: $TRANSLATIONS"
+
       - name: Run tests with new data
-        working-directory: python/packages/countries
         run: |
-          pytest --cov=countrystatecity_countries --cov-report=term
-      
+          for pkg in countries timezones currencies translations; do
+            echo "=== Testing $pkg ==="
+            pip install -e "python/packages/$pkg/.[dev]" -q
+            pytest python/packages/$pkg/tests/ --cov=countrystatecity_$pkg --cov-report=term
+          done
+
       - name: Type check
-        working-directory: python/packages/countries
         run: |
-          mypy countrystatecity_countries/ --strict
+          for pkg in countries timezones currencies translations; do
+            echo "=== Type checking $pkg ==="
+            mypy python/packages/$pkg/countrystatecity_$pkg/ --strict
+          done
       
       - name: Configure git
         run: |
@@ -105,23 +116,28 @@ jobs:
           title: '🔄 Automated Data Update'
           body: |
             ## Automated Data Update
-            
+
             This PR contains the latest data from [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database).
-            
+
             ### Statistics
-            - Countries: ${{ steps.data-stats.outputs.countries }}
-            - Total data files: ${{ steps.data-stats.outputs.files }}
-            
+            | Package | Records |
+            |---|---|
+            | countrystatecity-countries | ${{ steps.data-stats.outputs.countries }} countries |
+            | countrystatecity-timezones | ${{ steps.data-stats.outputs.timezones }} timezones |
+            | countrystatecity-currencies | ${{ steps.data-stats.outputs.currencies }} currencies |
+            | countrystatecity-translations | ${{ steps.data-stats.outputs.translations }} translations |
+
             ### Changes
             - Downloaded latest dataset from source repository
-            - Regenerated countries/states/cities split data structure
+            - Regenerated countries/states/cities data structure
+            - Regenerated timezones, currencies, and translations derived data
             - All tests passing ✅
-            
+
             ### Verification
             - ✅ Data generation completed successfully
-            - ✅ Type checking passed (mypy strict)
-            - ✅ All tests passing
-            
+            - ✅ Type checking passed (mypy strict) for all packages
+            - ✅ All tests passing for all packages
+
             This is an automated pull request. Please review the changes before merging.
           branch: automated-data-update
           delete-branch: true
