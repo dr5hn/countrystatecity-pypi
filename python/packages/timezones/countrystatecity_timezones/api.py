@@ -130,7 +130,9 @@ def convert_time(dt: datetime, from_tz: str, to_tz: str) -> datetime:
     try:
         from zoneinfo import ZoneInfo
     except ImportError:
-        from backports.zoneinfo import ZoneInfo  # type: ignore[import-not-found,no-redef]  # noqa: I001
+        from backports.zoneinfo import (  # type: ignore[import-not-found,no-redef]  # noqa: I001
+            ZoneInfo,
+        )
 
     source_tz = ZoneInfo(from_tz)
     target_tz = ZoneInfo(to_tz)

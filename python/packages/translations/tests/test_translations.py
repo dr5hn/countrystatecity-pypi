@@ -136,6 +136,25 @@ def test_search_translations_no_results():
 
 def test_all_19_languages_present():
     all_langs = {t.lang for t in get_all_translations()}
-    expected = {"ar", "br", "de", "es", "fa", "fr", "hi", "hr", "it", "ja",
-                "ko", "nl", "pl", "pt", "pt-BR", "ru", "tr", "uk", "zh-CN"}
+    expected = {
+        "ar",
+        "br",
+        "de",
+        "es",
+        "fa",
+        "fr",
+        "hi",
+        "hr",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ru",
+        "tr",
+        "uk",
+        "zh-CN",
+    }
     assert expected == all_langs
