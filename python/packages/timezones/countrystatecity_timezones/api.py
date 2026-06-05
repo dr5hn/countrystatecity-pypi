@@ -1,7 +1,13 @@
 """Public API functions for timezones."""
 
+import sys
 from datetime import datetime
 from typing import List, Optional
+
+if sys.version_info >= (3, 9):
+    from zoneinfo import ZoneInfo
+else:
+    from backports.zoneinfo import ZoneInfo  # type: ignore[import-not-found]
 
 from .loaders import DataLoader
 from .models import Timezone
@@ -127,13 +133,6 @@ def convert_time(dt: datetime, from_tz: str, to_tz: str) -> datetime:
         >>> result.hour
         22
     """
-    try:
-        from zoneinfo import ZoneInfo
-    except ImportError:
-        from backports.zoneinfo import (  # type: ignore[import-not-found,no-redef]  # noqa: I001
-            ZoneInfo,
-        )
-
     source_tz = ZoneInfo(from_tz)
     target_tz = ZoneInfo(to_tz)
 
