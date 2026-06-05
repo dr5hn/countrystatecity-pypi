@@ -71,7 +71,11 @@ jobs:
             CHANGELOG="python/packages/$pkg/CHANGELOG.md"
             ENTRY="## [${NEW_VERSION#v}] - $DATE\n\n### Changed\n- Updated data from upstream database (PR #$PR_NUMBER)\n"
             if [ -f "$CHANGELOG" ]; then
-              sed -i "0,/^## \[/s//$ENTRY\n## [/" "$CHANGELOG"
+              if grep -q "^## \[" "$CHANGELOG"; then
+                sed -i "0,/^## \[/s//$ENTRY\n## [/" "$CHANGELOG"
+              else
+                printf "\n$ENTRY" >> "$CHANGELOG"
+              fi
             fi
           done
 

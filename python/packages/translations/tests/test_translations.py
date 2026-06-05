@@ -64,6 +64,20 @@ def test_get_translations_by_language_zh_cn():
     assert len(translations) > 0
 
 
+def test_get_translations_by_language_case_insensitive():
+    lower = get_translations_by_language("fr")
+    upper = get_translations_by_language("FR")
+    assert len(lower) == len(upper) > 0
+
+
+def test_get_translation_lang_case_insensitive():
+    t_lower = get_translation("DE", "fr")
+    t_upper = get_translation("DE", "FR")
+    assert t_lower is not None
+    assert t_upper is not None
+    assert t_lower.translation == t_upper.translation
+
+
 def test_get_translations_by_language_not_found():
     translations = get_translations_by_language("xx")
     assert translations == []

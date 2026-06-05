@@ -63,7 +63,7 @@ def get_countries_by_currency(currency_code: str) -> List[Currency]:
 
 
 def search_currencies(query: str) -> List[Currency]:
-    """Search currencies by code, name, or symbol.
+    """Search currencies by code, name, symbol, or country name.
 
     Args:
         query: Search query (case-insensitive).
@@ -85,6 +85,8 @@ def search_currencies(query: str) -> List[Currency]:
             query_lower in c["code"].lower()
             or query_lower in c["name"].lower()
             or query_lower in c["symbol"].lower()
+            or query_lower in c["countryName"].lower()
+            or query_lower in c["countryCode"].lower()
         ):
             results.append(Currency(**c))
 

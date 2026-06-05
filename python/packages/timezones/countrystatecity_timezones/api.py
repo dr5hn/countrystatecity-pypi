@@ -137,7 +137,8 @@ def convert_time(dt: datetime, from_tz: str, to_tz: str) -> datetime:
     target_tz = ZoneInfo(to_tz)  # type: ignore[abstract]
 
     if dt.tzinfo is None:
-        dt = dt.replace(tzinfo=source_tz)
+        # fold=0: for ambiguous wall-clock times (DST fall-back) picks first occurrence
+        dt = dt.replace(tzinfo=source_tz, fold=0)
     else:
         dt = dt.astimezone(source_tz)
 

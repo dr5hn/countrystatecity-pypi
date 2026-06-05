@@ -99,7 +99,12 @@ jobs:
       - name: Check for data changes
         id: check-changes
         run: |
-          if git diff --name-only -- python/packages/countries/countrystatecity_countries/data | grep -q .; then
+          if git diff --name-only -- \
+            python/packages/countries/countrystatecity_countries/data \
+            python/packages/timezones/countrystatecity_timezones/data \
+            python/packages/currencies/countrystatecity_currencies/data \
+            python/packages/translations/countrystatecity_translations/data \
+            | grep -q .; then
             echo "changed=true" >> $GITHUB_OUTPUT
             echo "Data changes detected"
           else

@@ -63,6 +63,6 @@ jobs:
         uses: codecov/codecov-action@v4
         with:
           files: ./python/packages/${{ matrix.package }}/coverage.xml
-          flags: unittests
+          flags: ${{ matrix.package }}
           name: codecov-${{ matrix.package }}
           fail_ci_if_error: false

@@ -26,14 +26,31 @@ jobs:
     outputs:
       packages: ${{ steps.resolve.outputs.packages }}
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
       - name: Resolve package list
         id: resolve
         run: |
           INPUT="${{ github.event.inputs.package }}"
-          if [ "$INPUT" = "all" ] || [ -z "$INPUT" ]; then
+          if [ "$INPUT" = "all" ]; then
             echo 'packages=["countries","timezones","currencies","translations"]' >> $GITHUB_OUTPUT
-          else
+          elif [ -n "$INPUT" ]; then
             echo "packages=[\"$INPUT\"]" >> $GITHUB_OUTPUT
+          else
+            # Push trigger: only publish packages whose files actually changed
+            PKGS=""
+            for pkg in countries timezones currencies translations; do
+              if git diff --name-only HEAD~1 HEAD -- "python/packages/$pkg/" | grep -q .; then
+                PKGS="${PKGS}\"${pkg}\","
+              fi
+            done
+            PKGS="[${PKGS%,}]"
+            if [ "$PKGS" = "[]" ]; then
+              PKGS='["countries","timezones","currencies","translations"]'
+            fi
+            echo "packages=$PKGS" >> $GITHUB_OUTPUT
           fi
 
   publish:

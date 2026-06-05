@@ -119,6 +119,20 @@ def test_search_currencies_case_insensitive():
     assert len(lower) == len(upper)
 
 
+def test_search_currencies_by_country_name():
+    results = search_currencies("United States")
+    assert isinstance(results, list)
+    assert len(results) > 0
+    country_codes = [c.countryCode for c in results]
+    assert "US" in country_codes
+
+
+def test_search_currencies_by_country_code():
+    results = search_currencies("IN")
+    assert isinstance(results, list)
+    assert len(results) > 0
+
+
 def test_search_currencies_no_results():
     results = search_currencies("xyzxyzxyz_invalid")
     assert results == []

@@ -55,7 +55,7 @@ def get_translations_by_language(lang: str) -> List[Translation]:
         True
     """
     data = DataLoader.load_translations()
-    return [Translation(**t) for t in data if t["lang"] == lang]
+    return [Translation(**t) for t in data if t["lang"].lower() == lang.lower()]
 
 
 def get_translation(country_code: str, lang: str) -> Optional[Translation]:
@@ -76,7 +76,7 @@ def get_translation(country_code: str, lang: str) -> Optional[Translation]:
     code_upper = country_code.upper()
     data = DataLoader.load_translations()
     for t in data:
-        if t["countryCode"] == code_upper and t["lang"] == lang:
+        if t["countryCode"] == code_upper and t["lang"].lower() == lang.lower():
             return Translation(**t)
     return None
 
