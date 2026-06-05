@@ -7,7 +7,9 @@ Example:
     >>> from countrystatecity_timezones import get_timezones_by_country, convert_time
     >>> us_timezones = get_timezones_by_country("US")
     >>> from datetime import datetime
-    >>> result = convert_time(datetime(2024, 1, 1, 12, 0), "America/New_York", "Asia/Kolkata")
+    >>> result = convert_time(
+    ...     datetime(2024, 1, 1, 12, 0), "America/New_York", "Asia/Kolkata"
+    ... )
 """
 
 __version__ = "1.0.0"

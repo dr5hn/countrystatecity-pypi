@@ -4,7 +4,10 @@ This package provides access to a comprehensive database of currencies
 with country associations, ISO 4217 codes, names, and symbols.
 
 Example:
-    >>> from countrystatecity_currencies import get_currency_by_country, get_countries_by_currency
+    >>> from countrystatecity_currencies import (
+    ...     get_currency_by_country,
+    ...     get_countries_by_currency,
+    ... )
     >>> usd = get_currency_by_country("US")
     >>> euro_countries = get_countries_by_currency("EUR")
 """
