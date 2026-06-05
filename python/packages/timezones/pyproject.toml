@@ -13,8 +13,7 @@ authors = [
 maintainers = [
     {name = "dr5hn", email = "support@countrystatecity.in"}
 ]
-license = "ODbL-1.0"
-license-files = ["LICENSE"]
+license = {file = "LICENSE"}
 keywords = [
     "timezones",
     "timezone",
