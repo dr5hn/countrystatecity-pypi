@@ -2,6 +2,11 @@
 
 All notable changes to `countrystatecity-translations` will be documented in this file.
 
+## [1.0.3] - 2026-06-12
+
+### Changed
+- Updated data from upstream database (PR #11)
+
 ## [1.0.0] - 2026-06-05
 
 ### Added

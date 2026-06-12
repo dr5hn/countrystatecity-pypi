@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-currencies"
-version = "1.0.0"
+version = "1.0.3"
 description = "Type-safe Python package for currency data with 250+ entries covering currency codes, symbols, and country associations."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [

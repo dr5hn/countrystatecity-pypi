@@ -12,7 +12,7 @@ Example:
     >>> euro_countries = get_countries_by_currency("EUR")
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.3"
 
 from .api import (
     get_all_currencies,

@@ -12,7 +12,7 @@ Example:
     >>> french_countries = get_translations_by_language("fr")
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.3"
 
 from .api import (
     get_all_translations,
