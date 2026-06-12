@@ -1,10 +1,11 @@
 # countrystatecity-phonecodes
 
-Type-safe Python package for international phone/dialing codes with 250+ country associations.
-
 [![PyPI](https://img.shields.io/pypi/v/countrystatecity-phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/)
 [![Python Version](https://img.shields.io/pypi/pyversions/countrystatecity-phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/)
 [![License](https://img.shields.io/badge/License-ODbL--1.0-blue.svg)](LICENSE)
+[![Type Checked](https://img.shields.io/badge/type--checked-mypy-blue)](https://mypy.readthedocs.io/)
+
+Official Python package for international phone/dialing codes — 250+ entries with country associations. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
 
 ## Installation
 
@@ -67,4 +68,19 @@ class PhoneCode:
 
 ## License
 
-[Open Database License (ODbL-1.0)](LICENSE)
+ODbL-1.0 — see [LICENSE](LICENSE).
+
+## Other Packages in this Ecosystem
+
+| Package | Description |
+|---|---|
+| [countrystatecity-countries](https://pypi.org/project/countrystatecity-countries/) | 250+ countries, 5,000+ states, 150,000+ cities |
+| [countrystatecity-timezones](https://pypi.org/project/countrystatecity-timezones/) | 400+ IANA timezones with country associations and time conversion |
+| [countrystatecity-currencies](https://pypi.org/project/countrystatecity-currencies/) | Currency codes, names, and symbols for every country |
+| [countrystatecity-translations](https://pypi.org/project/countrystatecity-translations/) | Country name translations in 18+ languages |
+
+Data sourced from [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database).
+
+---
+
+Made with ❤️ by [dr5hn](https://github.com/dr5hn)
