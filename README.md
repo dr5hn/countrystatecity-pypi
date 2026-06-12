@@ -17,7 +17,7 @@ Official Python packages for accessing comprehensive countries, states, cities, 
 | **[countrystatecity-translations](./python/packages/translations/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/) | Country name translations in 18+ languages |
 | **[countrystatecity-phonecodes](./python/packages/phonecodes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250+ countries |
 
-> **Note:** There is no bare `countrystatecity` package on PyPI. Always install with the suffix (`-countries`, `-timezones`, `-currencies`, `-translations`).
+> **Note:** There is no bare `countrystatecity` package on PyPI. Always install with the suffix (`-countries`, `-timezones`, `-currencies`, `-translations`, `-phonecodes`).
 
 ## 🚀 Installation
 
