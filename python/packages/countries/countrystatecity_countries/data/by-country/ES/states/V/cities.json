@@ -385,17 +385,6 @@
     "wikiDataId": null
   },
   {
-    "id": 32244,
-    "name": "Alicante",
-    "state_id": 1175,
-    "state_code": "V",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "38.34517000",
-    "longitude": "-0.48149000",
-    "wikiDataId": null
-  },
-  {
     "id": 152925,
     "name": "Almàssera",
     "state_id": 1175,
@@ -1980,17 +1969,6 @@
     "wikiDataId": null
   },
   {
-    "id": 34906,
-    "name": "La Pobla de Farnals",
-    "state_id": 1175,
-    "state_code": "V",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "39.56571000",
-    "longitude": "-0.28425000",
-    "wikiDataId": null
-  },
-  {
     "id": 152953,
     "name": "La Pobla de Farnals",
     "state_id": 1175,
@@ -2002,14 +1980,14 @@
     "wikiDataId": null
   },
   {
-    "id": 152955,
-    "name": "La Pobla de Vallbona",
+    "id": 34906,
+    "name": "La Pobla de Farnals",
     "state_id": 1175,
     "state_code": "V",
     "country_id": 207,
     "country_code": "ES",
-    "latitude": "39.59629650",
-    "longitude": "-0.55178430",
+    "latitude": "39.56571000",
+    "longitude": "-0.28425000",
     "wikiDataId": null
   },
   {
@@ -2021,6 +1999,17 @@
     "country_code": "ES",
     "latitude": "39.59747000",
     "longitude": "-0.55468000",
+    "wikiDataId": null
+  },
+  {
+    "id": 152955,
+    "name": "La Pobla de Vallbona",
+    "state_id": 1175,
+    "state_code": "V",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "39.59629650",
+    "longitude": "-0.55178430",
     "wikiDataId": null
   },
   {
@@ -2791,39 +2780,6 @@
     "country_code": "ES",
     "latitude": "38.91617000",
     "longitude": "-0.19594000",
-    "wikiDataId": null
-  },
-  {
-    "id": 36362,
-    "name": "Provincia de Alicante",
-    "state_id": 1175,
-    "state_code": "V",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "38.50000000",
-    "longitude": "-0.50000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 36396,
-    "name": "Província de Castelló",
-    "state_id": 1175,
-    "state_code": "V",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "40.16667000",
-    "longitude": "-0.16667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 36400,
-    "name": "Província de València",
-    "state_id": 1175,
-    "state_code": "V",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "39.33333000",
-    "longitude": "-0.83333000",
     "wikiDataId": null
   },
   {
