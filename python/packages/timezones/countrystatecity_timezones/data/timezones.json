@@ -1,0 +1,3890 @@
+[
+  {
+    "zoneName": "Asia/Kabul",
+    "gmtOffset": 16200,
+    "gmtOffsetName": "UTC+04:30",
+    "abbreviation": "AFT",
+    "tzName": "Afghanistan Time",
+    "countryCode": "AF",
+    "countryName": "Afghanistan"
+  },
+  {
+    "zoneName": "Europe/Mariehamn",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "AX",
+    "countryName": "Aland Islands"
+  },
+  {
+    "zoneName": "Europe/Tirane",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "AL",
+    "countryName": "Albania"
+  },
+  {
+    "zoneName": "Africa/Algiers",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "DZ",
+    "countryName": "Algeria"
+  },
+  {
+    "zoneName": "Pacific/Pago_Pago",
+    "gmtOffset": -39600,
+    "gmtOffsetName": "UTC-11:00",
+    "abbreviation": "SST",
+    "tzName": "Samoa Standard Time",
+    "countryCode": "AS",
+    "countryName": "American Samoa"
+  },
+  {
+    "zoneName": "Europe/Andorra",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "AD",
+    "countryName": "Andorra"
+  },
+  {
+    "zoneName": "Africa/Luanda",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tzName": "West Africa Time",
+    "countryCode": "AO",
+    "countryName": "Angola"
+  },
+  {
+    "zoneName": "America/Anguilla",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "AI",
+    "countryName": "Anguilla"
+  },
+  {
+    "zoneName": "Antarctica/Casey",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "AWST",
+    "tzName": "Australian Western Standard Time",
+    "countryCode": "AQ",
+    "countryName": "Antarctica"
+  },
+  {
+    "zoneName": "Antarctica/Davis",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "DAVT",
+    "tzName": "Davis Time",
+    "countryCode": "AQ",
+    "countryName": "Antarctica"
+  },
+  {
+    "zoneName": "Antarctica/DumontDUrville",
+    "gmtOffset": 36000,
+    "gmtOffsetName": "UTC+10:00",
+    "abbreviation": "DDUT",
+    "tzName": "Dumont d'Urville Time",
+    "countryCode": "AQ",
+    "countryName": "Antarctica"
+  },
+  {
+    "zoneName": "Antarctica/Mawson",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "MAWT",
+    "tzName": "Mawson Station Time",
+    "countryCode": "AQ",
+    "countryName": "Antarctica"
+  },
+  {
+    "zoneName": "Antarctica/McMurdo",
+    "gmtOffset": 46800,
+    "gmtOffsetName": "UTC+13:00",
+    "abbreviation": "NZDT",
+    "tzName": "New Zealand Daylight Time",
+    "countryCode": "AQ",
+    "countryName": "Antarctica"
+  },
+  {
+    "zoneName": "Antarctica/Palmer",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "CLST",
+    "tzName": "Chile Summer Time",
+    "countryCode": "AQ",
+    "countryName": "Antarctica"
+  },
+  {
+    "zoneName": "Antarctica/Rothera",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ROTT",
+    "tzName": "Rothera Research Station Time",
+    "countryCode": "AQ",
+    "countryName": "Antarctica"
+  },
+  {
+    "zoneName": "Antarctica/Syowa",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "SYOT",
+    "tzName": "Showa Station Time",
+    "countryCode": "AQ",
+    "countryName": "Antarctica"
+  },
+  {
+    "zoneName": "Antarctica/Troll",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "AQ",
+    "countryName": "Antarctica"
+  },
+  {
+    "zoneName": "Antarctica/Vostok",
+    "gmtOffset": 21600,
+    "gmtOffsetName": "UTC+06:00",
+    "abbreviation": "VOST",
+    "tzName": "Vostok Station Time",
+    "countryCode": "AQ",
+    "countryName": "Antarctica"
+  },
+  {
+    "zoneName": "America/Antigua",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "AG",
+    "countryName": "Antigua and Barbuda"
+  },
+  {
+    "zoneName": "America/Argentina/Buenos_Aires",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ART",
+    "tzName": "Argentina Time",
+    "countryCode": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "zoneName": "America/Argentina/Catamarca",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ART",
+    "tzName": "Argentina Time",
+    "countryCode": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "zoneName": "America/Argentina/Cordoba",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ART",
+    "tzName": "Argentina Time",
+    "countryCode": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "zoneName": "America/Argentina/Jujuy",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ART",
+    "tzName": "Argentina Time",
+    "countryCode": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "zoneName": "America/Argentina/La_Rioja",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ART",
+    "tzName": "Argentina Time",
+    "countryCode": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "zoneName": "America/Argentina/Mendoza",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ART",
+    "tzName": "Argentina Time",
+    "countryCode": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "zoneName": "America/Argentina/Rio_Gallegos",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ART",
+    "tzName": "Argentina Time",
+    "countryCode": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "zoneName": "America/Argentina/Salta",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ART",
+    "tzName": "Argentina Time",
+    "countryCode": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "zoneName": "America/Argentina/San_Juan",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ART",
+    "tzName": "Argentina Time",
+    "countryCode": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "zoneName": "America/Argentina/San_Luis",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ART",
+    "tzName": "Argentina Time",
+    "countryCode": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "zoneName": "America/Argentina/Tucuman",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ART",
+    "tzName": "Argentina Time",
+    "countryCode": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "zoneName": "America/Argentina/Ushuaia",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "ART",
+    "tzName": "Argentina Time",
+    "countryCode": "AR",
+    "countryName": "Argentina"
+  },
+  {
+    "zoneName": "Asia/Yerevan",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "AMT",
+    "tzName": "Armenia Time",
+    "countryCode": "AM",
+    "countryName": "Armenia"
+  },
+  {
+    "zoneName": "America/Aruba",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "AW",
+    "countryName": "Aruba"
+  },
+  {
+    "zoneName": "Antarctica/Macquarie",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "MIST",
+    "tzName": "Macquarie Island Station Time",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Australia/Adelaide",
+    "gmtOffset": 37800,
+    "gmtOffsetName": "UTC+10:30",
+    "abbreviation": "ACDT",
+    "tzName": "Australian Central Daylight Saving Time",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Australia/Brisbane",
+    "gmtOffset": 36000,
+    "gmtOffsetName": "UTC+10:00",
+    "abbreviation": "AEST",
+    "tzName": "Australian Eastern Standard Time",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Australia/Broken_Hill",
+    "gmtOffset": 37800,
+    "gmtOffsetName": "UTC+10:30",
+    "abbreviation": "ACDT",
+    "tzName": "Australian Central Daylight Saving Time",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Australia/Currie",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "AEDT",
+    "tzName": "Australian Eastern Daylight Saving Time",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Australia/Darwin",
+    "gmtOffset": 34200,
+    "gmtOffsetName": "UTC+09:30",
+    "abbreviation": "ACST",
+    "tzName": "Australian Central Standard Time",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Australia/Eucla",
+    "gmtOffset": 31500,
+    "gmtOffsetName": "UTC+08:45",
+    "abbreviation": "ACWST",
+    "tzName": "Australian Central Western Standard Time (Unofficial)",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Australia/Hobart",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "AEDT",
+    "tzName": "Australian Eastern Daylight Saving Time",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Australia/Lindeman",
+    "gmtOffset": 36000,
+    "gmtOffsetName": "UTC+10:00",
+    "abbreviation": "AEST",
+    "tzName": "Australian Eastern Standard Time",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Australia/Lord_Howe",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "LHST",
+    "tzName": "Lord Howe Summer Time",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Australia/Melbourne",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "AEDT",
+    "tzName": "Australian Eastern Daylight Saving Time",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Australia/Perth",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "AWST",
+    "tzName": "Australian Western Standard Time",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Australia/Sydney",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "AEDT",
+    "tzName": "Australian Eastern Daylight Saving Time",
+    "countryCode": "AU",
+    "countryName": "Australia"
+  },
+  {
+    "zoneName": "Europe/Vienna",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "AT",
+    "countryName": "Austria"
+  },
+  {
+    "zoneName": "Asia/Baku",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "AZT",
+    "tzName": "Azerbaijan Time",
+    "countryCode": "AZ",
+    "countryName": "Azerbaijan"
+  },
+  {
+    "zoneName": "Asia/Bahrain",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "AST",
+    "tzName": "Arabia Standard Time",
+    "countryCode": "BH",
+    "countryName": "Bahrain"
+  },
+  {
+    "zoneName": "Asia/Dhaka",
+    "gmtOffset": 21600,
+    "gmtOffsetName": "UTC+06:00",
+    "abbreviation": "BDT",
+    "tzName": "Bangladesh Standard Time",
+    "countryCode": "BD",
+    "countryName": "Bangladesh"
+  },
+  {
+    "zoneName": "America/Barbados",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "BB",
+    "countryName": "Barbados"
+  },
+  {
+    "zoneName": "Europe/Minsk",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "MSK",
+    "tzName": "Moscow Time",
+    "countryCode": "BY",
+    "countryName": "Belarus"
+  },
+  {
+    "zoneName": "Europe/Brussels",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "BE",
+    "countryName": "Belgium"
+  },
+  {
+    "zoneName": "America/Belize",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "BZ",
+    "countryName": "Belize"
+  },
+  {
+    "zoneName": "Africa/Porto-Novo",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tzName": "West Africa Time",
+    "countryCode": "BJ",
+    "countryName": "Benin"
+  },
+  {
+    "zoneName": "Atlantic/Bermuda",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "BM",
+    "countryName": "Bermuda"
+  },
+  {
+    "zoneName": "Asia/Thimphu",
+    "gmtOffset": 21600,
+    "gmtOffsetName": "UTC+06:00",
+    "abbreviation": "BTT",
+    "tzName": "Bhutan Time",
+    "countryCode": "BT",
+    "countryName": "Bhutan"
+  },
+  {
+    "zoneName": "America/La_Paz",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "BOT",
+    "tzName": "Bolivia Time",
+    "countryCode": "BO",
+    "countryName": "Bolivia"
+  },
+  {
+    "zoneName": "America/Kralendijk",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "BQ",
+    "countryName": "Bonaire, Sint Eustatius and Saba"
+  },
+  {
+    "zoneName": "Europe/Sarajevo",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "BA",
+    "countryName": "Bosnia and Herzegovina"
+  },
+  {
+    "zoneName": "Africa/Gaborone",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tzName": "Central Africa Time",
+    "countryCode": "BW",
+    "countryName": "Botswana"
+  },
+  {
+    "zoneName": "Europe/Oslo",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "BV",
+    "countryName": "Bouvet Island"
+  },
+  {
+    "zoneName": "America/Araguaina",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tzName": "Brasília Time",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Bahia",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tzName": "Brasília Time",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Belem",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tzName": "Brasília Time",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Boa_Vista",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AMT",
+    "tzName": "Amazon Time (Brazil)[3",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Campo_Grande",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AMT",
+    "tzName": "Amazon Time (Brazil)[3",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Cuiaba",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "BRT",
+    "tzName": "Brasilia Time",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Eirunepe",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "ACT",
+    "tzName": "Acre Time",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Fortaleza",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tzName": "Brasília Time",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Maceio",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tzName": "Brasília Time",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Manaus",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AMT",
+    "tzName": "Amazon Time (Brazil)",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Noronha",
+    "gmtOffset": -7200,
+    "gmtOffsetName": "UTC-02:00",
+    "abbreviation": "FNT",
+    "tzName": "Fernando de Noronha Time",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Porto_Velho",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AMT",
+    "tzName": "Amazon Time (Brazil)[3",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Recife",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tzName": "Brasília Time",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Rio_Branco",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "ACT",
+    "tzName": "Acre Time",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Santarem",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tzName": "Brasília Time",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "America/Sao_Paulo",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tzName": "Brasília Time",
+    "countryCode": "BR",
+    "countryName": "Brazil"
+  },
+  {
+    "zoneName": "Indian/Chagos",
+    "gmtOffset": 21600,
+    "gmtOffsetName": "UTC+06:00",
+    "abbreviation": "IOT",
+    "tzName": "Indian Ocean Time",
+    "countryCode": "IO",
+    "countryName": "British Indian Ocean Territory"
+  },
+  {
+    "zoneName": "Asia/Brunei",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "BNT",
+    "tzName": "Brunei Darussalam Time",
+    "countryCode": "BN",
+    "countryName": "Brunei"
+  },
+  {
+    "zoneName": "Europe/Sofia",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "BG",
+    "countryName": "Bulgaria"
+  },
+  {
+    "zoneName": "Africa/Ouagadougou",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "BF",
+    "countryName": "Burkina Faso"
+  },
+  {
+    "zoneName": "Africa/Bujumbura",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tzName": "Central Africa Time",
+    "countryCode": "BI",
+    "countryName": "Burundi"
+  },
+  {
+    "zoneName": "Asia/Phnom_Penh",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "ICT",
+    "tzName": "Indochina Time",
+    "countryCode": "KH",
+    "countryName": "Cambodia"
+  },
+  {
+    "zoneName": "Africa/Douala",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tzName": "West Africa Time",
+    "countryCode": "CM",
+    "countryName": "Cameroon"
+  },
+  {
+    "zoneName": "America/Atikokan",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Blanc-Sablon",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Cambridge_Bay",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Creston",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Dawson",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Dawson_Creek",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Edmonton",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Fort_Nelson",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Glace_Bay",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Goose_Bay",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Halifax",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Inuvik",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Iqaluit",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Moncton",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Nipigon",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Pangnirtung",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Rainy_River",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Rankin_Inlet",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Regina",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Resolute",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/St_Johns",
+    "gmtOffset": -12600,
+    "gmtOffsetName": "UTC-03:30",
+    "abbreviation": "NST",
+    "tzName": "Newfoundland Standard Time",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Swift_Current",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Thunder_Bay",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Toronto",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Vancouver",
+    "gmtOffset": -28800,
+    "gmtOffsetName": "UTC-08:00",
+    "abbreviation": "PST",
+    "tzName": "Pacific Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Whitehorse",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Winnipeg",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "America/Yellowknife",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "CA",
+    "countryName": "Canada"
+  },
+  {
+    "zoneName": "Atlantic/Cape_Verde",
+    "gmtOffset": -3600,
+    "gmtOffsetName": "UTC-01:00",
+    "abbreviation": "CVT",
+    "tzName": "Cape Verde Time",
+    "countryCode": "CV",
+    "countryName": "Cape Verde"
+  },
+  {
+    "zoneName": "America/Cayman",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "KY",
+    "countryName": "Cayman Islands"
+  },
+  {
+    "zoneName": "Africa/Bangui",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tzName": "West Africa Time",
+    "countryCode": "CF",
+    "countryName": "Central African Republic"
+  },
+  {
+    "zoneName": "Africa/Ndjamena",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tzName": "West Africa Time",
+    "countryCode": "TD",
+    "countryName": "Chad"
+  },
+  {
+    "zoneName": "America/Punta_Arenas",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "CLST",
+    "tzName": "Chile Summer Time",
+    "countryCode": "CL",
+    "countryName": "Chile"
+  },
+  {
+    "zoneName": "America/Santiago",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "CLST",
+    "tzName": "Chile Summer Time",
+    "countryCode": "CL",
+    "countryName": "Chile"
+  },
+  {
+    "zoneName": "Pacific/Easter",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EASST",
+    "tzName": "Easter Island Summer Time",
+    "countryCode": "CL",
+    "countryName": "Chile"
+  },
+  {
+    "zoneName": "America/Coyhaique",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "CLST",
+    "tzName": "Chile Summer Time",
+    "countryCode": "CL",
+    "countryName": "Chile"
+  },
+  {
+    "zoneName": "Asia/Shanghai",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "CST",
+    "tzName": "China Standard Time",
+    "countryCode": "CN",
+    "countryName": "China"
+  },
+  {
+    "zoneName": "Asia/Urumqi",
+    "gmtOffset": 21600,
+    "gmtOffsetName": "UTC+06:00",
+    "abbreviation": "XJT",
+    "tzName": "China Standard Time",
+    "countryCode": "CN",
+    "countryName": "China"
+  },
+  {
+    "zoneName": "Indian/Christmas",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "CXT",
+    "tzName": "Christmas Island Time",
+    "countryCode": "CX",
+    "countryName": "Christmas Island"
+  },
+  {
+    "zoneName": "Indian/Cocos",
+    "gmtOffset": 23400,
+    "gmtOffsetName": "UTC+06:30",
+    "abbreviation": "CCT",
+    "tzName": "Cocos Islands Time",
+    "countryCode": "CC",
+    "countryName": "Cocos (Keeling) Islands"
+  },
+  {
+    "zoneName": "America/Bogota",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "COT",
+    "tzName": "Colombia Time",
+    "countryCode": "CO",
+    "countryName": "Colombia"
+  },
+  {
+    "zoneName": "Indian/Comoro",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tzName": "East Africa Time",
+    "countryCode": "KM",
+    "countryName": "Comoros"
+  },
+  {
+    "zoneName": "Africa/Brazzaville",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tzName": "West Africa Time",
+    "countryCode": "CG",
+    "countryName": "Congo"
+  },
+  {
+    "zoneName": "Pacific/Rarotonga",
+    "gmtOffset": -36000,
+    "gmtOffsetName": "UTC-10:00",
+    "abbreviation": "CKT",
+    "tzName": "Cook Island Time",
+    "countryCode": "CK",
+    "countryName": "Cook Islands"
+  },
+  {
+    "zoneName": "America/Costa_Rica",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "CR",
+    "countryName": "Costa Rica"
+  },
+  {
+    "zoneName": "Europe/Zagreb",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "HR",
+    "countryName": "Croatia"
+  },
+  {
+    "zoneName": "America/Havana",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "CST",
+    "tzName": "Cuba Standard Time",
+    "countryCode": "CU",
+    "countryName": "Cuba"
+  },
+  {
+    "zoneName": "America/Curacao",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "CW",
+    "countryName": "Curaçao"
+  },
+  {
+    "zoneName": "Asia/Famagusta",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "CY",
+    "countryName": "Cyprus"
+  },
+  {
+    "zoneName": "Asia/Nicosia",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "CY",
+    "countryName": "Cyprus"
+  },
+  {
+    "zoneName": "Europe/Prague",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "CZ",
+    "countryName": "Czech Republic"
+  },
+  {
+    "zoneName": "Africa/Kinshasa",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tzName": "West Africa Time",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo"
+  },
+  {
+    "zoneName": "Africa/Lubumbashi",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tzName": "Central Africa Time",
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo"
+  },
+  {
+    "zoneName": "Europe/Copenhagen",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "DK",
+    "countryName": "Denmark"
+  },
+  {
+    "zoneName": "Africa/Djibouti",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tzName": "East Africa Time",
+    "countryCode": "DJ",
+    "countryName": "Djibouti"
+  },
+  {
+    "zoneName": "America/Dominica",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "DM",
+    "countryName": "Dominica"
+  },
+  {
+    "zoneName": "America/Santo_Domingo",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "DO",
+    "countryName": "Dominican Republic"
+  },
+  {
+    "zoneName": "America/Guayaquil",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "ECT",
+    "tzName": "Ecuador Time",
+    "countryCode": "EC",
+    "countryName": "Ecuador"
+  },
+  {
+    "zoneName": "Pacific/Galapagos",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "GALT",
+    "tzName": "Galápagos Time",
+    "countryCode": "EC",
+    "countryName": "Ecuador"
+  },
+  {
+    "zoneName": "Africa/Cairo",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "EG",
+    "countryName": "Egypt"
+  },
+  {
+    "zoneName": "America/El_Salvador",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "SV",
+    "countryName": "El Salvador"
+  },
+  {
+    "zoneName": "Africa/Malabo",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tzName": "West Africa Time",
+    "countryCode": "GQ",
+    "countryName": "Equatorial Guinea"
+  },
+  {
+    "zoneName": "Africa/Asmara",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tzName": "East Africa Time",
+    "countryCode": "ER",
+    "countryName": "Eritrea"
+  },
+  {
+    "zoneName": "Europe/Tallinn",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "EE",
+    "countryName": "Estonia"
+  },
+  {
+    "zoneName": "Africa/Mbabane",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "SAST",
+    "tzName": "South African Standard Time",
+    "countryCode": "SZ",
+    "countryName": "Eswatini"
+  },
+  {
+    "zoneName": "Africa/Addis_Ababa",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tzName": "East Africa Time",
+    "countryCode": "ET",
+    "countryName": "Ethiopia"
+  },
+  {
+    "zoneName": "Atlantic/Stanley",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "FKST",
+    "tzName": "Falkland Islands Summer Time",
+    "countryCode": "FK",
+    "countryName": "Falkland Islands"
+  },
+  {
+    "zoneName": "Atlantic/Faroe",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "WET",
+    "tzName": "Western European Time",
+    "countryCode": "FO",
+    "countryName": "Faroe Islands"
+  },
+  {
+    "zoneName": "Pacific/Fiji",
+    "gmtOffset": 43200,
+    "gmtOffsetName": "UTC+12:00",
+    "abbreviation": "FJT",
+    "tzName": "Fiji Time",
+    "countryCode": "FJ",
+    "countryName": "Fiji Islands"
+  },
+  {
+    "zoneName": "Europe/Helsinki",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "FI",
+    "countryName": "Finland"
+  },
+  {
+    "zoneName": "Europe/Paris",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "FR",
+    "countryName": "France"
+  },
+  {
+    "zoneName": "America/Cayenne",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "GFT",
+    "tzName": "French Guiana Time",
+    "countryCode": "GF",
+    "countryName": "French Guiana"
+  },
+  {
+    "zoneName": "Pacific/Gambier",
+    "gmtOffset": -32400,
+    "gmtOffsetName": "UTC-09:00",
+    "abbreviation": "GAMT",
+    "tzName": "Gambier Islands Time",
+    "countryCode": "PF",
+    "countryName": "French Polynesia"
+  },
+  {
+    "zoneName": "Pacific/Marquesas",
+    "gmtOffset": -34200,
+    "gmtOffsetName": "UTC-09:30",
+    "abbreviation": "MART",
+    "tzName": "Marquesas Islands Time",
+    "countryCode": "PF",
+    "countryName": "French Polynesia"
+  },
+  {
+    "zoneName": "Pacific/Tahiti",
+    "gmtOffset": -36000,
+    "gmtOffsetName": "UTC-10:00",
+    "abbreviation": "TAHT",
+    "tzName": "Tahiti Time",
+    "countryCode": "PF",
+    "countryName": "French Polynesia"
+  },
+  {
+    "zoneName": "Indian/Kerguelen",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "TFT",
+    "tzName": "French Southern and Antarctic Time",
+    "countryCode": "TF",
+    "countryName": "French Southern Territories"
+  },
+  {
+    "zoneName": "Africa/Libreville",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tzName": "West Africa Time",
+    "countryCode": "GA",
+    "countryName": "Gabon"
+  },
+  {
+    "zoneName": "Asia/Tbilisi",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "GET",
+    "tzName": "Georgia Standard Time",
+    "countryCode": "GE",
+    "countryName": "Georgia"
+  },
+  {
+    "zoneName": "Europe/Berlin",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "DE",
+    "countryName": "Germany"
+  },
+  {
+    "zoneName": "Europe/Busingen",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "DE",
+    "countryName": "Germany"
+  },
+  {
+    "zoneName": "Africa/Accra",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "GH",
+    "countryName": "Ghana"
+  },
+  {
+    "zoneName": "Europe/Gibraltar",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "GI",
+    "countryName": "Gibraltar"
+  },
+  {
+    "zoneName": "Europe/Athens",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "GR",
+    "countryName": "Greece"
+  },
+  {
+    "zoneName": "America/Danmarkshavn",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "GL",
+    "countryName": "Greenland"
+  },
+  {
+    "zoneName": "America/Nuuk",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "WGT",
+    "tzName": "West Greenland Time",
+    "countryCode": "GL",
+    "countryName": "Greenland"
+  },
+  {
+    "zoneName": "America/Scoresbysund",
+    "gmtOffset": -3600,
+    "gmtOffsetName": "UTC-01:00",
+    "abbreviation": "EGT",
+    "tzName": "Eastern Greenland Time",
+    "countryCode": "GL",
+    "countryName": "Greenland"
+  },
+  {
+    "zoneName": "America/Thule",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "GL",
+    "countryName": "Greenland"
+  },
+  {
+    "zoneName": "America/Grenada",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "GD",
+    "countryName": "Grenada"
+  },
+  {
+    "zoneName": "America/Guadeloupe",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "GP",
+    "countryName": "Guadeloupe"
+  },
+  {
+    "zoneName": "Pacific/Guam",
+    "gmtOffset": 36000,
+    "gmtOffsetName": "UTC+10:00",
+    "abbreviation": "CHST",
+    "tzName": "Chamorro Standard Time",
+    "countryCode": "GU",
+    "countryName": "Guam"
+  },
+  {
+    "zoneName": "America/Guatemala",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "GT",
+    "countryName": "Guatemala"
+  },
+  {
+    "zoneName": "Europe/Guernsey",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "GG",
+    "countryName": "Guernsey"
+  },
+  {
+    "zoneName": "Africa/Conakry",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "GN",
+    "countryName": "Guinea"
+  },
+  {
+    "zoneName": "Africa/Bissau",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "GW",
+    "countryName": "Guinea-Bissau"
+  },
+  {
+    "zoneName": "America/Guyana",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "GYT",
+    "tzName": "Guyana Time",
+    "countryCode": "GY",
+    "countryName": "Guyana"
+  },
+  {
+    "zoneName": "America/Port-au-Prince",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "HT",
+    "countryName": "Haiti"
+  },
+  {
+    "zoneName": "Indian/Kerguelen",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "TFT",
+    "tzName": "French Southern and Antarctic Time",
+    "countryCode": "HM",
+    "countryName": "Heard Island and McDonald Islands"
+  },
+  {
+    "zoneName": "America/Tegucigalpa",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "HN",
+    "countryName": "Honduras"
+  },
+  {
+    "zoneName": "Asia/Hong_Kong",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "HKT",
+    "tzName": "Hong Kong Time",
+    "countryCode": "HK",
+    "countryName": "Hong Kong S.A.R."
+  },
+  {
+    "zoneName": "Europe/Budapest",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "HU",
+    "countryName": "Hungary"
+  },
+  {
+    "zoneName": "Atlantic/Reykjavik",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "IS",
+    "countryName": "Iceland"
+  },
+  {
+    "zoneName": "Asia/Kolkata",
+    "gmtOffset": 19800,
+    "gmtOffsetName": "UTC+05:30",
+    "abbreviation": "IST",
+    "tzName": "Indian Standard Time",
+    "countryCode": "IN",
+    "countryName": "India"
+  },
+  {
+    "zoneName": "Asia/Jakarta",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "WIB",
+    "tzName": "Western Indonesian Time",
+    "countryCode": "ID",
+    "countryName": "Indonesia"
+  },
+  {
+    "zoneName": "Asia/Jayapura",
+    "gmtOffset": 32400,
+    "gmtOffsetName": "UTC+09:00",
+    "abbreviation": "WIT",
+    "tzName": "Eastern Indonesian Time",
+    "countryCode": "ID",
+    "countryName": "Indonesia"
+  },
+  {
+    "zoneName": "Asia/Makassar",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "WITA",
+    "tzName": "Central Indonesia Time",
+    "countryCode": "ID",
+    "countryName": "Indonesia"
+  },
+  {
+    "zoneName": "Asia/Pontianak",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "WIB",
+    "tzName": "Western Indonesian Time",
+    "countryCode": "ID",
+    "countryName": "Indonesia"
+  },
+  {
+    "zoneName": "Asia/Tehran",
+    "gmtOffset": 12600,
+    "gmtOffsetName": "UTC+03:30",
+    "abbreviation": "IRDT",
+    "tzName": "Iran Daylight Time",
+    "countryCode": "IR",
+    "countryName": "Iran"
+  },
+  {
+    "zoneName": "Asia/Baghdad",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "AST",
+    "tzName": "Arabia Standard Time",
+    "countryCode": "IQ",
+    "countryName": "Iraq"
+  },
+  {
+    "zoneName": "Europe/Dublin",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "IE",
+    "countryName": "Ireland"
+  },
+  {
+    "zoneName": "Asia/Jerusalem",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "IST",
+    "tzName": "Israel Standard Time",
+    "countryCode": "IL",
+    "countryName": "Israel"
+  },
+  {
+    "zoneName": "Europe/Rome",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "IT",
+    "countryName": "Italy"
+  },
+  {
+    "zoneName": "Africa/Abidjan",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "CI",
+    "countryName": "Ivory Coast"
+  },
+  {
+    "zoneName": "America/Jamaica",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "JM",
+    "countryName": "Jamaica"
+  },
+  {
+    "zoneName": "Asia/Tokyo",
+    "gmtOffset": 32400,
+    "gmtOffsetName": "UTC+09:00",
+    "abbreviation": "JST",
+    "tzName": "Japan Standard Time",
+    "countryCode": "JP",
+    "countryName": "Japan"
+  },
+  {
+    "zoneName": "Europe/Jersey",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "JE",
+    "countryName": "Jersey"
+  },
+  {
+    "zoneName": "Asia/Amman",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "JO",
+    "countryName": "Jordan"
+  },
+  {
+    "zoneName": "Asia/Almaty",
+    "gmtOffset": 21600,
+    "gmtOffsetName": "UTC+06:00",
+    "abbreviation": "ALMT",
+    "tzName": "Alma-Ata Time[1",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan"
+  },
+  {
+    "zoneName": "Asia/Aqtau",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "AQTT",
+    "tzName": "Aqtobe Time",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan"
+  },
+  {
+    "zoneName": "Asia/Aqtobe",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "AQTT",
+    "tzName": "Aqtobe Time",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan"
+  },
+  {
+    "zoneName": "Asia/Atyrau",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "MSD+1",
+    "tzName": "Moscow Daylight Time+1",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan"
+  },
+  {
+    "zoneName": "Asia/Oral",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "ORAT",
+    "tzName": "Oral Time",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan"
+  },
+  {
+    "zoneName": "Asia/Qostanay",
+    "gmtOffset": 21600,
+    "gmtOffsetName": "UTC+06:00",
+    "abbreviation": "QYZST",
+    "tzName": "Qyzylorda Summer Time",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan"
+  },
+  {
+    "zoneName": "Asia/Qyzylorda",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "QYZT",
+    "tzName": "Qyzylorda Summer Time",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan"
+  },
+  {
+    "zoneName": "Africa/Nairobi",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tzName": "East Africa Time",
+    "countryCode": "KE",
+    "countryName": "Kenya"
+  },
+  {
+    "zoneName": "Pacific/Enderbury",
+    "gmtOffset": 46800,
+    "gmtOffsetName": "UTC+13:00",
+    "abbreviation": "PHOT",
+    "tzName": "Phoenix Island Time",
+    "countryCode": "KI",
+    "countryName": "Kiribati"
+  },
+  {
+    "zoneName": "Pacific/Kiritimati",
+    "gmtOffset": 50400,
+    "gmtOffsetName": "UTC+14:00",
+    "abbreviation": "LINT",
+    "tzName": "Line Islands Time",
+    "countryCode": "KI",
+    "countryName": "Kiribati"
+  },
+  {
+    "zoneName": "Pacific/Tarawa",
+    "gmtOffset": 43200,
+    "gmtOffsetName": "UTC+12:00",
+    "abbreviation": "GILT",
+    "tzName": "Gilbert Island Time",
+    "countryCode": "KI",
+    "countryName": "Kiribati"
+  },
+  {
+    "zoneName": "Europe/Belgrade",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "XK",
+    "countryName": "Kosovo"
+  },
+  {
+    "zoneName": "Asia/Kuwait",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "AST",
+    "tzName": "Arabia Standard Time",
+    "countryCode": "KW",
+    "countryName": "Kuwait"
+  },
+  {
+    "zoneName": "Asia/Bishkek",
+    "gmtOffset": 21600,
+    "gmtOffsetName": "UTC+06:00",
+    "abbreviation": "KGT",
+    "tzName": "Kyrgyzstan Time",
+    "countryCode": "KG",
+    "countryName": "Kyrgyzstan"
+  },
+  {
+    "zoneName": "Asia/Vientiane",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "ICT",
+    "tzName": "Indochina Time",
+    "countryCode": "LA",
+    "countryName": "Laos"
+  },
+  {
+    "zoneName": "Europe/Riga",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "LV",
+    "countryName": "Latvia"
+  },
+  {
+    "zoneName": "Asia/Beirut",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "LB",
+    "countryName": "Lebanon"
+  },
+  {
+    "zoneName": "Africa/Maseru",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "SAST",
+    "tzName": "South African Standard Time",
+    "countryCode": "LS",
+    "countryName": "Lesotho"
+  },
+  {
+    "zoneName": "Africa/Monrovia",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "LR",
+    "countryName": "Liberia"
+  },
+  {
+    "zoneName": "Africa/Tripoli",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "LY",
+    "countryName": "Libya"
+  },
+  {
+    "zoneName": "Europe/Vaduz",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "LI",
+    "countryName": "Liechtenstein"
+  },
+  {
+    "zoneName": "Europe/Vilnius",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "LT",
+    "countryName": "Lithuania"
+  },
+  {
+    "zoneName": "Europe/Luxembourg",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "LU",
+    "countryName": "Luxembourg"
+  },
+  {
+    "zoneName": "Asia/Macau",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "CST",
+    "tzName": "China Standard Time",
+    "countryCode": "MO",
+    "countryName": "Macau S.A.R."
+  },
+  {
+    "zoneName": "Indian/Antananarivo",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tzName": "East Africa Time",
+    "countryCode": "MG",
+    "countryName": "Madagascar"
+  },
+  {
+    "zoneName": "Africa/Blantyre",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tzName": "Central Africa Time",
+    "countryCode": "MW",
+    "countryName": "Malawi"
+  },
+  {
+    "zoneName": "Asia/Kuala_Lumpur",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "MYT",
+    "tzName": "Malaysia Time",
+    "countryCode": "MY",
+    "countryName": "Malaysia"
+  },
+  {
+    "zoneName": "Asia/Kuching",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "MYT",
+    "tzName": "Malaysia Time",
+    "countryCode": "MY",
+    "countryName": "Malaysia"
+  },
+  {
+    "zoneName": "Indian/Maldives",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "MVT",
+    "tzName": "Maldives Time",
+    "countryCode": "MV",
+    "countryName": "Maldives"
+  },
+  {
+    "zoneName": "Africa/Bamako",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "ML",
+    "countryName": "Mali"
+  },
+  {
+    "zoneName": "Europe/Malta",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "MT",
+    "countryName": "Malta"
+  },
+  {
+    "zoneName": "Europe/Isle_of_Man",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "IM",
+    "countryName": "Man (Isle of)"
+  },
+  {
+    "zoneName": "Pacific/Kwajalein",
+    "gmtOffset": 43200,
+    "gmtOffsetName": "UTC+12:00",
+    "abbreviation": "MHT",
+    "tzName": "Marshall Islands Time",
+    "countryCode": "MH",
+    "countryName": "Marshall Islands"
+  },
+  {
+    "zoneName": "Pacific/Majuro",
+    "gmtOffset": 43200,
+    "gmtOffsetName": "UTC+12:00",
+    "abbreviation": "MHT",
+    "tzName": "Marshall Islands Time",
+    "countryCode": "MH",
+    "countryName": "Marshall Islands"
+  },
+  {
+    "zoneName": "America/Martinique",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "MQ",
+    "countryName": "Martinique"
+  },
+  {
+    "zoneName": "Africa/Nouakchott",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "MR",
+    "countryName": "Mauritania"
+  },
+  {
+    "zoneName": "Indian/Mauritius",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "MUT",
+    "tzName": "Mauritius Time",
+    "countryCode": "MU",
+    "countryName": "Mauritius"
+  },
+  {
+    "zoneName": "Indian/Mayotte",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tzName": "East Africa Time",
+    "countryCode": "YT",
+    "countryName": "Mayotte"
+  },
+  {
+    "zoneName": "America/Bahia_Banderas",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "zoneName": "America/Cancun",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "zoneName": "America/Chihuahua",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "zoneName": "America/Hermosillo",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "zoneName": "America/Matamoros",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "zoneName": "America/Mazatlan",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "zoneName": "America/Merida",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "zoneName": "America/Mexico_City",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "zoneName": "America/Monterrey",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "zoneName": "America/Ojinaga",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "zoneName": "America/Tijuana",
+    "gmtOffset": -28800,
+    "gmtOffsetName": "UTC-08:00",
+    "abbreviation": "PST",
+    "tzName": "Pacific Standard Time (North America)",
+    "countryCode": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "zoneName": "America/Ciudad_Juarez",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "MX",
+    "countryName": "Mexico"
+  },
+  {
+    "zoneName": "Pacific/Chuuk",
+    "gmtOffset": 36000,
+    "gmtOffsetName": "UTC+10:00",
+    "abbreviation": "CHUT",
+    "tzName": "Chuuk Time",
+    "countryCode": "FM",
+    "countryName": "Micronesia"
+  },
+  {
+    "zoneName": "Pacific/Kosrae",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "KOST",
+    "tzName": "Kosrae Time",
+    "countryCode": "FM",
+    "countryName": "Micronesia"
+  },
+  {
+    "zoneName": "Pacific/Pohnpei",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "PONT",
+    "tzName": "Pohnpei Standard Time",
+    "countryCode": "FM",
+    "countryName": "Micronesia"
+  },
+  {
+    "zoneName": "Europe/Chisinau",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "MD",
+    "countryName": "Moldova"
+  },
+  {
+    "zoneName": "Europe/Monaco",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "MC",
+    "countryName": "Monaco"
+  },
+  {
+    "zoneName": "Asia/Choibalsan",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "CHOT",
+    "tzName": "Choibalsan Standard Time",
+    "countryCode": "MN",
+    "countryName": "Mongolia"
+  },
+  {
+    "zoneName": "Asia/Hovd",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "HOVT",
+    "tzName": "Hovd Time",
+    "countryCode": "MN",
+    "countryName": "Mongolia"
+  },
+  {
+    "zoneName": "Asia/Ulaanbaatar",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "ULAT",
+    "tzName": "Ulaanbaatar Standard Time",
+    "countryCode": "MN",
+    "countryName": "Mongolia"
+  },
+  {
+    "zoneName": "Europe/Podgorica",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "ME",
+    "countryName": "Montenegro"
+  },
+  {
+    "zoneName": "America/Montserrat",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "MS",
+    "countryName": "Montserrat"
+  },
+  {
+    "zoneName": "Africa/Casablanca",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WEST",
+    "tzName": "Western European Summer Time",
+    "countryCode": "MA",
+    "countryName": "Morocco"
+  },
+  {
+    "zoneName": "Africa/El_Aaiun",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WEST",
+    "tzName": "Western Sahara Time",
+    "countryCode": "MA",
+    "countryName": "Morocco"
+  },
+  {
+    "zoneName": "Africa/Maputo",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tzName": "Central Africa Time",
+    "countryCode": "MZ",
+    "countryName": "Mozambique"
+  },
+  {
+    "zoneName": "Asia/Yangon",
+    "gmtOffset": 23400,
+    "gmtOffsetName": "UTC+06:30",
+    "abbreviation": "MMT",
+    "tzName": "Myanmar Standard Time",
+    "countryCode": "MM",
+    "countryName": "Myanmar"
+  },
+  {
+    "zoneName": "Africa/Windhoek",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "WAST",
+    "tzName": "West Africa Summer Time",
+    "countryCode": "NA",
+    "countryName": "Namibia"
+  },
+  {
+    "zoneName": "Pacific/Nauru",
+    "gmtOffset": 43200,
+    "gmtOffsetName": "UTC+12:00",
+    "abbreviation": "NRT",
+    "tzName": "Nauru Time",
+    "countryCode": "NR",
+    "countryName": "Nauru"
+  },
+  {
+    "zoneName": "Asia/Kathmandu",
+    "gmtOffset": 20700,
+    "gmtOffsetName": "UTC+05:45",
+    "abbreviation": "NPT",
+    "tzName": "Nepal Time",
+    "countryCode": "NP",
+    "countryName": "Nepal"
+  },
+  {
+    "zoneName": "Europe/Amsterdam",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "NL",
+    "countryName": "Netherlands"
+  },
+  {
+    "zoneName": "Pacific/Noumea",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "NCT",
+    "tzName": "New Caledonia Time",
+    "countryCode": "NC",
+    "countryName": "New Caledonia"
+  },
+  {
+    "zoneName": "Pacific/Auckland",
+    "gmtOffset": 46800,
+    "gmtOffsetName": "UTC+13:00",
+    "abbreviation": "NZDT",
+    "tzName": "New Zealand Daylight Time",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  {
+    "zoneName": "Pacific/Chatham",
+    "gmtOffset": 49500,
+    "gmtOffsetName": "UTC+13:45",
+    "abbreviation": "CHAST",
+    "tzName": "Chatham Standard Time",
+    "countryCode": "NZ",
+    "countryName": "New Zealand"
+  },
+  {
+    "zoneName": "America/Managua",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "NI",
+    "countryName": "Nicaragua"
+  },
+  {
+    "zoneName": "Africa/Niamey",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tzName": "West Africa Time",
+    "countryCode": "NE",
+    "countryName": "Niger"
+  },
+  {
+    "zoneName": "Africa/Lagos",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tzName": "West Africa Time",
+    "countryCode": "NG",
+    "countryName": "Nigeria"
+  },
+  {
+    "zoneName": "Pacific/Niue",
+    "gmtOffset": -39600,
+    "gmtOffsetName": "UTC-11:00",
+    "abbreviation": "NUT",
+    "tzName": "Niue Time",
+    "countryCode": "NU",
+    "countryName": "Niue"
+  },
+  {
+    "zoneName": "Pacific/Norfolk",
+    "gmtOffset": 43200,
+    "gmtOffsetName": "UTC+12:00",
+    "abbreviation": "NFT",
+    "tzName": "Norfolk Time",
+    "countryCode": "NF",
+    "countryName": "Norfolk Island"
+  },
+  {
+    "zoneName": "Asia/Pyongyang",
+    "gmtOffset": 32400,
+    "gmtOffsetName": "UTC+09:00",
+    "abbreviation": "KST",
+    "tzName": "Korea Standard Time",
+    "countryCode": "KP",
+    "countryName": "North Korea"
+  },
+  {
+    "zoneName": "Europe/Skopje",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "MK",
+    "countryName": "North Macedonia"
+  },
+  {
+    "zoneName": "Pacific/Saipan",
+    "gmtOffset": 36000,
+    "gmtOffsetName": "UTC+10:00",
+    "abbreviation": "ChST",
+    "tzName": "Chamorro Standard Time",
+    "countryCode": "MP",
+    "countryName": "Northern Mariana Islands"
+  },
+  {
+    "zoneName": "Europe/Oslo",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "zoneName": "Arctic/Longyearbyen",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "NO",
+    "countryName": "Norway"
+  },
+  {
+    "zoneName": "Asia/Muscat",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "GST",
+    "tzName": "Gulf Standard Time",
+    "countryCode": "OM",
+    "countryName": "Oman"
+  },
+  {
+    "zoneName": "Asia/Karachi",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "PKT",
+    "tzName": "Pakistan Standard Time",
+    "countryCode": "PK",
+    "countryName": "Pakistan"
+  },
+  {
+    "zoneName": "Pacific/Palau",
+    "gmtOffset": 32400,
+    "gmtOffsetName": "UTC+09:00",
+    "abbreviation": "PWT",
+    "tzName": "Palau Time",
+    "countryCode": "PW",
+    "countryName": "Palau"
+  },
+  {
+    "zoneName": "Asia/Gaza",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "PS",
+    "countryName": "Palestinian Territory Occupied"
+  },
+  {
+    "zoneName": "Asia/Hebron",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "PS",
+    "countryName": "Palestinian Territory Occupied"
+  },
+  {
+    "zoneName": "America/Panama",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "PA",
+    "countryName": "Panama"
+  },
+  {
+    "zoneName": "Pacific/Bougainville",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "BST",
+    "tzName": "Bougainville Standard Time[6",
+    "countryCode": "PG",
+    "countryName": "Papua New Guinea"
+  },
+  {
+    "zoneName": "Pacific/Port_Moresby",
+    "gmtOffset": 36000,
+    "gmtOffsetName": "UTC+10:00",
+    "abbreviation": "PGT",
+    "tzName": "Papua New Guinea Time",
+    "countryCode": "PG",
+    "countryName": "Papua New Guinea"
+  },
+  {
+    "zoneName": "America/Asuncion",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "PYST",
+    "tzName": "Paraguay Summer Time",
+    "countryCode": "PY",
+    "countryName": "Paraguay"
+  },
+  {
+    "zoneName": "America/Lima",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "PET",
+    "tzName": "Peru Time",
+    "countryCode": "PE",
+    "countryName": "Peru"
+  },
+  {
+    "zoneName": "Asia/Manila",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "PHT",
+    "tzName": "Philippine Time",
+    "countryCode": "PH",
+    "countryName": "Philippines"
+  },
+  {
+    "zoneName": "Pacific/Pitcairn",
+    "gmtOffset": -28800,
+    "gmtOffsetName": "UTC-08:00",
+    "abbreviation": "PST",
+    "tzName": "Pacific Standard Time (North America)",
+    "countryCode": "PN",
+    "countryName": "Pitcairn Island"
+  },
+  {
+    "zoneName": "Europe/Warsaw",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "PL",
+    "countryName": "Poland"
+  },
+  {
+    "zoneName": "Atlantic/Azores",
+    "gmtOffset": -3600,
+    "gmtOffsetName": "UTC-01:00",
+    "abbreviation": "AZOT",
+    "tzName": "Azores Standard Time",
+    "countryCode": "PT",
+    "countryName": "Portugal"
+  },
+  {
+    "zoneName": "Atlantic/Madeira",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "WET",
+    "tzName": "Western European Time",
+    "countryCode": "PT",
+    "countryName": "Portugal"
+  },
+  {
+    "zoneName": "Europe/Lisbon",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "WET",
+    "tzName": "Western European Time",
+    "countryCode": "PT",
+    "countryName": "Portugal"
+  },
+  {
+    "zoneName": "America/Puerto_Rico",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "PR",
+    "countryName": "Puerto Rico"
+  },
+  {
+    "zoneName": "Asia/Qatar",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "AST",
+    "tzName": "Arabia Standard Time",
+    "countryCode": "QA",
+    "countryName": "Qatar"
+  },
+  {
+    "zoneName": "Indian/Reunion",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "RET",
+    "tzName": "Réunion Time",
+    "countryCode": "RE",
+    "countryName": "Reunion"
+  },
+  {
+    "zoneName": "Europe/Bucharest",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "RO",
+    "countryName": "Romania"
+  },
+  {
+    "zoneName": "Asia/Anadyr",
+    "gmtOffset": 43200,
+    "gmtOffsetName": "UTC+12:00",
+    "abbreviation": "ANAT",
+    "tzName": "Anadyr Time[4",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Barnaul",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "KRAT",
+    "tzName": "Krasnoyarsk Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Chita",
+    "gmtOffset": 32400,
+    "gmtOffsetName": "UTC+09:00",
+    "abbreviation": "YAKT",
+    "tzName": "Yakutsk Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Irkutsk",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "IRKT",
+    "tzName": "Irkutsk Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Kamchatka",
+    "gmtOffset": 43200,
+    "gmtOffsetName": "UTC+12:00",
+    "abbreviation": "PETT",
+    "tzName": "Kamchatka Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Khandyga",
+    "gmtOffset": 32400,
+    "gmtOffsetName": "UTC+09:00",
+    "abbreviation": "YAKT",
+    "tzName": "Yakutsk Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Krasnoyarsk",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "KRAT",
+    "tzName": "Krasnoyarsk Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Magadan",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "MAGT",
+    "tzName": "Magadan Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Novokuznetsk",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "KRAT",
+    "tzName": "Krasnoyarsk Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Novosibirsk",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "NOVT",
+    "tzName": "Novosibirsk Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Omsk",
+    "gmtOffset": 21600,
+    "gmtOffsetName": "UTC+06:00",
+    "abbreviation": "OMST",
+    "tzName": "Omsk Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Sakhalin",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "SAKT",
+    "tzName": "Sakhalin Island Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Srednekolymsk",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "SRET",
+    "tzName": "Srednekolymsk Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Tomsk",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "MSD+3",
+    "tzName": "Moscow Daylight Time+3",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Ust-Nera",
+    "gmtOffset": 36000,
+    "gmtOffsetName": "UTC+10:00",
+    "abbreviation": "VLAT",
+    "tzName": "Vladivostok Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Vladivostok",
+    "gmtOffset": 36000,
+    "gmtOffsetName": "UTC+10:00",
+    "abbreviation": "VLAT",
+    "tzName": "Vladivostok Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Yakutsk",
+    "gmtOffset": 32400,
+    "gmtOffsetName": "UTC+09:00",
+    "abbreviation": "YAKT",
+    "tzName": "Yakutsk Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Asia/Yekaterinburg",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "YEKT",
+    "tzName": "Yekaterinburg Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Europe/Astrakhan",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "SAMT",
+    "tzName": "Samara Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Europe/Kaliningrad",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Europe/Kirov",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "MSK",
+    "tzName": "Moscow Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Europe/Moscow",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "MSK",
+    "tzName": "Moscow Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Europe/Samara",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "SAMT",
+    "tzName": "Samara Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Europe/Saratov",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "MSD",
+    "tzName": "Moscow Daylight Time+4",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Europe/Ulyanovsk",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "SAMT",
+    "tzName": "Samara Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Europe/Volgograd",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "MSK",
+    "tzName": "Moscow Standard Time",
+    "countryCode": "RU",
+    "countryName": "Russia"
+  },
+  {
+    "zoneName": "Africa/Kigali",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tzName": "Central Africa Time",
+    "countryCode": "RW",
+    "countryName": "Rwanda"
+  },
+  {
+    "zoneName": "Atlantic/St_Helena",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "SH",
+    "countryName": "Saint Helena"
+  },
+  {
+    "zoneName": "America/St_Kitts",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "KN",
+    "countryName": "Saint Kitts and Nevis"
+  },
+  {
+    "zoneName": "America/St_Lucia",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "LC",
+    "countryName": "Saint Lucia"
+  },
+  {
+    "zoneName": "America/Miquelon",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "PMDT",
+    "tzName": "Pierre & Miquelon Daylight Time",
+    "countryCode": "PM",
+    "countryName": "Saint Pierre and Miquelon"
+  },
+  {
+    "zoneName": "America/St_Vincent",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "VC",
+    "countryName": "Saint Vincent and the Grenadines"
+  },
+  {
+    "zoneName": "America/St_Barthelemy",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "BL",
+    "countryName": "Saint-Barthelemy"
+  },
+  {
+    "zoneName": "America/Marigot",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "MF",
+    "countryName": "Saint-Martin (French part)"
+  },
+  {
+    "zoneName": "Pacific/Apia",
+    "gmtOffset": 50400,
+    "gmtOffsetName": "UTC+14:00",
+    "abbreviation": "WST",
+    "tzName": "West Samoa Time",
+    "countryCode": "WS",
+    "countryName": "Samoa"
+  },
+  {
+    "zoneName": "Europe/San_Marino",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "SM",
+    "countryName": "San Marino"
+  },
+  {
+    "zoneName": "Africa/Sao_Tome",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "ST",
+    "countryName": "Sao Tome and Principe"
+  },
+  {
+    "zoneName": "Asia/Riyadh",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "AST",
+    "tzName": "Arabia Standard Time",
+    "countryCode": "SA",
+    "countryName": "Saudi Arabia"
+  },
+  {
+    "zoneName": "Africa/Dakar",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "SN",
+    "countryName": "Senegal"
+  },
+  {
+    "zoneName": "Europe/Belgrade",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "RS",
+    "countryName": "Serbia"
+  },
+  {
+    "zoneName": "Indian/Mahe",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "SCT",
+    "tzName": "Seychelles Time",
+    "countryCode": "SC",
+    "countryName": "Seychelles"
+  },
+  {
+    "zoneName": "Africa/Freetown",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "SL",
+    "countryName": "Sierra Leone"
+  },
+  {
+    "zoneName": "Asia/Singapore",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "SGT",
+    "tzName": "Singapore Time",
+    "countryCode": "SG",
+    "countryName": "Singapore"
+  },
+  {
+    "zoneName": "America/Anguilla",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "SX",
+    "countryName": "Sint Maarten (Dutch part)"
+  },
+  {
+    "zoneName": "Europe/Bratislava",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "SK",
+    "countryName": "Slovakia"
+  },
+  {
+    "zoneName": "Europe/Ljubljana",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "SI",
+    "countryName": "Slovenia"
+  },
+  {
+    "zoneName": "Pacific/Guadalcanal",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "SBT",
+    "tzName": "Solomon Islands Time",
+    "countryCode": "SB",
+    "countryName": "Solomon Islands"
+  },
+  {
+    "zoneName": "Africa/Mogadishu",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tzName": "East Africa Time",
+    "countryCode": "SO",
+    "countryName": "Somalia"
+  },
+  {
+    "zoneName": "Africa/Johannesburg",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "SAST",
+    "tzName": "South African Standard Time",
+    "countryCode": "ZA",
+    "countryName": "South Africa"
+  },
+  {
+    "zoneName": "Atlantic/South_Georgia",
+    "gmtOffset": -7200,
+    "gmtOffsetName": "UTC-02:00",
+    "abbreviation": "GST",
+    "tzName": "South Georgia and the South Sandwich Islands Time",
+    "countryCode": "GS",
+    "countryName": "South Georgia"
+  },
+  {
+    "zoneName": "Asia/Seoul",
+    "gmtOffset": 32400,
+    "gmtOffsetName": "UTC+09:00",
+    "abbreviation": "KST",
+    "tzName": "Korea Standard Time",
+    "countryCode": "KR",
+    "countryName": "South Korea"
+  },
+  {
+    "zoneName": "Africa/Juba",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tzName": "East Africa Time",
+    "countryCode": "SS",
+    "countryName": "South Sudan"
+  },
+  {
+    "zoneName": "Africa/Ceuta",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "zoneName": "Atlantic/Canary",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "WET",
+    "tzName": "Western European Time",
+    "countryCode": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "zoneName": "Europe/Madrid",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "ES",
+    "countryName": "Spain"
+  },
+  {
+    "zoneName": "Asia/Colombo",
+    "gmtOffset": 19800,
+    "gmtOffsetName": "UTC+05:30",
+    "abbreviation": "IST",
+    "tzName": "Indian Standard Time",
+    "countryCode": "LK",
+    "countryName": "Sri Lanka"
+  },
+  {
+    "zoneName": "Africa/Khartoum",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EAT",
+    "tzName": "Eastern African Time",
+    "countryCode": "SD",
+    "countryName": "Sudan"
+  },
+  {
+    "zoneName": "America/Paramaribo",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "SRT",
+    "tzName": "Suriname Time",
+    "countryCode": "SR",
+    "countryName": "Suriname"
+  },
+  {
+    "zoneName": "Arctic/Longyearbyen",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "SJ",
+    "countryName": "Svalbard and Jan Mayen Islands"
+  },
+  {
+    "zoneName": "Europe/Stockholm",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "SE",
+    "countryName": "Sweden"
+  },
+  {
+    "zoneName": "Europe/Zurich",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "CH",
+    "countryName": "Switzerland"
+  },
+  {
+    "zoneName": "Asia/Damascus",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "SY",
+    "countryName": "Syria"
+  },
+  {
+    "zoneName": "Asia/Taipei",
+    "gmtOffset": 28800,
+    "gmtOffsetName": "UTC+08:00",
+    "abbreviation": "CST",
+    "tzName": "China Standard Time",
+    "countryCode": "TW",
+    "countryName": "Taiwan"
+  },
+  {
+    "zoneName": "Asia/Dushanbe",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "TJT",
+    "tzName": "Tajikistan Time",
+    "countryCode": "TJ",
+    "countryName": "Tajikistan"
+  },
+  {
+    "zoneName": "Africa/Dar_es_Salaam",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tzName": "East Africa Time",
+    "countryCode": "TZ",
+    "countryName": "Tanzania"
+  },
+  {
+    "zoneName": "Asia/Bangkok",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "ICT",
+    "tzName": "Indochina Time",
+    "countryCode": "TH",
+    "countryName": "Thailand"
+  },
+  {
+    "zoneName": "America/Nassau",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America)",
+    "countryCode": "BS",
+    "countryName": "The Bahamas"
+  },
+  {
+    "zoneName": "Africa/Banjul",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "GM",
+    "countryName": "The Gambia"
+  },
+  {
+    "zoneName": "Asia/Dili",
+    "gmtOffset": 32400,
+    "gmtOffsetName": "UTC+09:00",
+    "abbreviation": "TLT",
+    "tzName": "Timor Leste Time",
+    "countryCode": "TL",
+    "countryName": "Timor-Leste"
+  },
+  {
+    "zoneName": "Africa/Lome",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "TG",
+    "countryName": "Togo"
+  },
+  {
+    "zoneName": "Pacific/Fakaofo",
+    "gmtOffset": 46800,
+    "gmtOffsetName": "UTC+13:00",
+    "abbreviation": "TKT",
+    "tzName": "Tokelau Time",
+    "countryCode": "TK",
+    "countryName": "Tokelau"
+  },
+  {
+    "zoneName": "Pacific/Tongatapu",
+    "gmtOffset": 46800,
+    "gmtOffsetName": "UTC+13:00",
+    "abbreviation": "TOT",
+    "tzName": "Tonga Time",
+    "countryCode": "TO",
+    "countryName": "Tonga"
+  },
+  {
+    "zoneName": "America/Port_of_Spain",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "TT",
+    "countryName": "Trinidad and Tobago"
+  },
+  {
+    "zoneName": "Africa/Tunis",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "TN",
+    "countryName": "Tunisia"
+  },
+  {
+    "zoneName": "Europe/Istanbul",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "TR",
+    "countryName": "Turkey"
+  },
+  {
+    "zoneName": "Asia/Ashgabat",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "TMT",
+    "tzName": "Turkmenistan Time",
+    "countryCode": "TM",
+    "countryName": "Turkmenistan"
+  },
+  {
+    "zoneName": "America/Grand_Turk",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "TC",
+    "countryName": "Turks and Caicos Islands"
+  },
+  {
+    "zoneName": "Pacific/Funafuti",
+    "gmtOffset": 43200,
+    "gmtOffsetName": "UTC+12:00",
+    "abbreviation": "TVT",
+    "tzName": "Tuvalu Time",
+    "countryCode": "TV",
+    "countryName": "Tuvalu"
+  },
+  {
+    "zoneName": "Africa/Kampala",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tzName": "East Africa Time",
+    "countryCode": "UG",
+    "countryName": "Uganda"
+  },
+  {
+    "zoneName": "Europe/Kyiv",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "UA",
+    "countryName": "Ukraine"
+  },
+  {
+    "zoneName": "Europe/Simferopol",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "MSK",
+    "tzName": "Moscow Time",
+    "countryCode": "UA",
+    "countryName": "Ukraine"
+  },
+  {
+    "zoneName": "Europe/Uzhgorod",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "UA",
+    "countryName": "Ukraine"
+  },
+  {
+    "zoneName": "Europe/Zaporozhye",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "EET",
+    "tzName": "Eastern European Time",
+    "countryCode": "UA",
+    "countryName": "Ukraine"
+  },
+  {
+    "zoneName": "Asia/Dubai",
+    "gmtOffset": 14400,
+    "gmtOffsetName": "UTC+04:00",
+    "abbreviation": "GST",
+    "tzName": "Gulf Standard Time",
+    "countryCode": "AE",
+    "countryName": "United Arab Emirates"
+  },
+  {
+    "zoneName": "Europe/London",
+    "gmtOffset": 0,
+    "gmtOffsetName": "UTC±00",
+    "abbreviation": "GMT",
+    "tzName": "Greenwich Mean Time",
+    "countryCode": "GB",
+    "countryName": "United Kingdom"
+  },
+  {
+    "zoneName": "America/Adak",
+    "gmtOffset": -36000,
+    "gmtOffsetName": "UTC-10:00",
+    "abbreviation": "HST",
+    "tzName": "Hawaii–Aleutian Standard Time",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Anchorage",
+    "gmtOffset": -32400,
+    "gmtOffsetName": "UTC-09:00",
+    "abbreviation": "AKST",
+    "tzName": "Alaska Standard Time",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Boise",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Chicago",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Denver",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Detroit",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Indiana/Indianapolis",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Indiana/Knox",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Indiana/Marengo",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Indiana/Petersburg",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Indiana/Tell_City",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Indiana/Vevay",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Indiana/Vincennes",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Indiana/Winamac",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Juneau",
+    "gmtOffset": -32400,
+    "gmtOffsetName": "UTC-09:00",
+    "abbreviation": "AKST",
+    "tzName": "Alaska Standard Time",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Kentucky/Louisville",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Kentucky/Monticello",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Los_Angeles",
+    "gmtOffset": -28800,
+    "gmtOffsetName": "UTC-08:00",
+    "abbreviation": "PST",
+    "tzName": "Pacific Standard Time (North America)",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Menominee",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Metlakatla",
+    "gmtOffset": -32400,
+    "gmtOffsetName": "UTC-09:00",
+    "abbreviation": "AKST",
+    "tzName": "Alaska Standard Time",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/New_York",
+    "gmtOffset": -18000,
+    "gmtOffsetName": "UTC-05:00",
+    "abbreviation": "EST",
+    "tzName": "Eastern Standard Time (North America",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Nome",
+    "gmtOffset": -32400,
+    "gmtOffsetName": "UTC-09:00",
+    "abbreviation": "AKST",
+    "tzName": "Alaska Standard Time",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/North_Dakota/Beulah",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/North_Dakota/Center",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/North_Dakota/New_Salem",
+    "gmtOffset": -21600,
+    "gmtOffsetName": "UTC-06:00",
+    "abbreviation": "CST",
+    "tzName": "Central Standard Time (North America)",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Phoenix",
+    "gmtOffset": -25200,
+    "gmtOffsetName": "UTC-07:00",
+    "abbreviation": "MST",
+    "tzName": "Mountain Standard Time (North America)",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Sitka",
+    "gmtOffset": -32400,
+    "gmtOffsetName": "UTC-09:00",
+    "abbreviation": "AKST",
+    "tzName": "Alaska Standard Time",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "America/Yakutat",
+    "gmtOffset": -32400,
+    "gmtOffsetName": "UTC-09:00",
+    "abbreviation": "AKST",
+    "tzName": "Alaska Standard Time",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "Pacific/Honolulu",
+    "gmtOffset": -36000,
+    "gmtOffsetName": "UTC-10:00",
+    "abbreviation": "HST",
+    "tzName": "Hawaii–Aleutian Standard Time",
+    "countryCode": "US",
+    "countryName": "United States"
+  },
+  {
+    "zoneName": "Pacific/Midway",
+    "gmtOffset": -39600,
+    "gmtOffsetName": "UTC-11:00",
+    "abbreviation": "SST",
+    "tzName": "Samoa Standard Time",
+    "countryCode": "UM",
+    "countryName": "United States Minor Outlying Islands"
+  },
+  {
+    "zoneName": "Pacific/Wake",
+    "gmtOffset": 43200,
+    "gmtOffsetName": "UTC+12:00",
+    "abbreviation": "WAKT",
+    "tzName": "Wake Island Time",
+    "countryCode": "UM",
+    "countryName": "United States Minor Outlying Islands"
+  },
+  {
+    "zoneName": "America/Montevideo",
+    "gmtOffset": -10800,
+    "gmtOffsetName": "UTC-03:00",
+    "abbreviation": "UYT",
+    "tzName": "Uruguay Standard Time",
+    "countryCode": "UY",
+    "countryName": "Uruguay"
+  },
+  {
+    "zoneName": "Asia/Samarkand",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "UZT",
+    "tzName": "Uzbekistan Time",
+    "countryCode": "UZ",
+    "countryName": "Uzbekistan"
+  },
+  {
+    "zoneName": "Asia/Tashkent",
+    "gmtOffset": 18000,
+    "gmtOffsetName": "UTC+05:00",
+    "abbreviation": "UZT",
+    "tzName": "Uzbekistan Time",
+    "countryCode": "UZ",
+    "countryName": "Uzbekistan"
+  },
+  {
+    "zoneName": "Pacific/Efate",
+    "gmtOffset": 39600,
+    "gmtOffsetName": "UTC+11:00",
+    "abbreviation": "VUT",
+    "tzName": "Vanuatu Time",
+    "countryCode": "VU",
+    "countryName": "Vanuatu"
+  },
+  {
+    "zoneName": "Europe/Vatican",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "CET",
+    "tzName": "Central European Time",
+    "countryCode": "VA",
+    "countryName": "Vatican City State (Holy See)"
+  },
+  {
+    "zoneName": "America/Caracas",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "VET",
+    "tzName": "Venezuelan Standard Time",
+    "countryCode": "VE",
+    "countryName": "Venezuela"
+  },
+  {
+    "zoneName": "Asia/Ho_Chi_Minh",
+    "gmtOffset": 25200,
+    "gmtOffsetName": "UTC+07:00",
+    "abbreviation": "ICT",
+    "tzName": "Indochina Time",
+    "countryCode": "VN",
+    "countryName": "Vietnam"
+  },
+  {
+    "zoneName": "America/Tortola",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "VG",
+    "countryName": "Virgin Islands (British)"
+  },
+  {
+    "zoneName": "America/St_Thomas",
+    "gmtOffset": -14400,
+    "gmtOffsetName": "UTC-04:00",
+    "abbreviation": "AST",
+    "tzName": "Atlantic Standard Time",
+    "countryCode": "VI",
+    "countryName": "Virgin Islands (US)"
+  },
+  {
+    "zoneName": "Pacific/Wallis",
+    "gmtOffset": 43200,
+    "gmtOffsetName": "UTC+12:00",
+    "abbreviation": "WFT",
+    "tzName": "Wallis & Futuna Time",
+    "countryCode": "WF",
+    "countryName": "Wallis and Futuna Islands"
+  },
+  {
+    "zoneName": "Africa/El_Aaiun",
+    "gmtOffset": 3600,
+    "gmtOffsetName": "UTC+01:00",
+    "abbreviation": "WEST",
+    "tzName": "Western European Summer Time",
+    "countryCode": "EH",
+    "countryName": "Western Sahara"
+  },
+  {
+    "zoneName": "Asia/Aden",
+    "gmtOffset": 10800,
+    "gmtOffsetName": "UTC+03:00",
+    "abbreviation": "AST",
+    "tzName": "Arabia Standard Time",
+    "countryCode": "YE",
+    "countryName": "Yemen"
+  },
+  {
+    "zoneName": "Africa/Lusaka",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tzName": "Central Africa Time",
+    "countryCode": "ZM",
+    "countryName": "Zambia"
+  },
+  {
+    "zoneName": "Africa/Harare",
+    "gmtOffset": 7200,
+    "gmtOffsetName": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tzName": "Central Africa Time",
+    "countryCode": "ZW",
+    "countryName": "Zimbabwe"
+  }
+]
