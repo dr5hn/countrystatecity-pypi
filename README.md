@@ -1,35 +1,37 @@
 # Country State City PyPI Packages
 
-Official Python packages for accessing comprehensive countries, states, and cities database with type hints and lazy loading.
+Official Python packages for accessing comprehensive countries, states, cities, timezones, currencies, and translations data with type hints and lazy loading.
 
 [![Python Version](https://img.shields.io/pypi/pyversions/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/)
 [![License](https://img.shields.io/badge/License-ODbL--1.0-blue.svg)](LICENSE)
 [![Type Checked](https://img.shields.io/badge/type--checked-mypy-blue)](https://mypy.readthedocs.io/)
+[![CI](https://github.com/dr5hn/countrystatecity-pypi/actions/workflows/python-ci.yml/badge.svg)](https://github.com/dr5hn/countrystatecity-pypi/actions/workflows/python-ci.yml)
 
 ## 📦 Available Packages
 
-> **Note:** All Python distributions are published with an entity suffix (e.g. `countrystatecity-countries`). Currently there is no bare `countrystatecity` package on PyPI, so `pip install countrystatecity` may not work as expected. Pick the suffixed package you need from the list below.
+| Package | PyPI | Description |
+|---|---|---|
+| **[countrystatecity-countries](./python/packages/countries/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/) | Countries, states, and cities with full metadata |
+| **[countrystatecity-timezones](./python/packages/timezones/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-timezones)](https://pypi.org/project/countrystatecity-timezones/) | IANA timezone data and time conversion utilities |
+| **[countrystatecity-currencies](./python/packages/currencies/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-currencies)](https://pypi.org/project/countrystatecity-currencies/) | Currency codes, names, and symbols |
+| **[countrystatecity-translations](./python/packages/translations/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/) | Country name translations in 18+ languages |
 
-### Priority 1 (Released)
-- **[countrystatecity-countries](./python/packages/countries/)** - Countries, states, and cities database with type hints and lazy loading
+> **Note:** There is no bare `countrystatecity` package on PyPI. Always install with the suffix (`-countries`, `-timezones`, `-currencies`, `-translations`).
 
-### Coming Soon
-- **countrystatecity-timezones** - IANA timezone data and utilities
-- **countrystatecity-currencies** - Currency codes, symbols, and formatting
-- **countrystatecity-languages** - Language codes and metadata
-- **countrystatecity-phonecodes** - International dialing codes and validation
+## 🚀 Installation
 
-## 🚀 Quick Start
-
-### Installation
+Install only what you need:
 
 ```bash
 pip install countrystatecity-countries
+pip install countrystatecity-timezones
+pip install countrystatecity-currencies
+pip install countrystatecity-translations
 ```
 
-> ⚠️ Don't run `pip install countrystatecity` — that name is unpublished. Always include the entity suffix (`-countries`, `-timezones`, etc.).
+## 📖 Usage
 
-### Usage
+### Countries
 
 ```python
 from countrystatecity_countries import (
@@ -39,119 +41,151 @@ from countrystatecity_countries import (
     get_cities_of_state,
 )
 
-# Get all countries
+# All countries
 countries = get_countries()
 print(f"Total countries: {len(countries)}")
 
-# Get specific country
+# Specific country
 usa = get_country_by_code("US")
-print(f"{usa.emoji} {usa.name}")
-print(f"Capital: {usa.capital}")
+print(f"{usa.emoji} {usa.name} — {usa.capital}")
 print(f"Currency: {usa.currency_symbol} {usa.currency_name}")
 
-# Get states (lazy loaded)
+# States and cities (lazy loaded)
 states = get_states_of_country("US")
-print(f"Total states: {len(states)}")
-
-# Get cities (lazy loaded)
 cities = get_cities_of_state("US", "CA")
-print(f"Cities in California: {len(cities)}")
+```
+
+### Timezones
+
+```python
+from countrystatecity_timezones import (
+    get_all_timezones,
+    get_timezones_by_country,
+    get_timezone_by_zone_name,
+    get_timezones_by_offset,
+    convert_time,
+)
+
+# Timezones for a country
+timezones = get_timezones_by_country("US")
+
+# Lookup by zone name
+tz = get_timezone_by_zone_name("America/New_York")
+print(f"{tz.zone_name} — {tz.gmt_offset_name}")
+
+# Convert time between zones
+from datetime import datetime
+dt = datetime(2024, 1, 1, 12, 0, 0)
+converted = convert_time(dt, "America/New_York", "Asia/Kolkata")
+```
+
+### Currencies
+
+```python
+from countrystatecity_currencies import (
+    get_all_currencies,
+    get_currency_by_country,
+    get_countries_by_currency,
+    search_currencies,
+)
+
+# Currency for a country
+currency = get_currency_by_country("US")
+print(f"{currency.symbol} {currency.name} ({currency.code})")
+
+# All countries using a currency
+countries = get_countries_by_currency("EUR")
+
+# Search
+results = search_currencies("dollar")
+```
+
+### Translations
+
+```python
+from countrystatecity_translations import (
+    get_all_translations,
+    get_translations_by_country,
+    get_translations_by_language,
+    get_translation,
+    search_translations,
+)
+
+# Country name in a specific language
+translation = get_translation("US", "fr")
+print(translation.name)  # États-Unis
+
+# All translations for a country
+translations = get_translations_by_country("IN")
+
+# All countries translated in Japanese
+japanese = get_translations_by_language("ja")
 ```
 
 ## ✨ Features
 
-- ✅ **Type-safe** with Pydantic models and mypy support
+- ✅ **Type-safe** with Pydantic models and mypy strict mode
 - ✅ **Lazy loading** for minimal memory footprint
 - ✅ **250+ countries** with full metadata
 - ✅ **5,000+ states/provinces**
-- ✅ **151,000+ cities**
+- ✅ **150,000+ cities**
+- ✅ **400+ timezones** with GMT offsets and time conversion
+- ✅ **Currency data** for every country
 - ✅ **Translations** in 18+ languages
-- ✅ **Timezone data** per location
 - ✅ **Zero external dependencies** (except Pydantic)
+- ✅ **Python 3.8–3.12** support
 - ✅ **Full test coverage** with pytest
-
-## 📖 Documentation
-
-For detailed documentation, please refer to:
-
-- [Python Packages Overview](./python/README.md)
-- [countrystatecity-countries Package](./python/packages/countries/README.md)
-- [Specifications](./specs/README.md)
 
 ## 🏗️ Repository Structure
 
 ```
 countrystatecity-pypi/
-├── python/                        # Python packages root
-│   ├── packages/
-│   │   └── countries/             # Priority 1: Core package
-│   ├── shared/                    # Shared utilities
-│   ├── scripts/                   # Build scripts
-│   └── README.md
-│
-├── specs/                         # Specifications
-│   ├── README.md
-│   ├── 1-python-pypi-monorepo-plan.md
-│   ├── 2-python-vs-npm-comparison.md
-│   └── 3-python-quick-start-guide.md
+├── python/
+│   └── packages/
+│       ├── countries/     # countrystatecity-countries
+│       ├── timezones/     # countrystatecity-timezones
+│       ├── currencies/    # countrystatecity-currencies
+│       └── translations/  # countrystatecity-translations
 │
 └── .github/
     └── workflows/
-        └── python-ci.yml          # CI/CD workflow
+        ├── python-ci.yml    # CI — tests, type check, lint
+        ├── publish.yml      # Publish to PyPI
+        ├── release.yml      # Version bump + changelog
+        └── update-data.yml  # Weekly data sync
 ```
 
 ## 🛠️ Development
 
-### Setup
-
 ```bash
-# Clone the repository
 git clone https://github.com/dr5hn/countrystatecity-pypi.git
-cd countrystatecity-pypi/python/packages/countries
 
-# Install dependencies
+# Install a package in dev mode (replace 'countries' with any package)
+cd python/packages/countries
 pip install -e ".[dev]"
-```
 
-### Running Tests
-
-```bash
-# Run all tests
-pytest
-
-# Run with coverage
+# Run tests
 pytest --cov=countrystatecity_countries --cov-report=html
 
-# Type checking
+# Type check
 mypy countrystatecity_countries/ --strict
 
-# Linting
+# Lint and format
 ruff check countrystatecity_countries/ tests/
-
-# Formatting
 black countrystatecity_countries/ tests/
 isort countrystatecity_countries/ tests/
 ```
 
 ## 📊 Technology Stack
 
-| Component | Technology | Purpose |
-|-----------|-----------|---------|
-| **Package Manager** | pip/setuptools | Dependency management |
-| **Type System** | Pydantic | Data validation, immutable models |
-| **Testing** | pytest | Unit and integration tests |
-| **Type Checking** | mypy | Static type checking |
-| **Formatting** | black + isort | Code formatting |
-| **Linting** | ruff | Fast Python linter |
-| **CI/CD** | GitHub Actions | Automated testing |
-
-## 🎯 Design Principles
-
-1. **Type Safety** - Full type hints with Pydantic models
-2. **Performance** - Lazy loading with LRU cache
-3. **Minimal Dependencies** - Only essential dependencies
-4. **Python Best Practices** - PEP 8 compliant, well-tested
-5. **Developer Experience** - Clear APIs, comprehensive docs
+| Component | Technology |
+|---|---|
+| Type System | Pydantic |
+| Testing | pytest |
+| Type Checking | mypy (strict) |
+| Formatting | black + isort |
+| Linting | ruff |
+| CI/CD | GitHub Actions |
 
 ## 📝 License
 
@@ -159,25 +193,21 @@ All packages are licensed under the [Open Database License (ODbL-1.0)](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Run tests (`pytest`)
 4. Commit your changes (`git commit -m 'Add amazing feature'`)
-5. Push to the branch (`git push origin feature/amazing-feature`)
-6. Open a Pull Request
+5. Open a Pull Request
 
 ## 📞 Support
 
-- **Documentation**: [GitHub Repository](https://github.com/dr5hn/countrystatecity-pypi)
 - **Issues**: [GitHub Issues](https://github.com/dr5hn/countrystatecity-pypi/issues)
 - **Website**: [countrystatecity.in](https://countrystatecity.in)
 
 ## 🔗 Related Projects
 
-- [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - The source database (MySQL)
-- [countrystatecity NPM packages](https://github.com/dr5hn/countrystatecity) - JavaScript/TypeScript packages
+- [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) — Source database
+- [countrystatecity NPM](https://github.com/dr5hn/countrystatecity) — JavaScript/TypeScript packages
 
 ---
 
