@@ -6,8 +6,8 @@ Official Python package for accessing comprehensive countries, states, and citie
 [![Python Version](https://img.shields.io/pypi/pyversions/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/)
 [![License](https://img.shields.io/badge/License-ODbL--1.0-blue.svg)](LICENSE)
 [![Type Checked](https://img.shields.io/badge/type--checked-mypy-blue)](https://mypy.readthedocs.io/)
-[![countries Monthly Downloads](https://img.shields.io/pypi/dm/countrystatecity-countries?label=countries%20monthly)](https://pypi.org/project/countrystatecity-countries/)
-[![countries Weekly Downloads](https://img.shields.io/pypi/dw/countrystatecity-countries?label=countries%20weekly)](https://pypi.org/project/countrystatecity-countries/)
+[![countries](https://img.shields.io/pypi/dm/countrystatecity-countries?label=countries)](https://pypi.org/project/countrystatecity-countries/)
+[![countries](https://img.shields.io/pypi/dw/countrystatecity-countries?label=countries)](https://pypi.org/project/countrystatecity-countries/)
 
 ## Features
 
