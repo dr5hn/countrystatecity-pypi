@@ -4,8 +4,8 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/countrystatecity-timezones)](https://pypi.org/project/countrystatecity-timezones/)
 [![License](https://img.shields.io/badge/License-ODbL--1.0-blue.svg)](LICENSE)
 [![Type Checked](https://img.shields.io/badge/type--checked-mypy-blue)](https://mypy.readthedocs.io/)
-[![timezones](https://img.shields.io/pypi/dm/countrystatecity-timezones?label=timezones)](https://pypi.org/project/countrystatecity-timezones/)
-[![timezones](https://img.shields.io/pypi/dw/countrystatecity-timezones?label=timezones)](https://pypi.org/project/countrystatecity-timezones/)
+[![timezones](https://static.pepy.tech/personalized-badge/countrystatecity-timezones?period=month&units=international_system&left_color=grey&right_color=brightgreen&left_text=timezones)](https://pepy.tech/project/countrystatecity-timezones)
+[![timezones](https://static.pepy.tech/personalized-badge/countrystatecity-timezones?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=timezones)](https://pepy.tech/project/countrystatecity-timezones)
 
 Official Python package for timezone data — 400+ IANA timezones with country associations, GMT offsets, and time conversion utilities. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
 
