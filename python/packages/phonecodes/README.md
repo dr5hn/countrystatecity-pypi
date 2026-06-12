@@ -4,8 +4,8 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/countrystatecity-phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/)
 [![License](https://img.shields.io/badge/License-ODbL--1.0-blue.svg)](LICENSE)
 [![Type Checked](https://img.shields.io/badge/type--checked-mypy-blue)](https://mypy.readthedocs.io/)
-[![phonecodes](https://static.pepy.tech/personalized-badge/countrystatecity-phonecodes?period=month&units=international_system&left_color=grey&right_color=brightgreen&left_text=phonecodes/month)](https://pepy.tech/project/countrystatecity-phonecodes)
-[![phonecodes](https://static.pepy.tech/personalized-badge/countrystatecity-phonecodes?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=phonecodes/week)](https://pepy.tech/project/countrystatecity-phonecodes)
+[![phonecodes](https://img.shields.io/pypi/dm/countrystatecity-phonecodes?label=phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/)
+[![phonecodes](https://img.shields.io/pypi/dw/countrystatecity-phonecodes?label=phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/)
 
 Official Python package for international phone/dialing codes — 250+ entries with country associations. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
 
