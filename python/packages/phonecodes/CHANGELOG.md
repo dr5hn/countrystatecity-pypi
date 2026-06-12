@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.3] - 2026-06-12
+
+### Changed
+- Sync version with all other countrystatecity packages (countries, timezones, currencies, translations)
+
 ## [1.0.0] - 2026-06-12
 
 ### Added
