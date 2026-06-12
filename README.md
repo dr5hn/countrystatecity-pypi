@@ -7,11 +7,11 @@ Official Python packages for accessing comprehensive countries, states, cities, 
 [![Type Checked](https://img.shields.io/badge/type--checked-mypy-blue)](https://mypy.readthedocs.io/)
 [![CI](https://github.com/dr5hn/countrystatecity-pypi/actions/workflows/python-ci.yml/badge.svg)](https://github.com/dr5hn/countrystatecity-pypi/actions/workflows/python-ci.yml)
 
-[![countrystatecity-countries](https://static.pepy.tech/personalized-badge/countrystatecity-countries?period=total&units=international_system&left_color=grey&right_color=blue&left_text=countrystatecity-countries)](https://pepy.tech/project/countrystatecity-countries)
-[![countrystatecity-timezones](https://static.pepy.tech/personalized-badge/countrystatecity-timezones?period=total&units=international_system&left_color=grey&right_color=blue&left_text=countrystatecity-timezones)](https://pepy.tech/project/countrystatecity-timezones)
-[![countrystatecity-currencies](https://static.pepy.tech/personalized-badge/countrystatecity-currencies?period=total&units=international_system&left_color=grey&right_color=blue&left_text=countrystatecity-currencies)](https://pepy.tech/project/countrystatecity-currencies)
-[![countrystatecity-translations](https://static.pepy.tech/personalized-badge/countrystatecity-translations?period=total&units=international_system&left_color=grey&right_color=blue&left_text=countrystatecity-translations)](https://pepy.tech/project/countrystatecity-translations)
-[![countrystatecity-phonecodes](https://static.pepy.tech/personalized-badge/countrystatecity-phonecodes?period=total&units=international_system&left_color=grey&right_color=blue&left_text=countrystatecity-phonecodes)](https://pepy.tech/project/countrystatecity-phonecodes)
+[![countries](https://static.pepy.tech/personalized-badge/countrystatecity-countries?period=total&units=international_system&left_color=grey&right_color=blue&left_text=countries)](https://pepy.tech/project/countrystatecity-countries)
+[![timezones](https://static.pepy.tech/personalized-badge/countrystatecity-timezones?period=total&units=international_system&left_color=grey&right_color=blue&left_text=timezones)](https://pepy.tech/project/countrystatecity-timezones)
+[![currencies](https://static.pepy.tech/personalized-badge/countrystatecity-currencies?period=total&units=international_system&left_color=grey&right_color=blue&left_text=currencies)](https://pepy.tech/project/countrystatecity-currencies)
+[![translations](https://static.pepy.tech/personalized-badge/countrystatecity-translations?period=total&units=international_system&left_color=grey&right_color=blue&left_text=translations)](https://pepy.tech/project/countrystatecity-translations)
+[![phonecodes](https://static.pepy.tech/personalized-badge/countrystatecity-phonecodes?period=total&units=international_system&left_color=grey&right_color=blue&left_text=phonecodes)](https://pepy.tech/project/countrystatecity-phonecodes)
 
 ## 📦 Available Packages
 
