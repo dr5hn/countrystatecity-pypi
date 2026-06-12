@@ -5,6 +5,38 @@ from functools import lru_cache
 from pathlib import Path
 from typing import Any, Dict, List, cast
 
+# Windows reserves these device names; map them to a prefixed equivalent on disk.
+_WINDOWS_RESERVED = {
+    "CON",
+    "PRN",
+    "AUX",
+    "NUL",
+    "COM1",
+    "COM2",
+    "COM3",
+    "COM4",
+    "COM5",
+    "COM6",
+    "COM7",
+    "COM8",
+    "COM9",
+    "LPT1",
+    "LPT2",
+    "LPT3",
+    "LPT4",
+    "LPT5",
+    "LPT6",
+    "LPT7",
+    "LPT8",
+    "LPT9",
+}
+
+
+def _safe_dirname(name: str) -> str:
+    if name.upper() in _WINDOWS_RESERVED:
+        return f"_{name}"
+    return name
+
 
 class DataLoader:
     """Lazy data loader with caching."""
@@ -56,7 +88,7 @@ class DataLoader:
             / "by-country"
             / country_code
             / "states"
-            / state_code
+            / _safe_dirname(state_code)
             / "cities.json"
         )
         if not file_path.exists():

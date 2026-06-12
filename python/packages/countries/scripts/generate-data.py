@@ -20,6 +20,21 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Any
 
+# Windows reserves these device names as file/directory names; pip fails on Windows
+# when a package ships a directory with one of these names.
+WINDOWS_RESERVED = {
+    "CON", "PRN", "AUX", "NUL",
+    "COM1", "COM2", "COM3", "COM4", "COM5", "COM6", "COM7", "COM8", "COM9",
+    "LPT1", "LPT2", "LPT3", "LPT4", "LPT5", "LPT6", "LPT7", "LPT8", "LPT9",
+}
+
+
+def safe_dirname(name: str) -> str:
+    """Return a filesystem-safe directory name, prefixing Windows reserved names with '_'."""
+    if name.upper() in WINDOWS_RESERVED:
+        return f"_{name}"
+    return name
+
 
 def load_combined_data(filepath: str) -> List[Dict[str, Any]]:
     """Load the combined countries+states+cities JSON file."""
@@ -137,8 +152,8 @@ def save_states_and_cities(data: List[Dict[str, Any]], output_dir: Path) -> None
             if not state_code or not cities or not state_id:
                 continue
 
-            # Create state directory
-            state_dir = states_dir / state_code
+            # Create state directory (remap Windows-reserved names, e.g. CON → _CON)
+            state_dir = states_dir / safe_dirname(state_code)
             state_dir.mkdir(exist_ok=True)
 
             # Transform city data to match our model
