@@ -18,6 +18,16 @@ on:
           - currencies
           - translations
           - all
+  workflow_call:
+    inputs:
+      package:
+        description: 'Package to publish (e.g., countries, or all)'
+        required: false
+        type: string
+        default: 'all'
+    secrets:
+      PYPI_TOKEN:
+        required: true
 
 jobs:
   prepare:
@@ -33,7 +43,7 @@ jobs:
       - name: Resolve package list
         id: resolve
         run: |
-          INPUT="${{ github.event.inputs.package }}"
+          INPUT="${{ inputs.package }}"
           if [ "$INPUT" = "all" ]; then
             echo 'packages=["countries","timezones","currencies","translations"]' >> $GITHUB_OUTPUT
           elif [ -n "$INPUT" ]; then

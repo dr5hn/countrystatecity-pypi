@@ -98,3 +98,15 @@ jobs:
             python/packages/translations/pyproject.toml python/packages/translations/countrystatecity_translations/__init__.py python/packages/translations/CHANGELOG.md
           git commit -m "chore: release ${NEW_VERSION} for all packages"
           git push
+
+  publish:
+    name: Publish all packages to PyPI
+    needs: release
+    uses: ./.github/workflows/publish.yml
+    with:
+      package: all
+    secrets:
+      PYPI_TOKEN: ${{ secrets.PYPI_TOKEN }}
+    permissions:
+      contents: write
+      id-token: write
