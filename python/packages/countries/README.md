@@ -6,8 +6,8 @@ Official Python package for accessing comprehensive countries, states, and citie
 [![Python Version](https://img.shields.io/pypi/pyversions/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/)
 [![License](https://img.shields.io/badge/License-ODbL--1.0-blue.svg)](LICENSE)
 [![Type Checked](https://img.shields.io/badge/type--checked-mypy-blue)](https://mypy.readthedocs.io/)
-[![countries](https://static.pepy.tech/personalized-badge/countrystatecity-countries?period=month&units=international_system&left_color=grey&right_color=brightgreen&left_text=countries)](https://pepy.tech/project/countrystatecity-countries)
-[![countries](https://static.pepy.tech/personalized-badge/countrystatecity-countries?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=countries)](https://pepy.tech/project/countrystatecity-countries)
+[![countries](https://static.pepy.tech/personalized-badge/countrystatecity-countries?period=month&units=international_system&left_color=grey&right_color=brightgreen&left_text=countries/month)](https://pepy.tech/project/countrystatecity-countries)
+[![countries](https://static.pepy.tech/personalized-badge/countrystatecity-countries?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=countries/week)](https://pepy.tech/project/countrystatecity-countries)
 
 ## Features
 

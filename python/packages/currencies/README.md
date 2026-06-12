@@ -4,8 +4,8 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/countrystatecity-currencies)](https://pypi.org/project/countrystatecity-currencies/)
 [![License](https://img.shields.io/badge/License-ODbL--1.0-blue.svg)](LICENSE)
 [![Type Checked](https://img.shields.io/badge/type--checked-mypy-blue)](https://mypy.readthedocs.io/)
-[![currencies](https://static.pepy.tech/personalized-badge/countrystatecity-currencies?period=month&units=international_system&left_color=grey&right_color=brightgreen&left_text=currencies)](https://pepy.tech/project/countrystatecity-currencies)
-[![currencies](https://static.pepy.tech/personalized-badge/countrystatecity-currencies?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=currencies)](https://pepy.tech/project/countrystatecity-currencies)
+[![currencies](https://static.pepy.tech/personalized-badge/countrystatecity-currencies?period=month&units=international_system&left_color=grey&right_color=brightgreen&left_text=currencies/month)](https://pepy.tech/project/countrystatecity-currencies)
+[![currencies](https://static.pepy.tech/personalized-badge/countrystatecity-currencies?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=currencies/week)](https://pepy.tech/project/countrystatecity-currencies)
 
 Official Python package for currency data — 250+ entries covering currency codes, symbols, and country associations. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
 
