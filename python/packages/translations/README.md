@@ -4,8 +4,8 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/)
 [![License](https://img.shields.io/badge/License-ODbL--1.0-blue.svg)](LICENSE)
 [![Type Checked](https://img.shields.io/badge/type--checked-mypy-blue)](https://mypy.readthedocs.io/)
-[![countrystatecity-translations Monthly Downloads](https://img.shields.io/pypi/dm/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/)
-[![countrystatecity-translations Weekly Downloads](https://img.shields.io/pypi/dw/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/)
+[![translations Monthly Downloads](https://static.pepy.tech/personalized-badge/countrystatecity-translations?period=month&units=international_system&left_color=grey&right_color=brightgreen&left_text=translations%20monthly)](https://pepy.tech/project/countrystatecity-translations)
+[![translations Weekly Downloads](https://static.pepy.tech/personalized-badge/countrystatecity-translations?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=translations%20weekly)](https://pepy.tech/project/countrystatecity-translations)
 
 Official Python package for country name translations — 4700+ entries covering 195 countries across 19 languages. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
 
