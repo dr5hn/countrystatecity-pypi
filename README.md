@@ -15,6 +15,7 @@ Official Python packages for accessing comprehensive countries, states, cities, 
 | **[countrystatecity-timezones](./python/packages/timezones/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-timezones)](https://pypi.org/project/countrystatecity-timezones/) | IANA timezone data and time conversion utilities |
 | **[countrystatecity-currencies](./python/packages/currencies/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-currencies)](https://pypi.org/project/countrystatecity-currencies/) | Currency codes, names, and symbols |
 | **[countrystatecity-translations](./python/packages/translations/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/) | Country name translations in 18+ languages |
+| **[countrystatecity-phonecodes](./python/packages/phonecodes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250+ countries |
 
 > **Note:** There is no bare `countrystatecity` package on PyPI. Always install with the suffix (`-countries`, `-timezones`, `-currencies`, `-translations`).
 
@@ -27,6 +28,7 @@ pip install countrystatecity-countries
 pip install countrystatecity-timezones
 pip install countrystatecity-currencies
 pip install countrystatecity-translations
+pip install countrystatecity-phonecodes
 ```
 
 ## 📖 Usage
@@ -100,6 +102,31 @@ countries = get_countries_by_currency("EUR")
 results = search_currencies("dollar")
 ```
 
+### Phone Codes
+
+```python
+from countrystatecity_phonecodes import (
+    get_all_phonecodes,
+    get_phonecode_by_country,
+    get_countries_by_phonecode,
+    search_phonecodes,
+)
+
+# Phone code for a country
+us = get_phonecode_by_country("US")
+print(f"+{us.phoneCode} — {us.countryName}")  # +1 — United States
+
+# All countries sharing a dialing code
+plus1 = get_countries_by_phonecode("1")
+print(f"{len(plus1)} countries use +1")
+
+# Works with or without + prefix
+plus44 = get_countries_by_phonecode("+44")
+
+# Search
+results = search_phonecodes("united")
+```
+
 ### Translations
 
 ```python
@@ -132,6 +159,7 @@ japanese = get_translations_by_language("ja")
 - ✅ **400+ timezones** with GMT offsets and time conversion
 - ✅ **Currency data** for every country
 - ✅ **Translations** in 18+ languages
+- ✅ **Phone/dialing codes** for 250+ countries
 - ✅ **Zero external dependencies** (except Pydantic)
 - ✅ **Python 3.8–3.12** support
 - ✅ **Full test coverage** with pytest
@@ -145,7 +173,8 @@ countrystatecity-pypi/
 │       ├── countries/     # countrystatecity-countries
 │       ├── timezones/     # countrystatecity-timezones
 │       ├── currencies/    # countrystatecity-currencies
-│       └── translations/  # countrystatecity-translations
+│       ├── translations/  # countrystatecity-translations
+│       └── phonecodes/    # countrystatecity-phonecodes
 │
 └── .github/
     └── workflows/

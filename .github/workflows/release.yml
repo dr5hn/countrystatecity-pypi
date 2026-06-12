@@ -26,7 +26,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          for pkg in countries timezones currencies translations; do
+          for pkg in countries timezones currencies translations phonecodes; do
             pip install -e "python/packages/$pkg/.[dev]" -q
           done
 
@@ -44,7 +44,7 @@ jobs:
           new_version = f'{major}.{minor}.{patch + 1}'
 
           # Apply same version to all packages
-          for pkg in ['countries', 'timezones', 'currencies', 'translations']:
+          for pkg in ['countries', 'timezones', 'currencies', 'translations', 'phonecodes']:
               pyproject = pathlib.Path(f'python/packages/{pkg}/pyproject.toml')
               content = pyproject.read_text()
               content = re.sub(r'version = \"\d+\.\d+\.\d+\"', f'version = \"{new_version}\"', content)
@@ -67,7 +67,7 @@ jobs:
           PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
           DATE=$(date +%Y-%m-%d)
-          for pkg in countries timezones currencies translations; do
+          for pkg in countries timezones currencies translations phonecodes; do
             CHANGELOG="python/packages/$pkg/CHANGELOG.md"
             ENTRY="## [${NEW_VERSION#v}] - $DATE\n\n### Changed\n- Updated data from upstream database (PR #$PR_NUMBER)\n"
             if [ -f "$CHANGELOG" ]; then
@@ -81,7 +81,7 @@ jobs:
 
       - name: Run tests
         run: |
-          for pkg in countries timezones currencies translations; do
+          for pkg in countries timezones currencies translations phonecodes; do
             pytest python/packages/$pkg/tests/
           done
 
@@ -95,7 +95,8 @@ jobs:
             python/packages/countries/pyproject.toml python/packages/countries/countrystatecity_countries/__init__.py python/packages/countries/CHANGELOG.md \
             python/packages/timezones/pyproject.toml python/packages/timezones/countrystatecity_timezones/__init__.py python/packages/timezones/CHANGELOG.md \
             python/packages/currencies/pyproject.toml python/packages/currencies/countrystatecity_currencies/__init__.py python/packages/currencies/CHANGELOG.md \
-            python/packages/translations/pyproject.toml python/packages/translations/countrystatecity_translations/__init__.py python/packages/translations/CHANGELOG.md
+            python/packages/translations/pyproject.toml python/packages/translations/countrystatecity_translations/__init__.py python/packages/translations/CHANGELOG.md \
+            python/packages/phonecodes/pyproject.toml python/packages/phonecodes/countrystatecity_phonecodes/__init__.py python/packages/phonecodes/CHANGELOG.md
           git commit -m "chore: release ${NEW_VERSION} for all packages"
           git push
 

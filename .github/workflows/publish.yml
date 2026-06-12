@@ -17,6 +17,7 @@ on:
           - timezones
           - currencies
           - translations
+          - phonecodes
           - all
   workflow_call:
     inputs:
@@ -45,20 +46,20 @@ jobs:
         run: |
           INPUT="${{ inputs.package }}"
           if [ "$INPUT" = "all" ]; then
-            echo 'packages=["countries","timezones","currencies","translations"]' >> $GITHUB_OUTPUT
+            echo 'packages=["countries","timezones","currencies","translations","phonecodes"]' >> $GITHUB_OUTPUT
           elif [ -n "$INPUT" ]; then
             echo "packages=[\"$INPUT\"]" >> $GITHUB_OUTPUT
           else
             # Push trigger: only publish packages whose files actually changed
             PKGS=""
-            for pkg in countries timezones currencies translations; do
+            for pkg in countries timezones currencies translations phonecodes; do
               if git diff --name-only HEAD~1 HEAD -- "python/packages/$pkg/" | grep -q .; then
                 PKGS="${PKGS}\"${pkg}\","
               fi
             done
             PKGS="[${PKGS%,}]"
             if [ "$PKGS" = "[]" ]; then
-              PKGS='["countries","timezones","currencies","translations"]'
+              PKGS='["countries","timezones","currencies","translations","phonecodes"]'
             fi
             echo "packages=$PKGS" >> $GITHUB_OUTPUT
           fi

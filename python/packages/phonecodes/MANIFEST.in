@@ -1,0 +1,16 @@
+include README.md
+include LICENSE
+include CHANGELOG.md
+
+include countrystatecity_phonecodes/py.typed
+
+recursive-include countrystatecity_phonecodes/data *.json
+
+recursive-exclude tests *
+exclude tests
+
+exclude .gitignore
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+recursive-exclude * .pytest_cache
+recursive-exclude * .mypy_cache
