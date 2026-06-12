@@ -236,7 +236,7 @@ All packages are licensed under the [Open Database License (ODbL-1.0)](LICENSE).
 ## 🔗 Related Projects
 
 - [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) — Source database
-- [countrystatecity NPM](https://github.com/dr5hn/countrystatecity) — JavaScript/TypeScript packages
+- [countrystatecity NPM](https://github.com/dr5hn/countrystatecity-npm) — JavaScript/TypeScript packages
 
 ---
 
