@@ -133,8 +133,8 @@ def convert_time(dt: datetime, from_tz: str, to_tz: str) -> datetime:
         >>> result.hour
         22
     """
-    source_tz = ZoneInfo(from_tz)
-    target_tz = ZoneInfo(to_tz)
+    source_tz = ZoneInfo(from_tz)  # type: ignore[abstract, unused-ignore]
+    target_tz = ZoneInfo(to_tz)  # type: ignore[abstract, unused-ignore]
 
     if dt.tzinfo is None:
         # fold=0: for ambiguous wall-clock times (DST fall-back) picks first occurrence
