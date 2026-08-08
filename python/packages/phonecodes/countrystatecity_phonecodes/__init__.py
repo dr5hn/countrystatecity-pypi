@@ -12,7 +12,7 @@ Example:
     >>> plus1_countries = get_countries_by_phonecode("1")
 """
 
-__version__ = "1.0.3"
+__version__ = "1.0.4"
 
 from .api import (
     get_all_phonecodes,

@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.4] - 2026-08-08
+
+### Changed
+- Updated data from upstream database (PR #13)
+
 ## [1.0.3] - 2026-06-12
 
 ### Changed

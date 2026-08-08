@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-timezones"
-version = "1.0.3"
+version = "1.0.4"
 description = "Type-safe Python package for timezone data with 400+ timezones, country associations, GMT offsets, and time conversion utilities."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [
