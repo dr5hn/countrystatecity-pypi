@@ -12,6 +12,8 @@ Official Python packages for accessing comprehensive countries, states, cities, 
 [![currencies](https://static.pepy.tech/personalized-badge/countrystatecity-currencies?period=total&units=international_system&left_color=grey&right_color=blue&left_text=currencies)](https://pepy.tech/project/countrystatecity-currencies)
 [![translations](https://static.pepy.tech/personalized-badge/countrystatecity-translations?period=total&units=international_system&left_color=grey&right_color=blue&left_text=translations)](https://pepy.tech/project/countrystatecity-translations)
 [![phonecodes](https://static.pepy.tech/personalized-badge/countrystatecity-phonecodes?period=total&units=international_system&left_color=grey&right_color=blue&left_text=phonecodes)](https://pepy.tech/project/countrystatecity-phonecodes)
+[![regions](https://static.pepy.tech/personalized-badge/countrystatecity-regions?period=total&units=international_system&left_color=grey&right_color=blue&left_text=regions)](https://pepy.tech/project/countrystatecity-regions)
+[![postal-codes](https://static.pepy.tech/personalized-badge/countrystatecity-postal-codes?period=total&units=international_system&left_color=grey&right_color=blue&left_text=postal-codes)](https://pepy.tech/project/countrystatecity-postal-codes)
 
 ## 📦 Available Packages
 
@@ -22,8 +24,10 @@ Official Python packages for accessing comprehensive countries, states, cities, 
 | **[countrystatecity-currencies](./python/packages/currencies/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-currencies)](https://pypi.org/project/countrystatecity-currencies/) | Currency codes, names, and symbols |
 | **[countrystatecity-translations](./python/packages/translations/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/) | Country name translations in 18+ languages |
 | **[countrystatecity-phonecodes](./python/packages/phonecodes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250+ countries |
+| **[countrystatecity-regions](./python/packages/regions/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-regions)](https://pypi.org/project/countrystatecity-regions/) | Continents and geographic subregions for 250+ countries |
+| **[countrystatecity-postal-codes](./python/packages/postal_codes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-postal-codes)](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP codes and format validation for 125+ countries |
 
-> **Note:** There is no bare `countrystatecity` package on PyPI. Always install with the suffix (`-countries`, `-timezones`, `-currencies`, `-translations`, `-phonecodes`).
+> **Note:** There is no bare `countrystatecity` package on PyPI. Always install with the suffix (`-countries`, `-timezones`, `-currencies`, `-translations`, `-phonecodes`, `-regions`, `-postal-codes`).
 
 ## 🚀 Installation
 
@@ -35,6 +39,8 @@ pip install countrystatecity-timezones
 pip install countrystatecity-currencies
 pip install countrystatecity-translations
 pip install countrystatecity-phonecodes
+pip install countrystatecity-regions
+pip install countrystatecity-postal-codes
 ```
 
 ## 📖 Usage
@@ -155,6 +161,54 @@ translations = get_translations_by_country("IN")
 japanese = get_translations_by_language("ja")
 ```
 
+### Regions
+
+```python
+from countrystatecity_regions import (
+    get_region_by_country,
+    get_countries_by_region,
+    get_countries_by_subregion,
+    get_all_region_names,
+    search_regions,
+)
+
+# Region/subregion for a country
+region = get_region_by_country("US")
+print(f"{region.region} — {region.subregion}")  # Americas — Northern America
+
+# All countries in a region
+asian_countries = get_countries_by_region("Asia")
+
+# All countries in a subregion
+south_asia = get_countries_by_subregion("Southern Asia")
+
+# List distinct regions
+print(get_all_region_names())  # ['Africa', 'Americas', 'Asia', 'Europe', 'Oceania', 'Polar']
+
+# Search
+results = search_regions("southern asia")
+```
+
+### Postal Codes
+
+```python
+from countrystatecity_postal_codes import (
+    get_postal_info_by_country,
+    get_postcodes_of_country,
+    validate_postcode,
+)
+
+# Postal code format/regex for a country
+us_info = get_postal_info_by_country("US")
+print(us_info.postalCodeFormat)  # #####-####
+
+# Validate a postcode against the country's known format
+validate_postcode("US", "10001")  # True
+
+# All postcodes for a country (lazy loaded)
+postcodes = get_postcodes_of_country("AD")
+```
+
 ## ✨ Features
 
 - ✅ **Type-safe** with Pydantic models and mypy strict mode
@@ -166,6 +220,8 @@ japanese = get_translations_by_language("ja")
 - ✅ **Currency data** for every country
 - ✅ **Translations** in 18+ languages
 - ✅ **Phone/dialing codes** for 250+ countries
+- ✅ **Regions and subregions** for 250+ countries
+- ✅ **844,000+ postal/ZIP codes** across 125 countries, with format validation for 250+
 - ✅ **Zero external dependencies** (except Pydantic)
 - ✅ **Python 3.8–3.12** support
 - ✅ **Full test coverage** with pytest
@@ -180,7 +236,9 @@ countrystatecity-pypi/
 │       ├── timezones/     # countrystatecity-timezones
 │       ├── currencies/    # countrystatecity-currencies
 │       ├── translations/  # countrystatecity-translations
-│       └── phonecodes/    # countrystatecity-phonecodes
+│       ├── phonecodes/    # countrystatecity-phonecodes
+│       ├── regions/       # countrystatecity-regions
+│       └── postal_codes/  # countrystatecity-postal-codes
 │
 └── .github/
     └── workflows/

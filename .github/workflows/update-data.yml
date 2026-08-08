@@ -63,6 +63,7 @@ jobs:
           python python/packages/currencies/scripts/generate-data.py
           python python/packages/translations/scripts/generate-data.py
           python python/packages/phonecodes/scripts/generate-data.py
+          python python/packages/regions/scripts/generate-data.py
 
       - name: Collect new data statistics
         id: data-stats
@@ -72,16 +73,18 @@ jobs:
           CURRENCIES=$(cat python/packages/currencies/countrystatecity_currencies/data/currencies.json | grep -o '"code"' | wc -l)
           TRANSLATIONS=$(cat python/packages/translations/countrystatecity_translations/data/translations.json | grep -o '"lang"' | wc -l)
           PHONECODES=$(cat python/packages/phonecodes/countrystatecity_phonecodes/data/phonecodes.json | grep -o '"phoneCode"' | wc -l)
+          REGIONS=$(cat python/packages/regions/countrystatecity_regions/data/regions.json | grep -o '"countryCode"' | wc -l)
           echo "countries=$COUNTRIES" >> $GITHUB_OUTPUT
           echo "timezones=$TIMEZONES" >> $GITHUB_OUTPUT
           echo "currencies=$CURRENCIES" >> $GITHUB_OUTPUT
           echo "translations=$TRANSLATIONS" >> $GITHUB_OUTPUT
           echo "phonecodes=$PHONECODES" >> $GITHUB_OUTPUT
-          echo "Countries: $COUNTRIES | Timezones: $TIMEZONES | Currencies: $CURRENCIES | Translations: $TRANSLATIONS | Phonecodes: $PHONECODES"
+          echo "regions=$REGIONS" >> $GITHUB_OUTPUT
+          echo "Countries: $COUNTRIES | Timezones: $TIMEZONES | Currencies: $CURRENCIES | Translations: $TRANSLATIONS | Phonecodes: $PHONECODES | Regions: $REGIONS"
 
       - name: Run tests with new data
         run: |
-          for pkg in countries timezones currencies translations phonecodes; do
+          for pkg in countries timezones currencies translations phonecodes regions; do
             echo "=== Testing $pkg ==="
             pip install -e "python/packages/$pkg/.[dev]" -q
             pytest python/packages/$pkg/tests/ --cov=countrystatecity_$pkg --cov-report=term
@@ -89,7 +92,7 @@ jobs:
 
       - name: Type check
         run: |
-          for pkg in countries timezones currencies translations phonecodes; do
+          for pkg in countries timezones currencies translations phonecodes regions; do
             echo "=== Type checking $pkg ==="
             mypy python/packages/$pkg/countrystatecity_$pkg/ --strict
           done
@@ -108,6 +111,7 @@ jobs:
             python/packages/currencies/countrystatecity_currencies/data \
             python/packages/translations/countrystatecity_translations/data \
             python/packages/phonecodes/countrystatecity_phonecodes/data \
+            python/packages/regions/countrystatecity_regions/data \
             | grep -q .; then
             echo "changed=true" >> $GITHUB_OUTPUT
             echo "Data changes detected"
@@ -136,6 +140,7 @@ jobs:
             | countrystatecity-currencies | ${{ steps.data-stats.outputs.currencies }} currencies |
             | countrystatecity-translations | ${{ steps.data-stats.outputs.translations }} translations |
             | countrystatecity-phonecodes | ${{ steps.data-stats.outputs.phonecodes }} phone codes |
+            | countrystatecity-regions | ${{ steps.data-stats.outputs.regions }} region entries |
 
             ### Changes
             - Downloaded latest dataset from source repository
