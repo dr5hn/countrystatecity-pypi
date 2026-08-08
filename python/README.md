@@ -11,6 +11,8 @@ This directory contains official Python packages for the [countries-states-citie
 | **[countrystatecity-currencies](./packages/currencies/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-currencies)](https://pypi.org/project/countrystatecity-currencies/) | Currency codes, names, and symbols |
 | **[countrystatecity-translations](./packages/translations/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/) | Country name translations in 18+ languages |
 | **[countrystatecity-phonecodes](./packages/phonecodes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes |
+| **[countrystatecity-regions](./packages/regions/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-regions)](https://pypi.org/project/countrystatecity-regions/) | Continents and geographic subregions |
+| **[countrystatecity-postal-codes](./packages/postal_codes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-postal-codes)](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP codes and format validation |
 
 ## 🚀 Installation
 
@@ -22,6 +24,8 @@ pip install countrystatecity-timezones
 pip install countrystatecity-currencies
 pip install countrystatecity-translations
 pip install countrystatecity-phonecodes
+pip install countrystatecity-regions
+pip install countrystatecity-postal-codes
 ```
 
 ## 🏗️ Structure
@@ -33,7 +37,9 @@ python/
     ├── timezones/      # countrystatecity-timezones
     ├── currencies/     # countrystatecity-currencies
     ├── translations/   # countrystatecity-translations
-    └── phonecodes/     # countrystatecity-phonecodes
+    ├── phonecodes/     # countrystatecity-phonecodes
+    ├── regions/        # countrystatecity-regions
+    └── postal_codes/   # countrystatecity-postal-codes
 ```
 
 ## 🛠️ Development

@@ -80,6 +80,8 @@ ODbL-1.0 — see [LICENSE](LICENSE).
 | [countrystatecity-timezones](https://pypi.org/project/countrystatecity-timezones/) | 400+ IANA timezones with country associations and time conversion |
 | [countrystatecity-currencies](https://pypi.org/project/countrystatecity-currencies/) | Currency codes, names, and symbols for every country |
 | [countrystatecity-translations](https://pypi.org/project/countrystatecity-translations/) | Country name translations in 18+ languages |
+| [countrystatecity-regions](https://pypi.org/project/countrystatecity-regions/) | Continents and geographic subregions for 250+ countries |
+| [countrystatecity-postal-codes](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP codes and format validation for 125+ countries |
 
 Data sourced from [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database).
 
