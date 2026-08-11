@@ -1,6 +1,6 @@
 # Country State City PyPI Packages
 
-Official Python packages for accessing comprehensive countries, states, cities, timezones, currencies, and translations data with type hints and lazy loading.
+Official, versioned Python packages for offline access to Country State City data with type hints and lazy loading.
 
 [![Python Version](https://img.shields.io/pypi/pyversions/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/)
 [![License](https://img.shields.io/badge/License-ODbL--1.0-blue.svg)](LICENSE)
@@ -19,15 +19,30 @@ Official Python packages for accessing comprehensive countries, states, cities, 
 
 | Package | PyPI | Description |
 |---|---|---|
-| **[countrystatecity-countries](./python/packages/countries/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/) | Countries, states, and cities with full metadata |
-| **[countrystatecity-timezones](./python/packages/timezones/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-timezones)](https://pypi.org/project/countrystatecity-timezones/) | IANA timezone data and time conversion utilities |
-| **[countrystatecity-currencies](./python/packages/currencies/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-currencies)](https://pypi.org/project/countrystatecity-currencies/) | Currency codes, names, and symbols |
-| **[countrystatecity-translations](./python/packages/translations/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/) | Country name translations in 18+ languages |
-| **[countrystatecity-phonecodes](./python/packages/phonecodes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250+ countries |
-| **[countrystatecity-regions](./python/packages/regions/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-regions)](https://pypi.org/project/countrystatecity-regions/) | Continents and geographic subregions for 250+ countries |
-| **[countrystatecity-postal-codes](./python/packages/postal_codes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-postal-codes)](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP codes and format validation for 125+ countries |
+| **[countrystatecity-countries](./python/packages/countries/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/) | 250 countries, 5,308 states, and 171,938 cities |
+| **[countrystatecity-timezones](./python/packages/timezones/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-timezones)](https://pypi.org/project/countrystatecity-timezones/) | 432 IANA timezones and time conversion utilities |
+| **[countrystatecity-currencies](./python/packages/currencies/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-currencies)](https://pypi.org/project/countrystatecity-currencies/) | 249 country/currency associations |
+| **[countrystatecity-translations](./python/packages/translations/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/) | 4,724 country-name translations in 19 languages |
+| **[countrystatecity-phonecodes](./python/packages/phonecodes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250 countries |
+| **[countrystatecity-regions](./python/packages/regions/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-regions)](https://pypi.org/project/countrystatecity-regions/) | Region and subregion associations for 250 countries |
+| **[countrystatecity-postal-codes](./python/packages/postal_codes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-postal-codes)](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 125 countries |
 
 > **Note:** There is no bare `countrystatecity` package on PyPI. Always install with the suffix (`-countries`, `-timezones`, `-currencies`, `-translations`, `-phonecodes`, `-regions`, `-postal-codes`).
+
+## From offline prototype to production
+
+These packages provide versioned snapshots for offline use, development, and
+repeatable builds. For production applications that need regularly updated data,
+server-side search and filtering, field-selected responses, or managed availability
+and support, use the Country State City API.
+
+[Get a free API key](https://app.countrystatecity.in/?utm_source=github&utm_medium=repository&utm_campaign=python_packages) ·
+[Read the API docs](https://docs.countrystatecity.in/api/introduction) ·
+[Compare plans](https://countrystatecity.in/pricing/?utm_source=github&utm_medium=repository&utm_campaign=python_packages) ·
+[Migration guide](./docs/MIGRATING_TO_API.md)
+
+API keys must stay in server-side environment variables, never in browser code or
+source control.
 
 ## 🚀 Installation
 
@@ -213,14 +228,14 @@ postcodes = get_postcodes_of_country("AD")
 
 - ✅ **Type-safe** with Pydantic models and mypy strict mode
 - ✅ **Lazy loading** for minimal memory footprint
-- ✅ **250+ countries** with full metadata
-- ✅ **5,000+ states/provinces**
-- ✅ **150,000+ cities**
-- ✅ **400+ timezones** with GMT offsets and time conversion
-- ✅ **Currency data** for every country
-- ✅ **Translations** in 18+ languages
-- ✅ **Phone/dialing codes** for 250+ countries
-- ✅ **Regions and subregions** for 250+ countries
+- ✅ **250 countries** with metadata
+- ✅ **5,308 states/provinces**
+- ✅ **171,938 cities**
+- ✅ **432 timezones** with GMT offsets and time conversion
+- ✅ **249 country/currency associations**
+- ✅ **4,724 translations** in 19 languages
+- ✅ **Phone/dialing codes** for 250 countries
+- ✅ **Regions and subregions** for 250 countries
 - ✅ **844,248 postal/ZIP-code records** across 125 countries, with validation regexes for 189
 - ✅ **Zero external dependencies** (except Pydantic)
 - ✅ **Python 3.8–3.12** support
@@ -296,6 +311,8 @@ All packages are licensed under the [Open Database License (ODbL-1.0)](LICENSE).
 
 - **Issues**: [GitHub Issues](https://github.com/dr5hn/countrystatecity-pypi/issues)
 - **Website**: [countrystatecity.in](https://countrystatecity.in)
+- **Production API**: [Get a free API key](https://app.countrystatecity.in/?utm_source=github&utm_medium=repository&utm_campaign=python_packages)
+- **Pricing**: [Compare API plans](https://countrystatecity.in/pricing/?utm_source=github&utm_medium=repository&utm_campaign=python_packages)
 
 ## 🔗 Related Projects
 

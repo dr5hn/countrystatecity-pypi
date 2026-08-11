@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-phonecodes"
-version = "1.0.4"
-description = "Type-safe Python package for international phone/dialing codes with 250+ country associations."
+version = "1.0.5"
+description = "Type-safe offline data for international phone/dialing codes with 250 country associations."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [
     {name = "dr5hn", email = "support@countrystatecity.in"}
@@ -53,12 +53,15 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/dr5hn/countrystatecity-pypi"
-Documentation = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/phonecodes"
+Homepage = "https://countrystatecity.in/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=phonecodes"
+Documentation = "https://github.com/dr5hn/countrystatecity-pypi/tree/main/python/packages/phonecodes"
 Repository = "https://github.com/dr5hn/countrystatecity-pypi"
-Source = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/phonecodes"
+Source = "https://github.com/dr5hn/countrystatecity-pypi/tree/main/python/packages/phonecodes"
 Issues = "https://github.com/dr5hn/countrystatecity-pypi/issues"
-Changelog = "https://github.com/dr5hn/countrystatecity-pypi/blob/master/python/packages/phonecodes/CHANGELOG.md"
+Changelog = "https://github.com/dr5hn/countrystatecity-pypi/blob/main/python/packages/phonecodes/CHANGELOG.md"
+"Get API Key" = "https://app.countrystatecity.in/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=phonecodes"
+"Production API" = "https://docs.countrystatecity.in/api/introduction"
+Pricing = "https://countrystatecity.in/pricing/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=phonecodes"
 
 [tool.setuptools.packages.find]
 where = ["."]

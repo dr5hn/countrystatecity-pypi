@@ -2,6 +2,13 @@
 
 All notable changes to `countrystatecity-postal-codes` will be documented in this file.
 
+## [1.0.2] - 2026-08-11
+
+### Documentation
+- Added a tracked path from the offline package to the freemium production API
+- Added a migration guide and secure API-key guidance
+- Corrected broken default-branch project links
+
 ## [1.0.1] - 2026-08-11
 
 ### Added

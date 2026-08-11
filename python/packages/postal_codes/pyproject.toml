@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-postal-codes"
-version = "1.0.1"
+version = "1.0.2"
 description = "Type-safe Python package with 844,248 postal-code records across 125 countries and validation regexes for 189 countries."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [
@@ -54,12 +54,15 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/dr5hn/countrystatecity-pypi"
-Documentation = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/postal_codes"
+Homepage = "https://countrystatecity.in/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=postal_codes"
+Documentation = "https://github.com/dr5hn/countrystatecity-pypi/tree/main/python/packages/postal_codes"
 Repository = "https://github.com/dr5hn/countrystatecity-pypi"
-Source = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/postal_codes"
+Source = "https://github.com/dr5hn/countrystatecity-pypi/tree/main/python/packages/postal_codes"
 Issues = "https://github.com/dr5hn/countrystatecity-pypi/issues"
-Changelog = "https://github.com/dr5hn/countrystatecity-pypi/blob/master/python/packages/postal_codes/CHANGELOG.md"
+Changelog = "https://github.com/dr5hn/countrystatecity-pypi/blob/main/python/packages/postal_codes/CHANGELOG.md"
+"Get API Key" = "https://app.countrystatecity.in/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=postal_codes"
+"Production API" = "https://docs.countrystatecity.in/api/introduction"
+Pricing = "https://countrystatecity.in/pricing/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=postal_codes"
 
 [tool.setuptools.packages.find]
 where = ["."]

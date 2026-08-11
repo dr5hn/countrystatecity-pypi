@@ -9,14 +9,28 @@ Official Python package for accessing comprehensive countries, states, and citie
 [![countries](https://static.pepy.tech/personalized-badge/countrystatecity-countries?period=month&units=international_system&left_color=grey&right_color=brightgreen&left_text=countries)](https://pepy.tech/project/countrystatecity-countries)
 [![countries](https://static.pepy.tech/personalized-badge/countrystatecity-countries?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=countries)](https://pepy.tech/project/countrystatecity-countries)
 
+## From offline prototype to production
+
+This package provides a versioned offline snapshot. For regularly updated data,
+server-side search and filtering, field-selected responses, or managed availability
+and support, use the Country State City API.
+
+[Get a free API key](https://app.countrystatecity.in/?utm_source=pypi&utm_medium=package&utm_campaign=python_packages&utm_content=countries) ·
+[API docs](https://docs.countrystatecity.in/api/introduction) ·
+[Pricing](https://countrystatecity.in/pricing/?utm_source=pypi&utm_medium=package&utm_campaign=python_packages&utm_content=countries) ·
+[Migration guide](https://github.com/dr5hn/countrystatecity-pypi/blob/main/docs/MIGRATING_TO_API.md)
+
+Keep API keys in server-side environment variables, never in client-side code or
+source control.
+
 ## Features
 
 - ✅ **Type-safe** with Pydantic models and mypy support
 - ✅ **Lazy loading** for minimal memory footprint
-- ✅ **250+ countries** with full metadata
-- ✅ **5,000+ states/provinces**
-- ✅ **151,000+ cities**
-- ✅ **Translations** in 18+ languages
+- ✅ **250 countries** with metadata
+- ✅ **5,308 states/provinces**
+- ✅ **171,938 cities**
+- ✅ **4,724 translations** in 19 languages
 - ✅ **Timezone data** per location
 - ✅ **Zero external dependencies** (except Pydantic)
 - ✅ **Full test coverage** with pytest
@@ -376,12 +390,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 | Package | Description |
 |---|---|
-| [countrystatecity-timezones](https://pypi.org/project/countrystatecity-timezones/) | 400+ IANA timezones with country associations and time conversion |
-| [countrystatecity-currencies](https://pypi.org/project/countrystatecity-currencies/) | Currency codes, names, and symbols for every country |
-| [countrystatecity-translations](https://pypi.org/project/countrystatecity-translations/) | Country name translations in 18+ languages |
-| [countrystatecity-phonecodes](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250+ countries |
-| [countrystatecity-regions](https://pypi.org/project/countrystatecity-regions/) | Continents and geographic subregions for 250+ countries |
-| [countrystatecity-postal-codes](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP codes and format validation for 125+ countries |
+| [countrystatecity-timezones](https://pypi.org/project/countrystatecity-timezones/) | 432 IANA timezones with country associations and time conversion |
+| [countrystatecity-currencies](https://pypi.org/project/countrystatecity-currencies/) | 249 country/currency associations |
+| [countrystatecity-translations](https://pypi.org/project/countrystatecity-translations/) | 4,724 translations in 19 languages |
+| [countrystatecity-phonecodes](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250 countries |
+| [countrystatecity-regions](https://pypi.org/project/countrystatecity-regions/) | Region and subregion associations for 250 countries |
+| [countrystatecity-postal-codes](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 125 countries |
 
 Data sourced from [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database).
 

@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.5] - 2026-08-11
+
+### Documentation
+- Added a tracked path from the offline package to the freemium production API
+- Added a migration guide and secure API-key guidance
+- Corrected packaged data counts and broken default-branch project links
+
 ## [1.0.4] - 2026-08-08
 
 ### Changed

@@ -6,13 +6,24 @@ This directory contains official Python packages for the [countries-states-citie
 
 | Package | PyPI | Description |
 |---|---|---|
-| **[countrystatecity-countries](./packages/countries/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/) | 250+ countries, 5,000+ states, 150,000+ cities |
-| **[countrystatecity-timezones](./packages/timezones/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-timezones)](https://pypi.org/project/countrystatecity-timezones/) | 400+ IANA timezones with time conversion |
-| **[countrystatecity-currencies](./packages/currencies/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-currencies)](https://pypi.org/project/countrystatecity-currencies/) | Currency codes, names, and symbols |
-| **[countrystatecity-translations](./packages/translations/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/) | Country name translations in 18+ languages |
+| **[countrystatecity-countries](./packages/countries/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/) | 250 countries, 5,308 states, 171,938 cities |
+| **[countrystatecity-timezones](./packages/timezones/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-timezones)](https://pypi.org/project/countrystatecity-timezones/) | 432 IANA timezones with time conversion |
+| **[countrystatecity-currencies](./packages/currencies/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-currencies)](https://pypi.org/project/countrystatecity-currencies/) | 249 country/currency associations |
+| **[countrystatecity-translations](./packages/translations/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/) | 4,724 translations in 19 languages |
 | **[countrystatecity-phonecodes](./packages/phonecodes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes |
 | **[countrystatecity-regions](./packages/regions/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-regions)](https://pypi.org/project/countrystatecity-regions/) | Continents and geographic subregions |
 | **[countrystatecity-postal-codes](./packages/postal_codes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-postal-codes)](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP codes and format validation |
+
+## From offline prototype to production
+
+The packages are versioned offline snapshots. Production applications can use the
+managed API for regularly updated data, search, filtering, smaller responses, and
+support.
+
+[Get a free API key](https://app.countrystatecity.in/?utm_source=github&utm_medium=repository&utm_campaign=python_packages) ·
+[API documentation](https://docs.countrystatecity.in/api/introduction) ·
+[Pricing](https://countrystatecity.in/pricing/?utm_source=github&utm_medium=repository&utm_campaign=python_packages) ·
+[Migration guide](../docs/MIGRATING_TO_API.md)
 
 ## 🚀 Installation
 
@@ -84,6 +95,7 @@ Contributions are welcome! Please see the [Contributing Guidelines](../CONTRIBUT
 
 - **Issues**: [GitHub Issues](https://github.com/dr5hn/countrystatecity-pypi/issues)
 - **Website**: [countrystatecity.in](https://countrystatecity.in)
+- **Production API**: [Get a free API key](https://app.countrystatecity.in/?utm_source=github&utm_medium=repository&utm_campaign=python_packages)
 
 ---
 

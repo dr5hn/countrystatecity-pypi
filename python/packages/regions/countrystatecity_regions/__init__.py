@@ -1,7 +1,7 @@
 """Official regions and subregions database with type hints and lazy loading.
 
 This package provides access to country-to-region and country-to-subregion
-associations (continents and geographic subregions) for 250+ countries.
+associations (continents and geographic subregions) for 250 countries.
 
 Example:
     >>> from countrystatecity_regions import (
@@ -12,7 +12,7 @@ Example:
     >>> asian_countries = get_countries_by_region("Asia")
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 from .api import (
     get_all_region_names,

@@ -2,6 +2,13 @@
 
 All notable changes to `countrystatecity-translations` will be documented in this file.
 
+## [1.0.5] - 2026-08-11
+
+### Documentation
+- Added a tracked path from the offline package to the freemium production API
+- Added a migration guide and secure API-key guidance
+- Corrected packaged data counts and broken default-branch project links
+
 ## [1.0.4] - 2026-08-08
 
 ### Changed

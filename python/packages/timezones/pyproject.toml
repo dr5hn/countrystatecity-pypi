@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-timezones"
-version = "1.0.4"
-description = "Type-safe Python package for timezone data with 400+ timezones, country associations, GMT offsets, and time conversion utilities."
+version = "1.0.5"
+description = "Type-safe offline data for 432 IANA timezones, with country associations, GMT offsets, and conversion utilities."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [
     {name = "dr5hn", email = "support@countrystatecity.in"}
@@ -56,12 +56,15 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/dr5hn/countrystatecity-pypi"
-Documentation = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/timezones"
+Homepage = "https://countrystatecity.in/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=timezones"
+Documentation = "https://github.com/dr5hn/countrystatecity-pypi/tree/main/python/packages/timezones"
 Repository = "https://github.com/dr5hn/countrystatecity-pypi"
-Source = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/timezones"
+Source = "https://github.com/dr5hn/countrystatecity-pypi/tree/main/python/packages/timezones"
 Issues = "https://github.com/dr5hn/countrystatecity-pypi/issues"
-Changelog = "https://github.com/dr5hn/countrystatecity-pypi/blob/master/python/packages/timezones/CHANGELOG.md"
+Changelog = "https://github.com/dr5hn/countrystatecity-pypi/blob/main/python/packages/timezones/CHANGELOG.md"
+"Get API Key" = "https://app.countrystatecity.in/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=timezones"
+"Production API" = "https://docs.countrystatecity.in/api/introduction"
+Pricing = "https://countrystatecity.in/pricing/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=timezones"
 
 [tool.setuptools.packages.find]
 where = ["."]
