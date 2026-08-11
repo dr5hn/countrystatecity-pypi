@@ -40,6 +40,9 @@ python scripts/generate-data.py \
 - `countrystatecity_postal_codes/data/countries.json` — one entry per country with postal code format, validation regex, and postcode count
 - `countrystatecity_postal_codes/data/by-country/{ISO2}/postcodes.json` — individual postcodes for countries with contribution data
 
+After a successful generation, stale `postcodes.json` files are removed when
+their country no longer has upstream contribution data.
+
 ### Data Source
 
 https://github.com/dr5hn/countries-states-cities-database

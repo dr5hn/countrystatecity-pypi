@@ -221,7 +221,7 @@ postcodes = get_postcodes_of_country("AD")
 - ✅ **Translations** in 18+ languages
 - ✅ **Phone/dialing codes** for 250+ countries
 - ✅ **Regions and subregions** for 250+ countries
-- ✅ **844,000+ postal/ZIP codes** across 125 countries, with format validation for 250+
+- ✅ **844,248 postal/ZIP-code records** across 125 countries, with validation regexes for 189
 - ✅ **Zero external dependencies** (except Pydantic)
 - ✅ **Python 3.8–3.12** support
 - ✅ **Full test coverage** with pytest

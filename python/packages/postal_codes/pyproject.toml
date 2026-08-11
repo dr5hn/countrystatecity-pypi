@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-postal-codes"
-version = "1.0.0"
-description = "Type-safe Python package for postal/ZIP code data — postcodes, localities, and format/validation regex for 100+ countries."
+version = "1.0.1"
+description = "Type-safe Python package with 844,248 postal-code records across 125 countries and validation regexes for 189 countries."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [
     {name = "dr5hn", email = "support@countrystatecity.in"}

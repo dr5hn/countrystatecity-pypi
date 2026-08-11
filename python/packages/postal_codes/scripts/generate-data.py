@@ -19,7 +19,7 @@ to fetch both.
 import argparse
 import json
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Set
 
 OUTPUT_DIR = Path(__file__).parent.parent / "countrystatecity_postal_codes" / "data"
 
@@ -64,6 +64,7 @@ def generate(countries_source: Path, postcodes_dir: Path, output_dir: Path) -> N
     country_entries = []
     total_postcodes = 0
     countries_with_data = 0
+    generated_country_codes: Set[str] = set()
 
     for country in countries:
         iso2 = country.get("iso2")
@@ -80,6 +81,7 @@ def generate(countries_source: Path, postcodes_dir: Path, output_dir: Path) -> N
                 json.dump(transformed, f, ensure_ascii=False, indent=2)
             total_postcodes += len(transformed)
             countries_with_data += 1
+            generated_country_codes.add(iso2)
 
         country_entries.append(
             {
@@ -94,6 +96,13 @@ def generate(countries_source: Path, postcodes_dir: Path, output_dir: Path) -> N
     output_dir.mkdir(parents=True, exist_ok=True)
     with open(output_dir / "countries.json", "w", encoding="utf-8") as f:
         json.dump(country_entries, f, ensure_ascii=False, indent=2)
+
+    by_country_dir = output_dir / "by-country"
+    for stale_file in by_country_dir.glob("*/postcodes.json"):
+        if stale_file.parent.name not in generated_country_codes:
+            stale_file.unlink()
+            if not any(stale_file.parent.iterdir()):
+                stale_file.parent.rmdir()
 
     print(
         f"Generated {len(country_entries)} country entries "
