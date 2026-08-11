@@ -6,10 +6,12 @@ from countrystatecity_postal_codes import (
     get_countries_with_postal_data,
     get_postal_info_by_country,
     get_postcode_by_code,
+    get_postcodes_by_code,
     get_postcodes_of_country,
     search_postcodes,
     validate_postcode,
 )
+from countrystatecity_postal_codes.loaders import DataLoader
 from countrystatecity_postal_codes.models import CountryPostalInfo, Postcode
 
 
@@ -86,6 +88,19 @@ def test_get_postcode_by_code_not_found():
     assert pc is None
 
 
+def test_get_postcodes_by_code_returns_every_locality():
+    """Return all localities when a postcode is not unique."""
+    matches = get_postcodes_by_code("BB", "BB18000")
+    assert {match.localityName for match in matches} == {"Crane", "Six Cross Roads"}
+
+
+def test_get_postcode_by_code_returns_first_match_for_compatibility():
+    """Keep the singular lookup deterministic for existing callers."""
+    first = get_postcode_by_code("BB", "BB18000")
+    matches = get_postcodes_by_code("BB", "BB18000")
+    assert first == matches[0]
+
+
 def test_postcode_model_immutable():
     pc = get_postcode_by_code("AD", "AD100")
     assert pc is not None
@@ -128,3 +143,32 @@ def test_validate_postcode_us_invalid():
 
 def test_validate_postcode_unknown_country():
     assert validate_postcode("ZZ", "10001") is False
+
+
+@pytest.mark.parametrize(
+    ("country_code", "postcode"),
+    [
+        ("AS", "96799junk"),
+        ("GI", "GX11 1AAjunk"),
+        ("IE", "D02 X285junk"),
+        ("WS", "AS 96799junk"),
+    ],
+)
+def test_validate_postcode_rejects_trailing_garbage(
+    country_code: str, postcode: str
+) -> None:
+    """Require the country's regex to match the complete input."""
+    assert validate_postcode(country_code, postcode) is False
+
+
+def test_country_code_cannot_traverse_data_directories():
+    """Reject path-shaped country codes before filesystem access."""
+    assert get_postcodes_of_country("AD/../AI") == []
+
+
+def test_postcode_cache_is_bounded():
+    """Do not retain the complete global postcode dataset in memory."""
+    DataLoader.clear_cache()
+    for country_code in ("AD", "AI", "AS", "BB", "BL", "BM", "CC", "CX", "FK"):
+        DataLoader.load_postcodes(country_code)
+    assert DataLoader.load_postcodes.cache_info().currsize == 8

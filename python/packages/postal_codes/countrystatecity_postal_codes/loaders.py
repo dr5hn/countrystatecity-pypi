@@ -23,9 +23,17 @@ class DataLoader:
             return cast(List[Dict[str, Any]], json.load(f))
 
     @classmethod
-    @lru_cache(maxsize=250)
+    @lru_cache(maxsize=8)
     def load_postcodes(cls, country_code: str) -> List[Dict[str, Any]]:
         """Load postcodes for a country (cached per country)."""
+        country_code = country_code.upper()
+        if (
+            len(country_code) != 2
+            or not country_code.isascii()
+            or not country_code.isalpha()
+        ):
+            return []
+
         file_path = cls._data_dir / "by-country" / country_code / "postcodes.json"
         if not file_path.exists():
             return []

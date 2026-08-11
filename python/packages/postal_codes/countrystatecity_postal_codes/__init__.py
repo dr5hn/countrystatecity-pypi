@@ -12,12 +12,13 @@ Example:
     >>> validate_postcode("US", "10001")
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 from .api import (
     get_countries_with_postal_data,
     get_postal_info_by_country,
     get_postcode_by_code,
+    get_postcodes_by_code,
     get_postcodes_of_country,
     search_postcodes,
     validate_postcode,
@@ -35,6 +36,7 @@ __all__ = [
     "get_postal_info_by_country",
     "get_postcodes_of_country",
     "get_postcode_by_code",
+    "get_postcodes_by_code",
     "search_postcodes",
     "validate_postcode",
 ]

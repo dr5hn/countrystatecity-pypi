@@ -20,6 +20,7 @@ from countrystatecity_postal_codes import (
     get_postal_info_by_country,
     get_postcodes_of_country,
     get_postcode_by_code,
+    get_postcodes_by_code,
     search_postcodes,
     validate_postcode,
 )
@@ -43,6 +44,10 @@ print(f"  get_postcodes_of_country(AD)     -> {len(ad_postcodes)} postcodes")
 pc = get_postcode_by_code("AD", "AD100")
 assert pc is not None
 print(f"  get_postcode_by_code(AD, AD100)  -> {pc.localityName}")
+
+matches = get_postcodes_by_code("BB", "BB18000")
+assert {match.localityName for match in matches} == {"Crane", "Six Cross Roads"}
+print(f"  get_postcodes_by_code(BB, BB18000) -> {len(matches)} localities")
 
 results = search_postcodes("AD", "canillo")
 assert len(results) > 0

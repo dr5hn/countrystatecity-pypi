@@ -64,26 +64,46 @@ def get_postcodes_of_country(country_code: str) -> List[Postcode]:
 
 
 def get_postcode_by_code(country_code: str, code: str) -> Optional[Postcode]:
-    """Get a specific postcode entry within a country.
+    """Get the first matching postcode entry within a country.
+
+    Some postal codes cover multiple localities. Use ``get_postcodes_by_code``
+    when every matching entry is required.
 
     Args:
         country_code: ISO2 country code (e.g., "AD").
         code: The postal code value (e.g., "AD100").
 
     Returns:
-        Optional[Postcode]: The postcode if found, None otherwise.
+        Optional[Postcode]: The first matching postcode if found, None otherwise.
 
     Example:
         >>> pc = get_postcode_by_code("AD", "AD100")
         >>> pc is not None
         True
     """
+    matches = get_postcodes_by_code(country_code, code)
+    return matches[0] if matches else None
+
+
+def get_postcodes_by_code(country_code: str, code: str) -> List[Postcode]:
+    """Get every postcode entry matching a code within a country.
+
+    Args:
+        country_code: ISO2 country code (e.g., "BB").
+        code: The postal code value (e.g., "BB18000").
+
+    Returns:
+        List[Postcode]: Every matching entry, including multiple localities
+            that share the same code.
+
+    Example:
+        >>> matches = get_postcodes_by_code("BB", "BB18000")
+        >>> len(matches) > 1
+        True
+    """
     code_upper = code.upper()
     postcodes = DataLoader.load_postcodes(country_code.upper())
-    for p in postcodes:
-        if p["code"].upper() == code_upper:
-            return Postcode(**p)
-    return None
+    return [Postcode(**p) for p in postcodes if p["code"].upper() == code_upper]
 
 
 def search_postcodes(country_code: str, query: str) -> List[Postcode]:
@@ -135,4 +155,7 @@ def validate_postcode(country_code: str, code: str) -> bool:
     info = get_postal_info_by_country(country_code)
     if info is None or not info.postalCodeRegex:
         return False
-    return bool(re.match(info.postalCodeRegex, code))
+    try:
+        return re.fullmatch(info.postalCodeRegex, code) is not None
+    except re.error:
+        return False
