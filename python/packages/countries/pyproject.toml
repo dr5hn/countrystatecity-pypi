@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-countries"
-version = "1.0.4"
-description = "Type-safe Python package for countries, states, and cities data with 250+ countries, 5000+ states, and 151K+ cities. Features Pydantic models, lazy loading, and comprehensive geographic metadata."
+version = "1.0.5"
+description = "Type-safe offline data for 250 countries, 5,308 states, and 171,938 cities, with Pydantic models and lazy loading."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [
     {name = "dr5hn", email = "support@countrystatecity.in"}
@@ -55,12 +55,15 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/dr5hn/countrystatecity-pypi"
-Documentation = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/countries"
+Homepage = "https://countrystatecity.in/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=countries"
+Documentation = "https://github.com/dr5hn/countrystatecity-pypi/tree/main/python/packages/countries"
 Repository = "https://github.com/dr5hn/countrystatecity-pypi"
-Source = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/countries"
+Source = "https://github.com/dr5hn/countrystatecity-pypi/tree/main/python/packages/countries"
 Issues = "https://github.com/dr5hn/countrystatecity-pypi/issues"
-Changelog = "https://github.com/dr5hn/countrystatecity-pypi/blob/master/python/packages/countries/CHANGELOG.md"
+Changelog = "https://github.com/dr5hn/countrystatecity-pypi/blob/main/python/packages/countries/CHANGELOG.md"
+"Get API Key" = "https://app.countrystatecity.in/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=countries"
+"Production API" = "https://docs.countrystatecity.in/api/introduction"
+Pricing = "https://countrystatecity.in/pricing/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=countries"
 
 [tool.setuptools.packages.find]
 where = ["."]

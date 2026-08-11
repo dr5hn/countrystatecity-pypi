@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-regions"
-version = "1.0.0"
-description = "Type-safe Python package for region and subregion data — continents and geographic subregions for 250+ countries."
+version = "1.0.1"
+description = "Type-safe offline region and subregion associations for 250 countries."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [
     {name = "dr5hn", email = "support@countrystatecity.in"}
@@ -53,12 +53,15 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/dr5hn/countrystatecity-pypi"
-Documentation = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/regions"
+Homepage = "https://countrystatecity.in/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=regions"
+Documentation = "https://github.com/dr5hn/countrystatecity-pypi/tree/main/python/packages/regions"
 Repository = "https://github.com/dr5hn/countrystatecity-pypi"
-Source = "https://github.com/dr5hn/countrystatecity-pypi/tree/master/python/packages/regions"
+Source = "https://github.com/dr5hn/countrystatecity-pypi/tree/main/python/packages/regions"
 Issues = "https://github.com/dr5hn/countrystatecity-pypi/issues"
-Changelog = "https://github.com/dr5hn/countrystatecity-pypi/blob/master/python/packages/regions/CHANGELOG.md"
+Changelog = "https://github.com/dr5hn/countrystatecity-pypi/blob/main/python/packages/regions/CHANGELOG.md"
+"Get API Key" = "https://app.countrystatecity.in/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=regions"
+"Production API" = "https://docs.countrystatecity.in/api/introduction"
+Pricing = "https://countrystatecity.in/pricing/?utm_source=pypi&utm_medium=project_link&utm_campaign=python_packages&utm_content=regions"
 
 [tool.setuptools.packages.find]
 where = ["."]

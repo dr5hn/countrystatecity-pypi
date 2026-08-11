@@ -12,7 +12,7 @@ Example:
     >>> validate_postcode("US", "10001")
 """
 
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 
 from .api import (
     get_countries_with_postal_data,
