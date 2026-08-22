@@ -5,6 +5,12 @@ on:
     types: [closed]
     branches: [main, master]
 
+# Data-update releases bump the seven offline data packages in lockstep. The
+# `api` package (PyPI name `countrystatecity`) is deliberately excluded: it
+# ships no data, so an upstream data sync does not change it. Version it by
+# hand in python/packages/api/pyproject.toml and countrystatecity/_version.py.
+# The publish job below still runs with `package: all`, which is harmless --
+# publishing skips any version already on PyPI.
 jobs:
   release:
     name: Bump Version & Update Changelog

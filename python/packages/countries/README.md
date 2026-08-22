@@ -13,7 +13,17 @@ Official Python package for accessing comprehensive countries, states, and citie
 
 This package provides a versioned offline snapshot. For regularly updated data,
 server-side search and filtering, field-selected responses, or managed availability
-and support, use the Country State City API.
+and support, use the Country State City API through its official Python client:
+
+```bash
+pip install countrystatecity
+```
+
+```python
+from countrystatecity import CountryStateCity
+
+csc = CountryStateCity()          # reads CSC_API_KEY
+```
 
 [Get a free API key](https://app.countrystatecity.in/?utm_source=pypi&utm_medium=package&utm_campaign=python_packages&utm_content=countries) ·
 [API docs](https://docs.countrystatecity.in/api/introduction) ·
@@ -390,6 +400,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 | Package | Description |
 |---|---|
+| [countrystatecity](https://pypi.org/project/countrystatecity/) | **Official API client** — live data, sync + async, typed |
 | [countrystatecity-timezones](https://pypi.org/project/countrystatecity-timezones/) | 432 IANA timezones with country associations and time conversion |
 | [countrystatecity-currencies](https://pypi.org/project/countrystatecity-currencies/) | 249 country/currency associations |
 | [countrystatecity-translations](https://pypi.org/project/countrystatecity-translations/) | 4,724 translations in 19 languages |
