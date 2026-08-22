@@ -92,7 +92,46 @@ REJECTED: Dict[str, Tuple[str, Tuple[Any, ...], Dict[str, Any]]] = {
     "fuzzy-threshold-string": ("fuzzy_search", ("pune",), {"threshold": "0.5"}),
     "request-relative-path": ("request", ("countries",), {}),
     "request-path-not-a-string": ("request", (7,), {}),
+    # The escape hatch promises "any GET under the base URL". httpx does not
+    # enforce that on its own: it resolves "/../admin" against
+    # https://api.countrystatecity.in/v1 to https://api.countrystatecity.in/admin,
+    # outside /v1 entirely. Each of these must be refused before any I/O.
+    "request-parent-traversal": ("request", ("/../admin",), {}),
+    "request-nested-traversal": ("request", ("/countries/../../admin",), {}),
+    "request-trailing-traversal": ("request", ("/countries/..",), {}),
+    "request-encoded-traversal": ("request", ("/%2e%2e/admin",), {}),
+    "request-encoded-traversal-upper": ("request", ("/%2E%2E/admin",), {}),
+    "request-double-encoded-traversal": ("request", ("/%252e%252e/admin",), {}),
+    "request-encoded-dot-segment": ("request", ("/%2e/admin",), {}),
+    "request-current-dir-segment": ("request", ("/./countries",), {}),
+    "request-encoded-slash": ("request", ("/countries%2f..%2fadmin",), {}),
+    "request-encoded-backslash": ("request", ("/countries%5c..%5cadmin",), {}),
+    "request-protocol-relative": ("request", ("//evil.example.test/admin",), {}),
+    "request-protocol-relative-triple": ("request", ("///evil.example.test",), {}),
+    "request-embedded-query": ("request", ("/countries?fields=id",), {}),
+    "request-embedded-fragment": ("request", ("/countries#frag",), {}),
+    "request-empty-path": ("request", ("",), {}),
+    "request-path-none": ("request", (None,), {}),
 }
+
+#: Paths the validator must keep accepting. Routes this release does not wrap
+#: are exactly what the escape hatch is for, so the rule cannot be so tight that
+#: an ordinary future path is refused.
+ACCEPTED_PATHS = [
+    "/countries",
+    "/countries/IN/states/MH/cities",
+    "/some/future/route",
+    "/search/fuzzy",
+    "/iso/country/convert",
+    "/v2/countries",
+    "/countries/IN/states/AN-AMA",
+    "/timezone/IN/MH/57606",
+    "/reports/2026-08-22",
+    "/countries/C%C3%B4te",
+    "/trailing/",
+    "/dotted.segment/name",
+    "/a..b/c",
+]
 
 
 @pytest.mark.parametrize("case", sorted(REJECTED), ids=sorted(REJECTED))
@@ -211,3 +250,56 @@ def test_accepted_country_identifier_forms(value: Any) -> None:
         client.get_country(value)
 
     assert recorder.request.url.path == f"/v1/countries/{value}"
+
+
+@pytest.mark.parametrize("path", ACCEPTED_PATHS)
+def test_sync_request_accepts_ordinary_paths(path: str) -> None:
+    """A tightened rule must not break routes this release does not wrap."""
+    recorder = Recorder(json_body={"ok": True})
+    with sync_client(recorder) as client:
+        client.request(path)
+
+    assert recorder.request.url.path.startswith("/v1/")
+
+
+@pytest.mark.parametrize("path", ACCEPTED_PATHS)
+def test_async_request_accepts_ordinary_paths(path: str) -> None:
+    recorder = Recorder(json_body={"ok": True})
+    client = async_client(recorder)
+    try:
+        run(client.request(path))
+    finally:
+        run(client.aclose())
+
+    assert recorder.request.url.path.startswith("/v1/")
+
+
+@pytest.mark.parametrize(
+    "path",
+    ["/../admin", "/%2e%2e/admin", "//evil.example.test/admin"],
+    ids=["dot-dot", "encoded", "protocol-relative"],
+)
+def test_escaping_paths_never_leave_the_base_url(path: str) -> None:
+    """The property under test, stated as the outcome rather than the rule.
+
+    Without validation httpx sends these to https://api.countrystatecity.in/admin
+    -- a real host, a real route, outside /v1. Nothing may be sent at all.
+    """
+    recorder = Recorder(json_body={})
+    with sync_client(recorder) as client:
+        with pytest.raises(ValidationError):
+            client.request(path)
+
+    assert recorder.requests == []
+
+
+def test_both_clients_use_the_shared_path_validator() -> None:
+    """One rule, one implementation -- the two clients cannot drift apart."""
+    from countrystatecity import aio
+    from countrystatecity import client as sync_module
+    from countrystatecity._validation import request_path
+
+    # vars(), not attribute access: the clients import the validator for use,
+    # not to re-export it, so mypy --strict refuses the attribute form.
+    assert vars(sync_module)["request_path"] is request_path
+    assert vars(aio)["request_path"] is request_path

@@ -22,11 +22,11 @@ import re
 # Python 3.8, the collections.abc one is what isinstance() accepts.
 from collections.abc import Sequence as _AbcSequence
 from typing import Iterable, List, Optional, Sequence, Union
-from urllib.parse import quote
+from urllib.parse import quote, unquote
 
 from .errors import ValidationError
 
-__all__ = ["quote_segment"]
+__all__ = ["quote_segment", "request_path"]
 
 #: Largest identifier the API accepts for countries, regions, and subregions.
 MAX_NUMERIC_ID = 999_999
@@ -58,6 +58,19 @@ _SEARCH_MAX = 100
 CODE_FORMATS = ("iso2", "iso3", "numeric")
 FUZZY_TYPES = ("city", "state", "country")
 
+#: Path segments that walk up out of the base URL rather than down into it.
+_TRAVERSAL_SEGMENTS = frozenset({".", ".."})
+
+#: Separators that must never survive percent-decoding inside a single segment:
+#: an encoded ``/`` or ``\`` would turn one segment into two at whatever layer
+#: decodes it next.
+_SEPARATORS = ("/", "\\")
+
+#: Percent-decoding rounds applied before a segment is judged. One round catches
+#: ``%2e%2e``; the extra rounds catch ``%252e%252e``, which a proxy that decodes
+#: before forwarding would hand on as ``..``.
+_DECODE_ROUNDS = 3
+
 
 def quote_segment(value: str) -> str:
     """Percent-encode ``value`` for use as a single URL path segment.
@@ -69,6 +82,77 @@ def quote_segment(value: str) -> str:
         The segment with every reserved character encoded, including ``/``.
     """
     return quote(value, safe="")
+
+
+def request_path(value: str, *, name: str = "path") -> str:
+    """Validate a caller-supplied path for the raw ``request`` escape hatch.
+
+    The escape hatch promises requests stay *under* the client's base URL, and
+    httpx does not enforce that. Given a base URL of
+    ``https://api.countrystatecity.in/v1``, httpx resolves the path
+    ``/../admin`` to the host root followed by ``/admin`` -- outside ``/v1``
+    entirely. This is the one place a caller hands over a whole path, so the
+    containment rule is checked here.
+
+    Accepts any ordinary ``/v1``-relative path, so endpoints added after this
+    release need no change: only the escape shapes listed below are refused.
+
+    Args:
+        value: The path, relative to the base URL and starting with ``/``.
+        name: Argument name, used in the error message.
+
+    Returns:
+        The path unchanged.
+
+    Raises:
+        ValidationError: If the path is not a string starting with a single
+            ``/``; starts with ``//``, which reads as a protocol-relative URL
+            pointing at another host; embeds a query or fragment, which belongs
+            in ``params``; or contains a ``.`` or ``..`` segment, including its
+            percent-encoded spellings.
+    """
+    if not isinstance(value, str) or not value.startswith("/"):
+        raise ValidationError(
+            f"{name} must be a string starting with '/'; got {value!r}."
+        )
+    if value.startswith("//"):
+        raise ValidationError(
+            f"{name} must start with a single '/'; a leading '//' is read as a "
+            f"protocol-relative URL to another host. Got {value!r}."
+        )
+    for character in ("?", "#"):
+        if character in value:
+            raise ValidationError(
+                f"{name} must not contain {character!r}; pass query parameters "
+                f"as params={{...}} instead. Got {value!r}."
+            )
+    for segment in value.split("/"):
+        decoded = _decode_segment(segment)
+        if decoded in _TRAVERSAL_SEGMENTS or any(sep in decoded for sep in _SEPARATORS):
+            raise ValidationError(
+                f"{name} segment {segment!r} would escape the base URL; "
+                f"'.', '..', and encoded separators are not allowed. "
+                f"Got {value!r}."
+            )
+    return value
+
+
+def _decode_segment(segment: str) -> str:
+    """Percent-decode one path segment until it stops changing.
+
+    Args:
+        segment: A single ``/``-delimited piece of a path.
+
+    Returns:
+        The segment after up to :data:`_DECODE_ROUNDS` decoding passes, so a
+        doubly-encoded ``..`` is judged as ``..`` rather than as opaque text.
+    """
+    for _ in range(_DECODE_ROUNDS):
+        decoded = unquote(segment)
+        if decoded == segment:
+            break
+        segment = decoded
+    return segment
 
 
 def api_key(value: Optional[str], *, env_var: str) -> str:

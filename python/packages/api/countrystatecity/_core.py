@@ -8,7 +8,7 @@ logic and differ only in how they hand a request to httpx.
 import math
 import os
 from typing import Any, Dict, Mapping, Optional, Tuple, Union
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, urlunsplit
 
 import httpx
 
@@ -24,7 +24,13 @@ from .errors import (
 )
 from .response import ApiResponse, ResponseMeta
 
-__all__ = ["API_KEY_ENV_VAR", "DEFAULT_BASE_URL", "DEFAULT_TIMEOUT", "USER_AGENT"]
+__all__ = [
+    "API_KEY_ENV_VAR",
+    "DEFAULT_BASE_URL",
+    "DEFAULT_TIMEOUT",
+    "USER_AGENT",
+    "loggable_url",
+]
 
 #: Production API root. Every endpoint path in this package is relative to it.
 DEFAULT_BASE_URL = "https://api.countrystatecity.in/v1"
@@ -129,6 +135,31 @@ def normalize_timeout(timeout: Union[int, float, httpx.Timeout]) -> httpx.Timeou
     return httpx.Timeout(float(timeout))
 
 
+def loggable_url(url: Union[str, httpx.URL]) -> str:
+    """Reduce a request URL to the part that is safe to record and log.
+
+    Every query value this client sends comes from the caller, and some of it is
+    sensitive: ``/phone/parse?number=`` carries a phone number, ``?q=`` carries
+    a user's search term, and a future endpoint could carry anything. Exceptions
+    are printed, logged, and shipped to error trackers, so the query string and
+    fragment are dropped entirely rather than filtered key by key -- a
+    deny-list would silently leak the next parameter nobody remembered to add.
+
+    Only the recorded URL changes. The request itself is built and sent with its
+    full query string.
+
+    Args:
+        url: The absolute URL of a prepared request.
+
+    Returns:
+        The same URL with its query and fragment removed. The API key is never
+        part of a URL to begin with -- it travels in the ``X-CSCAPI-KEY``
+        header.
+    """
+    parts = urlsplit(str(url))
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, "", ""))
+
+
 def build_headers(api_key: str) -> Dict[str, str]:
     """Build the default headers for every request.
 
@@ -154,8 +185,8 @@ def process_response(
     Args:
         response: A fully-read httpx response.
         method: HTTP method, recorded on any raised error.
-        url: Absolute request URL, recorded on any raised error. The API key is
-            never part of the URL, so this is safe to log.
+        url: Request URL recorded on any raised error. Pass the value returned
+            by :func:`loggable_url`, which carries no query or fragment.
 
     Returns:
         The decoded body wrapped with its plan, quota, and cache metadata.
@@ -244,7 +275,9 @@ def translate_transport_error(
         exc: The httpx exception. Only transport-level errors reach here;
             status errors are handled by :func:`process_response`.
         method: HTTP method of the failed request.
-        url: Absolute request URL of the failed request.
+        url: Request URL of the failed request. Pass the value returned by
+            :func:`loggable_url`: this message names the target, and a raw URL
+            would put the caller's query values into every log line.
 
     Returns:
         An :class:`~countrystatecity.errors.APITimeoutError` for timeouts, and

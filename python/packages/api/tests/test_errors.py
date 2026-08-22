@@ -402,3 +402,195 @@ def test_rate_limit_accessors_are_none_without_detail() -> None:
     assert error.period is None
     assert error.tier is None
     assert error.upgrade_url is None
+
+
+def test_rate_limit_exposes_the_reset_time() -> None:
+    """The API reports resetAt on 429; callers schedule their backoff on it."""
+    recorder = Recorder(
+        status_code=429,
+        json_body={
+            "status": "error",
+            "message": "Daily usage limit exceeded.",
+            "details": {
+                "limit": 100,
+                "period": "daily",
+                "resetAt": "2026-08-23T00:00:00.000Z",
+                "tier": "community",
+                "upgradeUrl": "https://app.countrystatecity.in/pricing",
+            },
+        },
+    )
+    with sync_client(recorder) as client:
+        with pytest.raises(RateLimitError) as caught:
+            client.get_countries()
+
+    assert caught.value.reset_at == "2026-08-23T00:00:00.000Z"
+
+
+def test_rate_limit_reset_time_survives_the_flat_envelope() -> None:
+    """Controllers that answer flat must yield the same accessor."""
+    recorder = Recorder(
+        status_code=429,
+        json_body={
+            "error": "Monthly usage limit exceeded.",
+            "limit": 5000,
+            "period": "monthly",
+            "resetAt": "2026-09-01T00:00:00.000Z",
+        },
+    )
+    with sync_client(recorder) as client:
+        with pytest.raises(RateLimitError) as caught:
+            client.get_countries()
+
+    assert caught.value.reset_at == "2026-09-01T00:00:00.000Z"
+    assert caught.value.period == "monthly"
+
+
+def test_rate_limit_reset_time_is_none_when_absent() -> None:
+    recorder = Recorder(status_code=429, json_body={"error": "slow down"})
+    with sync_client(recorder) as client:
+        with pytest.raises(RateLimitError) as caught:
+            client.get_countries()
+
+    assert caught.value.reset_at is None
+
+
+# -- query values never reach an exception ---------------------------------
+#
+# Every query value this client sends is caller data. `/phone/parse?number=` is
+# a phone number, `?q=` is whatever a user typed, and a caller can put anything
+# through `request(params=...)`. Exceptions get printed, logged, and shipped to
+# error trackers, so the recorded URL keeps scheme, host, and path and drops the
+# query string entirely. The request itself still carries it.
+
+#: A phone number, a search term, and a token-shaped string -- the three kinds
+#: of query value that must not survive into an exception.
+SECRET_PHONE = "+14155552671"
+SECRET_QUERY = "12 Mornington Crescent"
+SECRET_TOKEN = "token-shaped-SENTINEL-abc123"
+
+
+def wire_form(secret: str) -> str:
+    """Return ``secret`` exactly as httpx percent-encodes it into a query.
+
+    Asserting on the raw string alone would be a weak test: " " becomes "+" and
+    "+" becomes "%2B" on the wire, so a leaked URL might not contain the secret
+    verbatim even though it fully discloses it.
+    """
+    return str(httpx.QueryParams({"v": secret})).split("=", 1)[1]
+
+
+def assert_no_leak(secret: str, *renderings: str) -> None:
+    """Assert no rendering discloses ``secret`` in raw or percent-encoded form."""
+    for rendered in renderings:
+        assert secret not in rendered, rendered
+        assert wire_form(secret) not in rendered, rendered
+
+
+#: ``(label, call)`` pairs, each sending one secret as a query value.
+LEAK_CALLS = [
+    ("phone-parse", lambda c: c.parse_phone_number(SECRET_PHONE), SECRET_PHONE),
+    ("search-q", lambda c: c.get_cities_of_country("IN", q=SECRET_QUERY), SECRET_QUERY),
+    ("fuzzy-q", lambda c: c.fuzzy_search(SECRET_QUERY), SECRET_QUERY),
+    (
+        "raw-params",
+        lambda c: c.request("/some/future/route", params={"token": SECRET_TOKEN}),
+        SECRET_TOKEN,
+    ),
+]
+LEAK_IDS = [case[0] for case in LEAK_CALLS]
+
+
+@pytest.mark.parametrize("_label, call, secret", LEAK_CALLS, ids=LEAK_IDS)
+def test_status_error_never_records_a_query_value(
+    _label: str, call: Any, secret: str
+) -> None:
+    recorder = Recorder(status_code=500, json_body={"error": "boom"})
+    with sync_client(recorder) as client:
+        with pytest.raises(ServerError) as caught:
+            call(client)
+
+    error = caught.value
+    assert_no_leak(secret, error.url, str(error), repr(error))
+    assert httpx.URL(error.url).query == b"", error.url
+
+
+@pytest.mark.parametrize("_label, call, secret", LEAK_CALLS, ids=LEAK_IDS)
+def test_transport_error_never_records_a_query_value(
+    _label: str, call: Any, secret: str
+) -> None:
+    recorder = Recorder(raises=httpx.ConnectError("refused"))
+    with sync_client(recorder) as client:
+        with pytest.raises(APIConnectionError) as caught:
+            call(client)
+
+    assert_no_leak(secret, str(caught.value), repr(caught.value))
+
+
+@pytest.mark.parametrize("_label, call, secret", LEAK_CALLS, ids=LEAK_IDS)
+def test_async_status_error_never_records_a_query_value(
+    _label: str, call: Any, secret: str
+) -> None:
+    recorder = Recorder(status_code=503, json_body={"error": "boom"})
+    client = async_client(recorder)
+    try:
+        with pytest.raises(ServerError) as caught:
+            run(call(client))
+    finally:
+        run(client.aclose())
+
+    error = caught.value
+    assert_no_leak(secret, error.url, str(error))
+    assert httpx.URL(error.url).query == b"", error.url
+
+
+@pytest.mark.parametrize("_label, call, secret", LEAK_CALLS, ids=LEAK_IDS)
+def test_async_transport_error_never_records_a_query_value(
+    _label: str, call: Any, secret: str
+) -> None:
+    recorder = Recorder(raises=httpx.ReadTimeout("timed out"))
+    client = async_client(recorder)
+    try:
+        with pytest.raises(APITimeoutError) as caught:
+            run(call(client))
+    finally:
+        run(client.aclose())
+
+    assert_no_leak(secret, str(caught.value))
+
+
+@pytest.mark.parametrize("_label, call, secret", LEAK_CALLS, ids=LEAK_IDS)
+def test_the_request_itself_still_carries_the_query_value(
+    _label: str, call: Any, secret: str
+) -> None:
+    """Redaction is on the recorded URL only -- the API still gets the query."""
+    recorder = Recorder(status_code=500, json_body={"error": "boom"})
+    with sync_client(recorder) as client:
+        with pytest.raises(ServerError):
+            call(client)
+
+    # Compared against the decoded params, because the wire form is
+    # percent-encoded ("+" -> "%2B", " " -> "+").
+    assert secret in dict(recorder.request.url.params).values()
+
+
+def test_error_url_keeps_the_path_it_dropped_the_query_from() -> None:
+    """Dropping the query must not cost the diagnostic value of the URL."""
+    recorder = Recorder(status_code=404, json_body={"error": "nope"})
+    with sync_client(recorder) as client:
+        with pytest.raises(NotFoundError) as caught:
+            client.parse_phone_number(SECRET_PHONE)
+
+    assert caught.value.url == "https://api.countrystatecity.in/v1/phone/parse"
+    assert caught.value.method == "GET"
+    assert "phone/parse" in str(caught.value.url)
+
+
+def test_error_url_drops_a_fragment_too() -> None:
+    """A base URL carrying a fragment must not leak it into the error either."""
+    recorder = Recorder(status_code=500, json_body={"error": "boom"})
+    with sync_client(recorder, base_url="https://api.example.test/v1#frag") as client:
+        with pytest.raises(ServerError) as caught:
+            client.get_countries()
+
+    assert "#" not in caught.value.url

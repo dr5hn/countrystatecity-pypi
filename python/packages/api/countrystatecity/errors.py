@@ -91,8 +91,11 @@ class APIStatusError(CountryStateCityError):
             Mostly empty on ``401``/``429``, where the API rejects the request
             before it sets those headers.
         method: HTTP method of the failed request.
-        url: Absolute URL of the failed request. Never contains the API key --
-            the key travels in the ``X-CSCAPI-KEY`` header only.
+        url: Scheme, host, and path of the failed request -- safe to log. The
+            query string and fragment are stripped, because query values are
+            caller data (``/phone/parse?number=`` is a phone number, ``?q=`` is
+            a search term) and exceptions end up in logs. The API key is never
+            in a URL at all; it travels in the ``X-CSCAPI-KEY`` header only.
     """
 
     def __init__(
@@ -169,6 +172,23 @@ class RateLimitError(APIStatusError):
     def period(self) -> Optional[str]:
         """Period that ran out: ``"daily"`` or ``"monthly"``."""
         return _as_str(self.details.get("period"))
+
+    @property
+    def reset_at(self) -> Optional[str]:
+        """When the exhausted period resets, as an ISO 8601 UTC timestamp.
+
+        The API computes this from the start of the current usage window --
+        the next UTC midnight for ``"daily"``, the first of the next month for
+        ``"monthly"`` -- and sends it as ``resetAt``, e.g.
+        ``"2026-08-23T00:00:00.000Z"``. Kept as the string the API sent rather
+        than parsed to a ``datetime``: this package adds no dependencies, and
+        ``datetime.fromisoformat`` did not accept a trailing ``Z`` before
+        Python 3.11. Parse it with your own date library when you need to
+        schedule against it.
+
+        ``None`` when the API did not report a reset time.
+        """
+        return _as_str(self.details.get("resetAt"))
 
     @property
     def tier(self) -> Optional[str]:

@@ -167,14 +167,16 @@ def test_endpoint_signatures_match_across_clients(name: str) -> None:
 
 
 def test_sync_returns_the_decoded_payload() -> None:
-    payload = [{"id": 101, "name": "India", "iso2": "IN"}]
+    # Production shape: `id` is a BIGINT column and the API serialises it as a
+    # string. See tests/test_types.py.
+    payload = [{"id": "101", "name": "India", "iso2": "IN"}]
     recorder = Recorder(json_body=payload)
     with sync_client(recorder) as client:
         assert client.get_countries() == payload
 
 
 def test_async_returns_the_decoded_payload() -> None:
-    payload = {"id": 101, "name": "India", "iso2": "IN"}
+    payload = {"id": "101", "name": "India", "iso2": "IN"}
     recorder = Recorder(json_body=payload)
     client = async_client(recorder)
     try:

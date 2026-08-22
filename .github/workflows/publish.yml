@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
     inputs:
       package:
-        description: 'Package directory to publish (e.g., countries, api)'
+        description: 'Package directory to publish, or a group (data = the seven offline packages, all = data + api)'
         required: true
         type: choice
         options:
@@ -24,11 +24,12 @@ on:
           - regions
           - postal_codes
           - api
+          - data
           - all
   workflow_call:
     inputs:
       package:
-        description: 'Package directory to publish (e.g., countries, or all)'
+        description: 'Package directory to publish, or a group: "data" (offline packages only) or "all" (data + api)'
         required: false
         type: string
         default: 'all'
@@ -37,6 +38,11 @@ on:
         required: true
 
 env:
+  # Two named groups. `data` is the seven offline snapshot packages, which are
+  # versioned in lockstep by an upstream data sync. `all` adds `api`
+  # (PyPI name `countrystatecity`), which ships no data and is versioned by
+  # hand -- a data-update release must call `data`, never `all`.
+  DATA_PACKAGES: '["countries","timezones","currencies","translations","phonecodes","regions","postal_codes"]'
   ALL_PACKAGES: '["countries","timezones","currencies","translations","phonecodes","regions","postal_codes","api"]'
 
 jobs:
@@ -57,6 +63,8 @@ jobs:
         run: |
           if [ "$INPUT" = "all" ]; then
             echo "packages=$ALL_PACKAGES" >> $GITHUB_OUTPUT
+          elif [ "$INPUT" = "data" ]; then
+            echo "packages=$DATA_PACKAGES" >> $GITHUB_OUTPUT
           elif [ -n "$INPUT" ]; then
             echo "packages=[\"$INPUT\"]" >> $GITHUB_OUTPUT
           else

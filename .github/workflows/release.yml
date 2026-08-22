@@ -9,8 +9,9 @@ on:
 # `api` package (PyPI name `countrystatecity`) is deliberately excluded: it
 # ships no data, so an upstream data sync does not change it. Version it by
 # hand in python/packages/api/pyproject.toml and countrystatecity/_version.py.
-# The publish job below still runs with `package: all`, which is harmless --
-# publishing skips any version already on PyPI.
+# The publish job below is called with `package: data`, the group that names
+# exactly those seven, so a data release can never reach the API client even
+# if the API version in the tree is ahead of what is on PyPI.
 jobs:
   release:
     name: Bump Version & Update Changelog
@@ -109,11 +110,11 @@ jobs:
           git push
 
   publish:
-    name: Publish all packages to PyPI
+    name: Publish the offline data packages to PyPI
     needs: release
     uses: ./.github/workflows/publish.yml
     with:
-      package: all
+      package: data
     secrets:
       PYPI_TOKEN: ${{ secrets.PYPI_TOKEN }}
     permissions:

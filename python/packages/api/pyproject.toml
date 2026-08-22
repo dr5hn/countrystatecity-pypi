@@ -13,6 +13,13 @@ authors = [
 maintainers = [
     {name = "dr5hn", email = "support@countrystatecity.in"}
 ]
+# setuptools deprecates this table in favour of the PEP 639 pair
+# `license = "ODbL-1.0"` + `license-files = ["LICENSE"]` (removal announced for
+# 2027-Feb-18). That spelling needs setuptools>=77, and setuptools 77 raised its
+# own floor to Python >=3.9 -- so adopting it would break an sdist install on
+# 3.8, which `requires-python = ">=3.8"` below still promises. Commit daba47c
+# reverted exactly this change on the data packages for the same reason. Switch
+# every package together when 3.8 is dropped.
 license = {file = "LICENSE"}
 keywords = [
     "countrystatecity",

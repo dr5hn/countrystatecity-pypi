@@ -10,6 +10,7 @@ from ._core import (
     DEFAULT_BASE_URL,
     DEFAULT_TIMEOUT,
     build_headers,
+    loggable_url,
     merge_headers,
     normalize_base_url,
     normalize_timeout,
@@ -19,7 +20,7 @@ from ._core import (
     translate_transport_error,
 )
 from ._endpoints import Endpoint, FieldSelection, Identifier
-from .errors import ValidationError
+from ._validation import request_path
 from .response import ApiResponse
 from .types import (
     City,
@@ -129,21 +130,21 @@ class CountryStateCity:
         need the plan, quota, and cache headers alongside the payload.
 
         Args:
-            path: Path relative to the base URL, starting with ``/``.
+            path: Path relative to the base URL, starting with ``/``. It must
+                stay under the base URL: ``//``, an embedded query or fragment,
+                and ``.``/``..`` segments are rejected.
             params: Query parameters. Values are URL-encoded by the HTTP layer.
 
         Returns:
             The decoded body plus plan, quota, and cache metadata.
 
         Raises:
-            ValidationError: If ``path`` is not a string starting with ``/``.
+            ValidationError: If ``path`` is not a string starting with ``/``, or
+                would resolve outside the base URL.
             APIConnectionError: If the request never reached the API.
             APIStatusError: If the API returned a non-2xx status.
         """
-        if not isinstance(path, str) or not path.startswith("/"):
-            raise ValidationError(
-                f"path must be a string starting with '/'; got {path!r}."
-            )
+        request_path(path)
         return self._send(Endpoint(path, dict(params or {})))
 
     def _send(self, endpoint: Endpoint) -> ApiResponse[Any]:
@@ -151,7 +152,9 @@ class CountryStateCity:
         request = self._client.build_request(
             "GET", endpoint.path, params=endpoint.params or None
         )
-        url = str(request.url)
+        # Recorded on any error instead of the full URL: the query string
+        # carries caller data such as ?number= and ?q=, and errors get logged.
+        url = loggable_url(request.url)
         try:
             response = self._client.send(request)
         except httpx.HTTPError as exc:

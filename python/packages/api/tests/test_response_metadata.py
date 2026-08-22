@@ -102,13 +102,13 @@ def test_missing_headers_degrade_to_none() -> None:
 def test_unparsable_quota_headers_do_not_break_the_response() -> None:
     """Metadata is diagnostic; a bad header must not fail a good response."""
     recorder = Recorder(
-        json_body=[{"id": 1}],
+        json_body=[{"id": "1"}],
         headers={"X-CSC-Daily-Used": "many", "X-CSC-Daily-Limit": "lots"},
     )
     with sync_client(recorder) as client:
         response = client.request("/countries")
 
-    assert response.data == [{"id": 1}]
+    assert response.data == [{"id": "1"}]
     assert response.meta.daily.used is None
     assert response.meta.daily.limit is None
 

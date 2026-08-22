@@ -5,8 +5,21 @@ describe the keys a response may contain without adding a validation layer.
 
 All of them are ``total=False`` on purpose. Which keys arrive depends on the
 caller's plan data-access level and on the ``fields`` query parameter, so no key
-is guaranteed present on every plan. Read optional keys with ``.get()``, or
-assert the ones your plan guarantees at your own boundary.
+is guaranteed present on every plan. ``total=False`` describes *presence* only:
+when a key is present, its declared type is what arrives. Read optional keys
+with ``.get()``, or assert the ones your plan guarantees at your own boundary.
+
+**Identifiers are strings, not integers.** Every geographic id, foreign id,
+``population``, and ``gdp`` is a 64-bit ``BIGINT`` in the API's database. The
+API serialises those with ``BigInt.prototype.toJSON``, which emits the decimal
+digits as a JSON *string* -- a bigint cannot round-trip through an IEEE-754
+double, so quoting it is the only lossless encoding. They are declared ``str``
+here to match. Compare them as strings, or convert with ``int()`` at your own
+boundary; do not assume ``country["id"] == 101``.
+
+``level`` (a plain ``INTEGER``), ``area_sq_km`` (a floating-point column), and
+``match_score`` (computed in the query) are ordinary JSON numbers and stay
+numeric here.
 
 Documented tier gating (see the API pricing page for the current table):
 
@@ -45,13 +58,17 @@ JsonDict = Dict[str, Any]
 
 
 class Country(TypedDict, total=False):
-    """A country record from ``/countries`` and related endpoints."""
+    """A country record from ``/countries`` and related endpoints.
 
-    id: int
+    ``id``, ``region_id``, ``subregion_id``, ``population``, and ``gdp`` are
+    ``BIGINT`` columns and arrive as decimal strings.
+    """
+
+    id: str
     name: str
-    iso2: str
-    iso3: str
-    phonecode: str
+    iso2: Optional[str]
+    iso3: Optional[str]
+    phonecode: Optional[str]
     capital: Optional[str]
     currency: Optional[str]
     native: Optional[str]
@@ -59,17 +76,17 @@ class Country(TypedDict, total=False):
     latitude: Optional[str]
     longitude: Optional[str]
     region: Optional[str]
-    region_id: Optional[int]
+    region_id: Optional[str]
     subregion: Optional[str]
-    subregion_id: Optional[int]
+    subregion_id: Optional[str]
     timezones: Optional[str]
     numeric_code: Optional[str]
     currency_name: Optional[str]
     currency_symbol: Optional[str]
     tld: Optional[str]
     nationality: Optional[str]
-    population: Optional[int]
-    gdp: Optional[int]
+    population: Optional[str]
+    gdp: Optional[str]
     area_sq_km: Optional[float]
     postal_code_format: Optional[str]
     postal_code_regex: Optional[str]
@@ -79,12 +96,16 @@ class Country(TypedDict, total=False):
 
 
 class State(TypedDict, total=False):
-    """A state, province, or comparable subdivision record."""
+    """A state, province, or comparable subdivision record.
 
-    id: int
+    ``id``, ``country_id``, ``parent_id``, and ``population`` are ``BIGINT``
+    columns and arrive as decimal strings. ``level`` is a plain integer.
+    """
+
+    id: str
     name: str
     iso2: Optional[str]
-    country_id: int
+    country_id: str
     country_code: str
     latitude: Optional[str]
     longitude: Optional[str]
@@ -93,49 +114,57 @@ class State(TypedDict, total=False):
     iso3166_2: Optional[str]
     type: Optional[str]
     level: Optional[int]
-    parent_id: Optional[int]
+    parent_id: Optional[str]
     native: Optional[str]
-    population: Optional[int]
+    population: Optional[str]
     translations: Optional[str]
     wikiDataId: Optional[str]
 
 
 class City(TypedDict, total=False):
-    """A city record."""
+    """A city record.
 
-    id: int
+    ``id``, ``state_id``, ``country_id``, ``parent_id``, and ``population`` are
+    ``BIGINT`` columns and arrive as decimal strings. ``level`` is a plain
+    integer.
+    """
+
+    id: str
     name: str
-    state_id: int
+    state_id: str
     state_code: str
-    country_id: int
+    country_id: str
     country_code: str
     latitude: str
     longitude: str
     timezone: Optional[str]
-    population: Optional[int]
+    population: Optional[str]
     type: Optional[str]
     level: Optional[int]
-    parent_id: Optional[int]
+    parent_id: Optional[str]
     native: Optional[str]
     translations: Optional[str]
     wikiDataId: Optional[str]
 
 
 class Region(TypedDict, total=False):
-    """A continental region record."""
+    """A continental region record. ``id`` is a ``BIGINT``-backed string."""
 
-    id: int
+    id: str
     name: str
     translations: Optional[str]
     wikiDataId: Optional[str]
 
 
 class Subregion(TypedDict, total=False):
-    """A geographic subregion within a region."""
+    """A geographic subregion within a region.
 
-    id: int
+    ``id`` and ``region_id`` are ``BIGINT``-backed strings.
+    """
+
+    id: str
     name: str
-    region_id: int
+    region_id: str
     translations: Optional[str]
     wikiDataId: Optional[str]
 
@@ -172,7 +201,7 @@ class CurrencyInfo(TypedDict, total=False):
     ``code`` when rendering a missing symbol.
     """
 
-    country: str
+    country: Optional[str]
     currency: CurrencyDetail
 
 
@@ -183,10 +212,10 @@ class DialCode(TypedDict, total=False):
     code, such as ``246`` for Barbados.
     """
 
-    country: str
+    country: Optional[str]
     dial_code: str
-    iso2: str
-    iso3: str
+    iso2: Optional[str]
+    iso3: Optional[str]
     area_code: str
 
 
@@ -198,33 +227,39 @@ class PhoneParsed(TypedDict, total=False):
     it should not be logged.
     """
 
-    country: str
+    country: Optional[str]
     dial_code: str
-    iso2: str
-    iso3: str
+    iso2: Optional[str]
+    iso3: Optional[str]
     national_number: str
     e164: str
     area_code: str
 
 
 class IsoCountry(TypedDict, total=False):
-    """A country record from the ISO 3166-1 lookup endpoint."""
+    """A country record from the ISO 3166-1 lookup endpoint.
 
-    id: int
+    ``id`` is a ``BIGINT``-backed string.
+    """
+
+    id: str
     name: str
-    iso2: str
-    iso3: str
+    iso2: Optional[str]
+    iso3: Optional[str]
     numeric_code: Optional[str]
 
 
 class IsoState(TypedDict, total=False):
-    """A state record from the ISO 3166-2 lookup endpoint."""
+    """A state record from the ISO 3166-2 lookup endpoint.
 
-    id: int
+    ``id`` and ``country_id`` are ``BIGINT``-backed strings.
+    """
+
+    id: str
     name: str
     iso2: Optional[str]
     iso3166_2: Optional[str]
-    country_id: int
+    country_id: str
     country_code: str
 
 
@@ -250,9 +285,14 @@ class FuzzyResult(TypedDict, total=False):
     :class:`State`, or :class:`City` depending on the ``type`` argument -- which
     is why ``fuzzy_search`` is typed as returning plain dicts. Cast to the
     entity type you searched for when you need static field checking.
+
+    ``id`` is the matched entity's ``BIGINT`` id and arrives as a decimal
+    string. ``match_score`` is computed per query and is an ordinary number.
+    ``country_name`` and ``state_name`` are added only for state and city
+    searches.
     """
 
-    id: int
+    id: str
     name: str
     match_score: float
     matched_alias: Optional[str]

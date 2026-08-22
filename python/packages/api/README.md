@@ -84,6 +84,7 @@ except PermissionDeniedError as exc:
     print(f"{exc.feature} requires an upgrade: {exc.upgrade_url}")
 except RateLimitError as exc:
     print(f"{exc.period} limit of {exc.limit} reached on the {exc.tier} plan")
+    print(f"Resets at {exc.reset_at}")     # ISO 8601 UTC, or None
     print(f"Raise it at {exc.upgrade_url}")
 except APITimeoutError:
     ...  # retry on your own schedule; see "No implicit retries" below
@@ -132,7 +133,7 @@ wrap yet.
 For unlimited plans, `daily.unlimited` is `True` and `limit`/`remaining` are
 `None`. On a `401` or `429` the API rejects the request before setting those
 headers, so metadata is empty there — a `RateLimitError`'s `.limit`, `.period`,
-and `.tier` come from the response body instead.
+`.tier`, and `.reset_at` come from the response body instead.
 
 ## Search, field selection, and sorting
 
@@ -217,15 +218,25 @@ Payloads are plain dicts. `countrystatecity.types` describes their shape with
 `TimezoneInfo`, `CurrencyInfo`, `DialCode`, `PhoneParsed`, `IsoCountry`,
 `IsoState`, `IsoConvert`, and `FuzzyResult`.
 
-Every field is optional, because which fields arrive depends on your plan's
-data-access level and on the `fields` parameter. Read anything outside your
-plan's guaranteed set with `.get()`:
+Every field is declared optional, because which fields arrive depends on your
+plan's data-access level and on the `fields` parameter. `total=False` describes
+presence, not value: when a key is there, its declared type is what you get.
+The type checker therefore treats *every* key as possibly missing, `id` and
+`name` included. Read the ones outside your plan's guaranteed set with `.get()`,
+and assert the ones your plan does guarantee at your own boundary:
 
 ```python
 country = csc.get_country("IN")
-name = country["name"]                     # always present
+name = country["name"]                     # present on every plan; a KeyError
+                                           # here means the API changed
 population = country.get("population")     # coordinates tier and above
 ```
+
+**Ids are strings.** Every id, foreign id, `population`, and `gdp` is a 64-bit
+`BIGINT` in the API's database, and the API serialises those as JSON strings —
+a bigint does not survive a round trip through a JavaScript number. So
+`country["id"] == "101"`, not `101`. Convert with `int()` where you need
+arithmetic. `level`, `area_sq_km`, and `match_score` are ordinary numbers.
 
 The package ships `py.typed`, so mypy and Pyright see these types with no stub
 package.
@@ -236,6 +247,18 @@ package.
 never in a URL. It does not appear in `repr(client)`, in exception messages, or
 in `APIStatusError.url`. Keep it in a server-side environment variable — never
 in browser code, a mobile app, or source control.
+
+**Errors are safe to log.** `APIStatusError.url` and every exception message
+carry the scheme, host, and path only — the query string and fragment are
+dropped. Query values are your data: `parse_phone_number()` sends a phone
+number and `q=` sends a search term, and a failure should not put either into
+your logs. The request itself is unaffected; only what the exception records is
+trimmed.
+
+**The `request()` escape hatch stays under the base URL.** `//host`, an
+embedded `?` or `#`, and `.`/`..` segments (including percent-encoded ones) are
+rejected with `ValidationError`, so a path built from untrusted input cannot
+walk out of `/v1` and reach another route.
 
 **Nothing happens at import.** Importing the package and constructing a client
 open no connections. The first request is the one you make.
