@@ -196,7 +196,7 @@ jobs:
           TWINE_USERNAME: __token__
           TWINE_PASSWORD: ${{ secrets.PYPI_TOKEN }}
         run: |
-          twine upload dist/*
+          twine upload --verbose dist/*
 
       - name: Create GitHub Release
         if: steps.check-version.outputs.published == 'false'
