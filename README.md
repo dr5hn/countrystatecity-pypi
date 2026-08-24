@@ -1,6 +1,8 @@
 # Country State City PyPI Packages
 
-Official, versioned Python packages for offline access to Country State City data with type hints and lazy loading.
+Official Python packages for Country State City data: a live API client for
+production, and versioned offline snapshots for development and repeatable
+builds. All of them are type-hinted and checked under `mypy --strict`.
 
 [![Python Version](https://img.shields.io/pypi/pyversions/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/)
 [![License](https://img.shields.io/badge/License-ODbL--1.0-blue.svg)](LICENSE)
@@ -17,6 +19,34 @@ Official, versioned Python packages for offline access to Country State City dat
 
 ## 📦 Available Packages
 
+### Official API client — the production path
+
+| Package | PyPI | Description |
+|---|---|---|
+| **[countrystatecity](./python/packages/api/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity)](https://pypi.org/project/countrystatecity/) | Official client for the Country State City API — sync + async, typed, structured errors |
+
+```bash
+pip install countrystatecity
+export CSC_API_KEY="your-api-key"   # free key: https://app.countrystatecity.in/
+```
+
+```python
+from countrystatecity import CountryStateCity
+
+csc = CountryStateCity()
+india = csc.get_country("IN")
+states = csc.get_states_of_country("IN")
+```
+
+Use this when you need data that is current rather than pinned, server-side
+search and filtering, field-selected responses, fuzzy matching, managed
+availability, or support.
+
+### Offline data packages — versioned snapshots
+
+No network, no key, no quota. Best for development, tests, air-gapped builds,
+and anything that must be reproducible.
+
 | Package | PyPI | Description |
 |---|---|---|
 | **[countrystatecity-countries](./python/packages/countries/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/) | 250 countries, 5,308 states, and 171,938 cities |
@@ -27,28 +57,35 @@ Official, versioned Python packages for offline access to Country State City dat
 | **[countrystatecity-regions](./python/packages/regions/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-regions)](https://pypi.org/project/countrystatecity-regions/) | Region and subregion associations for 250 countries |
 | **[countrystatecity-postal-codes](./python/packages/postal_codes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-postal-codes)](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 125 countries |
 
-> **Note:** There is no bare `countrystatecity` package on PyPI. Always install with the suffix (`-countries`, `-timezones`, `-currencies`, `-translations`, `-phonecodes`, `-regions`, `-postal-codes`).
+> **Note:** The bare `countrystatecity` package is the API client. The offline
+> data packages always carry a suffix (`-countries`, `-timezones`, `-currencies`,
+> `-translations`, `-phonecodes`, `-regions`, `-postal-codes`).
 
 ## From offline prototype to production
 
-These packages provide versioned snapshots for offline use, development, and
-repeatable builds. For production applications that need regularly updated data,
-server-side search and filtering, field-selected responses, or managed availability
-and support, use the Country State City API.
+The offline packages are versioned snapshots: the data they carry is frozen at
+release time. Production applications that need regularly updated data,
+server-side search and filtering, field-selected responses, or managed
+availability and support should use the Country State City API through the
+official `countrystatecity` client.
 
 [Get a free API key](https://app.countrystatecity.in/?utm_source=github&utm_medium=repository&utm_campaign=python_packages) ·
 [Read the API docs](https://docs.countrystatecity.in/api/introduction) ·
+[Try the playground](https://playground.countrystatecity.in/) ·
 [Compare plans](https://countrystatecity.in/pricing/?utm_source=github&utm_medium=repository&utm_campaign=python_packages) ·
 [Migration guide](./docs/MIGRATING_TO_API.md)
 
 API keys must stay in server-side environment variables, never in browser code or
-source control.
+source control. The client sends the key only in the `X-CSCAPI-KEY` header and
+keeps it out of URLs, `repr()`, and exception messages.
 
 ## 🚀 Installation
 
-Install only what you need:
+Install the API client, the offline packages you need, or both:
 
 ```bash
+pip install countrystatecity
+
 pip install countrystatecity-countries
 pip install countrystatecity-timezones
 pip install countrystatecity-currencies
@@ -59,6 +96,59 @@ pip install countrystatecity-postal-codes
 ```
 
 ## 📖 Usage
+
+### API client (`countrystatecity`)
+
+```python
+from countrystatecity import CountryStateCity, RateLimitError
+
+csc = CountryStateCity()          # reads CSC_API_KEY
+
+# Traversal
+india = csc.get_country("IN")
+states = csc.get_states_of_country("IN")
+cities = csc.get_cities_of_state("IN", "MH")
+
+# Paid-plan query features
+filtered_cities = csc.get_cities_of_state("IN", "MH", q="pune")
+compact = csc.get_countries(fields=["id", "name", "iso2", "emoji"])
+biggest = csc.get_countries(sort="population:desc")
+hits = csc.fuzzy_search("bangalor", entity="city", country="IN")
+
+# Lookups
+csc.get_timezone_of_country("IN")
+csc.get_currency_of_country("IN")
+csc.parse_phone_number("+14155552671")
+csc.convert_country_code("US", from_format="iso2", to_format="iso3")
+
+# Plan and quota headers, without a second call
+response = csc.request("/countries")
+print(response.meta.plan, response.meta.daily.remaining, response.meta.cache)
+
+try:
+    csc.get_country("IN")
+except RateLimitError as exc:
+    print(f"{exc.period} limit of {exc.limit} reached — {exc.upgrade_url}")
+```
+
+Async, same surface:
+
+```python
+import asyncio
+from countrystatecity import AsyncCountryStateCity
+
+async def main() -> None:
+    async with AsyncCountryStateCity() as csc:
+        country, states = await asyncio.gather(
+            csc.get_country("IN"),
+            csc.get_states_of_country("IN"),
+        )
+
+asyncio.run(main())
+```
+
+See the [client README](./python/packages/api/README.md) for the full method
+table and error reference.
 
 ### Countries
 
@@ -226,6 +316,20 @@ postcodes = get_postcodes_of_country("AD")
 
 ## ✨ Features
 
+### API client
+
+- ✅ **Sync and async** clients with identical method names and signatures
+- ✅ **Typed payloads** via `TypedDict`, plus `py.typed`
+- ✅ **Structured errors** for transport failures and 400/401/403/404/429/5xx,
+  preserving `feature`, `upgradeUrl`, `tier`, `limit`, and `period`
+- ✅ **Plan and quota metadata** from response headers
+- ✅ **Input validated locally** against the API's own rules, so malformed calls
+  never spend quota
+- ✅ **Finite timeouts**, no implicit retries, no telemetry
+- ✅ **One dependency** (httpx)
+
+### Offline packages
+
 - ✅ **Type-safe** with Pydantic models and mypy strict mode
 - ✅ **Lazy loading** for minimal memory footprint
 - ✅ **250 countries** with metadata
@@ -247,6 +351,7 @@ postcodes = get_postcodes_of_country("AD")
 countrystatecity-pypi/
 ├── python/
 │   └── packages/
+│       ├── api/           # countrystatecity          (API client)
 │       ├── countries/     # countrystatecity-countries
 │       ├── timezones/     # countrystatecity-timezones
 │       ├── currencies/    # countrystatecity-currencies
@@ -259,16 +364,27 @@ countrystatecity-pypi/
     └── workflows/
         ├── python-ci.yml    # CI — tests, type check, lint
         ├── publish.yml      # Publish to PyPI
-        ├── release.yml      # Version bump + changelog
+        ├── release.yml      # Version bump + changelog (data packages)
         └── update-data.yml  # Weekly data sync
 ```
+
+Each package's import name is derived from its `[project].name` in
+`pyproject.toml` (hyphens become underscores), so the data packages import as
+`countrystatecity_<name>` while the API client imports as the bare
+`countrystatecity` namespace. CI and the publish workflow read it from there
+rather than assuming a prefix.
+
+Version bumps differ too: `release.yml` moves the seven data packages in
+lockstep on every upstream data sync, while `countrystatecity` is versioned by
+hand — it ships no data, so a data sync does not change it.
 
 ## 🛠️ Development
 
 ```bash
 git clone https://github.com/dr5hn/countrystatecity-pypi.git
 
-# Install a package in dev mode (replace 'countries' with any package)
+# Install a package in dev mode (replace 'countries' with any package
+# directory; use 'api' for the client)
 cd python/packages/countries
 pip install -e ".[dev]"
 
@@ -284,11 +400,26 @@ black countrystatecity_countries/ tests/
 isort countrystatecity_countries/ tests/
 ```
 
+For the API client the module name is `countrystatecity`:
+
+```bash
+cd python/packages/api
+pip install -e ".[dev]"
+pytest --cov=countrystatecity --cov-report=term
+mypy countrystatecity/ --strict
+ruff check countrystatecity/ tests/
+black --check countrystatecity/ tests/
+isort --check countrystatecity/ tests/
+```
+
+Its tests mock every HTTP call, so no API key is needed to run them.
+
 ## 📊 Technology Stack
 
 | Component | Technology |
 |---|---|
-| Type System | Pydantic |
+| Type System | Pydantic (offline packages), TypedDict (API client) |
+| HTTP | httpx (API client only) |
 | Testing | pytest |
 | Type Checking | mypy (strict) |
 | Formatting | black + isort |

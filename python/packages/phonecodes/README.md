@@ -13,7 +13,17 @@ Official Python package for international phone/dialing codes — 250 entries wi
 
 This package provides a versioned offline snapshot. For regularly updated data,
 server-side search and filtering, field-selected responses, or managed availability
-and support, use the Country State City API.
+and support, use the Country State City API through its official Python client:
+
+```bash
+pip install countrystatecity
+```
+
+```python
+from countrystatecity import CountryStateCity
+
+csc = CountryStateCity()          # reads CSC_API_KEY
+```
 
 [Get a free API key](https://app.countrystatecity.in/?utm_source=pypi&utm_medium=package&utm_campaign=python_packages&utm_content=phonecodes) ·
 [API docs](https://docs.countrystatecity.in/api/introduction) ·
@@ -90,6 +100,7 @@ ODbL-1.0 — see [LICENSE](LICENSE).
 
 | Package | Description |
 |---|---|
+| [countrystatecity](https://pypi.org/project/countrystatecity/) | **Official API client** — live data, sync + async, typed |
 | [countrystatecity-countries](https://pypi.org/project/countrystatecity-countries/) | 250 countries, 5,308 states, 171,938 cities |
 | [countrystatecity-timezones](https://pypi.org/project/countrystatecity-timezones/) | 432 IANA timezones with country associations and time conversion |
 | [countrystatecity-currencies](https://pypi.org/project/countrystatecity-currencies/) | 249 country/currency associations |

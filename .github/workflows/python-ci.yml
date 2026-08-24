@@ -18,7 +18,12 @@ jobs:
       fail-fast: false
       matrix:
         python-version: ['3.8', '3.9', '3.10', '3.11', '3.12']
-        package: [countries, timezones, currencies, translations, phonecodes, regions, postal_codes]
+        # Directory names under python/packages. The distribution and import
+        # names are read from each package's pyproject.toml rather than derived
+        # from this value: the offline data packages import as
+        # countrystatecity_<dir>, while the API client (dir "api") imports as
+        # the bare "countrystatecity" namespace.
+        package: [countries, timezones, currencies, translations, phonecodes, regions, postal_codes, api]
 
     steps:
       - uses: actions/checkout@v4
@@ -28,6 +33,20 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
 
+      - name: Resolve package identity
+        id: pkg
+        working-directory: python/packages/${{ matrix.package }}
+        run: |
+          DIST=$(sed -n 's/^name = "\(.*\)"$/\1/p' pyproject.toml | head -1)
+          if [ -z "$DIST" ]; then
+            echo "Could not read [project].name from pyproject.toml" >&2
+            exit 1
+          fi
+          MODULE=$(echo "$DIST" | tr '-' '_')
+          echo "dist=$DIST" >> "$GITHUB_OUTPUT"
+          echo "module=$MODULE" >> "$GITHUB_OUTPUT"
+          echo "Resolved $DIST -> import $MODULE"
+
       - name: Install dependencies
         working-directory: python/packages/${{ matrix.package }}
         run: |
@@ -36,27 +55,27 @@ jobs:
       - name: Run tests
         working-directory: python/packages/${{ matrix.package }}
         run: |
-          pytest --cov=countrystatecity_${{ matrix.package }} --cov-report=xml --cov-report=term
+          pytest --cov=${{ steps.pkg.outputs.module }} --cov-report=xml --cov-report=term
 
       - name: Type check with mypy
         working-directory: python/packages/${{ matrix.package }}
         run: |
-          mypy countrystatecity_${{ matrix.package }}/ --strict
+          mypy ${{ steps.pkg.outputs.module }}/ --strict
 
       - name: Lint with ruff
         working-directory: python/packages/${{ matrix.package }}
         run: |
-          ruff check countrystatecity_${{ matrix.package }}/ tests/
+          ruff check ${{ steps.pkg.outputs.module }}/ tests/
 
       - name: Check code formatting with black
         working-directory: python/packages/${{ matrix.package }}
         run: |
-          black --check countrystatecity_${{ matrix.package }}/ tests/
+          black --check ${{ steps.pkg.outputs.module }}/ tests/
 
       - name: Check import sorting with isort
         working-directory: python/packages/${{ matrix.package }}
         run: |
-          isort --check countrystatecity_${{ matrix.package }}/ tests/
+          isort --check ${{ steps.pkg.outputs.module }}/ tests/
 
       - name: Upload coverage to Codecov
         if: matrix.python-version == '3.12'

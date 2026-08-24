@@ -4,6 +4,14 @@ This directory contains official Python packages for the [countries-states-citie
 
 ## 📦 Available Packages
 
+### Official API client
+
+| Package | PyPI | Description |
+|---|---|---|
+| **[countrystatecity](./packages/api/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity)](https://pypi.org/project/countrystatecity/) | Official client for the Country State City API — sync + async, typed, structured errors |
+
+### Offline data packages
+
 | Package | PyPI | Description |
 |---|---|---|
 | **[countrystatecity-countries](./packages/countries/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/) | 250 countries, 5,308 states, 171,938 cities |
@@ -16,20 +24,24 @@ This directory contains official Python packages for the [countries-states-citie
 
 ## From offline prototype to production
 
-The packages are versioned offline snapshots. Production applications can use the
-managed API for regularly updated data, search, filtering, smaller responses, and
+The `countrystatecity-*` packages are versioned offline snapshots. Production
+applications should use the managed API through the official `countrystatecity`
+client for regularly updated data, search, filtering, smaller responses, and
 support.
 
 [Get a free API key](https://app.countrystatecity.in/?utm_source=github&utm_medium=repository&utm_campaign=python_packages) ·
 [API documentation](https://docs.countrystatecity.in/api/introduction) ·
+[Playground](https://playground.countrystatecity.in/) ·
 [Pricing](https://countrystatecity.in/pricing/?utm_source=github&utm_medium=repository&utm_campaign=python_packages) ·
 [Migration guide](../docs/MIGRATING_TO_API.md)
 
 ## 🚀 Installation
 
-Install only what you need:
+Install the API client, the offline packages you need, or both:
 
 ```bash
+pip install countrystatecity
+
 pip install countrystatecity-countries
 pip install countrystatecity-timezones
 pip install countrystatecity-currencies
@@ -44,6 +56,7 @@ pip install countrystatecity-postal-codes
 ```
 python/
 └── packages/
+    ├── api/            # countrystatecity          (API client)
     ├── countries/      # countrystatecity-countries
     ├── timezones/      # countrystatecity-timezones
     ├── currencies/     # countrystatecity-currencies
@@ -53,10 +66,17 @@ python/
     └── postal_codes/   # countrystatecity-postal-codes
 ```
 
+A package's import name comes from its `[project].name` in `pyproject.toml` with
+hyphens replaced by underscores. The data packages import as
+`countrystatecity_<name>`; the API client imports as the bare `countrystatecity`
+namespace. CI and the publish workflow read it from `pyproject.toml` rather than
+assuming a prefix.
+
 ## 🛠️ Development
 
 ```bash
-# Install a package in dev mode (replace 'countries' with any package)
+# Install a package in dev mode (replace 'countries' with any package
+# directory; use 'api' for the client)
 cd packages/countries
 pip install -e ".[dev]"
 
@@ -72,11 +92,23 @@ black countrystatecity_countries/ tests/
 isort countrystatecity_countries/ tests/
 ```
 
+For the API client, substitute the module name `countrystatecity`:
+
+```bash
+cd packages/api
+pip install -e ".[dev]"
+pytest --cov=countrystatecity --cov-report=term
+mypy countrystatecity/ --strict
+```
+
+Its tests mock every HTTP call, so no API key is needed to run them.
+
 ## 📊 Technology Stack
 
 | Component | Technology |
 |---|---|
-| Type System | Pydantic |
+| Type System | Pydantic (offline packages), TypedDict (API client) |
+| HTTP | httpx (API client only) |
 | Testing | pytest |
 | Type Checking | mypy (strict) |
 | Formatting | black + isort |

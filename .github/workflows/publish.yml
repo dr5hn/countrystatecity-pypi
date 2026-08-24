@@ -5,11 +5,14 @@ on:
     branches: [main, master]
     paths:
       - 'python/packages/*/pyproject.toml'
+      # Offline data packages import as countrystatecity_<name>; the API client
+      # imports as the bare countrystatecity namespace.
       - 'python/packages/*/countrystatecity_*/**'
+      - 'python/packages/*/countrystatecity/**'
   workflow_dispatch:
     inputs:
       package:
-        description: 'Package to publish (e.g., countries)'
+        description: 'Package directory to publish, or a group (data = the seven offline packages, all = data + api)'
         required: true
         type: choice
         options:
@@ -20,17 +23,27 @@ on:
           - phonecodes
           - regions
           - postal_codes
+          - api
+          - data
           - all
   workflow_call:
     inputs:
       package:
-        description: 'Package to publish (e.g., countries, or all)'
+        description: 'Package directory to publish, or a group: "data" (offline packages only) or "all" (data + api)'
         required: false
         type: string
         default: 'all'
     secrets:
       PYPI_TOKEN:
         required: true
+
+env:
+  # Two named groups. `data` is the seven offline snapshot packages, which are
+  # versioned in lockstep by an upstream data sync. `all` adds `api`
+  # (PyPI name `countrystatecity`), which ships no data and is versioned by
+  # hand -- a data-update release must call `data`, never `all`.
+  DATA_PACKAGES: '["countries","timezones","currencies","translations","phonecodes","regions","postal_codes"]'
+  ALL_PACKAGES: '["countries","timezones","currencies","translations","phonecodes","regions","postal_codes","api"]'
 
 jobs:
   prepare:
@@ -45,23 +58,33 @@ jobs:
 
       - name: Resolve package list
         id: resolve
+        env:
+          INPUT: ${{ inputs.package }}
         run: |
-          INPUT="${{ inputs.package }}"
           if [ "$INPUT" = "all" ]; then
-            echo 'packages=["countries","timezones","currencies","translations","phonecodes","regions","postal_codes"]' >> $GITHUB_OUTPUT
+            echo "packages=$ALL_PACKAGES" >> $GITHUB_OUTPUT
+          elif [ "$INPUT" = "data" ]; then
+            echo "packages=$DATA_PACKAGES" >> $GITHUB_OUTPUT
           elif [ -n "$INPUT" ]; then
             echo "packages=[\"$INPUT\"]" >> $GITHUB_OUTPUT
           else
             # Push trigger: only publish packages whose files actually changed
             PKGS=""
-            for pkg in countries timezones currencies translations phonecodes regions postal_codes; do
-              if git diff --name-only HEAD~1 HEAD -- "python/packages/$pkg/" | grep -q .; then
+            for pkg in countries timezones currencies translations phonecodes regions postal_codes api; do
+              if [ "$pkg" = "api" ]; then
+                MODULE="countrystatecity"
+              else
+                MODULE="countrystatecity_$pkg"
+              fi
+              if git diff --name-only HEAD~1 HEAD -- \
+                "python/packages/$pkg/pyproject.toml" \
+                "python/packages/$pkg/$MODULE/" | grep -q .; then
                 PKGS="${PKGS}\"${pkg}\","
               fi
             done
             PKGS="[${PKGS%,}]"
             if [ "$PKGS" = "[]" ]; then
-              PKGS='["countries","timezones","currencies","translations","phonecodes","regions","postal_codes"]'
+              PKGS="$ALL_PACKAGES"
             fi
             echo "packages=$PKGS" >> $GITHUB_OUTPUT
           fi
@@ -88,6 +111,20 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Resolve package identity
+        id: pkg
+        working-directory: python/packages/${{ matrix.package }}
+        run: |
+          DIST=$(sed -n 's/^name = "\(.*\)"$/\1/p' pyproject.toml | head -1)
+          if [ -z "$DIST" ]; then
+            echo "Could not read [project].name from pyproject.toml" >&2
+            exit 1
+          fi
+          MODULE=$(echo "$DIST" | tr '-' '_')
+          echo "dist=$DIST" >> "$GITHUB_OUTPUT"
+          echo "module=$MODULE" >> "$GITHUB_OUTPUT"
+          echo "Resolved $DIST -> import $MODULE"
+
       - name: Install build tools
         run: |
           pip install build twine
@@ -100,19 +137,19 @@ jobs:
       - name: Run tests
         working-directory: python/packages/${{ matrix.package }}
         run: |
-          pytest --cov=countrystatecity_${{ matrix.package }} --cov-report=term
+          pytest --cov=${{ steps.pkg.outputs.module }} --cov-report=term
 
       - name: Type check
         working-directory: python/packages/${{ matrix.package }}
         run: |
-          mypy countrystatecity_${{ matrix.package }}/ --strict
+          mypy ${{ steps.pkg.outputs.module }}/ --strict
 
       - name: Lint
         working-directory: python/packages/${{ matrix.package }}
         run: |
-          ruff check countrystatecity_${{ matrix.package }}/ tests/
-          black --check countrystatecity_${{ matrix.package }}/ tests/
-          isort --check countrystatecity_${{ matrix.package }}/ tests/
+          ruff check ${{ steps.pkg.outputs.module }}/ tests/
+          black --check ${{ steps.pkg.outputs.module }}/ tests/
+          isort --check ${{ steps.pkg.outputs.module }}/ tests/
 
       - name: Get package version
         id: get-version
@@ -125,7 +162,7 @@ jobs:
       - name: Check if version already published
         id: check-version
         env:
-          PACKAGE_NAME: countrystatecity-${{ matrix.package }}
+          PACKAGE_NAME: ${{ steps.pkg.outputs.dist }}
           VERSION: ${{ steps.get-version.outputs.version }}
         run: |
           echo "Checking if $PACKAGE_NAME version $VERSION is published..."
@@ -166,15 +203,15 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ matrix.package }}-v${{ steps.get-version.outputs.version }}
-          name: countrystatecity-${{ matrix.package }} v${{ steps.get-version.outputs.version }}
+          name: ${{ steps.pkg.outputs.dist }} v${{ steps.get-version.outputs.version }}
           body: |
-            ## countrystatecity-${{ matrix.package }} v${{ steps.get-version.outputs.version }}
+            ## ${{ steps.pkg.outputs.dist }} v${{ steps.get-version.outputs.version }}
 
-            Published to PyPI: https://pypi.org/project/countrystatecity-${{ matrix.package }}/
+            Published to PyPI: https://pypi.org/project/${{ steps.pkg.outputs.dist }}/
 
             ### Installation
             ```bash
-            pip install countrystatecity-${{ matrix.package }}
+            pip install ${{ steps.pkg.outputs.dist }}
             ```
 
             See the [README](https://github.com/dr5hn/countrystatecity-pypi/blob/main/python/packages/${{ matrix.package }}/README.md) for full documentation.

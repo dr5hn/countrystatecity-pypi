@@ -50,6 +50,23 @@ This will install:
 - black, isort (code formatting)
 - ruff (linting)
 
+### Package and module names
+
+The examples below use the `countries` package. Every other package works the
+same way — substitute its directory under `python/packages/` and its import
+name. The import name is the package's `[project].name` from `pyproject.toml`
+with hyphens replaced by underscores:
+
+| Directory | Distribution | Import name |
+|---|---|---|
+| `countries` … `postal_codes` | `countrystatecity-<name>` | `countrystatecity_<name>` |
+| `api` | `countrystatecity` | `countrystatecity` |
+
+The `api` package is the official API client. It depends on httpx instead of
+pydantic, and its tests mock every HTTP call, so no API key is needed to run
+them. It is versioned by hand: the weekly data sync bumps only the seven
+offline data packages.
+
 ## Making Changes
 
 ### 1. Create a Branch
