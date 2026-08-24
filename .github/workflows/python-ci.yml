@@ -36,13 +36,19 @@ jobs:
       - name: Resolve package identity
         id: pkg
         working-directory: python/packages/${{ matrix.package }}
+        env:
+          PACKAGE_DIR: ${{ matrix.package }}
         run: |
           DIST=$(sed -n 's/^name = "\(.*\)"$/\1/p' pyproject.toml | head -1)
           if [ -z "$DIST" ]; then
             echo "Could not read [project].name from pyproject.toml" >&2
             exit 1
           fi
-          MODULE=$(echo "$DIST" | tr '-' '_')
+          if [ "$PACKAGE_DIR" = "api" ]; then
+            MODULE="countrystatecity"
+          else
+            MODULE=$(echo "$DIST" | tr '-' '_')
+          fi
           echo "dist=$DIST" >> "$GITHUB_OUTPUT"
           echo "module=$MODULE" >> "$GITHUB_OUTPUT"
           echo "Resolved $DIST -> import $MODULE"

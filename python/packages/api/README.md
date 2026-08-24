@@ -1,7 +1,7 @@
-# countrystatecity
+# countrystatecity-api
 
-[![PyPI](https://img.shields.io/pypi/v/countrystatecity)](https://pypi.org/project/countrystatecity/)
-[![Python Version](https://img.shields.io/pypi/pyversions/countrystatecity)](https://pypi.org/project/countrystatecity/)
+[![PyPI](https://img.shields.io/pypi/v/countrystatecity-api)](https://pypi.org/project/countrystatecity-api/)
+[![Python Version](https://img.shields.io/pypi/pyversions/countrystatecity-api)](https://pypi.org/project/countrystatecity-api/)
 [![License](https://img.shields.io/badge/License-ODbL--1.0-blue.svg)](LICENSE)
 [![Type Checked](https://img.shields.io/badge/type--checked-mypy-blue)](https://mypy.readthedocs.io/)
 
@@ -12,7 +12,7 @@ payloads, and structured errors.
 ## 60 seconds to your first request
 
 ```bash
-pip install countrystatecity
+pip install countrystatecity-api
 ```
 
 [Create a free API key](https://app.countrystatecity.in/?utm_source=pypi&utm_medium=package&utm_campaign=python_packages&utm_content=api_client)

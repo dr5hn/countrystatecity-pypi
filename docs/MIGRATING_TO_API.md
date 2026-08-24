@@ -7,12 +7,13 @@ Country State City API when you need regularly updated data, server-side search
 or filtering, field-selected responses, fuzzy matching, managed availability, or
 support.
 
-The shortest path is the official client, `countrystatecity`.
+The shortest path is the official client, `countrystatecity-api` (imported as
+`countrystatecity`).
 
 ## 1. Install the client and get a key
 
 ```bash
-pip install countrystatecity
+pip install countrystatecity-api
 ```
 
 [Create a free API key](https://app.countrystatecity.in/?utm_source=github&utm_medium=migration_guide&utm_campaign=python_packages),

@@ -145,11 +145,11 @@ def test_version_matches_pyproject() -> None:
     assert match.group(1) == __version__
 
 
-def test_distribution_name_is_the_bare_namespace() -> None:
+def test_distribution_name_identifies_the_api_client() -> None:
     pyproject = Path(__file__).resolve().parents[1] / "pyproject.toml"
     match = re.search(r'^name = "(.+?)"$', pyproject.read_text(), re.MULTILINE)
     assert match is not None
-    assert match.group(1) == "countrystatecity"
+    assert match.group(1) == "countrystatecity-api"
 
 
 def test_py_typed_marker_ships_with_the_package() -> None:

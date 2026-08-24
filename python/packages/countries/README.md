@@ -16,7 +16,7 @@ server-side search and filtering, field-selected responses, or managed availabil
 and support, use the Country State City API through its official Python client:
 
 ```bash
-pip install countrystatecity
+pip install countrystatecity-api
 ```
 
 ```python
@@ -400,7 +400,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 | Package | Description |
 |---|---|
-| [countrystatecity](https://pypi.org/project/countrystatecity/) | **Official API client** — live data, sync + async, typed |
+| [countrystatecity-api](https://pypi.org/project/countrystatecity-api/) | **Official API client** — live data, sync + async, typed |
 | [countrystatecity-timezones](https://pypi.org/project/countrystatecity-timezones/) | 432 IANA timezones with country associations and time conversion |
 | [countrystatecity-currencies](https://pypi.org/project/countrystatecity-currencies/) | 249 country/currency associations |
 | [countrystatecity-translations](https://pypi.org/project/countrystatecity-translations/) | 4,724 translations in 19 languages |
