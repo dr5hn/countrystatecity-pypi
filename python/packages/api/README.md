@@ -248,12 +248,13 @@ never in a URL. It does not appear in `repr(client)`, in exception messages, or
 in `APIStatusError.url`. Keep it in a server-side environment variable — never
 in browser code, a mobile app, or source control.
 
-**Errors are safe to log.** `APIStatusError.url` and every exception message
-carry the scheme, host, and path only — the query string and fragment are
-dropped. Query values are your data: `parse_phone_number()` sends a phone
-number and `q=` sends a search term, and a failure should not put either into
-your logs. The request itself is unaffected; only what the exception records is
-trimmed.
+**Request failures are safe to log.** `APIStatusError.url` and transport error
+messages carry the scheme, host, and path only — the query string and fragment
+are dropped. Raw-path and query-parameter validation errors do not repeat the
+rejected input. Query values are your data: `parse_phone_number()` sends a
+phone number and `q=` sends a search term, and a failure should not put either
+into your logs. The request itself is unaffected; only what the exception
+records is trimmed.
 
 **The `request()` escape hatch stays under the base URL.** `//host`, an
 embedded `?` or `#`, and `.`/`..` segments (including percent-encoded ones) are

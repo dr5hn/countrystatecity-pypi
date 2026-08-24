@@ -7,7 +7,7 @@ This package is versioned independently of the offline `countrystatecity-*`
 data packages: it ships no data, so the weekly upstream data sync does not
 change it.
 
-## [0.1.0] - 2026-08-22
+## [0.1.0] - 2026-08-24
 
 ### Added
 - First release of the official Python client for the Country State City API.
@@ -37,6 +37,8 @@ change it.
   rules, with percent-encoded path segments. The `request()` escape hatch also
   refuses paths that would resolve outside the base URL: `//host`, an embedded
   query or fragment, and `.`/`..` segments including percent-encoded spellings.
+- Construction rejects malformed base URLs and header mappings before httpx
+  sees them. Raw path and query-parameter validation does not echo caller data.
 - Finite request timeouts by default (30 seconds); disabling the timeout is
   refused.
 

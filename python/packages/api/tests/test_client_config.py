@@ -137,6 +137,36 @@ def test_api_key_cannot_be_smuggled_through_headers(header: str) -> None:
     assert "api_key=" in str(caught.value)
 
 
+@pytest.mark.parametrize("client_cls", CLIENTS, ids=CLIENT_IDS)
+@pytest.mark.parametrize(
+    "headers",
+    [
+        [("X-Test", "value")],
+        {1: "value"},
+        {b"X-CSCAPI-KEY": b"other-key"},
+        {"X-Test": 1},
+        {"X-Bad\r\nInjected": "value"},
+        {"X-Test": "value\r\nInjected: yes"},
+    ],
+    ids=[
+        "not-a-mapping",
+        "non-string-name",
+        "bytes-key-override",
+        "non-string-value",
+        "newline-name",
+        "newline-value",
+    ],
+)
+def test_invalid_extra_headers_are_rejected_without_echoing_values(
+    client_cls: Any, headers: Any
+) -> None:
+    sentinel = "Injected"
+    with pytest.raises(ConfigurationError) as caught:
+        client_cls(api_key=TEST_API_KEY, headers=headers)
+
+    assert sentinel not in str(caught.value)
+
+
 def test_api_key_is_never_in_the_request_url() -> None:
     recorder = Recorder(json_body=[])
     with sync_client(recorder) as client:
@@ -167,6 +197,40 @@ def test_default_base_url_is_production() -> None:
 def test_unusable_base_url_is_rejected(bad_url: str) -> None:
     with pytest.raises(ConfigurationError):
         CountryStateCity(api_key=TEST_API_KEY, base_url=bad_url)
+
+
+@pytest.mark.parametrize("client_cls", CLIENTS, ids=CLIENT_IDS)
+@pytest.mark.parametrize(
+    "bad_url",
+    [
+        "https://user:SENTINEL@example.test/v1",
+        "https://example.test:abc/v1",
+        "https://example.test/v1?token=SENTINEL",
+        "https://example.test/v1#SENTINEL",
+        "https://example.test/\nSENTINEL",
+        "https://[invalid/v1",
+    ],
+    ids=["credentials", "bad-port", "query", "fragment", "control", "bad-ipv6"],
+)
+def test_sensitive_or_malformed_base_urls_are_rejected_without_echoing_values(
+    client_cls: Any, bad_url: str
+) -> None:
+    with pytest.raises(ConfigurationError) as caught:
+        client_cls(api_key=TEST_API_KEY, base_url=bad_url)
+
+    assert "SENTINEL" not in str(caught.value)
+
+
+@pytest.mark.parametrize(
+    "base_url",
+    ["http://localhost:8000/v1", "https://example.test/custom/root"],
+)
+def test_valid_custom_base_urls_are_accepted(base_url: str) -> None:
+    recorder = Recorder(json_body=[])
+    with sync_client(recorder, base_url=base_url) as client:
+        client.get_countries()
+
+    assert str(recorder.request.url).startswith(base_url + "/")
 
 
 def test_trailing_slashes_are_normalised() -> None:

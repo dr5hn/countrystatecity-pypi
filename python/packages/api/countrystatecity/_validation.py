@@ -20,13 +20,14 @@ import re
 
 # Two Sequences on purpose: the typing one is subscriptable in annotations on
 # Python 3.8, the collections.abc one is what isinstance() accepts.
+from collections.abc import Mapping as _AbcMapping
 from collections.abc import Sequence as _AbcSequence
-from typing import Iterable, List, Optional, Sequence, Union
+from typing import Any, Dict, Iterable, List, Mapping, Optional, Sequence, Union
 from urllib.parse import quote, unquote
 
 from .errors import ValidationError
 
-__all__ = ["quote_segment", "request_path"]
+__all__ = ["quote_segment", "request_params", "request_path"]
 
 #: Largest identifier the API accepts for countries, regions, and subregions.
 MAX_NUMERIC_ID = 999_999
@@ -112,29 +113,69 @@ def request_path(value: str, *, name: str = "path") -> str:
             percent-encoded spellings.
     """
     if not isinstance(value, str) or not value.startswith("/"):
-        raise ValidationError(
-            f"{name} must be a string starting with '/'; got {value!r}."
-        )
+        raise ValidationError(f"{name} must be a string starting with '/'.")
     if value.startswith("//"):
         raise ValidationError(
             f"{name} must start with a single '/'; a leading '//' is read as a "
-            f"protocol-relative URL to another host. Got {value!r}."
+            "protocol-relative URL to another host."
         )
     for character in ("?", "#"):
         if character in value:
             raise ValidationError(
                 f"{name} must not contain {character!r}; pass query parameters "
-                f"as params={{...}} instead. Got {value!r}."
+                "as params={...} instead."
             )
     for segment in value.split("/"):
         decoded = _decode_segment(segment)
         if decoded in _TRAVERSAL_SEGMENTS or any(sep in decoded for sep in _SEPARATORS):
             raise ValidationError(
-                f"{name} segment {segment!r} would escape the base URL; "
-                f"'.', '..', and encoded separators are not allowed. "
-                f"Got {value!r}."
+                f"a {name} segment would escape the base URL; "
+                "'.', '..', and encoded separators are not allowed."
             )
     return value
+
+
+def request_params(
+    value: Optional[Mapping[str, Any]], *, name: str = "params"
+) -> Dict[str, Any]:
+    """Validate query parameters for the raw ``request`` escape hatch.
+
+    Args:
+        value: A string-keyed mapping whose values are URL scalar values or
+            lists/tuples of those values.
+        name: Argument name, used in the error message.
+
+    Returns:
+        A plain dictionary suitable for ``httpx``.
+
+    Raises:
+        ValidationError: If the mapping shape or a key/value is unsupported.
+            Raw values are never repeated in the error message.
+    """
+    if value is None:
+        return {}
+    if not isinstance(value, _AbcMapping):
+        raise ValidationError(
+            f"{name} must be a mapping with string keys and URL scalar values."
+        )
+
+    result: Dict[str, Any] = {}
+    for key, item in value.items():
+        if not isinstance(key, str) or not _query_value(item):
+            raise ValidationError(
+                f"{name} must be a mapping with string keys and URL scalar values."
+            )
+        result[key] = item
+    return result
+
+
+def _query_value(value: Any) -> bool:
+    """Return whether ``value`` has a deterministic httpx query encoding."""
+    if value is None or isinstance(value, (str, int, float, bool)):
+        return True
+    return isinstance(value, (list, tuple)) and all(
+        item is None or isinstance(item, (str, int, float, bool)) for item in value
+    )
 
 
 def _decode_segment(segment: str) -> str:

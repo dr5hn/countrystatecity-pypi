@@ -71,7 +71,14 @@ jobs:
             # Push trigger: only publish packages whose files actually changed
             PKGS=""
             for pkg in countries timezones currencies translations phonecodes regions postal_codes api; do
-              if git diff --name-only HEAD~1 HEAD -- "python/packages/$pkg/" | grep -q .; then
+              if [ "$pkg" = "api" ]; then
+                MODULE="countrystatecity"
+              else
+                MODULE="countrystatecity_$pkg"
+              fi
+              if git diff --name-only HEAD~1 HEAD -- \
+                "python/packages/$pkg/pyproject.toml" \
+                "python/packages/$pkg/$MODULE/" | grep -q .; then
                 PKGS="${PKGS}\"${pkg}\","
               fi
             done

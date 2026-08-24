@@ -107,9 +107,10 @@ csc = CountryStateCity()          # reads CSC_API_KEY
 # Traversal
 india = csc.get_country("IN")
 states = csc.get_states_of_country("IN")
-cities = csc.get_cities_of_state("IN", "MH", q="pune")
+cities = csc.get_cities_of_state("IN", "MH")
 
 # Paid-plan query features
+filtered_cities = csc.get_cities_of_state("IN", "MH", q="pune")
 compact = csc.get_countries(fields=["id", "name", "iso2", "emoji"])
 biggest = csc.get_countries(sort="population:desc")
 hits = csc.fuzzy_search("bangalor", entity="city", country="IN")
@@ -125,7 +126,7 @@ response = csc.request("/countries")
 print(response.meta.plan, response.meta.daily.remaining, response.meta.cache)
 
 try:
-    csc.get_states()
+    csc.get_country("IN")
 except RateLimitError as exc:
     print(f"{exc.period} limit of {exc.limit} reached — {exc.upgrade_url}")
 ```

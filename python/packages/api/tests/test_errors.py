@@ -587,10 +587,9 @@ def test_error_url_keeps_the_path_it_dropped_the_query_from() -> None:
 
 
 def test_error_url_drops_a_fragment_too() -> None:
-    """A base URL carrying a fragment must not leak it into the error either."""
-    recorder = Recorder(status_code=500, json_body={"error": "boom"})
-    with sync_client(recorder, base_url="https://api.example.test/v1#frag") as client:
-        with pytest.raises(ServerError) as caught:
-            client.get_countries()
+    """The defensive URL reducer also removes fragments."""
+    from countrystatecity._core import loggable_url
 
-    assert "#" not in caught.value.url
+    assert loggable_url("https://api.example.test/v1/countries#frag") == (
+        "https://api.example.test/v1/countries"
+    )

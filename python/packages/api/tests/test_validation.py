@@ -92,6 +92,28 @@ REJECTED: Dict[str, Tuple[str, Tuple[Any, ...], Dict[str, Any]]] = {
     "fuzzy-threshold-string": ("fuzzy_search", ("pune",), {"threshold": "0.5"}),
     "request-relative-path": ("request", ("countries",), {}),
     "request-path-not-a-string": ("request", (7,), {}),
+    "request-params-string": ("request", ("/countries",), {"params": "SENTINEL"}),
+    "request-params-list": (
+        "request",
+        ("/countries",),
+        {"params": [("q", "SENTINEL")]},
+    ),
+    "request-params-number": ("request", ("/countries",), {"params": 7}),
+    "request-params-non-string-key": (
+        "request",
+        ("/countries",),
+        {"params": {7: "SENTINEL"}},
+    ),
+    "request-params-object-value": (
+        "request",
+        ("/countries",),
+        {"params": {"q": object()}},
+    ),
+    "request-params-nested-list": (
+        "request",
+        ("/countries",),
+        {"params": {"q": [["SENTINEL"]]}},
+    ),
     # The escape hatch promises "any GET under the base URL". httpx does not
     # enforce that on its own: it resolves "/../admin" against
     # https://api.countrystatecity.in/v1 to https://api.countrystatecity.in/admin,
@@ -175,6 +197,57 @@ def test_phone_validation_error_does_not_echo_the_number() -> None:
             client.parse_phone_number("+9988776655x")
 
     assert "9988776655" not in str(caught.value)
+
+
+@pytest.mark.parametrize(
+    "path",
+    [
+        "/x?token=SENTINEL",
+        "/x#SENTINEL",
+        "/SENTINEL/../x",
+        "/../SENTINEL",
+    ],
+)
+def test_raw_path_validation_error_does_not_echo_the_path(path: str) -> None:
+    recorder = Recorder(json_body={})
+    with sync_client(recorder) as client:
+        with pytest.raises(ValidationError) as caught:
+            client.request(path)
+
+    assert "SENTINEL" not in str(caught.value)
+    assert recorder.requests == []
+
+
+@pytest.mark.parametrize(
+    "params",
+    [
+        "SENTINEL",
+        [("q", "SENTINEL")],
+        {7: "SENTINEL"},
+        {"q": object()},
+        {"q": [["SENTINEL"]]},
+    ],
+)
+def test_raw_param_validation_error_does_not_echo_values(params: Any) -> None:
+    recorder = Recorder(json_body={})
+    with sync_client(recorder) as client:
+        with pytest.raises(ValidationError) as caught:
+            client.request("/countries", params=params)
+
+    assert "SENTINEL" not in str(caught.value)
+    assert recorder.requests == []
+
+
+def test_raw_request_accepts_scalar_and_sequence_params() -> None:
+    recorder = Recorder(json_body={})
+    with sync_client(recorder) as client:
+        client.request(
+            "/countries",
+            params={"q": "india", "page": 2, "active": True, "fields": ["id", "name"]},
+        )
+
+    assert recorder.request.url.params.get_list("fields") == ["id", "name"]
+    assert recorder.request.url.params["page"] == "2"
 
 
 @pytest.mark.parametrize(

@@ -20,7 +20,7 @@ from ._core import (
     translate_transport_error,
 )
 from ._endpoints import Endpoint, FieldSelection, Identifier
-from ._validation import request_path
+from ._validation import request_params, request_path
 from .response import ApiResponse
 from .types import (
     City,
@@ -133,19 +133,20 @@ class CountryStateCity:
             path: Path relative to the base URL, starting with ``/``. It must
                 stay under the base URL: ``//``, an embedded query or fragment,
                 and ``.``/``..`` segments are rejected.
-            params: Query parameters. Values are URL-encoded by the HTTP layer.
+            params: Query parameters with string keys and scalar or list/tuple
+                values. Values are URL-encoded by the HTTP layer.
 
         Returns:
             The decoded body plus plan, quota, and cache metadata.
 
         Raises:
-            ValidationError: If ``path`` is not a string starting with ``/``, or
-                would resolve outside the base URL.
+            ValidationError: If ``path`` would resolve outside the base URL or
+                ``params`` has an unsupported shape.
             APIConnectionError: If the request never reached the API.
             APIStatusError: If the API returned a non-2xx status.
         """
         request_path(path)
-        return self._send(Endpoint(path, dict(params or {})))
+        return self._send(Endpoint(path, request_params(params)))
 
     def _send(self, endpoint: Endpoint) -> ApiResponse[Any]:
         """Send one prepared endpoint and decode the result."""

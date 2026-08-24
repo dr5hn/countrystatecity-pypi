@@ -8,7 +8,7 @@ rules exist exactly once in this package.
 Paths are relative to the ``/v1`` base URL.
 """
 
-from typing import Dict, NamedTuple, Optional, Sequence, Union
+from typing import Any, Dict, NamedTuple, Optional, Sequence, Union
 
 from . import _validation as v
 from .errors import ValidationError
@@ -23,7 +23,7 @@ class Endpoint(NamedTuple):
     """A prepared request: a validated path and its query parameters."""
 
     path: str
-    params: Dict[str, str]
+    params: Dict[str, Any]
 
 
 def _list_params(

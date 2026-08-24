@@ -7,6 +7,8 @@ logic and differ only in how they hand a request to httpx.
 
 import math
 import os
+import re
+from collections.abc import Mapping as _AbcMapping
 from typing import Any, Dict, Mapping, Optional, Tuple, Union
 from urllib.parse import urlsplit, urlunsplit
 
@@ -53,6 +55,15 @@ _ENVELOPE_KEYS = frozenset({"status", "message", "error", "details"})
 #: How much of a non-JSON error body to quote back in the exception message.
 _BODY_SNIPPET = 200
 
+# RFC 7230 ``token``. Header values are checked separately below so malformed
+# caller input never reaches httpx's lower-level exceptions.
+_HEADER_NAME_RE = re.compile(r"^[!#$%&'*+\-.^_`|~0-9A-Za-z]+$")
+
+_BASE_URL_ERROR = (
+    "base_url must be an absolute http(s) URL with a valid host and port, "
+    "and must not contain credentials, a query string, or a fragment."
+)
+
 
 def resolve_api_key(api_key: Optional[str]) -> str:
     """Resolve and validate the API key before any network I/O.
@@ -84,20 +95,32 @@ def normalize_base_url(base_url: str) -> str:
         The URL without a trailing slash.
 
     Raises:
-        ConfigurationError: If the URL is blank, relative, or uses a scheme
-            other than ``http``/``https``. The API key is sent to whatever host
-            this names, so anything unrecognisable is rejected outright.
+        ConfigurationError: If the URL is malformed, relative, uses a scheme
+            other than ``http``/``https``, or contains credentials, a query,
+            or a fragment. The supplied value is never repeated in the error.
     """
     if not isinstance(base_url, str) or not base_url.strip():
-        raise ConfigurationError("base_url must be a non-empty string.")
+        raise ConfigurationError(_BASE_URL_ERROR)
     cleaned = base_url.strip().rstrip("/")
-    parts = urlsplit(cleaned)
-    if parts.scheme not in ("http", "https") or not parts.netloc:
-        raise ConfigurationError(
-            "base_url must be an absolute http(s) URL, e.g. "
-            f"{DEFAULT_BASE_URL!r}; got {base_url!r}."
-        )
-    return cleaned
+    if any(ord(character) < 32 or ord(character) == 127 for character in cleaned):
+        raise ConfigurationError(_BASE_URL_ERROR)
+    try:
+        parts = urlsplit(cleaned)
+        # Accessing ``port`` makes urllib validate its numeric/range syntax.
+        parts.port
+        parsed = httpx.URL(cleaned)
+    except (httpx.InvalidURL, ValueError):
+        raise ConfigurationError(_BASE_URL_ERROR) from None
+    if (
+        parsed.scheme not in ("http", "https")
+        or not parsed.host
+        or parsed.username
+        or parsed.password
+        or parsed.query
+        or parsed.fragment
+    ):
+        raise ConfigurationError(_BASE_URL_ERROR)
+    return str(parsed).rstrip("/")
 
 
 def normalize_timeout(timeout: Union[int, float, httpx.Timeout]) -> httpx.Timeout:
@@ -337,13 +360,26 @@ def merge_headers(
         The merged mapping.
 
     Raises:
-        ConfigurationError: If the caller tries to override the API key header,
-            which would silently defeat the key validation done at construction.
+        ConfigurationError: If a header name or value is invalid, or if the
+            caller tries to override the API key header.
     """
     merged = dict(defaults)
-    if not extra:
+    if extra is None:
         return merged
+    if not isinstance(extra, _AbcMapping):
+        raise ConfigurationError(
+            "headers must map valid string names to string values."
+        )
     for key, value in extra.items():
+        if (
+            not isinstance(key, str)
+            or not isinstance(value, str)
+            or not _HEADER_NAME_RE.fullmatch(key)
+            or any(ord(character) < 32 or ord(character) == 127 for character in value)
+        ):
+            raise ConfigurationError(
+                "headers must map valid string names to string values."
+            )
         if key.lower() == API_KEY_HEADER.lower():
             raise ConfigurationError(
                 f"Set the API key with api_key=..., not a {API_KEY_HEADER} header."
