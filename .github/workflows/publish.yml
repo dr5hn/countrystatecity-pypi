@@ -52,7 +52,7 @@ jobs:
     outputs:
       packages: ${{ steps.resolve.outputs.packages }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 2
 
@@ -102,12 +102,12 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
@@ -200,7 +200,7 @@ jobs:
 
       - name: Create GitHub Release
         if: steps.check-version.outputs.published == 'false'
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           tag_name: ${{ matrix.package }}-v${{ steps.get-version.outputs.version }}
           name: ${{ steps.pkg.outputs.dist }} v${{ steps.get-version.outputs.version }}
