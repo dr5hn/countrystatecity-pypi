@@ -1,7 +1,7 @@
 # Changelog
 
-All notable changes to `countrystatecity` (the official Python API client) will
-be documented in this file.
+All notable changes to `countrystatecity-api` (imported as
+`countrystatecity`) will be documented in this file.
 
 This package is versioned independently of the offline `countrystatecity-*`
 data packages: it ships no data, so the weekly upstream data sync does not

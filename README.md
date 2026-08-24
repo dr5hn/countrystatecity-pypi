@@ -23,10 +23,10 @@ builds. All of them are type-hinted and checked under `mypy --strict`.
 
 | Package | PyPI | Description |
 |---|---|---|
-| **[countrystatecity](./python/packages/api/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity)](https://pypi.org/project/countrystatecity/) | Official client for the Country State City API — sync + async, typed, structured errors |
+| **[countrystatecity-api](./python/packages/api/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-api)](https://pypi.org/project/countrystatecity-api/) | Official client for the Country State City API — sync + async, typed, structured errors |
 
 ```bash
-pip install countrystatecity
+pip install countrystatecity-api
 export CSC_API_KEY="your-api-key"   # free key: https://app.countrystatecity.in/
 ```
 
@@ -57,9 +57,9 @@ and anything that must be reproducible.
 | **[countrystatecity-regions](./python/packages/regions/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-regions)](https://pypi.org/project/countrystatecity-regions/) | Region and subregion associations for 250 countries |
 | **[countrystatecity-postal-codes](./python/packages/postal_codes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-postal-codes)](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 125 countries |
 
-> **Note:** The bare `countrystatecity` package is the API client. The offline
-> data packages always carry a suffix (`-countries`, `-timezones`, `-currencies`,
-> `-translations`, `-phonecodes`, `-regions`, `-postal-codes`).
+> **Note:** Install `countrystatecity-api`, then import `countrystatecity`. The
+> offline data packages carry their own suffixes (`-countries`, `-timezones`,
+> `-currencies`, `-translations`, `-phonecodes`, `-regions`, `-postal-codes`).
 
 ## From offline prototype to production
 
@@ -84,7 +84,7 @@ keeps it out of URLs, `repr()`, and exception messages.
 Install the API client, the offline packages you need, or both:
 
 ```bash
-pip install countrystatecity
+pip install countrystatecity-api
 
 pip install countrystatecity-countries
 pip install countrystatecity-timezones
@@ -351,7 +351,7 @@ postcodes = get_postcodes_of_country("AD")
 countrystatecity-pypi/
 ├── python/
 │   └── packages/
-│       ├── api/           # countrystatecity          (API client)
+│       ├── api/           # countrystatecity-api      (API client)
 │       ├── countries/     # countrystatecity-countries
 │       ├── timezones/     # countrystatecity-timezones
 │       ├── currencies/    # countrystatecity-currencies
@@ -368,14 +368,13 @@ countrystatecity-pypi/
         └── update-data.yml  # Weekly data sync
 ```
 
-Each package's import name is derived from its `[project].name` in
-`pyproject.toml` (hyphens become underscores), so the data packages import as
-`countrystatecity_<name>` while the API client imports as the bare
-`countrystatecity` namespace. CI and the publish workflow read it from there
-rather than assuming a prefix.
+The data packages import as `countrystatecity_<name>`. The
+`countrystatecity-api` distribution deliberately uses the shorter
+`countrystatecity` import. CI and the publish workflow keep that mapping
+explicit.
 
 Version bumps differ too: `release.yml` moves the seven data packages in
-lockstep on every upstream data sync, while `countrystatecity` is versioned by
+lockstep on every upstream data sync, while `countrystatecity-api` is versioned by
 hand — it ships no data, so a data sync does not change it.
 
 ## 🛠️ Development

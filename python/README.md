@@ -8,7 +8,7 @@ This directory contains official Python packages for the [countries-states-citie
 
 | Package | PyPI | Description |
 |---|---|---|
-| **[countrystatecity](./packages/api/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity)](https://pypi.org/project/countrystatecity/) | Official client for the Country State City API — sync + async, typed, structured errors |
+| **[countrystatecity-api](./packages/api/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-api)](https://pypi.org/project/countrystatecity-api/) | Official client for the Country State City API — sync + async, typed, structured errors |
 
 ### Offline data packages
 
@@ -40,7 +40,7 @@ support.
 Install the API client, the offline packages you need, or both:
 
 ```bash
-pip install countrystatecity
+pip install countrystatecity-api
 
 pip install countrystatecity-countries
 pip install countrystatecity-timezones
@@ -56,7 +56,7 @@ pip install countrystatecity-postal-codes
 ```
 python/
 └── packages/
-    ├── api/            # countrystatecity          (API client)
+    ├── api/            # countrystatecity-api      (API client)
     ├── countries/      # countrystatecity-countries
     ├── timezones/      # countrystatecity-timezones
     ├── currencies/     # countrystatecity-currencies
@@ -66,11 +66,10 @@ python/
     └── postal_codes/   # countrystatecity-postal-codes
 ```
 
-A package's import name comes from its `[project].name` in `pyproject.toml` with
-hyphens replaced by underscores. The data packages import as
-`countrystatecity_<name>`; the API client imports as the bare `countrystatecity`
-namespace. CI and the publish workflow read it from `pyproject.toml` rather than
-assuming a prefix.
+The data packages import as `countrystatecity_<name>`. The
+`countrystatecity-api` distribution imports as the bare `countrystatecity`
+namespace. CI keeps that deliberate distribution/import-name difference
+explicit.
 
 ## 🛠️ Development
 

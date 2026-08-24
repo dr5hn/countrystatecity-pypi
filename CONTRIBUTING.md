@@ -54,13 +54,13 @@ This will install:
 
 The examples below use the `countries` package. Every other package works the
 same way — substitute its directory under `python/packages/` and its import
-name. The import name is the package's `[project].name` from `pyproject.toml`
-with hyphens replaced by underscores:
+name. Data-package imports replace distribution-name hyphens with underscores;
+the API distribution deliberately keeps the shorter `countrystatecity` import:
 
 | Directory | Distribution | Import name |
 |---|---|---|
 | `countries` … `postal_codes` | `countrystatecity-<name>` | `countrystatecity_<name>` |
-| `api` | `countrystatecity` | `countrystatecity` |
+| `api` | `countrystatecity-api` | `countrystatecity` |
 
 The `api` package is the official API client. It depends on httpx instead of
 pydantic, and its tests mock every HTTP call, so no API key is needed to run

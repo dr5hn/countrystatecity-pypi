@@ -18,7 +18,7 @@ server-side search and filtering, field-selected responses, or managed availabil
 and support, use the Country State City API through its official Python client:
 
 ```bash
-pip install countrystatecity
+pip install countrystatecity-api
 ```
 
 ```python
@@ -125,7 +125,7 @@ ODbL-1.0 — see [LICENSE](LICENSE).
 
 | Package | Description |
 |---|---|
-| [countrystatecity](https://pypi.org/project/countrystatecity/) | **Official API client** — live data, sync + async, typed |
+| [countrystatecity-api](https://pypi.org/project/countrystatecity-api/) | **Official API client** — live data, sync + async, typed |
 | [countrystatecity-countries](https://pypi.org/project/countrystatecity-countries/) | 250 countries, 5,308 states, 171,938 cities |
 | [countrystatecity-timezones](https://pypi.org/project/countrystatecity-timezones/) | 432 IANA timezones with country associations and time conversion |
 | [countrystatecity-currencies](https://pypi.org/project/countrystatecity-currencies/) | 249 country/currency associations |
