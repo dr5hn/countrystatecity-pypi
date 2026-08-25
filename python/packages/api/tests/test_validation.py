@@ -96,8 +96,21 @@ REJECTED: Dict[str, Tuple[str, Tuple[Any, ...], Dict[str, Any]]] = {
     "postcode-code-empty-after-trim": ("get_postcodes_by_code", ("GB", "   "), {}),
     "postcode-code-too-long": ("get_postcodes_by_code", ("GB", "x" * 21), {}),
     "postcode-code-not-a-string": ("get_postcodes_by_code", ("GB", 12345), {}),
+    "postcode-code-slash": ("get_postcodes_by_code", ("GB", "AB/12"), {}),
+    "postcode-code-backslash": ("get_postcodes_by_code", ("GB", "AB\\12"), {}),
+    "postcode-code-control": ("get_postcodes_by_code", ("GB", "AB\n12"), {}),
     "postcodes-country-iso3": ("get_postcodes_of_country", ("GBR",), {}),
     "postcodes-q-too-short": ("get_postcodes_of_country", ("GB",), {"q": "a"}),
+    "postcodes-q-not-a-string": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"q": 123},
+    ),
+    "postcodes-q-too-short-after-trim": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"q": " a "},
+    ),
     "postcodes-q-too-long": (
         "get_postcodes_of_country",
         ("GB",),
@@ -106,7 +119,7 @@ REJECTED: Dict[str, Tuple[str, Tuple[Any, ...], Dict[str, Any]]] = {
     "postcodes-state-code-too-long": (
         "get_postcodes_of_country",
         ("GB",),
-        {"state_code": "x" * 33},
+        {"state_code": "x" * 256},
     ),
     "postcodes-state-code-invalid-char": (
         "get_postcodes_of_country",
@@ -123,10 +136,25 @@ REJECTED: Dict[str, Tuple[str, Tuple[Any, ...], Dict[str, Any]]] = {
         ("GB",),
         {"city_id": -1},
     ),
-    "postcodes-type-unknown": (
+    "postcodes-city-id-too-big": (
         "get_postcodes_of_country",
         ("GB",),
-        {"type": "postal"},
+        {"city_id": 2**63},
+    ),
+    "postcodes-type-invalid-character": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"type": "po box"},
+    ),
+    "postcodes-type-too-long": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"type": "x" * 33},
+    ),
+    "postcodes-type-not-a-string": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"type": 123},
     ),
     "postcodes-limit-zero": ("get_postcodes_of_country", ("GB",), {"limit": 0}),
     "postcodes-limit-too-big": (
@@ -147,7 +175,7 @@ REJECTED: Dict[str, Tuple[str, Tuple[Any, ...], Dict[str, Any]]] = {
     "postcodes-cursor-too-long": (
         "get_postcodes_of_country",
         ("GB",),
-        {"cursor": "c" * 513},
+        {"cursor": "c" * 4097},
     ),
     "postcodes-cursor-not-a-string": (
         "get_postcodes_of_country",

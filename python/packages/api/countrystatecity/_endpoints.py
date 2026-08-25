@@ -408,11 +408,11 @@ def postcodes(
     ciso = v.quote_segment(v.iso_country_code(country, name="iso2", label="country"))
     params: Dict[str, str] = {}
     if q is not None:
-        params["q"] = v.search_query(q)
+        params["q"] = v.postcode_query(q)
     if state_code is not None:
         params["state_code"] = v.postcode_state_code(state_code)
     if city_id is not None:
-        params["city_id"] = v.city_id(city_id, name="city_id")
+        params["city_id"] = v.postcode_city_id(city_id)
     if type is not None:
         params["type"] = v.postcode_type(type)
     if limit is not None:

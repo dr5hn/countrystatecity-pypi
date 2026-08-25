@@ -239,7 +239,7 @@ def test_search_without_plan_feature_raises_permission_denied() -> None:
         "details": {
             "feature": "searchEndpoint",
             "upgradeUrl": (
-                "https://app.countrystatecity.in/pricing?utm_source=api&"
+                "https://countrystatecity.in/pricing?utm_source=api&"
                 "utm_medium=upgrade_error&utm_campaign=postcodes"
             ),
         },
@@ -310,20 +310,51 @@ def test_postcode_with_reserved_characters_survives_the_round_trip() -> None:
     assert b"SW1A%201AA" in recorder.request.url.raw_path
 
 
-def test_postcode_with_a_slash_stays_inside_one_path_segment() -> None:
-    """A `/` in the code is within the 1-20 character bound, so this is not a
-    rejected case -- `quote_segment` percent-encodes it (like every other
-    path segment in this package), so it can never inject an extra path
-    segment or a traversal sequence.
-    """
-    recorder = Recorder(json_body={"data": [], "meta": {}})
-    with sync_client(recorder) as client:
-        client.get_postcodes_by_code("GB", "AB/../secret")
-
-    assert recorder.request.url.path == "/v1/countries/GB/postcodes/AB/../secret"
-    assert recorder.request.url.raw_path == (
-        b"/v1/countries/GB/postcodes/AB%2F..%2Fsecret"
+@pytest.mark.parametrize("postcode_type", ["full", "street", "po_box", "fsa", "area"])
+def test_search_accepts_types_present_in_the_release_corpus(postcode_type: str) -> None:
+    recorder = Recorder(
+        json_body={
+            "data": [],
+            "pagination": {"limit": 50, "next_cursor": None, "has_more": False},
+        }
     )
+    with sync_client(recorder) as client:
+        client.get_postcodes_of_country("GB", type=f"  {postcode_type.upper()}  ")
+
+    assert recorder.request.url.params["type"] == postcode_type
+
+
+def test_search_accepts_the_full_api_bounds() -> None:
+    recorder = Recorder(
+        json_body={
+            "data": [],
+            "pagination": {"limit": 50, "next_cursor": None, "has_more": False},
+        }
+    )
+    with sync_client(recorder) as client:
+        client.get_postcodes_of_country(
+            "GB",
+            state_code="X" * 255,
+            city_id=2**63 - 1,
+            cursor="c" * 4096,
+        )
+
+    assert recorder.request.url.params["state_code"] == "X" * 255
+    assert recorder.request.url.params["city_id"] == str(2**63 - 1)
+    assert recorder.request.url.params["cursor"] == "c" * 4096
+
+
+def test_search_trims_query_like_the_api() -> None:
+    recorder = Recorder(
+        json_body={
+            "data": [],
+            "pagination": {"limit": 50, "next_cursor": None, "has_more": False},
+        }
+    )
+    with sync_client(recorder) as client:
+        client.get_postcodes_of_country("GB", q="  SW1A  ")
+
+    assert recorder.request.url.params["q"] == "SW1A"
 
 
 CROSS_CLIENT_CALLS: Dict[str, Any] = {

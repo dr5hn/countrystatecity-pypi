@@ -757,11 +757,11 @@ class CountryStateCity:
                 codes and numeric ids are not accepted.
             q: Case-insensitive code-prefix or locality-substring match,
                 2-100 characters.
-            state_code: Exact state/subdivision code filter, 1-32 letters,
+            state_code: Exact state/subdivision code filter, 1-255 letters,
                 digits, or hyphens.
-            city_id: Exact city id filter.
-            type: Granularity filter: ``"full"``, ``"outward"``, ``"sector"``,
-                ``"district"``, or ``"area"``.
+            city_id: Exact positive 64-bit city id filter.
+            type: Source-classification filter such as ``"full"``, ``"street"``,
+                ``"po_box"``, ``"fsa"``, or ``"area"``.
             limit: Maximum records to return, 1-100. The server defaults to
                 50 when omitted.
             cursor: An opaque continuation token taken verbatim from a
