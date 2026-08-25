@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-api"
-version = "0.1.0"
+version = "0.2.0"
 description = "Official Python client for the Country State City API — typed sync and async access to countries, states, cities, regions, timezones, currencies, dial codes, ISO codes, and fuzzy search."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [

@@ -366,3 +366,61 @@ def fuzzy_search(
             )
         params["country"] = v.iso_country_code(country, name="iso2", label="country")
     return Endpoint("/search/fuzzy", params)
+
+
+# --------------------------------------------------------------------------
+# Postcodes
+# --------------------------------------------------------------------------
+
+
+def postcode(
+    country: str, code: str, *, fields: Optional[FieldSelection] = None
+) -> Endpoint:
+    """``GET /countries/{iso2}/postcodes/{code}`` -- exact postcode lookup.
+
+    Unlike every other country-scoped endpoint, ``country`` accepts only an
+    ISO 3166-1 alpha-2 code here: the postcode table stores ISO2, and the
+    general country resolver's ISO3/numeric handling is deliberately not
+    extended to this route.
+    """
+    ciso = v.quote_segment(v.iso_country_code(country, name="iso2", label="country"))
+    encoded_code = v.quote_segment(v.postcode_code(code))
+    return Endpoint(
+        f"/countries/{ciso}/postcodes/{encoded_code}", _detail_params(fields=fields)
+    )
+
+
+def postcodes(
+    country: str,
+    *,
+    q: Optional[str] = None,
+    state_code: Optional[Union[str, int]] = None,
+    city_id: Optional[Identifier] = None,
+    type: Optional[str] = None,
+    limit: Optional[int] = None,
+    cursor: Optional[str] = None,
+    fields: Optional[FieldSelection] = None,
+) -> Endpoint:
+    """``GET /countries/{iso2}/postcodes`` -- paginated postcode listing/search.
+
+    ``country`` accepts only an ISO 3166-1 alpha-2 code, same as :func:`postcode`.
+    """
+    ciso = v.quote_segment(v.iso_country_code(country, name="iso2", label="country"))
+    params: Dict[str, str] = {}
+    if q is not None:
+        params["q"] = v.search_query(q)
+    if state_code is not None:
+        params["state_code"] = v.postcode_state_code(state_code)
+    if city_id is not None:
+        params["city_id"] = v.city_id(city_id, name="city_id")
+    if type is not None:
+        params["type"] = v.postcode_type(type)
+    if limit is not None:
+        params["limit"] = str(
+            v.bounded_int(limit, name="limit", minimum=1, maximum=100)
+        )
+    if cursor is not None:
+        params["cursor"] = v.cursor_token(cursor)
+    if fields is not None:
+        params["fields"] = v.field_list(fields)
+    return Endpoint(f"/countries/{ciso}/postcodes", params)

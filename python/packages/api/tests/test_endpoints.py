@@ -106,9 +106,69 @@ CALLS: List[Call] = [
             "threshold": "0.5",
         },
     ),
+    (
+        "get_postcodes_by_code",
+        ("GB", "SW1A 1AA"),
+        {},
+        "/v1/countries/GB/postcodes/SW1A 1AA",
+        {},
+    ),
+    (
+        "get_postcodes_by_code",
+        ("gb", "  SW1A 1AA  "),
+        {"fields": ["id", "code", "latitude"]},
+        "/v1/countries/gb/postcodes/SW1A 1AA",
+        {"fields": "id,code,latitude"},
+    ),
+    (
+        "get_postcodes_of_country",
+        ("GB",),
+        {},
+        "/v1/countries/GB/postcodes",
+        {},
+    ),
+    (
+        "get_postcodes_of_country",
+        ("GB",),
+        {
+            "q": "SW1A",
+            "state_code": "ENG",
+            "city_id": 100,
+            "type": "full",
+            "limit": 50,
+            "cursor": "cGMxLi4u",
+        },
+        "/v1/countries/GB/postcodes",
+        {
+            "q": "SW1A",
+            "state_code": "ENG",
+            "city_id": "100",
+            "type": "full",
+            "limit": "50",
+            "cursor": "cGMxLi4u",
+        },
+    ),
 ]
 
 IDS = [f"{name}-{index}" for index, (name, *_rest) in enumerate(CALLS)]
+
+#: Canned response body per method, for the methods that unwrap a specific
+#: envelope shape rather than casting the raw body directly. Every other
+#: method in CALLS is happy with a bare empty list.
+_RESPONSE_BODY_OVERRIDES: Dict[str, Any] = {
+    "get_postcodes_by_code": {
+        "data": [],
+        "meta": {"country_code": "GB", "query": "x", "match_count": 0},
+    },
+    "get_postcodes_of_country": {
+        "data": [],
+        "pagination": {"limit": 50, "next_cursor": None, "has_more": False},
+    },
+}
+
+
+def _response_body(method: str) -> Any:
+    return _RESPONSE_BODY_OVERRIDES.get(method, [])
 
 
 @pytest.mark.parametrize("method, args, kwargs, path, params", CALLS, ids=IDS)
@@ -119,7 +179,7 @@ def test_sync_endpoint_targets_expected_url(
     path: str,
     params: Dict[str, str],
 ) -> None:
-    recorder = Recorder(json_body=[])
+    recorder = Recorder(json_body=_response_body(method))
     with sync_client(recorder) as client:
         getattr(client, method)(*args, **kwargs)
 
@@ -138,7 +198,7 @@ def test_async_endpoint_targets_the_same_url(
     path: str,
     params: Dict[str, str],
 ) -> None:
-    recorder = Recorder(json_body=[])
+    recorder = Recorder(json_body=_response_body(method))
     client = async_client(recorder)
     try:
         run(getattr(client, method)(*args, **kwargs))

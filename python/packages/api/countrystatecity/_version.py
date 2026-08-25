@@ -6,4 +6,4 @@ import cycle. ``tests/test_metadata.py`` asserts this stays in step with the
 version declared in ``pyproject.toml``.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"

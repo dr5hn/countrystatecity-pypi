@@ -39,6 +39,7 @@ from countrystatecity.types import (
     FuzzyResult,
     IsoCountry,
     IsoState,
+    Postcode,
     Region,
     State,
     Subregion,
@@ -55,6 +56,7 @@ BIGINT_FIELDS: Dict[str, FrozenSet[str]] = {
     "IsoCountry": frozenset({"id"}),
     "IsoState": frozenset({"id", "country_id"}),
     "FuzzyResult": frozenset({"id"}),
+    "Postcode": frozenset({"id", "country_id", "state_id", "city_id"}),
 }
 
 #: The only keys anywhere in :mod:`countrystatecity.types` that are genuinely
@@ -67,6 +69,7 @@ NUMERIC_FIELDS: FrozenSet[Tuple[str, str]] = frozenset(
         ("City", "level"),
         ("Country", "area_sq_km"),
         ("FuzzyResult", "match_score"),
+        ("PostcodePagination", "limit"),
     }
 )
 
@@ -189,6 +192,8 @@ def test_optionality_matches_the_api_schema() -> None:
         ("State", "population"),
         ("City", "parent_id"),
         ("City", "population"),
+        ("Postcode", "state_id"),
+        ("Postcode", "city_id"),
     }
     for type_name, field in BIGINT_CASES:
         leaves = _flatten(_hints(TYPED_DICTS[type_name])[field])
@@ -208,6 +213,7 @@ def _static_required_ids_are_strings(
     iso_country: IsoCountry,
     iso_state: IsoState,
     hit: FuzzyResult,
+    postcode: Postcode,
 ) -> Tuple[str, ...]:
     """Static half of the guard: ``mypy --strict`` fails if any of these is an int.
 
@@ -228,11 +234,13 @@ def _static_required_ids_are_strings(
         iso_state["id"],
         iso_state["country_id"],
         hit["id"],
+        postcode["id"],
+        postcode["country_id"],
     )
 
 
 def _static_nullable_ids_are_optional_strings(
-    country: Country, state: State, city: City
+    country: Country, state: State, city: City, postcode: Postcode
 ) -> Tuple[Optional[str], ...]:
     """Static guard for the nullable bigint columns. Never called."""
     return (
@@ -244,4 +252,6 @@ def _static_nullable_ids_are_optional_strings(
         state["population"],
         city["parent_id"],
         city["population"],
+        postcode["state_id"],
+        postcode["city_id"],
     )
