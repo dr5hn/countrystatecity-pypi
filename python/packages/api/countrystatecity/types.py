@@ -298,12 +298,15 @@ class Postcode(TypedDict, total=False):
     like every other id in this API: they are ``BIGINT`` columns (``country_id``
     /``state_id``/``city_id`` are foreign keys into the same BIGINT-backed
     ``id`` columns as :class:`Country`/:class:`State`/:class:`City`), and this
-    API serialises bigints as JSON strings. ``latitude``/``longitude`` are
-    likewise ``str`` to match the equivalent fields on :class:`City`. (The
-    product PRD's example payloads show ``id``/``latitude``/``longitude`` as
-    bare JSON numbers; that looks like a documentation simplification rather
-    than a deliberate departure from this API's serialisation convention, but
-    it is worth re-checking against the live endpoint once it ships.)
+    API serialises bigints as JSON strings.
+
+    ``latitude``/``longitude`` are declared ``float``, unlike the equivalent
+    ``str``-typed fields on :class:`City`/:class:`State`/:class:`Country`.
+    Those are Postgres ``NUMERIC`` columns, stringified to avoid float
+    precision loss; the postcode table declares them ``DOUBLE PRECISION``
+    instead, which the driver returns as a native JSON number. Confirmed
+    against the API's schema and TypeScript types, not inferred from the
+    sibling entities.
     """
 
     id: str
@@ -315,8 +318,8 @@ class Postcode(TypedDict, total=False):
     country_id: str
     state_id: Optional[str]
     city_id: Optional[str]
-    latitude: Optional[str]
-    longitude: Optional[str]
+    latitude: Optional[float]
+    longitude: Optional[float]
     source: Optional[str]
     wikiDataId: Optional[str]
 

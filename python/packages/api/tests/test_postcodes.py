@@ -126,8 +126,8 @@ def test_full_tier_response_carries_coordinates_and_source() -> None:
                     "country_id": "232",
                     "state_id": "4",
                     "city_id": "100",
-                    "latitude": "51.50101",
-                    "longitude": "-0.14159",
+                    "latitude": 51.50101,
+                    "longitude": -0.14159,
                     "source": "royal-mail",
                     "wikiDataId": "Q84",
                 }
@@ -138,7 +138,10 @@ def test_full_tier_response_carries_coordinates_and_source() -> None:
     with sync_client(recorder) as client:
         postcode = client.get_postcodes_by_code("GB", "SW1A 1AA")[0]
 
-    assert postcode["latitude"] == "51.50101"
+    # Unlike City/State/Country (NUMERIC columns, stringified), postcodes'
+    # latitude/longitude are DOUBLE PRECISION and arrive as native numbers.
+    assert postcode["latitude"] == pytest.approx(51.50101)
+    assert postcode["longitude"] == pytest.approx(-0.14159)
     assert postcode["source"] == "royal-mail"
     assert postcode["wikiDataId"] == "Q84"
 

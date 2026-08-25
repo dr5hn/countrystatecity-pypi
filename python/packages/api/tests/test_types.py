@@ -70,6 +70,8 @@ NUMERIC_FIELDS: FrozenSet[Tuple[str, str]] = frozenset(
         ("Country", "area_sq_km"),
         ("FuzzyResult", "match_score"),
         ("PostcodePagination", "limit"),
+        ("Postcode", "latitude"),
+        ("Postcode", "longitude"),
     }
 )
 
