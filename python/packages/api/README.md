@@ -165,7 +165,7 @@ can map to more than one locality, so it always returns a list -- never just
 the first match:
 
 ```python
-matches = csc.get_postcodes_by_code("GB", "SW1A 1AA")
+matches = csc.get_postcodes_by_code("IN", "110001")
 for postcode in matches:
     print(postcode["locality_name"], postcode.get("state_code"))
 ```
@@ -174,13 +174,13 @@ Paginated listing and search adds filters, but requires a Supporter plan or
 above:
 
 ```python
-page = csc.get_postcodes_of_country("GB", q="SW1A", state_code="ENG", limit=50)
+page = csc.get_postcodes_of_country("IN", q="110", state_code="DL", limit=50)
 for postcode in page["data"]:
     print(postcode["code"], postcode.get("locality_name"))
 
 if page["pagination"]["has_more"]:
     page = csc.get_postcodes_of_country(
-        "GB", q="SW1A", cursor=page["pagination"]["next_cursor"]
+        "IN", q="110", cursor=page["pagination"]["next_cursor"]
     )
 ```
 

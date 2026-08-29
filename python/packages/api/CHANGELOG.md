@@ -7,6 +7,13 @@ This package is versioned independently of the offline `countrystatecity-*`
 data packages: it ships no data, so the weekly upstream data sync does not
 change it.
 
+## [0.2.1] - 2026-08-29
+
+### Fixed
+- Replace the postcode quick-start values with `IN` / `110001`, which exists
+  in the deployed `v3.2-export.7` dataset. The previous UK example was not in
+  that release and returned no match.
+
 ## [0.2.0] - 2026-08-25
 
 ### Added
