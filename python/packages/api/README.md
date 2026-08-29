@@ -158,10 +158,48 @@ csc.fuzzy_search("bangalor", entity="city", country="IN", limit=5)
 Requesting a feature your plan does not include raises `PermissionDeniedError`
 with the exact `feature` name and an upgrade URL.
 
+## Postcode lookup and search
+
+Exact postcode lookup is free on every plan, including Community. A postcode
+can map to more than one locality, so it always returns a list -- never just
+the first match:
+
+```python
+matches = csc.get_postcodes_by_code("GB", "SW1A 1AA")
+for postcode in matches:
+    print(postcode["locality_name"], postcode.get("state_code"))
+```
+
+Paginated listing and search adds filters, but requires a Supporter plan or
+above:
+
+```python
+page = csc.get_postcodes_of_country("GB", q="SW1A", state_code="ENG", limit=50)
+for postcode in page["data"]:
+    print(postcode["code"], postcode.get("locality_name"))
+
+if page["pagination"]["has_more"]:
+    page = csc.get_postcodes_of_country(
+        "GB", q="SW1A", cursor=page["pagination"]["next_cursor"]
+    )
+```
+
+`cursor` is opaque -- always pass back the exact value from
+`page["pagination"]["next_cursor"]`, never one you construct yourself. There
+is no total count in the response; keep paging while `has_more` is `True`.
+
+Both postcode methods accept only an ISO 3166-1 **alpha-2** country code --
+unlike every other country-scoped method on this client, ISO3 codes and
+numeric ids are not accepted here.
+
+[Compare plans](https://countrystatecity.in/pricing/?utm_source=pypi&utm_medium=package&utm_campaign=python_packages&utm_content=api_client)
+to unlock search.
+
 ## API reference
 
 All methods issue one HTTP `GET`. `country` accepts an ISO 3166-1 alpha-2 code,
-an alpha-3 code, or a numeric country id.
+an alpha-3 code, or a numeric country id -- except the postcode methods, which
+accept alpha-2 only.
 
 ### Countries, states, cities
 
@@ -208,6 +246,13 @@ an alpha-3 code, or a numeric country id.
 | `fuzzy_search(query, entity=, country=, limit=, threshold=)` | `GET /search/fuzzy` |
 | `request(path, params=)` | Any `GET` under the base URL |
 
+### Postcodes
+
+| Method | Endpoint |
+|---|---|
+| `get_postcodes_by_code(country, code, fields=)` | `GET /countries/{iso2}/postcodes/{code}` |
+| `get_postcodes_of_country(country, q=, state_code=, city_id=, type=, limit=, cursor=, fields=)` | `GET /countries/{iso2}/postcodes` |
+
 Full endpoint reference: [docs.countrystatecity.in](https://docs.countrystatecity.in/api/introduction) ·
 Try it live: [playground.countrystatecity.in](https://playground.countrystatecity.in/)
 
@@ -216,7 +261,8 @@ Try it live: [playground.countrystatecity.in](https://playground.countrystatecit
 Payloads are plain dicts. `countrystatecity.types` describes their shape with
 `TypedDict`s — `Country`, `State`, `City`, `Region`, `Subregion`,
 `TimezoneInfo`, `CurrencyInfo`, `DialCode`, `PhoneParsed`, `IsoCountry`,
-`IsoState`, `IsoConvert`, and `FuzzyResult`.
+`IsoState`, `IsoConvert`, `FuzzyResult`, `Postcode`, `PostcodePagination`, and
+`PostcodeSearchResult`.
 
 Every field is declared optional, because which fields arrive depends on your
 plan's data-access level and on the `fields` parameter. `total=False` describes

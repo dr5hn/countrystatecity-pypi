@@ -29,7 +29,7 @@ Documented tier gating (see the API pricing page for the current table):
 * **full** -- adds ``translations`` and ``wikiDataId``.
 """
 
-from typing import Any, Dict, Optional, TypedDict
+from typing import Any, Dict, List, Optional, TypedDict
 
 __all__ = [
     "City",
@@ -44,6 +44,9 @@ __all__ = [
     "JsonDict",
     "JsonValue",
     "PhoneParsed",
+    "Postcode",
+    "PostcodePagination",
+    "PostcodeSearchResult",
     "Region",
     "State",
     "Subregion",
@@ -275,6 +278,75 @@ IsoConvert = TypedDict(
     {"from": str, "to": str, "input": str, "value": str, "result": str},
     total=False,
 )
+
+
+class Postcode(TypedDict, total=False):
+    """A postcode/ZIP code record from the postcode lookup and search endpoints.
+
+    ``id``, ``country_code``, and ``code`` are never null when present;
+    ``state_code``, ``locality_name``, and ``type`` may be. Field availability
+    follows the same tiered data-access levels as every other entity: ``id``,
+    ``code``, ``country_code``, ``state_code``, ``locality_name``, and
+    ``type`` are on every plan; ``country_id``, ``state_id``, ``city_id``,
+    ``latitude``, and ``longitude`` require coordinates access; ``source`` and
+    ``wikiDataId`` require full access.
+
+    ``id`` and ``country_id`` are never null; ``state_id`` and ``city_id`` are,
+    for a postcode not linked to a specific state or city record.
+
+    ``id``, ``country_id``, ``state_id``, and ``city_id`` are declared ``str``
+    like every other id in this API: they are ``BIGINT`` columns (``country_id``
+    /``state_id``/``city_id`` are foreign keys into the same BIGINT-backed
+    ``id`` columns as :class:`Country`/:class:`State`/:class:`City`), and this
+    API serialises bigints as JSON strings.
+
+    ``latitude``/``longitude`` are declared ``float``, unlike the equivalent
+    ``str``-typed fields on :class:`City`/:class:`State`/:class:`Country`.
+    Those are Postgres ``NUMERIC`` columns, stringified to avoid float
+    precision loss; the postcode table declares them ``DOUBLE PRECISION``
+    instead, which the driver returns as a native JSON number. Confirmed
+    against the API's schema and TypeScript types, not inferred from the
+    sibling entities.
+    """
+
+    id: str
+    code: str
+    country_code: str
+    state_code: Optional[str]
+    locality_name: Optional[str]
+    type: Optional[str]
+    country_id: str
+    state_id: Optional[str]
+    city_id: Optional[str]
+    latitude: Optional[float]
+    longitude: Optional[float]
+    source: Optional[str]
+    wikiDataId: Optional[str]
+
+
+class PostcodePagination(TypedDict, total=False):
+    """Cursor-pagination metadata for a postcode search/list response.
+
+    ``next_cursor`` is opaque -- treat it as a black box and pass it back
+    verbatim as the next call's ``cursor`` argument. There is no total count:
+    the API does not compute one for postcode searches.
+    """
+
+    limit: int
+    next_cursor: Optional[str]
+    has_more: bool
+
+
+class PostcodeSearchResult(TypedDict, total=False):
+    """The response envelope for ``get_postcodes_of_country``.
+
+    Unlike the single-entity and list endpoints elsewhere in this package,
+    postcode search returns matches alongside pagination state in one body,
+    so this wraps both rather than returning a bare list.
+    """
+
+    data: List[Postcode]
+    pagination: PostcodePagination
 
 
 class FuzzyResult(TypedDict, total=False):

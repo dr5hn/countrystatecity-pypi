@@ -90,6 +90,103 @@ REJECTED: Dict[str, Tuple[str, Tuple[Any, ...], Dict[str, Any]]] = {
     "fields-bytes": ("get_countries", (), {"fields": b"id"}),
     "fields-int": ("get_countries", (), {"fields": 123}),
     "fuzzy-threshold-string": ("fuzzy_search", ("pune",), {"threshold": "0.5"}),
+    "postcode-country-iso3": ("get_postcodes_by_code", ("GBR", "SW1A 1AA"), {}),
+    "postcode-country-numeric": ("get_postcodes_by_code", ("826", "SW1A 1AA"), {}),
+    "postcode-country-empty": ("get_postcodes_by_code", ("", "SW1A 1AA"), {}),
+    "postcode-code-empty-after-trim": ("get_postcodes_by_code", ("GB", "   "), {}),
+    "postcode-code-too-long": ("get_postcodes_by_code", ("GB", "x" * 21), {}),
+    "postcode-code-not-a-string": ("get_postcodes_by_code", ("GB", 12345), {}),
+    "postcode-code-slash": ("get_postcodes_by_code", ("GB", "AB/12"), {}),
+    "postcode-code-backslash": ("get_postcodes_by_code", ("GB", "AB\\12"), {}),
+    "postcode-code-control": ("get_postcodes_by_code", ("GB", "AB\n12"), {}),
+    "postcodes-country-iso3": ("get_postcodes_of_country", ("GBR",), {}),
+    "postcodes-q-too-short": ("get_postcodes_of_country", ("GB",), {"q": "a"}),
+    "postcodes-q-not-a-string": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"q": 123},
+    ),
+    "postcodes-q-too-short-after-trim": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"q": " a "},
+    ),
+    "postcodes-q-too-long": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"q": "x" * 101},
+    ),
+    "postcodes-state-code-too-long": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"state_code": "x" * 256},
+    ),
+    "postcodes-state-code-invalid-char": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"state_code": "EN G"},
+    ),
+    "postcodes-city-id-zero": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"city_id": 0},
+    ),
+    "postcodes-city-id-negative": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"city_id": -1},
+    ),
+    "postcodes-city-id-too-big": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"city_id": 2**63},
+    ),
+    "postcodes-type-invalid-character": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"type": "po box"},
+    ),
+    "postcodes-type-too-long": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"type": "x" * 33},
+    ),
+    "postcodes-type-not-a-string": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"type": 123},
+    ),
+    "postcodes-limit-zero": ("get_postcodes_of_country", ("GB",), {"limit": 0}),
+    "postcodes-limit-too-big": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"limit": 101},
+    ),
+    "postcodes-limit-bool": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"limit": True},
+    ),
+    "postcodes-cursor-empty": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"cursor": ""},
+    ),
+    "postcodes-cursor-too-long": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"cursor": "c" * 4097},
+    ),
+    "postcodes-cursor-not-a-string": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"cursor": 12345},
+    ),
+    "postcodes-fields-empty-list": (
+        "get_postcodes_of_country",
+        ("GB",),
+        {"fields": []},
+    ),
     "request-relative-path": ("request", ("countries",), {}),
     "request-path-not-a-string": ("request", (7,), {}),
     "request-params-string": ("request", ("/countries",), {"params": "SENTINEL"}),
@@ -323,6 +420,35 @@ def test_accepted_country_identifier_forms(value: Any) -> None:
         client.get_country(value)
 
     assert recorder.request.url.path == f"/v1/countries/{value}"
+
+
+@pytest.mark.parametrize("value", ["GB", "gb", "Gb"])
+def test_accepted_postcode_country_forms(value: str) -> None:
+    """Any letter case is accepted client-side, same as every other
+    country-scoped method -- the API matches case-insensitively, and this
+    package does not normalise case before sending the request.
+    """
+    recorder = Recorder(
+        json_body={
+            "data": [],
+            "meta": {"country_code": "GB", "query": "x", "match_count": 0},
+        }
+    )
+    with sync_client(recorder) as client:
+        client.get_postcodes_by_code(value, "SW1A 1AA")
+
+    assert recorder.request.url.path == f"/v1/countries/{value}/postcodes/SW1A 1AA"
+
+
+@pytest.mark.parametrize("value", ["IND", "GBR", 233])
+def test_postcode_country_rejects_iso3_and_numeric_ids(value: Any) -> None:
+    """Unlike every other country-scoped method, only ISO2 is accepted here."""
+    recorder = Recorder(json_body={})
+    with sync_client(recorder) as client:
+        with pytest.raises(ValidationError):
+            client.get_postcodes_by_code(value, "12345")
+
+    assert recorder.requests == []
 
 
 @pytest.mark.parametrize("path", ACCEPTED_PATHS)

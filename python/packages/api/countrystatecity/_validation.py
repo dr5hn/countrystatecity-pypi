@@ -56,6 +56,14 @@ _API_KEY_RE = re.compile(r"^[\x21-\x7e]+$")
 _SEARCH_MIN = 2
 _SEARCH_MAX = 100
 
+_POSTCODE_CODE_MIN = 1
+_POSTCODE_CODE_MAX = 20
+_POSTCODE_CODE_UNSUPPORTED_RE = re.compile(r"[\\/\x00-\x1f\x7f]")
+_POSTCODE_STATE_CODE_RE = re.compile(r"^[A-Za-z0-9-]{1,255}$")
+_POSTCODE_TYPE_RE = re.compile(r"^[a-z0-9_-]{1,32}$")
+_POSTCODE_CITY_ID_MAX = 2**63 - 1
+_CURSOR_MAX = 4096
+
 CODE_FORMATS = ("iso2", "iso3", "numeric")
 FUZZY_TYPES = ("city", "state", "country")
 
@@ -458,6 +466,129 @@ def phone_number(value: str, *, name: str = "number") -> str:
             "(e.g. '+14155552671')."
         )
     return text
+
+
+def postcode_code(value: str, *, name: str = "code") -> str:
+    """Validate a postcode/ZIP code for exact lookup.
+
+    Args:
+        value: The code to look up.
+        name: Argument name, used in the error message.
+
+    Returns:
+        The code with outer whitespace trimmed. Internal spaces and hyphens
+        are preserved; matching is case-insensitive server-side.
+
+    Raises:
+        ValidationError: If the trimmed code is not 1-20 characters or contains
+            a slash, backslash, or control character.
+    """
+    if not isinstance(value, str):
+        raise ValidationError(f"{name} must be a string; got {type(value).__name__}.")
+    trimmed = value.strip()
+    if not _POSTCODE_CODE_MIN <= len(trimmed) <= _POSTCODE_CODE_MAX:
+        raise ValidationError(
+            f"{name} must be {_POSTCODE_CODE_MIN}-{_POSTCODE_CODE_MAX} characters "
+            f"after trimming outer whitespace; got {len(trimmed)}."
+        )
+    if _POSTCODE_CODE_UNSUPPORTED_RE.search(trimmed):
+        raise ValidationError(
+            f"{name} must not contain slashes, backslashes, or control characters."
+        )
+    return trimmed
+
+
+def postcode_query(value: str, *, name: str = "q") -> str:
+    """Validate a postcode query after applying the API's outer trim."""
+    if not isinstance(value, str):
+        raise ValidationError(f"{name} must be a string; got {type(value).__name__}.")
+    return search_query(value.strip(), name=name)
+
+
+def postcode_state_code(value: Union[str, int], *, name: str = "state_code") -> str:
+    """Validate the ``state_code`` filter on postcode search.
+
+    Unlike the path-segment :func:`state_code`, which caps at 10 characters to
+    match real subdivision codes, the postcode search API documents this filter
+    with a wider 1-255 character bound.
+
+    Args:
+        value: The subdivision code to filter by.
+        name: Argument name, used in the error message.
+
+    Returns:
+        The code as a string.
+
+    Raises:
+        ValidationError: If the code is empty, longer than 255 characters, or
+            contains anything other than letters, digits, and hyphens.
+    """
+    text = _as_text(value, name=name)
+    if not _POSTCODE_STATE_CODE_RE.match(text):
+        raise ValidationError(
+            f"{name} must be 1-255 letters, digits, or hyphens; got {text!r}."
+        )
+    return text
+
+
+def postcode_type(value: str, *, name: str = "type") -> str:
+    """Validate a postcode source-classification filter.
+
+    Args:
+        value: A 1-32 character classification such as ``"full"``,
+            ``"street"``, ``"po_box"``, ``"fsa"``, or ``"area"``.
+        name: Argument name, used in the error message.
+
+    Returns:
+        The trimmed, lowercased type.
+
+    Raises:
+        ValidationError: If the type contains unsupported characters or is
+            outside the API's 1-32 character bound.
+    """
+    if not isinstance(value, str):
+        raise ValidationError(f"{name} must be a string; got {type(value).__name__}.")
+    text = value.strip().lower()
+    if not _POSTCODE_TYPE_RE.match(text):
+        raise ValidationError(
+            f"{name} must be 1-32 letters, digits, hyphens, or underscores."
+        )
+    return text
+
+
+def postcode_city_id(value: Union[str, int], *, name: str = "city_id") -> str:
+    """Validate a postcode city filter against PostgreSQL's BIGINT range."""
+    return _numeric_in_range(
+        _as_text(value, name=name), name=name, maximum=_POSTCODE_CITY_ID_MAX
+    )
+
+
+def cursor_token(value: str, *, name: str = "cursor") -> str:
+    """Validate an opaque postcode-search pagination cursor.
+
+    The cursor's internal shape is never inspected here: it is an
+    implementation detail of the API's pagination, and this package must not
+    parse or construct it -- only pass back a value the API itself returned.
+
+    Args:
+        value: The cursor, taken verbatim from a previous response's
+            ``pagination["next_cursor"]``.
+        name: Argument name, used in the error message.
+
+    Returns:
+        The cursor unchanged.
+
+    Raises:
+        ValidationError: If the cursor is not a non-empty string of at most
+            4096 characters.
+    """
+    if not isinstance(value, str) or not value:
+        raise ValidationError(f"{name} must be a non-empty string.")
+    if len(value) > _CURSOR_MAX:
+        raise ValidationError(
+            f"{name} must be at most {_CURSOR_MAX} characters; got {len(value)}."
+        )
+    return value
 
 
 def iso_country_code(value: str, *, name: str, label: Optional[str] = None) -> str:

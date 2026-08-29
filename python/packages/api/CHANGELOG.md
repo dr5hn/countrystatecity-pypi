@@ -7,6 +7,22 @@ This package is versioned independently of the offline `countrystatecity-*`
 data packages: it ships no data, so the weekly upstream data sync does not
 change it.
 
+## [0.2.0] - 2026-08-25
+
+### Added
+- Postcode lookup and search. `get_postcodes_by_code(country, code, fields=)`
+  looks up an exact postcode/ZIP code, free on every plan, and always returns
+  every matching locality -- a postcode can legitimately map to more than
+  one, and this method never silently returns just the first.
+  `get_postcodes_of_country(country, q=, state_code=, city_id=, type=,
+  limit=, cursor=, fields=)` pages through and searches a country's
+  postcodes; it requires a plan with the search feature.
+- `Postcode`, `PostcodePagination`, and `PostcodeSearchResult` types in
+  `countrystatecity.types`.
+- Both postcode endpoints accept only an ISO 3166-1 alpha-2 country code
+  (not ISO3 or a numeric id) -- the postcode table stores ISO2, and this is
+  intentionally narrower than the general country-scoped methods.
+
 ## [0.1.0] - 2026-08-24
 
 ### Added

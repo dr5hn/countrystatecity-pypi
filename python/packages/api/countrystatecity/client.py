@@ -32,6 +32,8 @@ from .types import (
     IsoState,
     JsonDict,
     PhoneParsed,
+    Postcode,
+    PostcodeSearchResult,
     Region,
     State,
     Subregion,
@@ -697,6 +699,98 @@ class CountryStateCity:
                     country=country,
                     limit=limit,
                     threshold=threshold,
+                )
+            ),
+        )
+
+    # -- postcodes -----------------------------------------------------------
+
+    def get_postcodes_by_code(
+        self, country: str, code: str, *, fields: Optional[FieldSelection] = None
+    ) -> List[Postcode]:
+        """Look up every postcode record matching an exact code.
+
+        Free on every plan. A postcode can legitimately map to more than one
+        locality, so this always returns every match -- never just the first.
+
+        Args:
+            country: ISO 3166-1 alpha-2 country code, e.g. ``"GB"``. Unlike
+                other country-scoped methods, ISO3 codes and numeric ids are
+                not accepted here.
+            code: The postcode to look up, 1-20 characters after trimming
+                outer whitespace. Matching is case-insensitive; internal
+                spaces and hyphens are preserved in the returned records.
+            fields: Fields to return. Requires a plan with field selection.
+
+        Returns:
+            Every matching record, in ascending ``id`` order.
+
+        Raises:
+            NotFoundError: If the country is unknown, has no postcode
+                coverage, or no record matches the code. ``.details["reason"]``
+                distinguishes ``"country_not_found"``,
+                ``"postcode_coverage_unavailable"``, and ``"postcode_not_found"``.
+        """
+        result = cast(
+            JsonDict, self._data(_endpoints.postcode(country, code, fields=fields))
+        )
+        return cast(List[Postcode], result.get("data", []))
+
+    def get_postcodes_of_country(
+        self,
+        country: str,
+        *,
+        q: Optional[str] = None,
+        state_code: Optional[str] = None,
+        city_id: Optional[Identifier] = None,
+        type: Optional[str] = None,
+        limit: Optional[int] = None,
+        cursor: Optional[str] = None,
+        fields: Optional[FieldSelection] = None,
+    ) -> PostcodeSearchResult:
+        """Page through and search a country's postcodes.
+
+        Requires a plan with the search feature (Supporter and above).
+
+        Args:
+            country: ISO 3166-1 alpha-2 country code, e.g. ``"GB"``. ISO3
+                codes and numeric ids are not accepted.
+            q: Case-insensitive code-prefix or locality-substring match,
+                2-100 characters.
+            state_code: Exact state/subdivision code filter, 1-255 letters,
+                digits, or hyphens.
+            city_id: Exact positive 64-bit city id filter.
+            type: Source-classification filter such as ``"full"``, ``"street"``,
+                ``"po_box"``, ``"fsa"``, or ``"area"``.
+            limit: Maximum records to return, 1-100. The server defaults to
+                50 when omitted.
+            cursor: An opaque continuation token taken verbatim from a
+                previous call's ``result["pagination"]["next_cursor"]``. Do
+                not parse or construct one yourself.
+            fields: Fields to return. Requires a plan with field selection.
+
+        Returns:
+            ``result["data"]`` holds the matching records, ordered by
+            normalised code then id. ``result["pagination"]`` holds
+            ``limit``, ``next_cursor``, and ``has_more`` -- there is no total
+            count, so keep paging while ``has_more`` is ``True``.
+
+        Raises:
+            PermissionDeniedError: If the plan does not include the search
+                feature.
+        """
+        return cast(
+            PostcodeSearchResult,
+            self._data(
+                _endpoints.postcodes(
+                    country,
+                    q=q,
+                    state_code=state_code,
+                    city_id=city_id,
+                    type=type,
+                    limit=limit,
+                    cursor=cursor,
+                    fields=fields,
                 )
             ),
         )
