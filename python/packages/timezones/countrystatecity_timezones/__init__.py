@@ -12,7 +12,7 @@ Example:
     ... )
 """
 
-__version__ = "1.0.5"
+__version__ = "2.0.1"
 
 from .api import (
     convert_time,

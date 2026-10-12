@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-regions"
-version = "1.0.1"
+version = "2.0.1"
 description = "Type-safe offline region and subregion associations for 250 countries."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [

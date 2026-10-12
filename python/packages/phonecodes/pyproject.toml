@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-phonecodes"
-version = "1.0.5"
+version = "2.0.1"
 description = "Type-safe offline data for international phone/dialing codes with 250 country associations."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [
