@@ -1,5 +1,17 @@
 [
   {
+    "id": 80829,
+    "name": "Ayacucho",
+    "state_id": 3692,
+    "state_code": "AYA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-13.15416667",
+    "longitude": "-74.22277778",
+    "county_id": 8215,
+    "wikiDataId": null
+  },
+  {
     "id": 80568,
     "name": "Ayacucho",
     "state_id": 3692,
@@ -8,6 +20,7 @@
     "country_code": "PE",
     "latitude": "-13.15878000",
     "longitude": "-74.22321000",
+    "county_id": 8215,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,7 @@
     "country_code": "PE",
     "latitude": "-12.65000000",
     "longitude": "-73.91667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,19 @@
     "country_code": "PE",
     "latitude": "-15.03333000",
     "longitude": "-73.78333000",
+    "county_id": 8221,
+    "wikiDataId": null
+  },
+  {
+    "id": 80873,
+    "name": "Coracora",
+    "state_id": 3692,
+    "state_code": "AYA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-15.01611111",
+    "longitude": "-73.78194444",
+    "county_id": 8221,
     "wikiDataId": null
   },
   {
@@ -41,6 +68,19 @@
     "country_code": "PE",
     "latitude": "-12.93333000",
     "longitude": "-74.25000000",
+    "county_id": 8218,
+    "wikiDataId": null
+  },
+  {
+    "id": 80835,
+    "name": "Huanta",
+    "state_id": 3692,
+    "state_code": "AYA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-12.93861111",
+    "longitude": "-74.24861111",
+    "county_id": 8218,
     "wikiDataId": null
   },
   {
@@ -52,6 +92,7 @@
     "country_code": "PE",
     "latitude": "-15.12275000",
     "longitude": "-73.26177000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,17 +104,7 @@
     "country_code": "PE",
     "latitude": "-13.57300000",
     "longitude": "-74.38900000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80829,
-    "name": "Provincia de Huamanga",
-    "state_id": 3692,
-    "state_code": "AYA",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-13.20000000",
-    "longitude": "-74.25000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +116,7 @@
     "country_code": "PE",
     "latitude": "-14.07600000",
     "longitude": "-74.42800000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80835,
-    "name": "Provincia de Huanta",
-    "state_id": 3692,
-    "state_code": "AYA",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-12.50000000",
-    "longitude": "-74.16667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +128,7 @@
     "country_code": "PE",
     "latitude": "-12.91667000",
     "longitude": "-73.83333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,17 +140,7 @@
     "country_code": "PE",
     "latitude": "-14.50000000",
     "longitude": "-74.33333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80873,
-    "name": "Provincia de Parinacochas",
-    "state_id": 3692,
-    "state_code": "AYA",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-15.02965000",
-    "longitude": "-73.63487000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +152,7 @@
     "country_code": "PE",
     "latitude": "-14.10300000",
     "longitude": "-73.78600000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +164,7 @@
     "country_code": "PE",
     "latitude": "-13.75000000",
     "longitude": "-74.33333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +176,7 @@
     "country_code": "PE",
     "latitude": "-13.63200000",
     "longitude": "-73.88800000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +188,7 @@
     "country_code": "PE",
     "latitude": "-14.70000000",
     "longitude": "-74.13333000",
+    "county_id": 8220,
     "wikiDataId": null
   },
   {
@@ -184,6 +200,7 @@
     "country_code": "PE",
     "latitude": "-13.01250000",
     "longitude": "-73.98083000",
+    "county_id": 8219,
     "wikiDataId": null
   },
   {
@@ -195,6 +212,7 @@
     "country_code": "PE",
     "latitude": "-14.79847000",
     "longitude": "-73.92438000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

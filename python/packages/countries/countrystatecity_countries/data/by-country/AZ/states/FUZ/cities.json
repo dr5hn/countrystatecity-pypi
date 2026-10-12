@@ -1,13 +1,14 @@
 [
   {
     "id": 8080,
-    "name": "Fizuli",
+    "name": "Fuzuli",
     "state_id": 527,
     "state_code": "FUZ",
     "country_id": 16,
     "country_code": "AZ",
     "latitude": "39.60094000",
     "longitude": "47.14529000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "AZ",
     "latitude": "39.45015000",
     "longitude": "47.33496000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

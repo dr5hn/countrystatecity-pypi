@@ -8,6 +8,7 @@
     "country_code": "MA",
     "latitude": "34.90239000",
     "longitude": "-5.94871000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "MA",
     "latitude": "34.61588000",
     "longitude": "-5.74040000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "MA",
     "latitude": "34.26101000",
     "longitude": "-6.58020000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "MA",
     "latitude": "34.58333000",
     "longitude": "-6.33333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,17 +56,7 @@
     "country_code": "MA",
     "latitude": "33.66667000",
     "longitude": "-6.25000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67161,
-    "name": "Mechraa Bel Ksiri",
-    "state_id": 3308,
-    "state_code": "KEN",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "34.57373000",
-    "longitude": "-5.95585000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,28 +68,7 @@
     "country_code": "MA",
     "latitude": "33.42585000",
     "longitude": "-6.00137000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67193,
-    "name": "Rabat",
-    "state_id": 3308,
-    "state_code": "KEN",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "34.01325000",
-    "longitude": "-6.83255000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67199,
-    "name": "Sale",
-    "state_id": 3308,
-    "state_code": "KEN",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "34.05310000",
-    "longitude": "-6.79846000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,17 +80,7 @@
     "country_code": "MA",
     "latitude": "34.56283000",
     "longitude": "-5.36208000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67211,
-    "name": "Sidi Qacem",
-    "state_id": 3308,
-    "state_code": "KEN",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "34.22149000",
-    "longitude": "-5.70775000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,28 +92,7 @@
     "country_code": "MA",
     "latitude": "34.68692000",
     "longitude": "-5.44538000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67214,
-    "name": "Sidi Slimane",
-    "state_id": 3308,
-    "state_code": "KEN",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "34.26479000",
-    "longitude": "-5.92598000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67216,
-    "name": "Sidi Yahia El Gharb",
-    "state_id": 3308,
-    "state_code": "KEN",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "34.30494000",
-    "longitude": "-6.30404000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,17 +104,7 @@
     "country_code": "MA",
     "latitude": "34.58333000",
     "longitude": "-5.75000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67218,
-    "name": "Skhirate",
-    "state_id": 3308,
-    "state_code": "KEN",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "33.85270000",
-    "longitude": "-7.03171000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +116,7 @@
     "country_code": "MA",
     "latitude": "33.77000000",
     "longitude": "-6.87000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,17 +128,7 @@
     "country_code": "MA",
     "latitude": "34.68664000",
     "longitude": "-6.00272000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67248,
-    "name": "Temara",
-    "state_id": 3308,
-    "state_code": "KEN",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "33.92866000",
-    "longitude": "-6.90656000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,17 +140,7 @@
     "country_code": "MA",
     "latitude": "34.67452000",
     "longitude": "-5.27331000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67252,
-    "name": "Tiflet",
-    "state_id": 3308,
-    "state_code": "KEN",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "33.89469000",
-    "longitude": "-6.30649000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

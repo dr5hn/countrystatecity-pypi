@@ -8,6 +8,7 @@
     "country_code": "UZ",
     "latitude": "39.76472000",
     "longitude": "67.27139000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "UZ",
     "latitude": "39.69667000",
     "longitude": "66.76861000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,17 +32,19 @@
     "country_code": "UZ",
     "latitude": "39.92028000",
     "longitude": "66.86111000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 129920,
-    "name": "Daxbet",
+    "name": "Dahbed",
     "state_id": 2544,
     "state_code": "SA",
     "country_id": 236,
     "country_code": "UZ",
     "latitude": "39.76389000",
     "longitude": "66.91250000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "UZ",
     "latitude": "39.96639000",
     "longitude": "66.48611000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "UZ",
     "latitude": "39.69889000",
     "longitude": "67.09333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "UZ",
     "latitude": "39.71611000",
     "longitude": "66.66417000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +92,19 @@
     "country_code": "UZ",
     "latitude": "39.89889000",
     "longitude": "66.25611000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165708,
+    "name": "Loyish Shaharchasi",
+    "state_id": 2544,
+    "state_code": "SA",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "39.87904000",
+    "longitude": "66.75055000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +116,19 @@
     "country_code": "UZ",
     "latitude": "39.92139000",
     "longitude": "65.92528000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165703,
+    "name": "Payariq Shahri",
+    "state_id": 2544,
+    "state_code": "SA",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "39.99249000",
+    "longitude": "66.85012000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +140,7 @@
     "country_code": "UZ",
     "latitude": "40.00778000",
     "longitude": "66.23694000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +152,19 @@
     "country_code": "UZ",
     "latitude": "39.65417000",
     "longitude": "66.95972000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165715,
+    "name": "Toyloq Qishlog’i",
+    "state_id": 2544,
+    "state_code": "SA",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "39.60139000",
+    "longitude": "67.09083000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +176,19 @@
     "country_code": "UZ",
     "latitude": "39.40222000",
     "longitude": "67.24306000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165725,
+    "name": "Ziyodin Shaharchasi",
+    "state_id": 2544,
+    "state_code": "SA",
+    "country_id": 236,
+    "country_code": "UZ",
+    "latitude": "40.03106000",
+    "longitude": "65.66619000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

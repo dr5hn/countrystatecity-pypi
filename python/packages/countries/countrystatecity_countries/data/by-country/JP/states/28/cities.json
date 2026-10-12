@@ -8,17 +8,7 @@
     "country_code": "JP",
     "latitude": "34.80361000",
     "longitude": "134.46806000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63221,
-    "name": "Aioi Shi",
-    "state_id": 831,
-    "state_code": "28",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "34.82719000",
-    "longitude": "134.46699000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,17 +20,7 @@
     "country_code": "JP",
     "latitude": "34.65524000",
     "longitude": "135.00687000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63229,
-    "name": "Akashi Shi",
-    "state_id": 831,
-    "state_code": "28",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "34.68277000",
-    "longitude": "134.94029000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +32,7 @@
     "country_code": "JP",
     "latitude": "34.73544000",
     "longitude": "135.41181000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +44,7 @@
     "country_code": "JP",
     "latitude": "35.26249000",
     "longitude": "134.82527000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,17 +56,7 @@
     "country_code": "JP",
     "latitude": "34.72807000",
     "longitude": "135.30264000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63268,
-    "name": "Ashiya Shi",
-    "state_id": 831,
-    "state_code": "28",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "34.74853000",
-    "longitude": "135.29759000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +68,7 @@
     "country_code": "JP",
     "latitude": "34.49749000",
     "longitude": "134.91331000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +80,7 @@
     "country_code": "JP",
     "latitude": "34.25765000",
     "longitude": "134.71535000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,17 +92,7 @@
     "country_code": "JP",
     "latitude": "34.81667000",
     "longitude": "134.70000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63479,
-    "name": "Himeji Shi",
-    "state_id": 831,
-    "state_code": "28",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "34.90134000",
-    "longitude": "134.66316000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,17 +104,7 @@
     "country_code": "JP",
     "latitude": "34.78427000",
     "longitude": "135.40126000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63609,
-    "name": "Itami Shi",
-    "state_id": 831,
-    "state_code": "28",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "34.78675000",
-    "longitude": "135.40562000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +116,7 @@
     "country_code": "JP",
     "latitude": "34.78472000",
     "longitude": "134.84897000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +128,7 @@
     "country_code": "JP",
     "latitude": "34.76943000",
     "longitude": "134.82905000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +140,7 @@
     "country_code": "JP",
     "latitude": "34.75136000",
     "longitude": "134.38734000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +152,7 @@
     "country_code": "JP",
     "latitude": "34.92476000",
     "longitude": "134.85359000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +164,7 @@
     "country_code": "JP",
     "latitude": "34.92714000",
     "longitude": "135.02134000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -215,19 +174,9 @@
     "state_code": "28",
     "country_id": 109,
     "country_code": "JP",
-    "latitude": "34.81667000",
-    "longitude": "135.41667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63773,
-    "name": "Kawanishi Shi",
-    "state_id": 831,
-    "state_code": "28",
-    "country_id": 109,
-    "country_code": "JP",
     "latitude": "34.87955000",
     "longitude": "135.40919000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +188,7 @@
     "country_code": "JP",
     "latitude": "34.69130000",
     "longitude": "135.18300000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +200,7 @@
     "country_code": "JP",
     "latitude": "34.80000000",
     "longitude": "134.98333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +212,7 @@
     "country_code": "JP",
     "latitude": "34.83553000",
     "longitude": "135.05822000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +224,7 @@
     "country_code": "JP",
     "latitude": "34.27530000",
     "longitude": "134.76465000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +236,7 @@
     "country_code": "JP",
     "latitude": "34.78194000",
     "longitude": "135.30247000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +248,7 @@
     "country_code": "JP",
     "latitude": "34.71562000",
     "longitude": "135.33199000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,17 +260,7 @@
     "country_code": "JP",
     "latitude": "34.98419000",
     "longitude": "134.97407000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64157,
-    "name": "Nishiwaki-shi",
-    "state_id": 831,
-    "state_code": "28",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.01098000",
-    "longitude": "134.99650000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,17 +272,7 @@
     "country_code": "JP",
     "latitude": "34.85000000",
     "longitude": "134.93333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64210,
-    "name": "Ono Shi",
-    "state_id": 831,
-    "state_code": "28",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "34.85750000",
-    "longitude": "134.95129000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -349,6 +284,7 @@
     "country_code": "JP",
     "latitude": "34.95506000",
     "longitude": "135.21660000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -360,6 +296,7 @@
     "country_code": "JP",
     "latitude": "34.88444000",
     "longitude": "135.22694000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -371,6 +308,7 @@
     "country_code": "JP",
     "latitude": "35.06667000",
     "longitude": "135.21667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,6 +320,7 @@
     "country_code": "JP",
     "latitude": "35.07523000",
     "longitude": "135.23087000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -393,6 +332,7 @@
     "country_code": "JP",
     "latitude": "34.78333000",
     "longitude": "134.71667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -404,6 +344,7 @@
     "country_code": "JP",
     "latitude": "35.15466000",
     "longitude": "134.54337000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,17 +356,7 @@
     "country_code": "JP",
     "latitude": "34.34322000",
     "longitude": "134.88911000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64385,
-    "name": "Sumoto Shi",
-    "state_id": 831,
-    "state_code": "28",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "34.34533000",
-    "longitude": "134.85858000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -437,6 +368,7 @@
     "country_code": "JP",
     "latitude": "35.08473000",
     "longitude": "134.90474000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -448,17 +380,7 @@
     "country_code": "JP",
     "latitude": "34.79936000",
     "longitude": "135.35697000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64434,
-    "name": "Takarazuka Shi",
-    "state_id": 831,
-    "state_code": "28",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "34.86008000",
-    "longitude": "135.33197000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -470,6 +392,7 @@
     "country_code": "JP",
     "latitude": "34.77796000",
     "longitude": "134.78665000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -481,6 +404,7 @@
     "country_code": "JP",
     "latitude": "35.17715000",
     "longitude": "135.04972000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -492,6 +416,7 @@
     "country_code": "JP",
     "latitude": "34.88804000",
     "longitude": "134.51910000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -503,6 +428,7 @@
     "country_code": "JP",
     "latitude": "34.86437000",
     "longitude": "134.55200000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -514,17 +440,7 @@
     "country_code": "JP",
     "latitude": "35.54008000",
     "longitude": "134.82038000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64532,
-    "name": "Toyooka-shi",
-    "state_id": 831,
-    "state_code": "28",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.51384000",
-    "longitude": "134.82724000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -536,17 +452,7 @@
     "country_code": "JP",
     "latitude": "35.40304000",
     "longitude": "134.77118000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64628,
-    "name": "Yabu-shi",
-    "state_id": 831,
-    "state_code": "28",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.38333000",
-    "longitude": "134.81667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -558,6 +464,7 @@
     "country_code": "JP",
     "latitude": "35.00000000",
     "longitude": "134.55000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -569,6 +476,7 @@
     "country_code": "JP",
     "latitude": "34.91667000",
     "longitude": "134.96667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -580,6 +488,7 @@
     "country_code": "JP",
     "latitude": "34.77560000",
     "longitude": "134.82551000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

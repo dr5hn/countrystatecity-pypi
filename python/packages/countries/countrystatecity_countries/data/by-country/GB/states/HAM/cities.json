@@ -8,6 +8,19 @@
     "country_code": "GB",
     "latitude": "51.19016000",
     "longitude": "-1.53234000",
+    "county_id": 8019,
+    "wikiDataId": null
+  },
+  {
+    "id": 48213,
+    "name": "Aldershot",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.24827000",
+    "longitude": "-0.76389000",
+    "county_id": 8018,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,7 @@
     "country_code": "GB",
     "latitude": "51.14931000",
     "longitude": "-0.97469000",
+    "county_id": 8011,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,7 @@
     "country_code": "GB",
     "latitude": "51.21135000",
     "longitude": "-1.49393000",
+    "county_id": 8019,
     "wikiDataId": null
   },
   {
@@ -41,17 +56,19 @@
     "country_code": "GB",
     "latitude": "51.19317000",
     "longitude": "-1.50719000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 153926,
-    "name": "Basingstoke and Deane",
+    "id": 48421,
+    "name": "Basingstoke",
     "state_id": 2435,
     "state_code": "HAM",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.25869640",
-    "longitude": "-1.54714010",
+    "latitude": "51.26249000",
+    "longitude": "-1.08708000",
+    "county_id": 8010,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,19 @@
     "country_code": "GB",
     "latitude": "50.95595000",
     "longitude": "-1.21476000",
+    "county_id": 8020,
+    "wikiDataId": null
+  },
+  {
+    "id": 48532,
+    "name": "Bishopstoke",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.96643000",
+    "longitude": "-1.32832000",
+    "county_id": 8012,
     "wikiDataId": null
   },
   {
@@ -74,6 +104,7 @@
     "country_code": "GB",
     "latitude": "51.11357000",
     "longitude": "-0.86245000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +116,7 @@
     "country_code": "GB",
     "latitude": "50.92329300",
     "longitude": "-1.49372050",
-    "wikiDataId": null
-  },
-  {
-    "id": 153934,
-    "name": "Borough of Fareham",
-    "state_id": 2435,
-    "state_code": "HAM",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "50.85415160",
-    "longitude": "-1.29500360",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,17 +128,91 @@
     "country_code": "GB",
     "latitude": "50.84054370",
     "longitude": "-1.15549270",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 153929,
-    "name": "City of Winchester",
+    "id": 48619,
+    "name": "Botley",
     "state_id": 2435,
     "state_code": "HAM",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.02602660",
-    "longitude": "-1.57486330",
+    "latitude": "50.91433000",
+    "longitude": "-1.26984000",
+    "county_id": 8012,
+    "wikiDataId": null
+  },
+  {
+    "id": 48658,
+    "name": "Bramley",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.32677000",
+    "longitude": "-1.05938000",
+    "county_id": 8010,
+    "wikiDataId": null
+  },
+  {
+    "id": 48662,
+    "name": "Bransgore",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.78153000",
+    "longitude": "-1.73771000",
+    "county_id": 8017,
+    "wikiDataId": null
+  },
+  {
+    "id": 48716,
+    "name": "Brockenhurst",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.81936000",
+    "longitude": "-1.57303000",
+    "county_id": 8017,
+    "wikiDataId": null
+  },
+  {
+    "id": 48770,
+    "name": "Burley",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.82800000",
+    "longitude": "-1.69977000",
+    "county_id": 8017,
+    "wikiDataId": null
+  },
+  {
+    "id": 48786,
+    "name": "Bursledon",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.88658000",
+    "longitude": "-1.31596000",
+    "county_id": 8012,
+    "wikiDataId": null
+  },
+  {
+    "id": 48809,
+    "name": "Cadnam",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.92047000",
+    "longitude": "-1.57970000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +224,7 @@
     "country_code": "GB",
     "latitude": "50.99483000",
     "longitude": "-1.31143000",
+    "county_id": 8020,
     "wikiDataId": null
   },
   {
@@ -140,6 +236,55 @@
     "country_code": "GB",
     "latitude": "51.02385000",
     "longitude": "-1.33713000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49135,
+    "name": "Cowplain",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.89411000",
+    "longitude": "-1.01824000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49168,
+    "name": "Crondall",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.23285000",
+    "longitude": "-0.86329000",
+    "county_id": 8015,
+    "wikiDataId": null
+  },
+  {
+    "id": 49264,
+    "name": "Denmead",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.90395000",
+    "longitude": "-1.06744000",
+    "county_id": 8020,
+    "wikiDataId": null
+  },
+  {
+    "id": 49392,
+    "name": "East Dean",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.03979000",
+    "longitude": "-1.60941000",
+    "county_id": 8019,
     "wikiDataId": null
   },
   {
@@ -151,6 +296,91 @@
     "country_code": "GB",
     "latitude": "51.03996830",
     "longitude": "-1.26791280",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49419,
+    "name": "Eastleigh",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.96667000",
+    "longitude": "-1.35000000",
+    "county_id": 8012,
+    "wikiDataId": null
+  },
+  {
+    "id": 49474,
+    "name": "Emsworth",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.84779000",
+    "longitude": "-0.93697000",
+    "county_id": 8016,
+    "wikiDataId": null
+  },
+  {
+    "id": 49497,
+    "name": "Eversley",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.35387000",
+    "longitude": "-0.88888000",
+    "county_id": 8015,
+    "wikiDataId": null
+  },
+  {
+    "id": 49526,
+    "name": "Fareham",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.85162000",
+    "longitude": "-1.17929000",
+    "county_id": 8013,
+    "wikiDataId": null
+  },
+  {
+    "id": 49528,
+    "name": "Farnborough",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.29424000",
+    "longitude": "-0.75565000",
+    "county_id": 8018,
+    "wikiDataId": null
+  },
+  {
+    "id": 49569,
+    "name": "Fleet",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.28333000",
+    "longitude": "-0.83333000",
+    "county_id": 8015,
+    "wikiDataId": null
+  },
+  {
+    "id": 49585,
+    "name": "Fordingbridge",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.92747000",
+    "longitude": "-1.79029000",
+    "county_id": 8017,
     "wikiDataId": null
   },
   {
@@ -162,6 +392,19 @@
     "country_code": "GB",
     "latitude": "51.10735000",
     "longitude": "-1.04945000",
+    "county_id": 8011,
+    "wikiDataId": null
+  },
+  {
+    "id": 49688,
+    "name": "Gosport",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.79509000",
+    "longitude": "-1.12902000",
+    "county_id": 8014,
     "wikiDataId": null
   },
   {
@@ -173,28 +416,79 @@
     "country_code": "GB",
     "latitude": "50.80684660",
     "longitude": "-1.23298150",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 49796,
-    "name": "Hampshire",
+    "id": 49825,
+    "name": "Hartley Wintney",
     "state_id": 2435,
     "state_code": "HAM",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.00000000",
-    "longitude": "-1.25000000",
+    "latitude": "51.30379000",
+    "longitude": "-0.90019000",
+    "county_id": 8015,
     "wikiDataId": null
   },
   {
-    "id": 153927,
-    "name": "Hart",
+    "id": 49846,
+    "name": "Havant",
     "state_id": 2435,
     "state_code": "HAM",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.27626210",
-    "longitude": "-1.04741840",
+    "latitude": "50.85670000",
+    "longitude": "-0.98559000",
+    "county_id": 8016,
+    "wikiDataId": null
+  },
+  {
+    "id": 49864,
+    "name": "Hayling Island",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.78380000",
+    "longitude": "-0.96869000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49885,
+    "name": "Hedge End",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.91234000",
+    "longitude": "-1.30076000",
+    "county_id": 8012,
+    "wikiDataId": null
+  },
+  {
+    "id": 49935,
+    "name": "Highclere",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.33860000",
+    "longitude": "-1.37569000",
+    "county_id": 8010,
+    "wikiDataId": null
+  },
+  {
+    "id": 50038,
+    "name": "Hythe",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.86004000",
+    "longitude": "-1.40162000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +500,43 @@
     "country_code": "GB",
     "latitude": "51.08862000",
     "longitude": "-1.29780000",
+    "county_id": 8020,
+    "wikiDataId": null
+  },
+  {
+    "id": 50171,
+    "name": "Kingsclere",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.32487000",
+    "longitude": "-1.24339000",
+    "county_id": 8010,
+    "wikiDataId": null
+  },
+  {
+    "id": 50269,
+    "name": "Lee-on-the-Solent",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.80169000",
+    "longitude": "-1.20174000",
+    "county_id": 8014,
+    "wikiDataId": null
+  },
+  {
+    "id": 50316,
+    "name": "Liphook",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.07673000",
+    "longitude": "-0.80320000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +548,79 @@
     "country_code": "GB",
     "latitude": "51.04277000",
     "longitude": "-0.89238000",
+    "county_id": 8011,
+    "wikiDataId": null
+  },
+  {
+    "id": 50400,
+    "name": "Long Sutton",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.21978000",
+    "longitude": "-0.94293000",
+    "county_id": 8015,
+    "wikiDataId": null
+  },
+  {
+    "id": 50447,
+    "name": "Lymington",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.75767000",
+    "longitude": "-1.54430000",
+    "county_id": 8017,
+    "wikiDataId": null
+  },
+  {
+    "id": 50451,
+    "name": "Lyndhurst",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.87259000",
+    "longitude": "-1.57662000",
+    "county_id": 8017,
+    "wikiDataId": null
+  },
+  {
+    "id": 50494,
+    "name": "Marchwood",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.88966000",
+    "longitude": "-1.45440000",
+    "county_id": 8017,
+    "wikiDataId": null
+  },
+  {
+    "id": 50583,
+    "name": "Milford on Sea",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.72561000",
+    "longitude": "-1.59004000",
+    "county_id": 8017,
+    "wikiDataId": null
+  },
+  {
+    "id": 50683,
+    "name": "Netley",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.87634000",
+    "longitude": "-1.35398000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +632,7 @@
     "country_code": "GB",
     "latitude": "51.08624000",
     "longitude": "-1.17011000",
+    "county_id": 8020,
     "wikiDataId": null
   },
   {
@@ -239,6 +644,55 @@
     "country_code": "GB",
     "latitude": "50.85755500",
     "longitude": "-1.95892620",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50692,
+    "name": "New Milton",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.75601000",
+    "longitude": "-1.66580000",
+    "county_id": 8017,
+    "wikiDataId": null
+  },
+  {
+    "id": 50748,
+    "name": "North Baddesley",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.97745000",
+    "longitude": "-1.44547000",
+    "county_id": 8019,
+    "wikiDataId": null
+  },
+  {
+    "id": 50798,
+    "name": "Odiham",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.25407000",
+    "longitude": "-0.93933000",
+    "county_id": 8015,
+    "wikiDataId": null
+  },
+  {
+    "id": 50801,
+    "name": "Old Basing",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.26667000",
+    "longitude": "-1.03333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +704,7 @@
     "country_code": "GB",
     "latitude": "51.24389000",
     "longitude": "-1.26154000",
+    "county_id": 8010,
     "wikiDataId": null
   },
   {
@@ -261,39 +716,43 @@
     "country_code": "GB",
     "latitude": "51.00495000",
     "longitude": "-0.93375000",
+    "county_id": 8011,
     "wikiDataId": null
   },
   {
-    "id": 153936,
-    "name": "Portsmouth",
+    "id": 51084,
+    "name": "Ringwood",
     "state_id": 2435,
     "state_code": "HAM",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "50.80481520",
-    "longitude": "-1.17913160",
+    "latitude": "50.84541000",
+    "longitude": "-1.78871000",
+    "county_id": 8017,
     "wikiDataId": null
   },
   {
-    "id": 153928,
-    "name": "Rushmoor",
+    "id": 51103,
+    "name": "Romsey",
     "state_id": 2435,
     "state_code": "HAM",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.27534950",
-    "longitude": "-0.85084390",
+    "latitude": "50.98906000",
+    "longitude": "-1.49989000",
+    "county_id": 8019,
     "wikiDataId": null
   },
   {
-    "id": 153932,
-    "name": "Southampton",
+    "id": 51266,
+    "name": "Sherborne St John",
     "state_id": 2435,
     "state_code": "HAM",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "50.98636630",
-    "longitude": "-1.94300190",
+    "latitude": "51.29705000",
+    "longitude": "-1.11387000",
+    "county_id": 8010,
     "wikiDataId": null
   },
   {
@@ -305,17 +764,79 @@
     "country_code": "GB",
     "latitude": "50.94404000",
     "longitude": "-1.18021000",
+    "county_id": 8020,
     "wikiDataId": null
   },
   {
-    "id": 153925,
-    "name": "Test Valley",
+    "id": 51535,
+    "name": "Sway",
     "state_id": 2435,
     "state_code": "HAM",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.13375560",
-    "longitude": "-1.83112950",
+    "latitude": "50.78685000",
+    "longitude": "-1.60294000",
+    "county_id": 8017,
+    "wikiDataId": null
+  },
+  {
+    "id": 51544,
+    "name": "Tadley",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.35045000",
+    "longitude": "-1.12850000",
+    "county_id": 8010,
+    "wikiDataId": null
+  },
+  {
+    "id": 51652,
+    "name": "Totton",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.91877000",
+    "longitude": "-1.49037000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51772,
+    "name": "Waterlooville",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.88067000",
+    "longitude": "-1.03040000",
+    "county_id": 8016,
+    "wikiDataId": null
+  },
+  {
+    "id": 51816,
+    "name": "West End",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.92741000",
+    "longitude": "-1.33282000",
+    "county_id": 8012,
+    "wikiDataId": null
+  },
+  {
+    "id": 51892,
+    "name": "Wickham",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.89924000",
+    "longitude": "-1.18815000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,6 +848,19 @@
     "country_code": "GB",
     "latitude": "51.06513000",
     "longitude": "-1.31870000",
+    "county_id": 8020,
+    "wikiDataId": null
+  },
+  {
+    "id": 52015,
+    "name": "Yateley",
+    "state_id": 2435,
+    "state_code": "HAM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.34305000",
+    "longitude": "-0.82985000",
+    "county_id": 8015,
     "wikiDataId": null
   }
 ]

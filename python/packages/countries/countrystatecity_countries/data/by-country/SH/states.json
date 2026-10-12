@@ -13,6 +13,19 @@
     "timezone": "Atlantic/St_Helena"
   },
   {
+    "id": 5837,
+    "name": "Ascension",
+    "country_id": 184,
+    "country_code": "SH",
+    "state_code": "AC",
+    "type": "geographical entity",
+    "latitude": "-7.94166667",
+    "longitude": "-14.36250000",
+    "iso3166_2": "SH-AC",
+    "native": "Ascension",
+    "timezone": "Atlantic/St_Helena"
+  },
+  {
     "id": 5441,
     "name": "Blue Hill",
     "country_id": 184,
@@ -78,6 +91,19 @@
     "timezone": "Atlantic/St_Helena"
   },
   {
+    "id": 5838,
+    "name": "Saint Helena",
+    "country_id": 184,
+    "country_code": "SH",
+    "state_code": "HL",
+    "type": "geographical entity",
+    "latitude": "-15.96388889",
+    "longitude": "-5.70694444",
+    "iso3166_2": "SH-HL",
+    "native": "Saint Helena",
+    "timezone": "Atlantic/St_Helena"
+  },
+  {
     "id": 5447,
     "name": "Saint Paul's",
     "country_id": 184,
@@ -101,6 +127,19 @@
     "longitude": "-5.71270750",
     "iso3166_2": "SH-07",
     "native": "Sandy Bay",
+    "timezone": "Atlantic/St_Helena"
+  },
+  {
+    "id": 5839,
+    "name": "Tristan da Cunha",
+    "country_id": 184,
+    "country_code": "SH",
+    "state_code": "TA",
+    "type": "geographical entity",
+    "latitude": "-37.11284000",
+    "longitude": "-12.28343000",
+    "iso3166_2": "SH-TA",
+    "native": "Tristan da Cunha",
     "timezone": "Atlantic/St_Helena"
   }
 ]

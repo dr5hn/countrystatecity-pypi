@@ -1,13 +1,14 @@
 [
   {
     "id": 67013,
-    "name": "Ghadāmis",
+    "name": "Ghadames",
     "state_id": 2976,
     "state_code": "NL",
     "country_id": 124,
     "country_code": "LY",
     "latitude": "30.13366000",
     "longitude": "9.50072000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "LY",
     "latitude": "31.86848000",
     "longitude": "10.98120000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

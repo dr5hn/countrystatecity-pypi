@@ -1,24 +1,38 @@
 [
   {
-    "id": 154311,
-    "name": "Adolfo Alsina",
+    "id": 154400,
+    "name": "9 de Julio",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.16054780",
-    "longitude": "-64.22506020",
+    "latitude": "-35.45000000",
+    "longitude": "-60.88333333",
+    "county_id": 6409,
     "wikiDataId": null
   },
   {
     "id": 154312,
-    "name": "Adolfo Gonzáles Chaves",
+    "name": "Adolfo Gonzales Chaves",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.93801600",
-    "longitude": "-60.90296530",
+    "latitude": "-38.03339951",
+    "longitude": "-60.10033417",
+    "county_id": 6321,
+    "wikiDataId": null
+  },
+  {
+    "id": 164426,
+    "name": "Adrogué",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.80041000",
+    "longitude": "-58.38384000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -28,19 +42,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.02768320",
-    "longitude": "-60.58411980",
+    "latitude": "-35.01666667",
+    "longitude": "-60.26666667",
+    "county_id": 6322,
     "wikiDataId": null
   },
   {
-    "id": 154314,
-    "name": "Almirante Brown",
+    "id": 154415,
+    "name": "América",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.83197240",
-    "longitude": "-58.45251410",
+    "latitude": "-35.49002075",
+    "longitude": "-62.97202301",
+    "county_id": 6424,
     "wikiDataId": null
   },
   {
@@ -50,8 +66,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.00603330",
-    "longitude": "-60.33782350",
+    "latitude": "-34.06646347",
+    "longitude": "-60.10272217",
+    "county_id": 6330,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "AR",
     "latitude": "-34.66134140",
     "longitude": "-58.38802660",
+    "county_id": 6324,
     "wikiDataId": null
   },
   {
@@ -72,8 +90,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.97372280",
-    "longitude": "-59.08902220",
+    "latitude": "-37.14955902",
+    "longitude": "-58.47529983",
+    "county_id": 6325,
     "wikiDataId": null
   },
   {
@@ -83,8 +102,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.82779090",
-    "longitude": "-60.99253580",
+    "latitude": "-36.78702927",
+    "longitude": "-59.86066818",
+    "county_id": 6326,
     "wikiDataId": null
   },
   {
@@ -94,8 +114,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.58796980",
-    "longitude": "-62.50794130",
+    "latitude": "-38.71467972",
+    "longitude": "-62.27904510",
+    "county_id": 6327,
     "wikiDataId": null
   },
   {
@@ -105,8 +126,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.75449560",
-    "longitude": "-58.93081520",
+    "latitude": "-37.85528946",
+    "longitude": "-58.25904465",
+    "county_id": 6328,
+    "wikiDataId": null
+  },
+  {
+    "id": 164406,
+    "name": "Banfield",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.74563000",
+    "longitude": "-58.39365000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -116,8 +150,33 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-33.90652010",
-    "longitude": "-59.81822290",
+    "latitude": "-33.81264114",
+    "longitude": "-59.50539780",
+    "county_id": 6329,
+    "wikiDataId": null
+  },
+  {
+    "id": 154346,
+    "name": "Belén de Escobar",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.34614795",
+    "longitude": "-58.79609545",
+    "county_id": 6355,
+    "wikiDataId": null
+  },
+  {
+    "id": 164403,
+    "name": "Bella Vista",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.56510000",
+    "longitude": "-58.69034000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -127,8 +186,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.58593960",
-    "longitude": "-60.52379500",
+    "latitude": "-37.66666667",
+    "longitude": "-59.78333333",
+    "county_id": 6331,
     "wikiDataId": null
   },
   {
@@ -138,8 +198,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.84334610",
-    "longitude": "-58.30738810",
+    "latitude": "-34.75953900",
+    "longitude": "-58.20480796",
+    "county_id": 6332,
     "wikiDataId": null
   },
   {
@@ -151,17 +212,7 @@
     "country_code": "AR",
     "latitude": "-34.89821320",
     "longitude": "-57.90243650",
-    "wikiDataId": null
-  },
-  {
-    "id": 154325,
-    "name": "Bolívar",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-36.28911980",
-    "longitude": "-61.78736580",
+    "county_id": 6333,
     "wikiDataId": null
   },
   {
@@ -173,6 +224,7 @@
     "country_code": "AR",
     "latitude": "-35.02574040",
     "longitude": "-61.25370530",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +236,19 @@
     "country_code": "AR",
     "latitude": "-35.19510090",
     "longitude": "-58.49818770",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164400,
+    "name": "Burzaco",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.82584000",
+    "longitude": "-58.39502000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -193,8 +258,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.16079930",
-    "longitude": "-59.22022530",
+    "latitude": "-34.17323303",
+    "longitude": "-58.95826721",
+    "county_id": 6337,
     "wikiDataId": null
   },
   {
@@ -204,8 +270,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.15525400",
-    "longitude": "-59.03069800",
+    "latitude": "-35.05360031",
+    "longitude": "-58.76054382",
+    "county_id": 6338,
+    "wikiDataId": null
+  },
+  {
+    "id": 154348,
+    "name": "Capilla del Señor",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.28719400",
+    "longitude": "-59.10183300",
+    "county_id": 6357,
     "wikiDataId": null
   },
   {
@@ -215,8 +294,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.14170660",
-    "longitude": "-60.02221190",
+    "latitude": "-34.17471695",
+    "longitude": "-59.79249573",
+    "county_id": 6339,
+    "wikiDataId": null
+  },
+  {
+    "id": 154311,
+    "name": "Carhué",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-37.17893219",
+    "longitude": "-62.75990677",
+    "county_id": 6320,
     "wikiDataId": null
   },
   {
@@ -226,8 +318,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.72219790",
-    "longitude": "-62.03779560",
+    "latitude": "-35.62154388",
+    "longitude": "-61.36374664",
+    "county_id": 6340,
     "wikiDataId": null
   },
   {
@@ -237,8 +330,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.39445380",
-    "longitude": "-63.06241220",
+    "latitude": "-35.39120102",
+    "longitude": "-62.41844559",
+    "county_id": 6341,
     "wikiDataId": null
   },
   {
@@ -248,8 +342,33 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.41836420",
-    "longitude": "-60.23786820",
+    "latitude": "-34.38088135",
+    "longitude": "-59.82288013",
+    "county_id": 6342,
+    "wikiDataId": null
+  },
+  {
+    "id": 154402,
+    "name": "Carmen de Patagones",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-40.79159164",
+    "longitude": "-62.99021149",
+    "county_id": 6411,
+    "wikiDataId": null
+  },
+  {
+    "id": 164398,
+    "name": "Castelar",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.65142000",
+    "longitude": "-58.64074000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -259,8 +378,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.01838980",
-    "longitude": "-57.98088650",
+    "latitude": "-36.09033585",
+    "longitude": "-57.81335831",
+    "county_id": 6343,
     "wikiDataId": null
   },
   {
@@ -270,8 +390,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.63340080",
-    "longitude": "-60.65114680",
+    "latitude": "-34.64027786",
+    "longitude": "-60.47129822",
+    "county_id": 6349,
     "wikiDataId": null
   },
   {
@@ -281,8 +402,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.59543280",
-    "longitude": "-58.56002660",
+    "latitude": "-35.57500000",
+    "longitude": "-58.00888889",
+    "county_id": 6350,
     "wikiDataId": null
   },
   {
@@ -292,8 +414,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.90790700",
-    "longitude": "-60.28432600",
+    "latitude": "-34.89602280",
+    "longitude": "-60.01704788",
+    "county_id": 6351,
     "wikiDataId": null
   },
   {
@@ -303,8 +426,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-33.85225870",
-    "longitude": "-61.40124400",
+    "latitude": "-33.89921570",
+    "longitude": "-61.10155106",
+    "county_id": 6344,
     "wikiDataId": null
   },
   {
@@ -314,8 +438,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.64031010",
-    "longitude": "-61.77287250",
+    "latitude": "-38.71692657",
+    "longitude": "-61.29127121",
+    "county_id": 6346,
     "wikiDataId": null
   },
   {
@@ -325,19 +450,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.16604130",
-    "longitude": "-61.89518000",
-    "wikiDataId": null
-  },
-  {
-    "id": 154341,
-    "name": "Coronel Rosales",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-38.81492060",
-    "longitude": "-62.14727610",
+    "latitude": "-37.98511280",
+    "longitude": "-61.34997710",
+    "county_id": 6347,
     "wikiDataId": null
   },
   {
@@ -347,8 +462,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.53029820",
-    "longitude": "-63.25323390",
+    "latitude": "-37.45483780",
+    "longitude": "-61.93674850",
+    "county_id": 6348,
+    "wikiDataId": null
+  },
+  {
+    "id": 164444,
+    "name": "Coronel Vidal",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-37.44652000",
+    "longitude": "-57.72939000",
+    "county_id": 6399,
     "wikiDataId": null
   },
   {
@@ -358,8 +486,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.61930860",
-    "longitude": "-62.52352980",
+    "latitude": "-36.60051346",
+    "longitude": "-61.74769211",
+    "county_id": 6352,
     "wikiDataId": null
   },
   {
@@ -369,8 +498,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.41467360",
-    "longitude": "-58.32462490",
+    "latitude": "-36.31482696",
+    "longitude": "-57.68048859",
+    "county_id": 6353,
+    "wikiDataId": null
+  },
+  {
+    "id": 164404,
+    "name": "Don Torcuato",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.49459000",
+    "longitude": "-58.62729000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -380,19 +522,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.84156190",
-    "longitude": "-58.06269460",
-    "wikiDataId": null
-  },
-  {
-    "id": 154346,
-    "name": "Escobar",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-34.34251230",
-    "longitude": "-58.93997620",
+    "latitude": "-34.85908766",
+    "longitude": "-57.91320629",
+    "county_id": 6354,
     "wikiDataId": null
   },
   {
@@ -404,17 +536,7 @@
     "country_code": "AR",
     "latitude": "-34.82406180",
     "longitude": "-58.63358570",
-    "wikiDataId": null
-  },
-  {
-    "id": 154348,
-    "name": "Exaltación de la Cruz",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-34.31228650",
-    "longitude": "-59.31295630",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -424,8 +546,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.87357520",
-    "longitude": "-58.73505670",
+    "latitude": "-34.83333333",
+    "longitude": "-58.51666667",
+    "county_id": 6358,
     "wikiDataId": null
   },
   {
@@ -435,8 +558,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.88873210",
-    "longitude": "-58.42115210",
+    "latitude": "-34.79680757",
+    "longitude": "-58.27479752",
+    "county_id": 6359,
     "wikiDataId": null
   },
   {
@@ -446,19 +570,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.88624610",
-    "longitude": "-62.70302560",
-    "wikiDataId": null
-  },
-  {
-    "id": 154352,
-    "name": "General Alvarado",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-38.19975330",
-    "longitude": "-58.38977980",
+    "latitude": "-34.84611893",
+    "longitude": "-62.46739578",
+    "county_id": 6360,
     "wikiDataId": null
   },
   {
@@ -468,8 +582,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.03836820",
-    "longitude": "-60.76716020",
+    "latitude": "-36.02236557",
+    "longitude": "-60.01255035",
+    "county_id": 6362,
     "wikiDataId": null
   },
   {
@@ -479,8 +594,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.23810350",
-    "longitude": "-61.61258250",
+    "latitude": "-34.30286817",
+    "longitude": "-61.30775050",
+    "county_id": 6363,
     "wikiDataId": null
   },
   {
@@ -490,8 +606,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.84190100",
-    "longitude": "-59.04535800",
+    "latitude": "-35.77000238",
+    "longitude": "-58.50115585",
+    "county_id": 6364,
+    "wikiDataId": null
+  },
+  {
+    "id": 154435,
+    "name": "General Conesa",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-36.51737595",
+    "longitude": "-57.32342911",
+    "county_id": 6444,
     "wikiDataId": null
   },
   {
@@ -501,8 +630,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.67376360",
-    "longitude": "-58.63303620",
+    "latitude": "-36.64743423",
+    "longitude": "-57.79345322",
+    "county_id": 6365,
+    "wikiDataId": null
+  },
+  {
+    "id": 154360,
+    "name": "General Juan Madariaga",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-37.00591146",
+    "longitude": "-57.13434415",
+    "county_id": 6366,
     "wikiDataId": null
   },
   {
@@ -512,8 +654,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.39889560",
-    "longitude": "-61.97377640",
+    "latitude": "-37.24824524",
+    "longitude": "-61.26410675",
+    "county_id": 6367,
     "wikiDataId": null
   },
   {
@@ -523,8 +666,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.90931560",
-    "longitude": "-59.32777060",
+    "latitude": "-34.93333333",
+    "longitude": "-58.95000000",
+    "county_id": 6368,
     "wikiDataId": null
   },
   {
@@ -534,30 +678,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.67005230",
-    "longitude": "-57.67282310",
+    "latitude": "-36.40634918",
+    "longitude": "-56.94319916",
+    "county_id": 6369,
     "wikiDataId": null
   },
   {
-    "id": 154360,
-    "name": "General Madariaga",
+    "id": 164410,
+    "name": "General Pacheco",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.15579700",
-    "longitude": "-57.90662040",
-    "wikiDataId": null
-  },
-  {
-    "id": 154361,
-    "name": "General Paz",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-35.47363710",
-    "longitude": "-58.69690130",
+    "latitude": "-34.45256000",
+    "longitude": "-58.64312000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -567,19 +702,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.68311120",
-    "longitude": "-62.34048360",
-    "wikiDataId": null
-  },
-  {
-    "id": 154363,
-    "name": "General Pueyrredón",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-37.97153260",
-    "longitude": "-58.11219280",
+    "latitude": "-34.76459503",
+    "longitude": "-61.89147568",
+    "county_id": 6371,
     "wikiDataId": null
   },
   {
@@ -589,8 +714,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.63970400",
-    "longitude": "-59.16470220",
+    "latitude": "-34.60828400",
+    "longitude": "-58.95051193",
+    "county_id": 6373,
     "wikiDataId": null
   },
   {
@@ -600,19 +726,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.54379540",
-    "longitude": "-58.64700250",
-    "wikiDataId": null
-  },
-  {
-    "id": 154366,
-    "name": "General Viamonte",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-34.97753020",
-    "longitude": "-61.40151400",
+    "latitude": "-34.57717508",
+    "longitude": "-58.53764178",
+    "county_id": 6374,
     "wikiDataId": null
   },
   {
@@ -622,8 +738,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.87360000",
-    "longitude": "-63.48656420",
+    "latitude": "-35.03333333",
+    "longitude": "-63.01666667",
+    "county_id": 6376,
     "wikiDataId": null
   },
   {
@@ -633,19 +750,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.89982740",
-    "longitude": "-63.07273400",
+    "latitude": "-37.01917267",
+    "longitude": "-62.42125320",
+    "county_id": 6377,
     "wikiDataId": null
   },
   {
     "id": 154369,
-    "name": "Hipólito Yrigoyen",
+    "name": "Henderson",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.27101580",
-    "longitude": "-61.98866530",
+    "latitude": "-36.30134582",
+    "longitude": "-61.71709061",
+    "county_id": 6378,
     "wikiDataId": null
   },
   {
@@ -655,8 +774,33 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.59796270",
-    "longitude": "-58.69618060",
+    "latitude": "-34.60000000",
+    "longitude": "-58.63333333",
+    "county_id": 6379,
+    "wikiDataId": null
+  },
+  {
+    "id": 164413,
+    "name": "Ingeniero Pablo Nogués",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.47775000",
+    "longitude": "-58.70652000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164397,
+    "name": "Isidro Casanova",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.70000000",
+    "longitude": "-58.58745000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -666,8 +810,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.63969570",
-    "longitude": "-58.77365750",
+    "latitude": "-34.64955521",
+    "longitude": "-58.68729401",
+    "county_id": 6380,
     "wikiDataId": null
   },
   {
@@ -677,8 +822,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.50433760",
-    "longitude": "-58.85464360",
+    "latitude": "-34.51666667",
+    "longitude": "-58.76666667",
+    "county_id": 6381,
     "wikiDataId": null
   },
   {
@@ -688,8 +834,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.54605770",
-    "longitude": "-61.33077050",
+    "latitude": "-34.58358383",
+    "longitude": "-60.94085312",
+    "county_id": 6382,
     "wikiDataId": null
   },
   {
@@ -701,17 +848,7 @@
     "country_code": "AR",
     "latitude": "-36.66068710",
     "longitude": "-57.40162530",
-    "wikiDataId": null
-  },
-  {
-    "id": 154375,
-    "name": "La Matanza",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-34.77307590",
-    "longitude": "-58.78266180",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -721,8 +858,33 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.70297680",
-    "longitude": "-58.67985840",
+    "latitude": "-34.93333333",
+    "longitude": "-57.95000000",
+    "county_id": 6386,
+    "wikiDataId": null
+  },
+  {
+    "id": 164434,
+    "name": "La Unión",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.87558000",
+    "longitude": "-58.54192000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164396,
+    "name": "Laferrere",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.75049000",
+    "longitude": "-58.58464000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -734,6 +896,7 @@
     "country_code": "AR",
     "latitude": "-34.70198040",
     "longitude": "-58.47261230",
+    "county_id": 6385,
     "wikiDataId": null
   },
   {
@@ -743,8 +906,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.49309250",
-    "longitude": "-61.42308300",
+    "latitude": "-37.54743576",
+    "longitude": "-60.79619980",
+    "county_id": 6387,
     "wikiDataId": null
   },
   {
@@ -754,19 +918,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.01628740",
-    "longitude": "-59.86327060",
-    "wikiDataId": null
-  },
-  {
-    "id": 154380,
-    "name": "Leandro N. Alem",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-34.49251120",
-    "longitude": "-61.95923550",
+    "latitude": "-36.01638794",
+    "longitude": "-59.10038376",
+    "county_id": 6388,
     "wikiDataId": null
   },
   {
@@ -778,6 +932,7 @@
     "country_code": "AR",
     "latitude": "-35.86369450",
     "longitude": "-58.15662470",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -787,8 +942,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.08589960",
-    "longitude": "-62.35863070",
+    "latitude": "-34.86692810",
+    "longitude": "-61.52997971",
+    "county_id": 6391,
     "wikiDataId": null
   },
   {
@@ -798,8 +954,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.06737520",
-    "longitude": "-59.36333310",
+    "latitude": "-38.16338348",
+    "longitude": "-58.78404236",
+    "county_id": 6392,
     "wikiDataId": null
   },
   {
@@ -809,8 +966,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.19779080",
-    "longitude": "-59.51022420",
+    "latitude": "-35.18312454",
+    "longitude": "-59.09842300",
+    "county_id": 6393,
     "wikiDataId": null
   },
   {
@@ -820,8 +978,33 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.75284350",
-    "longitude": "-58.50112000",
+    "latitude": "-34.75864410",
+    "longitude": "-58.40148926",
+    "county_id": 6394,
+    "wikiDataId": null
+  },
+  {
+    "id": 164408,
+    "name": "Los Polvorines",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.50316000",
+    "longitude": "-58.70596000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 154366,
+    "name": "Los Toldos",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-35.00411606",
+    "longitude": "-61.03776550",
+    "county_id": 6375,
     "wikiDataId": null
   },
   {
@@ -831,8 +1014,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.58755280",
-    "longitude": "-59.47602840",
+    "latitude": "-34.58003235",
+    "longitude": "-59.10658264",
+    "county_id": 6395,
     "wikiDataId": null
   },
   {
@@ -842,8 +1026,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.18662720",
-    "longitude": "-57.99943530",
+    "latitude": "-35.07962799",
+    "longitude": "-57.51296616",
+    "county_id": 6396,
     "wikiDataId": null
   },
   {
@@ -853,30 +1038,33 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.88401400",
-    "longitude": "-58.25271870",
+    "latitude": "-36.85823822",
+    "longitude": "-57.87769699",
+    "county_id": 6397,
     "wikiDataId": null
   },
   {
-    "id": 154389,
-    "name": "Malvinas Argentinas",
+    "id": 164432,
+    "name": "Mar de Ajó",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.48586020",
-    "longitude": "-58.79796800",
+    "latitude": "-36.72881000",
+    "longitude": "-56.68265000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 154390,
-    "name": "Mar Chiquita",
+    "id": 164395,
+    "name": "Mar del Plata",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.50980390",
-    "longitude": "-58.30054500",
+    "latitude": "-38.00042000",
+    "longitude": "-57.55620000",
+    "county_id": 6372,
     "wikiDataId": null
   },
   {
@@ -886,8 +1074,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.82080690",
-    "longitude": "-59.02873170",
+    "latitude": "-34.77608108",
+    "longitude": "-58.83967590",
+    "county_id": 6400,
+    "wikiDataId": null
+  },
+  {
+    "id": 154444,
+    "name": "Médanos",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-38.81666667",
+    "longitude": "-62.66666667",
+    "county_id": 6453,
     "wikiDataId": null
   },
   {
@@ -897,8 +1098,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.69878490",
-    "longitude": "-59.77191470",
+    "latitude": "-34.65108490",
+    "longitude": "-59.42541504",
+    "county_id": 6401,
     "wikiDataId": null
   },
   {
@@ -908,19 +1110,33 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.70657840",
-    "longitude": "-58.83276710",
+    "latitude": "-34.66530000",
+    "longitude": "-58.72750000",
+    "county_id": 6402,
     "wikiDataId": null
   },
   {
-    "id": 154394,
-    "name": "Monte",
+    "id": 164421,
+    "name": "Miramar",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.49862290",
-    "longitude": "-59.12519800",
+    "latitude": "-38.27161000",
+    "longitude": "-57.83890000",
+    "county_id": 6361,
+    "wikiDataId": null
+  },
+  {
+    "id": 164401,
+    "name": "Monte Chingolo",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.72960000",
+    "longitude": "-58.35421000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -930,8 +1146,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.95737360",
-    "longitude": "-61.44530580",
+    "latitude": "-38.98323441",
+    "longitude": "-61.30081558",
+    "county_id": 6404,
     "wikiDataId": null
   },
   {
@@ -941,8 +1158,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.59681430",
-    "longitude": "-58.96697620",
+    "latitude": "-34.64750290",
+    "longitude": "-58.78604889",
+    "county_id": 6405,
     "wikiDataId": null
   },
   {
@@ -952,8 +1170,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.64640300",
-    "longitude": "-58.69414610",
+    "latitude": "-34.63464355",
+    "longitude": "-58.62742615",
+    "county_id": 6406,
+    "wikiDataId": null
+  },
+  {
+    "id": 164431,
+    "name": "Muñiz",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.55622000",
+    "longitude": "-58.70739000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -963,8 +1194,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.02457590",
-    "longitude": "-59.77633880",
+    "latitude": "-35.00374985",
+    "longitude": "-59.27454376",
+    "county_id": 6407,
     "wikiDataId": null
   },
   {
@@ -976,17 +1208,7 @@
     "country_code": "AR",
     "latitude": "-38.17378930",
     "longitude": "-59.80770580",
-    "wikiDataId": null
-  },
-  {
-    "id": 154400,
-    "name": "Nueve de Julio",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-35.45690360",
-    "longitude": "-60.92393850",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -996,19 +1218,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.85692910",
-    "longitude": "-61.37189000",
-    "wikiDataId": null
-  },
-  {
-    "id": 154402,
-    "name": "Patagones",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-40.17288440",
-    "longitude": "-64.09569830",
+    "latitude": "-36.89620590",
+    "longitude": "-60.31989670",
+    "county_id": 6410,
     "wikiDataId": null
   },
   {
@@ -1018,8 +1230,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.90670570",
-    "longitude": "-62.59308720",
+    "latitude": "-35.81163406",
+    "longitude": "-61.89644241",
+    "county_id": 6412,
     "wikiDataId": null
   },
   {
@@ -1029,8 +1242,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.24270170",
-    "longitude": "-63.82182700",
+    "latitude": "-36.26609421",
+    "longitude": "-63.16425705",
+    "county_id": 6413,
     "wikiDataId": null
   },
   {
@@ -1040,8 +1254,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-33.85555800",
-    "longitude": "-61.20026950",
+    "latitude": "-33.89677429",
+    "longitude": "-60.56956482",
+    "county_id": 6414,
+    "wikiDataId": null
+  },
+  {
+    "id": 164437,
+    "name": "Pigüé",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-37.60255000",
+    "longitude": "-62.40836000",
+    "county_id": 6427,
     "wikiDataId": null
   },
   {
@@ -1053,6 +1280,7 @@
     "country_code": "AR",
     "latitude": "-36.21422440",
     "longitude": "-59.05999650",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1062,8 +1290,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.44243960",
-    "longitude": "-59.06160640",
+    "latitude": "-34.46488190",
+    "longitude": "-58.91223144",
+    "county_id": 6416,
     "wikiDataId": null
   },
   {
@@ -1073,8 +1302,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.10658290",
-    "longitude": "-57.03470380",
+    "latitude": "-37.11458969",
+    "longitude": "-56.86851501",
+    "county_id": 6417,
+    "wikiDataId": null
+  },
+  {
+    "id": 164422,
+    "name": "Pontevedra",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.74947000",
+    "longitude": "-58.70158000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1086,6 +1328,7 @@
     "country_code": "AR",
     "latitude": "-34.94225680",
     "longitude": "-58.46566260",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1095,19 +1338,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.09189020",
-    "longitude": "-64.30307990",
+    "latitude": "-37.54399490",
+    "longitude": "-62.76833725",
+    "county_id": 6419,
     "wikiDataId": null
   },
   {
-    "id": 154411,
-    "name": "Punta Indio",
+    "id": 164405,
+    "name": "Punta Alta",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.45569760",
-    "longitude": "-57.79169470",
+    "latitude": "-38.88050000",
+    "longitude": "-62.07503000",
+    "county_id": 6345,
     "wikiDataId": null
   },
   {
@@ -1117,8 +1362,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.73973430",
-    "longitude": "-58.35320560",
+    "latitude": "-34.72469144",
+    "longitude": "-58.26134074",
+    "county_id": 6421,
     "wikiDataId": null
   },
   {
@@ -1128,8 +1374,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-33.58813140",
-    "longitude": "-60.38975740",
+    "latitude": "-33.48543549",
+    "longitude": "-60.00503159",
+    "county_id": 6422,
+    "wikiDataId": null
+  },
+  {
+    "id": 164455,
+    "name": "Ranchos",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-35.51601000",
+    "longitude": "-58.31880000",
+    "county_id": 6370,
     "wikiDataId": null
   },
   {
@@ -1139,19 +1398,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.59916740",
-    "longitude": "-59.55774850",
+    "latitude": "-36.77701569",
+    "longitude": "-59.08996201",
+    "county_id": 6423,
     "wikiDataId": null
   },
   {
-    "id": 154415,
-    "name": "Rivadavia",
+    "id": 164402,
+    "name": "Remedios de Escalada de San Martín",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.57782590",
-    "longitude": "-63.66436280",
+    "latitude": "-34.72589000",
+    "longitude": "-58.39663000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1161,8 +1422,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.19513250",
-    "longitude": "-61.12565120",
+    "latitude": "-34.19835281",
+    "longitude": "-60.73389053",
+    "county_id": 6425,
     "wikiDataId": null
   },
   {
@@ -1172,19 +1434,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.52006040",
-    "longitude": "-59.74705690",
-    "wikiDataId": null
-  },
-  {
-    "id": 154418,
-    "name": "Saavedra",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-37.73956430",
-    "longitude": "-63.12959180",
+    "latitude": "-35.39967425",
+    "longitude": "-59.32868548",
+    "county_id": 6426,
     "wikiDataId": null
   },
   {
@@ -1194,8 +1446,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.67906870",
-    "longitude": "-60.35942330",
+    "latitude": "-35.63808823",
+    "longitude": "-59.77879333",
+    "county_id": 6428,
     "wikiDataId": null
   },
   {
@@ -1205,8 +1458,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.67026330",
-    "longitude": "-63.37763790",
+    "latitude": "-36.75359726",
+    "longitude": "-62.96179199",
+    "county_id": 6430,
     "wikiDataId": null
   },
   {
@@ -1216,8 +1470,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.24698560",
-    "longitude": "-60.61305280",
+    "latitude": "-34.29890060",
+    "longitude": "-60.24642181",
+    "county_id": 6429,
     "wikiDataId": null
   },
   {
@@ -1227,8 +1482,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.42586240",
-    "longitude": "-59.81017060",
+    "latitude": "-34.44646454",
+    "longitude": "-59.44311523",
+    "county_id": 6431,
     "wikiDataId": null
   },
   {
@@ -1238,8 +1494,33 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.20590450",
-    "longitude": "-59.85355590",
+    "latitude": "-34.25044632",
+    "longitude": "-59.47258758",
+    "county_id": 6432,
+    "wikiDataId": null
+  },
+  {
+    "id": 164416,
+    "name": "San Antonio de Padua",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.66267000",
+    "longitude": "-58.69819000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 154325,
+    "name": "San Carlos de Bolívar",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-36.25000000",
+    "longitude": "-61.10000000",
+    "county_id": 6334,
     "wikiDataId": null
   },
   {
@@ -1249,8 +1530,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.40262680",
-    "longitude": "-60.27756580",
+    "latitude": "-38.34560394",
+    "longitude": "-59.61106873",
+    "county_id": 6433,
     "wikiDataId": null
   },
   {
@@ -1260,8 +1542,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.24511400",
-    "longitude": "-58.90071950",
+    "latitude": "-34.44762421",
+    "longitude": "-58.55633163",
+    "county_id": 6434,
     "wikiDataId": null
   },
   {
@@ -1271,8 +1554,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.48659380",
-    "longitude": "-58.62225340",
+    "latitude": "-34.47210312",
+    "longitude": "-58.51338959",
+    "county_id": 6435,
+    "wikiDataId": null
+  },
+  {
+    "id": 164399,
+    "name": "San Justo",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.68107000",
+    "longitude": "-58.56379000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1282,19 +1578,33 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.55334190",
-    "longitude": "-58.77405090",
+    "latitude": "-34.54426575",
+    "longitude": "-58.74044037",
+    "county_id": 6436,
     "wikiDataId": null
   },
   {
-    "id": 154428,
-    "name": "San Nicolás",
+    "id": 154394,
+    "name": "San Miguel del Monte",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-33.47155080",
-    "longitude": "-60.63886600",
+    "latitude": "-35.43900299",
+    "longitude": "-58.80560303",
+    "county_id": 6403,
+    "wikiDataId": null
+  },
+  {
+    "id": 154428,
+    "name": "San Nicolás de Los Arroyos",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-33.34413528",
+    "longitude": "-60.22374344",
+    "county_id": 6437,
     "wikiDataId": null
   },
   {
@@ -1304,8 +1614,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-33.79559030",
-    "longitude": "-60.11056980",
+    "latitude": "-33.68278503",
+    "longitude": "-59.67208481",
+    "county_id": 6438,
     "wikiDataId": null
   },
   {
@@ -1315,8 +1626,45 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.08097070",
-    "longitude": "-58.74801840",
+    "latitude": "-35.02632141",
+    "longitude": "-58.42038727",
+    "county_id": 6439,
+    "wikiDataId": null
+  },
+  {
+    "id": 164438,
+    "name": "Santa Teresita",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-36.54059000",
+    "longitude": "-56.69294000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164417,
+    "name": "Santos Lugares",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.60306000",
+    "longitude": "-58.54074000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164407,
+    "name": "Sarandí",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.68161000",
+    "longitude": "-58.34639000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1326,8 +1674,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.73712310",
-    "longitude": "-60.03526020",
+    "latitude": "-34.77561951",
+    "longitude": "-59.68839264",
+    "county_id": 6440,
     "wikiDataId": null
   },
   {
@@ -1337,8 +1686,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.33286290",
-    "longitude": "-59.85479050",
+    "latitude": "-37.31096268",
+    "longitude": "-59.13938522",
+    "county_id": 6441,
     "wikiDataId": null
   },
   {
@@ -1348,8 +1698,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.36637830",
-    "longitude": "-60.81551140",
+    "latitude": "-36.35501862",
+    "longitude": "-60.02519607",
+    "county_id": 6442,
     "wikiDataId": null
   },
   {
@@ -1359,19 +1710,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.40017610",
-    "longitude": "-58.75939520",
-    "wikiDataId": null
-  },
-  {
-    "id": 154435,
-    "name": "Tordillo",
-    "state_id": 3656,
-    "state_code": "B",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-36.41238410",
-    "longitude": "-57.57341650",
+    "latitude": "-34.41580963",
+    "longitude": "-58.59275436",
+    "county_id": 6443,
     "wikiDataId": null
   },
   {
@@ -1381,8 +1722,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.26024950",
-    "longitude": "-62.95775910",
+    "latitude": "-38.10104370",
+    "longitude": "-62.22893906",
+    "county_id": 6445,
+    "wikiDataId": null
+  },
+  {
+    "id": 164411,
+    "name": "Tortuguitas",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.47513000",
+    "longitude": "-58.75367000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1392,8 +1746,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.05316630",
-    "longitude": "-63.30255910",
+    "latitude": "-35.97356033",
+    "longitude": "-62.73426056",
+    "county_id": 6446,
     "wikiDataId": null
   },
   {
@@ -1403,8 +1758,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.46994170",
-    "longitude": "-60.84561550",
+    "latitude": "-38.38358688",
+    "longitude": "-60.27342987",
+    "county_id": 6447,
     "wikiDataId": null
   },
   {
@@ -1416,6 +1772,7 @@
     "country_code": "AR",
     "latitude": "-34.59999320",
     "longitude": "-58.66706300",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1425,8 +1782,45 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.48938820",
-    "longitude": "-63.19723280",
+    "latitude": "-36.46235657",
+    "longitude": "-62.85899353",
+    "county_id": 6449,
+    "wikiDataId": null
+  },
+  {
+    "id": 164428,
+    "name": "Tristán Suárez",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.88982000",
+    "longitude": "-58.56761000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164412,
+    "name": "Valentín Alsina",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.67137000",
+    "longitude": "-58.40904000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164441,
+    "name": "Vedia",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.49791000",
+    "longitude": "-61.54231000",
+    "county_id": 6389,
     "wikiDataId": null
   },
   {
@@ -1438,6 +1832,19 @@
     "country_code": "AR",
     "latitude": "-35.55138480",
     "longitude": "-60.84646650",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164463,
+    "name": "Verónica",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-35.38732000",
+    "longitude": "-57.33839000",
+    "county_id": 6420,
     "wikiDataId": null
   },
   {
@@ -1449,6 +1856,19 @@
     "country_code": "AR",
     "latitude": "-34.52931400",
     "longitude": "-58.58906610",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164409,
+    "name": "Villa de Mayo",
+    "state_id": 3656,
+    "state_code": "B",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.51080000",
+    "longitude": "-58.68059000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1458,19 +1878,21 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.36616190",
-    "longitude": "-57.38978580",
+    "latitude": "-37.25563400",
+    "longitude": "-56.96809220",
+    "county_id": 6452,
     "wikiDataId": null
   },
   {
-    "id": 154444,
-    "name": "Villarino",
+    "id": 164435,
+    "name": "Villa Sarmiento",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-39.14254170",
-    "longitude": "-64.01619890",
+    "latitude": "-34.63364000",
+    "longitude": "-58.57047000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1480,8 +1902,9 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.00225010",
-    "longitude": "-59.42188710",
+    "latitude": "-34.09710693",
+    "longitude": "-59.02372360",
+    "county_id": 6454,
     "wikiDataId": null
   }
 ]

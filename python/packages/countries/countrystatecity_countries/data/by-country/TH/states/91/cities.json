@@ -6,8 +6,9 @@
     "state_code": "91",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "6.76978000",
-    "longitude": "100.12216000",
+    "latitude": "6.78758000",
+    "longitude": "100.07778000",
+    "county_id": 6245,
     "wikiDataId": null
   },
   {
@@ -17,8 +18,9 @@
     "state_code": "91",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "6.90593000",
-    "longitude": "100.04178000",
+    "latitude": "6.84538000",
+    "longitude": "100.07148000",
+    "county_id": 6246,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "TH",
     "latitude": "6.48770430",
     "longitude": "99.27685140",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "TH",
     "latitude": "6.90392000",
     "longitude": "99.79836000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,17 +56,7 @@
     "country_code": "TH",
     "latitude": "7.01822000",
     "longitude": "99.95399000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105588,
-    "name": "Mueang Satun",
-    "state_id": 3537,
-    "state_code": "91",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.62314000",
-    "longitude": "100.06681000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +68,7 @@
     "country_code": "TH",
     "latitude": "6.62314000",
     "longitude": "100.06676000",
+    "county_id": 6244,
     "wikiDataId": null
   },
   {
@@ -85,6 +80,7 @@
     "country_code": "TH",
     "latitude": "6.79542000",
     "longitude": "99.91985000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -94,8 +90,9 @@
     "state_code": "91",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "7.04915000",
-    "longitude": "99.76587000",
+    "latitude": "7.10920000",
+    "longitude": "99.75590000",
+    "county_id": 6249,
     "wikiDataId": null
   }
 ]

@@ -8,6 +8,7 @@
     "country_code": "ET",
     "latitude": "9.98333000",
     "longitude": "39.98333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "ET",
     "latitude": "11.26667000",
     "longitude": "37.48333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,19 @@
     "country_code": "ET",
     "latitude": "12.11667000",
     "longitude": "37.78333000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164697,
+    "name": "Āykel",
+    "state_id": 3,
+    "state_code": "AM",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "12.55000000",
+    "longitude": "37.06667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +56,7 @@
     "country_code": "ET",
     "latitude": "11.59364000",
     "longitude": "37.39077000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,7 @@
     "country_code": "ET",
     "latitude": "11.19152000",
     "longitude": "40.01675000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "ET",
     "latitude": "10.45000000",
     "longitude": "38.20000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +92,19 @@
     "country_code": "ET",
     "latitude": "10.70000000",
     "longitude": "37.06667000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164690,
+    "name": "Chagni",
+    "state_id": 3,
+    "state_code": "AM",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "10.95627000",
+    "longitude": "36.50456000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +116,19 @@
     "country_code": "ET",
     "latitude": "12.98417000",
     "longitude": "37.76500000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164689,
+    "name": "Dangila",
+    "state_id": 3,
+    "state_code": "AM",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "11.26667000",
+    "longitude": "36.83333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +140,7 @@
     "country_code": "ET",
     "latitude": "13.15611000",
     "longitude": "37.89806000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +152,7 @@
     "country_code": "ET",
     "latitude": "9.67954000",
     "longitude": "39.53262000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +164,7 @@
     "country_code": "ET",
     "latitude": "10.35000000",
     "longitude": "37.73333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +176,7 @@
     "country_code": "ET",
     "latitude": "9.84752000",
     "longitude": "39.76027000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +188,7 @@
     "country_code": "ET",
     "latitude": "11.85000000",
     "longitude": "38.01667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +200,7 @@
     "country_code": "ET",
     "latitude": "10.66667000",
     "longitude": "38.16667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,17 +212,31 @@
     "country_code": "ET",
     "latitude": "10.16667000",
     "longitude": "38.13333000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164702,
+    "name": "Dembech’a",
+    "state_id": 3,
+    "state_code": "AM",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "10.55000000",
+    "longitude": "37.48333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 38621,
-    "name": "Desē",
+    "name": "Dessie",
     "state_id": 3,
     "state_code": "AM",
     "country_id": 70,
     "country_code": "ET",
     "latitude": "11.13333000",
     "longitude": "39.63333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +248,7 @@
     "country_code": "ET",
     "latitude": "10.70000000",
     "longitude": "37.26667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +260,7 @@
     "country_code": "ET",
     "latitude": "12.60000000",
     "longitude": "37.46667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +272,7 @@
     "country_code": "ET",
     "latitude": "10.71668000",
     "longitude": "39.86997000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,17 +284,67 @@
     "country_code": "ET",
     "latitude": "11.08155000",
     "longitude": "39.74339000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 38671,
-    "name": "Lalībela",
+    "name": "Lalibela",
     "state_id": 3,
     "state_code": "AM",
     "country_id": 70,
     "country_code": "ET",
     "latitude": "12.03219000",
     "longitude": "39.04756000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164696,
+    "name": "Mersa",
+    "state_id": 3,
+    "state_code": "AM",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "11.66667000",
+    "longitude": "39.65000000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164705,
+    "name": "Metemma",
+    "state_id": 3,
+    "state_code": "AM",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "12.95479000",
+    "longitude": "36.15549000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164688,
+    "name": "Mot’a",
+    "state_id": 3,
+    "state_code": "AM",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "11.08333000",
+    "longitude": "37.86667000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164694,
+    "name": "Nefas Mewch’a",
+    "state_id": 3,
+    "state_code": "AM",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "11.73333000",
+    "longitude": "38.46667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +356,7 @@
     "country_code": "ET",
     "latitude": "9.76900000",
     "longitude": "39.66800000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +368,7 @@
     "country_code": "ET",
     "latitude": "11.92000000",
     "longitude": "39.10000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +380,19 @@
     "country_code": "ET",
     "latitude": "12.01667000",
     "longitude": "39.63333000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164691,
+    "name": "Sek’ot’a",
+    "state_id": 3,
+    "state_code": "AM",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "12.63056000",
+    "longitude": "39.03472000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +404,7 @@
     "country_code": "ET",
     "latitude": "11.83850000",
     "longitude": "38.09954000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +416,7 @@
     "country_code": "ET",
     "latitude": "11.00000000",
     "longitude": "39.25000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +428,19 @@
     "country_code": "ET",
     "latitude": "12.76500000",
     "longitude": "38.84300000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164680,
+    "name": "Weldiya",
+    "state_id": 3,
+    "state_code": "AM",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "11.82770000",
+    "longitude": "39.59164000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +452,7 @@
     "country_code": "ET",
     "latitude": "10.58964000",
     "longitude": "39.43767000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +464,7 @@
     "country_code": "ET",
     "latitude": "11.91667000",
     "longitude": "37.70000000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

@@ -8,6 +8,7 @@
     "country_code": "GB",
     "latitude": "51.54000000",
     "longitude": "-3.59556000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "GB",
     "latitude": "51.56917000",
     "longitude": "-3.58833000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,28 +32,7 @@
     "country_code": "GB",
     "latitude": "51.50583000",
     "longitude": "-3.57722000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48684,
-    "name": "Bridgend county borough",
-    "state_id": 2452,
-    "state_code": "BGE",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.55000000",
-    "longitude": "-3.58333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48741,
-    "name": "Brynna",
-    "state_id": 2452,
-    "state_code": "BGE",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.53845000",
-    "longitude": "-3.46378000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +44,7 @@
     "country_code": "GB",
     "latitude": "51.53167000",
     "longitude": "-3.65278000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,17 +56,31 @@
     "country_code": "GB",
     "latitude": "51.52200000",
     "longitude": "-3.55531000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 50362,
-    "name": "Llanharan",
+    "id": 50465,
+    "name": "Maesteg",
     "state_id": 2452,
     "state_code": "BGE",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.53805000",
-    "longitude": "-3.43906000",
+    "latitude": "51.60926000",
+    "longitude": "-3.65823000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50799,
+    "name": "Ogmore Vale",
+    "state_id": 2452,
+    "state_code": "BGE",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.60230000",
+    "longitude": "-3.54217000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +92,7 @@
     "country_code": "GB",
     "latitude": "51.52371000",
     "longitude": "-3.50016000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +104,19 @@
     "country_code": "GB",
     "latitude": "51.58694000",
     "longitude": "-3.63639000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50945,
+    "name": "Pontycymer",
+    "state_id": 2452,
+    "state_code": "BGE",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.61118000",
+    "longitude": "-3.58421000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +128,19 @@
     "country_code": "GB",
     "latitude": "51.47903000",
     "longitude": "-3.70362000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50991,
+    "name": "Price Town",
+    "state_id": 2452,
+    "state_code": "BGE",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.61832000",
+    "longitude": "-3.53662000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,17 +152,7 @@
     "country_code": "GB",
     "latitude": "51.51667000",
     "longitude": "-3.70000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51888,
-    "name": "Wick",
-    "state_id": 2452,
-    "state_code": "BGE",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.43944000",
-    "longitude": "-3.54944000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

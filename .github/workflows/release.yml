@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    outputs:
+      ref: ${{ steps.commit.outputs.ref }}
 
     steps:
       - name: Checkout code
@@ -93,6 +95,7 @@ jobs:
           done
 
       - name: Commit and push
+        id: commit
         env:
           NEW_VERSION: ${{ steps.bump.outputs.new_version }}
         run: |
@@ -108,6 +111,7 @@ jobs:
             python/packages/postal_codes/pyproject.toml python/packages/postal_codes/countrystatecity_postal_codes/__init__.py python/packages/postal_codes/CHANGELOG.md
           git commit -m "chore: release ${NEW_VERSION} for all packages"
           git push
+          echo "ref=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
   publish:
     name: Publish the offline data packages to PyPI
@@ -115,6 +119,7 @@ jobs:
     uses: ./.github/workflows/publish.yml
     with:
       package: data
+      ref: ${{ needs.release.outputs.ref }}
     secrets:
       PYPI_TOKEN: ${{ secrets.PYPI_TOKEN }}
     permissions:

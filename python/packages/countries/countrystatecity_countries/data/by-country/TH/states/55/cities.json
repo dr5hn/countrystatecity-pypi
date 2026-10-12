@@ -1,27 +1,5 @@
 [
   {
-    "id": 105297,
-    "name": "Amphoe Chiang Klang",
-    "state_id": 3530,
-    "state_code": "55",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "19.30637000",
-    "longitude": "100.87878000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106366,
-    "name": "Amphoe Wiang Sa",
-    "state_id": 3530,
-    "state_code": "55",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "18.55088000",
-    "longitude": "100.72754000",
-    "wikiDataId": null
-  },
-  {
     "id": 105200,
     "name": "Ban Luang",
     "state_id": 3530,
@@ -30,6 +8,7 @@
     "country_code": "TH",
     "latitude": "18.88375000",
     "longitude": "100.46014000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +20,7 @@
     "country_code": "TH",
     "latitude": "19.08994000",
     "longitude": "101.18952000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +32,7 @@
     "country_code": "TH",
     "latitude": "19.50618000",
     "longitude": "101.14249000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +44,7 @@
     "country_code": "TH",
     "latitude": "19.29378000",
     "longitude": "100.86169000",
+    "county_id": 5967,
     "wikiDataId": null
   },
   {
@@ -74,17 +56,7 @@
     "country_code": "TH",
     "latitude": "18.71336000",
     "longitude": "101.11011000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105559,
-    "name": "Mueang Nan",
-    "state_id": 3530,
-    "state_code": "55",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "18.89008000",
-    "longitude": "100.67472000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +68,7 @@
     "country_code": "TH",
     "latitude": "18.12524000",
     "longitude": "100.60270000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -105,8 +78,9 @@
     "state_code": "55",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "18.30269000",
-    "longitude": "100.72393000",
+    "latitude": "18.32583055",
+    "longitude": "100.71217469",
+    "county_id": 5962,
     "wikiDataId": null
   },
   {
@@ -118,6 +92,7 @@
     "country_code": "TH",
     "latitude": "18.78378000",
     "longitude": "100.77899000",
+    "county_id": 5959,
     "wikiDataId": null
   },
   {
@@ -129,6 +104,7 @@
     "country_code": "TH",
     "latitude": "18.78030000",
     "longitude": "100.87497000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -138,8 +114,9 @@
     "state_code": "55",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "19.16306000",
-    "longitude": "101.02796000",
+    "latitude": "19.17992698",
+    "longitude": "100.90888171",
+    "county_id": 5963,
     "wikiDataId": null
   },
   {
@@ -151,6 +128,7 @@
     "country_code": "TH",
     "latitude": "18.91190000",
     "longitude": "101.00016000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +140,7 @@
     "country_code": "TH",
     "latitude": "19.40911000",
     "longitude": "100.66174000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -171,8 +150,9 @@
     "state_code": "55",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "19.13148000",
-    "longitude": "100.76117000",
+    "latitude": "19.09446245",
+    "longitude": "100.80969171",
+    "county_id": 5964,
     "wikiDataId": null
   },
   {
@@ -182,8 +162,21 @@
     "state_code": "55",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "19.46342000",
-    "longitude": "100.91937000",
+    "latitude": "19.38834832",
+    "longitude": "100.87808921",
+    "county_id": 5966,
+    "wikiDataId": null
+  },
+  {
+    "id": 106366,
+    "name": "Wiang Sa",
+    "state_id": 3530,
+    "state_code": "55",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "18.57066558",
+    "longitude": "100.75122585",
+    "county_id": 5965,
     "wikiDataId": null
   }
 ]

@@ -8,6 +8,7 @@
     "country_code": "KZ",
     "latitude": "51.99374000",
     "longitude": "70.94704000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "KZ",
     "latitude": "53.29617000",
     "longitude": "69.59997000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,17 +32,19 @@
     "country_code": "KZ",
     "latitude": "52.44422000",
     "longitude": "71.95761000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 65619,
-    "name": "Astrakhan",
+    "name": "Astrakhanka",
     "state_id": 145,
     "state_code": "11",
     "country_id": 112,
     "country_code": "KZ",
     "latitude": "51.53092000",
     "longitude": "69.79684000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "KZ",
     "latitude": "51.80652000",
     "longitude": "68.35996000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "KZ",
     "latitude": "52.51779000",
     "longitude": "68.75160000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,19 @@
     "country_code": "KZ",
     "latitude": "52.49795000",
     "longitude": "73.09592000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 65657,
+    "name": "Būrabay",
+    "state_id": 145,
+    "state_code": "11",
+    "country_id": 112,
+    "country_code": "KZ",
+    "latitude": "53.08382000",
+    "longitude": "70.31379000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +104,7 @@
     "country_code": "KZ",
     "latitude": "51.09922000",
     "longitude": "66.31557000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +116,7 @@
     "country_code": "KZ",
     "latitude": "51.05412000",
     "longitude": "69.47928000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +128,7 @@
     "country_code": "KZ",
     "latitude": "51.95495000",
     "longitude": "66.40841000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +140,7 @@
     "country_code": "KZ",
     "latitude": "53.28333000",
     "longitude": "69.40000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +152,7 @@
     "country_code": "KZ",
     "latitude": "52.24560000",
     "longitude": "66.52081000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +164,7 @@
     "country_code": "KZ",
     "latitude": "52.63290000",
     "longitude": "70.41911000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +176,7 @@
     "country_code": "KZ",
     "latitude": "52.45376000",
     "longitude": "68.17475000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +188,7 @@
     "country_code": "KZ",
     "latitude": "52.93592000",
     "longitude": "70.18895000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +200,7 @@
     "country_code": "KZ",
     "latitude": "51.69946000",
     "longitude": "70.99457000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +212,7 @@
     "country_code": "KZ",
     "latitude": "52.35062000",
     "longitude": "71.88161000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +224,7 @@
     "country_code": "KZ",
     "latitude": "52.83489000",
     "longitude": "70.78861000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +236,7 @@
     "country_code": "KZ",
     "latitude": "51.62364000",
     "longitude": "73.10265000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +248,19 @@
     "country_code": "KZ",
     "latitude": "52.47031000",
     "longitude": "72.01514000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165157,
+    "name": "Zerenda",
+    "state_id": 145,
+    "state_code": "11",
+    "country_id": 112,
+    "country_code": "KZ",
+    "latitude": "52.90599000",
+    "longitude": "69.15593000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +272,7 @@
     "country_code": "KZ",
     "latitude": "51.91058000",
     "longitude": "67.31665000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +284,7 @@
     "country_code": "KZ",
     "latitude": "51.74211000",
     "longitude": "71.71245000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

@@ -8,6 +8,7 @@
     "country_code": "MX",
     "latitude": "27.18219000",
     "longitude": "-101.42757000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "MX",
     "latitude": "25.18934000",
     "longitude": "-101.08840000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "MX",
     "latitude": "25.66537000",
     "longitude": "-103.36253000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,19 @@
     "country_code": "MX",
     "latitude": "25.82194000",
     "longitude": "-103.19472000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165242,
+    "name": "Allende",
+    "state_id": 3471,
+    "state_code": "COA",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.34124000",
+    "longitude": "-100.85111000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,7 @@
     "country_code": "MX",
     "latitude": "25.44528000",
     "longitude": "-100.84667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "MX",
     "latitude": "25.32803000",
     "longitude": "-103.28870000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +92,7 @@
     "country_code": "MX",
     "latitude": "26.83840000",
     "longitude": "-100.66630000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +104,7 @@
     "country_code": "MX",
     "latitude": "26.78932000",
     "longitude": "-101.43211000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +116,7 @@
     "country_code": "MX",
     "latitude": "27.04083000",
     "longitude": "-103.36611000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +128,7 @@
     "country_code": "MX",
     "latitude": "29.32322000",
     "longitude": "-100.95217000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +140,7 @@
     "country_code": "MX",
     "latitude": "27.87933000",
     "longitude": "-101.51615000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +152,7 @@
     "country_code": "MX",
     "latitude": "27.92097000",
     "longitude": "-101.17576000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +164,7 @@
     "country_code": "MX",
     "latitude": "26.97722000",
     "longitude": "-101.48083000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +176,7 @@
     "country_code": "MX",
     "latitude": "28.63861000",
     "longitude": "-100.55667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +188,7 @@
     "country_code": "MX",
     "latitude": "25.74681000",
     "longitude": "-103.30250000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,17 +200,7 @@
     "country_code": "MX",
     "latitude": "25.77982000",
     "longitude": "-103.11696000",
-    "wikiDataId": null
-  },
-  {
-    "id": 69520,
-    "name": "Coyote",
-    "state_id": 3471,
-    "state_code": "COA",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "25.69510000",
-    "longitude": "-103.28420000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +212,7 @@
     "country_code": "MX",
     "latitude": "26.98542000",
     "longitude": "-102.06386000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +224,7 @@
     "country_code": "MX",
     "latitude": "25.35091000",
     "longitude": "-102.95698000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +236,7 @@
     "country_code": "MX",
     "latitude": "25.64048000",
     "longitude": "-103.32710000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +248,7 @@
     "country_code": "MX",
     "latitude": "25.57131000",
     "longitude": "-103.27620000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +260,7 @@
     "country_code": "MX",
     "latitude": "25.69670000",
     "longitude": "-103.34107000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +272,7 @@
     "country_code": "MX",
     "latitude": "25.84673000",
     "longitude": "-103.27890000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +284,7 @@
     "country_code": "MX",
     "latitude": "25.73363000",
     "longitude": "-102.94297000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +296,7 @@
     "country_code": "MX",
     "latitude": "25.60290000",
     "longitude": "-103.34423000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +308,7 @@
     "country_code": "MX",
     "latitude": "25.77444000",
     "longitude": "-103.32528000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +320,19 @@
     "country_code": "MX",
     "latitude": "25.82758000",
     "longitude": "-103.13004000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165253,
+    "name": "Escobedo",
+    "state_id": 3471,
+    "state_code": "COA",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.23372000",
+    "longitude": "-101.41314000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +344,7 @@
     "country_code": "MX",
     "latitude": "25.67433000",
     "longitude": "-103.34829000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +356,7 @@
     "country_code": "MX",
     "latitude": "25.55722000",
     "longitude": "-103.34361000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,6 +368,7 @@
     "country_code": "MX",
     "latitude": "26.92814000",
     "longitude": "-101.45212000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -338,6 +380,7 @@
     "country_code": "MX",
     "latitude": "25.37767000",
     "longitude": "-101.47571000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -349,6 +392,7 @@
     "country_code": "MX",
     "latitude": "25.39314000",
     "longitude": "-103.19976000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -360,6 +404,7 @@
     "country_code": "MX",
     "latitude": "25.64127000",
     "longitude": "-103.26710000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -371,6 +416,7 @@
     "country_code": "MX",
     "latitude": "28.30992000",
     "longitude": "-100.38048000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,6 +428,7 @@
     "country_code": "MX",
     "latitude": "28.04306000",
     "longitude": "-103.79111000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -393,6 +440,7 @@
     "country_code": "MX",
     "latitude": "27.78994000",
     "longitude": "-99.87699000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -404,6 +452,7 @@
     "country_code": "MX",
     "latitude": "25.68386000",
     "longitude": "-103.34121000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,17 +464,7 @@
     "country_code": "MX",
     "latitude": "25.21114000",
     "longitude": "-100.82570000",
-    "wikiDataId": null
-  },
-  {
-    "id": 70802,
-    "name": "Huitrón",
-    "state_id": 3471,
-    "state_code": "COA",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "25.85748000",
-    "longitude": "-103.34825000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -437,6 +476,7 @@
     "country_code": "MX",
     "latitude": "25.74809000",
     "longitude": "-103.26550000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -448,6 +488,7 @@
     "country_code": "MX",
     "latitude": "29.06975000",
     "longitude": "-100.67895000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -459,6 +500,7 @@
     "country_code": "MX",
     "latitude": "25.63524000",
     "longitude": "-103.38136000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -470,6 +512,7 @@
     "country_code": "MX",
     "latitude": "26.99339000",
     "longitude": "-101.49580000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -481,6 +524,7 @@
     "country_code": "MX",
     "latitude": "27.28735000",
     "longitude": "-103.66283000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -492,6 +536,7 @@
     "country_code": "MX",
     "latitude": "25.56631000",
     "longitude": "-103.28123000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -503,6 +548,7 @@
     "country_code": "MX",
     "latitude": "25.84743000",
     "longitude": "-103.20117000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -514,6 +560,7 @@
     "country_code": "MX",
     "latitude": "25.76811000",
     "longitude": "-103.32424000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -525,6 +572,7 @@
     "country_code": "MX",
     "latitude": "25.72621000",
     "longitude": "-103.24540000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -536,6 +584,7 @@
     "country_code": "MX",
     "latitude": "25.60830000",
     "longitude": "-103.32228000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -547,6 +596,7 @@
     "country_code": "MX",
     "latitude": "25.59181000",
     "longitude": "-103.29994000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -558,6 +608,7 @@
     "country_code": "MX",
     "latitude": "25.59390000",
     "longitude": "-103.35852000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -569,6 +620,7 @@
     "country_code": "MX",
     "latitude": "25.49696000",
     "longitude": "-103.35088000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -580,6 +632,7 @@
     "country_code": "MX",
     "latitude": "25.90281000",
     "longitude": "-103.26476000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -591,6 +644,7 @@
     "country_code": "MX",
     "latitude": "27.03056000",
     "longitude": "-103.36667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -602,6 +656,7 @@
     "country_code": "MX",
     "latitude": "27.05087000",
     "longitude": "-101.79552000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -613,6 +668,7 @@
     "country_code": "MX",
     "latitude": "25.39948000",
     "longitude": "-103.26740000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -624,6 +680,7 @@
     "country_code": "MX",
     "latitude": "28.35645000",
     "longitude": "-100.94564000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -635,6 +692,7 @@
     "country_code": "MX",
     "latitude": "25.79091000",
     "longitude": "-103.19384000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -646,6 +704,7 @@
     "country_code": "MX",
     "latitude": "25.65872000",
     "longitude": "-103.34079000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -657,17 +716,19 @@
     "country_code": "MX",
     "latitude": "25.52699000",
     "longitude": "-103.22850000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 72035,
-    "name": "Mayran",
+    "name": "Mayrán",
     "state_id": 3471,
     "state_code": "COA",
     "country_id": 142,
     "country_code": "MX",
     "latitude": "25.67296000",
     "longitude": "-102.84288000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -679,6 +740,7 @@
     "country_code": "MX",
     "latitude": "27.65144000",
     "longitude": "-101.28212000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -690,6 +752,19 @@
     "country_code": "MX",
     "latitude": "26.90687000",
     "longitude": "-101.42056000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165246,
+    "name": "Morelos",
+    "state_id": 3471,
+    "state_code": "COA",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.40676000",
+    "longitude": "-100.88854000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -701,6 +776,7 @@
     "country_code": "MX",
     "latitude": "27.02819000",
     "longitude": "-101.59420000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -712,6 +788,7 @@
     "country_code": "MX",
     "latitude": "28.42071000",
     "longitude": "-100.76565000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -723,6 +800,7 @@
     "country_code": "MX",
     "latitude": "27.94028000",
     "longitude": "-101.21812000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -734,6 +812,7 @@
     "country_code": "MX",
     "latitude": "25.71863000",
     "longitude": "-103.29471000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -745,6 +824,7 @@
     "country_code": "MX",
     "latitude": "27.31477000",
     "longitude": "-102.39660000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -756,17 +836,19 @@
     "country_code": "MX",
     "latitude": "26.99733000",
     "longitude": "-101.49598000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 72581,
-    "name": "Palau",
+    "name": "Palaú",
     "state_id": 3471,
     "state_code": "COA",
     "country_id": 142,
     "country_code": "MX",
     "latitude": "27.89232000",
     "longitude": "-101.42319000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -778,6 +860,7 @@
     "country_code": "MX",
     "latitude": "25.94580000",
     "longitude": "-100.93449000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -789,6 +872,7 @@
     "country_code": "MX",
     "latitude": "25.44185000",
     "longitude": "-102.17808000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -800,6 +884,7 @@
     "country_code": "MX",
     "latitude": "28.70007000",
     "longitude": "-100.52353000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -811,6 +896,7 @@
     "country_code": "MX",
     "latitude": "27.23675000",
     "longitude": "-101.22360000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -822,6 +908,7 @@
     "country_code": "MX",
     "latitude": "27.42841000",
     "longitude": "-100.98892000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -833,6 +920,7 @@
     "country_code": "MX",
     "latitude": "25.68038000",
     "longitude": "-103.32218000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -844,6 +932,7 @@
     "country_code": "MX",
     "latitude": "25.53928000",
     "longitude": "-100.94742000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -855,6 +944,7 @@
     "country_code": "MX",
     "latitude": "25.50237000",
     "longitude": "-103.32789000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -866,6 +956,7 @@
     "country_code": "MX",
     "latitude": "28.31254000",
     "longitude": "-100.91668000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -877,6 +968,7 @@
     "country_code": "MX",
     "latitude": "27.85591000",
     "longitude": "-101.11738000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -888,6 +980,7 @@
     "country_code": "MX",
     "latitude": "27.00264000",
     "longitude": "-101.72463000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -899,6 +992,7 @@
     "country_code": "MX",
     "latitude": "25.42321000",
     "longitude": "-101.00530000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -910,17 +1004,19 @@
     "country_code": "MX",
     "latitude": "25.27166000",
     "longitude": "-100.57835000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 73379,
+    "id": 69520,
     "name": "San Antonio del Coyote",
     "state_id": 3471,
     "state_code": "COA",
     "country_id": 142,
     "country_code": "MX",
-    "latitude": "25.69444000",
-    "longitude": "-103.28556000",
+    "latitude": "25.69510000",
+    "longitude": "-103.28420000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -932,6 +1028,7 @@
     "country_code": "MX",
     "latitude": "27.06193000",
     "longitude": "-101.54891000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -943,6 +1040,7 @@
     "country_code": "MX",
     "latitude": "29.02844000",
     "longitude": "-100.90217000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -954,6 +1052,7 @@
     "country_code": "MX",
     "latitude": "25.70903000",
     "longitude": "-103.00047000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -965,6 +1064,7 @@
     "country_code": "MX",
     "latitude": "25.75028000",
     "longitude": "-103.15631000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -976,6 +1076,7 @@
     "country_code": "MX",
     "latitude": "25.73643000",
     "longitude": "-103.09049000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -987,6 +1088,7 @@
     "country_code": "MX",
     "latitude": "27.58778000",
     "longitude": "-101.37250000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -998,6 +1100,7 @@
     "country_code": "MX",
     "latitude": "25.25275000",
     "longitude": "-101.22011000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1009,6 +1112,7 @@
     "country_code": "MX",
     "latitude": "27.92942000",
     "longitude": "-101.30495000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1020,6 +1124,7 @@
     "country_code": "MX",
     "latitude": "25.72272000",
     "longitude": "-103.15350000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1031,6 +1136,7 @@
     "country_code": "MX",
     "latitude": "25.66667000",
     "longitude": "-103.00910000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1042,6 +1148,7 @@
     "country_code": "MX",
     "latitude": "25.69924000",
     "longitude": "-102.95072000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1053,6 +1160,7 @@
     "country_code": "MX",
     "latitude": "25.70938000",
     "longitude": "-103.30840000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1064,6 +1172,7 @@
     "country_code": "MX",
     "latitude": "25.56665000",
     "longitude": "-103.33200000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1075,6 +1184,7 @@
     "country_code": "MX",
     "latitude": "25.43118000",
     "longitude": "-103.27909000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1086,6 +1196,7 @@
     "country_code": "MX",
     "latitude": "25.76389000",
     "longitude": "-103.23889000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1097,6 +1208,7 @@
     "country_code": "MX",
     "latitude": "27.28861000",
     "longitude": "-103.70124000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1108,6 +1220,7 @@
     "country_code": "MX",
     "latitude": "25.66249000",
     "longitude": "-103.27560000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1119,6 +1232,7 @@
     "country_code": "MX",
     "latitude": "25.68361000",
     "longitude": "-103.06861000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1130,6 +1244,7 @@
     "country_code": "MX",
     "latitude": "25.54389000",
     "longitude": "-103.41898000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1141,6 +1256,7 @@
     "country_code": "MX",
     "latitude": "25.71193000",
     "longitude": "-103.32960000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1152,6 +1268,7 @@
     "country_code": "MX",
     "latitude": "25.78923000",
     "longitude": "-103.15127000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1163,6 +1280,7 @@
     "country_code": "MX",
     "latitude": "25.32695000",
     "longitude": "-103.47772000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1174,6 +1292,7 @@
     "country_code": "MX",
     "latitude": "25.33923000",
     "longitude": "-102.80493000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1185,6 +1304,7 @@
     "country_code": "MX",
     "latitude": "27.74274000",
     "longitude": "-101.35295000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1196,6 +1316,7 @@
     "country_code": "MX",
     "latitude": "28.21667000",
     "longitude": "-100.71667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1207,6 +1328,7 @@
     "country_code": "MX",
     "latitude": "25.80083000",
     "longitude": "-103.27235000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1218,6 +1340,7 @@
     "country_code": "MX",
     "latitude": "28.49320000",
     "longitude": "-100.92230000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

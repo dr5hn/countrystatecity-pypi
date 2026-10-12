@@ -8,6 +8,7 @@
     "country_code": "MY",
     "latitude": "6.12104000",
     "longitude": "100.36014000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "MY",
     "latitude": "6.42062000",
     "longitude": "99.82199000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,19 @@
     "country_code": "MY",
     "latitude": "5.72743000",
     "longitude": "100.50876000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165281,
+    "name": "Changloon",
+    "state_id": 1947,
+    "state_code": "02",
+    "country_id": 132,
+    "country_code": "MY",
+    "latitude": "6.43422000",
+    "longitude": "100.43133000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +56,7 @@
     "country_code": "MY",
     "latitude": "5.81717000",
     "longitude": "100.47381000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,7 @@
     "country_code": "MY",
     "latitude": "6.26812000",
     "longitude": "100.42167000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "MY",
     "latitude": "6.40550000",
     "longitude": "99.85020000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +92,7 @@
     "country_code": "MY",
     "latitude": "6.36759000",
     "longitude": "99.68252000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +104,7 @@
     "country_code": "MY",
     "latitude": "6.32649000",
     "longitude": "99.84320000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +116,7 @@
     "country_code": "MY",
     "latitude": "6.10000000",
     "longitude": "100.30000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +128,7 @@
     "country_code": "MY",
     "latitude": "6.36377000",
     "longitude": "99.71532000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +140,7 @@
     "country_code": "MY",
     "latitude": "5.36499000",
     "longitude": "100.56177000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +152,19 @@
     "country_code": "MY",
     "latitude": "6.35608000",
     "longitude": "99.78375000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165282,
+    "name": "Lunas",
+    "state_id": 1947,
+    "state_code": "02",
+    "country_id": 132,
+    "country_code": "MY",
+    "latitude": "5.43058000",
+    "longitude": "100.53012000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +176,19 @@
     "country_code": "MY",
     "latitude": "6.35423000",
     "longitude": "99.73404000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 76531,
+    "name": "Pantai Cenang",
+    "state_id": 1947,
+    "state_code": "02",
+    "country_id": 132,
+    "country_code": "MY",
+    "latitude": "6.29369000",
+    "longitude": "99.72786000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +200,19 @@
     "country_code": "MY",
     "latitude": "5.64700000",
     "longitude": "100.48772000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165275,
+    "name": "Tokai",
+    "state_id": 1947,
+    "state_code": "02",
+    "country_id": 132,
+    "country_code": "MY",
+    "latitude": "6.02867000",
+    "longitude": "100.40691000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

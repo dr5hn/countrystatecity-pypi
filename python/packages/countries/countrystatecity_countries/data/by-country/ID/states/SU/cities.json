@@ -1,5 +1,17 @@
 [
   {
+    "id": 56481,
+    "name": "Aek Kanopan",
+    "state_id": 1792,
+    "state_code": "SU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "2.56666667",
+    "longitude": "99.65000000",
+    "county_id": 8412,
+    "wikiDataId": null
+  },
+  {
     "id": 56177,
     "name": "Ambarita",
     "state_id": 1792,
@@ -8,6 +20,7 @@
     "country_code": "ID",
     "latitude": "2.68140000",
     "longitude": "98.83110000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,7 @@
     "country_code": "ID",
     "latitude": "2.78333000",
     "longitude": "99.55000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,7 @@
     "country_code": "ID",
     "latitude": "2.05000000",
     "longitude": "99.75000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +56,7 @@
     "country_code": "ID",
     "latitude": "3.16166000",
     "longitude": "99.52652000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,7 @@
     "country_code": "ID",
     "latitude": "3.77550000",
     "longitude": "98.68320000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "ID",
     "latitude": "3.19468000",
     "longitude": "98.50889000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +92,7 @@
     "country_code": "ID",
     "latitude": "3.60010000",
     "longitude": "98.48540000",
+    "county_id": 8419,
     "wikiDataId": null
   },
   {
@@ -85,17 +104,7 @@
     "country_code": "ID",
     "latitude": "2.86667000",
     "longitude": "98.23333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56396,
-    "name": "Deli Serdang",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "3.41667000",
-    "longitude": "98.66667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +116,31 @@
     "country_code": "ID",
     "latitude": "3.50780000",
     "longitude": "98.68390000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 56423,
+    "name": "Dolok Sanggul",
+    "state_id": 1792,
+    "state_code": "SU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "2.25880000",
+    "longitude": "98.75010000",
+    "county_id": 8405,
+    "wikiDataId": null
+  },
+  {
+    "id": 56570,
+    "name": "Gunung Tua",
+    "state_id": 1792,
+    "state_code": "SU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "1.51274000",
+    "longitude": "99.62628000",
+    "county_id": 8409,
     "wikiDataId": null
   },
   {
@@ -118,17 +152,7 @@
     "country_code": "ID",
     "latitude": "1.28880000",
     "longitude": "97.61430000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56423,
-    "name": "Humbang Hasundutan",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "2.26551000",
-    "longitude": "98.50376000",
+    "county_id": 8422,
     "wikiDataId": null
   },
   {
@@ -140,17 +164,7 @@
     "country_code": "ID",
     "latitude": "3.10010000",
     "longitude": "98.49080000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56442,
-    "name": "Karo",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "3.11667000",
-    "longitude": "98.30000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,17 +176,7 @@
     "country_code": "ID",
     "latitude": "2.98450000",
     "longitude": "99.61580000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56479,
-    "name": "Labuhan Batu",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "2.26667000",
-    "longitude": "100.10000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,17 +188,7 @@
     "country_code": "ID",
     "latitude": "1.98300000",
     "longitude": "100.09760000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56481,
-    "name": "Labuhan Batu Utara",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "2.33349000",
-    "longitude": "99.63776000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +200,7 @@
     "country_code": "ID",
     "latitude": "3.72780000",
     "longitude": "98.67380000",
+    "county_id": 8415,
     "wikiDataId": null
   },
   {
@@ -217,17 +212,19 @@
     "country_code": "ID",
     "latitude": "3.71667000",
     "longitude": "98.21667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 56523,
-    "name": "Mandailing Natal",
+    "id": 164818,
+    "name": "Lubuk Pakam",
     "state_id": 1792,
     "state_code": "SU",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "0.78378000",
-    "longitude": "99.25495000",
+    "latitude": "3.55920000",
+    "longitude": "98.87330000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +236,7 @@
     "country_code": "ID",
     "latitude": "3.58333000",
     "longitude": "98.66667000",
+    "county_id": 8415,
     "wikiDataId": null
   },
   {
@@ -250,6 +248,7 @@
     "country_code": "ID",
     "latitude": "1.03333000",
     "longitude": "97.76667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +260,7 @@
     "country_code": "ID",
     "latitude": "1.05966000",
     "longitude": "97.58606000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,28 +272,7 @@
     "country_code": "ID",
     "latitude": "1.33037000",
     "longitude": "97.31964000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56569,
-    "name": "Padang Lawas",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "1.44684000",
-    "longitude": "99.99207000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56570,
-    "name": "Padang Lawas Utara",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "1.46011000",
-    "longitude": "99.67346000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,17 +284,7 @@
     "country_code": "ID",
     "latitude": "1.37952000",
     "longitude": "99.27146000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56572,
-    "name": "Pakpak Bharat",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "2.56667000",
-    "longitude": "98.28333000",
+    "county_id": 8421,
     "wikiDataId": null
   },
   {
@@ -327,6 +296,31 @@
     "country_code": "ID",
     "latitude": "4.02380000",
     "longitude": "98.27820000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 56615,
+    "name": "Pangururan",
+    "state_id": 1792,
+    "state_code": "SU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "2.60810000",
+    "longitude": "98.69610000",
+    "county_id": 8406,
+    "wikiDataId": null
+  },
+  {
+    "id": 56523,
+    "name": "Panyabungan",
+    "state_id": 1792,
+    "state_code": "SU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.79676271",
+    "longitude": "99.57892183",
+    "county_id": 8402,
     "wikiDataId": null
   },
   {
@@ -338,6 +332,7 @@
     "country_code": "ID",
     "latitude": "2.66300000",
     "longitude": "98.93490000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -349,6 +344,7 @@
     "country_code": "ID",
     "latitude": "3.11313000",
     "longitude": "99.17352000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -360,6 +356,7 @@
     "country_code": "ID",
     "latitude": "2.95950000",
     "longitude": "99.06870000",
+    "county_id": 8416,
     "wikiDataId": null
   },
   {
@@ -371,6 +368,7 @@
     "country_code": "ID",
     "latitude": "3.56790000",
     "longitude": "98.95600000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,6 +380,7 @@
     "country_code": "ID",
     "latitude": "3.62530000",
     "longitude": "98.86400000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -393,28 +392,31 @@
     "country_code": "ID",
     "latitude": "2.10000000",
     "longitude": "99.83333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 56615,
-    "name": "Samosir",
+    "id": 56572,
+    "name": "Salak",
     "state_id": 1792,
     "state_code": "SU",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "2.64025000",
-    "longitude": "98.71525000",
+    "latitude": "2.55660000",
+    "longitude": "98.32350000",
+    "county_id": 8404,
     "wikiDataId": null
   },
   {
     "id": 56624,
-    "name": "Serdang Bedagai",
+    "name": "Sei Rampah",
     "state_id": 1792,
     "state_code": "SU",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "3.36667000",
-    "longitude": "99.03333000",
+    "latitude": "3.48450000",
+    "longitude": "99.13660000",
+    "county_id": 8407,
     "wikiDataId": null
   },
   {
@@ -426,6 +428,19 @@
     "country_code": "ID",
     "latitude": "1.74016000",
     "longitude": "98.78117000",
+    "county_id": 8417,
+    "wikiDataId": null
+  },
+  {
+    "id": 164822,
+    "name": "Sibuhuan",
+    "state_id": 1792,
+    "state_code": "SU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "1.05387000",
+    "longitude": "99.73018000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -437,6 +452,7 @@
     "country_code": "ID",
     "latitude": "2.90000000",
     "longitude": "99.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -448,6 +464,7 @@
     "country_code": "ID",
     "latitude": "3.73335000",
     "longitude": "98.45025000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -459,6 +476,7 @@
     "country_code": "ID",
     "latitude": "3.57650000",
     "longitude": "98.61510000",
+    "county_id": 8415,
     "wikiDataId": null
   },
   {
@@ -470,6 +488,7 @@
     "country_code": "ID",
     "latitude": "2.96667000",
     "longitude": "99.80000000",
+    "county_id": 8418,
     "wikiDataId": null
   },
   {
@@ -481,6 +500,7 @@
     "country_code": "ID",
     "latitude": "4.06130000",
     "longitude": "98.36990000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -492,6 +512,7 @@
     "country_code": "ID",
     "latitude": "1.51667000",
     "longitude": "99.25000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -503,17 +524,19 @@
     "country_code": "ID",
     "latitude": "1.90000000",
     "longitude": "98.66667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 56672,
-    "name": "Tapanuli Utara",
+    "id": 164804,
+    "name": "Tarutung",
     "state_id": 1792,
     "state_code": "SU",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "2.00280000",
-    "longitude": "99.07070000",
+    "latitude": "2.01467000",
+    "longitude": "98.96548000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -525,6 +548,7 @@
     "country_code": "ID",
     "latitude": "3.32850000",
     "longitude": "99.16250000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -536,6 +560,7 @@
     "country_code": "ID",
     "latitude": "3.00100000",
     "longitude": "99.81640000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -547,6 +572,7 @@
     "country_code": "ID",
     "latitude": "2.65210000",
     "longitude": "98.86080000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -558,6 +584,7 @@
     "country_code": "ID",
     "latitude": "2.89850000",
     "longitude": "98.52310000",
+    "county_id": 8395,
     "wikiDataId": null
   },
   {
@@ -569,6 +596,7 @@
     "country_code": "ID",
     "latitude": "2.66890000",
     "longitude": "98.85760000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

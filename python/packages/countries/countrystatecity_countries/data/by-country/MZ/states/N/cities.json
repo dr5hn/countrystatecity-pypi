@@ -1,13 +1,14 @@
 [
   {
     "id": 76589,
-    "name": "António Enes",
+    "name": "Angoche",
     "state_id": 3336,
     "state_code": "N",
     "country_id": 150,
     "country_code": "MZ",
     "latitude": "-16.23250000",
     "longitude": "39.90861000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "MZ",
     "latitude": "-15.03417000",
     "longitude": "40.73583000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "MZ",
     "latitude": "-14.87056000",
     "longitude": "37.00444000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,19 @@
     "country_code": "MZ",
     "latitude": "-14.56257000",
     "longitude": "40.68538000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165293,
+    "name": "Namialo",
+    "state_id": 3336,
+    "state_code": "N",
+    "country_id": 150,
+    "country_code": "MZ",
+    "latitude": "-14.92056000",
+    "longitude": "39.98361000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,7 @@
     "country_code": "MZ",
     "latitude": "-15.11646000",
     "longitude": "39.26660000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

@@ -8,6 +8,7 @@
     "country_code": "VE",
     "latitude": "9.42958000",
     "longitude": "-64.46428000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "VE",
     "latitude": "9.45588000",
     "longitude": "-64.82928000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "VE",
     "latitude": "10.13625000",
     "longitude": "-64.68618000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,19 @@
     "country_code": "VE",
     "latitude": "9.30571000",
     "longitude": "-64.35841000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165774,
+    "name": "Clarines",
+    "state_id": 2050,
+    "state_code": "B",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "9.93991000",
+    "longitude": "-65.16517000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,19 @@
     "country_code": "VE",
     "latitude": "8.88902000",
     "longitude": "-64.25270000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165817,
+    "name": "Guanta",
+    "state_id": 2050,
+    "state_code": "B",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "10.23453000",
+    "longitude": "-64.59708000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +92,7 @@
     "country_code": "VE",
     "latitude": "7.73874000",
     "longitude": "-64.71876000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +104,7 @@
     "country_code": "VE",
     "latitude": "9.59714000",
     "longitude": "-65.19350000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +116,7 @@
     "country_code": "VE",
     "latitude": "10.21382000",
     "longitude": "-64.63280000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +128,7 @@
     "country_code": "VE",
     "latitude": "10.05896000",
     "longitude": "-65.03698000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +140,31 @@
     "country_code": "VE",
     "latitude": "8.88724000",
     "longitude": "-64.16512000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165792,
+    "name": "San Mateo",
+    "state_id": 2050,
+    "state_code": "B",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "9.74004000",
+    "longitude": "-64.54937000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165790,
+    "name": "Valle de Guanape",
+    "state_id": 2050,
+    "state_code": "B",
+    "country_id": 239,
+    "country_code": "VE",
+    "latitude": "9.90999000",
+    "longitude": "-65.67405000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

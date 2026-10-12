@@ -1,16 +1,5 @@
 [
   {
-    "id": 66585,
-    "name": "Aukstadvaris",
-    "state_id": 1606,
-    "state_code": "57",
-    "country_id": 126,
-    "country_code": "LT",
-    "latitude": "54.57946000",
-    "longitude": "24.52683000",
-    "wikiDataId": null
-  },
-  {
     "id": 66586,
     "name": "Baltoji Vokė",
     "state_id": 1606,
@@ -19,28 +8,7 @@
     "country_code": "LT",
     "latitude": "54.60002000",
     "longitude": "25.19318000",
-    "wikiDataId": null
-  },
-  {
-    "id": 66596,
-    "name": "Eišiškės",
-    "state_id": 1606,
-    "state_code": "57",
-    "country_id": 126,
-    "country_code": "LT",
-    "latitude": "54.17414000",
-    "longitude": "24.99917000",
-    "wikiDataId": null
-  },
-  {
-    "id": 66597,
-    "name": "Elektrėnai",
-    "state_id": 1606,
-    "state_code": "57",
-    "country_id": 126,
-    "country_code": "LT",
-    "latitude": "54.78544000",
-    "longitude": "24.66302000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +20,7 @@
     "country_code": "LT",
     "latitude": "54.73333000",
     "longitude": "25.24167000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +32,7 @@
     "country_code": "LT",
     "latitude": "54.68333000",
     "longitude": "25.08333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +44,7 @@
     "country_code": "LT",
     "latitude": "54.71664000",
     "longitude": "25.21740000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +56,7 @@
     "country_code": "LT",
     "latitude": "54.66815000",
     "longitude": "25.20684000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +68,7 @@
     "country_code": "LT",
     "latitude": "54.64364000",
     "longitude": "25.05162000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,28 +80,7 @@
     "country_code": "LT",
     "latitude": "54.67951000",
     "longitude": "25.26855000",
-    "wikiDataId": null
-  },
-  {
-    "id": 66643,
-    "name": "Nemenčinė",
-    "state_id": 1606,
-    "state_code": "57",
-    "country_id": 126,
-    "country_code": "LT",
-    "latitude": "54.84776000",
-    "longitude": "25.46992000",
-    "wikiDataId": null
-  },
-  {
-    "id": 66647,
-    "name": "Pabradė",
-    "state_id": 1606,
-    "state_code": "57",
-    "country_id": 126,
-    "country_code": "LT",
-    "latitude": "54.98100000",
-    "longitude": "25.76100000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +92,7 @@
     "country_code": "LT",
     "latitude": "54.73429000",
     "longitude": "25.21912000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +104,7 @@
     "country_code": "LT",
     "latitude": "54.69981000",
     "longitude": "25.18393000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,17 +116,7 @@
     "country_code": "LT",
     "latitude": "54.67877000",
     "longitude": "25.31173000",
-    "wikiDataId": null
-  },
-  {
-    "id": 66671,
-    "name": "Rūdiškės",
-    "state_id": 1606,
-    "state_code": "57",
-    "country_id": 126,
-    "country_code": "LT",
-    "latitude": "54.51609000",
-    "longitude": "24.83084000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +128,7 @@
     "country_code": "LT",
     "latitude": "54.30000000",
     "longitude": "25.38333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +140,7 @@
     "country_code": "LT",
     "latitude": "54.60900000",
     "longitude": "24.98000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +152,7 @@
     "country_code": "LT",
     "latitude": "54.70972000",
     "longitude": "25.25053000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,28 +164,7 @@
     "country_code": "LT",
     "latitude": "55.05000000",
     "longitude": "24.95000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 66680,
-    "name": "Skaidiškės",
-    "state_id": 1606,
-    "state_code": "57",
-    "country_id": 126,
-    "country_code": "LT",
-    "latitude": "54.61398000",
-    "longitude": "25.39573000",
-    "wikiDataId": null
-  },
-  {
-    "id": 66720,
-    "name": "Švenčionėliai",
-    "state_id": 1606,
-    "state_code": "57",
-    "country_id": 126,
-    "country_code": "LT",
-    "latitude": "55.16163000",
-    "longitude": "26.00177000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,28 +176,7 @@
     "country_code": "LT",
     "latitude": "55.15000000",
     "longitude": "26.16667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 66687,
-    "name": "Trakai",
-    "state_id": 1606,
-    "state_code": "57",
-    "country_id": 126,
-    "country_code": "LT",
-    "latitude": "54.63783000",
-    "longitude": "24.93433000",
-    "wikiDataId": null
-  },
-  {
-    "id": 66689,
-    "name": "Ukmerge",
-    "state_id": 1606,
-    "state_code": "57",
-    "country_id": 126,
-    "country_code": "LT",
-    "latitude": "55.25000000",
-    "longitude": "24.75000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +188,7 @@
     "country_code": "LT",
     "latitude": "54.76667000",
     "longitude": "24.80000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +200,7 @@
     "country_code": "LT",
     "latitude": "54.66969000",
     "longitude": "25.24770000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +212,7 @@
     "country_code": "LT",
     "latitude": "54.68916000",
     "longitude": "25.27980000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +224,7 @@
     "country_code": "LT",
     "latitude": "54.73333000",
     "longitude": "25.38333000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

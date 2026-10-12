@@ -8,6 +8,7 @@
     "country_code": "MA",
     "latitude": "31.57917000",
     "longitude": "-7.31308000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "MA",
     "latitude": "31.10783000",
     "longitude": "-8.49083000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "MA",
     "latitude": "31.34083000",
     "longitude": "-7.91076000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "MA",
     "latitude": "31.26554000",
     "longitude": "-9.17865000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,17 +56,7 @@
     "country_code": "MA",
     "latitude": "31.26365000",
     "longitude": "-8.84411000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67116,
-    "name": "Essaouira",
-    "state_id": 3311,
-    "state_code": "SAF",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "31.50675000",
-    "longitude": "-9.75655000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +68,7 @@
     "country_code": "MA",
     "latitude": "32.16667000",
     "longitude": "-7.75000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +80,7 @@
     "country_code": "MA",
     "latitude": "31.63623000",
     "longitude": "-8.01041000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67159,
-    "name": "Marrakesh",
-    "state_id": 3311,
-    "state_code": "SAF",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "31.63416000",
-    "longitude": "-7.99994000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +92,7 @@
     "country_code": "MA",
     "latitude": "31.20603000",
     "longitude": "-7.86089000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +104,7 @@
     "country_code": "MA",
     "latitude": "32.24581000",
     "longitude": "-7.93144000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,50 +116,7 @@
     "country_code": "MA",
     "latitude": "32.16667000",
     "longitude": "-8.83333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67205,
-    "name": "Setti Fatma",
-    "state_id": 3311,
-    "state_code": "SAF",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "31.22508000",
-    "longitude": "-7.67751000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67212,
-    "name": "Sidi Rahhal",
-    "state_id": 3311,
-    "state_code": "SAF",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "31.65031000",
-    "longitude": "-7.47288000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67221,
-    "name": "Smimou",
-    "state_id": 3311,
-    "state_code": "SAF",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "31.21014000",
-    "longitude": "-9.70863000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67229,
-    "name": "Tamanar",
-    "state_id": 3311,
-    "state_code": "SAF",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "31.00087000",
-    "longitude": "-9.67802000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +128,7 @@
     "country_code": "MA",
     "latitude": "31.22218000",
     "longitude": "-9.07943000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +140,7 @@
     "country_code": "MA",
     "latitude": "31.46586000",
     "longitude": "-7.61199000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +152,7 @@
     "country_code": "MA",
     "latitude": "30.88366000",
     "longitude": "-9.04548000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +164,7 @@
     "country_code": "MA",
     "latitude": "32.24634000",
     "longitude": "-8.52941000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +176,7 @@
     "country_code": "MA",
     "latitude": "31.44470000",
     "longitude": "-7.39224000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

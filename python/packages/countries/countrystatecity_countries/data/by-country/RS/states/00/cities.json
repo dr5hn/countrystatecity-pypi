@@ -8,6 +8,7 @@
     "country_code": "RS",
     "latitude": "44.65070000",
     "longitude": "20.25941000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,31 @@
     "country_code": "RS",
     "latitude": "44.77983000",
     "longitude": "20.20577000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165467,
+    "name": "Belgrade",
+    "state_id": 3728,
+    "state_code": "00",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "44.80401000",
+    "longitude": "20.46513000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 97181,
+    "name": "Boljevci",
+    "state_id": 3728,
+    "state_code": "00",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "44.72355000",
+    "longitude": "20.22348000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +56,19 @@
     "country_code": "RS",
     "latitude": "44.82631000",
     "longitude": "20.22487000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 97215,
+    "name": "Grabovac",
+    "state_id": 3728,
+    "state_code": "00",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "44.60049000",
+    "longitude": "20.08539000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +80,7 @@
     "country_code": "RS",
     "latitude": "44.38534000",
     "longitude": "20.25570000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +92,7 @@
     "country_code": "RS",
     "latitude": "44.63834000",
     "longitude": "20.30600000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +104,7 @@
     "country_code": "RS",
     "latitude": "44.65486000",
     "longitude": "20.20017000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +116,7 @@
     "country_code": "RS",
     "latitude": "44.72769000",
     "longitude": "20.31845000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +128,7 @@
     "country_code": "RS",
     "latitude": "44.88349000",
     "longitude": "20.53336000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +140,7 @@
     "country_code": "RS",
     "latitude": "44.68477000",
     "longitude": "20.44993000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +152,7 @@
     "country_code": "RS",
     "latitude": "44.67653000",
     "longitude": "20.39232000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +164,7 @@
     "country_code": "RS",
     "latitude": "44.51278000",
     "longitude": "20.29500000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +176,7 @@
     "country_code": "RS",
     "latitude": "44.57476000",
     "longitude": "20.13477000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,17 +188,7 @@
     "country_code": "RS",
     "latitude": "44.79306000",
     "longitude": "20.28028000",
-    "wikiDataId": null
-  },
-  {
-    "id": 97406,
-    "name": "Tabanović",
-    "state_id": 3728,
-    "state_code": "00",
-    "country_id": 196,
-    "country_code": "RS",
-    "latitude": "44.82018000",
-    "longitude": "19.64128000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +200,7 @@
     "country_code": "RS",
     "latitude": "44.87635000",
     "longitude": "20.18763000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +212,7 @@
     "country_code": "RS",
     "latitude": "44.67806000",
     "longitude": "20.30472000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +224,7 @@
     "country_code": "RS",
     "latitude": "44.66486000",
     "longitude": "20.35395000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +236,7 @@
     "country_code": "RS",
     "latitude": "44.60237000",
     "longitude": "20.32872000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +248,7 @@
     "country_code": "RS",
     "latitude": "44.84580000",
     "longitude": "20.40116000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +260,7 @@
     "country_code": "RS",
     "latitude": "44.64025000",
     "longitude": "20.16432000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

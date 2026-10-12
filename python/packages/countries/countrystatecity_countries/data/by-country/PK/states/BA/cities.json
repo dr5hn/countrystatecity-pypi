@@ -8,6 +8,7 @@
     "country_code": "PK",
     "latitude": "30.48976000",
     "longitude": "67.52177000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "PK",
     "latitude": "26.21157000",
     "longitude": "65.42944000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,17 +32,7 @@
     "country_code": "PK",
     "latitude": "29.89773000",
     "longitude": "69.52558000",
-    "wikiDataId": null
-  },
-  {
-    "id": 85375,
-    "name": "Bārkhān District",
-    "state_id": 3174,
-    "state_code": "BA",
-    "country_id": 167,
-    "country_code": "PK",
-    "latitude": "29.98482000",
-    "longitude": "69.69944000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +44,7 @@
     "country_code": "PK",
     "latitude": "26.22718000",
     "longitude": "66.31178000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +56,7 @@
     "country_code": "PK",
     "latitude": "29.04174000",
     "longitude": "67.82394000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +68,7 @@
     "country_code": "PK",
     "latitude": "28.98765000",
     "longitude": "63.59087000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +80,7 @@
     "country_code": "PK",
     "latitude": "30.91769000",
     "longitude": "66.45259000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +92,7 @@
     "country_code": "PK",
     "latitude": "28.01944000",
     "longitude": "67.92083000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +104,7 @@
     "country_code": "PK",
     "latitude": "29.47489000",
     "longitude": "67.65167000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +116,7 @@
     "country_code": "PK",
     "latitude": "28.88846000",
     "longitude": "64.40616000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,17 +128,19 @@
     "country_code": "PK",
     "latitude": "29.03619000",
     "longitude": "69.15849000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 85417,
-    "name": "Dera Bugti District",
+    "id": 165444,
+    "name": "Dera Murad Jamali",
     "state_id": 3174,
     "state_code": "BA",
     "country_id": 167,
     "country_code": "PK",
-    "latitude": "28.94250000",
-    "longitude": "69.06883000",
+    "latitude": "28.54657000",
+    "longitude": "68.22308000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +152,7 @@
     "country_code": "PK",
     "latitude": "30.15307000",
     "longitude": "68.57323000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +164,7 @@
     "country_code": "PK",
     "latitude": "25.11879000",
     "longitude": "66.73219000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +176,7 @@
     "country_code": "PK",
     "latitude": "28.06029000",
     "longitude": "67.98033000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +188,7 @@
     "country_code": "PK",
     "latitude": "25.12163000",
     "longitude": "62.32541000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +200,7 @@
     "country_code": "PK",
     "latitude": "30.10077000",
     "longitude": "67.93824000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +212,7 @@
     "country_code": "PK",
     "latitude": "28.30104000",
     "longitude": "68.19783000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +224,7 @@
     "country_code": "PK",
     "latitude": "28.36881000",
     "longitude": "67.54300000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +236,7 @@
     "country_code": "PK",
     "latitude": "25.04852000",
     "longitude": "61.74573000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,17 +248,7 @@
     "country_code": "PK",
     "latitude": "29.02663000",
     "longitude": "66.59361000",
-    "wikiDataId": null
-  },
-  {
-    "id": 85511,
-    "name": "Kalāt District",
-    "state_id": 3174,
-    "state_code": "BA",
-    "country_id": 167,
-    "country_code": "PK",
-    "latitude": "28.88242000",
-    "longitude": "66.53165000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +260,7 @@
     "country_code": "PK",
     "latitude": "30.75236000",
     "longitude": "67.71133000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,17 +272,7 @@
     "country_code": "PK",
     "latitude": "28.58459000",
     "longitude": "65.41501000",
-    "wikiDataId": null
-  },
-  {
-    "id": 85550,
-    "name": "Khārān District",
-    "state_id": 3174,
-    "state_code": "BA",
-    "country_id": 167,
-    "country_code": "PK",
-    "latitude": "27.96308000",
-    "longitude": "64.57113000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,17 +284,7 @@
     "country_code": "PK",
     "latitude": "27.81193000",
     "longitude": "66.61096000",
-    "wikiDataId": null
-  },
-  {
-    "id": 85549,
-    "name": "Khuzdār District",
-    "state_id": 3174,
-    "state_code": "BA",
-    "country_id": 167,
-    "country_code": "PK",
-    "latitude": "27.48680000",
-    "longitude": "66.58703000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +296,7 @@
     "country_code": "PK",
     "latitude": "29.89651000",
     "longitude": "69.25324000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,17 +308,7 @@
     "country_code": "PK",
     "latitude": "30.20379000",
     "longitude": "66.98723000",
-    "wikiDataId": null
-  },
-  {
-    "id": 85579,
-    "name": "Lasbela",
-    "state_id": 3174,
-    "state_code": "BA",
-    "country_id": 167,
-    "country_code": "PK",
-    "latitude": "25.78634000",
-    "longitude": "66.60330000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -349,17 +320,7 @@
     "country_code": "PK",
     "latitude": "30.37051000",
     "longitude": "68.59795000",
-    "wikiDataId": null
-  },
-  {
-    "id": 85585,
-    "name": "Loralai District",
-    "state_id": 3174,
-    "state_code": "BA",
-    "country_id": 167,
-    "country_code": "PK",
-    "latitude": "30.30253000",
-    "longitude": "68.84636000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -371,6 +332,7 @@
     "country_code": "PK",
     "latitude": "29.86371000",
     "longitude": "67.33018000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,17 +344,7 @@
     "country_code": "PK",
     "latitude": "29.79966000",
     "longitude": "66.84553000",
-    "wikiDataId": null
-  },
-  {
-    "id": 85600,
-    "name": "Mastung District",
-    "state_id": 3174,
-    "state_code": "BA",
-    "country_id": 167,
-    "country_code": "PK",
-    "latitude": "29.79455000",
-    "longitude": "66.72068000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -404,6 +356,7 @@
     "country_code": "PK",
     "latitude": "28.10773000",
     "longitude": "68.02554000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,6 +368,7 @@
     "country_code": "PK",
     "latitude": "30.84937000",
     "longitude": "69.90069000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -426,6 +380,7 @@
     "country_code": "PK",
     "latitude": "28.62643000",
     "longitude": "68.12925000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -437,6 +392,7 @@
     "country_code": "PK",
     "latitude": "29.55218000",
     "longitude": "66.02288000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -448,6 +404,7 @@
     "country_code": "PK",
     "latitude": "25.21018000",
     "longitude": "64.63626000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -459,6 +416,7 @@
     "country_code": "PK",
     "latitude": "26.73750000",
     "longitude": "64.20380000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -470,6 +428,7 @@
     "country_code": "PK",
     "latitude": "25.26302000",
     "longitude": "63.46921000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -481,6 +440,7 @@
     "country_code": "PK",
     "latitude": "30.58176000",
     "longitude": "66.99406000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -492,6 +452,7 @@
     "country_code": "PK",
     "latitude": "30.95392000",
     "longitude": "68.33996000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -503,17 +464,7 @@
     "country_code": "PK",
     "latitude": "30.18414000",
     "longitude": "67.00141000",
-    "wikiDataId": null
-  },
-  {
-    "id": 85673,
-    "name": "Quetta District",
-    "state_id": 3174,
-    "state_code": "BA",
-    "country_id": 167,
-    "country_code": "PK",
-    "latitude": "30.17458000",
-    "longitude": "66.76203000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -525,6 +476,7 @@
     "country_code": "PK",
     "latitude": "29.54299000",
     "longitude": "67.87726000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -536,6 +488,7 @@
     "country_code": "PK",
     "latitude": "28.52038000",
     "longitude": "68.54298000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -547,6 +500,7 @@
     "country_code": "PK",
     "latitude": "28.49276000",
     "longitude": "66.25999000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -558,6 +512,7 @@
     "country_code": "PK",
     "latitude": "26.00122000",
     "longitude": "63.04849000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -569,6 +524,7 @@
     "country_code": "PK",
     "latitude": "28.17723000",
     "longitude": "68.04367000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -580,6 +536,7 @@
     "country_code": "PK",
     "latitude": "25.80722000",
     "longitude": "66.62194000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -591,17 +548,7 @@
     "country_code": "PK",
     "latitude": "31.34082000",
     "longitude": "69.44930000",
-    "wikiDataId": null
-  },
-  {
-    "id": 85772,
-    "name": "Zhob District",
-    "state_id": 3174,
-    "state_code": "BA",
-    "country_id": 167,
-    "country_code": "PK",
-    "latitude": "31.36444000",
-    "longitude": "69.20749000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -613,17 +560,7 @@
     "country_code": "PK",
     "latitude": "30.38244000",
     "longitude": "67.72562000",
-    "wikiDataId": null
-  },
-  {
-    "id": 85774,
-    "name": "Ziārat District",
-    "state_id": 3174,
-    "state_code": "BA",
-    "country_id": 167,
-    "country_code": "PK",
-    "latitude": "30.43591000",
-    "longitude": "67.50962000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

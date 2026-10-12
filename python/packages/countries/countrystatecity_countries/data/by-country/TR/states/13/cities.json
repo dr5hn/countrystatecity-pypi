@@ -8,6 +8,7 @@
     "country_code": "TR",
     "latitude": "38.79911000",
     "longitude": "42.73159000",
+    "county_id": 6839,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,19 @@
     "country_code": "TR",
     "latitude": "38.74890000",
     "longitude": "42.48007000",
+    "county_id": 6845,
+    "wikiDataId": null
+  },
+  {
+    "id": 108189,
+    "name": "Bitlis",
+    "state_id": 2215,
+    "state_code": "13",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "38.40115000",
+    "longitude": "42.10784000",
+    "county_id": 6925,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,7 @@
     "country_code": "TR",
     "latitude": "38.57580000",
     "longitude": "42.01558000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,17 +56,7 @@
     "country_code": "TR",
     "latitude": "38.22498000",
     "longitude": "42.41830000",
-    "wikiDataId": null
-  },
-  {
-    "id": 108189,
-    "name": "Merkez",
-    "state_id": 2215,
-    "state_code": "13",
-    "country_id": 225,
-    "country_code": "TR",
-    "latitude": "38.31702000",
-    "longitude": "42.10065000",
+    "county_id": 7115,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "TR",
     "latitude": "38.40624000",
     "longitude": "41.92018000",
+    "county_id": 7247,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "TR",
     "latitude": "38.49221000",
     "longitude": "42.28269000",
+    "county_id": 7376,
     "wikiDataId": null
   }
 ]

@@ -8,6 +8,7 @@
     "country_code": "GA",
     "latitude": "1.00019000",
     "longitude": "9.58229000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "GA",
     "latitude": "0.39241000",
     "longitude": "9.45356000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,19 @@
     "country_code": "GA",
     "latitude": "0.39051000",
     "longitude": "9.76096000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164722,
+    "name": "Owendo",
+    "state_id": 2727,
+    "state_code": "1",
+    "country_id": 79,
+    "country_code": "GA",
+    "latitude": "0.29123000",
+    "longitude": "9.50465000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

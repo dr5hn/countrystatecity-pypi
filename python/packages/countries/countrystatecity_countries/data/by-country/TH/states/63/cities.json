@@ -1,35 +1,14 @@
 [
   {
     "id": 105218,
-    "name": "Amphoe Ban Tak",
+    "name": "Ban Tak",
     "state_id": 3525,
     "state_code": "63",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "17.09163000",
-    "longitude": "99.06648000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105509,
-    "name": "Amphoe Mae Ramat",
-    "state_id": 3525,
-    "state_code": "63",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "17.11180000",
-    "longitude": "98.58635000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105513,
-    "name": "Amphoe Mae Sot",
-    "state_id": 3525,
-    "state_code": "63",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "16.72154000",
-    "longitude": "98.71074000",
+    "latitude": "17.05000000",
+    "longitude": "99.07420000",
+    "county_id": 6043,
     "wikiDataId": null
   },
   {
@@ -41,6 +20,7 @@
     "country_code": "TH",
     "latitude": "17.04325000",
     "longitude": "99.08128000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -50,8 +30,9 @@
     "state_code": "63",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.98403000",
-    "longitude": "98.51665000",
+    "latitude": "16.98430000",
+    "longitude": "98.51720000",
+    "county_id": 6045,
     "wikiDataId": null
   },
   {
@@ -63,17 +44,19 @@
     "country_code": "TH",
     "latitude": "16.71667000",
     "longitude": "98.56667000",
+    "county_id": 6047,
     "wikiDataId": null
   },
   {
-    "id": 105597,
-    "name": "Mueang Tak",
+    "id": 106285,
+    "name": "Mae Tan",
     "state_id": 3525,
     "state_code": "63",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.87650000",
-    "longitude": "99.16617000",
+    "latitude": "17.22708000",
+    "longitude": "98.22572000",
+    "county_id": 6046,
     "wikiDataId": null
   },
   {
@@ -83,8 +66,9 @@
     "state_code": "63",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.47215000",
-    "longitude": "98.83501000",
+    "latitude": "16.38650000",
+    "longitude": "98.69240000",
+    "county_id": 6048,
     "wikiDataId": null
   },
   {
@@ -96,17 +80,7 @@
     "country_code": "TH",
     "latitude": "16.86968000",
     "longitude": "99.12898000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106285,
-    "name": "Tha Song Yang",
-    "state_id": 3525,
-    "state_code": "63",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "17.47481000",
-    "longitude": "98.12079000",
+    "county_id": 6042,
     "wikiDataId": null
   },
   {
@@ -116,8 +90,9 @@
     "state_code": "63",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.79496000",
-    "longitude": "98.87787000",
+    "latitude": "16.01800000",
+    "longitude": "98.86520000",
+    "county_id": 6049,
     "wikiDataId": null
   },
   {
@@ -127,8 +102,9 @@
     "state_code": "63",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.63311000",
-    "longitude": "99.14826000",
+    "latitude": "16.68600000",
+    "longitude": "99.25440000",
+    "county_id": 6050,
     "wikiDataId": null
   }
 ]

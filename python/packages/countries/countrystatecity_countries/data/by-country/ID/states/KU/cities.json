@@ -1,24 +1,14 @@
 [
   {
-    "id": 56381,
-    "name": "Bulungan",
-    "state_id": 1824,
-    "state_code": "KU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "3.00000000",
-    "longitude": "117.16667000",
-    "wikiDataId": null
-  },
-  {
     "id": 56512,
     "name": "Malinau",
     "state_id": 1824,
     "state_code": "KU",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "2.45000000",
-    "longitude": "115.68333000",
+    "latitude": "3.58902111",
+    "longitude": "116.62289889",
+    "county_id": 8730,
     "wikiDataId": null
   },
   {
@@ -28,19 +18,9 @@
     "state_code": "KU",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "4.13333000",
-    "longitude": "116.70000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56661,
-    "name": "Tana Tidung",
-    "state_id": 1824,
-    "state_code": "KU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "3.55000000",
-    "longitude": "117.25000000",
+    "latitude": "4.07678898",
+    "longitude": "117.71891526",
+    "county_id": 8731,
     "wikiDataId": null
   },
   {
@@ -52,6 +32,7 @@
     "country_code": "ID",
     "latitude": "2.83750000",
     "longitude": "117.36528000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +44,19 @@
     "country_code": "ID",
     "latitude": "3.31332000",
     "longitude": "117.59152000",
+    "county_id": 8733,
+    "wikiDataId": null
+  },
+  {
+    "id": 56661,
+    "name": "Tideng Pale",
+    "state_id": 1824,
+    "state_code": "KU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "3.60833333",
+    "longitude": "116.90694444",
+    "county_id": 8732,
     "wikiDataId": null
   }
 ]

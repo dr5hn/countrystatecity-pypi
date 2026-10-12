@@ -1,16 +1,5 @@
 [
   {
-    "id": 110883,
-    "name": "Bundibugyo",
-    "state_id": 370,
-    "state_code": "W",
-    "country_id": 229,
-    "country_code": "UG",
-    "latitude": "0.71117000",
-    "longitude": "30.06469000",
-    "wikiDataId": null
-  },
-  {
     "id": 110889,
     "name": "Bwizibwera",
     "state_id": 370,
@@ -19,6 +8,7 @@
     "country_code": "UG",
     "latitude": "-0.59167000",
     "longitude": "30.62861000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +20,7 @@
     "country_code": "UG",
     "latitude": "0.66174000",
     "longitude": "30.27480000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +32,7 @@
     "country_code": "UG",
     "latitude": "1.43314000",
     "longitude": "31.35241000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +44,7 @@
     "country_code": "UG",
     "latitude": "-0.13398000",
     "longitude": "30.49616000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +56,7 @@
     "country_code": "UG",
     "latitude": "-0.08100000",
     "longitude": "30.55600000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +68,7 @@
     "country_code": "UG",
     "latitude": "-1.24857000",
     "longitude": "29.98993000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +80,7 @@
     "country_code": "UG",
     "latitude": "0.93778000",
     "longitude": "30.80889000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +92,7 @@
     "country_code": "UG",
     "latitude": "0.18660000",
     "longitude": "30.45393000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +104,7 @@
     "country_code": "UG",
     "latitude": "-0.95750000",
     "longitude": "29.78972000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +116,7 @@
     "country_code": "UG",
     "latitude": "0.18333000",
     "longitude": "30.08333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +128,7 @@
     "country_code": "UG",
     "latitude": "0.80000000",
     "longitude": "31.06667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +140,7 @@
     "country_code": "UG",
     "latitude": "1.61620000",
     "longitude": "31.30890000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,17 +152,7 @@
     "country_code": "UG",
     "latitude": "0.19835000",
     "longitude": "30.01302000",
-    "wikiDataId": null
-  },
-  {
-    "id": 110918,
-    "name": "Kiruhura",
-    "state_id": 370,
-    "state_code": "W",
-    "country_id": 229,
-    "country_code": "UG",
-    "latitude": "-0.19664000",
-    "longitude": "30.84446000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,17 +164,7 @@
     "country_code": "UG",
     "latitude": "-1.28538000",
     "longitude": "29.68497000",
-    "wikiDataId": null
-  },
-  {
-    "id": 110923,
-    "name": "Kyenjojo",
-    "state_id": 370,
-    "state_code": "W",
-    "country_id": 229,
-    "country_code": "UG",
-    "latitude": "0.63278000",
-    "longitude": "30.62139000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +176,7 @@
     "country_code": "UG",
     "latitude": "0.41861000",
     "longitude": "29.89111000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,17 +188,7 @@
     "country_code": "UG",
     "latitude": "1.67444000",
     "longitude": "31.71500000",
-    "wikiDataId": null
-  },
-  {
-    "id": 110932,
-    "name": "Masindi Port",
-    "state_id": 370,
-    "state_code": "W",
-    "country_id": 229,
-    "country_code": "UG",
-    "latitude": "1.69606000",
-    "longitude": "32.08608000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +200,7 @@
     "country_code": "UG",
     "latitude": "-0.60467000",
     "longitude": "30.64851000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +212,7 @@
     "country_code": "UG",
     "latitude": "0.93806000",
     "longitude": "30.75944000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +224,7 @@
     "country_code": "UG",
     "latitude": "-0.87944000",
     "longitude": "30.26417000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +236,7 @@
     "country_code": "UG",
     "latitude": "-0.90000000",
     "longitude": "30.41667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +248,7 @@
     "country_code": "UG",
     "latitude": "-0.84111000",
     "longitude": "29.94194000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

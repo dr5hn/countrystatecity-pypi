@@ -8,17 +8,31 @@
     "country_code": "ID",
     "latitude": "-3.94737000",
     "longitude": "135.95032000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 56399,
-    "name": "Dogiyai",
+    "id": 56577,
+    "name": "Enarotali",
     "state_id": 5235,
     "state_code": "PT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-4.03186000",
-    "longitude": "135.43945000",
+    "latitude": "-3.93019111",
+    "longitude": "136.37852694",
+    "county_id": 8852,
+    "wikiDataId": null
+  },
+  {
+    "id": 56604,
+    "name": "Ilaga",
+    "state_id": 5235,
+    "state_code": "PT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.97461000",
+    "longitude": "137.64044000",
+    "county_id": 8854,
     "wikiDataId": null
   },
   {
@@ -30,28 +44,31 @@
     "country_code": "ID",
     "latitude": "-3.41016000",
     "longitude": "136.70837000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 56551,
-    "name": "Kabupaten Nabire",
+    "id": 56399,
+    "name": "Kigamani",
     "state_id": 5235,
     "state_code": "PT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-3.54016000",
-    "longitude": "135.55511000",
+    "latitude": "-3.96139000",
+    "longitude": "135.94361000",
+    "county_id": 8855,
     "wikiDataId": null
   },
   {
-    "id": 56535,
-    "name": "Mimika",
+    "id": 153774,
+    "name": "Kota Mulia",
     "state_id": 5235,
     "state_code": "PT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-4.54357000",
-    "longitude": "136.56555000",
+    "latitude": "-3.70226000",
+    "longitude": "137.96457111",
+    "county_id": 8851,
     "wikiDataId": null
   },
   {
@@ -63,39 +80,19 @@
     "country_code": "ID",
     "latitude": "-3.35989000",
     "longitude": "135.50074000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 56577,
-    "name": "Paniai",
+    "id": 56535,
+    "name": "Timika",
     "state_id": 5235,
     "state_code": "PT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-3.90000000",
-    "longitude": "136.60000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56604,
-    "name": "Puncak",
-    "state_id": 5235,
-    "state_code": "PT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.67241000",
-    "longitude": "137.43896000",
-    "wikiDataId": null
-  },
-  {
-    "id": 153774,
-    "name": "Puncak Jaya",
-    "state_id": 5235,
-    "state_code": "PT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.51069440",
-    "longitude": "137.86611111",
+    "latitude": "-4.54848300",
+    "longitude": "136.88947000",
+    "county_id": 8853,
     "wikiDataId": null
   }
 ]

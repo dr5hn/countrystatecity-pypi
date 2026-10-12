@@ -8,6 +8,7 @@
     "country_code": "GB",
     "latitude": "51.64548000",
     "longitude": "-3.32727000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,55 @@
     "country_code": "GB",
     "latitude": "51.71438000",
     "longitude": "-3.44918000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48448,
+    "name": "Beddau",
+    "state_id": 2301,
+    "state_code": "RCT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.55398000",
+    "longitude": "-3.35814000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48741,
+    "name": "Brynna",
+    "state_id": 2301,
+    "state_code": "RCT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.53845000",
+    "longitude": "-3.46378000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164729,
+    "name": "Clydach Vale",
+    "state_id": 2301,
+    "state_code": "RCT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.62665000",
+    "longitude": "-3.48015000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49217,
+    "name": "Cwmbach",
+    "state_id": 2301,
+    "state_code": "RCT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.70556000",
+    "longitude": "-3.40944000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +80,7 @@
     "country_code": "GB",
     "latitude": "51.66056000",
     "longitude": "-3.44750000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +92,67 @@
     "country_code": "GB",
     "latitude": "51.59213000",
     "longitude": "-3.47296000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49950,
+    "name": "Hirwaun",
+    "state_id": 2301,
+    "state_code": "RCT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.73917000",
+    "longitude": "-3.51028000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50362,
+    "name": "Llanharan",
+    "state_id": 2301,
+    "state_code": "RCT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.53805000",
+    "longitude": "-3.43906000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50363,
+    "name": "Llanharry",
+    "state_id": 2301,
+    "state_code": "RCT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.51422000",
+    "longitude": "-3.43240000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50371,
+    "name": "Llantrisant",
+    "state_id": 2301,
+    "state_code": "RCT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.54028000",
+    "longitude": "-3.37389000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50372,
+    "name": "Llantwit Fardre",
+    "state_id": 2301,
+    "state_code": "RCT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.55460000",
+    "longitude": "-3.33241000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +164,7 @@
     "country_code": "GB",
     "latitude": "51.63333000",
     "longitude": "-3.45000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,17 +176,7 @@
     "country_code": "GB",
     "latitude": "51.68361000",
     "longitude": "-3.38008000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50799,
-    "name": "Ogmore Vale",
-    "state_id": 2301,
-    "state_code": "RCT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.60230000",
-    "longitude": "-3.54217000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +188,19 @@
     "country_code": "GB",
     "latitude": "51.65429000",
     "longitude": "-3.49133000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 50945,
-    "name": "Pontycymer",
+    "id": 50944,
+    "name": "Pontyclun",
     "state_id": 2301,
     "state_code": "RCT",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.61118000",
-    "longitude": "-3.58421000",
+    "latitude": "51.52162000",
+    "longitude": "-3.39145000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,17 +212,7 @@
     "country_code": "GB",
     "latitude": "51.60210000",
     "longitude": "-3.34211000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50991,
-    "name": "Price Town",
-    "state_id": 2301,
-    "state_code": "RCT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.61832000",
-    "longitude": "-3.53662000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,17 +224,7 @@
     "country_code": "GB",
     "latitude": "51.65896000",
     "longitude": "-3.44885000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51068,
-    "name": "Rhondda Cynon Taf",
-    "state_id": 2301,
-    "state_code": "RCT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.66667000",
-    "longitude": "-3.50000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +236,7 @@
     "country_code": "GB",
     "latitude": "51.62202000",
     "longitude": "-3.45544000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +248,7 @@
     "country_code": "GB",
     "latitude": "51.58402000",
     "longitude": "-3.43041000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +260,7 @@
     "country_code": "GB",
     "latitude": "51.65958000",
     "longitude": "-3.50587000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +272,7 @@
     "country_code": "GB",
     "latitude": "51.63922000",
     "longitude": "-3.36036000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

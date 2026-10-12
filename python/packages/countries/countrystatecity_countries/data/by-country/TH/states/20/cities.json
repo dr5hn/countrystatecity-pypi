@@ -8,61 +8,7 @@
     "country_code": "TH",
     "latitude": "13.25280000",
     "longitude": "101.18151000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105445,
-    "name": "Amphoe Ko Si Chang",
-    "state_id": 3513,
-    "state_code": "20",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.15286000",
-    "longitude": "100.81156000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105721,
-    "name": "Amphoe Phan Thong",
-    "state_id": 3513,
-    "state_code": "20",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.46300000",
-    "longitude": "101.09131000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105723,
-    "name": "Amphoe Phanat Nikhom",
-    "state_id": 3513,
-    "state_code": "20",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.46434000",
-    "longitude": "101.21428000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106197,
-    "name": "Amphoe Sattahip",
-    "state_id": 3513,
-    "state_code": "20",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "12.71743000",
-    "longitude": "100.92754000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106220,
-    "name": "Amphoe Si Racha",
-    "state_id": 3513,
-    "state_code": "20",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.12976000",
-    "longitude": "101.04008000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +20,7 @@
     "country_code": "TH",
     "latitude": "13.31100000",
     "longitude": "101.11214000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +32,7 @@
     "country_code": "TH",
     "latitude": "12.92419000",
     "longitude": "100.78794000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +44,7 @@
     "country_code": "TH",
     "latitude": "13.07147000",
     "longitude": "101.00314000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,17 +56,7 @@
     "country_code": "TH",
     "latitude": "13.04704000",
     "longitude": "100.92891000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106433,
-    "name": "Bang Lamung District",
-    "state_id": 3513,
-    "state_code": "20",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "12.92579000",
-    "longitude": "100.89243000",
+    "county_id": 5510,
     "wikiDataId": null
   },
   {
@@ -127,8 +66,9 @@
     "state_code": "20",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "13.24227000",
-    "longitude": "101.50864000",
+    "latitude": "13.27886000",
+    "longitude": "101.44187000",
+    "county_id": 5516,
     "wikiDataId": null
   },
   {
@@ -140,6 +80,7 @@
     "country_code": "TH",
     "latitude": "13.36220000",
     "longitude": "100.98345000",
+    "county_id": 5507,
     "wikiDataId": null
   },
   {
@@ -149,8 +90,9 @@
     "state_code": "20",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "13.40253000",
-    "longitude": "101.38800000",
+    "latitude": "13.41595000",
+    "longitude": "101.33489000",
+    "county_id": 5517,
     "wikiDataId": null
   },
   {
@@ -162,17 +104,7 @@
     "country_code": "TH",
     "latitude": "13.16389000",
     "longitude": "100.80547000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106572,
-    "name": "Mueang Chonburi",
-    "state_id": 3513,
-    "state_code": "20",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.34271000",
-    "longitude": "101.00111000",
+    "county_id": 5514,
     "wikiDataId": null
   },
   {
@@ -182,8 +114,9 @@
     "state_code": "20",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "13.11772000",
-    "longitude": "101.37471000",
+    "latitude": "13.15415000",
+    "longitude": "101.37206000",
+    "county_id": 5509,
     "wikiDataId": null
   },
   {
@@ -195,6 +128,7 @@
     "country_code": "TH",
     "latitude": "12.93333000",
     "longitude": "100.88333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +140,7 @@
     "country_code": "TH",
     "latitude": "13.46804000",
     "longitude": "101.09532000",
+    "county_id": 5511,
     "wikiDataId": null
   },
   {
@@ -217,6 +152,7 @@
     "country_code": "TH",
     "latitude": "13.44581000",
     "longitude": "101.18445000",
+    "county_id": 5512,
     "wikiDataId": null
   },
   {
@@ -228,6 +164,7 @@
     "country_code": "TH",
     "latitude": "12.66644000",
     "longitude": "100.90073000",
+    "county_id": 5515,
     "wikiDataId": null
   },
   {
@@ -239,6 +176,7 @@
     "country_code": "TH",
     "latitude": "13.17372000",
     "longitude": "100.93111000",
+    "county_id": 5513,
     "wikiDataId": null
   }
 ]

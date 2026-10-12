@@ -1,16 +1,5 @@
 [
   {
-    "id": 105208,
-    "name": "Amphoe Ban Na San",
-    "state_id": 3482,
-    "state_code": "84",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "8.80063000",
-    "longitude": "99.40201000",
-    "wikiDataId": null
-  },
-  {
     "id": 105270,
     "name": "Amphoe Chai Buri",
     "state_id": 3482,
@@ -19,61 +8,7 @@
     "country_code": "TH",
     "latitude": "8.43883000",
     "longitude": "99.07721000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105273,
-    "name": "Amphoe Chaiya",
-    "state_id": 3482,
-    "state_code": "84",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "9.49141000",
-    "longitude": "98.99568000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105333,
-    "name": "Amphoe Don Sak",
-    "state_id": 3482,
-    "state_code": "84",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "9.21063000",
-    "longitude": "99.68887000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105369,
-    "name": "Amphoe Kanchanadit",
-    "state_id": 3482,
-    "state_code": "84",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "9.07256000",
-    "longitude": "99.54390000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105444,
-    "name": "Amphoe Ko Samui",
-    "state_id": 3482,
-    "state_code": "84",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "9.50841000",
-    "longitude": "99.99644000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106367,
-    "name": "Amphoe Wiang Sa",
-    "state_id": 3482,
-    "state_code": "84",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "8.59813000",
-    "longitude": "99.35277000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +20,7 @@
     "country_code": "TH",
     "latitude": "8.90610000",
     "longitude": "99.28136000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,17 +32,19 @@
     "country_code": "TH",
     "latitude": "8.80036000",
     "longitude": "99.36372000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 105219,
-    "name": "Ban Takhun",
+    "name": "Ban Ta Khun",
     "state_id": 3482,
     "state_code": "84",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "9.10423000",
-    "longitude": "98.67222000",
+    "latitude": "8.90340000",
+    "longitude": "98.88450000",
+    "county_id": 6204,
     "wikiDataId": null
   },
   {
@@ -118,6 +56,7 @@
     "country_code": "TH",
     "latitude": "8.46222000",
     "longitude": "99.07631000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +68,7 @@
     "country_code": "TH",
     "latitude": "9.38625000",
     "longitude": "99.19861000",
+    "county_id": 6201,
     "wikiDataId": null
   },
   {
@@ -138,8 +78,9 @@
     "state_code": "84",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "9.31676000",
-    "longitude": "99.69184000",
+    "latitude": "9.31693000",
+    "longitude": "99.69436700",
+    "county_id": 6198,
     "wikiDataId": null
   },
   {
@@ -151,6 +92,7 @@
     "country_code": "TH",
     "latitude": "9.16611000",
     "longitude": "99.47014000",
+    "county_id": 6197,
     "wikiDataId": null
   },
   {
@@ -160,19 +102,9 @@
     "state_code": "84",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "8.72766000",
-    "longitude": "99.13240000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105404,
-    "name": "Khiri Rat Nikhom",
-    "state_id": 3482,
-    "state_code": "84",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "9.00590000",
-    "longitude": "98.94404000",
+    "latitude": "8.84630000",
+    "longitude": "99.19710000",
+    "county_id": 6209,
     "wikiDataId": null
   },
   {
@@ -184,6 +116,7 @@
     "country_code": "TH",
     "latitude": "9.75778000",
     "longitude": "100.02914000",
+    "county_id": 6200,
     "wikiDataId": null
   },
   {
@@ -195,6 +128,7 @@
     "country_code": "TH",
     "latitude": "9.74939000",
     "longitude": "100.02649000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +140,7 @@
     "country_code": "TH",
     "latitude": "9.53567000",
     "longitude": "99.93567000",
+    "county_id": 6199,
     "wikiDataId": null
   },
   {
@@ -217,17 +152,19 @@
     "country_code": "TH",
     "latitude": "10.09808000",
     "longitude": "99.83809000",
+    "county_id": 6200,
     "wikiDataId": null
   },
   {
-    "id": 105595,
-    "name": "Mueang Surat Thani",
+    "id": 105208,
+    "name": "Na San",
     "state_id": 3482,
     "state_code": "84",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "9.10132000",
-    "longitude": "99.32614000",
+    "latitude": "8.79970000",
+    "longitude": "99.36350000",
+    "county_id": 6207,
     "wikiDataId": null
   },
   {
@@ -237,8 +174,9 @@
     "state_code": "84",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "8.82254000",
-    "longitude": "98.71709000",
+    "latitude": "8.85840000",
+    "longitude": "98.81220000",
+    "county_id": 6205,
     "wikiDataId": null
   },
   {
@@ -250,17 +188,7 @@
     "country_code": "TH",
     "latitude": "8.55124000",
     "longitude": "99.10520000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105784,
-    "name": "Phunphin",
-    "state_id": 3482,
-    "state_code": "84",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "9.02472000",
-    "longitude": "99.14304000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +200,7 @@
     "country_code": "TH",
     "latitude": "9.14011000",
     "longitude": "99.33311000",
+    "county_id": 6196,
     "wikiDataId": null
   },
   {
@@ -281,8 +210,9 @@
     "state_code": "84",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "9.61142000",
-    "longitude": "99.03611000",
+    "latitude": "9.57064500",
+    "longitude": "99.16604400",
+    "county_id": 6202,
     "wikiDataId": null
   },
   {
@@ -292,8 +222,9 @@
     "state_code": "84",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "9.33475000",
-    "longitude": "98.95619000",
+    "latitude": "9.26738900",
+    "longitude": "99.19217700",
+    "county_id": 6206,
     "wikiDataId": null
   },
   {
@@ -303,8 +234,9 @@
     "state_code": "84",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "9.11072000",
-    "longitude": "99.23208000",
+    "latitude": "9.10590000",
+    "longitude": "99.23260000",
+    "county_id": 6212,
     "wikiDataId": null
   },
   {
@@ -314,8 +246,9 @@
     "state_code": "84",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "9.03020000",
-    "longitude": "98.95286000",
+    "latitude": "9.03260000",
+    "longitude": "98.96390000",
+    "county_id": 6203,
     "wikiDataId": null
   },
   {
@@ -327,6 +260,7 @@
     "country_code": "TH",
     "latitude": "8.63585000",
     "longitude": "99.36660000",
+    "county_id": 6210,
     "wikiDataId": null
   },
   {
@@ -338,6 +272,7 @@
     "country_code": "TH",
     "latitude": "9.21972000",
     "longitude": "98.87028000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

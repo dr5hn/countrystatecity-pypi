@@ -1,5 +1,29 @@
 [
   {
+    "id": 164436,
+    "name": "Aimogasta",
+    "state_id": 3653,
+    "state_code": "F",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-28.56003000",
+    "longitude": "-66.80737000",
+    "county_id": 6626,
+    "wikiDataId": null
+  },
+  {
+    "id": 164448,
+    "name": "Aminga",
+    "state_id": 3653,
+    "state_code": "F",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-28.84771000",
+    "longitude": "-66.93024000",
+    "county_id": 6628,
+    "wikiDataId": null
+  },
+  {
     "id": 667,
     "name": "Arauco",
     "state_id": 3653,
@@ -8,6 +32,7 @@
     "country_code": "AR",
     "latitude": "-28.58071000",
     "longitude": "-66.79250000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +44,7 @@
     "country_code": "AR",
     "latitude": "-30.57952000",
     "longitude": "-65.72696000",
+    "county_id": 6634,
     "wikiDataId": null
   },
   {
@@ -30,6 +56,7 @@
     "country_code": "AR",
     "latitude": "-30.36002000",
     "longitude": "-66.31399000",
+    "county_id": 6630,
     "wikiDataId": null
   },
   {
@@ -41,28 +68,7 @@
     "country_code": "AR",
     "latitude": "-29.16195000",
     "longitude": "-67.49740000",
-    "wikiDataId": null
-  },
-  {
-    "id": 831,
-    "name": "Departamento de Arauco",
-    "state_id": 3653,
-    "state_code": "F",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-28.50000000",
-    "longitude": "-66.83333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 893,
-    "name": "Departamento de General Lamadrid",
-    "state_id": 3653,
-    "state_code": "F",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-28.83333000",
-    "longitude": "-68.66667000",
+    "county_id": 6631,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,19 @@
     "country_code": "AR",
     "latitude": "-30.16667000",
     "longitude": "-67.41667000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164449,
+    "name": "Famatina",
+    "state_id": 3653,
+    "state_code": "F",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-28.92264000",
+    "longitude": "-67.52016000",
+    "county_id": 6632,
     "wikiDataId": null
   },
   {
@@ -85,6 +104,55 @@
     "country_code": "AR",
     "latitude": "-29.41105000",
     "longitude": "-66.85067000",
+    "county_id": 6627,
+    "wikiDataId": null
+  },
+  {
+    "id": 164453,
+    "name": "Milagro",
+    "state_id": 3653,
+    "state_code": "F",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-31.00831000",
+    "longitude": "-65.99103000",
+    "county_id": 6637,
+    "wikiDataId": null
+  },
+  {
+    "id": 164457,
+    "name": "San Blas",
+    "state_id": 3653,
+    "state_code": "F",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-28.40780000",
+    "longitude": "-67.09189000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164460,
+    "name": "Tama",
+    "state_id": 3653,
+    "state_code": "F",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-30.50726000",
+    "longitude": "-66.52954000",
+    "county_id": 6633,
+    "wikiDataId": null
+  },
+  {
+    "id": 164462,
+    "name": "Ulapes",
+    "state_id": 3653,
+    "state_code": "F",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-31.57323000",
+    "longitude": "-66.23709000",
+    "county_id": 6638,
     "wikiDataId": null
   },
   {
@@ -96,6 +164,31 @@
     "country_code": "AR",
     "latitude": "-29.28636000",
     "longitude": "-67.02067000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164465,
+    "name": "Villa Castelli",
+    "state_id": 3653,
+    "state_code": "F",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-29.01447000",
+    "longitude": "-68.22339000",
+    "county_id": 6636,
+    "wikiDataId": null
+  },
+  {
+    "id": 164467,
+    "name": "Villa Unión",
+    "state_id": 3653,
+    "state_code": "F",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-29.31654000",
+    "longitude": "-68.22745000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +200,7 @@
     "country_code": "AR",
     "latitude": "-28.75964000",
     "longitude": "-68.20692000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

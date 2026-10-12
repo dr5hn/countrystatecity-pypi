@@ -1,5 +1,17 @@
 [
   {
+    "id": 164492,
+    "name": "Anderlecht",
+    "state_id": 1376,
+    "state_code": "BRU",
+    "country_id": 22,
+    "country_code": "BE",
+    "latitude": "50.83619000",
+    "longitude": "4.31454000",
+    "county_id": 8133,
+    "wikiDataId": null
+  },
+  {
     "id": 8693,
     "name": "Brussels",
     "state_id": 1376,
@@ -8,6 +20,7 @@
     "country_code": "BE",
     "latitude": "50.85045000",
     "longitude": "4.34878000",
+    "county_id": 8133,
     "wikiDataId": null
   }
 ]

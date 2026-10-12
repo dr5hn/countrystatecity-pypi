@@ -8,6 +8,7 @@
     "country_code": "HU",
     "latitude": "46.85931000",
     "longitude": "18.16442000",
+    "county_id": 4988,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "HU",
     "latitude": "46.04155000",
     "longitude": "17.34332000",
+    "county_id": 4982,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "HU",
     "latitude": "46.70701000",
     "longitude": "17.32013000",
+    "county_id": 4986,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "HU",
     "latitude": "46.77525000",
     "longitude": "17.64415000",
+    "county_id": 4984,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "HU",
     "latitude": "46.71542000",
     "longitude": "17.49223000",
+    "county_id": 4984,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "HU",
     "latitude": "46.85255000",
     "longitude": "17.88123000",
+    "county_id": 4988,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "HU",
     "latitude": "46.78318000",
     "longitude": "17.69498000",
+    "county_id": 4984,
     "wikiDataId": null
   },
   {
@@ -85,6 +92,7 @@
     "country_code": "HU",
     "latitude": "46.89397000",
     "longitude": "18.13737000",
+    "county_id": 4988,
     "wikiDataId": null
   },
   {
@@ -96,6 +104,7 @@
     "country_code": "HU",
     "latitude": "46.82946000",
     "longitude": "17.82426000",
+    "county_id": 4988,
     "wikiDataId": null
   },
   {
@@ -107,17 +116,7 @@
     "country_code": "HU",
     "latitude": "45.96000000",
     "longitude": "17.45861000",
-    "wikiDataId": null
-  },
-  {
-    "id": 55232,
-    "name": "Barcsi Járás",
-    "state_id": 1035,
-    "state_code": "SO",
-    "country_id": 99,
-    "country_code": "HU",
-    "latitude": "46.03687000",
-    "longitude": "17.47434000",
+    "county_id": 4982,
     "wikiDataId": null
   },
   {
@@ -129,6 +128,7 @@
     "country_code": "HU",
     "latitude": "46.20907000",
     "longitude": "17.14810000",
+    "county_id": 4983,
     "wikiDataId": null
   },
   {
@@ -140,6 +140,7 @@
     "country_code": "HU",
     "latitude": "46.41345000",
     "longitude": "17.38037000",
+    "county_id": 4986,
     "wikiDataId": null
   },
   {
@@ -151,17 +152,7 @@
     "country_code": "HU",
     "latitude": "46.25314000",
     "longitude": "17.10060000",
-    "wikiDataId": null
-  },
-  {
-    "id": 55344,
-    "name": "Csurgói Járás",
-    "state_id": 1035,
-    "state_code": "SO",
-    "country_id": 99,
-    "country_code": "HU",
-    "latitude": "46.29502000",
-    "longitude": "17.10021000",
+    "county_id": 4983,
     "wikiDataId": null
   },
   {
@@ -173,17 +164,7 @@
     "country_code": "HU",
     "latitude": "46.75552000",
     "longitude": "17.57945000",
-    "wikiDataId": null
-  },
-  {
-    "id": 55431,
-    "name": "Fonyódi Járás",
-    "state_id": 1035,
-    "state_code": "SO",
-    "country_id": 99,
-    "country_code": "HU",
-    "latitude": "46.67289000",
-    "longitude": "17.70000000",
+    "county_id": 4984,
     "wikiDataId": null
   },
   {
@@ -195,6 +176,7 @@
     "country_code": "HU",
     "latitude": "46.23623000",
     "longitude": "17.62014000",
+    "county_id": 4985,
     "wikiDataId": null
   },
   {
@@ -206,28 +188,7 @@
     "country_code": "HU",
     "latitude": "46.36167000",
     "longitude": "17.70400000",
-    "wikiDataId": null
-  },
-  {
-    "id": 55561,
-    "name": "Kaposvár",
-    "state_id": 1035,
-    "state_code": "SO",
-    "country_id": 99,
-    "country_code": "HU",
-    "latitude": "46.36667000",
-    "longitude": "17.80000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 55562,
-    "name": "Kaposvári Járás",
-    "state_id": 1035,
-    "state_code": "SO",
-    "country_id": 99,
-    "country_code": "HU",
-    "latitude": "46.39791000",
-    "longitude": "17.76990000",
+    "county_id": 4985,
     "wikiDataId": null
   },
   {
@@ -239,6 +200,7 @@
     "country_code": "HU",
     "latitude": "46.69076000",
     "longitude": "17.84136000",
+    "county_id": 4984,
     "wikiDataId": null
   },
   {
@@ -250,6 +212,7 @@
     "country_code": "HU",
     "latitude": "46.64605000",
     "longitude": "17.39362000",
+    "county_id": 4986,
     "wikiDataId": null
   },
   {
@@ -261,6 +224,7 @@
     "country_code": "HU",
     "latitude": "46.20535000",
     "longitude": "17.45419000",
+    "county_id": 4987,
     "wikiDataId": null
   },
   {
@@ -272,6 +236,7 @@
     "country_code": "HU",
     "latitude": "46.67013000",
     "longitude": "17.64398000",
+    "county_id": 4984,
     "wikiDataId": null
   },
   {
@@ -283,17 +248,7 @@
     "country_code": "HU",
     "latitude": "46.58498000",
     "longitude": "17.41196000",
-    "wikiDataId": null
-  },
-  {
-    "id": 55680,
-    "name": "Marcali Járás",
-    "state_id": 1035,
-    "state_code": "SO",
-    "country_id": 99,
-    "country_code": "HU",
-    "latitude": "46.54382000",
-    "longitude": "17.39203000",
+    "county_id": 4986,
     "wikiDataId": null
   },
   {
@@ -305,17 +260,7 @@
     "country_code": "HU",
     "latitude": "46.22961000",
     "longitude": "17.35788000",
-    "wikiDataId": null
-  },
-  {
-    "id": 55739,
-    "name": "Nagyatádi Járás",
-    "state_id": 1035,
-    "state_code": "SO",
-    "country_id": 99,
-    "country_code": "HU",
-    "latitude": "46.25200000",
-    "longitude": "17.37520000",
+    "county_id": 4987,
     "wikiDataId": null
   },
   {
@@ -327,6 +272,7 @@
     "country_code": "HU",
     "latitude": "46.39232000",
     "longitude": "17.51147000",
+    "county_id": 4985,
     "wikiDataId": null
   },
   {
@@ -338,6 +284,7 @@
     "country_code": "HU",
     "latitude": "46.34142000",
     "longitude": "17.35132000",
+    "county_id": 4987,
     "wikiDataId": null
   },
   {
@@ -349,17 +296,7 @@
     "country_code": "HU",
     "latitude": "46.90413000",
     "longitude": "18.05800000",
-    "wikiDataId": null
-  },
-  {
-    "id": 55902,
-    "name": "Siófoki Járás",
-    "state_id": 1035,
-    "state_code": "SO",
-    "country_id": 99,
-    "country_code": "HU",
-    "latitude": "46.85060000",
-    "longitude": "17.99625000",
+    "county_id": 4988,
     "wikiDataId": null
   },
   {
@@ -371,6 +308,7 @@
     "country_code": "HU",
     "latitude": "46.58140000",
     "longitude": "17.66289000",
+    "county_id": 4984,
     "wikiDataId": null
   },
   {
@@ -382,17 +320,7 @@
     "country_code": "HU",
     "latitude": "46.73135000",
     "longitude": "18.03201000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56002,
-    "name": "Tabi Járás",
-    "state_id": 1035,
-    "state_code": "SO",
-    "country_id": 99,
-    "country_code": "HU",
-    "latitude": "46.68037000",
-    "longitude": "18.00560000",
+    "county_id": 4989,
     "wikiDataId": null
   },
   {
@@ -404,6 +332,7 @@
     "country_code": "HU",
     "latitude": "46.37467000",
     "longitude": "17.90594000",
+    "county_id": 4985,
     "wikiDataId": null
   },
   {
@@ -415,6 +344,7 @@
     "country_code": "HU",
     "latitude": "46.88488000",
     "longitude": "17.95366000",
+    "county_id": 4988,
     "wikiDataId": null
   }
 ]

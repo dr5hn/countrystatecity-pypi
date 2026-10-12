@@ -1,5 +1,29 @@
 [
   {
+    "id": 164531,
+    "name": "Kambove",
+    "state_id": 2750,
+    "state_code": "HK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-10.87352000",
+    "longitude": "26.59746000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164530,
+    "name": "Kipushi",
+    "state_id": 2750,
+    "state_code": "HK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-11.76097000",
+    "longitude": "27.25135000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 17268,
     "name": "Likasi",
     "state_id": 2750,
@@ -8,6 +32,7 @@
     "country_code": "CD",
     "latitude": "-10.98303000",
     "longitude": "26.73840000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +44,19 @@
     "country_code": "CD",
     "latitude": "-11.66089000",
     "longitude": "27.47938000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164544,
+    "name": "Pweto",
+    "state_id": 2750,
+    "state_code": "HK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-8.46604000",
+    "longitude": "28.90079000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

@@ -1,16 +1,5 @@
 [
   {
-    "id": 67944,
-    "name": "Balaka",
-    "state_id": 3106,
-    "state_code": "S",
-    "country_id": 131,
-    "country_code": "MW",
-    "latitude": "-14.97928000",
-    "longitude": "34.95575000",
-    "wikiDataId": null
-  },
-  {
     "id": 67945,
     "name": "Balaka District",
     "state_id": 3106,
@@ -19,6 +8,7 @@
     "country_code": "MW",
     "latitude": "-15.04839000",
     "longitude": "35.05910000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +20,7 @@
     "country_code": "MW",
     "latitude": "-15.78499000",
     "longitude": "35.00854000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,17 +32,7 @@
     "country_code": "MW",
     "latitude": "-15.64732000",
     "longitude": "34.93956000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67948,
-    "name": "Chikwawa",
-    "state_id": 3106,
-    "state_code": "S",
-    "country_id": 131,
-    "country_code": "MW",
-    "latitude": "-16.03352000",
-    "longitude": "34.80091000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +44,7 @@
     "country_code": "MW",
     "latitude": "-16.16667000",
     "longitude": "34.75000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +56,7 @@
     "country_code": "MW",
     "latitude": "-15.67461000",
     "longitude": "35.14071000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +68,7 @@
     "country_code": "MW",
     "latitude": "-15.75268000",
     "longitude": "35.21576000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,17 +80,7 @@
     "country_code": "MW",
     "latitude": "-15.06665000",
     "longitude": "35.22543000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67968,
-    "name": "Luchenza",
-    "state_id": 3106,
-    "state_code": "S",
-    "country_id": 131,
-    "country_code": "MW",
-    "latitude": "-16.00693000",
-    "longitude": "35.30947000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +92,7 @@
     "country_code": "MW",
     "latitude": "-15.16849000",
     "longitude": "35.30002000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,17 +104,7 @@
     "country_code": "MW",
     "latitude": "-14.94583000",
     "longitude": "35.57367000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67971,
-    "name": "Mangochi",
-    "state_id": 3106,
-    "state_code": "S",
-    "country_id": 131,
-    "country_code": "MW",
-    "latitude": "-14.47815000",
-    "longitude": "35.26448000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,28 +116,7 @@
     "country_code": "MW",
     "latitude": "-14.39296000",
     "longitude": "35.34658000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67975,
-    "name": "Monkey Bay",
-    "state_id": 3106,
-    "state_code": "S",
-    "country_id": 131,
-    "country_code": "MW",
-    "latitude": "-14.08239000",
-    "longitude": "34.91652000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67977,
-    "name": "Mulanje",
-    "state_id": 3106,
-    "state_code": "S",
-    "country_id": 131,
-    "country_code": "MW",
-    "latitude": "-16.03163000",
-    "longitude": "35.50000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,17 +128,7 @@
     "country_code": "MW",
     "latitude": "-15.93440000",
     "longitude": "35.49990000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67979,
-    "name": "Mwanza",
-    "state_id": 3106,
-    "state_code": "S",
-    "country_id": 131,
-    "country_code": "MW",
-    "latitude": "-15.60262000",
-    "longitude": "34.52479000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +140,7 @@
     "country_code": "MW",
     "latitude": "-15.63337000",
     "longitude": "34.51682000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,17 +152,7 @@
     "country_code": "MW",
     "latitude": "-15.45051000",
     "longitude": "34.70034000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67989,
-    "name": "Nsanje",
-    "state_id": 3106,
-    "state_code": "S",
-    "country_id": 131,
-    "country_code": "MW",
-    "latitude": "-16.91995000",
-    "longitude": "35.26199000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,17 +164,7 @@
     "country_code": "MW",
     "latitude": "-16.75000000",
     "longitude": "35.16667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67995,
-    "name": "Phalombe",
-    "state_id": 3106,
-    "state_code": "S",
-    "country_id": 131,
-    "country_code": "MW",
-    "latitude": "-15.80635000",
-    "longitude": "35.65067000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,17 +176,7 @@
     "country_code": "MW",
     "latitude": "-15.66667000",
     "longitude": "35.66667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 68001,
-    "name": "Thyolo",
-    "state_id": 3106,
-    "state_code": "S",
-    "country_id": 131,
-    "country_code": "MW",
-    "latitude": "-16.06775000",
-    "longitude": "35.14046000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +188,7 @@
     "country_code": "MW",
     "latitude": "-16.10583000",
     "longitude": "35.15060000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +200,7 @@
     "country_code": "MW",
     "latitude": "-15.38596000",
     "longitude": "35.31880000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +212,7 @@
     "country_code": "MW",
     "latitude": "-15.43007000",
     "longitude": "35.41829000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 80826,
+    "name": "Bambamarca",
+    "state_id": 3688,
+    "state_code": "CAJ",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-6.68000000",
+    "longitude": "-78.53000000",
+    "county_id": 8232,
+    "wikiDataId": null
+  },
+  {
     "id": 80573,
     "name": "Bambamarca",
     "state_id": 3688,
@@ -8,6 +20,7 @@
     "country_code": "PE",
     "latitude": "-6.68333000",
     "longitude": "-78.53333000",
+    "county_id": 8232,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,19 @@
     "country_code": "PE",
     "latitude": "-7.61667000",
     "longitude": "-78.05000000",
+    "county_id": 8227,
+    "wikiDataId": null
+  },
+  {
+    "id": 80785,
+    "name": "Cajabamba",
+    "state_id": 3688,
+    "state_code": "CAJ",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-7.62222222",
+    "longitude": "-78.04722222",
+    "county_id": 8227,
     "wikiDataId": null
   },
   {
@@ -30,6 +56,7 @@
     "country_code": "PE",
     "latitude": "-7.16378000",
     "longitude": "-78.50027000",
+    "county_id": 8226,
     "wikiDataId": null
   },
   {
@@ -41,6 +68,31 @@
     "country_code": "PE",
     "latitude": "-6.86590000",
     "longitude": "-78.14585000",
+    "county_id": 8228,
+    "wikiDataId": null
+  },
+  {
+    "id": 80802,
+    "name": "Celendín",
+    "state_id": 3688,
+    "state_code": "CAJ",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-6.86805556",
+    "longitude": "-78.14888889",
+    "county_id": 8228,
+    "wikiDataId": null
+  },
+  {
+    "id": 80806,
+    "name": "Chota",
+    "state_id": 3688,
+    "state_code": "CAJ",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-6.56305556",
+    "longitude": "-78.65083333",
+    "county_id": 8229,
     "wikiDataId": null
   },
   {
@@ -52,6 +104,31 @@
     "country_code": "PE",
     "latitude": "-6.55000000",
     "longitude": "-78.65000000",
+    "county_id": 8229,
+    "wikiDataId": null
+  },
+  {
+    "id": 80814,
+    "name": "Contumazá",
+    "state_id": 3688,
+    "state_code": "CAJ",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-7.36527778",
+    "longitude": "-78.80638889",
+    "county_id": 8230,
+    "wikiDataId": null
+  },
+  {
+    "id": 165437,
+    "name": "Contumazá",
+    "state_id": 3688,
+    "state_code": "CAJ",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-7.36633000",
+    "longitude": "-78.80505000",
+    "county_id": 8230,
     "wikiDataId": null
   },
   {
@@ -63,17 +140,7 @@
     "country_code": "PE",
     "latitude": "-5.70729000",
     "longitude": "-78.80785000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80785,
-    "name": "Provincia de Cajabamba",
-    "state_id": 3688,
-    "state_code": "CAJ",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-7.50000000",
-    "longitude": "-78.16667000",
+    "county_id": 8233,
     "wikiDataId": null
   },
   {
@@ -85,39 +152,7 @@
     "country_code": "PE",
     "latitude": "-7.33333000",
     "longitude": "-78.41667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80802,
-    "name": "Provincia de Celendín",
-    "state_id": 3688,
-    "state_code": "CAJ",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-6.83333000",
-    "longitude": "-78.25000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80806,
-    "name": "Provincia de Chota",
-    "state_id": 3688,
-    "state_code": "CAJ",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-6.38332000",
-    "longitude": "-79.18055000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80814,
-    "name": "Provincia de Contumazá",
-    "state_id": 3688,
-    "state_code": "CAJ",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-7.33333000",
-    "longitude": "-78.91667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,17 +164,7 @@
     "country_code": "PE",
     "latitude": "-6.36667000",
     "longitude": "-78.85000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80826,
-    "name": "Provincia de Hualgayoc",
-    "state_id": 3688,
-    "state_code": "CAJ",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-6.68000000",
-    "longitude": "-78.53000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +176,7 @@
     "country_code": "PE",
     "latitude": "-5.71074000",
     "longitude": "-79.00438000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,17 +188,7 @@
     "country_code": "PE",
     "latitude": "-5.08333000",
     "longitude": "-79.00000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80888,
-    "name": "Provincia de San Miguel",
-    "state_id": 3688,
-    "state_code": "CAJ",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-7.00000000",
-    "longitude": "-79.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +200,7 @@
     "country_code": "PE",
     "latitude": "-6.83333000",
     "longitude": "-79.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +212,19 @@
     "country_code": "PE",
     "latitude": "-5.14583000",
     "longitude": "-79.00139000",
+    "county_id": 8234,
+    "wikiDataId": null
+  },
+  {
+    "id": 165438,
+    "name": "San Miguel de Pallaques",
+    "state_id": 3688,
+    "state_code": "CAJ",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-7.00037000",
+    "longitude": "-78.85142000",
+    "county_id": 8236,
     "wikiDataId": null
   }
 ]

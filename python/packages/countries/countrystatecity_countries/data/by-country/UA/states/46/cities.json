@@ -8,6 +8,7 @@
     "country_code": "UA",
     "latitude": "50.38226000",
     "longitude": "24.00642000",
+    "county_id": 5321,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "UA",
     "latitude": "49.64093000",
     "longitude": "24.28874000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "UA",
     "latitude": "49.28672000",
     "longitude": "23.43238000",
+    "county_id": 5316,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "UA",
     "latitude": "50.08791000",
     "longitude": "25.15027000",
+    "county_id": 5317,
     "wikiDataId": null
   },
   {
@@ -52,17 +56,7 @@
     "country_code": "UA",
     "latitude": "49.90467000",
     "longitude": "23.95969000",
-    "wikiDataId": null
-  },
-  {
-    "id": 109500,
-    "name": "Chervonohrad",
-    "state_id": 4672,
-    "state_code": "46",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "50.39105000",
-    "longitude": "24.23514000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -74,6 +68,7 @@
     "country_code": "UA",
     "latitude": "49.56738000",
     "longitude": "23.94607000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
@@ -85,6 +80,7 @@
     "country_code": "UA",
     "latitude": "49.57193000",
     "longitude": "22.78629000",
+    "county_id": 5319,
     "wikiDataId": null
   },
   {
@@ -96,17 +92,19 @@
     "country_code": "UA",
     "latitude": "49.34991000",
     "longitude": "23.50561000",
+    "county_id": 5316,
     "wikiDataId": null
   },
   {
     "id": 109583,
-    "name": "Dublyany",
+    "name": "Dubliany",
     "state_id": 4672,
     "state_code": "46",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "49.90411000",
     "longitude": "24.08637000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -118,6 +116,7 @@
     "country_code": "UA",
     "latitude": "49.23134000",
     "longitude": "23.81532000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
@@ -129,6 +128,7 @@
     "country_code": "UA",
     "latitude": "49.73333000",
     "longitude": "24.25000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +140,7 @@
     "country_code": "UA",
     "latitude": "50.06033000",
     "longitude": "23.89956000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -151,6 +152,7 @@
     "country_code": "UA",
     "latitude": "49.78465000",
     "longitude": "23.64806000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -162,6 +164,7 @@
     "country_code": "UA",
     "latitude": "49.91978000",
     "longitude": "23.72913000",
+    "county_id": 5322,
     "wikiDataId": null
   },
   {
@@ -173,6 +176,7 @@
     "country_code": "UA",
     "latitude": "49.40993000",
     "longitude": "24.30470000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
@@ -184,6 +188,7 @@
     "country_code": "UA",
     "latitude": "49.53417000",
     "longitude": "22.85538000",
+    "county_id": 5319,
     "wikiDataId": null
   },
   {
@@ -195,6 +200,7 @@
     "country_code": "UA",
     "latitude": "49.62739000",
     "longitude": "23.69952000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -206,6 +212,7 @@
     "country_code": "UA",
     "latitude": "49.91447000",
     "longitude": "24.61340000",
+    "county_id": 5317,
     "wikiDataId": null
   },
   {
@@ -217,6 +224,7 @@
     "country_code": "UA",
     "latitude": "49.97954000",
     "longitude": "24.07817000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -228,6 +236,7 @@
     "country_code": "UA",
     "latitude": "50.22022000",
     "longitude": "24.84831000",
+    "county_id": 5321,
     "wikiDataId": null
   },
   {
@@ -239,6 +248,7 @@
     "country_code": "UA",
     "latitude": "49.83826000",
     "longitude": "24.02324000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -250,6 +260,7 @@
     "country_code": "UA",
     "latitude": "49.43055000",
     "longitude": "23.75073000",
+    "county_id": 5316,
     "wikiDataId": null
   },
   {
@@ -261,17 +272,19 @@
     "country_code": "UA",
     "latitude": "49.15652000",
     "longitude": "23.87232000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
     "id": 110056,
-    "name": "Mostys'ka",
+    "name": "Mostyska",
     "state_id": 4672,
     "state_code": "46",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "49.79467000",
     "longitude": "23.15077000",
+    "county_id": 5322,
     "wikiDataId": null
   },
   {
@@ -283,6 +296,7 @@
     "country_code": "UA",
     "latitude": "49.52143000",
     "longitude": "22.93670000",
+    "county_id": 5319,
     "wikiDataId": null
   },
   {
@@ -294,17 +308,19 @@
     "country_code": "UA",
     "latitude": "49.52372000",
     "longitude": "23.98522000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
     "id": 110084,
-    "name": "Navaria",
+    "name": "Navariia",
     "state_id": 4672,
     "state_code": "46",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "49.74952000",
     "longitude": "23.92746000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -316,6 +332,19 @@
     "country_code": "UA",
     "latitude": "49.93023000",
     "longitude": "23.57357000",
+    "county_id": 5322,
+    "wikiDataId": null
+  },
+  {
+    "id": 165625,
+    "name": "Novyi Rozdil",
+    "state_id": 4672,
+    "state_code": "46",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "49.47136000",
+    "longitude": "24.13352000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
@@ -327,6 +356,7 @@
     "country_code": "UA",
     "latitude": "49.90444000",
     "longitude": "24.30523000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -338,6 +368,7 @@
     "country_code": "UA",
     "latitude": "49.78333000",
     "longitude": "23.86667000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -349,17 +380,19 @@
     "country_code": "UA",
     "latitude": "49.96233000",
     "longitude": "24.89336000",
+    "county_id": 5317,
     "wikiDataId": null
   },
   {
     "id": 110241,
-    "name": "Peremyshlyany",
+    "name": "Peremyshliany",
     "state_id": 4672,
     "state_code": "46",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "49.66523000",
     "longitude": "24.55846000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -371,6 +404,7 @@
     "country_code": "UA",
     "latitude": "49.33483000",
     "longitude": "23.24887000",
+    "county_id": 5316,
     "wikiDataId": null
   },
   {
@@ -382,6 +416,7 @@
     "country_code": "UA",
     "latitude": "49.94611000",
     "longitude": "24.97950000",
+    "county_id": 5317,
     "wikiDataId": null
   },
   {
@@ -393,6 +428,7 @@
     "country_code": "UA",
     "latitude": "49.94599000",
     "longitude": "25.31672000",
+    "county_id": 5317,
     "wikiDataId": null
   },
   {
@@ -404,6 +440,7 @@
     "country_code": "UA",
     "latitude": "49.71104000",
     "longitude": "23.13826000",
+    "county_id": 5322,
     "wikiDataId": null
   },
   {
@@ -415,6 +452,7 @@
     "country_code": "UA",
     "latitude": "49.64092000",
     "longitude": "24.93070000",
+    "county_id": 5317,
     "wikiDataId": null
   },
   {
@@ -426,6 +464,7 @@
     "country_code": "UA",
     "latitude": "50.20804000",
     "longitude": "23.54674000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -437,6 +476,7 @@
     "country_code": "UA",
     "latitude": "49.71532000",
     "longitude": "23.91295000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -448,6 +488,7 @@
     "country_code": "UA",
     "latitude": "49.49982000",
     "longitude": "23.23739000",
+    "county_id": 5319,
     "wikiDataId": null
   },
   {
@@ -459,6 +500,7 @@
     "country_code": "UA",
     "latitude": "50.23079000",
     "longitude": "23.62825000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -470,6 +512,7 @@
     "country_code": "UA",
     "latitude": "50.27706000",
     "longitude": "23.64617000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -481,6 +524,7 @@
     "country_code": "UA",
     "latitude": "49.79862000",
     "longitude": "23.53336000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -492,6 +536,7 @@
     "country_code": "UA",
     "latitude": "49.46144000",
     "longitude": "24.06230000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
@@ -503,6 +548,7 @@
     "country_code": "UA",
     "latitude": "49.50323000",
     "longitude": "23.96200000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
@@ -514,6 +560,7 @@
     "country_code": "UA",
     "latitude": "49.65306000",
     "longitude": "23.48702000",
+    "county_id": 5319,
     "wikiDataId": null
   },
   {
@@ -525,6 +572,7 @@
     "country_code": "UA",
     "latitude": "49.83333000",
     "longitude": "23.90000000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -536,6 +584,7 @@
     "country_code": "UA",
     "latitude": "49.38511000",
     "longitude": "23.55662000",
+    "county_id": 5316,
     "wikiDataId": null
   },
   {
@@ -547,6 +596,7 @@
     "country_code": "UA",
     "latitude": "49.51830000",
     "longitude": "23.19752000",
+    "county_id": 5319,
     "wikiDataId": null
   },
   {
@@ -558,6 +608,19 @@
     "country_code": "UA",
     "latitude": "49.65096000",
     "longitude": "23.87426000",
+    "county_id": 5318,
+    "wikiDataId": null
+  },
+  {
+    "id": 109500,
+    "name": "Sheptytskyi",
+    "state_id": 4672,
+    "state_code": "46",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "50.39105000",
+    "longitude": "24.23514000",
+    "county_id": 5321,
     "wikiDataId": null
   },
   {
@@ -569,6 +632,7 @@
     "country_code": "UA",
     "latitude": "49.95675000",
     "longitude": "23.54408000",
+    "county_id": 5322,
     "wikiDataId": null
   },
   {
@@ -580,6 +644,7 @@
     "country_code": "UA",
     "latitude": "50.29712000",
     "longitude": "24.20462000",
+    "county_id": 5321,
     "wikiDataId": null
   },
   {
@@ -591,6 +656,7 @@
     "country_code": "UA",
     "latitude": "49.53728000",
     "longitude": "22.96467000",
+    "county_id": 5319,
     "wikiDataId": null
   },
   {
@@ -602,6 +668,7 @@
     "country_code": "UA",
     "latitude": "49.22827000",
     "longitude": "23.35016000",
+    "county_id": 5316,
     "wikiDataId": null
   },
   {
@@ -613,6 +680,7 @@
     "country_code": "UA",
     "latitude": "49.03717000",
     "longitude": "23.51346000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
@@ -624,6 +692,7 @@
     "country_code": "UA",
     "latitude": "48.84734000",
     "longitude": "23.44587000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
@@ -635,6 +704,7 @@
     "country_code": "UA",
     "latitude": "50.47438000",
     "longitude": "24.28288000",
+    "county_id": 5321,
     "wikiDataId": null
   },
   {
@@ -646,6 +716,7 @@
     "country_code": "UA",
     "latitude": "49.75621000",
     "longitude": "24.01028000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -657,6 +728,7 @@
     "country_code": "UA",
     "latitude": "49.71037000",
     "longitude": "24.18950000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -668,17 +740,19 @@
     "country_code": "UA",
     "latitude": "49.98001000",
     "longitude": "23.55848000",
+    "county_id": 5322,
     "wikiDataId": null
   },
   {
     "id": 110538,
-    "name": "Staryy Dobrotvir",
+    "name": "Staryi Dobrotvir",
     "state_id": 4672,
     "state_code": "46",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "50.23154000",
     "longitude": "24.37701000",
+    "county_id": 5321,
     "wikiDataId": null
   },
   {
@@ -690,6 +764,7 @@
     "country_code": "UA",
     "latitude": "49.43856000",
     "longitude": "23.00056000",
+    "county_id": 5319,
     "wikiDataId": null
   },
   {
@@ -701,6 +776,7 @@
     "country_code": "UA",
     "latitude": "49.29416000",
     "longitude": "23.56357000",
+    "county_id": 5316,
     "wikiDataId": null
   },
   {
@@ -712,17 +788,19 @@
     "country_code": "UA",
     "latitude": "49.26223000",
     "longitude": "23.85609000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
     "id": 110561,
-    "name": "Sudova Vyshnya",
+    "name": "Sudova Vyshnia",
     "state_id": 4672,
     "state_code": "46",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "49.78892000",
     "longitude": "23.37218000",
+    "county_id": 5322,
     "wikiDataId": null
   },
   {
@@ -734,6 +812,7 @@
     "country_code": "UA",
     "latitude": "49.82426000",
     "longitude": "23.83770000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -745,6 +824,7 @@
     "country_code": "UA",
     "latitude": "49.27837000",
     "longitude": "23.50618000",
+    "county_id": 5316,
     "wikiDataId": null
   },
   {
@@ -756,6 +836,7 @@
     "country_code": "UA",
     "latitude": "48.91218000",
     "longitude": "23.47303000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
@@ -767,6 +848,7 @@
     "country_code": "UA",
     "latitude": "49.15411000",
     "longitude": "23.02967000",
+    "county_id": 5319,
     "wikiDataId": null
   },
   {
@@ -778,6 +860,7 @@
     "country_code": "UA",
     "latitude": "50.36811000",
     "longitude": "23.74895000",
+    "county_id": 5321,
     "wikiDataId": null
   },
   {
@@ -789,6 +872,7 @@
     "country_code": "UA",
     "latitude": "49.23385000",
     "longitude": "23.65111000",
+    "county_id": 5316,
     "wikiDataId": null
   },
   {
@@ -800,6 +884,7 @@
     "country_code": "UA",
     "latitude": "50.04747000",
     "longitude": "23.42189000",
+    "county_id": 5322,
     "wikiDataId": null
   },
   {
@@ -811,6 +896,7 @@
     "country_code": "UA",
     "latitude": "48.78050000",
     "longitude": "23.51545000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
@@ -822,6 +908,7 @@
     "country_code": "UA",
     "latitude": "49.10307000",
     "longitude": "23.59099000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
@@ -833,6 +920,7 @@
     "country_code": "UA",
     "latitude": "49.81575000",
     "longitude": "24.30328000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -844,6 +932,19 @@
     "country_code": "UA",
     "latitude": "49.55135000",
     "longitude": "23.10579000",
+    "county_id": 5319,
+    "wikiDataId": null
+  },
+  {
+    "id": 165631,
+    "name": "Vynnyky",
+    "state_id": 4672,
+    "state_code": "46",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "49.81672000",
+    "longitude": "24.14417000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -855,6 +956,7 @@
     "country_code": "UA",
     "latitude": "49.93864000",
     "longitude": "23.38254000",
+    "county_id": 5322,
     "wikiDataId": null
   },
   {
@@ -866,6 +968,7 @@
     "country_code": "UA",
     "latitude": "50.05825000",
     "longitude": "23.97260000",
+    "county_id": 5318,
     "wikiDataId": null
   },
   {
@@ -877,6 +980,7 @@
     "country_code": "UA",
     "latitude": "49.38468000",
     "longitude": "24.14254000",
+    "county_id": 5320,
     "wikiDataId": null
   },
   {
@@ -888,6 +992,7 @@
     "country_code": "UA",
     "latitude": "49.80597000",
     "longitude": "24.89436000",
+    "county_id": 5317,
     "wikiDataId": null
   }
 ]

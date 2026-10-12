@@ -8,6 +8,7 @@
     "country_code": "PE",
     "latitude": "-15.42393000",
     "longitude": "-74.61361000",
+    "county_id": 8209,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,19 @@
     "country_code": "PE",
     "latitude": "-16.39889000",
     "longitude": "-71.53500000",
+    "county_id": 8207,
+    "wikiDataId": null
+  },
+  {
+    "id": 80777,
+    "name": "Arequipa",
+    "state_id": 3681,
+    "state_code": "ARE",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-16.40083333",
+    "longitude": "-71.53777778",
+    "county_id": 8207,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,19 @@
     "country_code": "PE",
     "latitude": "-16.62375000",
     "longitude": "-72.71055000",
+    "county_id": 8208,
+    "wikiDataId": null
+  },
+  {
+    "id": 80789,
+    "name": "Camaná",
+    "state_id": 3681,
+    "state_code": "ARE",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-16.62361111",
+    "longitude": "-72.71138889",
+    "county_id": 8208,
     "wikiDataId": null
   },
   {
@@ -41,6 +68,7 @@
     "country_code": "PE",
     "latitude": "-15.50611000",
     "longitude": "-71.49184000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +80,7 @@
     "country_code": "PE",
     "latitude": "-15.63833000",
     "longitude": "-71.60111000",
+    "county_id": 8211,
     "wikiDataId": null
   },
   {
@@ -63,6 +92,7 @@
     "country_code": "PE",
     "latitude": "-17.08833000",
     "longitude": "-71.75750000",
+    "county_id": 8213,
     "wikiDataId": null
   },
   {
@@ -74,6 +104,7 @@
     "country_code": "PE",
     "latitude": "-15.21306000",
     "longitude": "-72.88861000",
+    "county_id": 8214,
     "wikiDataId": null
   },
   {
@@ -85,6 +116,7 @@
     "country_code": "PE",
     "latitude": "-15.76803000",
     "longitude": "-71.45952000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +128,7 @@
     "country_code": "PE",
     "latitude": "-15.63972000",
     "longitude": "-71.06111000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +140,7 @@
     "country_code": "PE",
     "latitude": "-15.75003000",
     "longitude": "-71.34641000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +152,7 @@
     "country_code": "PE",
     "latitude": "-15.56277000",
     "longitude": "-71.30312000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +164,7 @@
     "country_code": "PE",
     "latitude": "-15.63951000",
     "longitude": "-71.29921000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +176,7 @@
     "country_code": "PE",
     "latitude": "-16.01472000",
     "longitude": "-72.01417000",
+    "county_id": 8211,
     "wikiDataId": null
   },
   {
@@ -151,6 +188,7 @@
     "country_code": "PE",
     "latitude": "-17.02306000",
     "longitude": "-72.01472000",
+    "county_id": 8213,
     "wikiDataId": null
   },
   {
@@ -162,28 +200,7 @@
     "country_code": "PE",
     "latitude": "-15.26611000",
     "longitude": "-72.34167000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80777,
-    "name": "Provincia de Arequipa",
-    "state_id": 3681,
-    "state_code": "ARE",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-16.33333000",
-    "longitude": "-71.50000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80789,
-    "name": "Provincia de Camaná",
-    "state_id": 3681,
-    "state_code": "ARE",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-16.41667000",
-    "longitude": "-72.83333000",
+    "county_id": 8210,
     "wikiDataId": null
   },
   {
@@ -195,6 +212,7 @@
     "country_code": "PE",
     "latitude": "-15.58333000",
     "longitude": "-74.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +224,7 @@
     "country_code": "PE",
     "latitude": "-15.58333000",
     "longitude": "-72.41667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +236,7 @@
     "country_code": "PE",
     "latitude": "-15.66667000",
     "longitude": "-71.58333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +248,7 @@
     "country_code": "PE",
     "latitude": "-15.58333000",
     "longitude": "-72.83333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +260,7 @@
     "country_code": "PE",
     "latitude": "-17.00000000",
     "longitude": "-71.83333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +272,7 @@
     "country_code": "PE",
     "latitude": "-15.00000000",
     "longitude": "-72.83333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +284,7 @@
     "country_code": "PE",
     "latitude": "-15.97993000",
     "longitude": "-71.45988000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +296,7 @@
     "country_code": "PE",
     "latitude": "-17.17190000",
     "longitude": "-71.79240000",
+    "county_id": 8213,
     "wikiDataId": null
   },
   {
@@ -283,6 +308,7 @@
     "country_code": "PE",
     "latitude": "-15.80861000",
     "longitude": "-71.20111000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +320,7 @@
     "country_code": "PE",
     "latitude": "-16.25223000",
     "longitude": "-71.67969000",
+    "county_id": 8207,
     "wikiDataId": null
   }
 ]

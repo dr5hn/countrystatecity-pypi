@@ -8,17 +8,7 @@
     "country_code": "MR",
     "latitude": "16.66140000",
     "longitude": "-9.61490000",
-    "wikiDataId": null
-  },
-  {
-    "id": 150069,
-    "name": "Ayoun el Atrous",
-    "state_id": 3351,
-    "state_code": "02",
-    "country_id": 139,
-    "country_code": "MR",
-    "latitude": "16.66666667",
-    "longitude": "-9.61666667",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +20,7 @@
     "country_code": "MR",
     "latitude": "17.40000000",
     "longitude": "-10.36666667",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

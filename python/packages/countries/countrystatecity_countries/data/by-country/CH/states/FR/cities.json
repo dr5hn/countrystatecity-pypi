@@ -8,6 +8,7 @@
     "country_code": "CH",
     "latitude": "46.79587000",
     "longitude": "7.25877000",
+    "county_id": 5120,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "CH",
     "latitude": "46.50555000",
     "longitude": "6.85039000",
+    "county_id": 5121,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "CH",
     "latitude": "46.78753000",
     "longitude": "7.06735000",
+    "county_id": 5118,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "CH",
     "latitude": "46.96194000",
     "longitude": "7.11251000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "CH",
     "latitude": "46.82171000",
     "longitude": "7.10674000",
+    "county_id": 5118,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "CH",
     "latitude": "46.89229000",
     "longitude": "7.22770000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,17 +80,7 @@
     "country_code": "CH",
     "latitude": "46.60513000",
     "longitude": "7.09891000",
-    "wikiDataId": null
-  },
-  {
-    "id": 17568,
-    "name": "Broye",
-    "state_id": 1640,
-    "state_code": "FR",
-    "country_id": 214,
-    "country_code": "CH",
-    "latitude": "46.82212000",
-    "longitude": "6.90249000",
+    "county_id": 5117,
     "wikiDataId": null
   },
   {
@@ -96,6 +92,7 @@
     "country_code": "CH",
     "latitude": "46.61797000",
     "longitude": "7.05690000",
+    "county_id": 5117,
     "wikiDataId": null
   },
   {
@@ -107,6 +104,7 @@
     "country_code": "CH",
     "latitude": "46.61957000",
     "longitude": "7.16486000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +116,7 @@
     "country_code": "CH",
     "latitude": "46.52691000",
     "longitude": "6.90083000",
+    "county_id": 5121,
     "wikiDataId": null
   },
   {
@@ -129,6 +128,7 @@
     "country_code": "CH",
     "latitude": "46.81029000",
     "longitude": "7.10535000",
+    "county_id": 5118,
     "wikiDataId": null
   },
   {
@@ -140,6 +140,7 @@
     "country_code": "CH",
     "latitude": "46.90648000",
     "longitude": "7.11215000",
+    "county_id": 5119,
     "wikiDataId": null
   },
   {
@@ -151,6 +152,7 @@
     "country_code": "CH",
     "latitude": "46.81479000",
     "longitude": "6.88888000",
+    "county_id": 5115,
     "wikiDataId": null
   },
   {
@@ -162,6 +164,7 @@
     "country_code": "CH",
     "latitude": "46.86716000",
     "longitude": "7.01337000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +176,7 @@
     "country_code": "CH",
     "latitude": "46.84916000",
     "longitude": "7.19150000",
+    "county_id": 5120,
     "wikiDataId": null
   },
   {
@@ -184,6 +188,7 @@
     "country_code": "CH",
     "latitude": "46.60735000",
     "longitude": "6.80895000",
+    "county_id": 5116,
     "wikiDataId": null
   },
   {
@@ -195,6 +200,7 @@
     "country_code": "CH",
     "latitude": "46.75368000",
     "longitude": "7.14609000",
+    "county_id": 5118,
     "wikiDataId": null
   },
   {
@@ -206,6 +212,7 @@
     "country_code": "CH",
     "latitude": "46.84876000",
     "longitude": "6.84650000",
+    "county_id": 5115,
     "wikiDataId": null
   },
   {
@@ -217,6 +224,7 @@
     "country_code": "CH",
     "latitude": "46.88994000",
     "longitude": "7.32204000",
+    "county_id": 5120,
     "wikiDataId": null
   },
   {
@@ -228,6 +236,7 @@
     "country_code": "CH",
     "latitude": "46.80237000",
     "longitude": "7.15128000",
+    "county_id": 5118,
     "wikiDataId": null
   },
   {
@@ -239,6 +248,7 @@
     "country_code": "CH",
     "latitude": "46.76230000",
     "longitude": "7.20845000",
+    "county_id": 5120,
     "wikiDataId": null
   },
   {
@@ -250,17 +260,7 @@
     "country_code": "CH",
     "latitude": "46.81201000",
     "longitude": "7.12639000",
-    "wikiDataId": null
-  },
-  {
-    "id": 17845,
-    "name": "Glâne",
-    "state_id": 1640,
-    "state_code": "FR",
-    "country_id": 214,
-    "country_code": "CH",
-    "latitude": "46.66667000",
-    "longitude": "6.91667000",
+    "county_id": 5118,
     "wikiDataId": null
   },
   {
@@ -272,17 +272,7 @@
     "country_code": "CH",
     "latitude": "46.83360000",
     "longitude": "7.07116000",
-    "wikiDataId": null
-  },
-  {
-    "id": 17876,
-    "name": "Gruyère",
-    "state_id": 1640,
-    "state_code": "FR",
-    "country_id": 214,
-    "country_code": "CH",
-    "latitude": "46.60753000",
-    "longitude": "7.10741000",
+    "county_id": 5118,
     "wikiDataId": null
   },
   {
@@ -294,6 +284,7 @@
     "country_code": "CH",
     "latitude": "46.58338000",
     "longitude": "7.08207000",
+    "county_id": 5117,
     "wikiDataId": null
   },
   {
@@ -305,6 +296,7 @@
     "country_code": "CH",
     "latitude": "46.82762000",
     "longitude": "7.29944000",
+    "county_id": 5120,
     "wikiDataId": null
   },
   {
@@ -316,6 +308,7 @@
     "country_code": "CH",
     "latitude": "46.97586000",
     "longitude": "7.19570000",
+    "county_id": 5119,
     "wikiDataId": null
   },
   {
@@ -327,6 +320,7 @@
     "country_code": "CH",
     "latitude": "46.69620000",
     "longitude": "7.13721000",
+    "county_id": 5117,
     "wikiDataId": null
   },
   {
@@ -338,17 +332,7 @@
     "country_code": "CH",
     "latitude": "46.61061000",
     "longitude": "7.06496000",
-    "wikiDataId": null
-  },
-  {
-    "id": 18031,
-    "name": "Lake",
-    "state_id": 1640,
-    "state_code": "FR",
-    "country_id": 214,
-    "country_code": "CH",
-    "latitude": "46.91016000",
-    "longitude": "7.14088000",
+    "county_id": 5117,
     "wikiDataId": null
   },
   {
@@ -360,6 +344,7 @@
     "country_code": "CH",
     "latitude": "46.77611000",
     "longitude": "7.16459000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -371,6 +356,7 @@
     "country_code": "CH",
     "latitude": "46.65644000",
     "longitude": "7.05948000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,6 +368,7 @@
     "country_code": "CH",
     "latitude": "46.67958000",
     "longitude": "6.92630000",
+    "county_id": 5116,
     "wikiDataId": null
   },
   {
@@ -393,6 +380,7 @@
     "country_code": "CH",
     "latitude": "46.92827000",
     "longitude": "7.11715000",
+    "county_id": 5119,
     "wikiDataId": null
   },
   {
@@ -404,6 +392,7 @@
     "country_code": "CH",
     "latitude": "46.74126000",
     "longitude": "7.28149000",
+    "county_id": 5120,
     "wikiDataId": null
   },
   {
@@ -415,6 +404,7 @@
     "country_code": "CH",
     "latitude": "46.74198000",
     "longitude": "7.28666000",
+    "county_id": 5120,
     "wikiDataId": null
   },
   {
@@ -426,6 +416,7 @@
     "country_code": "CH",
     "latitude": "46.75145000",
     "longitude": "7.17778000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -437,6 +428,7 @@
     "country_code": "CH",
     "latitude": "46.76766000",
     "longitude": "7.24028000",
+    "county_id": 5120,
     "wikiDataId": null
   },
   {
@@ -448,6 +440,7 @@
     "country_code": "CH",
     "latitude": "46.64224000",
     "longitude": "7.06183000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -459,6 +452,7 @@
     "country_code": "CH",
     "latitude": "46.69652000",
     "longitude": "6.91898000",
+    "county_id": 5116,
     "wikiDataId": null
   },
   {
@@ -470,6 +464,7 @@
     "country_code": "CH",
     "latitude": "46.61916000",
     "longitude": "6.82225000",
+    "county_id": 5116,
     "wikiDataId": null
   },
   {
@@ -481,6 +476,7 @@
     "country_code": "CH",
     "latitude": "46.63473000",
     "longitude": "6.97336000",
+    "county_id": 5117,
     "wikiDataId": null
   },
   {
@@ -492,17 +488,7 @@
     "country_code": "CH",
     "latitude": "46.82207000",
     "longitude": "7.26091000",
-    "wikiDataId": null
-  },
-  {
-    "id": 18445,
-    "name": "Sarine",
-    "state_id": 1640,
-    "state_code": "FR",
-    "country_id": 214,
-    "country_code": "CH",
-    "latitude": "46.78435000",
-    "longitude": "7.09993000",
+    "county_id": 5120,
     "wikiDataId": null
   },
   {
@@ -514,17 +500,7 @@
     "country_code": "CH",
     "latitude": "46.85750000",
     "longitude": "7.25031000",
-    "wikiDataId": null
-  },
-  {
-    "id": 18510,
-    "name": "Sense",
-    "state_id": 1640,
-    "state_code": "FR",
-    "country_id": 214,
-    "country_code": "CH",
-    "latitude": "46.80132000",
-    "longitude": "7.26028000",
+    "county_id": 5120,
     "wikiDataId": null
   },
   {
@@ -536,6 +512,7 @@
     "country_code": "CH",
     "latitude": "46.81483000",
     "longitude": "7.21852000",
+    "county_id": 5120,
     "wikiDataId": null
   },
   {
@@ -547,6 +524,7 @@
     "country_code": "CH",
     "latitude": "46.72796000",
     "longitude": "7.13769000",
+    "county_id": 5118,
     "wikiDataId": null
   },
   {
@@ -558,17 +536,7 @@
     "country_code": "CH",
     "latitude": "46.86587000",
     "longitude": "7.30998000",
-    "wikiDataId": null
-  },
-  {
-    "id": 18674,
-    "name": "Veveyse",
-    "state_id": 1640,
-    "state_code": "FR",
-    "country_id": 214,
-    "country_code": "CH",
-    "latitude": "46.55083000",
-    "longitude": "6.91085000",
+    "county_id": 5120,
     "wikiDataId": null
   },
   {
@@ -580,6 +548,7 @@
     "country_code": "CH",
     "latitude": "46.79054000",
     "longitude": "7.11717000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -591,6 +560,7 @@
     "country_code": "CH",
     "latitude": "46.72074000",
     "longitude": "6.95638000",
+    "county_id": 5116,
     "wikiDataId": null
   },
   {
@@ -602,6 +572,7 @@
     "country_code": "CH",
     "latitude": "46.61545000",
     "longitude": "7.01732000",
+    "county_id": 5117,
     "wikiDataId": null
   }
 ]

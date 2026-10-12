@@ -1,5 +1,17 @@
 [
   {
+    "id": 48469,
+    "name": "Bembridge",
+    "state_id": 2289,
+    "state_code": "IOW",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.68634000",
+    "longitude": "-1.08275000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 48649,
     "name": "Brading",
     "state_id": 2289,
@@ -8,6 +20,7 @@
     "country_code": "GB",
     "latitude": "50.67990000",
     "longitude": "-1.14571000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,7 @@
     "country_code": "GB",
     "latitude": "50.64263000",
     "longitude": "-1.39479000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,7 @@
     "country_code": "GB",
     "latitude": "50.76306000",
     "longitude": "-1.29772000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +56,7 @@
     "country_code": "GB",
     "latitude": "50.75774000",
     "longitude": "-1.28815000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,7 @@
     "country_code": "GB",
     "latitude": "50.68365000",
     "longitude": "-1.52616000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,39 +80,7 @@
     "country_code": "GB",
     "latitude": "50.63308000",
     "longitude": "-1.25476000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50082,
-    "name": "Isle of Wight",
-    "state_id": 2289,
-    "state_code": "IOW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "50.66667000",
-    "longitude": "-1.33333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50447,
-    "name": "Lymington",
-    "state_id": 2289,
-    "state_code": "IOW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "50.75767000",
-    "longitude": "-1.54430000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50583,
-    "name": "Milford on Sea",
-    "state_id": 2289,
-    "state_code": "IOW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "50.72561000",
-    "longitude": "-1.59004000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +92,7 @@
     "country_code": "GB",
     "latitude": "50.66744000",
     "longitude": "-1.20828000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +104,7 @@
     "country_code": "GB",
     "latitude": "50.70146000",
     "longitude": "-1.29124000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +116,19 @@
     "country_code": "GB",
     "latitude": "50.58702000",
     "longitude": "-1.28489000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51152,
+    "name": "Ryde",
+    "state_id": 2289,
+    "state_code": "IOW",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.72999000",
+    "longitude": "-1.16210000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +140,19 @@
     "country_code": "GB",
     "latitude": "50.65158000",
     "longitude": "-1.16103000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51227,
+    "name": "Seaview",
+    "state_id": 2289,
+    "state_code": "IOW",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.71956000",
+    "longitude": "-1.11164000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +164,7 @@
     "country_code": "GB",
     "latitude": "50.70113000",
     "longitude": "-1.42007000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +176,19 @@
     "country_code": "GB",
     "latitude": "50.62613000",
     "longitude": "-1.17850000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51404,
+    "name": "St. Helens",
+    "state_id": 2289,
+    "state_code": "IOW",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.69688000",
+    "longitude": "-1.11159000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +200,7 @@
     "country_code": "GB",
     "latitude": "50.59449000",
     "longitude": "-1.20672000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +212,7 @@
     "country_code": "GB",
     "latitude": "50.70529000",
     "longitude": "-1.49929000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

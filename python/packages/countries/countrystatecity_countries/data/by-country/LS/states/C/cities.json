@@ -1,13 +1,14 @@
 [
   {
     "id": 66565,
-    "name": "Leribe",
+    "name": "Hlotse",
     "state_id": 3026,
     "state_code": "C",
     "country_id": 122,
     "country_code": "LS",
     "latitude": "-28.87185000",
     "longitude": "28.04501000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "LS",
     "latitude": "-28.88660000",
     "longitude": "27.89915000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

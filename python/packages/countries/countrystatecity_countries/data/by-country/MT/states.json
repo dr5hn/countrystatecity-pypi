@@ -91,6 +91,19 @@
     "timezone": "Europe/Malta"
   },
   {
+    "id": 5843,
+    "name": "Eastern Region",
+    "country_id": 135,
+    "country_code": "MT",
+    "state_code": "R02",
+    "type": "region",
+    "latitude": "35.89722222",
+    "longitude": "14.46527778",
+    "iso3166_2": null,
+    "native": "Reġjun tal-Lvant",
+    "timezone": "Europe/Malta"
+  },
+  {
     "id": 129,
     "name": "Fgura",
     "country_id": 135,
@@ -192,6 +205,19 @@
     "longitude": "14.51600900",
     "iso3166_2": "MT-17",
     "native": "Għaxaq",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 5847,
+    "name": "Gozo Region",
+    "country_id": 135,
+    "country_code": "MT",
+    "state_code": "R06",
+    "type": "region",
+    "latitude": "36.04444444",
+    "longitude": "14.23972222",
+    "iso3166_2": null,
+    "native": "Reġjun Għawdex",
     "timezone": "Europe/Malta"
   },
   {
@@ -481,6 +507,19 @@
     "timezone": "Europe/Malta"
   },
   {
+    "id": 5842,
+    "name": "Northern Region",
+    "country_id": 135,
+    "country_code": "MT",
+    "state_code": "R01",
+    "type": "region",
+    "latitude": "35.94833333",
+    "longitude": "14.40055556",
+    "iso3166_2": null,
+    "native": "Reġjun tat-Tramuntana",
+    "timezone": "Europe/Malta"
+  },
+  {
     "id": 115,
     "name": "Paola",
     "country_id": 135,
@@ -517,6 +556,19 @@
     "longitude": "14.49348810",
     "iso3166_2": "MT-41",
     "native": "Kompassjoni",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 5845,
+    "name": "Port Region",
+    "country_id": 135,
+    "country_code": "MT",
+    "state_code": "R04",
+    "type": "region",
+    "latitude": "35.86583333",
+    "longitude": "14.51500000",
+    "iso3166_2": null,
+    "native": "Reġjun Port",
     "timezone": "Europe/Malta"
   },
   {
@@ -689,6 +741,19 @@
     "timezone": "Europe/Malta"
   },
   {
+    "id": 5846,
+    "name": "Southern Region",
+    "country_id": 135,
+    "country_code": "MT",
+    "state_code": "R05",
+    "type": "region",
+    "latitude": "35.87833333",
+    "longitude": "14.47194444",
+    "iso3166_2": null,
+    "native": "Reġjun tan-Nofsinhar",
+    "timezone": "Europe/Malta"
+  },
+  {
     "id": 100,
     "name": "St. Julian's",
     "country_id": 135,
@@ -777,6 +842,19 @@
     "longitude": "14.23984790",
     "iso3166_2": "MT-45",
     "native": "Victoria",
+    "timezone": "Europe/Malta"
+  },
+  {
+    "id": 5844,
+    "name": "Western Region",
+    "country_id": 135,
+    "country_code": "MT",
+    "state_code": "R03",
+    "type": "region",
+    "latitude": "35.88222222",
+    "longitude": "14.39805556",
+    "iso3166_2": null,
+    "native": "Reġjun tal-Punent",
     "timezone": "Europe/Malta"
   },
   {

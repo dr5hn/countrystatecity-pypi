@@ -8,28 +8,7 @@
     "country_code": "GB",
     "latitude": "52.18831000",
     "longitude": "-0.45316000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48575,
-    "name": "Blunham",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.14695000",
-    "longitude": "-0.32178000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48640,
-    "name": "Bozeat",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.22270000",
-    "longitude": "-0.67326000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,17 +20,7 @@
     "country_code": "GB",
     "latitude": "52.14508000",
     "longitude": "-0.52906000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48743,
-    "name": "Buckden",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.29415000",
-    "longitude": "-0.24912000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +32,7 @@
     "country_code": "GB",
     "latitude": "52.11742000",
     "longitude": "-0.41289000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +44,7 @@
     "country_code": "GB",
     "latitude": "52.16085000",
     "longitude": "-0.49529000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,61 +56,7 @@
     "country_code": "GB",
     "latitude": "52.12342000",
     "longitude": "-0.38933000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49378,
-    "name": "Earls Barton",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.26627000",
-    "longitude": "-0.75248000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49429,
-    "name": "Eaton Socon",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.21752000",
-    "longitude": "-0.28925000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49498,
-    "name": "Everton",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.14581000",
-    "longitude": "-0.24616000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49558,
-    "name": "Finedon",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.33917000",
-    "longitude": "-0.65008000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49625,
-    "name": "Gamlingay",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.15561000",
-    "longitude": "-0.19303000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,28 +68,7 @@
     "country_code": "GB",
     "latitude": "52.15791000",
     "longitude": "-0.35235000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49719,
-    "name": "Great Gransden",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.18546000",
-    "longitude": "-0.14574000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49730,
-    "name": "Great Paxton",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.26057000",
-    "longitude": "-0.22818000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,39 +80,7 @@
     "country_code": "GB",
     "latitude": "52.20127000",
     "longitude": "-0.61038000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49933,
-    "name": "Higham Ferrers",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.30596000",
-    "longitude": "-0.59342000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50068,
-    "name": "Irchester",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.28108000",
-    "longitude": "-0.64510000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50071,
-    "name": "Irthlingborough",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.32674000",
-    "longitude": "-0.61129000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,39 +92,19 @@
     "country_code": "GB",
     "latitude": "52.11599000",
     "longitude": "-0.50044000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 50157,
-    "name": "Kimbolton",
+    "id": 50116,
+    "name": "Kempston Hardwick",
     "state_id": 2507,
     "state_code": "BDF",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.29704000",
-    "longitude": "-0.38916000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50259,
-    "name": "Lavendon",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.17279000",
-    "longitude": "-0.66109000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50331,
-    "name": "Little Paxton",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.25045000",
-    "longitude": "-0.25801000",
+    "latitude": "52.08956000",
+    "longitude": "-0.49908000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +116,7 @@
     "country_code": "GB",
     "latitude": "52.16862000",
     "longitude": "-0.52649000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,39 +128,7 @@
     "country_code": "GB",
     "latitude": "52.25424000",
     "longitude": "-0.62463000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50977,
-    "name": "Potton",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.12911000",
-    "longitude": "-0.21561000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51037,
-    "name": "Raunds",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.34428000",
-    "longitude": "-0.53657000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51083,
-    "name": "Ringstead",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.36528000",
-    "longitude": "-0.55490000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,6 +140,7 @@
     "country_code": "GB",
     "latitude": "52.25213000",
     "longitude": "-0.47928000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -338,39 +152,7 @@
     "country_code": "GB",
     "latitude": "52.17756000",
     "longitude": "-0.31594000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51145,
-    "name": "Rushden",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.28927000",
-    "longitude": "-0.60184000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51174,
-    "name": "Saint Neots",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.21667000",
-    "longitude": "-0.26667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51198,
-    "name": "Sandy",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.12927000",
-    "longitude": "-0.28925000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,6 +164,7 @@
     "country_code": "GB",
     "latitude": "52.22606000",
     "longitude": "-0.54425000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -393,17 +176,7 @@
     "country_code": "GB",
     "latitude": "52.13046000",
     "longitude": "-0.56678000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51430,
-    "name": "Stanwick",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.33198000",
-    "longitude": "-0.56348000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,61 +188,31 @@
     "country_code": "GB",
     "latitude": "52.16848000",
     "longitude": "-0.55515000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 51574,
-    "name": "Tempsford",
+    "id": 51444,
+    "name": "Stewartby",
     "state_id": 2507,
     "state_code": "BDF",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.17051000",
-    "longitude": "-0.29586000",
+    "latitude": "52.07044000",
+    "longitude": "-0.51490000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 51610,
-    "name": "Thrapston",
+    "id": 51913,
+    "name": "Wilstead",
     "state_id": 2507,
     "state_code": "BDF",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.39675000",
-    "longitude": "-0.53920000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51789,
-    "name": "Wellingborough",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.30273000",
-    "longitude": "-0.69446000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51960,
-    "name": "Wollaston",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.25794000",
-    "longitude": "-0.67038000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51973,
-    "name": "Woodford",
-    "state_id": 2507,
-    "state_code": "BDF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.38231000",
-    "longitude": "-0.58099000",
+    "latitude": "52.08088000",
+    "longitude": "-0.44889000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

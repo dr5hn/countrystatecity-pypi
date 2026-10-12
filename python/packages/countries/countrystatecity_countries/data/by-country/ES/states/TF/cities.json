@@ -8,6 +8,7 @@
     "country_code": "ES",
     "latitude": "28.12271000",
     "longitude": "-16.72600000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "ES",
     "latitude": "28.18778000",
     "longitude": "-17.19678000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "ES",
     "latitude": "28.06205000",
     "longitude": "-17.24073000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "ES",
     "latitude": "28.33971000",
     "longitude": "-16.42244000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "ES",
     "latitude": "28.46671860",
     "longitude": "-16.27971730",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "ES",
     "latitude": "28.09962000",
     "longitude": "-16.68102000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "ES",
     "latitude": "28.82708000",
     "longitude": "-17.80377000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +92,7 @@
     "country_code": "ES",
     "latitude": "28.65000000",
     "longitude": "-17.78333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +104,7 @@
     "country_code": "ES",
     "latitude": "28.63011000",
     "longitude": "-17.78953000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +116,7 @@
     "country_code": "ES",
     "latitude": "28.37458000",
     "longitude": "-16.86098000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,17 +128,19 @@
     "country_code": "ES",
     "latitude": "28.35480000",
     "longitude": "-16.37268000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 152454,
+    "id": 34004,
     "name": "El Paso",
     "state_id": 5112,
     "state_code": "TF",
     "country_id": 207,
     "country_code": "ES",
-    "latitude": "28.65176560",
-    "longitude": "-17.87999020",
+    "latitude": "28.65007000",
+    "longitude": "-17.88274000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +152,7 @@
     "country_code": "ES",
     "latitude": "27.69309740",
     "longitude": "-18.01244690",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,17 +164,19 @@
     "country_code": "ES",
     "latitude": "28.46362960",
     "longitude": "-16.25184670",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 152458,
+    "id": 37180,
     "name": "El Sauzal",
     "state_id": 5112,
     "state_code": "TF",
     "country_id": 207,
     "country_code": "ES",
-    "latitude": "28.47941470",
-    "longitude": "-16.43653990",
+    "latitude": "28.46667000",
+    "longitude": "-16.41667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +188,7 @@
     "country_code": "ES",
     "latitude": "28.35702480",
     "longitude": "-16.78023090",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +200,7 @@
     "country_code": "ES",
     "latitude": "28.23638000",
     "longitude": "-16.43886000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +212,7 @@
     "country_code": "ES",
     "latitude": "27.75404000",
     "longitude": "-18.00367000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +224,7 @@
     "country_code": "ES",
     "latitude": "28.49236000",
     "longitude": "-17.84529000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +236,7 @@
     "country_code": "ES",
     "latitude": "28.37365000",
     "longitude": "-16.76342000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +248,7 @@
     "country_code": "ES",
     "latitude": "28.81667000",
     "longitude": "-17.93333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +260,7 @@
     "country_code": "ES",
     "latitude": "28.11882000",
     "longitude": "-16.57599000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +272,7 @@
     "country_code": "ES",
     "latitude": "28.21154000",
     "longitude": "-16.77947000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +284,7 @@
     "country_code": "ES",
     "latitude": "28.31122000",
     "longitude": "-16.41276000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +296,7 @@
     "country_code": "ES",
     "latitude": "28.16766000",
     "longitude": "-17.19051000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,61 +308,163 @@
     "country_code": "ES",
     "latitude": "28.37241000",
     "longitude": "-16.71188000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 152449,
+    "id": 34880,
     "name": "La Guancha",
     "state_id": 5112,
     "state_code": "TF",
     "country_id": 207,
     "country_code": "ES",
-    "latitude": "28.46741910",
-    "longitude": "-16.28016110",
+    "latitude": "28.37320000",
+    "longitude": "-16.65158000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 152452,
+    "id": 34887,
+    "name": "La Laguna",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.48530000",
+    "longitude": "-16.32014000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 34894,
     "name": "La Matanza de Acentejo",
     "state_id": 5112,
     "state_code": "TF",
     "country_id": 207,
     "country_code": "ES",
-    "latitude": "28.44814830",
-    "longitude": "-16.45796610",
+    "latitude": "28.45242000",
+    "longitude": "-16.44720000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 152453,
+    "id": 34898,
     "name": "La Orotava",
     "state_id": 5112,
     "state_code": "TF",
     "country_id": 207,
     "country_code": "ES",
-    "latitude": "28.38900040",
-    "longitude": "-16.52388020",
+    "latitude": "28.39076000",
+    "longitude": "-16.52309000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 152463,
+    "id": 34934,
     "name": "La Victoria de Acentejo",
     "state_id": 5112,
     "state_code": "TF",
     "country_id": 207,
     "country_code": "ES",
-    "latitude": "28.43403440",
-    "longitude": "-16.47093680",
+    "latitude": "28.43231000",
+    "longitude": "-16.46232000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 152451,
-    "name": "Llanos de Aridane Los",
+    "id": 34990,
+    "name": "Las Rosas",
     "state_id": 5112,
     "state_code": "TF",
     "country_id": 207,
     "country_code": "ES",
-    "latitude": "28.61835150",
-    "longitude": "-17.89985660",
+    "latitude": "28.01539000",
+    "longitude": "-16.65373000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 35105,
+    "name": "Lomo de Arico",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.16667000",
+    "longitude": "-16.48333000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 35122,
+    "name": "Los Gigantes",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.24361000",
+    "longitude": "-16.84153000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 35124,
+    "name": "Los Llanos de Aridane",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.65851000",
+    "longitude": "-17.91821000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 35132,
+    "name": "Los Realejos",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.38487000",
+    "longitude": "-16.58275000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 35135,
+    "name": "Los Silos",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.36610000",
+    "longitude": "-16.81552000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 35357,
+    "name": "Mazo",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.60906000",
+    "longitude": "-17.77801000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 36240,
+    "name": "Playa de las Américas",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.06403000",
+    "longitude": "-16.73012000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -349,6 +476,7 @@
     "country_code": "ES",
     "latitude": "28.41397000",
     "longitude": "-16.54867000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -360,6 +488,7 @@
     "country_code": "ES",
     "latitude": "28.77490000",
     "longitude": "-17.97741000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -371,17 +500,19 @@
     "country_code": "ES",
     "latitude": "28.73333000",
     "longitude": "-17.73333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 152455,
-    "name": "Realejos Los",
+    "id": 36553,
+    "name": "Realejo Alto",
     "state_id": 5112,
     "state_code": "TF",
     "country_id": 207,
     "country_code": "ES",
-    "latitude": "28.38521270",
-    "longitude": "-16.58410460",
+    "latitude": "28.37645000",
+    "longitude": "-16.58575000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -393,6 +524,7 @@
     "country_code": "ES",
     "latitude": "28.78422180",
     "longitude": "-17.79915450",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -404,6 +536,19 @@
     "country_code": "ES",
     "latitude": "28.48740090",
     "longitude": "-16.31590610",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 36839,
+    "name": "San Isidro",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.07617000",
+    "longitude": "-16.55800000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,6 +560,7 @@
     "country_code": "ES",
     "latitude": "28.39276000",
     "longitude": "-16.65015000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -426,6 +572,7 @@
     "country_code": "ES",
     "latitude": "28.09826000",
     "longitude": "-16.61708000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -437,6 +584,7 @@
     "country_code": "ES",
     "latitude": "28.09163000",
     "longitude": "-17.11331000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -448,6 +596,7 @@
     "country_code": "ES",
     "latitude": "28.68351000",
     "longitude": "-17.76421000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -459,6 +608,7 @@
     "country_code": "ES",
     "latitude": "28.46824000",
     "longitude": "-16.25462000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -470,6 +620,7 @@
     "country_code": "ES",
     "latitude": "28.42613000",
     "longitude": "-16.48876000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -481,6 +632,7 @@
     "country_code": "ES",
     "latitude": "28.29400000",
     "longitude": "-16.81618000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -492,6 +644,7 @@
     "country_code": "ES",
     "latitude": "28.36626140",
     "longitude": "-16.81791850",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -503,6 +656,19 @@
     "country_code": "ES",
     "latitude": "28.47688000",
     "longitude": "-16.41016000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 37368,
+    "name": "Tanque",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.36667000",
+    "longitude": "-16.83333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -514,6 +680,7 @@
     "country_code": "ES",
     "latitude": "28.64186000",
     "longitude": "-17.93394000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -525,6 +692,7 @@
     "country_code": "ES",
     "latitude": "28.51667000",
     "longitude": "-16.31667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -536,6 +704,7 @@
     "country_code": "ES",
     "latitude": "28.70000000",
     "longitude": "-17.95000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -547,6 +716,19 @@
     "country_code": "ES",
     "latitude": "28.08496250",
     "longitude": "-17.33388390",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 37850,
+    "name": "Vallehermosa",
+    "state_id": 5112,
+    "state_code": "TF",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "28.17944000",
+    "longitude": "-17.26664000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -558,6 +740,7 @@
     "country_code": "ES",
     "latitude": "28.18019910",
     "longitude": "-17.26590080",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -569,6 +752,7 @@
     "country_code": "ES",
     "latitude": "27.80628000",
     "longitude": "-17.91578000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -580,6 +764,7 @@
     "country_code": "ES",
     "latitude": "28.15623000",
     "longitude": "-16.63592000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -591,6 +776,7 @@
     "country_code": "ES",
     "latitude": "28.62207120",
     "longitude": "-17.78067530",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

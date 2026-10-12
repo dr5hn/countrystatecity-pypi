@@ -1,49 +1,5 @@
 [
   {
-    "id": 105258,
-    "name": "Amphoe Bua Yai",
-    "state_id": 3497,
-    "state_code": "30",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.58488000",
-    "longitude": "102.38738000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105302,
-    "name": "Amphoe Chok Chai",
-    "state_id": 3497,
-    "state_code": "30",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.76341000",
-    "longitude": "102.20338000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105318,
-    "name": "Amphoe Dan Khun Thot",
-    "state_id": 3497,
-    "state_code": "30",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.21835000",
-    "longitude": "101.69790000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105385,
-    "name": "Amphoe Kham Sakae Saeng",
-    "state_id": 3497,
-    "state_code": "30",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.38042000",
-    "longitude": "102.16636000",
-    "wikiDataId": null
-  },
-  {
     "id": 105421,
     "name": "Amphoe Khon Buri",
     "state_id": 3497,
@@ -52,39 +8,7 @@
     "country_code": "TH",
     "latitude": "14.37634000",
     "longitude": "102.21746000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105655,
-    "name": "Amphoe Non Sung",
-    "state_id": 3497,
-    "state_code": "30",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.20892000",
-    "longitude": "102.28400000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105657,
-    "name": "Amphoe Non Thai",
-    "state_id": 3497,
-    "state_code": "30",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.18106000",
-    "longitude": "102.03001000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105701,
-    "name": "Amphoe Pak Chong",
-    "state_id": 3497,
-    "state_code": "30",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.61923000",
-    "longitude": "101.44814000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,39 +20,7 @@
     "country_code": "TH",
     "latitude": "14.66228000",
     "longitude": "101.94227000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105741,
-    "name": "Amphoe Phimai",
-    "state_id": 3497,
-    "state_code": "30",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.24622000",
-    "longitude": "102.54217000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106241,
-    "name": "Amphoe Soeng Sang",
-    "state_id": 3497,
-    "state_code": "30",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.34456000",
-    "longitude": "102.49297000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106257,
-    "name": "Amphoe Sung Noen",
-    "state_id": 3497,
-    "state_code": "30",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.85623000",
-    "longitude": "101.83049000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +32,7 @@
     "country_code": "TH",
     "latitude": "14.98333000",
     "longitude": "102.65000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -149,8 +42,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.57431000",
-    "longitude": "102.14204000",
+    "latitude": "15.60305051",
+    "longitude": "102.12498376",
+    "county_id": 5578,
     "wikiDataId": null
   },
   {
@@ -162,6 +56,7 @@
     "country_code": "TH",
     "latitude": "15.66917000",
     "longitude": "102.51761000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -171,8 +66,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.58552000",
-    "longitude": "102.42587000",
+    "latitude": "15.58584200",
+    "longitude": "102.43369200",
+    "county_id": 5585,
     "wikiDataId": null
   },
   {
@@ -182,19 +78,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "14.95686000",
-    "longitude": "102.43718000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105280,
-    "name": "Chaloem Phra Kiat",
-    "state_id": 3497,
-    "state_code": "30",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "14.97540000",
-    "longitude": "102.29372000",
+    "latitude": "15.01144714",
+    "longitude": "102.41402608",
+    "county_id": 5579,
     "wikiDataId": null
   },
   {
@@ -204,8 +90,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "14.72844000",
-    "longitude": "102.16524000",
+    "latitude": "14.73051997",
+    "longitude": "102.16534371",
+    "county_id": 5580,
     "wikiDataId": null
   },
   {
@@ -215,8 +102,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.25990000",
-    "longitude": "102.75756000",
+    "latitude": "15.35376435",
+    "longitude": "102.74685335",
+    "county_id": 5590,
     "wikiDataId": null
   },
   {
@@ -226,8 +114,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.20850000",
-    "longitude": "101.77138000",
+    "latitude": "15.20990000",
+    "longitude": "101.76670000",
+    "county_id": 5581,
     "wikiDataId": null
   },
   {
@@ -237,8 +126,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.04244000",
-    "longitude": "102.63535000",
+    "latitude": "14.99701000",
+    "longitude": "102.64746000",
+    "county_id": 5589,
     "wikiDataId": null
   },
   {
@@ -248,19 +138,21 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.69561000",
-    "longitude": "102.25366000",
+    "latitude": "15.74954000",
+    "longitude": "102.25484000",
+    "county_id": 5596,
     "wikiDataId": null
   },
   {
     "id": 106517,
-    "name": "Kham Sakae Saeng",
+    "name": "Kham Sakaesaeng",
     "state_id": 3497,
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.33221000",
-    "longitude": "102.17278000",
+    "latitude": "15.33295429",
+    "longitude": "102.16461109",
+    "county_id": 5584,
     "wikiDataId": null
   },
   {
@@ -270,8 +162,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.03639000",
-    "longitude": "101.93170000",
+    "latitude": "14.95732837",
+    "longitude": "101.95033285",
+    "county_id": 5592,
     "wikiDataId": null
   },
   {
@@ -283,17 +176,7 @@
     "country_code": "TH",
     "latitude": "14.52541000",
     "longitude": "102.24591000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105422,
-    "name": "Khong",
-    "state_id": 3497,
-    "state_code": "30",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.43311000",
-    "longitude": "102.29617000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,17 +188,19 @@
     "country_code": "TH",
     "latitude": "15.28424000",
     "longitude": "102.90723000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 105556,
-    "name": "Mueang Nakhon Ratchasima",
+    "id": 105422,
+    "name": "Mueang Khong",
     "state_id": 3497,
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "14.95678000",
-    "longitude": "102.08933000",
+    "latitude": "15.44367320",
+    "longitude": "102.32846164",
+    "county_id": 5577,
     "wikiDataId": null
   },
   {
@@ -325,8 +210,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.43842000",
-    "longitude": "102.89331000",
+    "latitude": "15.42060000",
+    "longitude": "102.89282000",
+    "county_id": 5600,
     "wikiDataId": null
   },
   {
@@ -338,6 +224,7 @@
     "country_code": "TH",
     "latitude": "14.97066000",
     "longitude": "102.10196000",
+    "county_id": 5574,
     "wikiDataId": null
   },
   {
@@ -347,8 +234,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.44479000",
-    "longitude": "102.54565000",
+    "latitude": "15.41430131",
+    "longitude": "102.55053573",
+    "county_id": 5597,
     "wikiDataId": null
   },
   {
@@ -360,6 +248,7 @@
     "country_code": "TH",
     "latitude": "15.18014000",
     "longitude": "102.25695000",
+    "county_id": 5583,
     "wikiDataId": null
   },
   {
@@ -371,6 +260,7 @@
     "country_code": "TH",
     "latitude": "15.19580000",
     "longitude": "102.07145000",
+    "county_id": 5582,
     "wikiDataId": null
   },
   {
@@ -382,6 +272,7 @@
     "country_code": "TH",
     "latitude": "14.71295000",
     "longitude": "102.37447000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -391,8 +282,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "14.70802000",
-    "longitude": "101.41614000",
+    "latitude": "14.67960000",
+    "longitude": "101.39760000",
+    "county_id": 5594,
     "wikiDataId": null
   },
   {
@@ -404,6 +296,7 @@
     "country_code": "TH",
     "latitude": "14.72260000",
     "longitude": "102.02512000",
+    "county_id": 5587,
     "wikiDataId": null
   },
   {
@@ -415,6 +308,7 @@
     "country_code": "TH",
     "latitude": "15.22324000",
     "longitude": "102.49473000",
+    "county_id": 5588,
     "wikiDataId": null
   },
   {
@@ -426,6 +320,7 @@
     "country_code": "TH",
     "latitude": "15.35114000",
     "longitude": "101.99355000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -435,8 +330,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.55911000",
-    "longitude": "102.69786000",
+    "latitude": "15.53407795",
+    "longitude": "102.71758160",
+    "county_id": 5586,
     "wikiDataId": null
   },
   {
@@ -446,8 +342,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.56406000",
-    "longitude": "102.55823000",
+    "latitude": "15.54133901",
+    "longitude": "102.56584303",
+    "county_id": 5604,
     "wikiDataId": null
   },
   {
@@ -459,6 +356,7 @@
     "country_code": "TH",
     "latitude": "14.94275000",
     "longitude": "101.60672000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -470,6 +368,7 @@
     "country_code": "TH",
     "latitude": "14.89944000",
     "longitude": "101.70833000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -481,6 +380,7 @@
     "country_code": "TH",
     "latitude": "14.42642000",
     "longitude": "102.46058000",
+    "county_id": 5576,
     "wikiDataId": null
   },
   {
@@ -490,8 +390,21 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "14.89920000",
-    "longitude": "101.82075000",
+    "latitude": "14.89646605",
+    "longitude": "101.81673543",
+    "county_id": 5591,
+    "wikiDataId": null
+  },
+  {
+    "id": 105280,
+    "name": "Tha Chang",
+    "state_id": 3497,
+    "state_code": "30",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "15.00254312",
+    "longitude": "102.27138503",
+    "county_id": 5605,
     "wikiDataId": null
   },
   {
@@ -503,6 +416,7 @@
     "country_code": "TH",
     "latitude": "15.28639000",
     "longitude": "101.50373000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -512,8 +426,9 @@
     "state_code": "30",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "14.44786000",
-    "longitude": "101.85533000",
+    "latitude": "14.41801000",
+    "longitude": "101.86113000",
+    "county_id": 5598,
     "wikiDataId": null
   }
 ]

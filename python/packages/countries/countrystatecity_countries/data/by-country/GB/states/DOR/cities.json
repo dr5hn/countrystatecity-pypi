@@ -1,5 +1,17 @@
 [
   {
+    "id": 48211,
+    "name": "Alderholt",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.91195000",
+    "longitude": "-1.83083000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 48438,
     "name": "Beaminster",
     "state_id": 2345,
@@ -8,6 +20,55 @@
     "country_code": "GB",
     "latitude": "50.80900000",
     "longitude": "-2.73910000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48477,
+    "name": "Bere Regis",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.75371000",
+    "longitude": "-2.21553000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48561,
+    "name": "Blandford Forum",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.86073000",
+    "longitude": "-2.16174000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48626,
+    "name": "Bourton",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.07444000",
+    "longitude": "-2.32778000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48630,
+    "name": "Bovington Camp",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.69782000",
+    "longitude": "-2.23506000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +80,19 @@
     "country_code": "GB",
     "latitude": "50.73380000",
     "longitude": "-2.75831000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48926,
+    "name": "Charlton Marshall",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.83591000",
+    "longitude": "-2.14231000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +104,19 @@
     "country_code": "GB",
     "latitude": "50.73333000",
     "longitude": "-2.45000000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48928,
+    "name": "Charmouth",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.73889000",
+    "longitude": "-2.90055000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +128,31 @@
     "country_code": "GB",
     "latitude": "50.62429000",
     "longitude": "-2.50280000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48966,
+    "name": "Child Okeford",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.91370000",
+    "longitude": "-2.23679000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49105,
+    "name": "Corfe Castle",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.63947000",
+    "longitude": "-2.05672000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,17 +164,7 @@
     "country_code": "GB",
     "latitude": "50.71667000",
     "longitude": "-2.43333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49312,
-    "name": "Dorset",
-    "state_id": 2345,
-    "state_code": "DOR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "50.75000000",
-    "longitude": "-2.33333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +176,19 @@
     "country_code": "GB",
     "latitude": "50.53333000",
     "longitude": "-2.45000000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49547,
+    "name": "Ferndown",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.80743000",
+    "longitude": "-1.89975000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +200,31 @@
     "country_code": "GB",
     "latitude": "50.56030000",
     "longitude": "-2.44243000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 49907,
-    "name": "Henstridge",
+    "id": 50445,
+    "name": "Lyme Regis",
     "state_id": 2345,
     "state_code": "DOR",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "50.97717000",
-    "longitude": "-2.39500000",
+    "latitude": "50.72654000",
+    "longitude": "-2.93477000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50455,
+    "name": "Lytchett Matravers",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.75826000",
+    "longitude": "-2.07806000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +236,7 @@
     "country_code": "GB",
     "latitude": "50.77909000",
     "longitude": "-2.57226000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +248,7 @@
     "country_code": "GB",
     "latitude": "50.95000000",
     "longitude": "-2.26667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,17 +260,7 @@
     "country_code": "GB",
     "latitude": "50.97045000",
     "longitude": "-2.31327000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50578,
-    "name": "Milborne Port",
-    "state_id": 2345,
-    "state_code": "DOR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "50.96605000",
-    "longitude": "-2.46248000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +272,19 @@
     "country_code": "GB",
     "latitude": "50.77829000",
     "longitude": "-2.28114000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50637,
+    "name": "Motcombe",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.02929000",
+    "longitude": "-2.21627000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +296,19 @@
     "country_code": "GB",
     "latitude": "50.63509000",
     "longitude": "-2.43207000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50912,
+    "name": "Pimperne",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.88374000",
+    "longitude": "-2.13620000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +320,7 @@
     "country_code": "GB",
     "latitude": "50.56748000",
     "longitude": "-2.44472000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +332,19 @@
     "country_code": "GB",
     "latitude": "50.75000000",
     "longitude": "-2.35000000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51244,
+    "name": "Shaftesbury",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.00528000",
+    "longitude": "-2.19333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +356,31 @@
     "country_code": "GB",
     "latitude": "50.94599000",
     "longitude": "-2.51776000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51280,
+    "name": "Shillingstone",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.89567000",
+    "longitude": "-2.24495000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51400,
+    "name": "St Leonards",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.83077000",
+    "longitude": "-1.84377000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +392,19 @@
     "country_code": "GB",
     "latitude": "50.95807000",
     "longitude": "-2.37548000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51505,
+    "name": "Sturminster Marshall",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.79968000",
+    "longitude": "-2.07615000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,17 +416,55 @@
     "country_code": "GB",
     "latitude": "50.92681000",
     "longitude": "-2.30515000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 51571,
-    "name": "Templecombe",
+    "id": 51528,
+    "name": "Swanage",
     "state_id": 2345,
     "state_code": "DOR",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "50.99908000",
-    "longitude": "-2.41578000",
+    "latitude": "50.60923000",
+    "longitude": "-1.96260000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51612,
+    "name": "Three Legged Cross",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.85000000",
+    "longitude": "-1.88333000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51716,
+    "name": "Verwood",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.87575000",
+    "longitude": "-1.87023000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51749,
+    "name": "Wareham",
+    "state_id": 2345,
+    "state_code": "DOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.68792000",
+    "longitude": "-2.11058000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,17 +476,19 @@
     "country_code": "GB",
     "latitude": "50.61448000",
     "longitude": "-2.45991000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 52021,
-    "name": "Yeovil",
+    "id": 51978,
+    "name": "Wool",
     "state_id": 2345,
     "state_code": "DOR",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "50.94159000",
-    "longitude": "-2.63211000",
+    "latitude": "50.67966000",
+    "longitude": "-2.21890000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +500,7 @@
     "country_code": "GB",
     "latitude": "50.89579000",
     "longitude": "-2.57959000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

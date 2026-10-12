@@ -1,27 +1,5 @@
 [
   {
-    "id": 48377,
-    "name": "Banstead",
-    "state_id": 2313,
-    "state_code": "STN",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.32233000",
-    "longitude": "-0.20685000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48566,
-    "name": "Bletchingley",
-    "state_id": 2313,
-    "state_code": "STN",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.24059000",
-    "longitude": "-0.10038000",
-    "wikiDataId": null
-  },
-  {
     "id": 48874,
     "name": "Carshalton",
     "state_id": 2313,
@@ -30,6 +8,7 @@
     "country_code": "GB",
     "latitude": "51.36829000",
     "longitude": "-0.16755000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +20,7 @@
     "country_code": "GB",
     "latitude": "51.36179000",
     "longitude": "-0.21977000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +32,7 @@
     "country_code": "GB",
     "latitude": "51.32002000",
     "longitude": "-0.14088000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +44,7 @@
     "country_code": "GB",
     "latitude": "51.35000000",
     "longitude": "-0.20000000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

@@ -8,6 +8,31 @@
     "country_code": "ET",
     "latitude": "10.00000000",
     "longitude": "34.50000000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164704,
+    "name": "Bambesi",
+    "state_id": 9,
+    "state_code": "BE",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "9.75000000",
+    "longitude": "34.73333000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164708,
+    "name": "Mambuk",
+    "state_id": 9,
+    "state_code": "BE",
+    "country_id": 70,
+    "country_code": "ET",
+    "latitude": "11.28333000",
+    "longitude": "36.21667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +44,7 @@
     "country_code": "ET",
     "latitude": "10.42673000",
     "longitude": "35.71975000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

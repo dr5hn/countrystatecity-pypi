@@ -1,13 +1,26 @@
 [
   {
-    "id": 48367,
-    "name": "Banbury",
+    "id": 48571,
+    "name": "Blisworth",
     "state_id": 5462,
     "state_code": "WNH",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.06320000",
-    "longitude": "-1.34222000",
+    "latitude": "52.17498000",
+    "longitude": "-0.94131000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48643,
+    "name": "Brackley",
+    "state_id": 5462,
+    "state_code": "WNH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.03333000",
+    "longitude": "-1.15000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,19 @@
     "country_code": "GB",
     "latitude": "52.28979000",
     "longitude": "-1.20266000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48709,
+    "name": "Brixworth",
+    "state_id": 5462,
+    "state_code": "WNH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.32912000",
+    "longitude": "-0.90350000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +56,7 @@
     "country_code": "GB",
     "latitude": "52.21006000",
     "longitude": "-1.01304000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +68,31 @@
     "country_code": "GB",
     "latitude": "52.17546000",
     "longitude": "-1.24566000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49058,
+    "name": "Cogenhoe",
+    "state_id": 5462,
+    "state_code": "WNH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.23758000",
+    "longitude": "-0.78381000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49157,
+    "name": "Crick",
+    "state_id": 5462,
+    "state_code": "WNH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.34808000",
+    "longitude": "-1.13708000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,17 +104,19 @@
     "country_code": "GB",
     "latitude": "52.25688000",
     "longitude": "-1.16066000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 49345,
-    "name": "Dunchurch",
+    "id": 49249,
+    "name": "Deanshanger",
     "state_id": 5462,
     "state_code": "WNH",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.33757000",
-    "longitude": "-1.29136000",
+    "latitude": "52.04996000",
+    "longitude": "-0.88663000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +128,7 @@
     "country_code": "GB",
     "latitude": "52.13333000",
     "longitude": "-1.60000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +140,55 @@
     "country_code": "GB",
     "latitude": "52.23647000",
     "longitude": "-1.05726000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 49803,
-    "name": "Harbury",
+    "id": 49770,
+    "name": "Hackleton",
     "state_id": 5462,
     "state_code": "WNH",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.23537000",
-    "longitude": "-1.45706000",
+    "latitude": "52.18798000",
+    "longitude": "-0.82312000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49804,
+    "name": "Hardingstone",
+    "state_id": 5462,
+    "state_code": "WNH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.21358000",
+    "longitude": "-0.88582000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49813,
+    "name": "Harpole",
+    "state_id": 5462,
+    "state_code": "WNH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.24246000",
+    "longitude": "-0.98937000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49827,
+    "name": "Hartwell",
+    "state_id": 5462,
+    "state_code": "WNH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.14616000",
+    "longitude": "-0.85376000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +200,7 @@
     "country_code": "GB",
     "latitude": "52.16798000",
     "longitude": "-1.21837000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,39 +212,43 @@
     "country_code": "GB",
     "latitude": "52.33375000",
     "longitude": "-1.17505000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 50160,
-    "name": "Kineton",
+    "id": 50167,
+    "name": "Kings Sutton",
     "state_id": 5462,
     "state_code": "WNH",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.15645000",
-    "longitude": "-1.51148000",
+    "latitude": "52.02313000",
+    "longitude": "-1.27613000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 50396,
-    "name": "Long Itchington",
+    "id": 50214,
+    "name": "Kislingbury",
     "state_id": 5462,
     "state_code": "WNH",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.28396000",
-    "longitude": "-1.39243000",
+    "latitude": "52.22976000",
+    "longitude": "-0.97914000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 50424,
-    "name": "Lower Brailes",
+    "id": 50392,
+    "name": "Long Buckby",
     "state_id": 5462,
     "state_code": "WNH",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.05034000",
-    "longitude": "-1.54176000",
+    "latitude": "52.30260000",
+    "longitude": "-1.08113000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,50 +260,79 @@
     "country_code": "GB",
     "latitude": "52.22123000",
     "longitude": "-1.03452000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 51141,
-    "name": "Rugby",
+    "id": 50773,
+    "name": "Northampton",
     "state_id": 5462,
     "state_code": "WNH",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.37092000",
-    "longitude": "-1.26417000",
+    "latitude": "52.25000000",
+    "longitude": "-0.88333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 51285,
-    "name": "Shipston on Stour",
+    "id": 50976,
+    "name": "Potterspury",
     "state_id": 5462,
     "state_code": "WNH",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.06057000",
-    "longitude": "-1.62778000",
+    "latitude": "52.08288000",
+    "longitude": "-0.89676000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 51370,
-    "name": "Southam",
+    "id": 51091,
+    "name": "Roade",
     "state_id": 5462,
     "state_code": "WNH",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.25266000",
-    "longitude": "-1.38840000",
+    "latitude": "52.15824000",
+    "longitude": "-0.89745000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 51458,
-    "name": "Stockton",
+    "id": 51311,
+    "name": "Silverstone",
     "state_id": 5462,
     "state_code": "WNH",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.27181000",
-    "longitude": "-1.36055000",
+    "latitude": "52.09216000",
+    "longitude": "-1.02602000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51392,
+    "name": "Spratton",
+    "state_id": 5462,
+    "state_code": "WNH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.32447000",
+    "longitude": "-0.95386000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51654,
+    "name": "Towcester",
+    "state_id": 5462,
+    "state_code": "WNH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.13359000",
+    "longitude": "-0.99057000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +344,31 @@
     "country_code": "GB",
     "latitude": "52.22955000",
     "longitude": "-1.08371000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51785,
+    "name": "Welford",
+    "state_id": 5462,
+    "state_code": "WNH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.41706000",
+    "longitude": "-1.05871000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51818,
+    "name": "West Haddon",
+    "state_id": 5462,
+    "state_code": "WNH",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.34168000",
+    "longitude": "-1.07804000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

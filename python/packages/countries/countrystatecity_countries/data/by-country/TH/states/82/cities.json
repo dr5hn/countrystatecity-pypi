@@ -1,16 +1,5 @@
 [
   {
-    "id": 106383,
-    "name": "Ban Ao Nang",
-    "state_id": 3549,
-    "state_code": "82",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "8.04580000",
-    "longitude": "98.81035000",
-    "wikiDataId": null
-  },
-  {
     "id": 106393,
     "name": "Ban Khao Lak",
     "state_id": 3549,
@@ -19,6 +8,7 @@
     "country_code": "TH",
     "latitude": "8.61501000",
     "longitude": "98.23994000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +20,7 @@
     "country_code": "TH",
     "latitude": "7.95458000",
     "longitude": "98.58989000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +32,7 @@
     "country_code": "TH",
     "latitude": "8.74139000",
     "longitude": "98.47542000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -50,8 +42,9 @@
     "state_code": "82",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "9.18972000",
-    "longitude": "98.40806000",
+    "latitude": "9.19397000",
+    "longitude": "98.41514000",
+    "county_id": 6190,
     "wikiDataId": null
   },
   {
@@ -61,19 +54,9 @@
     "state_code": "82",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "8.06549000",
-    "longitude": "98.57851000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105567,
-    "name": "Mueang Phangnga",
-    "state_id": 3549,
-    "state_code": "82",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "8.49350000",
-    "longitude": "98.50775000",
+    "latitude": "8.11870000",
+    "longitude": "98.59050000",
+    "county_id": 6186,
     "wikiDataId": null
   },
   {
@@ -85,6 +68,7 @@
     "country_code": "TH",
     "latitude": "8.45091000",
     "longitude": "98.52985000",
+    "county_id": 6185,
     "wikiDataId": null
   },
   {
@@ -94,8 +78,9 @@
     "state_code": "82",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "8.86883000",
-    "longitude": "98.33892000",
+    "latitude": "8.87050000",
+    "longitude": "98.34383000",
+    "county_id": 6189,
     "wikiDataId": null
   },
   {
@@ -107,6 +92,7 @@
     "country_code": "TH",
     "latitude": "8.28433000",
     "longitude": "98.38950000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -116,8 +102,9 @@
     "state_code": "82",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "8.48995000",
-    "longitude": "98.31292000",
+    "latitude": "8.39440000",
+    "longitude": "98.25990000",
+    "county_id": 6192,
     "wikiDataId": null
   },
   {
@@ -127,8 +114,9 @@
     "state_code": "82",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "8.53768000",
-    "longitude": "98.63208000",
+    "latitude": "8.51570000",
+    "longitude": "98.64130000",
+    "county_id": 6191,
     "wikiDataId": null
   }
 ]

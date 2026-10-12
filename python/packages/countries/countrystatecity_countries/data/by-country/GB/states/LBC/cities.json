@@ -8,6 +8,7 @@
     "country_code": "GB",
     "latitude": "54.43333000",
     "longitude": "-6.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "GB",
     "latitude": "54.26312000",
     "longitude": "-5.60981000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,39 +32,31 @@
     "country_code": "GB",
     "latitude": "54.40230000",
     "longitude": "-5.89717000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 49139,
-    "name": "Craigavon",
+    "id": 48873,
+    "name": "Carryduff",
     "state_id": 2460,
     "state_code": "LBC",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "54.44709000",
-    "longitude": "-6.38700000",
+    "latitude": "54.51799000",
+    "longitude": "-5.88713000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 49175,
-    "name": "Crossgar",
+    "id": 49348,
+    "name": "Dundonald",
     "state_id": 2460,
     "state_code": "LBC",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "54.39675000",
-    "longitude": "-5.76061000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49321,
-    "name": "Downpatrick",
-    "state_id": 2460,
-    "state_code": "LBC",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "54.32814000",
-    "longitude": "-5.71529000",
+    "latitude": "54.59196000",
+    "longitude": "-5.79803000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +68,19 @@
     "country_code": "GB",
     "latitude": "54.25750000",
     "longitude": "-5.84455000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49656,
+    "name": "Glenavy",
+    "state_id": 2460,
+    "state_code": "LBC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.59231000",
+    "longitude": "-6.21371000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +92,7 @@
     "country_code": "GB",
     "latitude": "54.46345000",
     "longitude": "-6.07664000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50148,
-    "name": "Killyleagh",
-    "state_id": 2460,
-    "state_code": "LBC",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "54.40135000",
-    "longitude": "-5.64800000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +104,7 @@
     "country_code": "GB",
     "latitude": "54.52337000",
     "longitude": "-6.03527000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,17 +116,7 @@
     "country_code": "GB",
     "latitude": "54.50824000",
     "longitude": "-6.05246000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50468,
-    "name": "Magheralin",
-    "state_id": 2460,
-    "state_code": "LBC",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "54.46695000",
-    "longitude": "-6.25980000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,28 +128,7 @@
     "country_code": "GB",
     "latitude": "54.48021000",
     "longitude": "-6.22822000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51178,
-    "name": "Saintfield",
-    "state_id": 2460,
-    "state_code": "LBC",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "54.46046000",
-    "longitude": "-5.83065000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51751,
-    "name": "Waringstown",
-    "state_id": 2460,
-    "state_code": "LBC",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "54.43431000",
-    "longitude": "-6.29929000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

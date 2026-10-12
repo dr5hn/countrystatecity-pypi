@@ -1,60 +1,5 @@
 [
   {
-    "id": 48411,
-    "name": "Barrowby",
-    "state_id": 2472,
-    "state_code": "RUT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.91636000",
-    "longitude": "-0.69094000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48623,
-    "name": "Bourne",
-    "state_id": 2472,
-    "state_code": "RUT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.76667000",
-    "longitude": "-0.38333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48698,
-    "name": "Brigstock",
-    "state_id": 2472,
-    "state_code": "RUT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.45775000",
-    "longitude": "-0.60834000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49075,
-    "name": "Colsterworth",
-    "state_id": 2472,
-    "state_code": "RUT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.80660000",
-    "longitude": "-0.62056000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49103,
-    "name": "Corby",
-    "state_id": 2472,
-    "state_code": "RUT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.49637000",
-    "longitude": "-0.68939000",
-    "wikiDataId": null
-  },
-  {
     "id": 49104,
     "name": "Corby Glen",
     "state_id": 2472,
@@ -63,6 +8,7 @@
     "country_code": "GB",
     "latitude": "52.81262000",
     "longitude": "-0.51817000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,28 +20,7 @@
     "country_code": "GB",
     "latitude": "52.71384000",
     "longitude": "-0.66330000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49292,
-    "name": "District of Rutland",
-    "state_id": 2472,
-    "state_code": "RUT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.66667000",
-    "longitude": "-0.66667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49422,
-    "name": "Easton on the Hill",
-    "state_id": 2472,
-    "state_code": "RUT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.62733000",
-    "longitude": "-0.50571000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +32,7 @@
     "country_code": "GB",
     "latitude": "52.63786000",
     "longitude": "-0.63189000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +44,7 @@
     "country_code": "GB",
     "latitude": "52.66722000",
     "longitude": "-0.59601000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +56,7 @@
     "country_code": "GB",
     "latitude": "52.70187000",
     "longitude": "-0.45250000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,28 +68,7 @@
     "country_code": "GB",
     "latitude": "52.69106000",
     "longitude": "-0.63463000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49699,
-    "name": "Grantham",
-    "state_id": 2472,
-    "state_code": "RUT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.91149000",
-    "longitude": "-0.64184000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49718,
-    "name": "Great Gonerby",
-    "state_id": 2472,
-    "state_code": "RUT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.93507000",
-    "longitude": "-0.66685000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +80,7 @@
     "country_code": "GB",
     "latitude": "52.72059000",
     "longitude": "-0.63068000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +92,7 @@
     "country_code": "GB",
     "latitude": "52.62804000",
     "longitude": "-0.55459000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +104,7 @@
     "country_code": "GB",
     "latitude": "52.69152000",
     "longitude": "-0.75385000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +116,7 @@
     "country_code": "GB",
     "latitude": "52.63223000",
     "longitude": "-0.70038000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,17 +128,7 @@
     "country_code": "GB",
     "latitude": "52.73806000",
     "longitude": "-0.68630000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50544,
-    "name": "Melton Mowbray",
-    "state_id": 2472,
-    "state_code": "RUT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.76588000",
-    "longitude": "-0.88693000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +140,7 @@
     "country_code": "GB",
     "latitude": "52.59669000",
     "longitude": "-0.63704000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +152,7 @@
     "country_code": "GB",
     "latitude": "52.62108000",
     "longitude": "-0.61987000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +164,7 @@
     "country_code": "GB",
     "latitude": "52.66667000",
     "longitude": "-0.73333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +176,7 @@
     "country_code": "GB",
     "latitude": "52.68585000",
     "longitude": "-0.46846000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +188,7 @@
     "country_code": "GB",
     "latitude": "52.57489000",
     "longitude": "-0.66759000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,28 +200,7 @@
     "country_code": "GB",
     "latitude": "52.60857000",
     "longitude": "-0.61232000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51368,
-    "name": "South Witham",
-    "state_id": 2472,
-    "state_code": "RUT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.76476000",
-    "longitude": "-0.62811000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51417,
-    "name": "Stamford",
-    "state_id": 2472,
-    "state_code": "RUT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.65000000",
-    "longitude": "-0.48333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,6 +212,7 @@
     "country_code": "GB",
     "latitude": "52.58803000",
     "longitude": "-0.72272000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

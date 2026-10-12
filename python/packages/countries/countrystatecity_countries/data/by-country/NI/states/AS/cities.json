@@ -8,6 +8,7 @@
     "country_code": "NI",
     "latitude": "12.01366000",
     "longitude": "-83.76353000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "NI",
     "latitude": "12.78571000",
     "longitude": "-85.12269000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,19 @@
     "country_code": "NI",
     "latitude": "12.17575000",
     "longitude": "-83.06145000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165326,
+    "name": "El Ayote",
+    "state_id": 952,
+    "state_code": "AS",
+    "country_id": 159,
+    "country_code": "NI",
+    "latitude": "12.49952000",
+    "longitude": "-84.81519000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +56,7 @@
     "country_code": "NI",
     "latitude": "12.15965000",
     "longitude": "-84.21952000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,19 @@
     "country_code": "NI",
     "latitude": "12.82247000",
     "longitude": "-84.19629000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165328,
+    "name": "Karawala",
+    "state_id": 952,
+    "state_code": "AS",
+    "country_id": 159,
+    "country_code": "NI",
+    "latitude": "12.93072000",
+    "longitude": "-83.57724000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +92,7 @@
     "country_code": "NI",
     "latitude": "12.24096000",
     "longitude": "-83.74517000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +104,7 @@
     "country_code": "NI",
     "latitude": "13.11290000",
     "longitude": "-84.18588000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +116,7 @@
     "country_code": "NI",
     "latitude": "12.34294000",
     "longitude": "-83.67123000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +128,7 @@
     "country_code": "NI",
     "latitude": "12.06999000",
     "longitude": "-84.53503000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +140,7 @@
     "country_code": "NI",
     "latitude": "11.68758000",
     "longitude": "-84.45616000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

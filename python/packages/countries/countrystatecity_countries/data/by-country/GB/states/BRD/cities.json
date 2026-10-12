@@ -8,6 +8,7 @@
     "country_code": "GB",
     "latitude": "53.94452000",
     "longitude": "-1.88424000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "GB",
     "latitude": "53.84711000",
     "longitude": "-1.78785000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "GB",
     "latitude": "53.84861000",
     "longitude": "-1.83857000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "GB",
     "latitude": "53.83333000",
     "longitude": "-1.83333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,28 +56,7 @@
     "country_code": "GB",
     "latitude": "53.91020000",
     "longitude": "-1.75798000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49027,
-    "name": "Cleckheaton",
-    "state_id": 2529,
-    "state_code": "BRD",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.72405000",
-    "longitude": "-1.71294000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49173,
-    "name": "Cross Hills",
-    "state_id": 2529,
-    "state_code": "BRD",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.90606000",
-    "longitude": "-1.98492000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +68,7 @@
     "country_code": "GB",
     "latitude": "53.82444000",
     "longitude": "-1.89730000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,39 +80,19 @@
     "country_code": "GB",
     "latitude": "53.80189000",
     "longitude": "-1.89503000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 49470,
-    "name": "Embsay",
+    "id": 49854,
+    "name": "Haworth",
     "state_id": 2529,
     "state_code": "BRD",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.97664000",
-    "longitude": "-1.99282000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49665,
-    "name": "Glusburn",
-    "state_id": 2529,
-    "state_code": "BRD",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.90000000",
-    "longitude": "-2.00000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49765,
-    "name": "Guiseley",
-    "state_id": 2529,
-    "state_code": "BRD",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.87561000",
-    "longitude": "-1.71232000",
+    "latitude": "53.82905000",
+    "longitude": "-1.94827000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +104,7 @@
     "country_code": "GB",
     "latitude": "53.92449000",
     "longitude": "-1.82326000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,17 +116,7 @@
     "country_code": "GB",
     "latitude": "53.86791000",
     "longitude": "-1.90664000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50421,
-    "name": "Low Bradley",
-    "state_id": 2529,
-    "state_code": "BRD",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.93217000",
-    "longitude": "-1.99646000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,28 +128,19 @@
     "country_code": "GB",
     "latitude": "53.89041000",
     "longitude": "-1.74395000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 50824,
-    "name": "Otley",
+    "id": 50839,
+    "name": "Oxenhope",
     "state_id": 2529,
     "state_code": "BRD",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.90553000",
-    "longitude": "-1.69383000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51001,
-    "name": "Pudsey",
-    "state_id": 2529,
-    "state_code": "BRD",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.79538000",
-    "longitude": "-1.66134000",
+    "latitude": "53.81233000",
+    "longitude": "-1.95196000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +152,7 @@
     "country_code": "GB",
     "latitude": "53.76657000",
     "longitude": "-1.84912000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +164,7 @@
     "country_code": "GB",
     "latitude": "53.83333000",
     "longitude": "-1.76667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,17 +176,7 @@
     "country_code": "GB",
     "latitude": "53.91443000",
     "longitude": "-1.93802000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51326,
-    "name": "Skipton",
-    "state_id": 2529,
-    "state_code": "BRD",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.96144000",
-    "longitude": "-2.01676000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +188,7 @@
     "country_code": "GB",
     "latitude": "53.88333000",
     "longitude": "-1.95000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,17 +200,7 @@
     "country_code": "GB",
     "latitude": "53.82084000",
     "longitude": "-1.85959000",
-    "wikiDataId": null
-  },
-  {
-    "id": 52018,
-    "name": "Yeadon",
-    "state_id": 2529,
-    "state_code": "BRD",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.86437000",
-    "longitude": "-1.68743000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

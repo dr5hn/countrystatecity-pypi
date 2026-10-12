@@ -8,6 +8,7 @@
     "country_code": "RS",
     "latitude": "43.06573340",
     "longitude": "22.38719690",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "RS",
     "latitude": "43.21421070",
     "longitude": "22.29898440",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "RS",
     "latitude": "43.02140830",
     "longitude": "22.73950980",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,17 +44,7 @@
     "country_code": "RS",
     "latitude": "43.17528000",
     "longitude": "22.59278000",
-    "wikiDataId": null
-  },
-  {
-    "id": 97402,
-    "name": "Sumulicë",
-    "state_id": 3712,
-    "state_code": "22",
-    "country_id": 196,
-    "country_code": "RS",
-    "latitude": "42.38682000",
-    "longitude": "21.73400000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

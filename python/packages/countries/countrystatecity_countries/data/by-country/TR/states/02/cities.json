@@ -1,5 +1,17 @@
 [
   {
+    "id": 165606,
+    "name": "Adıyaman",
+    "state_id": 2155,
+    "state_code": "02",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "37.76441000",
+    "longitude": "38.27629000",
+    "county_id": 6838,
+    "wikiDataId": null
+  },
+  {
     "id": 107332,
     "name": "Besni",
     "state_id": 2155,
@@ -8,6 +20,7 @@
     "country_code": "TR",
     "latitude": "37.69278000",
     "longitude": "37.86111000",
+    "county_id": 6911,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,7 @@
     "country_code": "TR",
     "latitude": "38.02560000",
     "longitude": "38.23665000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,7 @@
     "country_code": "TR",
     "latitude": "37.95000000",
     "longitude": "39.01667000",
+    "county_id": 7069,
     "wikiDataId": null
   },
   {
@@ -41,6 +56,7 @@
     "country_code": "TR",
     "latitude": "37.78361000",
     "longitude": "37.63667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,17 +68,7 @@
     "country_code": "TR",
     "latitude": "37.78552000",
     "longitude": "38.62370000",
-    "wikiDataId": null
-  },
-  {
-    "id": 108194,
-    "name": "Merkez",
-    "state_id": 2155,
-    "state_code": "02",
-    "country_id": 225,
-    "country_code": "TR",
-    "latitude": "37.74454000",
-    "longitude": "38.26801000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "TR",
     "latitude": "37.58194000",
     "longitude": "38.47417000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +92,7 @@
     "country_code": "TR",
     "latitude": "38.03645000",
     "longitude": "38.61257000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +104,7 @@
     "country_code": "TR",
     "latitude": "37.79529000",
     "longitude": "37.91610000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

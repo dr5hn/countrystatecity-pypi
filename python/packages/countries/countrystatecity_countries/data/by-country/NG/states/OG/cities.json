@@ -8,6 +8,7 @@
     "country_code": "NG",
     "latitude": "7.15571000",
     "longitude": "3.34509000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "NG",
     "latitude": "6.60000000",
     "longitude": "2.93333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "NG",
     "latitude": "6.63333000",
     "longitude": "2.73333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "NG",
     "latitude": "6.81491000",
     "longitude": "3.19518000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "NG",
     "latitude": "6.77837000",
     "longitude": "4.03386000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "NG",
     "latitude": "6.97198000",
     "longitude": "3.99938000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,19 @@
     "country_code": "NG",
     "latitude": "6.81944000",
     "longitude": "3.91731000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165306,
+    "name": "Ijoko",
+    "state_id": 323,
+    "state_code": "OG",
+    "country_id": 161,
+    "country_code": "NG",
+    "latitude": "6.74241000",
+    "longitude": "3.26217000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +104,7 @@
     "country_code": "NG",
     "latitude": "6.88901000",
     "longitude": "3.01416000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +116,7 @@
     "country_code": "NG",
     "latitude": "7.44888000",
     "longitude": "2.84289000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +128,7 @@
     "country_code": "NG",
     "latitude": "6.91002000",
     "longitude": "3.66557000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +140,7 @@
     "country_code": "NG",
     "latitude": "6.99345000",
     "longitude": "3.68148000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +152,7 @@
     "country_code": "NG",
     "latitude": "6.94851000",
     "longitude": "3.50561000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

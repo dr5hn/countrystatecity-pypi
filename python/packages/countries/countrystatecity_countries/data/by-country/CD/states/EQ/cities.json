@@ -1,24 +1,14 @@
 [
   {
-    "id": 17245,
-    "name": "Gemena",
+    "id": 164543,
+    "name": "Basankusu",
     "state_id": 2744,
     "state_code": "EQ",
     "country_id": 51,
     "country_code": "CD",
-    "latitude": "3.25651000",
-    "longitude": "19.77234000",
-    "wikiDataId": null
-  },
-  {
-    "id": 17269,
-    "name": "Lisala",
-    "state_id": 2744,
-    "state_code": "EQ",
-    "country_id": 51,
-    "country_code": "CD",
-    "latitude": "2.15127000",
-    "longitude": "21.51672000",
+    "latitude": "1.22095000",
+    "longitude": "19.80205000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +20,7 @@
     "country_code": "CD",
     "latitude": "-1.06046000",
     "longitude": "17.18210000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +32,7 @@
     "country_code": "CD",
     "latitude": "0.04865000",
     "longitude": "18.26034000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 165605,
+    "name": "Batman",
+    "state_id": 2194,
+    "state_code": "72",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "37.88738000",
+    "longitude": "41.13221000",
+    "county_id": 6903,
+    "wikiDataId": null
+  },
+  {
     "id": 107350,
     "name": "Beşiri",
     "state_id": 2194,
@@ -8,6 +20,7 @@
     "country_code": "TR",
     "latitude": "37.91573000",
     "longitude": "41.28650000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,7 @@
     "country_code": "TR",
     "latitude": "37.59139000",
     "longitude": "41.33278000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,7 @@
     "country_code": "TR",
     "latitude": "37.70612000",
     "longitude": "41.40480000",
+    "county_id": 7644,
     "wikiDataId": null
   },
   {
@@ -41,17 +56,7 @@
     "country_code": "TR",
     "latitude": "38.19249000",
     "longitude": "41.48705000",
-    "wikiDataId": null
-  },
-  {
-    "id": 108186,
-    "name": "Merkez",
-    "state_id": 2194,
-    "state_code": "72",
-    "country_id": 225,
-    "country_code": "TR",
-    "latitude": "37.84362000",
-    "longitude": "41.18341000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "TR",
     "latitude": "38.32767000",
     "longitude": "41.41377000",
+    "county_id": 7314,
     "wikiDataId": null
   }
 ]

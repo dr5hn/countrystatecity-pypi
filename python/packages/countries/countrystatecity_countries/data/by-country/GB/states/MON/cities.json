@@ -1,5 +1,17 @@
 [
   {
+    "id": 48175,
+    "name": "Abergavenny",
+    "state_id": 2402,
+    "state_code": "MON",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.82098000",
+    "longitude": "-3.01743000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 48815,
     "name": "Caerwent",
     "state_id": 2402,
@@ -8,6 +20,7 @@
     "country_code": "GB",
     "latitude": "51.61120000",
     "longitude": "-2.76865000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,7 @@
     "country_code": "GB",
     "latitude": "51.58661000",
     "longitude": "-2.75736000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,43 @@
     "country_code": "GB",
     "latitude": "51.64087000",
     "longitude": "-2.67683000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49644,
+    "name": "Gilwern",
+    "state_id": 2402,
+    "state_code": "MON",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.82475000",
+    "longitude": "-3.09355000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49693,
+    "name": "Govilon",
+    "state_id": 2402,
+    "state_code": "MON",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.81928000",
+    "longitude": "-3.06295000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50360,
+    "name": "Llangybi",
+    "state_id": 2402,
+    "state_code": "MON",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.66583000",
+    "longitude": "-2.90806000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +92,7 @@
     "country_code": "GB",
     "latitude": "51.57944000",
     "longitude": "-2.83139000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,17 +104,7 @@
     "country_code": "GB",
     "latitude": "51.81265000",
     "longitude": "-2.71363000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50620,
-    "name": "Monmouthshire",
-    "state_id": 2402,
-    "state_code": "MON",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.75000000",
-    "longitude": "-2.83333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +116,7 @@
     "country_code": "GB",
     "latitude": "51.76500000",
     "longitude": "-2.85331000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +128,7 @@
     "country_code": "GB",
     "latitude": "51.58854000",
     "longitude": "-2.77868000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +140,7 @@
     "country_code": "GB",
     "latitude": "51.69677000",
     "longitude": "-2.68142000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +152,7 @@
     "country_code": "GB",
     "latitude": "51.57526000",
     "longitude": "-2.81453000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +164,7 @@
     "country_code": "GB",
     "latitude": "51.70347000",
     "longitude": "-2.90332000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

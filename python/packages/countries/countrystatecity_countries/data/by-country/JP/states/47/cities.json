@@ -8,6 +8,7 @@
     "country_code": "JP",
     "latitude": "26.32009910",
     "longitude": "127.76368270",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "JP",
     "latitude": "26.28149680",
     "longitude": "127.77849160",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "JP",
     "latitude": "26.35891020",
     "longitude": "127.86758780",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "JP",
     "latitude": "24.92643100",
     "longitude": "125.24111510",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "JP",
     "latitude": "24.34444410",
     "longitude": "124.18518570",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "JP",
     "latitude": "26.43454260",
     "longitude": "127.82530550",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "JP",
     "latitude": "26.12342010",
     "longitude": "127.66604600",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +92,7 @@
     "country_code": "JP",
     "latitude": "26.32475820",
     "longitude": "127.87873300",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +104,7 @@
     "country_code": "JP",
     "latitude": "24.80546470",
     "longitude": "125.28112960",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +116,7 @@
     "country_code": "JP",
     "latitude": "26.59195990",
     "longitude": "127.97747590",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +128,7 @@
     "country_code": "JP",
     "latitude": "26.21223450",
     "longitude": "127.67914520",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +140,19 @@
     "country_code": "JP",
     "latitude": "26.40293430",
     "longitude": "127.67380810",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165119,
+    "name": "Nakagusuku",
+    "state_id": 853,
+    "state_code": "47",
+    "country_id": 109,
+    "country_code": "JP",
+    "latitude": "26.25000000",
+    "longitude": "127.78333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +164,19 @@
     "country_code": "JP",
     "latitude": "26.16320920",
     "longitude": "127.77055630",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165111,
+    "name": "Nishihara",
+    "state_id": 853,
+    "state_code": "47",
+    "country_id": 109,
+    "country_code": "JP",
+    "latitude": "26.25353000",
+    "longitude": "127.74352000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -149,19 +186,9 @@
     "state_code": "47",
     "country_id": 109,
     "country_code": "JP",
-    "latitude": "26.47489480",
-    "longitude": "127.91146870",
-    "wikiDataId": null
-  },
-  {
-    "id": 64201,
-    "name": "Okinawa Shi",
-    "state_id": 853,
-    "state_code": "47",
-    "country_id": 109,
-    "country_code": "JP",
     "latitude": "26.33437380",
     "longitude": "127.80565970",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +200,7 @@
     "country_code": "JP",
     "latitude": "26.17719960",
     "longitude": "127.68128290",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +212,7 @@
     "country_code": "JP",
     "latitude": "26.24592420",
     "longitude": "127.72197690",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +224,43 @@
     "country_code": "JP",
     "latitude": "26.37914960",
     "longitude": "127.85731070",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165112,
+    "name": "Yaese",
+    "state_id": 853,
+    "state_code": "47",
+    "country_id": 109,
+    "country_code": "JP",
+    "latitude": "26.12733000",
+    "longitude": "127.74320000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165110,
+    "name": "Yomitan",
+    "state_id": 853,
+    "state_code": "47",
+    "country_id": 109,
+    "country_code": "JP",
+    "latitude": "26.40167000",
+    "longitude": "127.74503000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165121,
+    "name": "Yonabaru",
+    "state_id": 853,
+    "state_code": "47",
+    "country_id": 109,
+    "country_code": "JP",
+    "latitude": "26.20437000",
+    "longitude": "127.75267000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +272,7 @@
     "country_code": "JP",
     "latitude": "24.46667000",
     "longitude": "123.00000000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

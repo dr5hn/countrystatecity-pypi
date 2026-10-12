@@ -8,17 +8,19 @@
     "country_code": "GB",
     "latitude": "53.35045000",
     "longitude": "-2.54488000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 48601,
-    "name": "Borough of Halton",
+    "id": 48795,
+    "name": "Burtonwood",
     "state_id": 2420,
     "state_code": "WRT",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.33333000",
-    "longitude": "-2.75000000",
+    "latitude": "53.42948000",
+    "longitude": "-2.65852000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,28 +32,7 @@
     "country_code": "GB",
     "latitude": "53.45110000",
     "longitude": "-2.52104000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49233,
-    "name": "Daresbury",
-    "state_id": 2420,
-    "state_code": "WRT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.34184000",
-    "longitude": "-2.63500000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49613,
-    "name": "Frodsham",
-    "state_id": 2420,
-    "state_code": "WRT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.29485000",
-    "longitude": "-2.72745000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +44,7 @@
     "country_code": "GB",
     "latitude": "53.37204000",
     "longitude": "-2.54675000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,17 +56,7 @@
     "country_code": "GB",
     "latitude": "53.39234000",
     "longitude": "-2.63994000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49790,
-    "name": "Halton",
-    "state_id": 2420,
-    "state_code": "WRT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.31667000",
-    "longitude": "-2.70000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,39 +68,7 @@
     "country_code": "GB",
     "latitude": "53.38105000",
     "longitude": "-2.47763000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50734,
-    "name": "Newton-le-Willows",
-    "state_id": 2420,
-    "state_code": "WRT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.45000000",
-    "longitude": "-2.60000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50782,
-    "name": "Northwich",
-    "state_id": 2420,
-    "state_code": "WRT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.25882000",
-    "longitude": "-2.52025000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51144,
-    "name": "Runcorn",
-    "state_id": 2420,
-    "state_code": "WRT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.34174000",
-    "longitude": "-2.73124000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +80,7 @@
     "country_code": "GB",
     "latitude": "53.37084000",
     "longitude": "-2.57406000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,28 +92,7 @@
     "country_code": "GB",
     "latitude": "53.41667000",
     "longitude": "-2.58333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51779,
-    "name": "Weaverham",
-    "state_id": 2420,
-    "state_code": "WRT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.26018000",
-    "longitude": "-2.57291000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51897,
-    "name": "Widnes",
-    "state_id": 2420,
-    "state_code": "WRT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.36180000",
-    "longitude": "-2.73406000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +104,7 @@
     "country_code": "GB",
     "latitude": "53.43333000",
     "longitude": "-2.60000000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

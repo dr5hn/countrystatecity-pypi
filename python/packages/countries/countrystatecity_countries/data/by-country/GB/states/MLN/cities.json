@@ -8,6 +8,7 @@
     "country_code": "GB",
     "latitude": "55.87030000",
     "longitude": "-3.17814000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "GB",
     "latitude": "55.87329000",
     "longitude": "-3.10510000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,19 @@
     "country_code": "GB",
     "latitude": "55.89317000",
     "longitude": "-3.06806000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49231,
+    "name": "Danderhall",
+    "state_id": 2519,
+    "state_code": "MLN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.91434000",
+    "longitude": "-3.11062000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +56,7 @@
     "country_code": "GB",
     "latitude": "55.84594000",
     "longitude": "-3.04563000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,7 @@
     "country_code": "GB",
     "latitude": "55.87945000",
     "longitude": "-3.15874000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "GB",
     "latitude": "55.87172000",
     "longitude": "-3.03875000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,17 +92,7 @@
     "country_code": "GB",
     "latitude": "55.82347000",
     "longitude": "-3.09334000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50867,
-    "name": "Peebles",
-    "state_id": 2519,
-    "state_code": "MLN",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "55.65190000",
-    "longitude": "-3.18880000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +104,7 @@
     "country_code": "GB",
     "latitude": "55.83116000",
     "longitude": "-3.22608000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +116,7 @@
     "country_code": "GB",
     "latitude": "55.85075000",
     "longitude": "-3.13625000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,17 +128,7 @@
     "country_code": "GB",
     "latitude": "55.85749000",
     "longitude": "-3.16895000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51825,
-    "name": "West Linton",
-    "state_id": 2519,
-    "state_code": "MLN",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "55.74972000",
-    "longitude": "-3.35607000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

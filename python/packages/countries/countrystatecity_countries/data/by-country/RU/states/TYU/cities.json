@@ -8,6 +8,7 @@
     "country_code": "RU",
     "latitude": "58.12861000",
     "longitude": "68.59444000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "RU",
     "latitude": "56.28748000",
     "longitude": "70.45553000",
+    "county_id": 10489,
     "wikiDataId": null
   },
   {
@@ -30,17 +32,7 @@
     "country_code": "RU",
     "latitude": "57.10679000",
     "longitude": "65.75755000",
-    "wikiDataId": null
-  },
-  {
-    "id": 97674,
-    "name": "Armizonskiy Rayon",
-    "state_id": 1907,
-    "state_code": "TYU",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "56.00000000",
-    "longitude": "67.58333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +44,7 @@
     "country_code": "RU",
     "latitude": "55.94611000",
     "longitude": "67.67361000",
+    "county_id": 10490,
     "wikiDataId": null
   },
   {
@@ -63,17 +56,19 @@
     "country_code": "RU",
     "latitude": "56.86018000",
     "longitude": "68.63754000",
+    "county_id": 10491,
     "wikiDataId": null
   },
   {
     "id": 97890,
-    "name": "Berdyuzhskiy Rayon",
+    "name": "Berdyuzh’ye",
     "state_id": 1907,
     "state_code": "TYU",
     "country_id": 182,
     "country_code": "RU",
-    "latitude": "55.83333000",
-    "longitude": "68.58333000",
+    "latitude": "55.80416667",
+    "longitude": "68.30000000",
+    "county_id": 10492,
     "wikiDataId": null
   },
   {
@@ -85,6 +80,7 @@
     "country_code": "RU",
     "latitude": "56.89375000",
     "longitude": "65.89378000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +92,7 @@
     "country_code": "RU",
     "latitude": "57.04096000",
     "longitude": "65.72018000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +104,7 @@
     "country_code": "RU",
     "latitude": "56.94635000",
     "longitude": "65.42782000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +116,7 @@
     "country_code": "RU",
     "latitude": "56.39790000",
     "longitude": "68.37279000",
+    "county_id": 10495,
     "wikiDataId": null
   },
   {
@@ -129,6 +128,7 @@
     "country_code": "RU",
     "latitude": "56.41667000",
     "longitude": "68.41667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,17 +140,7 @@
     "country_code": "RU",
     "latitude": "58.33333000",
     "longitude": "68.13333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 98699,
-    "name": "Isetskiy Rayon",
-    "state_id": 1907,
-    "state_code": "TYU",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "56.50000000",
-    "longitude": "65.41667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +152,7 @@
     "country_code": "RU",
     "latitude": "56.48580000",
     "longitude": "65.32260000",
+    "county_id": 10497,
     "wikiDataId": null
   },
   {
@@ -173,6 +164,7 @@
     "country_code": "RU",
     "latitude": "56.11281000",
     "longitude": "69.49015000",
+    "county_id": 10507,
     "wikiDataId": null
   },
   {
@@ -184,17 +176,7 @@
     "country_code": "RU",
     "latitude": "56.16667000",
     "longitude": "69.41667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 98929,
-    "name": "Kazanskiy Rayon",
-    "state_id": 1907,
-    "state_code": "TYU",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "55.58333000",
-    "longitude": "69.41667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +188,7 @@
     "country_code": "RU",
     "latitude": "55.64477000",
     "longitude": "69.23500000",
+    "county_id": 10498,
     "wikiDataId": null
   },
   {
@@ -217,6 +200,7 @@
     "country_code": "RU",
     "latitude": "57.21065000",
     "longitude": "65.60774000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +212,7 @@
     "country_code": "RU",
     "latitude": "58.16667000",
     "longitude": "68.30000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +224,7 @@
     "country_code": "RU",
     "latitude": "57.11108000",
     "longitude": "65.42298000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +236,7 @@
     "country_code": "RU",
     "latitude": "57.67306000",
     "longitude": "66.17250000",
+    "county_id": 10499,
     "wikiDataId": null
   },
   {
@@ -261,6 +248,7 @@
     "country_code": "RU",
     "latitude": "56.48571000",
     "longitude": "66.92413000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,28 +260,19 @@
     "country_code": "RU",
     "latitude": "55.68207000",
     "longitude": "69.20562000",
+    "county_id": 10498,
     "wikiDataId": null
   },
   {
     "id": 100443,
-    "name": "Omutinskiy",
+    "name": "Omutinskoye",
     "state_id": 1907,
     "state_code": "TYU",
     "country_id": 182,
     "country_code": "RU",
     "latitude": "56.47453000",
     "longitude": "67.67087000",
-    "wikiDataId": null
-  },
-  {
-    "id": 100444,
-    "name": "Omutinskiy Rayon",
-    "state_id": 1907,
-    "state_code": "TYU",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "56.41667000",
-    "longitude": "67.58333000",
+    "county_id": 10500,
     "wikiDataId": null
   },
   {
@@ -305,6 +284,7 @@
     "country_code": "RU",
     "latitude": "56.92501000",
     "longitude": "65.53940000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,17 +296,7 @@
     "country_code": "RU",
     "latitude": "55.52835000",
     "longitude": "70.33854000",
-    "wikiDataId": null
-  },
-  {
-    "id": 101396,
-    "name": "Sladkovskiy Rayon",
-    "state_id": 1907,
-    "state_code": "TYU",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "55.66667000",
-    "longitude": "70.16667000",
+    "county_id": 10501,
     "wikiDataId": null
   },
   {
@@ -338,6 +308,7 @@
     "country_code": "RU",
     "latitude": "58.11083000",
     "longitude": "68.32444000",
+    "county_id": 9471,
     "wikiDataId": null
   },
   {
@@ -349,6 +320,7 @@
     "country_code": "RU",
     "latitude": "58.19807000",
     "longitude": "68.25457000",
+    "county_id": 9471,
     "wikiDataId": null
   },
   {
@@ -360,6 +332,7 @@
     "country_code": "RU",
     "latitude": "58.93867000",
     "longitude": "69.13393000",
+    "county_id": 10503,
     "wikiDataId": null
   },
   {
@@ -371,6 +344,7 @@
     "country_code": "RU",
     "latitude": "57.15222000",
     "longitude": "65.52722000",
+    "county_id": 9470,
     "wikiDataId": null
   },
   {
@@ -382,17 +356,7 @@
     "country_code": "RU",
     "latitude": "56.31093000",
     "longitude": "66.26926000",
-    "wikiDataId": null
-  },
-  {
-    "id": 102067,
-    "name": "Uporovskiy Rayon",
-    "state_id": 1907,
-    "state_code": "TYU",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "56.16667000",
-    "longitude": "66.33333000",
+    "county_id": 10504,
     "wikiDataId": null
   },
   {
@@ -404,6 +368,7 @@
     "country_code": "RU",
     "latitude": "56.80158000",
     "longitude": "69.22702000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,6 +380,7 @@
     "country_code": "RU",
     "latitude": "59.14227000",
     "longitude": "68.88881000",
+    "county_id": 10503,
     "wikiDataId": null
   },
   {
@@ -426,17 +392,7 @@
     "country_code": "RU",
     "latitude": "57.93566000",
     "longitude": "69.01953000",
-    "wikiDataId": null
-  },
-  {
-    "id": 102173,
-    "name": "Vagayskiy Rayon",
-    "state_id": 1907,
-    "state_code": "TYU",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "57.58333000",
-    "longitude": "69.16667000",
+    "county_id": 10493,
     "wikiDataId": null
   },
   {
@@ -448,6 +404,7 @@
     "country_code": "RU",
     "latitude": "56.81667000",
     "longitude": "70.61069000",
+    "county_id": 10494,
     "wikiDataId": null
   },
   {
@@ -459,6 +416,7 @@
     "country_code": "RU",
     "latitude": "56.95938000",
     "longitude": "65.77080000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -470,6 +428,7 @@
     "country_code": "RU",
     "latitude": "56.65358000",
     "longitude": "66.30057000",
+    "county_id": 10508,
     "wikiDataId": null
   },
   {
@@ -481,6 +440,7 @@
     "country_code": "RU",
     "latitude": "57.40386000",
     "longitude": "67.06390000",
+    "county_id": 10506,
     "wikiDataId": null
   },
   {
@@ -492,6 +452,7 @@
     "country_code": "RU",
     "latitude": "56.81888000",
     "longitude": "67.39211000",
+    "county_id": 10505,
     "wikiDataId": null
   },
   {
@@ -503,6 +464,7 @@
     "country_code": "RU",
     "latitude": "56.50420000",
     "longitude": "66.55153000",
+    "county_id": 10496,
     "wikiDataId": null
   }
 ]

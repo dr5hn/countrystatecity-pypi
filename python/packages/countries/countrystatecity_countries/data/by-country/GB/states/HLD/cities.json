@@ -8,6 +8,43 @@
     "country_code": "GB",
     "latitude": "57.69596000",
     "longitude": "-4.25510000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48268,
+    "name": "Ardersier",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "57.56681000",
+    "longitude": "-4.03784000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48320,
+    "name": "Aviemore",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "57.19553000",
+    "longitude": "-3.82590000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48345,
+    "name": "Balintore",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "57.75564000",
+    "longitude": "-3.91232000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +56,31 @@
     "country_code": "GB",
     "latitude": "57.48345000",
     "longitude": "-4.46144000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48724,
+    "name": "Brora",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "58.00989000",
+    "longitude": "-3.85182000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48848,
+    "name": "Caol",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "56.83721000",
+    "longitude": "-5.10062000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +92,7 @@
     "country_code": "GB",
     "latitude": "57.56630000",
     "longitude": "-4.43678000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +104,7 @@
     "country_code": "GB",
     "latitude": "57.48699000",
     "longitude": "-4.14150000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +116,19 @@
     "country_code": "GB",
     "latitude": "57.59531000",
     "longitude": "-4.42721000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49310,
+    "name": "Dornoch",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "57.88050000",
+    "longitude": "-4.02879000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +140,7 @@
     "country_code": "GB",
     "latitude": "57.33438000",
     "longitude": "-4.47989000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +152,19 @@
     "country_code": "GB",
     "latitude": "57.66385000",
     "longitude": "-4.34004000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49590,
+    "name": "Fort William",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "56.81648000",
+    "longitude": "-5.11208000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +176,43 @@
     "country_code": "GB",
     "latitude": "57.58087000",
     "longitude": "-4.13263000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 49936,
-    "name": "Highland",
+    "id": 49675,
+    "name": "Golspie",
     "state_id": 2383,
     "state_code": "HLD",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "57.50000000",
-    "longitude": "-5.00000000",
+    "latitude": "57.97266000",
+    "longitude": "-3.97798000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49700,
+    "name": "Grantown on Spey",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "57.33051000",
+    "longitude": "-3.60867000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49785,
+    "name": "Halkirk",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "58.51227000",
+    "longitude": "-3.49155000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +224,7 @@
     "country_code": "GB",
     "latitude": "57.68860000",
     "longitude": "-4.16745000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +236,19 @@
     "country_code": "GB",
     "latitude": "57.47908000",
     "longitude": "-4.22398000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50185,
+    "name": "Kingussie",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "57.07996000",
+    "longitude": "-4.05231000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +260,7 @@
     "country_code": "GB",
     "latitude": "57.57420000",
     "longitude": "-4.44178000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +272,7 @@
     "country_code": "GB",
     "latitude": "57.45125000",
     "longitude": "-4.17592000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +284,43 @@
     "country_code": "GB",
     "latitude": "57.51976000",
     "longitude": "-4.45939000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50661,
+    "name": "Nairn",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "57.58094000",
+    "longitude": "-3.87973000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50736,
+    "name": "Newtonmore",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "57.06567000",
+    "longitude": "-4.12097000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50967,
+    "name": "Portree",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "57.41288000",
+    "longitude": "-6.19418000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +332,7 @@
     "country_code": "GB",
     "latitude": "57.47956000",
     "longitude": "-4.15141000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +344,31 @@
     "country_code": "GB",
     "latitude": "57.58522000",
     "longitude": "-4.54195000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51547,
+    "name": "Tain",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "57.80903000",
+    "longitude": "-4.05991000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51615,
+    "name": "Thurso",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "58.59271000",
+    "longitude": "-3.52594000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +380,19 @@
     "country_code": "GB",
     "latitude": "57.89872000",
     "longitude": "-5.16039000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51890,
+    "name": "Wick",
+    "state_id": 2383,
+    "state_code": "HLD",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "58.43906000",
+    "longitude": "-3.09424000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

@@ -8,17 +8,7 @@
     "country_code": "GB",
     "latitude": "55.99379000",
     "longitude": "-4.58640000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48344,
-    "name": "Balfron",
-    "state_id": 2440,
-    "state_code": "WDU",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "56.06809000",
-    "longitude": "-4.33559000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,17 +20,7 @@
     "country_code": "GB",
     "latitude": "56.00000000",
     "longitude": "-4.58333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48537,
-    "name": "Bishopton",
-    "state_id": 2440,
-    "state_code": "WDU",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "55.90969000",
-    "longitude": "-4.50560000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,17 +32,19 @@
     "country_code": "GB",
     "latitude": "55.97944000",
     "longitude": "-4.56380000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 48857,
-    "name": "Cardross",
+    "id": 49043,
+    "name": "Clydebank",
     "state_id": 2440,
     "state_code": "WDU",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "55.96184000",
-    "longitude": "-4.65316000",
+    "latitude": "55.90137000",
+    "longitude": "-4.40570000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +56,7 @@
     "country_code": "GB",
     "latitude": "55.94433000",
     "longitude": "-4.57061000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +68,7 @@
     "country_code": "GB",
     "latitude": "55.92437000",
     "longitude": "-4.41545000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,17 +80,7 @@
     "country_code": "GB",
     "latitude": "55.92853000",
     "longitude": "-4.38509000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50147,
-    "name": "Killearn",
-    "state_id": 2440,
-    "state_code": "WDU",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "56.04239000",
-    "longitude": "-4.36840000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +92,7 @@
     "country_code": "GB",
     "latitude": "55.92241000",
     "longitude": "-4.45567000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +104,7 @@
     "country_code": "GB",
     "latitude": "55.97200000",
     "longitude": "-4.58399000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +116,7 @@
     "country_code": "GB",
     "latitude": "55.97132000",
     "longitude": "-4.57928000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +128,7 @@
     "country_code": "GB",
     "latitude": "55.96667000",
     "longitude": "-4.53333000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

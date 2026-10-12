@@ -8,6 +8,7 @@
     "country_code": "DZ",
     "latitude": "36.52389000",
     "longitude": "2.86131000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "DZ",
     "latitude": "36.47004000",
     "longitude": "2.82770000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "DZ",
     "latitude": "36.46298000",
     "longitude": "2.81464000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "DZ",
     "latitude": "36.57413000",
     "longitude": "2.91214000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "DZ",
     "latitude": "36.54178000",
     "longitude": "3.08100000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "DZ",
     "latitude": "36.53167000",
     "longitude": "2.99194000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "DZ",
     "latitude": "36.57722000",
     "longitude": "3.00917000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +92,19 @@
     "country_code": "DZ",
     "latitude": "36.46293000",
     "longitude": "2.73873000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 31328,
+    "name": "El Affroun",
+    "state_id": 1111,
+    "state_code": "09",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.47010000",
+    "longitude": "2.62528000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +116,7 @@
     "country_code": "DZ",
     "latitude": "36.56471000",
     "longitude": "3.15434000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,17 +128,31 @@
     "country_code": "DZ",
     "latitude": "36.62040000",
     "longitude": "3.22248000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 31428,
-    "name": "Sidi Moussa",
+    "id": 31389,
+    "name": "Mouzaïa",
     "state_id": 1111,
     "state_code": "09",
     "country_id": 4,
     "country_code": "DZ",
-    "latitude": "36.60637000",
-    "longitude": "3.08783000",
+    "latitude": "36.46695000",
+    "longitude": "2.68991000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 31401,
+    "name": "Oued el Alleug",
+    "state_id": 1111,
+    "state_code": "09",
+    "country_id": 4,
+    "country_code": "DZ",
+    "latitude": "36.55528000",
+    "longitude": "2.79028000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +164,7 @@
     "country_code": "DZ",
     "latitude": "36.51833000",
     "longitude": "2.90528000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

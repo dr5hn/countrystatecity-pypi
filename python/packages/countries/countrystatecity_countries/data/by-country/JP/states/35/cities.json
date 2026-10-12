@@ -8,17 +8,7 @@
     "country_code": "JP",
     "latitude": "34.40000000",
     "longitude": "131.41667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63414,
-    "name": "Hagi Shi",
-    "state_id": 835,
-    "state_code": "35",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "34.43206000",
-    "longitude": "131.50623000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +20,7 @@
     "country_code": "JP",
     "latitude": "33.95500000",
     "longitude": "131.95000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,28 +32,19 @@
     "country_code": "JP",
     "latitude": "33.98247000",
     "longitude": "131.97485000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63528,
-    "name": "Hōfu",
-    "state_id": 835,
-    "state_code": "35",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "34.05000000",
-    "longitude": "131.56667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 63514,
-    "name": "Hofu Shi",
+    "name": "Hōfu",
     "state_id": 835,
     "state_code": "35",
     "country_id": 109,
     "country_code": "JP",
     "latitude": "34.07287000",
     "longitude": "131.56808000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +56,7 @@
     "country_code": "JP",
     "latitude": "34.20608000",
     "longitude": "132.06286000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +68,7 @@
     "country_code": "JP",
     "latitude": "34.00000000",
     "longitude": "131.86667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63853,
-    "name": "Kudamatsu Shi",
-    "state_id": 835,
-    "state_code": "35",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "34.03243000",
-    "longitude": "131.88683000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +80,7 @@
     "country_code": "JP",
     "latitude": "34.21083000",
     "longitude": "131.25170000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,17 +92,7 @@
     "country_code": "JP",
     "latitude": "34.38333000",
     "longitude": "131.20000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64075,
-    "name": "Nagato Shi",
-    "state_id": 835,
-    "state_code": "35",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "34.34880000",
-    "longitude": "131.14703000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +104,7 @@
     "country_code": "JP",
     "latitude": "34.10000000",
     "longitude": "131.40000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +116,7 @@
     "country_code": "JP",
     "latitude": "34.00139000",
     "longitude": "131.18361000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +128,7 @@
     "country_code": "JP",
     "latitude": "34.03956000",
     "longitude": "131.15417000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +140,7 @@
     "country_code": "JP",
     "latitude": "34.17277000",
     "longitude": "130.98766000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +152,7 @@
     "country_code": "JP",
     "latitude": "34.15136000",
     "longitude": "131.82498000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +164,7 @@
     "country_code": "JP",
     "latitude": "34.05000000",
     "longitude": "131.81667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +176,7 @@
     "country_code": "JP",
     "latitude": "33.94306000",
     "longitude": "131.25111000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +188,7 @@
     "country_code": "JP",
     "latitude": "34.17753000",
     "longitude": "131.54667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +200,7 @@
     "country_code": "JP",
     "latitude": "33.96243000",
     "longitude": "132.13111000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

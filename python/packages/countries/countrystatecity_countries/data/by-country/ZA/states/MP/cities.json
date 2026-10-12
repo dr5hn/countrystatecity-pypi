@@ -8,6 +8,7 @@
     "country_code": "ZA",
     "latitude": "-26.66331000",
     "longitude": "28.59016000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,17 +20,7 @@
     "country_code": "ZA",
     "latitude": "-25.78842000",
     "longitude": "31.05319000",
-    "wikiDataId": null
-  },
-  {
-    "id": 131031,
-    "name": "Belfast",
-    "state_id": 937,
-    "state_code": "MP",
-    "country_id": 204,
-    "country_code": "ZA",
-    "latitude": "-25.68991000",
-    "longitude": "30.03504000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +32,7 @@
     "country_code": "ZA",
     "latitude": "-26.45794000",
     "longitude": "29.46553000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +44,7 @@
     "country_code": "ZA",
     "latitude": "-26.30176000",
     "longitude": "29.98696000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +56,7 @@
     "country_code": "ZA",
     "latitude": "-26.06927000",
     "longitude": "30.11489000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +68,7 @@
     "country_code": "ZA",
     "latitude": "-26.14660000",
     "longitude": "28.68322000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +80,7 @@
     "country_code": "ZA",
     "latitude": "-27.01770000",
     "longitude": "30.44979000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +92,19 @@
     "country_code": "ZA",
     "latitude": "-25.35100000",
     "longitude": "31.36100000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 131031,
+    "name": "eMakhazeni",
+    "state_id": 937,
+    "state_code": "MP",
+    "country_id": 204,
+    "country_code": "ZA",
+    "latitude": "-25.68991000",
+    "longitude": "30.03504000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +116,7 @@
     "country_code": "ZA",
     "latitude": "-26.53333000",
     "longitude": "29.06667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +128,7 @@
     "country_code": "ZA",
     "latitude": "-26.53333000",
     "longitude": "29.98333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +140,7 @@
     "country_code": "ZA",
     "latitude": "-26.67100000",
     "longitude": "29.92953000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +152,19 @@
     "country_code": "ZA",
     "latitude": "-26.15881000",
     "longitude": "29.71528000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165899,
+    "name": "Kinross",
+    "state_id": 937,
+    "state_code": "MP",
+    "country_id": 204,
+    "country_code": "ZA",
+    "latitude": "-26.41663000",
+    "longitude": "29.08668000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +176,7 @@
     "country_code": "ZA",
     "latitude": "-25.43321000",
     "longitude": "31.95478000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +188,19 @@
     "country_code": "ZA",
     "latitude": "-26.27391000",
     "longitude": "29.22530000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165877,
+    "name": "Leslie",
+    "state_id": 937,
+    "state_code": "MP",
+    "country_id": 204,
+    "country_code": "ZA",
+    "latitude": "-26.36737000",
+    "longitude": "28.91890000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +212,31 @@
     "country_code": "ZA",
     "latitude": "-25.09598000",
     "longitude": "30.44393000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165876,
+    "name": "Matsulu",
+    "state_id": 937,
+    "state_code": "MP",
+    "country_id": 204,
+    "country_code": "ZA",
+    "latitude": "-25.52297000",
+    "longitude": "31.35693000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 131198,
+    "name": "Mbombela",
+    "state_id": 937,
+    "state_code": "MP",
+    "country_id": 204,
+    "country_code": "ZA",
+    "latitude": "-25.47448000",
+    "longitude": "30.97033000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,17 +248,7 @@
     "country_code": "ZA",
     "latitude": "-25.77507000",
     "longitude": "29.46482000",
-    "wikiDataId": null
-  },
-  {
-    "id": 131198,
-    "name": "Nelspruit",
-    "state_id": 937,
-    "state_code": "MP",
-    "country_id": 204,
-    "country_code": "ZA",
-    "latitude": "-25.47448000",
-    "longitude": "30.97033000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +260,7 @@
     "country_code": "ZA",
     "latitude": "-25.71222000",
     "longitude": "29.42431000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +272,19 @@
     "country_code": "ZA",
     "latitude": "-27.00706000",
     "longitude": "30.81323000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165898,
+    "name": "Sabie",
+    "state_id": 937,
+    "state_code": "MP",
+    "country_id": 204,
+    "country_code": "ZA",
+    "latitude": "-25.09990000",
+    "longitude": "30.78001000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +296,7 @@
     "country_code": "ZA",
     "latitude": "-26.55000000",
     "longitude": "29.16667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +308,7 @@
     "country_code": "ZA",
     "latitude": "-25.11319000",
     "longitude": "29.04454000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +320,19 @@
     "country_code": "ZA",
     "latitude": "-26.93366000",
     "longitude": "29.24152000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165874,
+    "name": "Trichardt",
+    "state_id": 937,
+    "state_code": "MP",
+    "country_id": 204,
+    "country_code": "ZA",
+    "latitude": "-26.49155000",
+    "longitude": "29.22878000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +344,7 @@
     "country_code": "ZA",
     "latitude": "-27.36541000",
     "longitude": "29.88175000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +356,7 @@
     "country_code": "ZA",
     "latitude": "-25.33177000",
     "longitude": "31.01166000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +368,7 @@
     "country_code": "ZA",
     "latitude": "-25.87133000",
     "longitude": "29.23323000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

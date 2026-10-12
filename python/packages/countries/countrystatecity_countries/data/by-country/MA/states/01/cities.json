@@ -1,16 +1,5 @@
 [
   {
-    "id": 67056,
-    "name": "Al Hoceïma",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "35.25165000",
-    "longitude": "-3.93723000",
-    "wikiDataId": null
-  },
-  {
     "id": 67058,
     "name": "Al-Hoceima",
     "state_id": 3324,
@@ -19,6 +8,7 @@
     "country_code": "MA",
     "latitude": "35.00000000",
     "longitude": "-4.25000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,28 +20,7 @@
     "country_code": "MA",
     "latitude": "35.46522000",
     "longitude": "-6.03415000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67085,
-    "name": "Bni Bouayach",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "35.10506000",
-    "longitude": "-3.84028000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67095,
-    "name": "Brikcha",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "34.96732000",
-    "longitude": "-5.57295000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +32,7 @@
     "country_code": "MA",
     "latitude": "35.65970000",
     "longitude": "-5.28525000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,28 +44,7 @@
     "country_code": "MA",
     "latitude": "35.00000000",
     "longitude": "-5.08333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67100,
-    "name": "Chefchaouene",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "35.16878000",
-    "longitude": "-5.26360000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67106,
-    "name": "Derdara",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "35.11041000",
-    "longitude": "-5.29015000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,17 +56,7 @@
     "country_code": "MA",
     "latitude": "35.74000000",
     "longitude": "-5.68000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67120,
-    "name": "Fnidek",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "35.84906000",
-    "longitude": "-5.35747000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,17 +68,7 @@
     "country_code": "MA",
     "latitude": "35.14637000",
     "longitude": "-3.85063000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67153,
-    "name": "Ksar El Kebir",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "35.00044000",
-    "longitude": "-5.90378000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +80,7 @@
     "country_code": "MA",
     "latitude": "35.16667000",
     "longitude": "-5.83333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,39 +92,7 @@
     "country_code": "MA",
     "latitude": "35.85743000",
     "longitude": "-5.35858000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67160,
-    "name": "Martil",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "35.61662000",
-    "longitude": "-5.27522000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67180,
-    "name": "Oued Laou",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "35.44840000",
-    "longitude": "-5.09627000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67183,
-    "name": "Ouezzane",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "34.79584000",
-    "longitude": "-5.57849000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,28 +104,7 @@
     "country_code": "MA",
     "latitude": "34.79759000",
     "longitude": "-5.58603000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67202,
-    "name": "Senada",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "35.07452000",
-    "longitude": "-4.21583000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67230,
-    "name": "Tamorot",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "34.93632000",
-    "longitude": "-4.77940000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,28 +116,7 @@
     "country_code": "MA",
     "latitude": "35.59000000",
     "longitude": "-5.90000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67235,
-    "name": "Tangier",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "35.76727000",
-    "longitude": "-5.79975000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67240,
-    "name": "Targuist",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "34.93769000",
-    "longitude": "-4.31856000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +128,7 @@
     "country_code": "MA",
     "latitude": "35.58333000",
     "longitude": "-5.50000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,28 +140,7 @@
     "country_code": "MA",
     "latitude": "35.23619000",
     "longitude": "-3.95453000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67269,
-    "name": "Zinat",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "35.43000000",
-    "longitude": "-5.40000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 67270,
-    "name": "Zoumi",
-    "state_id": 3324,
-    "state_code": "01",
-    "country_id": 149,
-    "country_code": "MA",
-    "latitude": "34.80321000",
-    "longitude": "-5.34458000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

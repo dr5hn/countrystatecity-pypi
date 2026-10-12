@@ -1,16 +1,5 @@
 [
   {
-    "id": 66449,
-    "name": "Ampara",
-    "state_id": 2808,
-    "state_code": "5",
-    "country_id": 208,
-    "country_code": "LK",
-    "latitude": "7.29754000",
-    "longitude": "81.68202000",
-    "wikiDataId": null
-  },
-  {
     "id": 66450,
     "name": "Ampara District",
     "state_id": 2808,
@@ -19,6 +8,7 @@
     "country_code": "LK",
     "latitude": "7.08330000",
     "longitude": "81.75000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +20,7 @@
     "country_code": "LK",
     "latitude": "7.71020000",
     "longitude": "81.69240000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +32,7 @@
     "country_code": "LK",
     "latitude": "7.75000000",
     "longitude": "81.49970000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,17 +44,7 @@
     "country_code": "LK",
     "latitude": "7.77820000",
     "longitude": "81.60380000",
-    "wikiDataId": null
-  },
-  {
-    "id": 66486,
-    "name": "Kalmunai",
-    "state_id": 2808,
-    "state_code": "5",
-    "country_id": 208,
-    "country_code": "LK",
-    "latitude": "7.40902000",
-    "longitude": "81.83472000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +56,7 @@
     "country_code": "LK",
     "latitude": "8.57780000",
     "longitude": "81.22890000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +68,7 @@
     "country_code": "LK",
     "latitude": "8.58333000",
     "longitude": "81.08333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +80,7 @@
     "country_code": "LK",
     "latitude": "8.13333000",
     "longitude": "81.43333000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

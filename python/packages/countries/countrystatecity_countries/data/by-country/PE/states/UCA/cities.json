@@ -1,5 +1,17 @@
 [
   {
+    "id": 165435,
+    "name": "Aguaytía",
+    "state_id": 3684,
+    "state_code": "UCA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-9.03778000",
+    "longitude": "-75.50906000",
+    "county_id": 8365,
+    "wikiDataId": null
+  },
+  {
     "id": 80565,
     "name": "Atalaya",
     "state_id": 3684,
@@ -8,6 +20,7 @@
     "country_code": "PE",
     "latitude": "-10.38980000",
     "longitude": "-73.21977000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,28 +32,7 @@
     "country_code": "PE",
     "latitude": "-8.47533000",
     "longitude": "-74.80709000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80744,
-    "name": "Padre Abad",
-    "state_id": 3684,
-    "state_code": "UCA",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-8.79680000",
-    "longitude": "-75.42850000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80815,
-    "name": "Provincia de Coronel Portillo",
-    "state_id": 3684,
-    "state_code": "UCA",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-9.50000000",
-    "longitude": "-73.33333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +44,7 @@
     "country_code": "PE",
     "latitude": "-8.37915000",
     "longitude": "-74.55387000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +56,7 @@
     "country_code": "PE",
     "latitude": "-10.37331000",
     "longitude": "-71.58231000",
+    "county_id": 8366,
     "wikiDataId": null
   }
 ]

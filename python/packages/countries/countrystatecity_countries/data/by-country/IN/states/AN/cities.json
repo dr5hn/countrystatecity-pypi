@@ -8,6 +8,19 @@
     "country_code": "IN",
     "latitude": "11.70000000",
     "longitude": "92.71667000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164881,
+    "name": "Diglipur",
+    "state_id": 4023,
+    "state_code": "AN",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "13.26667000",
+    "longitude": "93.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,17 +32,7 @@
     "country_code": "IN",
     "latitude": "7.03002000",
     "longitude": "93.79028000",
-    "wikiDataId": null
-  },
-  {
-    "id": 133482,
-    "name": "Port Blair",
-    "state_id": 4023,
-    "state_code": "AN",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "11.66613000",
-    "longitude": "92.74635000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,19 @@
     "country_code": "IN",
     "latitude": "10.75776000",
     "longitude": "92.52136000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 133482,
+    "name": "Sri Vijaya Puram",
+    "state_id": 4023,
+    "state_code": "AN",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "11.66613000",
+    "longitude": "92.74635000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

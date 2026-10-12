@@ -8,6 +8,7 @@
     "country_code": "UA",
     "latitude": "49.07717000",
     "longitude": "27.68256000",
+    "county_id": 5253,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "UA",
     "latitude": "49.06667000",
     "longitude": "27.68333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "UA",
     "latitude": "48.36782000",
     "longitude": "29.51726000",
+    "county_id": 5252,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "UA",
     "latitude": "49.10986000",
     "longitude": "28.17459000",
+    "county_id": 5253,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "UA",
     "latitude": "48.82257000",
     "longitude": "28.94070000",
+    "county_id": 5255,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "UA",
     "latitude": "48.21509000",
     "longitude": "29.36728000",
+    "county_id": 5252,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "UA",
     "latitude": "48.51106000",
     "longitude": "28.14191000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +92,7 @@
     "country_code": "UA",
     "latitude": "48.54225000",
     "longitude": "28.11473000",
+    "county_id": 5254,
     "wikiDataId": null
   },
   {
@@ -96,6 +104,7 @@
     "country_code": "UA",
     "latitude": "49.00449000",
     "longitude": "29.42559000",
+    "county_id": 5252,
     "wikiDataId": null
   },
   {
@@ -107,6 +116,7 @@
     "country_code": "UA",
     "latitude": "48.81143000",
     "longitude": "29.38977000",
+    "county_id": 5252,
     "wikiDataId": null
   },
   {
@@ -118,6 +128,7 @@
     "country_code": "UA",
     "latitude": "49.10479000",
     "longitude": "29.21773000",
+    "county_id": 5251,
     "wikiDataId": null
   },
   {
@@ -129,6 +140,7 @@
     "country_code": "UA",
     "latitude": "49.45389000",
     "longitude": "28.52608000",
+    "county_id": 5256,
     "wikiDataId": null
   },
   {
@@ -140,6 +152,7 @@
     "country_code": "UA",
     "latitude": "49.55979000",
     "longitude": "27.95754000",
+    "county_id": 5256,
     "wikiDataId": null
   },
   {
@@ -151,17 +164,19 @@
     "country_code": "UA",
     "latitude": "48.39037000",
     "longitude": "28.41092000",
+    "county_id": 5254,
     "wikiDataId": null
   },
   {
     "id": 109792,
-    "name": "Kopayhorod",
+    "name": "Kopaihorod",
     "state_id": 4669,
     "state_code": "05",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "48.85917000",
     "longitude": "27.79690000",
+    "county_id": 5253,
     "wikiDataId": null
   },
   {
@@ -173,6 +188,7 @@
     "country_code": "UA",
     "latitude": "49.71431000",
     "longitude": "28.83385000",
+    "county_id": 5256,
     "wikiDataId": null
   },
   {
@@ -184,6 +200,7 @@
     "country_code": "UA",
     "latitude": "48.38289000",
     "longitude": "28.86622000",
+    "county_id": 5255,
     "wikiDataId": null
   },
   {
@@ -195,6 +212,19 @@
     "country_code": "UA",
     "latitude": "48.68496000",
     "longitude": "29.23679000",
+    "county_id": 5252,
+    "wikiDataId": null
+  },
+  {
+    "id": 149441,
+    "name": "Lisogirka",
+    "state_id": 4669,
+    "state_code": "05",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "49.75916667",
+    "longitude": "27.90305556",
+    "county_id": 5256,
     "wikiDataId": null
   },
   {
@@ -206,6 +236,7 @@
     "country_code": "UA",
     "latitude": "49.32509000",
     "longitude": "28.08094000",
+    "county_id": 5251,
     "wikiDataId": null
   },
   {
@@ -217,6 +248,7 @@
     "country_code": "UA",
     "latitude": "49.37138000",
     "longitude": "28.07033000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +260,7 @@
     "country_code": "UA",
     "latitude": "49.28006000",
     "longitude": "28.93205000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +272,7 @@
     "country_code": "UA",
     "latitude": "48.44598000",
     "longitude": "27.79820000",
+    "county_id": 5254,
     "wikiDataId": null
   },
   {
@@ -250,6 +284,7 @@
     "country_code": "UA",
     "latitude": "48.76763000",
     "longitude": "28.21569000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +296,7 @@
     "country_code": "UA",
     "latitude": "48.72348000",
     "longitude": "27.51892000",
+    "county_id": 5254,
     "wikiDataId": null
   },
   {
@@ -272,6 +308,7 @@
     "country_code": "UA",
     "latitude": "48.97076000",
     "longitude": "28.83779000",
+    "county_id": 5251,
     "wikiDataId": null
   },
   {
@@ -283,6 +320,7 @@
     "country_code": "UA",
     "latitude": "49.37488000",
     "longitude": "28.69955000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +332,7 @@
     "country_code": "UA",
     "latitude": "48.40514000",
     "longitude": "29.24775000",
+    "county_id": 5252,
     "wikiDataId": null
   },
   {
@@ -305,6 +344,7 @@
     "country_code": "UA",
     "latitude": "49.18889000",
     "longitude": "29.52697000",
+    "county_id": 5251,
     "wikiDataId": null
   },
   {
@@ -316,6 +356,7 @@
     "country_code": "UA",
     "latitude": "49.44143000",
     "longitude": "28.45956000",
+    "county_id": 5256,
     "wikiDataId": null
   },
   {
@@ -327,6 +368,7 @@
     "country_code": "UA",
     "latitude": "49.48639000",
     "longitude": "29.26361000",
+    "county_id": 5251,
     "wikiDataId": null
   },
   {
@@ -338,17 +380,19 @@
     "country_code": "UA",
     "latitude": "49.48126000",
     "longitude": "29.25953000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 110419,
-    "name": "Serebriya",
+    "name": "Serebriia",
     "state_id": 4669,
     "state_code": "05",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "48.45593000",
     "longitude": "27.71923000",
+    "county_id": 5254,
     "wikiDataId": null
   },
   {
@@ -360,6 +404,7 @@
     "country_code": "UA",
     "latitude": "48.75587000",
     "longitude": "28.07507000",
+    "county_id": 5253,
     "wikiDataId": null
   },
   {
@@ -371,6 +416,7 @@
     "country_code": "UA",
     "latitude": "49.33604000",
     "longitude": "28.65096000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,6 +428,7 @@
     "country_code": "UA",
     "latitude": "49.04245000",
     "longitude": "28.41733000",
+    "county_id": 5251,
     "wikiDataId": null
   },
   {
@@ -393,6 +440,7 @@
     "country_code": "UA",
     "latitude": "48.66566000",
     "longitude": "29.74504000",
+    "county_id": 5252,
     "wikiDataId": null
   },
   {
@@ -404,6 +452,7 @@
     "country_code": "UA",
     "latitude": "48.54256000",
     "longitude": "28.51684000",
+    "county_id": 5255,
     "wikiDataId": null
   },
   {
@@ -415,17 +464,19 @@
     "country_code": "UA",
     "latitude": "48.32462000",
     "longitude": "29.14746000",
+    "county_id": 5252,
     "wikiDataId": null
   },
   {
     "id": 110633,
-    "name": "Tsybulevka",
+    "name": "Tsybulivka",
     "state_id": 4669,
     "state_code": "05",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "48.38719000",
     "longitude": "29.10288000",
+    "county_id": 5252,
     "wikiDataId": null
   },
   {
@@ -437,6 +488,7 @@
     "country_code": "UA",
     "latitude": "48.67448000",
     "longitude": "28.84641000",
+    "county_id": 5255,
     "wikiDataId": null
   },
   {
@@ -448,6 +500,7 @@
     "country_code": "UA",
     "latitude": "49.34788000",
     "longitude": "28.72117000",
+    "county_id": 5251,
     "wikiDataId": null
   },
   {
@@ -459,6 +512,7 @@
     "country_code": "UA",
     "latitude": "49.01404000",
     "longitude": "28.50846000",
+    "county_id": 5251,
     "wikiDataId": null
   },
   {
@@ -470,6 +524,7 @@
     "country_code": "UA",
     "latitude": "49.69512000",
     "longitude": "28.13298000",
+    "county_id": 5256,
     "wikiDataId": null
   },
   {
@@ -481,6 +536,7 @@
     "country_code": "UA",
     "latitude": "48.53479000",
     "longitude": "28.74358000",
+    "county_id": 5255,
     "wikiDataId": null
   },
   {
@@ -492,6 +548,7 @@
     "country_code": "UA",
     "latitude": "48.61176000",
     "longitude": "27.79324000",
+    "county_id": 5254,
     "wikiDataId": null
   },
   {
@@ -503,6 +560,7 @@
     "country_code": "UA",
     "latitude": "49.23531000",
     "longitude": "28.47588000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -514,6 +572,7 @@
     "country_code": "UA",
     "latitude": "49.23278000",
     "longitude": "28.48097000",
+    "county_id": 5251,
     "wikiDataId": null
   },
   {
@@ -525,6 +584,7 @@
     "country_code": "UA",
     "latitude": "48.42603000",
     "longitude": "29.54291000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -536,6 +596,7 @@
     "country_code": "UA",
     "latitude": "49.10954000",
     "longitude": "28.68078000",
+    "county_id": 5251,
     "wikiDataId": null
   },
   {
@@ -547,6 +608,7 @@
     "country_code": "UA",
     "latitude": "48.24240000",
     "longitude": "28.28195000",
+    "county_id": 5254,
     "wikiDataId": null
   },
   {
@@ -558,6 +620,7 @@
     "country_code": "UA",
     "latitude": "49.03705000",
     "longitude": "28.11201000",
+    "county_id": 5253,
     "wikiDataId": null
   }
 ]

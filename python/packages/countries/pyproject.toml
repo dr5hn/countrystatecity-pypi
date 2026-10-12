@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "countrystatecity-countries"
-version = "1.0.5"
-description = "Type-safe offline data for 250 countries, 5,308 states, and 171,938 cities, with Pydantic models and lazy loading."
+version = "2.0.0"
+description = "Type-safe offline data for 250 countries, 5,328 states, and 152,152 cities, with Pydantic models and lazy loading."
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [
     {name = "dr5hn", email = "support@countrystatecity.in"}

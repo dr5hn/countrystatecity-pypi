@@ -28,6 +28,11 @@ on:
           - all
   workflow_call:
     inputs:
+      ref:
+        description: 'Exact commit to publish after the release version bump'
+        required: false
+        type: string
+        default: ''
       package:
         description: 'Package directory to publish, or a group: "data" (offline packages only) or "all" (data + api)'
         required: false
@@ -54,6 +59,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
+          ref: ${{ inputs.ref || github.sha }}
           fetch-depth: 2
 
       - name: Resolve package list
@@ -104,6 +110,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v5
         with:
+          ref: ${{ inputs.ref || github.sha }}
           fetch-depth: 0
 
       - name: Setup Python
@@ -210,6 +217,8 @@ jobs:
         with:
           tag_name: ${{ matrix.package }}-v${{ steps.get-version.outputs.version }}
           name: ${{ steps.pkg.outputs.dist }} v${{ steps.get-version.outputs.version }}
+          target_commitish: ${{ inputs.ref || github.sha }}
+          body_path: python/packages/${{ matrix.package }}/CHANGELOG.md
           body: |
             ## ${{ steps.pkg.outputs.dist }} v${{ steps.get-version.outputs.version }}
 

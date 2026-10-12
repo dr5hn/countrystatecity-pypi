@@ -8,6 +8,7 @@
     "country_code": "GB",
     "latitude": "52.67368000",
     "longitude": "-1.18841000",
+    "county_id": 8052,
     "wikiDataId": null
   },
   {
@@ -19,17 +20,19 @@
     "country_code": "GB",
     "latitude": "52.76331000",
     "longitude": "-0.95856000",
+    "county_id": 8055,
     "wikiDataId": null
   },
   {
     "id": 48289,
-    "name": "Ashby de la Zouch",
+    "name": "Ashby-de-la-Zouch",
     "state_id": 2516,
     "state_code": "LEC",
     "country_id": 232,
     "country_code": "GB",
     "latitude": "52.74632000",
     "longitude": "-1.47320000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "GB",
     "latitude": "52.67265000",
     "longitude": "-1.34274000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "GB",
     "latitude": "52.64718000",
     "longitude": "-1.37013000",
+    "county_id": 8054,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,55 @@
     "country_code": "GB",
     "latitude": "52.75178000",
     "longitude": "-1.14601000",
+    "county_id": 8052,
+    "wikiDataId": null
+  },
+  {
+    "id": 48540,
+    "name": "Blaby",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.57577000",
+    "longitude": "-1.16403000",
+    "county_id": 8051,
+    "wikiDataId": null
+  },
+  {
+    "id": 48620,
+    "name": "Bottesford",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.94131000",
+    "longitude": "-0.80060000",
+    "county_id": 8055,
+    "wikiDataId": null
+  },
+  {
+    "id": 164728,
+    "name": "Braunstone",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.61835000",
+    "longitude": "-1.17904000",
+    "county_id": 8051,
+    "wikiDataId": null
+  },
+  {
+    "id": 48731,
+    "name": "Broughton Astley",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.52787000",
+    "longitude": "-1.21768000",
+    "county_id": 8053,
     "wikiDataId": null
   },
   {
@@ -74,6 +128,19 @@
     "country_code": "GB",
     "latitude": "52.78574000",
     "longitude": "-1.12988000",
+    "county_id": 8052,
+    "wikiDataId": null
+  },
+  {
+    "id": 48877,
+    "name": "Castle Donington",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.84291000",
+    "longitude": "-1.34188000",
+    "county_id": 8056,
     "wikiDataId": null
   },
   {
@@ -85,6 +152,43 @@
     "country_code": "GB",
     "latitude": "52.72247000",
     "longitude": "-1.37020000",
+    "county_id": 8056,
+    "wikiDataId": null
+  },
+  {
+    "id": 49111,
+    "name": "Cosby",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.55127000",
+    "longitude": "-1.19395000",
+    "county_id": 8051,
+    "wikiDataId": null
+  },
+  {
+    "id": 49120,
+    "name": "Countesthorpe",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.55379000",
+    "longitude": "-1.14526000",
+    "county_id": 8051,
+    "wikiDataId": null
+  },
+  {
+    "id": 49163,
+    "name": "Croft",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.55668000",
+    "longitude": "-1.24643000",
+    "county_id": 8051,
     "wikiDataId": null
   },
   {
@@ -96,6 +200,7 @@
     "country_code": "GB",
     "latitude": "52.62598000",
     "longitude": "-1.29395000",
+    "county_id": 8054,
     "wikiDataId": null
   },
   {
@@ -107,6 +212,67 @@
     "country_code": "GB",
     "latitude": "52.72401000",
     "longitude": "-1.53800000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49377,
+    "name": "Earl Shilton",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.57682000",
+    "longitude": "-1.31536000",
+    "county_id": 8054,
+    "wikiDataId": null
+  },
+  {
+    "id": 49475,
+    "name": "Enderby",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.58778000",
+    "longitude": "-1.20619000",
+    "county_id": 8051,
+    "wikiDataId": null
+  },
+  {
+    "id": 49568,
+    "name": "Fleckney",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.53497000",
+    "longitude": "-1.04598000",
+    "county_id": 8053,
+    "wikiDataId": null
+  },
+  {
+    "id": 49658,
+    "name": "Glenfield",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.64660000",
+    "longitude": "-1.19493000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49717,
+    "name": "Great Glen",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.57548000",
+    "longitude": "-1.03490000",
+    "county_id": 8053,
     "wikiDataId": null
   },
   {
@@ -118,6 +284,43 @@
     "country_code": "GB",
     "latitude": "52.79548000",
     "longitude": "-1.25644000",
+    "county_id": 8052,
+    "wikiDataId": null
+  },
+  {
+    "id": 49944,
+    "name": "Hinckley",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.53890000",
+    "longitude": "-1.37613000",
+    "county_id": 8054,
+    "wikiDataId": null
+  },
+  {
+    "id": 50007,
+    "name": "Houghton on the Hill",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.62663000",
+    "longitude": "-0.99546000",
+    "county_id": 8053,
+    "wikiDataId": null
+  },
+  {
+    "id": 50033,
+    "name": "Husbands Bosworth",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.45232000",
+    "longitude": "-1.05557000",
+    "county_id": 8053,
     "wikiDataId": null
   },
   {
@@ -129,6 +332,55 @@
     "country_code": "GB",
     "latitude": "52.68554000",
     "longitude": "-1.39965000",
+    "county_id": 8056,
+    "wikiDataId": null
+  },
+  {
+    "id": 50104,
+    "name": "Kegworth",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.83482000",
+    "longitude": "-1.28042000",
+    "county_id": 8056,
+    "wikiDataId": null
+  },
+  {
+    "id": 50134,
+    "name": "Kibworth Harcourt",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.54439000",
+    "longitude": "-0.99491000",
+    "county_id": 8053,
+    "wikiDataId": null
+  },
+  {
+    "id": 50193,
+    "name": "Kirby Muxloe",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.63025000",
+    "longitude": "-1.22755000",
+    "county_id": 8051,
+    "wikiDataId": null
+  },
+  {
+    "id": 50393,
+    "name": "Long Clawson",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.83725000",
+    "longitude": "-0.92880000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +392,7 @@
     "country_code": "GB",
     "latitude": "52.80577000",
     "longitude": "-1.28506000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +404,19 @@
     "country_code": "GB",
     "latitude": "52.76667000",
     "longitude": "-1.20000000",
+    "county_id": 8052,
+    "wikiDataId": null
+  },
+  {
+    "id": 50440,
+    "name": "Lutterworth",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.45634000",
+    "longitude": "-1.20218000",
+    "county_id": 8053,
     "wikiDataId": null
   },
   {
@@ -162,6 +428,19 @@
     "country_code": "GB",
     "latitude": "52.62428000",
     "longitude": "-1.40174000",
+    "county_id": 8054,
+    "wikiDataId": null
+  },
+  {
+    "id": 50500,
+    "name": "Market Harborough",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.47760000",
+    "longitude": "-0.92053000",
+    "county_id": 8053,
     "wikiDataId": null
   },
   {
@@ -173,6 +452,7 @@
     "country_code": "GB",
     "latitude": "52.68747000",
     "longitude": "-1.27476000",
+    "county_id": 8054,
     "wikiDataId": null
   },
   {
@@ -184,17 +464,19 @@
     "country_code": "GB",
     "latitude": "52.70644000",
     "longitude": "-1.50637000",
+    "county_id": 8056,
     "wikiDataId": null
   },
   {
-    "id": 50538,
-    "name": "Melbourne",
+    "id": 50544,
+    "name": "Melton Mowbray",
     "state_id": 2516,
     "state_code": "LEC",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.82190000",
-    "longitude": "-1.42522000",
+    "latitude": "52.76588000",
+    "longitude": "-0.88693000",
+    "county_id": 8055,
     "wikiDataId": null
   },
   {
@@ -206,6 +488,7 @@
     "country_code": "GB",
     "latitude": "52.73698000",
     "longitude": "-1.53496000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +500,19 @@
     "country_code": "GB",
     "latitude": "52.71667000",
     "longitude": "-1.15000000",
+    "county_id": 8052,
+    "wikiDataId": null
+  },
+  {
+    "id": 50665,
+    "name": "Narborough",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.56667000",
+    "longitude": "-1.20000000",
+    "county_id": 8051,
     "wikiDataId": null
   },
   {
@@ -228,6 +524,19 @@
     "country_code": "GB",
     "latitude": "52.62959000",
     "longitude": "-1.34220000",
+    "county_id": 8054,
+    "wikiDataId": null
+  },
+  {
+    "id": 50790,
+    "name": "Oadby",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.60621000",
+    "longitude": "-1.08354000",
+    "county_id": 8057,
     "wikiDataId": null
   },
   {
@@ -239,6 +548,7 @@
     "country_code": "GB",
     "latitude": "52.70591000",
     "longitude": "-1.04749000",
+    "county_id": 8052,
     "wikiDataId": null
   },
   {
@@ -250,6 +560,7 @@
     "country_code": "GB",
     "latitude": "52.74461000",
     "longitude": "-1.17348000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +572,7 @@
     "country_code": "GB",
     "latitude": "52.64989000",
     "longitude": "-1.24137000",
+    "county_id": 8054,
     "wikiDataId": null
   },
   {
@@ -272,6 +584,7 @@
     "country_code": "GB",
     "latitude": "52.72111000",
     "longitude": "-1.40582000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +596,19 @@
     "country_code": "GB",
     "latitude": "52.70916000",
     "longitude": "-1.13739000",
+    "county_id": 8052,
+    "wikiDataId": null
+  },
+  {
+    "id": 51200,
+    "name": "Sapcote",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.53707000",
+    "longitude": "-1.27900000",
+    "county_id": 8051,
     "wikiDataId": null
   },
   {
@@ -294,6 +620,7 @@
     "country_code": "GB",
     "latitude": "52.76570000",
     "longitude": "-1.29021000",
+    "county_id": 8052,
     "wikiDataId": null
   },
   {
@@ -305,28 +632,55 @@
     "country_code": "GB",
     "latitude": "52.73286000",
     "longitude": "-1.10773000",
+    "county_id": 8052,
     "wikiDataId": null
   },
   {
-    "id": 51519,
-    "name": "Sutton Bonington",
+    "id": 51464,
+    "name": "Stoke Golding",
     "state_id": 2516,
     "state_code": "LEC",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.82144000",
-    "longitude": "-1.24969000",
+    "latitude": "52.57060000",
+    "longitude": "-1.41124000",
+    "county_id": 8054,
     "wikiDataId": null
   },
   {
-    "id": 51526,
-    "name": "Swadlincote",
+    "id": 51477,
+    "name": "Stoney Stanton",
     "state_id": 2516,
     "state_code": "LEC",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.77400000",
-    "longitude": "-1.55744000",
+    "latitude": "52.54839000",
+    "longitude": "-1.27930000",
+    "county_id": 8051,
+    "wikiDataId": null
+  },
+  {
+    "id": 51541,
+    "name": "Syston",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.68333000",
+    "longitude": "-1.06667000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51900,
+    "name": "Wigston Magna",
+    "state_id": 2516,
+    "state_code": "LEC",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.58128000",
+    "longitude": "-1.09248000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -338,6 +692,7 @@
     "country_code": "GB",
     "latitude": "52.80536000",
     "longitude": "-1.11288000",
+    "county_id": 8052,
     "wikiDataId": null
   }
 ]

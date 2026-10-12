@@ -8,6 +8,7 @@
     "country_code": "TZ",
     "latitude": "-8.85637000",
     "longitude": "34.02393000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "TZ",
     "latitude": "-9.40000000",
     "longitude": "33.35000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "TZ",
     "latitude": "-9.26666667",
     "longitude": "33.83333333",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "TZ",
     "latitude": "-9.50000000",
     "longitude": "33.55000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "TZ",
     "latitude": "-9.65000000",
     "longitude": "33.90000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "TZ",
     "latitude": "-9.31666667",
     "longitude": "33.53333333",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "TZ",
     "latitude": "-9.25000000",
     "longitude": "33.38333333",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +92,7 @@
     "country_code": "TZ",
     "latitude": "-9.48333333",
     "longitude": "33.90000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +104,7 @@
     "country_code": "TZ",
     "latitude": "-9.26666667",
     "longitude": "33.76666667",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +116,7 @@
     "country_code": "TZ",
     "latitude": "-3.50000000",
     "longitude": "37.43300000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +128,7 @@
     "country_code": "TZ",
     "latitude": "-9.15000000",
     "longitude": "33.80000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +140,7 @@
     "country_code": "TZ",
     "latitude": "-9.23333333",
     "longitude": "33.61666667",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +152,7 @@
     "country_code": "TZ",
     "latitude": "-4.46666667",
     "longitude": "38.06666667",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +164,7 @@
     "country_code": "TZ",
     "latitude": "-4.13333000",
     "longitude": "37.95000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +176,7 @@
     "country_code": "TZ",
     "latitude": "-9.16666667",
     "longitude": "33.53333333",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,17 +188,19 @@
     "country_code": "TZ",
     "latitude": "-3.76666667",
     "longitude": "37.71666667",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 149047,
-    "name": "Lembeni",
+    "id": 165621,
+    "name": "Kyela",
     "state_id": 4955,
     "state_code": "14",
     "country_id": 218,
     "country_code": "TZ",
-    "latitude": "-3.78333333",
-    "longitude": "37.61666667",
+    "latitude": "-9.58333000",
+    "longitude": "33.85000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +212,7 @@
     "country_code": "TZ",
     "latitude": "-9.30000000",
     "longitude": "33.85000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +224,7 @@
     "country_code": "TZ",
     "latitude": "-9.50000000",
     "longitude": "33.98333333",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +236,7 @@
     "country_code": "TZ",
     "latitude": "-3.20611111",
     "longitude": "37.22638889",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +248,7 @@
     "country_code": "TZ",
     "latitude": "-4.36666667",
     "longitude": "37.83333333",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +260,7 @@
     "country_code": "TZ",
     "latitude": "-8.89113250",
     "longitude": "33.43650480",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +272,7 @@
     "country_code": "TZ",
     "latitude": "-9.40000000",
     "longitude": "33.75000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,28 +284,7 @@
     "country_code": "TZ",
     "latitude": "-8.90000000",
     "longitude": "33.45000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 149055,
-    "name": "Mlowo",
-    "state_id": 4955,
-    "state_code": "14",
-    "country_id": 218,
-    "country_code": "TZ",
-    "latitude": "-9.00000000",
-    "longitude": "32.98333333",
-    "wikiDataId": null
-  },
-  {
-    "id": 149056,
-    "name": "Moshi",
-    "state_id": 4955,
-    "state_code": "14",
-    "country_id": 218,
-    "country_code": "TZ",
-    "latitude": "-3.33488333",
-    "longitude": "37.34038056",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +296,7 @@
     "country_code": "TZ",
     "latitude": "-9.31666667",
     "longitude": "33.65000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +308,7 @@
     "country_code": "TZ",
     "latitude": "-8.76666667",
     "longitude": "33.53333333",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +320,7 @@
     "country_code": "TZ",
     "latitude": "-9.55000000",
     "longitude": "33.95000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,17 +332,7 @@
     "country_code": "TZ",
     "latitude": "-4.15000000",
     "longitude": "37.85000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 149061,
-    "name": "Same",
-    "state_id": 4955,
-    "state_code": "14",
-    "country_id": 218,
-    "country_code": "TZ",
-    "latitude": "-4.06666667",
-    "longitude": "37.78333333",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -349,28 +344,7 @@
     "country_code": "TZ",
     "latitude": "-9.25833333",
     "longitude": "33.64166667",
-    "wikiDataId": null
-  },
-  {
-    "id": 149063,
-    "name": "Tunduma",
-    "state_id": 4955,
-    "state_code": "14",
-    "country_id": 218,
-    "country_code": "TZ",
-    "latitude": "-9.30000000",
-    "longitude": "32.76670000",
-    "wikiDataId": null
-  },
-  {
-    "id": 149064,
-    "name": "Ugweno",
-    "state_id": 4955,
-    "state_code": "14",
-    "country_id": 218,
-    "country_code": "TZ",
-    "latitude": "-3.65000000",
-    "longitude": "37.65000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,6 +356,7 @@
     "country_code": "TZ",
     "latitude": "-8.34361000",
     "longitude": "34.28970000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

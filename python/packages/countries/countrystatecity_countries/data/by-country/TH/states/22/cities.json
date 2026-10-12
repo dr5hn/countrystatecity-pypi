@@ -1,16 +1,5 @@
 [
   {
-    "id": 105413,
-    "name": "Amphoe Khlung",
-    "state_id": 3486,
-    "state_code": "22",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "12.57246000",
-    "longitude": "102.30783000",
-    "wikiDataId": null
-  },
-  {
     "id": 105471,
     "name": "Amphoe Laem Sing",
     "state_id": 3486,
@@ -19,28 +8,7 @@
     "country_code": "TH",
     "latitude": "12.45689000",
     "longitude": "102.14262000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105792,
-    "name": "Amphoe Pong Nam Ron",
-    "state_id": 3486,
-    "state_code": "22",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "12.93467000",
-    "longitude": "102.37189000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106277,
-    "name": "Amphoe Tha Mai",
-    "state_id": 3486,
-    "state_code": "22",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "12.73848000",
-    "longitude": "101.97696000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +20,7 @@
     "country_code": "TH",
     "latitude": "12.60961000",
     "longitude": "102.10447000",
+    "county_id": 5526,
     "wikiDataId": null
   },
   {
@@ -63,6 +32,7 @@
     "country_code": "TH",
     "latitude": "13.09690000",
     "longitude": "101.88543000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +44,7 @@
     "country_code": "TH",
     "latitude": "12.93726000",
     "longitude": "102.09762000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +56,7 @@
     "country_code": "TH",
     "latitude": "12.45467000",
     "longitude": "102.22142000",
+    "county_id": 5527,
     "wikiDataId": null
   },
   {
@@ -96,6 +68,7 @@
     "country_code": "TH",
     "latitude": "12.48164000",
     "longitude": "102.07375000",
+    "county_id": 5531,
     "wikiDataId": null
   },
   {
@@ -105,19 +78,9 @@
     "state_code": "22",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "12.73333000",
-    "longitude": "102.21667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105538,
-    "name": "Mueang Chanthaburi",
-    "state_id": 3486,
-    "state_code": "22",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "12.59542000",
-    "longitude": "102.12263000",
+    "latitude": "12.67300000",
+    "longitude": "102.19617000",
+    "county_id": 5530,
     "wikiDataId": null
   },
   {
@@ -127,8 +90,9 @@
     "state_code": "22",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "12.73833000",
-    "longitude": "101.87502000",
+    "latitude": "12.78165000",
+    "longitude": "101.82239000",
+    "county_id": 5534,
     "wikiDataId": null
   },
   {
@@ -138,8 +102,9 @@
     "state_code": "22",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "12.90575000",
-    "longitude": "102.26225000",
+    "latitude": "12.90460000",
+    "longitude": "102.26397000",
+    "county_id": 5529,
     "wikiDataId": null
   },
   {
@@ -151,6 +116,7 @@
     "country_code": "TH",
     "latitude": "13.17034000",
     "longitude": "102.22796000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +128,7 @@
     "country_code": "TH",
     "latitude": "12.62137000",
     "longitude": "102.00481000",
+    "county_id": 5528,
     "wikiDataId": null
   }
 ]

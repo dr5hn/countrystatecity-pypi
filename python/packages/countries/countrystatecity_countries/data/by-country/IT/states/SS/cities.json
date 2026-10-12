@@ -1,38 +1,5 @@
 [
   {
-    "id": 135299,
-    "name": "Aggius",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.92995000",
-    "longitude": "9.06517000",
-    "wikiDataId": null
-  },
-  {
-    "id": 135305,
-    "name": "Aglientu",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "41.07906000",
-    "longitude": "9.11267000",
-    "wikiDataId": null
-  },
-  {
-    "id": 135453,
-    "name": "Alà dei Sardi",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.65007000",
-    "longitude": "9.32783000",
-    "wikiDataId": null
-  },
-  {
     "id": 135404,
     "name": "Alghero",
     "state_id": 1722,
@@ -41,6 +8,7 @@
     "country_code": "IT",
     "latitude": "40.55969000",
     "longitude": "8.31953000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +20,7 @@
     "country_code": "IT",
     "latitude": "40.44176000",
     "longitude": "9.05743000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,28 +32,7 @@
     "country_code": "IT",
     "latitude": "40.62140000",
     "longitude": "8.80987000",
-    "wikiDataId": null
-  },
-  {
-    "id": 135646,
-    "name": "Arzachena",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "41.07620000",
-    "longitude": "9.39055000",
-    "wikiDataId": null
-  },
-  {
-    "id": 135733,
-    "name": "Badesi",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.96460000",
-    "longitude": "8.88235000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +44,7 @@
     "country_code": "IT",
     "latitude": "40.57056000",
     "longitude": "8.70052000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +56,7 @@
     "country_code": "IT",
     "latitude": "40.73549000",
     "longitude": "8.46328000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,17 +68,7 @@
     "country_code": "IT",
     "latitude": "40.45689000",
     "longitude": "9.16754000",
-    "wikiDataId": null
-  },
-  {
-    "id": 135982,
-    "name": "Berchidda",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.78476000",
-    "longitude": "9.16510000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +80,7 @@
     "country_code": "IT",
     "latitude": "40.55449000",
     "longitude": "8.72753000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +92,7 @@
     "country_code": "IT",
     "latitude": "40.53265000",
     "longitude": "8.76389000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +104,7 @@
     "country_code": "IT",
     "latitude": "40.41387000",
     "longitude": "9.03187000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,17 +116,7 @@
     "country_code": "IT",
     "latitude": "40.41839000",
     "longitude": "8.76831000",
-    "wikiDataId": null
-  },
-  {
-    "id": 136231,
-    "name": "Bortigiadas",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.89167000",
-    "longitude": "9.04352000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +128,7 @@
     "country_code": "IT",
     "latitude": "40.52236000",
     "longitude": "8.74352000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,28 +140,7 @@
     "country_code": "IT",
     "latitude": "40.39242000",
     "longitude": "9.01039000",
-    "wikiDataId": null
-  },
-  {
-    "id": 136390,
-    "name": "Buddusò",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.57723000",
-    "longitude": "9.25839000",
-    "wikiDataId": null
-  },
-  {
-    "id": 136392,
-    "name": "Budoni",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.70467000",
-    "longitude": "9.70384000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +152,7 @@
     "country_code": "IT",
     "latitude": "40.45720000",
     "longitude": "9.06367000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +164,7 @@
     "country_code": "IT",
     "latitude": "40.84666000",
     "longitude": "8.83026000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,17 +176,7 @@
     "country_code": "IT",
     "latitude": "40.39081000",
     "longitude": "8.99558000",
-    "wikiDataId": null
-  },
-  {
-    "id": 136490,
-    "name": "Calangianus",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.92027000",
-    "longitude": "9.19343000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +188,7 @@
     "country_code": "IT",
     "latitude": "40.66894000",
     "longitude": "8.61521000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +200,7 @@
     "country_code": "IT",
     "latitude": "40.91256000",
     "longitude": "8.71453000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +212,7 @@
     "country_code": "IT",
     "latitude": "40.50455000",
     "longitude": "8.72582000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +224,7 @@
     "country_code": "IT",
     "latitude": "40.74829000",
     "longitude": "8.82114000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,6 +236,7 @@
     "country_code": "IT",
     "latitude": "40.92847000",
     "longitude": "8.82398000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -338,6 +248,7 @@
     "country_code": "IT",
     "latitude": "40.65603000",
     "longitude": "8.68140000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -349,6 +260,7 @@
     "country_code": "IT",
     "latitude": "40.43068000",
     "longitude": "8.71578000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -360,6 +272,7 @@
     "country_code": "IT",
     "latitude": "40.79244000",
     "longitude": "8.94418000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -371,6 +284,7 @@
     "country_code": "IT",
     "latitude": "40.38456000",
     "longitude": "8.98983000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,6 +296,7 @@
     "country_code": "IT",
     "latitude": "40.64900000",
     "longitude": "8.66548000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -393,17 +308,7 @@
     "country_code": "IT",
     "latitude": "40.45224000",
     "longitude": "8.75175000",
-    "wikiDataId": null
-  },
-  {
-    "id": 139014,
-    "name": "Golfo Aranci",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.98333000",
-    "longitude": "9.63333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,6 +320,7 @@
     "country_code": "IT",
     "latitude": "40.35271000",
     "longitude": "9.00170000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -426,6 +332,7 @@
     "country_code": "IT",
     "latitude": "40.54398000",
     "longitude": "8.90118000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -437,17 +344,7 @@
     "country_code": "IT",
     "latitude": "40.59151000",
     "longitude": "8.56976000",
-    "wikiDataId": null
-  },
-  {
-    "id": 139293,
-    "name": "La Maddalena",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "39.14429000",
-    "longitude": "9.01223000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -459,6 +356,7 @@
     "country_code": "IT",
     "latitude": "40.81705000",
     "longitude": "8.83650000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -470,17 +368,7 @@
     "country_code": "IT",
     "latitude": "40.76338000",
     "longitude": "8.48900000",
-    "wikiDataId": null
-  },
-  {
-    "id": 139577,
-    "name": "Loiri Porto San Paolo",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.84262000",
-    "longitude": "9.49820000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -492,28 +380,7 @@
     "country_code": "IT",
     "latitude": "40.90184000",
     "longitude": "8.68555000",
-    "wikiDataId": null
-  },
-  {
-    "id": 139663,
-    "name": "Luogosanto",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "41.04681000",
-    "longitude": "9.20553000",
-    "wikiDataId": null
-  },
-  {
-    "id": 139668,
-    "name": "Luras",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.93643000",
-    "longitude": "9.17480000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -525,6 +392,7 @@
     "country_code": "IT",
     "latitude": "40.41019000",
     "longitude": "8.63664000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -536,6 +404,7 @@
     "country_code": "IT",
     "latitude": "40.77804000",
     "longitude": "8.80897000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -547,17 +416,7 @@
     "country_code": "IT",
     "latitude": "40.47206000",
     "longitude": "8.56071000",
-    "wikiDataId": null
-  },
-  {
-    "id": 140553,
-    "name": "Monti",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.80715000",
-    "longitude": "9.32553000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -569,6 +428,7 @@
     "country_code": "IT",
     "latitude": "40.54745000",
     "longitude": "8.83302000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -580,6 +440,7 @@
     "country_code": "IT",
     "latitude": "40.67902000",
     "longitude": "8.61780000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -591,6 +452,7 @@
     "country_code": "IT",
     "latitude": "40.55736000",
     "longitude": "9.02142000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -602,6 +464,7 @@
     "country_code": "IT",
     "latitude": "40.46266000",
     "longitude": "9.19076000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -613,17 +476,7 @@
     "country_code": "IT",
     "latitude": "40.78447000",
     "longitude": "8.74358000",
-    "wikiDataId": null
-  },
-  {
-    "id": 140884,
-    "name": "Olbia",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.92337000",
-    "longitude": "9.49802000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -635,17 +488,7 @@
     "country_code": "IT",
     "latitude": "40.65156000",
     "longitude": "8.38021000",
-    "wikiDataId": null
-  },
-  {
-    "id": 141002,
-    "name": "Oschiri",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.71977000",
-    "longitude": "9.10102000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -657,6 +500,7 @@
     "country_code": "IT",
     "latitude": "40.74349000",
     "longitude": "8.67113000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -668,6 +512,7 @@
     "country_code": "IT",
     "latitude": "40.67483000",
     "longitude": "8.59254000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -679,6 +524,7 @@
     "country_code": "IT",
     "latitude": "40.78525000",
     "longitude": "8.47543000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -690,6 +536,7 @@
     "country_code": "IT",
     "latitude": "40.58630000",
     "longitude": "9.00340000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -701,28 +548,7 @@
     "country_code": "IT",
     "latitude": "40.39635000",
     "longitude": "8.62992000",
-    "wikiDataId": null
-  },
-  {
-    "id": 141087,
-    "name": "Padru",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.76619000",
-    "longitude": "9.52100000",
-    "wikiDataId": null
-  },
-  {
-    "id": 58225,
-    "name": "Palau",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "41.17936000",
-    "longitude": "9.38190000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -734,6 +560,7 @@
     "country_code": "IT",
     "latitude": "40.58067000",
     "longitude": "9.11129000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -745,6 +572,7 @@
     "country_code": "IT",
     "latitude": "40.83231000",
     "longitude": "8.88354000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -756,17 +584,7 @@
     "country_code": "IT",
     "latitude": "40.67068000",
     "longitude": "8.74962000",
-    "wikiDataId": null
-  },
-  {
-    "id": 58925,
-    "name": "Porto Cervo",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "41.14063000",
-    "longitude": "9.53267000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -778,6 +596,7 @@
     "country_code": "IT",
     "latitude": "40.83375000",
     "longitude": "8.40531000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -789,6 +608,7 @@
     "country_code": "IT",
     "latitude": "40.39767000",
     "longitude": "8.65931000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -800,6 +620,7 @@
     "country_code": "IT",
     "latitude": "40.56145000",
     "longitude": "8.46063000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -811,6 +632,7 @@
     "country_code": "IT",
     "latitude": "40.48439000",
     "longitude": "8.58571000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -822,28 +644,7 @@
     "country_code": "IT",
     "latitude": "40.61055000",
     "longitude": "8.98841000",
-    "wikiDataId": null
-  },
-  {
-    "id": 60253,
-    "name": "San Teodoro",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.77354000",
-    "longitude": "9.66929000",
-    "wikiDataId": null
-  },
-  {
-    "id": 60384,
-    "name": "Sant'Antonio di Gallura",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.99146000",
-    "longitude": "9.30153000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -855,17 +656,7 @@
     "country_code": "IT",
     "latitude": "40.90423000",
     "longitude": "8.86383000",
-    "wikiDataId": null
-  },
-  {
-    "id": 60495,
-    "name": "Santa Teresa Gallura",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "41.23859000",
-    "longitude": "9.18873000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -877,6 +668,7 @@
     "country_code": "IT",
     "latitude": "40.72586000",
     "longitude": "8.55552000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -888,6 +680,7 @@
     "country_code": "IT",
     "latitude": "40.85277000",
     "longitude": "8.81670000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -899,6 +692,7 @@
     "country_code": "IT",
     "latitude": "40.39846000",
     "longitude": "8.72542000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -910,6 +704,7 @@
     "country_code": "IT",
     "latitude": "40.78780000",
     "longitude": "8.59285000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -921,6 +716,7 @@
     "country_code": "IT",
     "latitude": "40.57483000",
     "longitude": "8.72835000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -932,6 +728,7 @@
     "country_code": "IT",
     "latitude": "40.79949000",
     "longitude": "8.57570000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -943,28 +740,7 @@
     "country_code": "IT",
     "latitude": "40.95201000",
     "longitude": "8.21978000",
-    "wikiDataId": null
-  },
-  {
-    "id": 61207,
-    "name": "Telti",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.87575000",
-    "longitude": "9.35328000",
-    "wikiDataId": null
-  },
-  {
-    "id": 61210,
-    "name": "Tempio Pausania",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.90068000",
-    "longitude": "9.10456000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -976,6 +752,7 @@
     "country_code": "IT",
     "latitude": "40.86652000",
     "longitude": "8.71467000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -987,6 +764,7 @@
     "country_code": "IT",
     "latitude": "40.52398000",
     "longitude": "8.72001000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -998,6 +776,7 @@
     "country_code": "IT",
     "latitude": "40.67832000",
     "longitude": "8.56127000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1009,17 +788,7 @@
     "country_code": "IT",
     "latitude": "40.51296000",
     "longitude": "8.76532000",
-    "wikiDataId": null
-  },
-  {
-    "id": 61531,
-    "name": "Trinità d'Agultu e Vignola",
-    "state_id": 1722,
-    "state_code": "SS",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "40.98377000",
-    "longitude": "8.91562000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1031,6 +800,7 @@
     "country_code": "IT",
     "latitude": "40.73246000",
     "longitude": "8.98392000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1042,6 +812,7 @@
     "country_code": "IT",
     "latitude": "40.63841000",
     "longitude": "8.48881000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1053,6 +824,7 @@
     "country_code": "IT",
     "latitude": "40.66416000",
     "longitude": "8.53919000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1064,6 +836,7 @@
     "country_code": "IT",
     "latitude": "40.92867000",
     "longitude": "8.82321000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1075,6 +848,7 @@
     "country_code": "IT",
     "latitude": "40.91259000",
     "longitude": "8.89009000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1086,6 +860,7 @@
     "country_code": "IT",
     "latitude": "40.50264000",
     "longitude": "8.47115000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

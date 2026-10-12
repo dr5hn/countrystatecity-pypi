@@ -8,6 +8,7 @@
     "country_code": "KG",
     "latitude": "41.40806000",
     "longitude": "71.46306000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,17 +20,19 @@
     "country_code": "KG",
     "latitude": "41.03760000",
     "longitude": "72.74586000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 64899,
-    "name": "Jalal-Abad",
+    "id": 165139,
+    "name": "Kanysh-Kyya",
     "state_id": 1000,
     "state_code": "J",
     "country_id": 118,
     "country_code": "KG",
-    "latitude": "40.93333000",
-    "longitude": "73.00000000",
+    "latitude": "41.76536000",
+    "longitude": "71.09181000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "KG",
     "latitude": "41.40500000",
     "longitude": "74.03700000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "KG",
     "latitude": "41.49399000",
     "longitude": "71.75826000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,31 @@
     "country_code": "KG",
     "latitude": "41.03709000",
     "longitude": "72.48320000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 64899,
+    "name": "Manas",
+    "state_id": 1000,
+    "state_code": "J",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "40.93333000",
+    "longitude": "73.00000000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165136,
+    "name": "Massy",
+    "state_id": 1000,
+    "state_code": "J",
+    "country_id": 118,
+    "country_code": "KG",
+    "latitude": "41.06010000",
+    "longitude": "72.63285000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +104,7 @@
     "country_code": "KG",
     "latitude": "40.89820000",
     "longitude": "72.90481000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +116,7 @@
     "country_code": "KG",
     "latitude": "41.34612000",
     "longitude": "72.21707000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +128,7 @@
     "country_code": "KG",
     "latitude": "41.87442000",
     "longitude": "72.94192000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +140,7 @@
     "country_code": "KG",
     "latitude": "41.75000000",
     "longitude": "73.00000000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

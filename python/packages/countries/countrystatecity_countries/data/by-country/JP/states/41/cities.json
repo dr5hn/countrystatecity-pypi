@@ -8,6 +8,7 @@
     "country_code": "JP",
     "latitude": "33.30409000",
     "longitude": "129.88598000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "JP",
     "latitude": "33.27362000",
     "longitude": "129.87877000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "JP",
     "latitude": "33.34446000",
     "longitude": "130.35883000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,17 +44,7 @@
     "country_code": "JP",
     "latitude": "33.44250000",
     "longitude": "129.96972000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63722,
-    "name": "Karatsu Shi",
-    "state_id": 863,
-    "state_code": "41",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "33.41802000",
-    "longitude": "129.99775000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,17 +56,7 @@
     "country_code": "JP",
     "latitude": "33.10611000",
     "longitude": "130.09056000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63737,
-    "name": "Kashima Shi",
-    "state_id": 863,
-    "state_code": "41",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "33.06203000",
-    "longitude": "130.09396000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +68,7 @@
     "country_code": "JP",
     "latitude": "33.35298000",
     "longitude": "130.45711000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +80,7 @@
     "country_code": "JP",
     "latitude": "33.26667000",
     "longitude": "130.20000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,39 +92,19 @@
     "country_code": "JP",
     "latitude": "33.23333000",
     "longitude": "130.30000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64240,
-    "name": "Saga Shi",
-    "state_id": 863,
-    "state_code": "41",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "33.32558000",
-    "longitude": "130.26430000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 64447,
-    "name": "Takeo Shi",
+    "name": "Takeo",
     "state_id": 863,
     "state_code": "41",
     "country_id": 109,
     "country_code": "JP",
     "latitude": "33.20413000",
     "longitude": "129.99775000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64448,
-    "name": "Takeochō-takeo",
-    "state_id": 863,
-    "state_code": "41",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "33.19009000",
-    "longitude": "130.02084000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +116,7 @@
     "country_code": "JP",
     "latitude": "33.27829000",
     "longitude": "130.10523000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +128,7 @@
     "country_code": "JP",
     "latitude": "33.37825000",
     "longitude": "130.49001000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +140,7 @@
     "country_code": "JP",
     "latitude": "33.09558000",
     "longitude": "130.01495000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

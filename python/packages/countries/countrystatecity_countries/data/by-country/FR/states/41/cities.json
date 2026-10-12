@@ -8,6 +8,7 @@
     "country_code": "FR",
     "latitude": "47.85141000",
     "longitude": "0.99829000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "FR",
     "latitude": "47.93600000",
     "longitude": "1.46050000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "FR",
     "latitude": "47.59432000",
     "longitude": "1.32912000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "FR",
     "latitude": "47.54895000",
     "longitude": "1.54120000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "FR",
     "latitude": "47.49499000",
     "longitude": "1.25937000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "FR",
     "latitude": "47.52758000",
     "longitude": "1.38102000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "FR",
     "latitude": "47.54160000",
     "longitude": "1.31220000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -85,6 +92,7 @@
     "country_code": "FR",
     "latitude": "47.27571000",
     "longitude": "1.49424000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -96,6 +104,7 @@
     "country_code": "FR",
     "latitude": "47.26505000",
     "longitude": "1.90591000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -107,6 +116,7 @@
     "country_code": "FR",
     "latitude": "47.48108000",
     "longitude": "1.18929000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -118,6 +128,7 @@
     "country_code": "FR",
     "latitude": "47.61039000",
     "longitude": "1.90514000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -129,6 +140,7 @@
     "country_code": "FR",
     "latitude": "47.50079000",
     "longitude": "1.45951000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -140,6 +152,7 @@
     "country_code": "FR",
     "latitude": "47.33747000",
     "longitude": "1.13362000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -151,6 +164,7 @@
     "country_code": "FR",
     "latitude": "47.49753000",
     "longitude": "1.37139000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -162,17 +176,19 @@
     "country_code": "FR",
     "latitude": "47.52576000",
     "longitude": "1.24661000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 41061,
-    "name": "Cloyes-sur-le-Loir",
+    "id": 41156,
+    "name": "Contres",
     "state_id": 5009,
     "state_code": "41",
     "country_id": 75,
     "country_code": "FR",
-    "latitude": "47.99726000",
-    "longitude": "1.23711000",
+    "latitude": "47.41754000",
+    "longitude": "1.42849000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +200,7 @@
     "country_code": "FR",
     "latitude": "47.49195000",
     "longitude": "1.40610000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -195,17 +212,7 @@
     "country_code": "FR",
     "latitude": "47.51033000",
     "longitude": "1.45583000",
-    "wikiDataId": null
-  },
-  {
-    "id": 41641,
-    "name": "Département du Loir-et-Cher",
-    "state_id": 5009,
-    "state_code": "41",
-    "country_id": 75,
-    "country_code": "FR",
-    "latitude": "47.50000000",
-    "longitude": "1.50000000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -217,6 +224,7 @@
     "country_code": "FR",
     "latitude": "47.58723000",
     "longitude": "1.65809000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -228,6 +236,7 @@
     "country_code": "FR",
     "latitude": "48.04023000",
     "longitude": "1.07534000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -239,6 +248,7 @@
     "country_code": "FR",
     "latitude": "47.31732000",
     "longitude": "1.19045000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -250,6 +260,7 @@
     "country_code": "FR",
     "latitude": "47.27847000",
     "longitude": "1.66943000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -261,6 +272,7 @@
     "country_code": "FR",
     "latitude": "47.60501000",
     "longitude": "1.13934000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -272,6 +284,7 @@
     "country_code": "FR",
     "latitude": "47.59335000",
     "longitude": "1.45333000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -283,6 +296,7 @@
     "country_code": "FR",
     "latitude": "47.61621000",
     "longitude": "1.36765000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -294,6 +308,7 @@
     "country_code": "FR",
     "latitude": "47.38467000",
     "longitude": "1.95344000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -305,6 +320,7 @@
     "country_code": "FR",
     "latitude": "47.91835000",
     "longitude": "1.08521000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -316,6 +332,7 @@
     "country_code": "FR",
     "latitude": "47.60200000",
     "longitude": "2.02837000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -327,17 +344,7 @@
     "country_code": "FR",
     "latitude": "47.43270000",
     "longitude": "1.38510000",
-    "wikiDataId": null
-  },
-  {
-    "id": 43385,
-    "name": "Les Essarts",
-    "state_id": 5009,
-    "state_code": "41",
-    "country_id": 75,
-    "country_code": "FR",
-    "latitude": "46.77440000",
-    "longitude": "-1.22834000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -349,6 +356,7 @@
     "country_code": "FR",
     "latitude": "47.49499000",
     "longitude": "1.29775000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -360,6 +368,7 @@
     "country_code": "FR",
     "latitude": "47.80864000",
     "longitude": "0.91499000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -371,6 +380,7 @@
     "country_code": "FR",
     "latitude": "47.29314000",
     "longitude": "1.32897000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -382,6 +392,7 @@
     "country_code": "FR",
     "latitude": "47.70555000",
     "longitude": "1.50621000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -393,6 +404,7 @@
     "country_code": "FR",
     "latitude": "47.98061000",
     "longitude": "0.89782000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -404,6 +416,7 @@
     "country_code": "FR",
     "latitude": "47.56235000",
     "longitude": "1.45712000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -415,6 +428,7 @@
     "country_code": "FR",
     "latitude": "47.63987000",
     "longitude": "1.44487000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -426,6 +440,7 @@
     "country_code": "FR",
     "latitude": "47.75316000",
     "longitude": "0.86525000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -437,6 +452,7 @@
     "country_code": "FR",
     "latitude": "47.34310000",
     "longitude": "1.18653000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -448,6 +464,7 @@
     "country_code": "FR",
     "latitude": "47.35940000",
     "longitude": "1.19980000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -459,6 +476,7 @@
     "country_code": "FR",
     "latitude": "47.90397000",
     "longitude": "1.23421000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -470,6 +488,7 @@
     "country_code": "FR",
     "latitude": "47.66958000",
     "longitude": "1.52694000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -481,6 +500,7 @@
     "country_code": "FR",
     "latitude": "47.41239000",
     "longitude": "1.60832000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -492,6 +512,7 @@
     "country_code": "FR",
     "latitude": "47.79576000",
     "longitude": "1.03222000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -503,6 +524,7 @@
     "country_code": "FR",
     "latitude": "47.53486000",
     "longitude": "1.80514000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -514,6 +536,7 @@
     "country_code": "FR",
     "latitude": "47.53600000",
     "longitude": "2.03647000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -525,6 +548,7 @@
     "country_code": "FR",
     "latitude": "47.27701000",
     "longitude": "1.40320000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -536,6 +560,7 @@
     "country_code": "FR",
     "latitude": "47.49956000",
     "longitude": "1.17701000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -547,6 +572,7 @@
     "country_code": "FR",
     "latitude": "47.82252000",
     "longitude": "1.29383000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -558,6 +584,7 @@
     "country_code": "FR",
     "latitude": "47.91055000",
     "longitude": "1.52607000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -569,6 +596,7 @@
     "country_code": "FR",
     "latitude": "47.39002000",
     "longitude": "1.25465000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -580,6 +608,7 @@
     "country_code": "FR",
     "latitude": "47.31667000",
     "longitude": "1.66667000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -591,6 +620,7 @@
     "country_code": "FR",
     "latitude": "47.36667000",
     "longitude": "1.75000000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -602,6 +632,7 @@
     "country_code": "FR",
     "latitude": "47.26892000",
     "longitude": "1.37614000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -613,6 +644,7 @@
     "country_code": "FR",
     "latitude": "47.68333000",
     "longitude": "1.01667000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -624,6 +656,7 @@
     "country_code": "FR",
     "latitude": "47.61651000",
     "longitude": "1.41798000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -635,6 +668,7 @@
     "country_code": "FR",
     "latitude": "47.65595000",
     "longitude": "1.48847000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -646,6 +680,7 @@
     "country_code": "FR",
     "latitude": "47.32996000",
     "longitude": "1.13261000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -657,6 +692,7 @@
     "country_code": "FR",
     "latitude": "47.56705000",
     "longitude": "1.35493000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -668,6 +704,7 @@
     "country_code": "FR",
     "latitude": "47.71667000",
     "longitude": "1.60000000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -679,6 +716,7 @@
     "country_code": "FR",
     "latitude": "47.31877000",
     "longitude": "1.39956000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -690,6 +728,7 @@
     "country_code": "FR",
     "latitude": "47.60000000",
     "longitude": "1.26667000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -701,6 +740,7 @@
     "country_code": "FR",
     "latitude": "47.52438000",
     "longitude": "1.93276000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -712,6 +752,7 @@
     "country_code": "FR",
     "latitude": "47.42420000",
     "longitude": "2.05124000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -723,6 +764,7 @@
     "country_code": "FR",
     "latitude": "47.92352000",
     "longitude": "0.85340000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -734,6 +776,7 @@
     "country_code": "FR",
     "latitude": "47.87923000",
     "longitude": "0.80981000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -745,6 +788,7 @@
     "country_code": "FR",
     "latitude": "47.25688000",
     "longitude": "1.39964000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -756,6 +800,7 @@
     "country_code": "FR",
     "latitude": "47.38695000",
     "longitude": "1.92295000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -767,6 +812,7 @@
     "country_code": "FR",
     "latitude": "47.27904000",
     "longitude": "1.55387000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -778,6 +824,7 @@
     "country_code": "FR",
     "latitude": "47.41289000",
     "longitude": "1.52452000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -789,6 +836,7 @@
     "country_code": "FR",
     "latitude": "47.45638000",
     "longitude": "2.17495000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -800,6 +848,7 @@
     "country_code": "FR",
     "latitude": "47.66655000",
     "longitude": "1.46153000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -811,6 +860,7 @@
     "country_code": "FR",
     "latitude": "47.31429000",
     "longitude": "2.04028000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -822,6 +872,7 @@
     "country_code": "FR",
     "latitude": "47.32345000",
     "longitude": "1.30882000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -833,6 +884,7 @@
     "country_code": "FR",
     "latitude": "47.57150000",
     "longitude": "1.19680000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -844,6 +896,7 @@
     "country_code": "FR",
     "latitude": "47.53000000",
     "longitude": "1.21260000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -855,6 +908,7 @@
     "country_code": "FR",
     "latitude": "47.79292000",
     "longitude": "1.06556000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -866,6 +920,7 @@
     "country_code": "FR",
     "latitude": "47.50790000",
     "longitude": "1.15000000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -877,6 +932,7 @@
     "country_code": "FR",
     "latitude": "47.62344000",
     "longitude": "1.32252000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -888,6 +944,7 @@
     "country_code": "FR",
     "latitude": "47.30000000",
     "longitude": "1.76667000",
+    "county_id": 3220,
     "wikiDataId": null
   },
   {
@@ -899,6 +956,7 @@
     "country_code": "FR",
     "latitude": "47.80507000",
     "longitude": "0.99774000",
+    "county_id": 3219,
     "wikiDataId": null
   },
   {
@@ -910,6 +968,7 @@
     "country_code": "FR",
     "latitude": "47.58380000",
     "longitude": "1.37601000",
+    "county_id": 3218,
     "wikiDataId": null
   },
   {
@@ -921,6 +980,7 @@
     "country_code": "FR",
     "latitude": "47.64515000",
     "longitude": "2.05609000",
+    "county_id": 3220,
     "wikiDataId": null
   }
 ]

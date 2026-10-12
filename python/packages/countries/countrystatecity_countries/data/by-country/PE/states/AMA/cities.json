@@ -8,6 +8,19 @@
     "country_code": "PE",
     "latitude": "-5.75611000",
     "longitude": "-78.44111000",
+    "county_id": 8179,
+    "wikiDataId": null
+  },
+  {
+    "id": 81006,
+    "name": "Bagua Grande",
+    "state_id": 3685,
+    "state_code": "AMA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-5.75583333",
+    "longitude": "-78.44277778",
+    "county_id": 8179,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,7 @@
     "country_code": "PE",
     "latitude": "-5.73639000",
     "longitude": "-78.42556000",
+    "county_id": 8179,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,19 @@
     "country_code": "PE",
     "latitude": "-6.23169000",
     "longitude": "-77.86903000",
+    "county_id": 8173,
+    "wikiDataId": null
+  },
+  {
+    "id": 80803,
+    "name": "Chachapoyas",
+    "state_id": 3685,
+    "state_code": "AMA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-6.22944444",
+    "longitude": "-77.87138889",
+    "county_id": 8173,
     "wikiDataId": null
   },
   {
@@ -41,6 +68,7 @@
     "country_code": "PE",
     "latitude": "-4.16515000",
     "longitude": "-78.03840000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +80,7 @@
     "country_code": "PE",
     "latitude": "-5.61111000",
     "longitude": "-78.43500000",
+    "county_id": 8174,
     "wikiDataId": null
   },
   {
@@ -63,6 +92,7 @@
     "country_code": "PE",
     "latitude": "-5.09006000",
     "longitude": "-78.39972000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,17 +104,7 @@
     "country_code": "PE",
     "latitude": "-5.68341000",
     "longitude": "-77.87308000",
-    "wikiDataId": null
-  },
-  {
-    "id": 80803,
-    "name": "Provincia de Chachapoyas",
-    "state_id": 3685,
-    "state_code": "AMA",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-6.27480000",
-    "longitude": "-77.81067000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +116,7 @@
     "country_code": "PE",
     "latitude": "-6.41667000",
     "longitude": "-78.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,17 +128,7 @@
     "country_code": "PE",
     "latitude": "-6.33333000",
     "longitude": "-77.41667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 81006,
-    "name": "Utcubamba",
-    "state_id": 3685,
-    "state_code": "AMA",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-5.77031000",
-    "longitude": "-78.32850000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

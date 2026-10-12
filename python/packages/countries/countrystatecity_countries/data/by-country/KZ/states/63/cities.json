@@ -1,5 +1,17 @@
 [
   {
+    "id": 65850,
+    "name": "Altai",
+    "state_id": 154,
+    "state_code": "63",
+    "country_id": 112,
+    "country_code": "KZ",
+    "latitude": "49.72654000",
+    "longitude": "84.27318000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 65608,
     "name": "Altayskiy",
     "state_id": 154,
@@ -8,6 +20,7 @@
     "country_code": "KZ",
     "latitude": "50.24593000",
     "longitude": "82.36252000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,7 @@
     "country_code": "KZ",
     "latitude": "46.95000000",
     "longitude": "79.66667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,7 @@
     "country_code": "KZ",
     "latitude": "49.55688000",
     "longitude": "83.06355000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,17 +56,7 @@
     "country_code": "KZ",
     "latitude": "49.71003000",
     "longitude": "81.58018000",
-    "wikiDataId": null
-  },
-  {
-    "id": 65627,
-    "name": "Ayagoz",
-    "state_id": 154,
-    "state_code": "63",
-    "country_id": 112,
-    "country_code": "KZ",
-    "latitude": "47.96447000",
-    "longitude": "80.43437000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "KZ",
     "latitude": "49.47698000",
     "longitude": "83.14803000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "KZ",
     "latitude": "50.13287000",
     "longitude": "82.52481000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +92,7 @@
     "country_code": "KZ",
     "latitude": "50.71841000",
     "longitude": "80.92950000",
-    "wikiDataId": null
-  },
-  {
-    "id": 65681,
-    "name": "Georgīevka",
-    "state_id": 154,
-    "state_code": "63",
-    "country_id": 112,
-    "country_code": "KZ",
-    "latitude": "49.32671000",
-    "longitude": "81.57373000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,17 +104,7 @@
     "country_code": "KZ",
     "latitude": "50.13887000",
     "longitude": "82.31114000",
-    "wikiDataId": null
-  },
-  {
-    "id": 65705,
-    "name": "Kurchatov",
-    "state_id": 154,
-    "state_code": "63",
-    "country_id": 112,
-    "country_code": "KZ",
-    "latitude": "50.75617000",
-    "longitude": "78.54188000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +116,7 @@
     "country_code": "KZ",
     "latitude": "48.56603000",
     "longitude": "83.66146000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +128,7 @@
     "country_code": "KZ",
     "latitude": "49.81441000",
     "longitude": "84.29102000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +140,7 @@
     "country_code": "KZ",
     "latitude": "49.68351000",
     "longitude": "83.01674000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +152,7 @@
     "country_code": "KZ",
     "latitude": "49.06028000",
     "longitude": "81.64528000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +164,7 @@
     "country_code": "KZ",
     "latitude": "48.94509000",
     "longitude": "79.25502000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,17 +176,7 @@
     "country_code": "KZ",
     "latitude": "50.34413000",
     "longitude": "83.51287000",
-    "wikiDataId": null
-  },
-  {
-    "id": 65774,
-    "name": "Semey",
-    "state_id": 154,
-    "state_code": "63",
-    "country_id": 112,
-    "country_code": "KZ",
-    "latitude": "50.42675000",
-    "longitude": "80.26669000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,17 +188,19 @@
     "country_code": "KZ",
     "latitude": "49.58720000",
     "longitude": "81.04883000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 65785,
-    "name": "Shemonaīkha",
+    "name": "Shemonaikha",
     "state_id": 154,
     "state_code": "63",
     "country_id": 112,
     "country_code": "KZ",
     "latitude": "50.62811000",
     "longitude": "81.91213000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +212,7 @@
     "country_code": "KZ",
     "latitude": "49.70837000",
     "longitude": "81.04854000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,17 +224,7 @@
     "country_code": "KZ",
     "latitude": "47.72521000",
     "longitude": "84.20629000",
-    "wikiDataId": null
-  },
-  {
-    "id": 65822,
-    "name": "Urzhar",
-    "state_id": 154,
-    "state_code": "63",
-    "country_id": 112,
-    "country_code": "KZ",
-    "latitude": "47.09302000",
-    "longitude": "81.62939000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +236,7 @@
     "country_code": "KZ",
     "latitude": "49.97143000",
     "longitude": "82.60586000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +248,7 @@
     "country_code": "KZ",
     "latitude": "50.54927000",
     "longitude": "81.84997000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +260,7 @@
     "country_code": "KZ",
     "latitude": "47.46657000",
     "longitude": "84.87144000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +272,7 @@
     "country_code": "KZ",
     "latitude": "49.21094000",
     "longitude": "81.21596000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +284,7 @@
     "country_code": "KZ",
     "latitude": "49.62950000",
     "longitude": "83.52475000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,17 +296,7 @@
     "country_code": "KZ",
     "latitude": "50.93112000",
     "longitude": "81.36150000",
-    "wikiDataId": null
-  },
-  {
-    "id": 65850,
-    "name": "Zyryanovsk",
-    "state_id": 154,
-    "state_code": "63",
-    "country_id": 112,
-    "country_code": "KZ",
-    "latitude": "49.72654000",
-    "longitude": "84.27318000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

@@ -19,11 +19,11 @@
     "country_code": "RU",
     "state_code": "ALT",
     "type": "administrative territory",
-    "latitude": "50.71141010",
-    "longitude": "86.85721860",
+    "latitude": "52.76666667",
+    "longitude": "82.61666667",
     "iso3166_2": "RU-ALT",
     "native": "Алтай",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Barnaul"
   },
   {
     "id": 1876,
@@ -36,7 +36,7 @@
     "longitude": "86.85721860",
     "iso3166_2": "RU-AL",
     "native": "Алтай",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Barnaul"
   },
   {
     "id": 1858,
@@ -49,7 +49,7 @@
     "longitude": "128.43729500",
     "iso3166_2": "RU-AMU",
     "native": "Амур",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Yakutsk"
   },
   {
     "id": 1849,
@@ -75,7 +75,7 @@
     "longitude": "48.03262030",
     "iso3166_2": "RU-AST",
     "native": "Астрахань",
-    "timezone": "Europe/Moscow"
+    "timezone": "Europe/Astrakhan"
   },
   {
     "id": 1854,
@@ -88,7 +88,7 @@
     "longitude": "55.97845820",
     "iso3166_2": "RU-BA",
     "native": "Башкортостан",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Yekaterinburg"
   },
   {
     "id": 1903,
@@ -127,7 +127,7 @@
     "longitude": "109.49214300",
     "iso3166_2": "RU-BU",
     "native": "Бурятия",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Irkutsk"
   },
   {
     "id": 1893,
@@ -153,7 +153,7 @@
     "longitude": "61.40127260",
     "iso3166_2": "RU-CHE",
     "native": "Челябинск",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Yekaterinburg"
   },
   {
     "id": 1859,
@@ -244,7 +244,7 @@
     "longitude": "132.27756620",
     "iso3166_2": "RU-YEV",
     "native": "еврейский",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Vladivostok"
   },
   {
     "id": 1892,
@@ -348,7 +348,7 @@
     "longitude": "87.34286100",
     "iso3166_2": "RU-KEM",
     "native": "Кемерово",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Novokuznetsk"
   },
   {
     "id": 1873,
@@ -361,7 +361,7 @@
     "longitude": "136.12152400",
     "iso3166_2": "RU-KHA",
     "native": "Хабаровск",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Vladivostok"
   },
   {
     "id": 1877,
@@ -374,7 +374,7 @@
     "longitude": "90.06643030",
     "iso3166_2": "RU-KK",
     "native": "Хакасия",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Krasnoyarsk"
   },
   {
     "id": 1838,
@@ -387,7 +387,7 @@
     "longitude": "68.64181560",
     "iso3166_2": "RU-KHM",
     "native": "Ханты-Мансийский",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Yekaterinburg"
   },
   {
     "id": 1890,
@@ -465,7 +465,7 @@
     "longitude": "65.34211690",
     "iso3166_2": "RU-KGN",
     "native": "Курган",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Yekaterinburg"
   },
   {
     "id": 1855,
@@ -647,7 +647,7 @@
     "longitude": "82.95159890",
     "iso3166_2": "RU-NVS",
     "native": "Новосибирск",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Novosibirsk"
   },
   {
     "id": 1846,
@@ -673,7 +673,7 @@
     "longitude": "54.72766470",
     "iso3166_2": "RU-ORE",
     "native": "Оренбург",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Yekaterinburg"
   },
   {
     "id": 1908,
@@ -712,7 +712,7 @@
     "longitude": "56.31595460",
     "iso3166_2": "RU-PER",
     "native": "Пермь",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Yekaterinburg"
   },
   {
     "id": 1833,
@@ -725,7 +725,7 @@
     "longitude": "134.72664500",
     "iso3166_2": "RU-PRI",
     "native": "Приморский",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Vladivostok"
   },
   {
     "id": 1863,
@@ -790,7 +790,7 @@
     "longitude": "129.64237100",
     "iso3166_2": "RU-SA",
     "native": "Саха",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Yakutsk"
   },
   {
     "id": 1875,
@@ -829,7 +829,7 @@
     "longitude": "46.03468300",
     "iso3166_2": "RU-SAR",
     "native": "Саратов",
-    "timezone": "Europe/Moscow"
+    "timezone": "Europe/Saratov"
   },
   {
     "id": 1885,
@@ -868,7 +868,7 @@
     "longitude": "60.60825000",
     "iso3166_2": "RU-SVE",
     "native": "Свердловск",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Yekaterinburg"
   },
   {
     "id": 1878,
@@ -907,7 +907,7 @@
     "longitude": "82.04753150",
     "iso3166_2": "RU-TOM",
     "native": "Томск",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Tomsk"
   },
   {
     "id": 1895,
@@ -933,7 +933,7 @@
     "longitude": "93.85825930",
     "iso3166_2": "RU-TY",
     "native": "Тува",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Krasnoyarsk"
   },
   {
     "id": 1860,
@@ -959,7 +959,7 @@
     "longitude": "65.54227400",
     "iso3166_2": "RU-TYU",
     "native": "Тюмень",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Yekaterinburg"
   },
   {
     "id": 1913,
@@ -972,7 +972,7 @@
     "longitude": "52.69598320",
     "iso3166_2": "RU-UD",
     "native": "удмуртский",
-    "timezone": "Europe/Moscow"
+    "timezone": "Europe/Samara"
   },
   {
     "id": 1856,
@@ -985,7 +985,7 @@
     "longitude": "47.23249210",
     "iso3166_2": "RU-ULY",
     "native": "Ульяновск",
-    "timezone": "Europe/Moscow"
+    "timezone": "Europe/Ulyanovsk"
   },
   {
     "id": 1881,
@@ -1050,7 +1050,7 @@
     "longitude": "74.34154880",
     "iso3166_2": "RU-YAN",
     "native": "Ямало-Ненецкий",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Yekaterinburg"
   },
   {
     "id": 1851,
@@ -1076,6 +1076,6 @@
     "longitude": "115.95632500",
     "iso3166_2": "RU-ZAB",
     "native": "Забайкальский",
-    "timezone": "Europe/Moscow"
+    "timezone": "Asia/Chita"
   }
 ]

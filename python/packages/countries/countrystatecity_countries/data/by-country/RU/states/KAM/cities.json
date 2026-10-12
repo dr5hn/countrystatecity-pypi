@@ -1,16 +1,5 @@
 [
   {
-    "id": 97585,
-    "name": "Aleutskiy Rayon",
-    "state_id": 1865,
-    "state_code": "KAM",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "55.21667000",
-    "longitude": "165.98333000",
-    "wikiDataId": null
-  },
-  {
     "id": 97715,
     "name": "Atlasovo",
     "state_id": 1865,
@@ -19,17 +8,7 @@
     "country_code": "RU",
     "latitude": "55.60650000",
     "longitude": "159.64266000",
-    "wikiDataId": null
-  },
-  {
-    "id": 98100,
-    "name": "Bystrinskiy Rayon",
-    "state_id": 1865,
-    "state_code": "KAM",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "56.00000000",
-    "longitude": "158.50000000",
+    "county_id": 10035,
     "wikiDataId": null
   },
   {
@@ -41,6 +20,19 @@
     "country_code": "RU",
     "latitude": "55.92738000",
     "longitude": "158.70708000",
+    "county_id": 10034,
+    "wikiDataId": null
+  },
+  {
+    "id": 165483,
+    "name": "Kamenskoye",
+    "state_id": 1865,
+    "state_code": "KAM",
+    "country_id": 182,
+    "country_code": "RU",
+    "latitude": "62.46778000",
+    "longitude": "166.20666000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +44,7 @@
     "country_code": "RU",
     "latitude": "58.00000000",
     "longitude": "159.83333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +56,7 @@
     "country_code": "RU",
     "latitude": "56.32035000",
     "longitude": "160.84541000",
+    "county_id": 10037,
     "wikiDataId": null
   },
   {
@@ -74,6 +68,7 @@
     "country_code": "RU",
     "latitude": "56.04860000",
     "longitude": "159.87150000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +80,19 @@
     "country_code": "RU",
     "latitude": "54.69610000",
     "longitude": "158.62067000",
+    "county_id": 10035,
     "wikiDataId": null
   },
   {
-    "id": 99915,
-    "name": "Mil’kovskiy Rayon",
+    "id": 165484,
+    "name": "Nikol’skoye",
     "state_id": 1865,
     "state_code": "KAM",
     "country_id": 182,
     "country_code": "RU",
-    "latitude": "55.00000000",
-    "longitude": "159.00000000",
+    "latitude": "55.19683000",
+    "longitude": "165.99779000",
+    "county_id": 10033,
     "wikiDataId": null
   },
   {
@@ -107,6 +104,7 @@
     "country_code": "RU",
     "latitude": "61.00000000",
     "longitude": "169.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +116,7 @@
     "country_code": "RU",
     "latitude": "59.24781000",
     "longitude": "163.07034000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +128,7 @@
     "country_code": "RU",
     "latitude": "51.49604000",
     "longitude": "156.50102000",
+    "county_id": 10036,
     "wikiDataId": null
   },
   {
@@ -140,6 +140,7 @@
     "country_code": "RU",
     "latitude": "59.08384000",
     "longitude": "159.95630000",
+    "county_id": 9114,
     "wikiDataId": null
   },
   {
@@ -151,6 +152,7 @@
     "country_code": "RU",
     "latitude": "52.96202000",
     "longitude": "158.25723000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +164,7 @@
     "country_code": "RU",
     "latitude": "63.00000000",
     "longitude": "167.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +176,7 @@
     "country_code": "RU",
     "latitude": "53.04444000",
     "longitude": "158.65076000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +188,7 @@
     "country_code": "RU",
     "latitude": "54.58333000",
     "longitude": "156.50000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,17 +200,7 @@
     "country_code": "RU",
     "latitude": "57.75979000",
     "longitude": "158.68161000",
-    "wikiDataId": null
-  },
-  {
-    "id": 101850,
-    "name": "Tigil’skiy Rayon",
-    "state_id": 1865,
-    "state_code": "KAM",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "57.76046000",
-    "longitude": "158.68687000",
+    "county_id": 10038,
     "wikiDataId": null
   },
   {
@@ -217,17 +212,31 @@
     "country_code": "RU",
     "latitude": "60.42795000",
     "longitude": "166.05764000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 102116,
-    "name": "Ust’-Bol’sheretskiy Rayon",
+    "id": 165513,
+    "name": "Ust’-Bol’sheretsk",
     "state_id": 1865,
     "state_code": "KAM",
     "country_id": 182,
     "country_code": "RU",
-    "latitude": "52.66667000",
-    "longitude": "157.00000000",
+    "latitude": "52.82582000",
+    "longitude": "156.28290000",
+    "county_id": 10036,
+    "wikiDataId": null
+  },
+  {
+    "id": 165514,
+    "name": "Ust’-Kamchatsk",
+    "state_id": 1865,
+    "state_code": "KAM",
+    "country_id": 182,
+    "country_code": "RU",
+    "latitude": "56.23600000",
+    "longitude": "162.53300000",
+    "county_id": 10037,
     "wikiDataId": null
   },
   {
@@ -239,17 +248,7 @@
     "country_code": "RU",
     "latitude": "56.22778000",
     "longitude": "162.47778000",
-    "wikiDataId": null
-  },
-  {
-    "id": 102126,
-    "name": "Ust’-Kamchatskiy Rayon",
-    "state_id": 1865,
-    "state_code": "KAM",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "56.00000000",
-    "longitude": "161.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +260,7 @@
     "country_code": "RU",
     "latitude": "52.93110000",
     "longitude": "158.40469000",
+    "county_id": 9113,
     "wikiDataId": null
   },
   {
@@ -272,6 +272,7 @@
     "country_code": "RU",
     "latitude": "53.18909000",
     "longitude": "158.38135000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +284,7 @@
     "country_code": "RU",
     "latitude": "53.66667000",
     "longitude": "159.00000000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

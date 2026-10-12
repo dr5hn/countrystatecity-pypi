@@ -1,13 +1,26 @@
 [
   {
-    "id": 48180,
-    "name": "Aberporth",
+    "id": 48246,
+    "name": "Ammanford",
     "state_id": 2484,
     "state_code": "CMN",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.13248000",
-    "longitude": "-4.54173000",
+    "latitude": "51.79279000",
+    "longitude": "-3.98833000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48784,
+    "name": "Burry Port",
+    "state_id": 2484,
+    "state_code": "CMN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.68435000",
+    "longitude": "-4.24687000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,17 +32,7 @@
     "country_code": "GB",
     "latitude": "51.85552000",
     "longitude": "-4.30535000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48863,
-    "name": "Carmarthenshire",
-    "state_id": 2484,
-    "state_code": "CMN",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.83333000",
-    "longitude": "-4.16667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,19 @@
     "country_code": "GB",
     "latitude": "51.79306000",
     "longitude": "-4.08750000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49647,
+    "name": "Glanamman",
+    "state_id": 2484,
+    "state_code": "CMN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.80000000",
+    "longitude": "-3.93333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,7 @@
     "country_code": "GB",
     "latitude": "51.73639000",
     "longitude": "-4.30333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "GB",
     "latitude": "51.88459000",
     "longitude": "-3.99154000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +92,7 @@
     "country_code": "GB",
     "latitude": "51.99415000",
     "longitude": "-3.79637000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +104,19 @@
     "country_code": "GB",
     "latitude": "51.82044000",
     "longitude": "-4.00710000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 50349,
-    "name": "Llandysul",
+    "id": 50350,
+    "name": "Llanelli",
     "state_id": 2484,
     "state_code": "CMN",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.04166000",
-    "longitude": "-4.30909000",
+    "latitude": "51.68195000",
+    "longitude": "-4.16191000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +128,7 @@
     "country_code": "GB",
     "latitude": "51.77222000",
     "longitude": "-4.39139000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +140,7 @@
     "country_code": "GB",
     "latitude": "52.04056000",
     "longitude": "-4.46670000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +152,7 @@
     "country_code": "GB",
     "latitude": "52.00080000",
     "longitude": "-4.26575000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +164,7 @@
     "country_code": "GB",
     "latitude": "51.75182000",
     "longitude": "-4.21718000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +176,7 @@
     "country_code": "GB",
     "latitude": "51.77826000",
     "longitude": "-4.16890000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +188,7 @@
     "country_code": "GB",
     "latitude": "51.81989000",
     "longitude": "-4.49783000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +200,7 @@
     "country_code": "GB",
     "latitude": "51.71988000",
     "longitude": "-4.24168000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +212,31 @@
     "country_code": "GB",
     "latitude": "51.78361000",
     "longitude": "-4.10972000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51684,
+    "name": "Tycroes",
+    "state_id": 2484,
+    "state_code": "CMN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.77806000",
+    "longitude": "-4.02000000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51877,
+    "name": "Whitland",
+    "state_id": 2484,
+    "state_code": "CMN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.81889000",
+    "longitude": "-4.61528000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

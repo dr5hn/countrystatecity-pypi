@@ -8,6 +8,7 @@
     "country_code": "ES",
     "latitude": "36.46212000",
     "longitude": "-5.72382000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "ES",
     "latitude": "36.90448000",
     "longitude": "-5.17240000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "ES",
     "latitude": "36.65748000",
     "longitude": "-5.65558000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "ES",
     "latitude": "36.13326000",
     "longitude": "-5.45051000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "ES",
     "latitude": "36.88044000",
     "longitude": "-5.40536000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "ES",
     "latitude": "36.75075000",
     "longitude": "-5.81056000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,17 +80,7 @@
     "country_code": "ES",
     "latitude": "36.19237000",
     "longitude": "-5.92186000",
-    "wikiDataId": null
-  },
-  {
-    "id": 151361,
-    "name": "Barrios Los",
-    "state_id": 5096,
-    "state_code": "CA",
-    "country_id": 207,
-    "country_code": "ES",
-    "latitude": "36.18506450",
-    "longitude": "-5.49255730",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +92,7 @@
     "country_code": "ES",
     "latitude": "36.34375000",
     "longitude": "-5.81280000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +104,7 @@
     "country_code": "ES",
     "latitude": "36.70069000",
     "longitude": "-5.42222000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +116,7 @@
     "country_code": "ES",
     "latitude": "36.81677000",
     "longitude": "-5.74448000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +128,7 @@
     "country_code": "ES",
     "latitude": "36.52672000",
     "longitude": "-6.28910000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +140,7 @@
     "country_code": "ES",
     "latitude": "36.31736000",
     "longitude": "-5.45407000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +152,7 @@
     "country_code": "ES",
     "latitude": "36.41976000",
     "longitude": "-6.14367000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +164,7 @@
     "country_code": "ES",
     "latitude": "36.73663000",
     "longitude": "-6.43703000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +176,7 @@
     "country_code": "ES",
     "latitude": "36.27719000",
     "longitude": "-6.08850000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +188,7 @@
     "country_code": "ES",
     "latitude": "36.75800420",
     "longitude": "-5.50617880",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +200,7 @@
     "country_code": "ES",
     "latitude": "36.85602900",
     "longitude": "-5.32266770",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +212,7 @@
     "country_code": "ES",
     "latitude": "36.63932810",
     "longitude": "-6.25883690",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +224,7 @@
     "country_code": "ES",
     "latitude": "36.87446000",
     "longitude": "-5.80600000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +236,7 @@
     "country_code": "ES",
     "latitude": "36.76018000",
     "longitude": "-5.36839000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +248,7 @@
     "country_code": "ES",
     "latitude": "36.68645000",
     "longitude": "-6.13606000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +260,7 @@
     "country_code": "ES",
     "latitude": "36.43517000",
     "longitude": "-5.45387000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,17 +272,31 @@
     "country_code": "ES",
     "latitude": "36.16825630",
     "longitude": "-5.34947190",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 151361,
+    "name": "Los Barrios",
+    "state_id": 5096,
+    "state_code": "CA",
+    "country_id": 207,
+    "country_code": "ES",
+    "latitude": "36.18506450",
+    "longitude": "-5.49255730",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 151365,
-    "name": "Medina-Sidonia",
+    "name": "Medina Sidonia",
     "state_id": 5096,
     "state_code": "CA",
     "country_id": 207,
     "country_code": "ES",
     "latitude": "36.46196440",
     "longitude": "-5.92921310",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +308,7 @@
     "country_code": "ES",
     "latitude": "36.93418000",
     "longitude": "-5.26678000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +320,7 @@
     "country_code": "ES",
     "latitude": "36.52246000",
     "longitude": "-5.86578000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +332,7 @@
     "country_code": "ES",
     "latitude": "36.78756000",
     "longitude": "-5.55589000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +344,7 @@
     "country_code": "ES",
     "latitude": "36.52819000",
     "longitude": "-6.19011000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,6 +356,7 @@
     "country_code": "ES",
     "latitude": "36.92209000",
     "longitude": "-5.54304000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -338,6 +368,7 @@
     "country_code": "ES",
     "latitude": "36.62545000",
     "longitude": "-6.36220000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -349,6 +380,7 @@
     "country_code": "ES",
     "latitude": "36.47590000",
     "longitude": "-6.19817000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -360,6 +392,7 @@
     "country_code": "ES",
     "latitude": "36.60554000",
     "longitude": "-5.79895000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -371,6 +404,7 @@
     "country_code": "ES",
     "latitude": "36.21067000",
     "longitude": "-5.38415000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,6 +416,7 @@
     "country_code": "ES",
     "latitude": "36.77808000",
     "longitude": "-6.35150000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -393,6 +428,7 @@
     "country_code": "ES",
     "latitude": "36.86397000",
     "longitude": "-5.18177000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -404,6 +440,7 @@
     "country_code": "ES",
     "latitude": "36.01393000",
     "longitude": "-5.60695000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,6 +452,7 @@
     "country_code": "ES",
     "latitude": "36.91588000",
     "longitude": "-5.23381000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -426,6 +464,7 @@
     "country_code": "ES",
     "latitude": "36.87075000",
     "longitude": "-6.17586000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -437,6 +476,7 @@
     "country_code": "ES",
     "latitude": "36.67777000",
     "longitude": "-5.44600000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -448,6 +488,7 @@
     "country_code": "ES",
     "latitude": "36.25213000",
     "longitude": "-5.96717000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -459,6 +500,7 @@
     "country_code": "ES",
     "latitude": "36.69644000",
     "longitude": "-5.38601000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -470,6 +512,7 @@
     "country_code": "ES",
     "latitude": "36.85979000",
     "longitude": "-5.64485000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -481,6 +524,7 @@
     "country_code": "ES",
     "latitude": "36.84055000",
     "longitude": "-5.39128000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

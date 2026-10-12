@@ -8,6 +8,7 @@
     "country_code": "RU",
     "latitude": "47.25838000",
     "longitude": "39.86675000",
+    "county_id": 9346,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "RU",
     "latitude": "48.04476000",
     "longitude": "40.04501000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "RU",
     "latitude": "47.56072000",
     "longitude": "38.52837000",
+    "county_id": 9364,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "RU",
     "latitude": "47.78228000",
     "longitude": "40.14763000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "RU",
     "latitude": "47.10779000",
     "longitude": "39.41648000",
+    "county_id": 9387,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "RU",
     "latitude": "47.32411000",
     "longitude": "40.38791000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "RU",
     "latitude": "47.13975000",
     "longitude": "39.75181000",
+    "county_id": 10320,
     "wikiDataId": null
   },
   {
@@ -85,6 +92,7 @@
     "country_code": "RU",
     "latitude": "48.18585000",
     "longitude": "40.77424000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +104,19 @@
     "country_code": "RU",
     "latitude": "49.22899000",
     "longitude": "41.83060000",
+    "county_id": 9349,
+    "wikiDataId": null
+  },
+  {
+    "id": 165491,
+    "name": "Bol’shaya Martynovka",
+    "state_id": 1837,
+    "state_code": "ROS",
+    "country_id": 182,
+    "country_code": "RU",
+    "latitude": "47.27366000",
+    "longitude": "41.66721000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +128,7 @@
     "country_code": "RU",
     "latitude": "48.20813000",
     "longitude": "41.14097000",
+    "county_id": 9380,
     "wikiDataId": null
   },
   {
@@ -118,6 +140,7 @@
     "country_code": "RU",
     "latitude": "47.28477000",
     "longitude": "39.48232000",
+    "county_id": 9367,
     "wikiDataId": null
   },
   {
@@ -129,6 +152,7 @@
     "country_code": "RU",
     "latitude": "49.38451000",
     "longitude": "40.14723000",
+    "county_id": 9384,
     "wikiDataId": null
   },
   {
@@ -140,6 +164,7 @@
     "country_code": "RU",
     "latitude": "48.33962000",
     "longitude": "39.95948000",
+    "county_id": 10323,
     "wikiDataId": null
   },
   {
@@ -151,6 +176,7 @@
     "country_code": "RU",
     "latitude": "47.41404000",
     "longitude": "40.25742000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +188,7 @@
     "country_code": "RU",
     "latitude": "47.41420000",
     "longitude": "42.76970000",
+    "county_id": 9353,
     "wikiDataId": null
   },
   {
@@ -173,6 +200,7 @@
     "country_code": "RU",
     "latitude": "46.50665000",
     "longitude": "41.34185000",
+    "county_id": 9376,
     "wikiDataId": null
   },
   {
@@ -184,6 +212,7 @@
     "country_code": "RU",
     "latitude": "48.52716000",
     "longitude": "40.33144000",
+    "county_id": 9359,
     "wikiDataId": null
   },
   {
@@ -195,6 +224,7 @@
     "country_code": "RU",
     "latitude": "48.29649000",
     "longitude": "40.92404000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +236,7 @@
     "country_code": "RU",
     "latitude": "47.81592000",
     "longitude": "40.20363000",
+    "county_id": 9362,
     "wikiDataId": null
   },
   {
@@ -217,6 +248,7 @@
     "country_code": "RU",
     "latitude": "47.44056000",
     "longitude": "39.95111000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +260,7 @@
     "country_code": "RU",
     "latitude": "48.06212000",
     "longitude": "39.93550000",
+    "county_id": 10322,
     "wikiDataId": null
   },
   {
@@ -239,6 +272,7 @@
     "country_code": "RU",
     "latitude": "46.78047000",
     "longitude": "41.89680000",
+    "county_id": 9371,
     "wikiDataId": null
   },
   {
@@ -250,6 +284,7 @@
     "country_code": "RU",
     "latitude": "46.88056000",
     "longitude": "40.14657000",
+    "county_id": 9358,
     "wikiDataId": null
   },
   {
@@ -261,6 +296,7 @@
     "country_code": "RU",
     "latitude": "47.24678000",
     "longitude": "39.51088000",
+    "county_id": 9367,
     "wikiDataId": null
   },
   {
@@ -272,17 +308,19 @@
     "country_code": "RU",
     "latitude": "47.66853000",
     "longitude": "40.20510000",
+    "county_id": 9370,
     "wikiDataId": null
   },
   {
     "id": 98819,
-    "name": "Kamensk-Shakhtinskiy",
+    "name": "Kamensk-Shakhtinsky",
     "state_id": 1837,
     "state_code": "ROS",
     "country_id": 182,
     "country_code": "RU",
     "latitude": "48.31779000",
     "longitude": "40.25948000",
+    "county_id": 10325,
     "wikiDataId": null
   },
   {
@@ -294,6 +332,7 @@
     "country_code": "RU",
     "latitude": "49.04001000",
     "longitude": "41.00557000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +344,7 @@
     "country_code": "RU",
     "latitude": "49.79333000",
     "longitude": "41.14667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +356,7 @@
     "country_code": "RU",
     "latitude": "46.97480000",
     "longitude": "40.04020000",
+    "county_id": 9358,
     "wikiDataId": null
   },
   {
@@ -327,6 +368,7 @@
     "country_code": "RU",
     "latitude": "48.19742000",
     "longitude": "40.64325000",
+    "county_id": 9348,
     "wikiDataId": null
   },
   {
@@ -338,6 +380,7 @@
     "country_code": "RU",
     "latitude": "47.58278000",
     "longitude": "41.09222000",
+    "county_id": 9361,
     "wikiDataId": null
   },
   {
@@ -349,6 +392,7 @@
     "country_code": "RU",
     "latitude": "46.11293000",
     "longitude": "41.50157000",
+    "county_id": 9372,
     "wikiDataId": null
   },
   {
@@ -360,6 +404,7 @@
     "country_code": "RU",
     "latitude": "47.01140000",
     "longitude": "42.20720000",
+    "county_id": 9371,
     "wikiDataId": null
   },
   {
@@ -371,6 +416,7 @@
     "country_code": "RU",
     "latitude": "48.81769000",
     "longitude": "40.09226000",
+    "county_id": 9379,
     "wikiDataId": null
   },
   {
@@ -382,6 +428,7 @@
     "country_code": "RU",
     "latitude": "47.65010000",
     "longitude": "42.04430000",
+    "county_id": 9383,
     "wikiDataId": null
   },
   {
@@ -393,6 +440,7 @@
     "country_code": "RU",
     "latitude": "47.89221000",
     "longitude": "40.07037000",
+    "county_id": 9362,
     "wikiDataId": null
   },
   {
@@ -404,6 +452,7 @@
     "country_code": "RU",
     "latitude": "47.55222000",
     "longitude": "40.10885000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,6 +464,7 @@
     "country_code": "RU",
     "latitude": "47.39689000",
     "longitude": "40.16680000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -426,6 +476,7 @@
     "country_code": "RU",
     "latitude": "47.30025000",
     "longitude": "39.51637000",
+    "county_id": 9367,
     "wikiDataId": null
   },
   {
@@ -437,6 +488,7 @@
     "country_code": "RU",
     "latitude": "47.07802000",
     "longitude": "39.55794000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -448,6 +500,7 @@
     "country_code": "RU",
     "latitude": "47.81228000",
     "longitude": "38.90731000",
+    "county_id": 9363,
     "wikiDataId": null
   },
   {
@@ -459,6 +512,7 @@
     "country_code": "RU",
     "latitude": "46.01100000",
     "longitude": "41.26570000",
+    "county_id": 9372,
     "wikiDataId": null
   },
   {
@@ -470,6 +524,7 @@
     "country_code": "RU",
     "latitude": "48.15188000",
     "longitude": "40.17925000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -481,6 +536,7 @@
     "country_code": "RU",
     "latitude": "48.12662000",
     "longitude": "40.20556000",
+    "county_id": 9362,
     "wikiDataId": null
   },
   {
@@ -492,6 +548,7 @@
     "country_code": "RU",
     "latitude": "47.24867000",
     "longitude": "41.49792000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -503,6 +560,7 @@
     "country_code": "RU",
     "latitude": "48.40372000",
     "longitude": "40.26064000",
+    "county_id": 9359,
     "wikiDataId": null
   },
   {
@@ -514,6 +572,7 @@
     "country_code": "RU",
     "latitude": "47.56450000",
     "longitude": "38.86947000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -525,6 +584,7 @@
     "country_code": "RU",
     "latitude": "47.69600000",
     "longitude": "40.10259000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -536,6 +596,7 @@
     "country_code": "RU",
     "latitude": "46.77130000",
     "longitude": "40.45597000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -547,6 +608,7 @@
     "country_code": "RU",
     "latitude": "47.48106000",
     "longitude": "40.48669000",
+    "county_id": 9381,
     "wikiDataId": null
   },
   {
@@ -558,6 +620,7 @@
     "country_code": "RU",
     "latitude": "48.92265000",
     "longitude": "40.39673000",
+    "county_id": 9365,
     "wikiDataId": null
   },
   {
@@ -569,6 +632,7 @@
     "country_code": "RU",
     "latitude": "48.62788000",
     "longitude": "41.66788000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -580,6 +644,7 @@
     "country_code": "RU",
     "latitude": "48.66550000",
     "longitude": "41.74981000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -591,6 +656,7 @@
     "country_code": "RU",
     "latitude": "48.35502000",
     "longitude": "41.82627000",
+    "county_id": 9366,
     "wikiDataId": null
   },
   {
@@ -602,6 +668,7 @@
     "country_code": "RU",
     "latitude": "47.26873000",
     "longitude": "39.34880000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -613,6 +680,7 @@
     "country_code": "RU",
     "latitude": "47.61391000",
     "longitude": "41.50230000",
+    "county_id": 9361,
     "wikiDataId": null
   },
   {
@@ -624,6 +692,7 @@
     "country_code": "RU",
     "latitude": "46.89806000",
     "longitude": "39.78194000",
+    "county_id": 9358,
     "wikiDataId": null
   },
   {
@@ -635,6 +704,7 @@
     "country_code": "RU",
     "latitude": "47.18465000",
     "longitude": "38.84625000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -646,6 +716,7 @@
     "country_code": "RU",
     "latitude": "47.42096000",
     "longitude": "40.09185000",
+    "county_id": 10326,
     "wikiDataId": null
   },
   {
@@ -657,6 +728,7 @@
     "country_code": "RU",
     "latitude": "47.76037000",
     "longitude": "39.93335000",
+    "county_id": 10327,
     "wikiDataId": null
   },
   {
@@ -668,6 +740,7 @@
     "country_code": "RU",
     "latitude": "46.39270000",
     "longitude": "41.87162000",
+    "county_id": 9376,
     "wikiDataId": null
   },
   {
@@ -679,6 +752,7 @@
     "country_code": "RU",
     "latitude": "48.53616000",
     "longitude": "42.50138000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -690,6 +764,7 @@
     "country_code": "RU",
     "latitude": "47.18794000",
     "longitude": "39.94925000",
+    "county_id": 9346,
     "wikiDataId": null
   },
   {
@@ -701,6 +776,7 @@
     "country_code": "RU",
     "latitude": "46.87139000",
     "longitude": "42.05917000",
+    "county_id": 9371,
     "wikiDataId": null
   },
   {
@@ -712,6 +788,7 @@
     "country_code": "RU",
     "latitude": "47.52972000",
     "longitude": "39.41833000",
+    "county_id": 9375,
     "wikiDataId": null
   },
   {
@@ -723,6 +800,7 @@
     "country_code": "RU",
     "latitude": "46.19517000",
     "longitude": "41.08143000",
+    "county_id": 9372,
     "wikiDataId": null
   },
   {
@@ -734,6 +812,7 @@
     "country_code": "RU",
     "latitude": "47.01867000",
     "longitude": "39.38845000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -745,6 +824,7 @@
     "country_code": "RU",
     "latitude": "47.41570000",
     "longitude": "38.89706000",
+    "county_id": 9368,
     "wikiDataId": null
   },
   {
@@ -756,6 +836,7 @@
     "country_code": "RU",
     "latitude": "46.87900000",
     "longitude": "38.75600000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -767,6 +848,7 @@
     "country_code": "RU",
     "latitude": "47.28395000",
     "longitude": "39.06408000",
+    "county_id": 9368,
     "wikiDataId": null
   },
   {
@@ -778,6 +860,7 @@
     "country_code": "RU",
     "latitude": "46.70289000",
     "longitude": "41.72717000",
+    "county_id": 9373,
     "wikiDataId": null
   },
   {
@@ -789,6 +872,7 @@
     "country_code": "RU",
     "latitude": "46.83333000",
     "longitude": "40.75000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -800,6 +884,7 @@
     "country_code": "RU",
     "latitude": "46.56140000",
     "longitude": "43.65010000",
+    "county_id": 9374,
     "wikiDataId": null
   },
   {
@@ -811,6 +896,7 @@
     "country_code": "RU",
     "latitude": "47.60000000",
     "longitude": "39.70000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -822,6 +908,7 @@
     "country_code": "RU",
     "latitude": "47.61033000",
     "longitude": "39.71212000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -833,17 +920,19 @@
     "country_code": "RU",
     "latitude": "47.54260000",
     "longitude": "42.02850000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 101007,
-    "name": "Rostov-na-Donu",
+    "name": "Rostov-on-Don",
     "state_id": 1837,
     "state_code": "ROS",
     "country_id": 182,
     "country_code": "RU",
     "latitude": "47.23135000",
     "longitude": "39.72328000",
+    "county_id": 9386,
     "wikiDataId": null
   },
   {
@@ -855,6 +944,7 @@
     "country_code": "RU",
     "latitude": "46.47470000",
     "longitude": "41.54114000",
+    "county_id": 9376,
     "wikiDataId": null
   },
   {
@@ -866,6 +956,7 @@
     "country_code": "RU",
     "latitude": "46.93700000",
     "longitude": "39.68810000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -877,6 +968,7 @@
     "country_code": "RU",
     "latitude": "47.74306000",
     "longitude": "39.83083000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -888,6 +980,7 @@
     "country_code": "RU",
     "latitude": "46.27081000",
     "longitude": "41.75834000",
+    "county_id": 9376,
     "wikiDataId": null
   },
   {
@@ -899,6 +992,7 @@
     "country_code": "RU",
     "latitude": "47.51675000",
     "longitude": "40.80577000",
+    "county_id": 9377,
     "wikiDataId": null
   },
   {
@@ -910,6 +1004,7 @@
     "country_code": "RU",
     "latitude": "47.70911000",
     "longitude": "40.21443000",
+    "county_id": 10329,
     "wikiDataId": null
   },
   {
@@ -921,6 +1016,7 @@
     "country_code": "RU",
     "latitude": "48.28071000",
     "longitude": "41.04592000",
+    "county_id": 9348,
     "wikiDataId": null
   },
   {
@@ -932,6 +1028,7 @@
     "country_code": "RU",
     "latitude": "48.01389000",
     "longitude": "40.84468000",
+    "county_id": 9348,
     "wikiDataId": null
   },
   {
@@ -943,6 +1040,7 @@
     "country_code": "RU",
     "latitude": "47.27703000",
     "longitude": "39.27888000",
+    "county_id": 9368,
     "wikiDataId": null
   },
   {
@@ -954,6 +1052,7 @@
     "country_code": "RU",
     "latitude": "47.83536000",
     "longitude": "39.94711000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -965,6 +1064,7 @@
     "country_code": "RU",
     "latitude": "49.00912000",
     "longitude": "42.12178000",
+    "county_id": 9378,
     "wikiDataId": null
   },
   {
@@ -976,6 +1076,7 @@
     "country_code": "RU",
     "latitude": "48.34579000",
     "longitude": "40.29376000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -987,6 +1088,7 @@
     "country_code": "RU",
     "latitude": "47.24077000",
     "longitude": "40.04186000",
+    "county_id": 9346,
     "wikiDataId": null
   },
   {
@@ -998,6 +1100,7 @@
     "country_code": "RU",
     "latitude": "47.23617000",
     "longitude": "38.89688000",
+    "county_id": 10328,
     "wikiDataId": null
   },
   {
@@ -1009,6 +1112,7 @@
     "country_code": "RU",
     "latitude": "47.80765000",
     "longitude": "40.10943000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1020,6 +1124,7 @@
     "country_code": "RU",
     "latitude": "47.26837000",
     "longitude": "39.33425000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1031,6 +1136,7 @@
     "country_code": "RU",
     "latitude": "48.72727000",
     "longitude": "40.36267000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1042,6 +1148,7 @@
     "country_code": "RU",
     "latitude": "48.19677000",
     "longitude": "41.27558000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1053,6 +1160,7 @@
     "country_code": "RU",
     "latitude": "46.53381000",
     "longitude": "41.03284000",
+    "county_id": 9382,
     "wikiDataId": null
   },
   {
@@ -1064,6 +1172,7 @@
     "country_code": "RU",
     "latitude": "47.64611000",
     "longitude": "42.10194000",
+    "county_id": 9383,
     "wikiDataId": null
   },
   {
@@ -1075,6 +1184,7 @@
     "country_code": "RU",
     "latitude": "48.24274000",
     "longitude": "41.25310000",
+    "county_id": 9380,
     "wikiDataId": null
   },
   {
@@ -1086,6 +1196,7 @@
     "country_code": "RU",
     "latitude": "48.14558000",
     "longitude": "40.06352000",
+    "county_id": 9362,
     "wikiDataId": null
   },
   {
@@ -1097,6 +1208,7 @@
     "country_code": "RU",
     "latitude": "47.64189000",
     "longitude": "40.87182000",
+    "county_id": 9381,
     "wikiDataId": null
   },
   {
@@ -1108,6 +1220,7 @@
     "country_code": "RU",
     "latitude": "47.09338000",
     "longitude": "40.74220000",
+    "county_id": 9351,
     "wikiDataId": null
   },
   {
@@ -1119,6 +1232,7 @@
     "country_code": "RU",
     "latitude": "49.63033000",
     "longitude": "41.73340000",
+    "county_id": 9385,
     "wikiDataId": null
   },
   {
@@ -1130,6 +1244,7 @@
     "country_code": "RU",
     "latitude": "47.51361000",
     "longitude": "42.15139000",
+    "county_id": 10321,
     "wikiDataId": null
   },
   {
@@ -1141,6 +1256,7 @@
     "country_code": "RU",
     "latitude": "46.56564000",
     "longitude": "40.65621000",
+    "county_id": 9354,
     "wikiDataId": null
   },
   {
@@ -1152,6 +1268,7 @@
     "country_code": "RU",
     "latitude": "47.11944000",
     "longitude": "43.89028000",
+    "county_id": 9355,
     "wikiDataId": null
   },
   {
@@ -1163,6 +1280,7 @@
     "country_code": "RU",
     "latitude": "46.84518000",
     "longitude": "40.30834000",
+    "county_id": 9356,
     "wikiDataId": null
   },
   {
@@ -1174,6 +1292,7 @@
     "country_code": "RU",
     "latitude": "48.17089000",
     "longitude": "41.12608000",
+    "county_id": 9380,
     "wikiDataId": null
   },
   {
@@ -1185,6 +1304,7 @@
     "country_code": "RU",
     "latitude": "47.14740000",
     "longitude": "42.47210000",
+    "county_id": 9357,
     "wikiDataId": null
   },
   {
@@ -1196,6 +1316,7 @@
     "country_code": "RU",
     "latitude": "48.02108000",
     "longitude": "40.12282000",
+    "county_id": 10324,
     "wikiDataId": null
   }
 ]

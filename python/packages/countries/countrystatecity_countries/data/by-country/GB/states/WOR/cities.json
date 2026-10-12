@@ -1,13 +1,14 @@
 [
   {
-    "id": 48205,
-    "name": "Alcester",
+    "id": 48235,
+    "name": "Alvechurch",
     "state_id": 2510,
     "state_code": "WOR",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.21667000",
-    "longitude": "-1.86667000",
+    "latitude": "52.35173000",
+    "longitude": "-1.96531000",
+    "county_id": 8118,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "GB",
     "latitude": "52.25993000",
     "longitude": "-1.93754000",
+    "county_id": 8120,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,31 @@
     "country_code": "GB",
     "latitude": "52.08819000",
     "longitude": "-1.89925000",
+    "county_id": 8122,
+    "wikiDataId": null
+  },
+  {
+    "id": 48404,
+    "name": "Barnt Green",
+    "state_id": 2510,
+    "state_code": "WOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.35902000",
+    "longitude": "-2.00715000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48457,
+    "name": "Belbroughton",
+    "state_id": 2510,
+    "state_code": "WOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.39177000",
+    "longitude": "-2.11884000",
+    "county_id": 8118,
     "wikiDataId": null
   },
   {
@@ -41,17 +68,7 @@
     "country_code": "GB",
     "latitude": "52.37570000",
     "longitude": "-2.31833000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48498,
-    "name": "Bidford-on-Avon",
-    "state_id": 2510,
-    "state_code": "WOR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.16964000",
-    "longitude": "-1.85955000",
+    "county_id": 8123,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "GB",
     "latitude": "52.03008000",
     "longitude": "-2.11671000",
+    "county_id": 8122,
     "wikiDataId": null
   },
   {
@@ -74,6 +92,7 @@
     "country_code": "GB",
     "latitude": "52.03825000",
     "longitude": "-1.86079000",
+    "county_id": 8122,
     "wikiDataId": null
   },
   {
@@ -85,28 +104,7 @@
     "country_code": "GB",
     "latitude": "52.33574000",
     "longitude": "-2.05983000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48972,
-    "name": "Chipping Campden",
-    "state_id": 2510,
-    "state_code": "WOR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.04964000",
-    "longitude": "-1.77670000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49031,
-    "name": "Cleobury Mortimer",
-    "state_id": 2510,
-    "state_code": "WOR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.37853000",
-    "longitude": "-2.48196000",
+    "county_id": 8118,
     "wikiDataId": null
   },
   {
@@ -118,6 +116,7 @@
     "country_code": "GB",
     "latitude": "52.26667000",
     "longitude": "-2.15000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +128,7 @@
     "country_code": "GB",
     "latitude": "52.06667000",
     "longitude": "-2.11667000",
+    "county_id": 8122,
     "wikiDataId": null
   },
   {
@@ -140,6 +140,7 @@
     "country_code": "GB",
     "latitude": "52.09237000",
     "longitude": "-1.94887000",
+    "county_id": 8122,
     "wikiDataId": null
   },
   {
@@ -151,6 +152,7 @@
     "country_code": "GB",
     "latitude": "52.23002000",
     "longitude": "-2.19659000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +164,19 @@
     "country_code": "GB",
     "latitude": "52.11161000",
     "longitude": "-2.32515000",
+    "county_id": 8119,
+    "wikiDataId": null
+  },
+  {
+    "id": 49778,
+    "name": "Hagley",
+    "state_id": 2510,
+    "state_code": "WOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.42620000",
+    "longitude": "-2.12819000",
+    "county_id": 8118,
     "wikiDataId": null
   },
   {
@@ -173,6 +188,7 @@
     "country_code": "GB",
     "latitude": "52.22344000",
     "longitude": "-2.25468000",
+    "county_id": 8119,
     "wikiDataId": null
   },
   {
@@ -184,6 +200,7 @@
     "country_code": "GB",
     "latitude": "52.33333000",
     "longitude": "-2.23333000",
+    "county_id": 8122,
     "wikiDataId": null
   },
   {
@@ -195,6 +212,7 @@
     "country_code": "GB",
     "latitude": "52.14095000",
     "longitude": "-1.92313000",
+    "county_id": 8122,
     "wikiDataId": null
   },
   {
@@ -206,6 +224,7 @@
     "country_code": "GB",
     "latitude": "52.09513000",
     "longitude": "-1.83129000",
+    "county_id": 8122,
     "wikiDataId": null
   },
   {
@@ -217,6 +236,7 @@
     "country_code": "GB",
     "latitude": "52.21284000",
     "longitude": "-1.98093000",
+    "county_id": 8122,
     "wikiDataId": null
   },
   {
@@ -228,6 +248,7 @@
     "country_code": "GB",
     "latitude": "52.13936000",
     "longitude": "-2.21751000",
+    "county_id": 8119,
     "wikiDataId": null
   },
   {
@@ -239,6 +260,7 @@
     "country_code": "GB",
     "latitude": "52.38819000",
     "longitude": "-2.25000000",
+    "county_id": 8123,
     "wikiDataId": null
   },
   {
@@ -250,6 +272,7 @@
     "country_code": "GB",
     "latitude": "52.20000000",
     "longitude": "-2.01667000",
+    "county_id": 8122,
     "wikiDataId": null
   },
   {
@@ -261,6 +284,7 @@
     "country_code": "GB",
     "latitude": "52.21379000",
     "longitude": "-2.27724000",
+    "county_id": 8119,
     "wikiDataId": null
   },
   {
@@ -272,6 +296,31 @@
     "country_code": "GB",
     "latitude": "52.11163000",
     "longitude": "-2.07586000",
+    "county_id": 8122,
+    "wikiDataId": null
+  },
+  {
+    "id": 51052,
+    "name": "Redditch",
+    "state_id": 2510,
+    "state_code": "WOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.30650000",
+    "longitude": "-1.94569000",
+    "county_id": 8120,
+    "wikiDataId": null
+  },
+  {
+    "id": 51104,
+    "name": "Romsley",
+    "state_id": 2510,
+    "state_code": "WOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.41996000",
+    "longitude": "-2.05695000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +332,7 @@
     "country_code": "GB",
     "latitude": "52.11416000",
     "longitude": "-1.89014000",
+    "county_id": 8122,
     "wikiDataId": null
   },
   {
@@ -294,6 +344,7 @@
     "country_code": "GB",
     "latitude": "52.29978000",
     "longitude": "-2.08034000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +356,19 @@
     "country_code": "GB",
     "latitude": "52.33976000",
     "longitude": "-2.28034000",
+    "county_id": 8123,
+    "wikiDataId": null
+  },
+  {
+    "id": 51575,
+    "name": "Tenbury Wells",
+    "state_id": 2510,
+    "state_code": "WOR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.31077000",
+    "longitude": "-2.59621000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +380,7 @@
     "country_code": "GB",
     "latitude": "52.06258000",
     "longitude": "-2.21802000",
+    "county_id": 8119,
     "wikiDataId": null
   },
   {
@@ -327,17 +392,7 @@
     "country_code": "GB",
     "latitude": "52.18935000",
     "longitude": "-2.22001000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51986,
-    "name": "Worcestershire",
-    "state_id": 2510,
-    "state_code": "WOR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.16667000",
-    "longitude": "-2.16667000",
+    "county_id": 8121,
     "wikiDataId": null
   },
   {
@@ -349,6 +404,7 @@
     "country_code": "GB",
     "latitude": "52.29045000",
     "longitude": "-2.11555000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

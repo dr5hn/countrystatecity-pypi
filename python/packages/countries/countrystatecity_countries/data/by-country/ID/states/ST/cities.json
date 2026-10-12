@@ -1,5 +1,17 @@
 [
   {
+    "id": 57034,
+    "name": "Ampana",
+    "state_id": 1813,
+    "state_code": "ST",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-0.86795000",
+    "longitude": "121.58570000",
+    "county_id": 8756,
+    "wikiDataId": null
+  },
+  {
     "id": 56326,
     "name": "Banggai",
     "state_id": 1813,
@@ -8,17 +20,7 @@
     "country_code": "ID",
     "latitude": "-0.91141000",
     "longitude": "122.71836000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56327,
-    "name": "Banggai Kepulauan",
-    "state_id": 1813,
-    "state_code": "ST",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.30236000",
-    "longitude": "123.03726000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,19 @@
     "country_code": "ID",
     "latitude": "-1.61841000",
     "longitude": "123.49388000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164807,
+    "name": "Bungku",
+    "state_id": 1813,
+    "state_code": "ST",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.54710000",
+    "longitude": "121.97200000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -39,8 +54,9 @@
     "state_code": "ST",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "1.04656000",
-    "longitude": "121.36867000",
+    "latitude": "1.15631000",
+    "longitude": "121.43805000",
+    "county_id": 8752,
     "wikiDataId": null
   },
   {
@@ -50,19 +66,9 @@
     "state_code": "ST",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-0.58333000",
-    "longitude": "119.85000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56598,
-    "name": "Kabupaten Poso",
-    "state_id": 1813,
-    "state_code": "ST",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.65000000",
-    "longitude": "120.50000000",
+    "latitude": "-0.67849499",
+    "longitude": "119.75266465",
+    "county_id": 8750,
     "wikiDataId": null
   },
   {
@@ -74,17 +80,7 @@
     "country_code": "ID",
     "latitude": "-0.95160000",
     "longitude": "122.78750000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56876,
-    "name": "Morowali Regency",
-    "state_id": 1813,
-    "state_code": "ST",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.76062000",
-    "longitude": "121.95267000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +92,7 @@
     "country_code": "ID",
     "latitude": "-1.72070000",
     "longitude": "121.24649000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,17 +104,19 @@
     "country_code": "ID",
     "latitude": "-0.90833000",
     "longitude": "119.87083000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 56578,
-    "name": "Parigi Moutong",
+    "name": "Parigi",
     "state_id": 1813,
     "state_code": "ST",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "0.33680000",
-    "longitude": "120.17841000",
+    "latitude": "-0.81560000",
+    "longitude": "120.17680000",
+    "county_id": 8755,
     "wikiDataId": null
   },
   {
@@ -129,6 +128,19 @@
     "country_code": "ID",
     "latitude": "-1.39590000",
     "longitude": "120.75240000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 56327,
+    "name": "Salakan",
+    "state_id": 1813,
+    "state_code": "ST",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.31218390",
+    "longitude": "123.29838777",
+    "county_id": 8754,
     "wikiDataId": null
   },
   {
@@ -140,17 +152,7 @@
     "country_code": "ID",
     "latitude": "-1.38500000",
     "longitude": "119.96694000",
-    "wikiDataId": null
-  },
-  {
-    "id": 57034,
-    "name": "Tojo Una-Una Regency",
-    "state_id": 1813,
-    "state_code": "ST",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.20360000",
-    "longitude": "121.48201000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +164,7 @@
     "country_code": "ID",
     "latitude": "1.30862000",
     "longitude": "120.88643000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

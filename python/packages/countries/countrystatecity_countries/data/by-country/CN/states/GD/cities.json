@@ -8,6 +8,19 @@
     "country_code": "CN",
     "latitude": "23.44895000",
     "longitude": "116.68092000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164582,
+    "name": "Anliu",
+    "state_id": 2279,
+    "state_code": "GD",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "23.69824000",
+    "longitude": "115.67953000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,7 @@
     "country_code": "CN",
     "latitude": "23.16063240",
     "longitude": "113.26789500",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,7 @@
     "country_code": "CN",
     "latitude": "22.55985730",
     "longitude": "113.87904040",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +56,7 @@
     "country_code": "CN",
     "latitude": "23.25245390",
     "longitude": "116.68536850",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,7 @@
     "country_code": "CN",
     "latitude": "23.33669240",
     "longitude": "114.32147780",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "CN",
     "latitude": "23.01201970",
     "longitude": "113.11734380",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +92,7 @@
     "country_code": "CN",
     "latitude": "23.46594350",
     "longitude": "116.67298010",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +104,7 @@
     "country_code": "CN",
     "latitude": "23.24237080",
     "longitude": "116.43416500",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +116,7 @@
     "country_code": "CN",
     "latitude": "23.26844900",
     "longitude": "116.59698640",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +128,7 @@
     "country_code": "CN",
     "latitude": "23.65659300",
     "longitude": "116.62042230",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +140,7 @@
     "country_code": "CN",
     "latitude": "23.46940750",
     "longitude": "116.75155850",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +152,7 @@
     "country_code": "CN",
     "latitude": "23.46132000",
     "longitude": "116.77007000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +164,7 @@
     "country_code": "CN",
     "latitude": "22.78176080",
     "longitude": "115.35996420",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +176,7 @@
     "country_code": "CN",
     "latitude": "21.26868860",
     "longitude": "110.36211430",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +188,7 @@
     "country_code": "CN",
     "latitude": "23.67076400",
     "longitude": "113.69349580",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +200,7 @@
     "country_code": "CN",
     "latitude": "24.35055270",
     "longitude": "116.69022160",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +212,7 @@
     "country_code": "CN",
     "latitude": "22.84067000",
     "longitude": "113.25030000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +224,7 @@
     "country_code": "CN",
     "latitude": "22.79840000",
     "longitude": "114.46716000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +236,7 @@
     "country_code": "CN",
     "latitude": "23.11037000",
     "longitude": "113.44180000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +248,7 @@
     "country_code": "CN",
     "latitude": "23.28685220",
     "longitude": "111.96958020",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +260,7 @@
     "country_code": "CN",
     "latitude": "21.68556790",
     "longitude": "111.16143590",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +272,7 @@
     "country_code": "CN",
     "latitude": "23.16189530",
     "longitude": "112.56253620",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,17 +284,7 @@
     "country_code": "CN",
     "latitude": "24.99195700",
     "longitude": "112.29597500",
-    "wikiDataId": null
-  },
-  {
-    "id": 157533,
-    "name": "Dongbu",
-    "state_id": 2279,
-    "state_code": "GD",
-    "country_id": 45,
-    "country_code": "CN",
-    "latitude": "0.00000000",
-    "longitude": "0.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +296,7 @@
     "country_code": "CN",
     "latitude": "23.01835680",
     "longitude": "113.74523320",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +308,7 @@
     "country_code": "CN",
     "latitude": "22.94593000",
     "longitude": "115.64204000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +320,7 @@
     "country_code": "CN",
     "latitude": "24.23337400",
     "longitude": "112.03597500",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +332,7 @@
     "country_code": "CN",
     "latitude": "23.96617710",
     "longitude": "114.84283310",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +344,7 @@
     "country_code": "CN",
     "latitude": "22.21198760",
     "longitude": "113.29097930",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,6 +356,7 @@
     "country_code": "CN",
     "latitude": "23.10183960",
     "longitude": "112.45948720",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -338,6 +368,7 @@
     "country_code": "CN",
     "latitude": "23.24212000",
     "longitude": "111.52840000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -349,6 +380,7 @@
     "country_code": "CN",
     "latitude": "22.18659000",
     "longitude": "112.30424000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -360,6 +392,7 @@
     "country_code": "CN",
     "latitude": "22.25252110",
     "longitude": "112.28769640",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -371,6 +404,7 @@
     "country_code": "CN",
     "latitude": "23.52118300",
     "longitude": "111.69799670",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,6 +416,7 @@
     "country_code": "CN",
     "latitude": "23.89721660",
     "longitude": "116.24760930",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -393,6 +428,7 @@
     "country_code": "CN",
     "latitude": "23.88258020",
     "longitude": "113.52627640",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -404,6 +440,7 @@
     "country_code": "CN",
     "latitude": "23.02397880",
     "longitude": "113.11595580",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,6 +452,7 @@
     "country_code": "CN",
     "latitude": "23.02264000",
     "longitude": "112.96302000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -426,6 +464,7 @@
     "country_code": "CN",
     "latitude": "22.52436320",
     "longitude": "114.04989400",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -437,6 +476,7 @@
     "country_code": "CN",
     "latitude": "22.90328670",
     "longitude": "112.88668830",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -448,6 +488,7 @@
     "country_code": "CN",
     "latitude": "23.02432000",
     "longitude": "112.44555000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -459,6 +500,7 @@
     "country_code": "CN",
     "latitude": "23.02797830",
     "longitude": "112.45258900",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -470,6 +512,7 @@
     "country_code": "CN",
     "latitude": "21.93924000",
     "longitude": "110.84607000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -481,6 +524,7 @@
     "country_code": "CN",
     "latitude": "22.04614770",
     "longitude": "110.96444470",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -492,6 +536,7 @@
     "country_code": "CN",
     "latitude": "22.75168720",
     "longitude": "113.93000610",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -503,6 +548,7 @@
     "country_code": "CN",
     "latitude": "23.63489230",
     "longitude": "112.43179720",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -514,6 +560,7 @@
     "country_code": "CN",
     "latitude": "23.13019640",
     "longitude": "113.25929450",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -525,6 +572,7 @@
     "country_code": "CN",
     "latitude": "23.37327000",
     "longitude": "113.51219000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -536,6 +584,7 @@
     "country_code": "CN",
     "latitude": "23.02675370",
     "longitude": "115.34148690",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -547,6 +596,7 @@
     "country_code": "CN",
     "latitude": "23.19346000",
     "longitude": "116.61219000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -558,6 +608,7 @@
     "country_code": "CN",
     "latitude": "23.08599580",
     "longitude": "113.31199350",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -569,6 +620,7 @@
     "country_code": "CN",
     "latitude": "23.28519270",
     "longitude": "116.72180330",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -580,6 +632,7 @@
     "country_code": "CN",
     "latitude": "24.44004450",
     "longitude": "115.00827840",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -591,6 +644,7 @@
     "country_code": "CN",
     "latitude": "23.43077000",
     "longitude": "115.82991000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -602,6 +656,7 @@
     "country_code": "CN",
     "latitude": "22.66375700",
     "longitude": "112.80654630",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -613,6 +668,7 @@
     "country_code": "CN",
     "latitude": "23.74677700",
     "longitude": "114.69544820",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -624,6 +680,7 @@
     "country_code": "CN",
     "latitude": "23.46123920",
     "longitude": "113.21419650",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -635,6 +692,7 @@
     "country_code": "CN",
     "latitude": "23.91952000",
     "longitude": "112.17629000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -646,6 +704,7 @@
     "country_code": "CN",
     "latitude": "23.92287470",
     "longitude": "112.16168950",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -657,6 +716,7 @@
     "country_code": "CN",
     "latitude": "23.67704000",
     "longitude": "116.99961000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -668,6 +728,7 @@
     "country_code": "CN",
     "latitude": "23.18299810",
     "longitude": "113.47484160",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -679,6 +740,7 @@
     "country_code": "CN",
     "latitude": "21.63333000",
     "longitude": "110.58333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -690,6 +752,7 @@
     "country_code": "CN",
     "latitude": "21.83026990",
     "longitude": "110.53001340",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -701,6 +764,7 @@
     "country_code": "CN",
     "latitude": "23.03845000",
     "longitude": "116.28988000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -712,6 +776,7 @@
     "country_code": "CN",
     "latitude": "23.15097630",
     "longitude": "114.48959690",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -723,6 +788,7 @@
     "country_code": "CN",
     "latitude": "23.13152130",
     "longitude": "115.03372060",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -734,6 +800,7 @@
     "country_code": "CN",
     "latitude": "23.03259650",
     "longitude": "116.22574600",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -745,6 +812,7 @@
     "country_code": "CN",
     "latitude": "22.89378840",
     "longitude": "114.46045790",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -756,6 +824,7 @@
     "country_code": "CN",
     "latitude": "23.11251530",
     "longitude": "114.41270070",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -767,6 +836,7 @@
     "country_code": "CN",
     "latitude": "21.77958720",
     "longitude": "111.89083750",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -778,6 +848,7 @@
     "country_code": "CN",
     "latitude": "22.55130330",
     "longitude": "113.12499480",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -789,6 +860,7 @@
     "country_code": "CN",
     "latitude": "22.58166190",
     "longitude": "113.07610730",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -800,6 +872,7 @@
     "country_code": "CN",
     "latitude": "24.66135820",
     "longitude": "116.16650920",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -811,6 +884,7 @@
     "country_code": "CN",
     "latitude": "22.87932000",
     "longitude": "116.07318000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -822,6 +896,7 @@
     "country_code": "CN",
     "latitude": "23.56916040",
     "longitude": "116.40716250",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -833,6 +908,7 @@
     "country_code": "CN",
     "latitude": "22.81027000",
     "longitude": "115.83058000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -844,6 +920,7 @@
     "country_code": "CN",
     "latitude": "23.43379910",
     "longitude": "115.83784540",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -855,6 +932,7 @@
     "country_code": "CN",
     "latitude": "23.55315600",
     "longitude": "116.36803540",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -866,6 +944,7 @@
     "country_code": "CN",
     "latitude": "23.36854030",
     "longitude": "116.69891820",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -877,6 +956,7 @@
     "country_code": "CN",
     "latitude": "22.11767310",
     "longitude": "113.35751960",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -888,6 +968,7 @@
     "country_code": "CN",
     "latitude": "22.34745680",
     "longitude": "112.53441740",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -899,6 +980,7 @@
     "country_code": "CN",
     "latitude": "25.25463390",
     "longitude": "113.25668200",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -910,6 +992,7 @@
     "country_code": "CN",
     "latitude": "25.12800000",
     "longitude": "113.35041000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -921,6 +1004,7 @@
     "country_code": "CN",
     "latitude": "20.76109120",
     "longitude": "110.02798900",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -932,6 +1016,7 @@
     "country_code": "CN",
     "latitude": "21.64673000",
     "longitude": "110.28172000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -943,6 +1028,7 @@
     "country_code": "CN",
     "latitude": "21.65679130",
     "longitude": "110.14810900",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -954,6 +1040,7 @@
     "country_code": "CN",
     "latitude": "24.57796200",
     "longitude": "112.26431700",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -965,6 +1052,7 @@
     "country_code": "CN",
     "latitude": "24.37614220",
     "longitude": "114.48851350",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -976,6 +1064,7 @@
     "country_code": "CN",
     "latitude": "24.57302130",
     "longitude": "112.08852770",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -987,6 +1076,7 @@
     "country_code": "CN",
     "latitude": "24.93773730",
     "longitude": "112.48184540",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -998,6 +1088,7 @@
     "country_code": "CN",
     "latitude": "24.78186000",
     "longitude": "112.37120000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1009,6 +1100,7 @@
     "country_code": "CN",
     "latitude": "23.29549000",
     "longitude": "113.82465000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1020,6 +1112,19 @@
     "country_code": "CN",
     "latitude": "23.11003780",
     "longitude": "113.21364880",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 157515,
+    "name": "Longchuan",
+    "state_id": 2279,
+    "state_code": "GD",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "24.10447000",
+    "longitude": "115.25151000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1031,6 +1136,7 @@
     "country_code": "CN",
     "latitude": "22.72303690",
     "longitude": "114.24265610",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1042,6 +1148,7 @@
     "country_code": "CN",
     "latitude": "23.37400770",
     "longitude": "116.71209990",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1053,6 +1160,7 @@
     "country_code": "CN",
     "latitude": "22.69943090",
     "longitude": "114.03986030",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1064,6 +1172,7 @@
     "country_code": "CN",
     "latitude": "23.66716760",
     "longitude": "114.13284160",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1075,6 +1184,7 @@
     "country_code": "CN",
     "latitude": "23.17233000",
     "longitude": "112.28298000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1086,6 +1196,7 @@
     "country_code": "CN",
     "latitude": "22.97291590",
     "longitude": "115.79465250",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1097,17 +1208,7 @@
     "country_code": "CN",
     "latitude": "23.28124620",
     "longitude": "115.61533170",
-    "wikiDataId": null
-  },
-  {
-    "id": 157515,
-    "name": "Lungchuan",
-    "state_id": 2279,
-    "state_code": "GD",
-    "country_id": 45,
-    "country_code": "CN",
-    "latitude": "0.00000000",
-    "longitude": "0.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1119,6 +1220,7 @@
     "country_code": "CN",
     "latitude": "22.76953000",
     "longitude": "111.56882000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1130,6 +1232,7 @@
     "country_code": "CN",
     "latitude": "22.69258750",
     "longitude": "111.48513660",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1141,6 +1244,7 @@
     "country_code": "CN",
     "latitude": "22.55063910",
     "longitude": "114.12613890",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1152,6 +1256,7 @@
     "country_code": "CN",
     "latitude": "23.16244000",
     "longitude": "114.27342000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1163,6 +1268,7 @@
     "country_code": "CN",
     "latitude": "24.68413000",
     "longitude": "113.59839000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1174,6 +1280,7 @@
     "country_code": "CN",
     "latitude": "21.66569610",
     "longitude": "110.92095110",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1185,6 +1292,7 @@
     "country_code": "CN",
     "latitude": "21.64425560",
     "longitude": "110.91398270",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1196,6 +1304,7 @@
     "country_code": "CN",
     "latitude": "21.12900030",
     "longitude": "110.29844280",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1207,6 +1316,7 @@
     "country_code": "CN",
     "latitude": "24.31320620",
     "longitude": "116.11191220",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1218,6 +1328,7 @@
     "country_code": "CN",
     "latitude": "24.41462280",
     "longitude": "116.23425580",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1229,6 +1340,7 @@
     "country_code": "CN",
     "latitude": "24.29184140",
     "longitude": "116.11714280",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1240,6 +1352,7 @@
     "country_code": "CN",
     "latitude": "23.42401810",
     "longitude": "117.01896540",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1251,6 +1364,7 @@
     "country_code": "CN",
     "latitude": "22.70156060",
     "longitude": "114.36320370",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1262,6 +1376,7 @@
     "country_code": "CN",
     "latitude": "23.72695000",
     "longitude": "111.79723000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1273,6 +1388,7 @@
     "country_code": "CN",
     "latitude": "23.03140960",
     "longitude": "113.13751510",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1284,6 +1400,7 @@
     "country_code": "CN",
     "latitude": "22.80439130",
     "longitude": "113.51981880",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1295,6 +1412,19 @@
     "country_code": "CN",
     "latitude": "22.53601420",
     "longitude": "113.92562220",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164580,
+    "name": "Nantou",
+    "state_id": 2279,
+    "state_code": "GD",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "22.72171000",
+    "longitude": "113.29261000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1306,6 +1436,7 @@
     "country_code": "CN",
     "latitude": "25.21278030",
     "longitude": "114.44508230",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1317,6 +1448,7 @@
     "country_code": "CN",
     "latitude": "22.93872530",
     "longitude": "113.37854220",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1328,6 +1460,7 @@
     "country_code": "CN",
     "latitude": "22.64667740",
     "longitude": "113.05135790",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1339,6 +1472,7 @@
     "country_code": "CN",
     "latitude": "22.99376000",
     "longitude": "114.71311000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1350,6 +1484,7 @@
     "country_code": "CN",
     "latitude": "22.71138270",
     "longitude": "114.34618820",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1361,6 +1496,7 @@
     "country_code": "CN",
     "latitude": "24.66062800",
     "longitude": "115.91006700",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1372,6 +1508,7 @@
     "country_code": "CN",
     "latitude": "21.25111150",
     "longitude": "110.49506110",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1383,6 +1520,7 @@
     "country_code": "CN",
     "latitude": "23.31072000",
     "longitude": "116.16869000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1394,6 +1532,7 @@
     "country_code": "CN",
     "latitude": "23.30004530",
     "longitude": "116.16093700",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1405,6 +1544,7 @@
     "country_code": "CN",
     "latitude": "23.69990440",
     "longitude": "113.05719110",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1416,6 +1556,7 @@
     "country_code": "CN",
     "latitude": "23.88875710",
     "longitude": "112.84867560",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1427,6 +1568,7 @@
     "country_code": "CN",
     "latitude": "23.68329840",
     "longitude": "113.05059940",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1438,6 +1580,7 @@
     "country_code": "CN",
     "latitude": "24.64576960",
     "longitude": "113.61039090",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1449,6 +1592,7 @@
     "country_code": "CN",
     "latitude": "23.66608860",
     "longitude": "116.99959940",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1460,6 +1604,7 @@
     "country_code": "CN",
     "latitude": "25.14932970",
     "longitude": "113.79586210",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1471,6 +1616,7 @@
     "country_code": "CN",
     "latitude": "23.52789130",
     "longitude": "116.36233730",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1482,6 +1628,7 @@
     "country_code": "CN",
     "latitude": "24.81883610",
     "longitude": "113.17505700",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1493,6 +1640,7 @@
     "country_code": "CN",
     "latitude": "23.15486000",
     "longitude": "112.89161000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1504,6 +1652,7 @@
     "country_code": "CN",
     "latitude": "23.17199660",
     "longitude": "112.88483440",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1515,6 +1664,7 @@
     "country_code": "CN",
     "latitude": "23.35639210",
     "longitude": "116.67758560",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1526,6 +1676,7 @@
     "country_code": "CN",
     "latitude": "23.01236390",
     "longitude": "115.50999370",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1537,6 +1688,7 @@
     "country_code": "CN",
     "latitude": "24.83094890",
     "longitude": "113.81552630",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1548,6 +1700,7 @@
     "country_code": "CN",
     "latitude": "22.77019000",
     "longitude": "112.95776000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1559,6 +1712,19 @@
     "country_code": "CN",
     "latitude": "22.54457410",
     "longitude": "114.05454290",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164577,
+    "name": "Shijie",
+    "state_id": 2279,
+    "state_code": "GD",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "23.09546000",
+    "longitude": "113.79195000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1570,6 +1736,7 @@
     "country_code": "CN",
     "latitude": "23.11444000",
     "longitude": "113.84722000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1581,6 +1748,7 @@
     "country_code": "CN",
     "latitude": "22.51682000",
     "longitude": "113.38521000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1592,6 +1760,7 @@
     "country_code": "CN",
     "latitude": "22.94640000",
     "longitude": "113.35769000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1603,6 +1772,7 @@
     "country_code": "CN",
     "latitude": "23.00107000",
     "longitude": "113.07700000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1614,6 +1784,7 @@
     "country_code": "CN",
     "latitude": "24.94824000",
     "longitude": "114.06572000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1625,6 +1796,7 @@
     "country_code": "CN",
     "latitude": "24.95635520",
     "longitude": "114.05664680",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1636,6 +1808,7 @@
     "country_code": "CN",
     "latitude": "21.62582780",
     "longitude": "111.97074280",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1647,6 +1820,7 @@
     "country_code": "CN",
     "latitude": "22.85456550",
     "longitude": "113.18651610",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1658,6 +1832,7 @@
     "country_code": "CN",
     "latitude": "23.44238080",
     "longitude": "112.69972730",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1669,6 +1844,7 @@
     "country_code": "CN",
     "latitude": "22.92504910",
     "longitude": "113.88129790",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1680,6 +1856,7 @@
     "country_code": "CN",
     "latitude": "21.28935600",
     "longitude": "110.00892810",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1691,6 +1868,7 @@
     "country_code": "CN",
     "latitude": "22.25135000",
     "longitude": "112.77990000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1702,6 +1880,7 @@
     "country_code": "CN",
     "latitude": "22.06384750",
     "longitude": "112.71285870",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1713,6 +1892,19 @@
     "country_code": "CN",
     "latitude": "22.03177000",
     "longitude": "111.93537000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164575,
+    "name": "Tanzhou",
+    "state_id": 2279,
+    "state_code": "GD",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "22.25503000",
+    "longitude": "113.46692000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1724,6 +1916,7 @@
     "country_code": "CN",
     "latitude": "23.12712000",
     "longitude": "113.35642400",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1735,6 +1928,7 @@
     "country_code": "CN",
     "latitude": "24.41152240",
     "longitude": "114.05402610",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1746,6 +1940,7 @@
     "country_code": "CN",
     "latitude": "21.45713000",
     "longitude": "110.76591000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1757,6 +1952,7 @@
     "country_code": "CN",
     "latitude": "21.44132580",
     "longitude": "110.69422890",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1768,6 +1964,7 @@
     "country_code": "CN",
     "latitude": "23.79272870",
     "longitude": "115.63419200",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1779,6 +1976,7 @@
     "country_code": "CN",
     "latitude": "24.70344050",
     "longitude": "113.38107840",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1790,6 +1988,7 @@
     "country_code": "CN",
     "latitude": "23.67752270",
     "longitude": "116.62407310",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1801,6 +2000,7 @@
     "country_code": "CN",
     "latitude": "22.26942220",
     "longitude": "113.53825730",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1812,6 +2012,7 @@
     "country_code": "CN",
     "latitude": "21.19413630",
     "longitude": "110.39335160",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1823,6 +2024,7 @@
     "country_code": "CN",
     "latitude": "22.22774280",
     "longitude": "113.50501600",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1834,6 +2036,7 @@
     "country_code": "CN",
     "latitude": "24.06240630",
     "longitude": "114.20187890",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1845,6 +2048,7 @@
     "country_code": "CN",
     "latitude": "24.14830000",
     "longitude": "115.72272000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1856,6 +2060,7 @@
     "country_code": "CN",
     "latitude": "24.25792160",
     "longitude": "115.75315340",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1867,6 +2072,7 @@
     "country_code": "CN",
     "latitude": "22.45600000",
     "longitude": "113.04820000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1878,6 +2084,7 @@
     "country_code": "CN",
     "latitude": "22.38369070",
     "longitude": "113.03283660",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1889,6 +2096,7 @@
     "country_code": "CN",
     "latitude": "22.63508520",
     "longitude": "112.19684570",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1900,6 +2108,7 @@
     "country_code": "CN",
     "latitude": "22.37303000",
     "longitude": "110.94746000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1911,6 +2120,7 @@
     "country_code": "CN",
     "latitude": "22.35803160",
     "longitude": "110.94229100",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1922,6 +2132,7 @@
     "country_code": "CN",
     "latitude": "25.11667000",
     "longitude": "114.30000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1933,6 +2144,7 @@
     "country_code": "CN",
     "latitude": "20.32917000",
     "longitude": "110.16712000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1944,6 +2156,7 @@
     "country_code": "CN",
     "latitude": "20.44072440",
     "longitude": "110.22264840",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1955,6 +2168,7 @@
     "country_code": "CN",
     "latitude": "22.16667000",
     "longitude": "111.78333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1966,6 +2180,7 @@
     "country_code": "CN",
     "latitude": "22.25184720",
     "longitude": "111.69366090",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1977,6 +2192,7 @@
     "country_code": "CN",
     "latitude": "22.02039370",
     "longitude": "112.05612490",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1988,6 +2204,7 @@
     "country_code": "CN",
     "latitude": "22.09582230",
     "longitude": "111.78313930",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -1999,6 +2216,7 @@
     "country_code": "CN",
     "latitude": "24.46832800",
     "longitude": "112.63607370",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2010,6 +2228,7 @@
     "country_code": "CN",
     "latitude": "21.69291170",
     "longitude": "111.60308190",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2021,6 +2240,7 @@
     "country_code": "CN",
     "latitude": "22.55905030",
     "longitude": "114.23244070",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2032,6 +2252,7 @@
     "country_code": "CN",
     "latitude": "24.16588000",
     "longitude": "113.41267000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2043,6 +2264,7 @@
     "country_code": "CN",
     "latitude": "24.20798860",
     "longitude": "113.39628320",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2054,6 +2276,7 @@
     "country_code": "CN",
     "latitude": "23.70465940",
     "longitude": "114.64220460",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2065,6 +2288,7 @@
     "country_code": "CN",
     "latitude": "23.13127820",
     "longitude": "113.26147170",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2076,6 +2300,7 @@
     "country_code": "CN",
     "latitude": "22.84580640",
     "longitude": "111.92184310",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2087,6 +2312,7 @@
     "country_code": "CN",
     "latitude": "23.04056280",
     "longitude": "111.59088000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2098,6 +2324,7 @@
     "country_code": "CN",
     "latitude": "22.89199090",
     "longitude": "112.15255670",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2109,6 +2336,7 @@
     "country_code": "CN",
     "latitude": "22.85466630",
     "longitude": "111.80785860",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2120,6 +2348,7 @@
     "country_code": "CN",
     "latitude": "23.34730060",
     "longitude": "113.77029280",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2131,6 +2360,7 @@
     "country_code": "CN",
     "latitude": "21.27370790",
     "longitude": "110.35483180",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2142,6 +2372,7 @@
     "country_code": "CN",
     "latitude": "23.05016610",
     "longitude": "112.46036290",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2153,6 +2384,7 @@
     "country_code": "CN",
     "latitude": "24.90325390",
     "longitude": "113.58146600",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2164,6 +2396,7 @@
     "country_code": "CN",
     "latitude": "22.51970730",
     "longitude": "113.38723020",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2175,6 +2408,7 @@
     "country_code": "CN",
     "latitude": "22.55358000",
     "longitude": "113.37550000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2186,6 +2420,7 @@
     "country_code": "CN",
     "latitude": "23.28818310",
     "longitude": "113.60788850",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2197,6 +2432,7 @@
     "country_code": "CN",
     "latitude": "22.27373400",
     "longitude": "113.57213270",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2208,6 +2444,7 @@
     "country_code": "CN",
     "latitude": "23.55391780",
     "longitude": "115.04196030",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

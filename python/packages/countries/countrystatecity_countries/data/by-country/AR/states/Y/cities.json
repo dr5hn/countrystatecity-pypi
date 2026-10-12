@@ -8,6 +8,7 @@
     "country_code": "AR",
     "latitude": "-22.72049000",
     "longitude": "-65.69697000",
+    "county_id": 6588,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "AR",
     "latitude": "-23.74069000",
     "longitude": "-64.59370000",
+    "county_id": 6592,
     "wikiDataId": null
   },
   {
@@ -30,39 +32,7 @@
     "country_code": "AR",
     "latitude": "-23.77368000",
     "longitude": "-64.77002000",
-    "wikiDataId": null
-  },
-  {
-    "id": 862,
-    "name": "Departamento de Cochinoca",
-    "state_id": 3645,
-    "state_code": "Y",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-23.00000000",
-    "longitude": "-65.83333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 965,
-    "name": "Departamento de Rinconada",
-    "state_id": 3645,
-    "state_code": "Y",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-22.50000000",
-    "longitude": "-66.50000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 1025,
-    "name": "Departamento de Tumbaya",
-    "state_id": 3645,
-    "state_code": "Y",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-23.71667000",
-    "longitude": "-65.66667000",
+    "county_id": 6592,
     "wikiDataId": null
   },
   {
@@ -74,6 +44,7 @@
     "country_code": "AR",
     "latitude": "-23.21572000",
     "longitude": "-65.68005000",
+    "county_id": 6591,
     "wikiDataId": null
   },
   {
@@ -85,6 +56,7 @@
     "country_code": "AR",
     "latitude": "-23.94079000",
     "longitude": "-64.79943000",
+    "county_id": 6592,
     "wikiDataId": null
   },
   {
@@ -96,17 +68,19 @@
     "country_code": "AR",
     "latitude": "-23.20544000",
     "longitude": "-65.35048000",
+    "county_id": 6591,
     "wikiDataId": null
   },
   {
     "id": 1155,
-    "name": "Ingenio La Esperanza",
+    "name": "La Esperanza",
     "state_id": 3645,
     "state_code": "Y",
     "country_id": 11,
     "country_code": "AR",
     "latitude": "-24.22554000",
     "longitude": "-64.83896000",
+    "county_id": 6596,
     "wikiDataId": null
   },
   {
@@ -118,6 +92,7 @@
     "country_code": "AR",
     "latitude": "-24.31187000",
     "longitude": "-64.96377000",
+    "county_id": 6596,
     "wikiDataId": null
   },
   {
@@ -129,6 +104,7 @@
     "country_code": "AR",
     "latitude": "-22.10236000",
     "longitude": "-65.59299000",
+    "county_id": 6603,
     "wikiDataId": null
   },
   {
@@ -140,6 +116,7 @@
     "country_code": "AR",
     "latitude": "-23.80644000",
     "longitude": "-64.78757000",
+    "county_id": 6592,
     "wikiDataId": null
   },
   {
@@ -151,6 +128,7 @@
     "country_code": "AR",
     "latitude": "-23.62392000",
     "longitude": "-65.40797000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +140,7 @@
     "country_code": "AR",
     "latitude": "-23.97771000",
     "longitude": "-64.30311000",
+    "county_id": 6597,
     "wikiDataId": null
   },
   {
@@ -173,6 +152,31 @@
     "country_code": "AR",
     "latitude": "-24.25647000",
     "longitude": "-65.21163000",
+    "county_id": 6593,
+    "wikiDataId": null
+  },
+  {
+    "id": 965,
+    "name": "Rinconada",
+    "state_id": 3645,
+    "state_code": "Y",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-22.44065099",
+    "longitude": "-66.16757043",
+    "county_id": 6594,
+    "wikiDataId": null
+  },
+  {
+    "id": 164456,
+    "name": "San Antonio",
+    "state_id": 3645,
+    "state_code": "Y",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-24.36841000",
+    "longitude": "-65.33409000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +188,7 @@
     "country_code": "AR",
     "latitude": "-24.23127000",
     "longitude": "-64.86614000",
+    "county_id": 6596,
     "wikiDataId": null
   },
   {
@@ -195,6 +200,19 @@
     "country_code": "AR",
     "latitude": "-24.19457000",
     "longitude": "-65.29712000",
+    "county_id": 6590,
+    "wikiDataId": null
+  },
+  {
+    "id": 164458,
+    "name": "Santa Catalina",
+    "state_id": 3645,
+    "state_code": "Y",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-21.94567000",
+    "longitude": "-66.05188000",
+    "county_id": 6598,
     "wikiDataId": null
   },
   {
@@ -206,6 +224,7 @@
     "country_code": "AR",
     "latitude": "-24.30921000",
     "longitude": "-64.66253000",
+    "county_id": 6597,
     "wikiDataId": null
   },
   {
@@ -217,6 +236,19 @@
     "country_code": "AR",
     "latitude": "-23.57817000",
     "longitude": "-65.39516000",
+    "county_id": 6600,
+    "wikiDataId": null
+  },
+  {
+    "id": 1025,
+    "name": "Tumbaya",
+    "state_id": 3645,
+    "state_code": "Y",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-23.85777464",
+    "longitude": "-65.46682869",
+    "county_id": 6601,
     "wikiDataId": null
   },
   {
@@ -228,6 +260,7 @@
     "country_code": "AR",
     "latitude": "-23.64342000",
     "longitude": "-64.47194000",
+    "county_id": 6592,
     "wikiDataId": null
   }
 ]

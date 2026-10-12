@@ -1,38 +1,5 @@
 [
   {
-    "id": 105661,
-    "name": "Amphoe Nong Chik",
-    "state_id": 3540,
-    "state_code": "94",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.80011000",
-    "longitude": "101.17057000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105821,
-    "name": "Amphoe Sai Buri",
-    "state_id": 3540,
-    "state_code": "94",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.70000000",
-    "longitude": "101.58333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106378,
-    "name": "Amphoe Yaring",
-    "state_id": 3540,
-    "state_code": "94",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.83507000",
-    "longitude": "101.39073000",
-    "wikiDataId": null
-  },
-  {
     "id": 105376,
     "name": "Kapho",
     "state_id": 3540,
@@ -41,6 +8,7 @@
     "country_code": "TH",
     "latitude": "6.60264000",
     "longitude": "101.54327000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -50,8 +18,9 @@
     "state_code": "94",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "6.70858000",
-    "longitude": "101.11693000",
+    "latitude": "6.73064000",
+    "longitude": "101.09619000",
+    "county_id": 6273,
     "wikiDataId": null
   },
   {
@@ -63,6 +32,7 @@
     "country_code": "TH",
     "latitude": "6.66833000",
     "longitude": "101.23149000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +44,7 @@
     "country_code": "TH",
     "latitude": "6.61603000",
     "longitude": "101.67864000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -83,19 +54,9 @@
     "state_code": "94",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "6.70764000",
-    "longitude": "101.40359000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105566,
-    "name": "Mueang Pattani",
-    "state_id": 3540,
-    "state_code": "94",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "6.85581000",
-    "longitude": "101.26761000",
+    "latitude": "6.71864000",
+    "longitude": "101.40983000",
+    "county_id": 6276,
     "wikiDataId": null
   },
   {
@@ -107,6 +68,7 @@
     "country_code": "TH",
     "latitude": "6.84356000",
     "longitude": "101.17803000",
+    "county_id": 6274,
     "wikiDataId": null
   },
   {
@@ -116,8 +78,9 @@
     "state_code": "94",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "6.81211000",
-    "longitude": "101.51247000",
+    "latitude": "6.86192000",
+    "longitude": "101.49103000",
+    "county_id": 6275,
     "wikiDataId": null
   },
   {
@@ -129,17 +92,19 @@
     "country_code": "TH",
     "latitude": "6.86814000",
     "longitude": "101.25009000",
+    "county_id": 6272,
     "wikiDataId": null
   },
   {
     "id": 106673,
-    "name": "Sai Buri",
+    "name": "Taluban",
     "state_id": 3540,
     "state_code": "94",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "6.70131000",
-    "longitude": "101.61675000",
+    "latitude": "6.70120000",
+    "longitude": "101.61810000",
+    "county_id": 6278,
     "wikiDataId": null
   },
   {
@@ -151,6 +116,7 @@
     "country_code": "TH",
     "latitude": "6.64160000",
     "longitude": "101.44652000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -160,8 +126,9 @@
     "state_code": "94",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "6.69240000",
-    "longitude": "101.31408000",
+    "latitude": "6.76100000",
+    "longitude": "101.30120000",
+    "county_id": 6281,
     "wikiDataId": null
   },
   {
@@ -173,6 +140,7 @@
     "country_code": "TH",
     "latitude": "6.86617000",
     "longitude": "101.36894000",
+    "county_id": 6280,
     "wikiDataId": null
   }
 ]

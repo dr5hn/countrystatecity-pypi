@@ -8,17 +8,31 @@
     "country_code": "ID",
     "latitude": "-4.12891000",
     "longitude": "104.16695000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 56402,
-    "name": "Empat Lawang",
+    "id": 56563,
+    "name": "Indralaya",
     "state_id": 1816,
     "state_code": "SS",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "3.22667000",
-    "longitude": "99.09256000",
+    "latitude": "-3.25249000",
+    "longitude": "104.67555000",
+    "county_id": 8474,
+    "wikiDataId": null
+  },
+  {
+    "id": 56564,
+    "name": "Kayu Agung",
+    "state_id": 1816,
+    "state_code": "SS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.41174351",
+    "longitude": "104.82295217",
+    "county_id": 8466,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,7 @@
     "country_code": "ID",
     "latitude": "-3.78514000",
     "longitude": "103.54279000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +56,7 @@
     "country_code": "ID",
     "latitude": "-3.78640000",
     "longitude": "103.54280000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,19 @@
     "country_code": "ID",
     "latitude": "-3.29450000",
     "longitude": "102.86140000",
+    "county_id": 8480,
+    "wikiDataId": null
+  },
+  {
+    "id": 56567,
+    "name": "Martapura",
+    "state_id": 1816,
+    "state_code": "SS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-4.36867258",
+    "longitude": "104.35843125",
+    "county_id": 8472,
     "wikiDataId": null
   },
   {
@@ -63,6 +92,19 @@
     "country_code": "ID",
     "latitude": "-4.23270000",
     "longitude": "103.61410000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 56566,
+    "name": "Muaradua",
+    "state_id": 1816,
+    "state_code": "SS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-4.53178000",
+    "longitude": "104.07397000",
+    "county_id": 8473,
     "wikiDataId": null
   },
   {
@@ -74,6 +116,7 @@
     "country_code": "ID",
     "latitude": "-2.41667000",
     "longitude": "103.75000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +128,7 @@
     "country_code": "ID",
     "latitude": "-3.08333000",
     "longitude": "103.20000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,28 +140,7 @@
     "country_code": "ID",
     "latitude": "-2.48533000",
     "longitude": "103.29346000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56563,
-    "name": "Ogan Ilir",
-    "state_id": 1816,
-    "state_code": "SS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.43186000",
-    "longitude": "104.62727000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56564,
-    "name": "Ogan Komering Ilir",
-    "state_id": 1816,
-    "state_code": "SS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.36667000",
-    "longitude": "105.36667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,28 +152,7 @@
     "country_code": "ID",
     "latitude": "-4.13333000",
     "longitude": "104.03333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56566,
-    "name": "Ogan Komering Ulu Selatan",
-    "state_id": 1816,
-    "state_code": "SS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-4.65728000",
-    "longitude": "104.00659000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56567,
-    "name": "Ogan Komering Ulu Timur",
-    "state_id": 1816,
-    "state_code": "SS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.85679000",
-    "longitude": "104.75209000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +164,7 @@
     "country_code": "ID",
     "latitude": "-4.02506000",
     "longitude": "103.24694000",
+    "county_id": 8479,
     "wikiDataId": null
   },
   {
@@ -173,6 +176,7 @@
     "country_code": "ID",
     "latitude": "-2.91673000",
     "longitude": "104.74580000",
+    "county_id": 8478,
     "wikiDataId": null
   },
   {
@@ -184,6 +188,7 @@
     "country_code": "ID",
     "latitude": "-3.21342000",
     "longitude": "104.08722000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +200,7 @@
     "country_code": "ID",
     "latitude": "-3.43447000",
     "longitude": "104.23056000",
+    "county_id": 8481,
     "wikiDataId": null
   },
   {
@@ -206,6 +212,19 @@
     "country_code": "ID",
     "latitude": "-3.93728000",
     "longitude": "103.80465000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 56402,
+    "name": "Tebing Tinggi",
+    "state_id": 1816,
+    "state_code": "SS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.58420000",
+    "longitude": "103.07720000",
+    "county_id": 8475,
     "wikiDataId": null
   }
 ]

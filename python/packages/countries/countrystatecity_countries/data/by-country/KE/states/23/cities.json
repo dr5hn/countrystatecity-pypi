@@ -1,5 +1,29 @@
 [
   {
+    "id": 165132,
+    "name": "Emali",
+    "state_id": 188,
+    "state_code": "23",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-2.08033000",
+    "longitude": "37.47202000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165134,
+    "name": "Makindu",
+    "state_id": 188,
+    "state_code": "23",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-2.27808000",
+    "longitude": "37.81867000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 64825,
     "name": "Makueni Boma",
     "state_id": 188,
@@ -8,6 +32,7 @@
     "country_code": "KE",
     "latitude": "-1.80388000",
     "longitude": "37.62405000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +44,7 @@
     "country_code": "KE",
     "latitude": "-2.68987000",
     "longitude": "38.16687000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +56,7 @@
     "country_code": "KE",
     "latitude": "-1.78079000",
     "longitude": "37.62882000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

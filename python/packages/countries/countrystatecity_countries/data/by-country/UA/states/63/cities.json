@@ -8,6 +8,7 @@
     "country_code": "UA",
     "latitude": "49.46270000",
     "longitude": "36.85951000",
+    "county_id": 5351,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,19 @@
     "country_code": "UA",
     "latitude": "48.90970000",
     "longitude": "37.02051000",
+    "county_id": 5351,
+    "wikiDataId": null
+  },
+  {
+    "id": 109838,
+    "name": "Berestyn",
+    "state_id": 4686,
+    "state_code": "63",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "49.38009000",
+    "longitude": "35.44186000",
+    "county_id": 5352,
     "wikiDataId": null
   },
   {
@@ -30,28 +44,31 @@
     "country_code": "UA",
     "latitude": "49.43935000",
     "longitude": "35.70736000",
+    "county_id": 5352,
     "wikiDataId": null
   },
   {
     "id": 109390,
-    "name": "Bezlyudivka",
+    "name": "Bezliudivka",
     "state_id": 4686,
     "state_code": "63",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "49.87547000",
     "longitude": "36.26539000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
     "id": 109413,
-    "name": "Blyznyuky",
+    "name": "Blyzniuky",
     "state_id": 4686,
     "state_code": "63",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "48.85775000",
     "longitude": "36.55505000",
+    "county_id": 5354,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "UA",
     "latitude": "50.16466000",
     "longitude": "35.52765000",
+    "county_id": 5350,
     "wikiDataId": null
   },
   {
@@ -74,6 +92,7 @@
     "country_code": "UA",
     "latitude": "49.37770000",
     "longitude": "37.62136000",
+    "county_id": 5351,
     "wikiDataId": null
   },
   {
@@ -85,17 +104,7 @@
     "country_code": "UA",
     "latitude": "49.89133000",
     "longitude": "36.02096000",
-    "wikiDataId": null
-  },
-  {
-    "id": 109469,
-    "name": "Chapayeve",
-    "state_id": 4686,
-    "state_code": "63",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "49.36625000",
-    "longitude": "35.87486000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -107,6 +116,7 @@
     "country_code": "UA",
     "latitude": "49.17906000",
     "longitude": "37.42593000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +128,7 @@
     "country_code": "UA",
     "latitude": "49.83588000",
     "longitude": "36.68803000",
+    "county_id": 5356,
     "wikiDataId": null
   },
   {
@@ -129,6 +140,7 @@
     "country_code": "UA",
     "latitude": "50.10659000",
     "longitude": "36.12112000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -140,6 +152,7 @@
     "country_code": "UA",
     "latitude": "49.85019000",
     "longitude": "37.68262000",
+    "county_id": 5353,
     "wikiDataId": null
   },
   {
@@ -151,6 +164,7 @@
     "country_code": "UA",
     "latitude": "49.79614000",
     "longitude": "36.59047000",
+    "county_id": 5356,
     "wikiDataId": null
   },
   {
@@ -162,6 +176,7 @@
     "country_code": "UA",
     "latitude": "50.13322000",
     "longitude": "35.34394000",
+    "county_id": 5350,
     "wikiDataId": null
   },
   {
@@ -173,6 +188,7 @@
     "country_code": "UA",
     "latitude": "49.20875000",
     "longitude": "37.24849000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +200,7 @@
     "country_code": "UA",
     "latitude": "49.28656000",
     "longitude": "35.76153000",
+    "county_id": 5352,
     "wikiDataId": null
   },
   {
@@ -195,6 +212,7 @@
     "country_code": "UA",
     "latitude": "49.98081000",
     "longitude": "36.25272000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -206,6 +224,7 @@
     "country_code": "UA",
     "latitude": "49.85413000",
     "longitude": "36.21704000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -217,6 +236,7 @@
     "country_code": "UA",
     "latitude": "49.63096000",
     "longitude": "37.68821000",
+    "county_id": 5353,
     "wikiDataId": null
   },
   {
@@ -228,6 +248,7 @@
     "country_code": "UA",
     "latitude": "49.88005000",
     "longitude": "36.73723000",
+    "county_id": 5356,
     "wikiDataId": null
   },
   {
@@ -239,6 +260,7 @@
     "country_code": "UA",
     "latitude": "49.83987000",
     "longitude": "35.30441000",
+    "county_id": 5350,
     "wikiDataId": null
   },
   {
@@ -250,17 +272,7 @@
     "country_code": "UA",
     "latitude": "49.94737000",
     "longitude": "36.03736000",
-    "wikiDataId": null
-  },
-  {
-    "id": 109838,
-    "name": "Krasnohrad",
-    "state_id": 4686,
-    "state_code": "63",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "49.38009000",
-    "longitude": "35.44186000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -272,6 +284,7 @@
     "country_code": "UA",
     "latitude": "50.06602000",
     "longitude": "35.16275000",
+    "county_id": 5350,
     "wikiDataId": null
   },
   {
@@ -283,6 +296,7 @@
     "country_code": "UA",
     "latitude": "49.13643000",
     "longitude": "36.31911000",
+    "county_id": 5354,
     "wikiDataId": null
   },
   {
@@ -294,6 +308,7 @@
     "country_code": "UA",
     "latitude": "49.98178000",
     "longitude": "36.38283000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -305,6 +320,19 @@
     "country_code": "UA",
     "latitude": "49.71055000",
     "longitude": "37.61517000",
+    "county_id": 5353,
+    "wikiDataId": null
+  },
+  {
+    "id": 109966,
+    "name": "Liubotyn",
+    "state_id": 4686,
+    "state_code": "63",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "49.94691000",
+    "longitude": "35.92907000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -316,6 +344,7 @@
     "country_code": "UA",
     "latitude": "48.88937000",
     "longitude": "36.31755000",
+    "county_id": 5354,
     "wikiDataId": null
   },
   {
@@ -327,17 +356,19 @@
     "country_code": "UA",
     "latitude": "49.59769000",
     "longitude": "36.47030000",
+    "county_id": 5356,
     "wikiDataId": null
   },
   {
-    "id": 109966,
-    "name": "Lyubotyn",
+    "id": 110222,
+    "name": "Lymanivka",
     "state_id": 4686,
     "state_code": "63",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "49.94691000",
-    "longitude": "35.92907000",
+    "latitude": "48.93692000",
+    "longitude": "36.27563000",
+    "county_id": 5354,
     "wikiDataId": null
   },
   {
@@ -349,6 +380,7 @@
     "country_code": "UA",
     "latitude": "50.06354000",
     "longitude": "36.16564000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -360,6 +392,7 @@
     "country_code": "UA",
     "latitude": "49.81667000",
     "longitude": "36.73333000",
+    "county_id": 5356,
     "wikiDataId": null
   },
   {
@@ -371,6 +404,7 @@
     "country_code": "UA",
     "latitude": "49.97982000",
     "longitude": "35.85835000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -382,6 +416,7 @@
     "country_code": "UA",
     "latitude": "49.82302000",
     "longitude": "36.05069000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -393,6 +428,7 @@
     "country_code": "UA",
     "latitude": "49.71901000",
     "longitude": "35.86578000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -404,17 +440,7 @@
     "country_code": "UA",
     "latitude": "49.83349000",
     "longitude": "36.54771000",
-    "wikiDataId": null
-  },
-  {
-    "id": 110222,
-    "name": "Panyutyne",
-    "state_id": 4686,
-    "state_code": "63",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "48.93692000",
-    "longitude": "36.27563000",
+    "county_id": 5356,
     "wikiDataId": null
   },
   {
@@ -426,6 +452,7 @@
     "country_code": "UA",
     "latitude": "50.02452000",
     "longitude": "35.97871000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -437,6 +464,7 @@
     "country_code": "UA",
     "latitude": "49.41667000",
     "longitude": "36.33333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -448,6 +476,7 @@
     "country_code": "UA",
     "latitude": "49.38742000",
     "longitude": "36.21471000",
+    "county_id": 5354,
     "wikiDataId": null
   },
   {
@@ -459,6 +488,7 @@
     "country_code": "UA",
     "latitude": "49.17695000",
     "longitude": "36.89999000",
+    "county_id": 5351,
     "wikiDataId": null
   },
   {
@@ -470,6 +500,7 @@
     "country_code": "UA",
     "latitude": "49.88315000",
     "longitude": "36.06785000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -481,17 +512,19 @@
     "country_code": "UA",
     "latitude": "49.91343000",
     "longitude": "36.17511000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
     "id": 110317,
-    "name": "Prudyanka",
+    "name": "Prudianka",
     "state_id": 4686,
     "state_code": "63",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "50.23606000",
     "longitude": "36.16835000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -503,6 +536,7 @@
     "country_code": "UA",
     "latitude": "50.16273000",
     "longitude": "37.34524000",
+    "county_id": 5353,
     "wikiDataId": null
   },
   {
@@ -514,6 +548,7 @@
     "country_code": "UA",
     "latitude": "49.15166000",
     "longitude": "35.87198000",
+    "county_id": 5352,
     "wikiDataId": null
   },
   {
@@ -525,6 +560,7 @@
     "country_code": "UA",
     "latitude": "49.40257000",
     "longitude": "37.06266000",
+    "county_id": 5351,
     "wikiDataId": null
   },
   {
@@ -536,6 +572,7 @@
     "country_code": "UA",
     "latitude": "49.69585000",
     "longitude": "37.17348000",
+    "county_id": 5353,
     "wikiDataId": null
   },
   {
@@ -547,6 +584,7 @@
     "country_code": "UA",
     "latitude": "50.21041000",
     "longitude": "36.15376000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -558,6 +596,19 @@
     "country_code": "UA",
     "latitude": "49.59701000",
     "longitude": "36.52618000",
+    "county_id": 5356,
+    "wikiDataId": null
+  },
+  {
+    "id": 109469,
+    "name": "Slobozhanske",
+    "state_id": 4686,
+    "state_code": "63",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "49.36625000",
+    "longitude": "35.87486000",
+    "county_id": 5352,
     "wikiDataId": null
   },
   {
@@ -569,6 +620,19 @@
     "country_code": "UA",
     "latitude": "49.99682000",
     "longitude": "36.03464000",
+    "county_id": 5355,
+    "wikiDataId": null
+  },
+  {
+    "id": 110541,
+    "name": "Staryi Saltiv",
+    "state_id": 4686,
+    "state_code": "63",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "50.07619000",
+    "longitude": "36.78852000",
+    "county_id": 5356,
     "wikiDataId": null
   },
   {
@@ -580,17 +644,7 @@
     "country_code": "UA",
     "latitude": "49.98147000",
     "longitude": "35.75904000",
-    "wikiDataId": null
-  },
-  {
-    "id": 110541,
-    "name": "Staryy Saltiv",
-    "state_id": 4686,
-    "state_code": "63",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "50.07619000",
-    "longitude": "36.78852000",
+    "county_id": 5350,
     "wikiDataId": null
   },
   {
@@ -602,6 +656,7 @@
     "country_code": "UA",
     "latitude": "49.09107000",
     "longitude": "37.48697000",
+    "county_id": 5351,
     "wikiDataId": null
   },
   {
@@ -613,6 +668,7 @@
     "country_code": "UA",
     "latitude": "49.78583000",
     "longitude": "36.07528000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -624,6 +680,7 @@
     "country_code": "UA",
     "latitude": "49.83597000",
     "longitude": "35.61223000",
+    "county_id": 5350,
     "wikiDataId": null
   },
   {
@@ -635,17 +692,19 @@
     "country_code": "UA",
     "latitude": "49.82852000",
     "longitude": "36.32691000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
     "id": 110696,
-    "name": "Velykyy Burluk",
+    "name": "Velykyi Burluk",
     "state_id": 4686,
     "state_code": "63",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "50.06170000",
     "longitude": "37.38373000",
+    "county_id": 5353,
     "wikiDataId": null
   },
   {
@@ -657,6 +716,7 @@
     "country_code": "UA",
     "latitude": "49.41667000",
     "longitude": "35.53333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -668,6 +728,7 @@
     "country_code": "UA",
     "latitude": "50.29078000",
     "longitude": "36.94108000",
+    "county_id": 5356,
     "wikiDataId": null
   },
   {
@@ -679,17 +740,19 @@
     "country_code": "UA",
     "latitude": "49.82372000",
     "longitude": "36.50264000",
+    "county_id": 5356,
     "wikiDataId": null
   },
   {
     "id": 110768,
-    "name": "Vysokyy",
+    "name": "Vysokyi",
     "state_id": 4686,
     "state_code": "63",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "49.89156000",
     "longitude": "36.12175000",
+    "county_id": 5355,
     "wikiDataId": null
   },
   {
@@ -701,6 +764,7 @@
     "country_code": "UA",
     "latitude": "49.19385000",
     "longitude": "35.23943000",
+    "county_id": 5352,
     "wikiDataId": null
   },
   {
@@ -712,6 +776,7 @@
     "country_code": "UA",
     "latitude": "49.67453000",
     "longitude": "36.34775000",
+    "county_id": 5356,
     "wikiDataId": null
   },
   {
@@ -723,6 +788,7 @@
     "country_code": "UA",
     "latitude": "50.27985000",
     "longitude": "35.98179000",
+    "county_id": 5350,
     "wikiDataId": null
   }
 ]

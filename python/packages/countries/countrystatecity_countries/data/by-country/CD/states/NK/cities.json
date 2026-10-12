@@ -8,6 +8,7 @@
     "country_code": "CD",
     "latitude": "0.49113000",
     "longitude": "29.47306000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "CD",
     "latitude": "0.14164000",
     "longitude": "29.29117000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,31 @@
     "country_code": "CD",
     "latitude": "-1.67409000",
     "longitude": "29.22845000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164542,
+    "name": "Kanyobagonga",
+    "state_id": 2749,
+    "state_code": "NK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-0.69978000",
+    "longitude": "29.17181000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164535,
+    "name": "Rutshuru",
+    "state_id": 2749,
+    "state_code": "NK",
+    "country_id": 51,
+    "country_code": "CD",
+    "latitude": "-1.18666000",
+    "longitude": "29.44669000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +68,7 @@
     "country_code": "CD",
     "latitude": "-1.57386000",
     "longitude": "29.04339000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

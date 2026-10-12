@@ -1,27 +1,5 @@
 [
   {
-    "id": 105266,
-    "name": "Amphoe Cha-am",
-    "state_id": 3532,
-    "state_code": "76",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "12.75374000",
-    "longitude": "99.89828000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105400,
-    "name": "Amphoe Khao Yoi",
-    "state_id": 3532,
-    "state_code": "76",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.24240000",
-    "longitude": "99.80753000",
-    "wikiDataId": null
-  },
-  {
     "id": 106292,
     "name": "Amphoe Tha Yang",
     "state_id": 3532,
@@ -30,6 +8,7 @@
     "country_code": "TH",
     "latitude": "12.81743000",
     "longitude": "99.78738000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -39,8 +18,9 @@
     "state_code": "76",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "13.16968000",
-    "longitude": "99.98771000",
+    "latitude": "13.21676499",
+    "longitude": "99.97674563",
+    "county_id": 6144,
     "wikiDataId": null
   },
   {
@@ -50,8 +30,9 @@
     "state_code": "76",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "13.04533000",
-    "longitude": "99.83788000",
+    "latitude": "13.04960000",
+    "longitude": "99.91880000",
+    "county_id": 6143,
     "wikiDataId": null
   },
   {
@@ -63,6 +44,7 @@
     "country_code": "TH",
     "latitude": "12.80000000",
     "longitude": "99.96667000",
+    "county_id": 6141,
     "wikiDataId": null
   },
   {
@@ -74,6 +56,7 @@
     "country_code": "TH",
     "latitude": "12.85919000",
     "longitude": "99.46339000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,17 +68,7 @@
     "country_code": "TH",
     "latitude": "13.24025000",
     "longitude": "99.82428000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105571,
-    "name": "Mueang Phetchaburi",
-    "state_id": 3532,
-    "state_code": "76",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "13.08173000",
-    "longitude": "99.96721000",
+    "county_id": 6139,
     "wikiDataId": null
   },
   {
@@ -105,8 +78,9 @@
     "state_code": "76",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "13.12590000",
-    "longitude": "99.46880000",
+    "latitude": "13.16288000",
+    "longitude": "99.69723000",
+    "county_id": 6140,
     "wikiDataId": null
   },
   {
@@ -118,6 +92,7 @@
     "country_code": "TH",
     "latitude": "13.11189000",
     "longitude": "99.94467000",
+    "county_id": 6138,
     "wikiDataId": null
   },
   {
@@ -129,6 +104,7 @@
     "country_code": "TH",
     "latitude": "12.95772000",
     "longitude": "99.90555000",
+    "county_id": 6142,
     "wikiDataId": null
   }
 ]

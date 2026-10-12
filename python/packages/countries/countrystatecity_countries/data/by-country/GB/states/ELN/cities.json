@@ -8,6 +8,7 @@
     "country_code": "GB",
     "latitude": "56.00884000",
     "longitude": "-2.85851000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,17 +20,19 @@
     "country_code": "GB",
     "latitude": "55.78333000",
     "longitude": "-2.21667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 48977,
-    "name": "Chirnside",
+    "id": 49051,
+    "name": "Cockenzie",
     "state_id": 2462,
     "state_code": "ELN",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "55.80215000",
-    "longitude": "-2.20927000",
+    "latitude": "55.96823000",
+    "longitude": "-2.96562000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,17 +44,7 @@
     "country_code": "GB",
     "latitude": "56.00062000",
     "longitude": "-2.51418000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49362,
-    "name": "Duns",
-    "state_id": 2462,
-    "state_code": "ELN",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "55.77704000",
-    "longitude": "-2.34575000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,28 +56,7 @@
     "country_code": "GB",
     "latitude": "55.98737000",
     "longitude": "-2.65682000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49404,
-    "name": "East Lothian",
-    "state_id": 2462,
-    "state_code": "ELN",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "55.91667000",
-    "longitude": "-2.75000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49510,
-    "name": "Eyemouth",
-    "state_id": 2462,
-    "state_code": "ELN",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "55.87130000",
-    "longitude": "-2.09010000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +68,7 @@
     "country_code": "GB",
     "latitude": "56.03652000",
     "longitude": "-2.82829000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +80,7 @@
     "country_code": "GB",
     "latitude": "55.95612000",
     "longitude": "-2.78332000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +92,7 @@
     "country_code": "GB",
     "latitude": "55.97543000",
     "longitude": "-2.89593000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +104,19 @@
     "country_code": "GB",
     "latitude": "55.94045000",
     "longitude": "-2.90503000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50655,
+    "name": "Musselburgh",
+    "state_id": 2462,
+    "state_code": "ELN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.94170000",
+    "longitude": "-3.04991000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +128,7 @@
     "country_code": "GB",
     "latitude": "56.05825000",
     "longitude": "-2.72290000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +140,7 @@
     "country_code": "GB",
     "latitude": "55.91302000",
     "longitude": "-2.93985000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +152,19 @@
     "country_code": "GB",
     "latitude": "55.90727000",
     "longitude": "-2.89490000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50988,
+    "name": "Prestonpans",
+    "state_id": 2462,
+    "state_code": "ELN",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.95939000",
+    "longitude": "-2.98038000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +176,7 @@
     "country_code": "GB",
     "latitude": "55.94439000",
     "longitude": "-2.95412000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

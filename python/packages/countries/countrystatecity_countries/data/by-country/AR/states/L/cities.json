@@ -1,5 +1,17 @@
 [
   {
+    "id": 164447,
+    "name": "Algarrobo del Águila",
+    "state_id": 3655,
+    "state_code": "L",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-36.40053000",
+    "longitude": "-67.14457000",
+    "county_id": 6612,
+    "wikiDataId": null
+  },
+  {
     "id": 652,
     "name": "Alpachiri",
     "state_id": 3655,
@@ -8,6 +20,7 @@
     "country_code": "AR",
     "latitude": "-37.37704000",
     "longitude": "-63.77445000",
+    "county_id": 6613,
     "wikiDataId": null
   },
   {
@@ -19,6 +32,7 @@
     "country_code": "AR",
     "latitude": "-35.33350000",
     "longitude": "-64.11496000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +44,7 @@
     "country_code": "AR",
     "latitude": "-36.52567000",
     "longitude": "-64.01025000",
+    "county_id": 6606,
     "wikiDataId": null
   },
   {
@@ -41,6 +56,7 @@
     "country_code": "AR",
     "latitude": "-35.63895000",
     "longitude": "-64.35621000",
+    "county_id": 6624,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,7 @@
     "country_code": "AR",
     "latitude": "-35.02449000",
     "longitude": "-63.58253000",
+    "county_id": 6611,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "AR",
     "latitude": "-37.90459000",
     "longitude": "-63.74240000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +92,7 @@
     "country_code": "AR",
     "latitude": "-35.59559000",
     "longitude": "-64.55778000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +104,7 @@
     "country_code": "AR",
     "latitude": "-36.40597000",
     "longitude": "-63.42168000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,28 +116,7 @@
     "country_code": "AR",
     "latitude": "-36.15152000",
     "longitude": "-63.85404000",
-    "wikiDataId": null
-  },
-  {
-    "id": 843,
-    "name": "Departamento de Caleu-Caleu",
-    "state_id": 3655,
-    "state_code": "L",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-38.58333000",
-    "longitude": "-64.00000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 1021,
-    "name": "Departamento de Toay",
-    "state_id": 3655,
-    "state_code": "L",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-36.58333000",
-    "longitude": "-64.80000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +128,7 @@
     "country_code": "AR",
     "latitude": "-37.14967000",
     "longitude": "-64.01183000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +140,7 @@
     "country_code": "AR",
     "latitude": "-35.91501000",
     "longitude": "-64.29448000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +152,7 @@
     "country_code": "AR",
     "latitude": "-35.38633000",
     "longitude": "-64.28092000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +164,7 @@
     "country_code": "AR",
     "latitude": "-37.37698000",
     "longitude": "-64.60431000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +176,7 @@
     "country_code": "AR",
     "latitude": "-37.46025000",
     "longitude": "-63.58537000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +188,7 @@
     "country_code": "AR",
     "latitude": "-35.65662000",
     "longitude": "-63.75682000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +200,7 @@
     "country_code": "AR",
     "latitude": "-37.97904000",
     "longitude": "-63.60449000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +212,7 @@
     "country_code": "AR",
     "latitude": "-37.66776000",
     "longitude": "-63.53021000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +224,7 @@
     "country_code": "AR",
     "latitude": "-35.38585000",
     "longitude": "-64.46519000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +236,7 @@
     "country_code": "AR",
     "latitude": "-35.23383000",
     "longitude": "-63.59205000",
+    "county_id": 6611,
     "wikiDataId": null
   },
   {
@@ -239,6 +248,7 @@
     "country_code": "AR",
     "latitude": "-38.08606000",
     "longitude": "-63.43169000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +260,7 @@
     "country_code": "AR",
     "latitude": "-38.98333000",
     "longitude": "-64.08333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +272,7 @@
     "country_code": "AR",
     "latitude": "-35.67360000",
     "longitude": "-64.93997000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +284,7 @@
     "country_code": "AR",
     "latitude": "-36.46546000",
     "longitude": "-63.62429000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +296,7 @@
     "country_code": "AR",
     "latitude": "-37.13598000",
     "longitude": "-63.66650000",
+    "county_id": 6604,
     "wikiDataId": null
   },
   {
@@ -294,6 +308,7 @@
     "country_code": "AR",
     "latitude": "-36.85398000",
     "longitude": "-63.68842000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +320,7 @@
     "country_code": "AR",
     "latitude": "-35.14600000",
     "longitude": "-64.50089000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +332,7 @@
     "country_code": "AR",
     "latitude": "-36.05463000",
     "longitude": "-63.56428000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,6 +344,7 @@
     "country_code": "AR",
     "latitude": "-35.06862000",
     "longitude": "-64.68107000",
+    "county_id": 6621,
     "wikiDataId": null
   },
   {
@@ -338,6 +356,7 @@
     "country_code": "AR",
     "latitude": "-35.03658000",
     "longitude": "-64.24470000",
+    "county_id": 6622,
     "wikiDataId": null
   },
   {
@@ -349,6 +368,7 @@
     "country_code": "AR",
     "latitude": "-36.22724000",
     "longitude": "-66.94240000",
+    "county_id": 6610,
     "wikiDataId": null
   },
   {
@@ -360,6 +380,7 @@
     "country_code": "AR",
     "latitude": "-36.61667000",
     "longitude": "-64.28333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -371,6 +392,19 @@
     "country_code": "AR",
     "latitude": "-36.26429000",
     "longitude": "-65.51018000",
+    "county_id": 6617,
+    "wikiDataId": null
+  },
+  {
+    "id": 1021,
+    "name": "Toay",
+    "state_id": 3655,
+    "state_code": "L",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-36.67500000",
+    "longitude": "-64.37850000",
+    "county_id": 6623,
     "wikiDataId": null
   },
   {
@@ -382,6 +416,7 @@
     "country_code": "AR",
     "latitude": "-35.69837000",
     "longitude": "-64.13218000",
+    "county_id": 6624,
     "wikiDataId": null
   },
   {
@@ -393,6 +428,7 @@
     "country_code": "AR",
     "latitude": "-36.50682000",
     "longitude": "-63.86225000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -404,6 +440,7 @@
     "country_code": "AR",
     "latitude": "-37.77410000",
     "longitude": "-67.71638000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,6 +452,7 @@
     "country_code": "AR",
     "latitude": "-36.21505000",
     "longitude": "-65.43586000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -426,6 +464,7 @@
     "country_code": "AR",
     "latitude": "-36.22643000",
     "longitude": "-64.23388000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

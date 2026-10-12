@@ -8,6 +8,7 @@
     "country_code": "GB",
     "latitude": "55.65018000",
     "longitude": "-4.80659000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,17 +20,7 @@
     "country_code": "GB",
     "latitude": "55.74923000",
     "longitude": "-4.63680000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49177,
-    "name": "Crosshouse",
-    "state_id": 2535,
-    "state_code": "NAY",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "55.61258000",
-    "longitude": "-4.55091000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +32,7 @@
     "country_code": "GB",
     "latitude": "55.70956000",
     "longitude": "-4.72167000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,17 +44,7 @@
     "country_code": "GB",
     "latitude": "55.60807000",
     "longitude": "-4.62226000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49349,
-    "name": "Dundonald",
-    "state_id": 2535,
-    "state_code": "NAY",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "55.57939000",
-    "longitude": "-4.59473000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +56,7 @@
     "country_code": "GB",
     "latitude": "55.75602000",
     "longitude": "-4.85564000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +68,7 @@
     "country_code": "GB",
     "latitude": "55.61940000",
     "longitude": "-4.65508000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +80,7 @@
     "country_code": "GB",
     "latitude": "55.58145000",
     "longitude": "-5.21233000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +92,7 @@
     "country_code": "GB",
     "latitude": "55.76933000",
     "longitude": "-4.91913000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,17 +104,7 @@
     "country_code": "GB",
     "latitude": "55.75082000",
     "longitude": "-4.68791000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50151,
-    "name": "Kilmaurs",
-    "state_id": 2535,
-    "state_code": "NAY",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "55.63801000",
-    "longitude": "-4.52730000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +116,7 @@
     "country_code": "GB",
     "latitude": "55.65333000",
     "longitude": "-4.70666000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +128,7 @@
     "country_code": "GB",
     "latitude": "55.53358000",
     "longitude": "-5.12956000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +140,7 @@
     "country_code": "GB",
     "latitude": "55.79629000",
     "longitude": "-4.86337000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +152,7 @@
     "country_code": "GB",
     "latitude": "55.75348000",
     "longitude": "-4.92559000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +164,7 @@
     "country_code": "GB",
     "latitude": "55.69694000",
     "longitude": "-4.73373000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +176,19 @@
     "country_code": "GB",
     "latitude": "55.63616000",
     "longitude": "-4.78588000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51321,
+    "name": "Skelmorlie",
+    "state_id": 2535,
+    "state_code": "NAY",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.86950000",
+    "longitude": "-4.88475000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +200,7 @@
     "country_code": "GB",
     "latitude": "55.61514000",
     "longitude": "-4.59062000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,17 +212,7 @@
     "country_code": "GB",
     "latitude": "55.63970000",
     "longitude": "-4.75339000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51673,
-    "name": "Troon",
-    "state_id": 2535,
-    "state_code": "NAY",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "55.54359000",
-    "longitude": "-4.66335000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +224,7 @@
     "country_code": "GB",
     "latitude": "55.69004000",
     "longitude": "-4.85771000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

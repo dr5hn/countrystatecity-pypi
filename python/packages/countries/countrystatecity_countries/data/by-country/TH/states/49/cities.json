@@ -6,8 +6,9 @@
     "state_code": "49",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.28796000",
-    "longitude": "104.82231000",
+    "latitude": "16.31873419",
+    "longitude": "104.91816217",
+    "county_id": 5891,
     "wikiDataId": null
   },
   {
@@ -17,30 +18,21 @@
     "state_code": "49",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.79649000",
-    "longitude": "104.35562000",
+    "latitude": "16.80660000",
+    "longitude": "104.53370000",
+    "county_id": 5892,
     "wikiDataId": null
   },
   {
     "id": 105388,
-    "name": "Khamcha-i",
+    "name": "Kham Cha-i",
     "state_id": 3546,
     "state_code": "49",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.61452000",
-    "longitude": "104.35929000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105552,
-    "name": "Mueang Mukdahan",
-    "state_id": 3546,
-    "state_code": "49",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "16.55110000",
-    "longitude": "104.64605000",
+    "latitude": "16.57915999",
+    "longitude": "104.41900936",
+    "county_id": 5893,
     "wikiDataId": null
   },
   {
@@ -52,6 +44,7 @@
     "country_code": "TH",
     "latitude": "16.54531000",
     "longitude": "104.72351000",
+    "county_id": 5889,
     "wikiDataId": null
   },
   {
@@ -61,8 +54,9 @@
     "state_code": "49",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.35375000",
-    "longitude": "104.55864000",
+    "latitude": "16.37486078",
+    "longitude": "104.55512871",
+    "county_id": 5890,
     "wikiDataId": null
   },
   {
@@ -74,6 +68,7 @@
     "country_code": "TH",
     "latitude": "16.44759000",
     "longitude": "104.33649000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -83,8 +78,9 @@
     "state_code": "49",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.72030000",
-    "longitude": "104.72865000",
+    "latitude": "16.72020000",
+    "longitude": "104.75050000",
+    "county_id": 5894,
     "wikiDataId": null
   }
 ]

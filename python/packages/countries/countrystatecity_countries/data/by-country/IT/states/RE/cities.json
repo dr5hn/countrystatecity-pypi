@@ -8,6 +8,7 @@
     "country_code": "IT",
     "latitude": "44.62859000",
     "longitude": "10.61024000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "IT",
     "latitude": "44.61762000",
     "longitude": "10.72461000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "IT",
     "latitude": "44.77494000",
     "longitude": "10.63432000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "IT",
     "latitude": "44.65545000",
     "longitude": "10.75881000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "IT",
     "latitude": "44.76437000",
     "longitude": "10.67358000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "IT",
     "latitude": "44.49668000",
     "longitude": "10.60083000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,7 @@
     "country_code": "IT",
     "latitude": "44.68833000",
     "longitude": "10.49582000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +92,7 @@
     "country_code": "IT",
     "latitude": "44.66292000",
     "longitude": "10.47391000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +104,7 @@
     "country_code": "IT",
     "latitude": "44.90157000",
     "longitude": "10.55147000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +116,7 @@
     "country_code": "IT",
     "latitude": "44.60360000",
     "longitude": "10.63675000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +128,7 @@
     "country_code": "IT",
     "latitude": "44.89531000",
     "longitude": "10.51269000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +140,7 @@
     "country_code": "IT",
     "latitude": "44.36886000",
     "longitude": "10.32339000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +152,7 @@
     "country_code": "IT",
     "latitude": "44.73850000",
     "longitude": "10.51580000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +164,7 @@
     "country_code": "IT",
     "latitude": "44.76573000",
     "longitude": "10.59898000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +176,7 @@
     "country_code": "IT",
     "latitude": "44.80141000",
     "longitude": "10.61578000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +188,7 @@
     "country_code": "IT",
     "latitude": "44.74875000",
     "longitude": "10.48603000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +200,7 @@
     "country_code": "IT",
     "latitude": "44.83925000",
     "longitude": "10.76507000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +212,19 @@
     "country_code": "IT",
     "latitude": "44.78085000",
     "longitude": "10.52836000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 137704,
+    "name": "Canossa",
+    "state_id": 1708,
+    "state_code": "RE",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.59982000",
+    "longitude": "10.41040000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,17 +236,7 @@
     "country_code": "IT",
     "latitude": "44.77521000",
     "longitude": "10.51158000",
-    "wikiDataId": null
-  },
-  {
-    "id": 136913,
-    "name": "Carpi Centro",
-    "state_id": 1708,
-    "state_code": "RE",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "44.78237000",
-    "longitude": "10.87770000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +248,7 @@
     "country_code": "IT",
     "latitude": "44.45574000",
     "longitude": "10.51780000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +260,7 @@
     "country_code": "IT",
     "latitude": "44.58466000",
     "longitude": "10.73550000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +272,7 @@
     "country_code": "IT",
     "latitude": "44.50982000",
     "longitude": "10.49951000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +284,7 @@
     "country_code": "IT",
     "latitude": "44.51825000",
     "longitude": "10.73727000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,17 +296,19 @@
     "country_code": "IT",
     "latitude": "44.81253000",
     "longitude": "10.56694000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 137280,
-    "name": "Castelnovo ne'Monti",
+    "name": "Castelnovo ne' Monti",
     "state_id": 1708,
     "state_code": "RE",
     "country_id": 107,
     "country_code": "IT",
     "latitude": "44.43556000",
     "longitude": "10.40329000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,17 +320,7 @@
     "country_code": "IT",
     "latitude": "44.69457000",
     "longitude": "10.52591000",
-    "wikiDataId": null
-  },
-  {
-    "id": 137704,
-    "name": "Ciano d'Enza",
-    "state_id": 1708,
-    "state_code": "RE",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "44.59982000",
-    "longitude": "10.41040000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +332,31 @@
     "country_code": "IT",
     "latitude": "44.69082000",
     "longitude": "10.55098000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 137832,
+    "name": "Codisotto",
+    "state_id": 1708,
+    "state_code": "RE",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.98278000",
+    "longitude": "10.72750000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 137854,
+    "name": "Collagna",
+    "state_id": 1708,
+    "state_code": "RE",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.34694000",
+    "longitude": "10.27350000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,6 +368,7 @@
     "country_code": "IT",
     "latitude": "44.76737000",
     "longitude": "10.78345000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -338,6 +380,7 @@
     "country_code": "IT",
     "latitude": "44.87214000",
     "longitude": "10.80893000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -349,6 +392,7 @@
     "country_code": "IT",
     "latitude": "44.45478000",
     "longitude": "10.46067000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -360,6 +404,7 @@
     "country_code": "IT",
     "latitude": "44.61052000",
     "longitude": "10.69700000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -371,6 +416,7 @@
     "country_code": "IT",
     "latitude": "44.64751000",
     "longitude": "10.64505000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,17 +428,19 @@
     "country_code": "IT",
     "latitude": "44.63646000",
     "longitude": "10.57316000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 138680,
-    "name": "Fossoli",
+    "id": 166158,
+    "name": "Gattatico",
     "state_id": 1708,
     "state_code": "RE",
     "country_id": 107,
     "country_code": "IT",
-    "latitude": "44.82160000",
-    "longitude": "10.88977000",
+    "latitude": "44.80000000",
+    "longitude": "10.46666667",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -404,6 +452,7 @@
     "country_code": "IT",
     "latitude": "44.89736000",
     "longitude": "10.62860000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,6 +464,7 @@
     "country_code": "IT",
     "latitude": "44.91172000",
     "longitude": "10.66186000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -426,6 +476,7 @@
     "country_code": "IT",
     "latitude": "44.86667000",
     "longitude": "10.48333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -437,6 +488,7 @@
     "country_code": "IT",
     "latitude": "44.31635000",
     "longitude": "10.34224000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -448,17 +500,7 @@
     "country_code": "IT",
     "latitude": "44.95925000",
     "longitude": "10.68953000",
-    "wikiDataId": null
-  },
-  {
-    "id": 139742,
-    "name": "Magreta",
-    "state_id": 1708,
-    "state_code": "RE",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "44.60000000",
-    "longitude": "10.80000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -470,28 +512,7 @@
     "country_code": "IT",
     "latitude": "44.73477000",
     "longitude": "10.69736000",
-    "wikiDataId": null
-  },
-  {
-    "id": 140114,
-    "name": "Mezzano Inferiore",
-    "state_id": 1708,
-    "state_code": "RE",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "44.91291000",
-    "longitude": "10.45838000",
-    "wikiDataId": null
-  },
-  {
-    "id": 140133,
-    "name": "Migliarina",
-    "state_id": 1708,
-    "state_code": "RE",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "44.81042000",
-    "longitude": "10.83600000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -503,6 +524,7 @@
     "country_code": "IT",
     "latitude": "44.63275000",
     "longitude": "10.54264000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -514,17 +536,7 @@
     "country_code": "IT",
     "latitude": "44.69937000",
     "longitude": "10.45211000",
-    "wikiDataId": null
-  },
-  {
-    "id": 140561,
-    "name": "Monticelli Terme",
-    "state_id": 1708,
-    "state_code": "RE",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "44.72881000",
-    "longitude": "10.39444000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -536,6 +548,7 @@
     "country_code": "IT",
     "latitude": "44.84488000",
     "longitude": "10.72745000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -547,6 +560,7 @@
     "country_code": "IT",
     "latitude": "44.84227000",
     "longitude": "10.53936000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -558,6 +572,7 @@
     "country_code": "IT",
     "latitude": "44.80436000",
     "longitude": "10.47310000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -569,6 +584,7 @@
     "country_code": "IT",
     "latitude": "44.60416000",
     "longitude": "10.67400000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -580,6 +596,7 @@
     "country_code": "IT",
     "latitude": "44.71589000",
     "longitude": "10.74797000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -591,6 +608,7 @@
     "country_code": "IT",
     "latitude": "44.62630000",
     "longitude": "10.56420000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -602,6 +620,19 @@
     "country_code": "IT",
     "latitude": "44.63496000",
     "longitude": "10.47429000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 59274,
+    "name": "Ramiseto",
+    "state_id": 1708,
+    "state_code": "RE",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.41284000",
+    "longitude": "10.27689000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -613,6 +644,7 @@
     "country_code": "IT",
     "latitude": "44.69825000",
     "longitude": "10.63125000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -624,6 +656,7 @@
     "country_code": "IT",
     "latitude": "44.91824000",
     "longitude": "10.81016000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -635,6 +668,7 @@
     "country_code": "IT",
     "latitude": "44.81147000",
     "longitude": "10.80414000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -646,6 +680,7 @@
     "country_code": "IT",
     "latitude": "44.88482000",
     "longitude": "10.85961000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -657,6 +692,7 @@
     "country_code": "IT",
     "latitude": "44.73843000",
     "longitude": "10.57816000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -668,6 +704,7 @@
     "country_code": "IT",
     "latitude": "44.48417000",
     "longitude": "10.68832000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -679,6 +716,7 @@
     "country_code": "IT",
     "latitude": "44.65158000",
     "longitude": "10.77940000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -690,6 +728,7 @@
     "country_code": "IT",
     "latitude": "44.59925000",
     "longitude": "10.76860000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -701,6 +740,7 @@
     "country_code": "IT",
     "latitude": "44.67402000",
     "longitude": "10.53941000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -712,17 +752,7 @@
     "country_code": "IT",
     "latitude": "44.73368000",
     "longitude": "10.78490000",
-    "wikiDataId": null
-  },
-  {
-    "id": 60122,
-    "name": "San Michele dei Mucchietti",
-    "state_id": 1708,
-    "state_code": "RE",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "44.50847000",
-    "longitude": "10.74726000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -734,6 +764,7 @@
     "country_code": "IT",
     "latitude": "44.62690000",
     "longitude": "10.42667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -745,17 +776,7 @@
     "country_code": "IT",
     "latitude": "44.75890000",
     "longitude": "10.44737000",
-    "wikiDataId": null
-  },
-  {
-    "id": 60427,
-    "name": "Santa Croce Scuole",
-    "state_id": 1708,
-    "state_code": "RE",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "44.76281000",
-    "longitude": "10.84944000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -767,6 +788,7 @@
     "country_code": "IT",
     "latitude": "44.85483000",
     "longitude": "10.63348000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -778,17 +800,7 @@
     "country_code": "IT",
     "latitude": "44.59830000",
     "longitude": "10.69558000",
-    "wikiDataId": null
-  },
-  {
-    "id": 60951,
-    "name": "Sorbolo",
-    "state_id": 1708,
-    "state_code": "RE",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "44.84587000",
-    "longitude": "10.44375000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -800,6 +812,7 @@
     "country_code": "IT",
     "latitude": "44.77202000",
     "longitude": "10.45563000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -811,6 +824,7 @@
     "country_code": "IT",
     "latitude": "44.37601000",
     "longitude": "10.56311000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -822,6 +836,19 @@
     "country_code": "IT",
     "latitude": "44.56070000",
     "longitude": "10.75621000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 166159,
+    "name": "Ventasso",
+    "state_id": 1708,
+    "state_code": "RE",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.36666667",
+    "longitude": "10.31666667",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -833,6 +860,7 @@
     "country_code": "IT",
     "latitude": "44.58621000",
     "longitude": "10.68767000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -844,6 +872,7 @@
     "country_code": "IT",
     "latitude": "44.48407000",
     "longitude": "10.33882000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -855,6 +884,7 @@
     "country_code": "IT",
     "latitude": "44.60241000",
     "longitude": "10.54469000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -866,6 +896,7 @@
     "country_code": "IT",
     "latitude": "44.54516000",
     "longitude": "10.62435000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -877,6 +908,7 @@
     "country_code": "IT",
     "latitude": "44.36480000",
     "longitude": "10.46545000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -888,6 +920,7 @@
     "country_code": "IT",
     "latitude": "44.92517000",
     "longitude": "10.74382000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

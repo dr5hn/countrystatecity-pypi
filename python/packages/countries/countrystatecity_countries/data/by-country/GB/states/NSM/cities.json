@@ -1,16 +1,5 @@
 [
   {
-    "id": 48322,
-    "name": "Axbridge",
-    "state_id": 2430,
-    "state_code": "NSM",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.28466000",
-    "longitude": "-2.82078000",
-    "wikiDataId": null
-  },
-  {
     "id": 48378,
     "name": "Banwell",
     "state_id": 2430,
@@ -19,6 +8,7 @@
     "country_code": "GB",
     "latitude": "51.32894000",
     "longitude": "-2.86914000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +20,7 @@
     "country_code": "GB",
     "latitude": "51.32688000",
     "longitude": "-2.71731000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +32,7 @@
     "country_code": "GB",
     "latitude": "51.30861000",
     "longitude": "-2.94750000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +44,7 @@
     "country_code": "GB",
     "latitude": "51.27488000",
     "longitude": "-2.76256000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +56,7 @@
     "country_code": "GB",
     "latitude": "51.40000000",
     "longitude": "-2.76667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,17 +68,7 @@
     "country_code": "GB",
     "latitude": "51.32884000",
     "longitude": "-2.74868000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48939,
-    "name": "Cheddar",
-    "state_id": 2430,
-    "state_code": "NSM",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.27537000",
-    "longitude": "-2.77662000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +80,7 @@
     "country_code": "GB",
     "latitude": "51.34291000",
     "longitude": "-2.78338000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,17 +92,7 @@
     "country_code": "GB",
     "latitude": "51.44227000",
     "longitude": "-2.85786000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49084,
-    "name": "Compton Martin",
-    "state_id": 2430,
-    "state_code": "NSM",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.31056000",
-    "longitude": "-2.65528000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,17 +104,31 @@
     "country_code": "GB",
     "latitude": "51.37135000",
     "longitude": "-2.81018000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 49324,
-    "name": "Draycott",
+    "id": 49351,
+    "name": "Dundry",
     "state_id": 2430,
     "state_code": "NSM",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.25615000",
-    "longitude": "-2.75116000",
+    "latitude": "51.39880000",
+    "longitude": "-2.63964000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49423,
+    "name": "Easton-in-Gordano",
+    "state_id": 2430,
+    "state_code": "NSM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.47592000",
+    "longitude": "-2.69987000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +140,7 @@
     "country_code": "GB",
     "latitude": "51.39833000",
     "longitude": "-2.86111000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +152,19 @@
     "country_code": "GB",
     "latitude": "51.33327000",
     "longitude": "-2.91387000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50390,
+    "name": "Long Ashton",
+    "state_id": 2430,
+    "state_code": "NSM",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.42997000",
+    "longitude": "-2.66098000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,17 +176,7 @@
     "country_code": "GB",
     "latitude": "51.43239000",
     "longitude": "-2.75847000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50765,
-    "name": "North Somerset",
-    "state_id": 2430,
-    "state_code": "NSM",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.33333000",
-    "longitude": "-2.83333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +188,7 @@
     "country_code": "GB",
     "latitude": "51.48199000",
     "longitude": "-2.76973000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,28 +200,7 @@
     "country_code": "GB",
     "latitude": "51.33228000",
     "longitude": "-2.83122000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51283,
-    "name": "Shipham",
-    "state_id": 2430,
-    "state_code": "NSM",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.31428000",
-    "longitude": "-2.80010000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51780,
-    "name": "Wedmore",
-    "state_id": 2430,
-    "state_code": "NSM",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.22727000",
-    "longitude": "-2.81152000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +212,7 @@
     "country_code": "GB",
     "latitude": "51.34603000",
     "longitude": "-2.97665000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +224,7 @@
     "country_code": "GB",
     "latitude": "51.38333000",
     "longitude": "-2.66111000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +236,7 @@
     "country_code": "GB",
     "latitude": "51.31810000",
     "longitude": "-2.83224000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +248,7 @@
     "country_code": "GB",
     "latitude": "51.36173000",
     "longitude": "-2.76319000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +260,7 @@
     "country_code": "GB",
     "latitude": "51.38839000",
     "longitude": "-2.82353000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

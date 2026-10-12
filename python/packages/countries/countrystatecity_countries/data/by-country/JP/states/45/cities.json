@@ -8,6 +8,7 @@
     "country_code": "JP",
     "latitude": "32.01667000",
     "longitude": "130.80000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "JP",
     "latitude": "32.37710000",
     "longitude": "131.52275000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,17 +32,7 @@
     "country_code": "JP",
     "latitude": "31.98333000",
     "longitude": "130.98333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63819,
-    "name": "Kobayashi Shi",
-    "state_id": 855,
-    "state_code": "45",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "32.04556000",
-    "longitude": "131.02762000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,17 +44,7 @@
     "country_code": "JP",
     "latitude": "31.48621000",
     "longitude": "131.24210000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63885,
-    "name": "Kushima Shi",
-    "state_id": 855,
-    "state_code": "45",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "31.48571000",
-    "longitude": "131.26485000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,17 +56,7 @@
     "country_code": "JP",
     "latitude": "31.73333000",
     "longitude": "131.06667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64004,
-    "name": "Miyakonojō Shi",
-    "state_id": 855,
-    "state_code": "45",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "31.80920000",
-    "longitude": "131.07904000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,17 +68,7 @@
     "country_code": "JP",
     "latitude": "31.91667000",
     "longitude": "131.41667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64010,
-    "name": "Miyazaki-shi",
-    "state_id": 855,
-    "state_code": "45",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "31.96192000",
-    "longitude": "131.38455000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,17 +80,7 @@
     "country_code": "JP",
     "latitude": "31.60000000",
     "longitude": "131.36667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64126,
-    "name": "Nichinan Shi",
-    "state_id": 855,
-    "state_code": "45",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "31.63737000",
-    "longitude": "131.33409000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,17 +92,7 @@
     "country_code": "JP",
     "latitude": "32.58333000",
     "longitude": "131.66667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64160,
-    "name": "Nobeoka-shi",
-    "state_id": 855,
-    "state_code": "45",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "32.67238000",
-    "longitude": "131.64311000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +104,7 @@
     "country_code": "JP",
     "latitude": "32.17288000",
     "longitude": "131.31543000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +116,7 @@
     "country_code": "JP",
     "latitude": "32.13333000",
     "longitude": "131.50000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +128,7 @@
     "country_code": "JP",
     "latitude": "32.10000000",
     "longitude": "131.40000000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

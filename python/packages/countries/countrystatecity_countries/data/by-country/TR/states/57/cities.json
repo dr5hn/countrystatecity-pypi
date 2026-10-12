@@ -8,6 +8,7 @@
     "country_code": "TR",
     "latitude": "41.95000000",
     "longitude": "34.58333300",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "TR",
     "latitude": "41.46889000",
     "longitude": "34.76667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "TR",
     "latitude": "41.66000000",
     "longitude": "35.27055556",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "TR",
     "latitude": "41.42555556",
     "longitude": "35.05777778",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "TR",
     "latitude": "41.87926000",
     "longitude": "34.91838000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,17 +68,7 @@
     "country_code": "TR",
     "latitude": "41.81000000",
     "longitude": "35.19027778",
-    "wikiDataId": null
-  },
-  {
-    "id": 142120,
-    "name": "Merkez",
-    "state_id": 4854,
-    "state_code": "57",
-    "country_id": 225,
-    "country_code": "TR",
-    "latitude": "41.91835000",
-    "longitude": "35.00687000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +80,19 @@
     "country_code": "TR",
     "latitude": "41.33722222",
     "longitude": "34.85361111",
+    "county_id": 7684,
+    "wikiDataId": null
+  },
+  {
+    "id": 165616,
+    "name": "Sinop",
+    "state_id": 4854,
+    "state_code": "57",
+    "country_id": 225,
+    "country_code": "TR",
+    "latitude": "42.02683000",
+    "longitude": "35.16253000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +104,7 @@
     "country_code": "TR",
     "latitude": "41.94777778",
     "longitude": "34.33861111",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

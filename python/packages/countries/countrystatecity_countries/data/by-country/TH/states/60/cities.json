@@ -8,39 +8,7 @@
     "country_code": "TH",
     "latitude": "15.88778000",
     "longitude": "100.09647000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105489,
-    "name": "Amphoe Lat Yao",
-    "state_id": 3492,
-    "state_code": "60",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.77526000",
-    "longitude": "99.80046000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105658,
-    "name": "Amphoe Nong Bua",
-    "state_id": 3492,
-    "state_code": "60",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.86591000",
-    "longitude": "100.62860000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105718,
-    "name": "Amphoe Phai Sali",
-    "state_id": 3492,
-    "state_code": "60",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.58723000",
-    "longitude": "100.68530000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,17 +20,7 @@
     "country_code": "TH",
     "latitude": "15.50783000",
     "longitude": "100.21226000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106263,
-    "name": "Amphoe Takhli",
-    "state_id": 3492,
-    "state_code": "60",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.25928000",
-    "longitude": "100.38058000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -72,8 +30,21 @@
     "state_code": "60",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.99714000",
-    "longitude": "99.99409000",
+    "latitude": "15.93558000",
+    "longitude": "99.98129000",
+    "county_id": 6012,
+    "wikiDataId": null
+  },
+  {
+    "id": 105314,
+    "name": "Chum Saeng",
+    "state_id": 3492,
+    "state_code": "60",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "15.89800500",
+    "longitude": "100.31102600",
+    "county_id": 6010,
     "wikiDataId": null
   },
   {
@@ -85,17 +56,7 @@
     "country_code": "TH",
     "latitude": "15.68311000",
     "longitude": "99.56908000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105314,
-    "name": "Chumsaeng",
-    "state_id": 3492,
-    "state_code": "60",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.84745000",
-    "longitude": "100.28971000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +68,7 @@
     "country_code": "TH",
     "latitude": "15.85053000",
     "longitude": "100.07914000",
+    "county_id": 6013,
     "wikiDataId": null
   },
   {
@@ -116,8 +78,9 @@
     "state_code": "60",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.58638000",
-    "longitude": "100.01815000",
+    "latitude": "15.55589000",
+    "longitude": "100.07153000",
+    "county_id": 6009,
     "wikiDataId": null
   },
   {
@@ -127,8 +90,9 @@
     "state_code": "60",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.75100000",
-    "longitude": "99.78925000",
+    "latitude": "15.75425600",
+    "longitude": "99.78080600",
+    "county_id": 6018,
     "wikiDataId": null
   },
   {
@@ -140,6 +104,7 @@
     "country_code": "TH",
     "latitude": "15.70656000",
     "longitude": "99.34827000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,17 +116,7 @@
     "country_code": "TH",
     "latitude": "15.83538000",
     "longitude": "99.40785000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105557,
-    "name": "Mueang Nakhon Sawan",
-    "state_id": 3492,
-    "state_code": "60",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "15.71991000",
-    "longitude": "100.10067000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +128,7 @@
     "country_code": "TH",
     "latitude": "15.70472000",
     "longitude": "100.13717000",
+    "county_id": 6008,
     "wikiDataId": null
   },
   {
@@ -182,19 +138,21 @@
     "state_code": "60",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.86458000",
-    "longitude": "100.58581000",
+    "latitude": "15.86472222",
+    "longitude": "100.58583333",
+    "county_id": 6011,
     "wikiDataId": null
   },
   {
     "id": 106618,
-    "name": "Phai Sali",
+    "name": "Phaisali",
     "state_id": 3492,
     "state_code": "60",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.60003000",
-    "longitude": "100.64937000",
+    "latitude": "15.60000000",
+    "longitude": "100.64944444",
+    "county_id": 6016,
     "wikiDataId": null
   },
   {
@@ -206,6 +164,7 @@
     "country_code": "TH",
     "latitude": "15.45525000",
     "longitude": "100.13533000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -215,8 +174,9 @@
     "state_code": "60",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.38249000",
-    "longitude": "100.46693000",
+    "latitude": "15.34917000",
+    "longitude": "100.49522000",
+    "county_id": 6019,
     "wikiDataId": null
   },
   {
@@ -226,8 +186,9 @@
     "state_code": "60",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.26336000",
-    "longitude": "100.34378000",
+    "latitude": "15.26670000",
+    "longitude": "100.35000000",
+    "county_id": 6014,
     "wikiDataId": null
   },
   {
@@ -237,8 +198,9 @@
     "state_code": "60",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.65434000",
-    "longitude": "100.45939000",
+    "latitude": "15.64218000",
+    "longitude": "100.47839000",
+    "county_id": 6015,
     "wikiDataId": null
   }
 ]

@@ -109,3 +109,10 @@ def test_city_coordinates():
     for city in cities:
         assert city.latitude is not None
         assert city.longitude is not None
+
+
+def test_city_county_id_is_optional():
+    """Existing city payloads remain valid without a county link."""
+    city = get_cities_of_state("US", "CA")[0]
+    payload = city.model_dump(exclude={"county_id"})
+    assert City(**payload).county_id is None

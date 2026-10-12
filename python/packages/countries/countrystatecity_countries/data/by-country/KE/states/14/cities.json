@@ -1,27 +1,5 @@
 [
   {
-    "id": 64789,
-    "name": "Iten",
-    "state_id": 174,
-    "state_code": "14",
-    "country_id": 113,
-    "country_code": "KE",
-    "latitude": "0.67028000",
-    "longitude": "35.50806000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64797,
-    "name": "Kapsowar",
-    "state_id": 174,
-    "state_code": "14",
-    "country_id": 113,
-    "country_code": "KE",
-    "latitude": "0.97890000",
-    "longitude": "35.55854000",
-    "wikiDataId": null
-  },
-  {
     "id": 64806,
     "name": "Kilifi",
     "state_id": 174,
@@ -30,6 +8,7 @@
     "country_code": "KE",
     "latitude": "-3.63045000",
     "longitude": "39.84992000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +20,7 @@
     "country_code": "KE",
     "latitude": "-3.21799000",
     "longitude": "40.11692000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +32,7 @@
     "country_code": "KE",
     "latitude": "-3.86261000",
     "longitude": "39.47458000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +44,19 @@
     "country_code": "KE",
     "latitude": "-3.68350000",
     "longitude": "39.85687000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165130,
+    "name": "Watamu",
+    "state_id": 174,
+    "state_code": "14",
+    "country_id": 113,
+    "country_code": "KE",
+    "latitude": "-3.35335000",
+    "longitude": "40.02095000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

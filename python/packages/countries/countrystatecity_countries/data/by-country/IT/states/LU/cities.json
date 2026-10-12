@@ -8,6 +8,7 @@
     "country_code": "IT",
     "latitude": "43.81618000",
     "longitude": "10.67668000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "IT",
     "latitude": "44.00513000",
     "longitude": "10.55310000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "IT",
     "latitude": "44.07310000",
     "longitude": "10.47789000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "IT",
     "latitude": "43.97946000",
     "longitude": "10.54489000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "IT",
     "latitude": "43.94265000",
     "longitude": "10.29754000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,17 +68,7 @@
     "country_code": "IT",
     "latitude": "44.15927000",
     "longitude": "10.33300000",
-    "wikiDataId": null
-  },
-  {
-    "id": 136760,
-    "name": "Capanne-Prato-Cinquale",
-    "state_id": 1749,
-    "state_code": "LU",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "43.99720000",
-    "longitude": "10.15636000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +80,7 @@
     "country_code": "IT",
     "latitude": "43.84171000",
     "longitude": "10.57271000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +92,7 @@
     "country_code": "IT",
     "latitude": "44.11995000",
     "longitude": "10.32540000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +104,7 @@
     "country_code": "IT",
     "latitude": "44.11260000",
     "longitude": "10.40518000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +116,7 @@
     "country_code": "IT",
     "latitude": "44.15248000",
     "longitude": "10.41212000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +128,7 @@
     "country_code": "IT",
     "latitude": "44.06278000",
     "longitude": "10.52426000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +140,7 @@
     "country_code": "IT",
     "latitude": "43.90828000",
     "longitude": "10.30621000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +152,19 @@
     "country_code": "IT",
     "latitude": "43.99765000",
     "longitude": "10.42790000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 166189,
+    "name": "Fabbriche di Vergemoli",
+    "state_id": 1749,
+    "state_code": "LU",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.01483550",
+    "longitude": "10.39105210",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +176,7 @@
     "country_code": "IT",
     "latitude": "44.11386000",
     "longitude": "10.27943000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +188,7 @@
     "country_code": "IT",
     "latitude": "44.04899000",
     "longitude": "10.47111000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +200,7 @@
     "country_code": "IT",
     "latitude": "43.96388000",
     "longitude": "10.17478000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +212,7 @@
     "country_code": "IT",
     "latitude": "44.11495000",
     "longitude": "10.45850000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +224,7 @@
     "country_code": "IT",
     "latitude": "44.05833000",
     "longitude": "10.44209000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +236,7 @@
     "country_code": "IT",
     "latitude": "44.21055000",
     "longitude": "10.24719000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,17 +248,7 @@
     "country_code": "IT",
     "latitude": "43.84369000",
     "longitude": "10.50447000",
-    "wikiDataId": null
-  },
-  {
-    "id": 139889,
-    "name": "Marina di Massa",
-    "state_id": 1749,
-    "state_code": "LU",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "44.00380000",
-    "longitude": "10.10674000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +260,7 @@
     "country_code": "IT",
     "latitude": "43.86638000",
     "longitude": "10.34458000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +272,7 @@
     "country_code": "IT",
     "latitude": "44.17000000",
     "longitude": "10.20807000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +284,7 @@
     "country_code": "IT",
     "latitude": "44.07175000",
     "longitude": "10.41780000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,17 +296,7 @@
     "country_code": "IT",
     "latitude": "43.85218000",
     "longitude": "10.66742000",
-    "wikiDataId": null
-  },
-  {
-    "id": 140947,
-    "name": "Orentano",
-    "state_id": 1749,
-    "state_code": "LU",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "43.77907000",
-    "longitude": "10.65939000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +308,7 @@
     "country_code": "IT",
     "latitude": "43.96517000",
     "longitude": "10.41292000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +320,7 @@
     "country_code": "IT",
     "latitude": "43.89413000",
     "longitude": "10.29493000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,6 +332,7 @@
     "country_code": "IT",
     "latitude": "44.03333000",
     "longitude": "10.51667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -338,6 +344,19 @@
     "country_code": "IT",
     "latitude": "43.90954000",
     "longitude": "10.27435000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 166186,
+    "name": "Piazza al Serchio",
+    "state_id": 1749,
+    "state_code": "LU",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.18333333",
+    "longitude": "10.30000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -349,6 +368,7 @@
     "country_code": "IT",
     "latitude": "44.18455000",
     "longitude": "10.29689000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -360,6 +380,7 @@
     "country_code": "IT",
     "latitude": "43.95952000",
     "longitude": "10.22784000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -371,6 +392,7 @@
     "country_code": "IT",
     "latitude": "44.13067000",
     "longitude": "10.40952000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,6 +404,7 @@
     "country_code": "IT",
     "latitude": "43.99665000",
     "longitude": "10.29439000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -393,6 +416,7 @@
     "country_code": "IT",
     "latitude": "43.84152000",
     "longitude": "10.61632000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -404,6 +428,7 @@
     "country_code": "IT",
     "latitude": "43.97806000",
     "longitude": "10.20372000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -415,6 +440,7 @@
     "country_code": "IT",
     "latitude": "43.90921000",
     "longitude": "10.43778000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -426,6 +452,7 @@
     "country_code": "IT",
     "latitude": "44.16945000",
     "longitude": "10.34690000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -437,6 +464,7 @@
     "country_code": "IT",
     "latitude": "43.99471000",
     "longitude": "10.22720000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -448,6 +476,19 @@
     "country_code": "IT",
     "latitude": "44.22298000",
     "longitude": "10.30235000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 166190,
+    "name": "Sillano Giuncugnano",
+    "state_id": 1749,
+    "state_code": "LU",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.23333333",
+    "longitude": "10.30000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -459,6 +500,19 @@
     "country_code": "IT",
     "latitude": "43.81075000",
     "longitude": "10.71510000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 166187,
+    "name": "Stazzema",
+    "state_id": 1749,
+    "state_code": "LU",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "43.99305556",
+    "longitude": "10.31055556",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -470,6 +524,7 @@
     "country_code": "IT",
     "latitude": "43.89720000",
     "longitude": "10.31798000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -481,6 +536,7 @@
     "country_code": "IT",
     "latitude": "43.98987000",
     "longitude": "10.19357000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -492,6 +548,19 @@
     "country_code": "IT",
     "latitude": "43.82887000",
     "longitude": "10.28912000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 166188,
+    "name": "Vagli Sotto",
+    "state_id": 1749,
+    "state_code": "LU",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.11666667",
+    "longitude": "10.28333333",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -503,6 +572,7 @@
     "country_code": "IT",
     "latitude": "43.94187000",
     "longitude": "10.48115000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -514,6 +584,7 @@
     "country_code": "IT",
     "latitude": "43.86693000",
     "longitude": "10.25020000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -525,6 +596,7 @@
     "country_code": "IT",
     "latitude": "43.92572000",
     "longitude": "10.64518000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -536,6 +608,7 @@
     "country_code": "IT",
     "latitude": "44.15855000",
     "longitude": "10.39760000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

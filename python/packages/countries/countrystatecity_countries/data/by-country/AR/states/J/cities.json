@@ -8,6 +8,7 @@
     "country_code": "AR",
     "latitude": "-31.43722000",
     "longitude": "-68.52556000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "AR",
     "latitude": "-31.33394000",
     "longitude": "-69.42080000",
+    "county_id": 6733,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "AR",
     "latitude": "-31.65179000",
     "longitude": "-68.28105000",
+    "county_id": 6735,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "AR",
     "latitude": "-31.48333000",
     "longitude": "-68.53333000",
+    "county_id": 6736,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "AR",
     "latitude": "-31.28333000",
     "longitude": "-68.41667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,160 +68,7 @@
     "country_code": "AR",
     "latitude": "-31.20000000",
     "longitude": "-68.13333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 844,
-    "name": "Departamento de Calingasta",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-31.50000000",
-    "longitude": "-69.75000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 851,
-    "name": "Departamento de Capital",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-31.53333000",
-    "longitude": "-68.53333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 856,
-    "name": "Departamento de Caucete",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-31.45000000",
-    "longitude": "-67.66667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 859,
-    "name": "Departamento de Chimbas",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-31.48738000",
-    "longitude": "-68.52691000",
-    "wikiDataId": null
-  },
-  {
-    "id": 907,
-    "name": "Departamento de Iglesia",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-29.33333000",
-    "longitude": "-69.58333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 915,
-    "name": "Departamento de Jáchal",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-30.50000000",
-    "longitude": "-68.50000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 952,
-    "name": "Departamento de Nueve de Julio",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-31.65072000",
-    "longitude": "-68.38925000",
-    "wikiDataId": null
-  },
-  {
-    "id": 964,
-    "name": "Departamento de Rawson",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-31.70000000",
-    "longitude": "-68.46667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 966,
-    "name": "Departamento de Rivadavia",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-31.56450000",
-    "longitude": "-68.65219000",
-    "wikiDataId": null
-  },
-  {
-    "id": 998,
-    "name": "Departamento de San Martín",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-31.50000000",
-    "longitude": "-68.25000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 1005,
-    "name": "Departamento de Santa Lucía",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-31.53333000",
-    "longitude": "-68.46667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 1013,
-    "name": "Departamento de Sarmiento",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-32.00000000",
-    "longitude": "-68.66667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 1028,
-    "name": "Departamento de Ullúm",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-31.00000000",
-    "longitude": "-68.91667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 1036,
-    "name": "Departamento de Zonda",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-31.68260000",
-    "longitude": "-68.89938000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,17 +80,31 @@
     "country_code": "AR",
     "latitude": "-31.66914000",
     "longitude": "-68.39023000",
+    "county_id": 6739,
     "wikiDataId": null
   },
   {
-    "id": 1339,
-    "name": "Pocito",
+    "id": 966,
+    "name": "Rivadavia",
     "state_id": 3634,
     "state_code": "J",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-31.68333000",
-    "longitude": "-68.58333000",
+    "latitude": "-31.53352004",
+    "longitude": "-68.59206898",
+    "county_id": 6742,
+    "wikiDataId": null
+  },
+  {
+    "id": 907,
+    "name": "Rodeo",
+    "state_id": 3634,
+    "state_code": "J",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-30.21640000",
+    "longitude": "-69.13940000",
+    "county_id": 6737,
     "wikiDataId": null
   },
   {
@@ -250,6 +116,7 @@
     "country_code": "AR",
     "latitude": "-30.63353000",
     "longitude": "-67.46821000",
+    "county_id": 6747,
     "wikiDataId": null
   },
   {
@@ -261,6 +128,7 @@
     "country_code": "AR",
     "latitude": "-30.24057000",
     "longitude": "-68.74693000",
+    "county_id": 6738,
     "wikiDataId": null
   },
   {
@@ -272,17 +140,7 @@
     "country_code": "AR",
     "latitude": "-31.53750000",
     "longitude": "-68.53639000",
-    "wikiDataId": null
-  },
-  {
-    "id": 1441,
-    "name": "San Martín",
-    "state_id": 3634,
-    "state_code": "J",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-31.42957000",
-    "longitude": "-68.50065000",
+    "county_id": 6734,
     "wikiDataId": null
   },
   {
@@ -294,6 +152,31 @@
     "country_code": "AR",
     "latitude": "-31.53987000",
     "longitude": "-68.49503000",
+    "county_id": 6744,
+    "wikiDataId": null
+  },
+  {
+    "id": 164461,
+    "name": "Tamberías",
+    "state_id": 3634,
+    "state_code": "J",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-31.45868000",
+    "longitude": "-69.42200000",
+    "county_id": 6733,
+    "wikiDataId": null
+  },
+  {
+    "id": 164464,
+    "name": "Villa Aberastain",
+    "state_id": 3634,
+    "state_code": "J",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-31.65805000",
+    "longitude": "-68.57953000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +188,43 @@
     "country_code": "AR",
     "latitude": "-31.55000000",
     "longitude": "-68.73333000",
+    "county_id": 6749,
+    "wikiDataId": null
+  },
+  {
+    "id": 1028,
+    "name": "Villa Ibáñez",
+    "state_id": 3634,
+    "state_code": "J",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-31.46444444",
+    "longitude": "-68.71944444",
+    "county_id": 6746,
+    "wikiDataId": null
+  },
+  {
+    "id": 164466,
+    "name": "Villa Krause",
+    "state_id": 3634,
+    "state_code": "J",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-31.56667000",
+    "longitude": "-68.53333000",
+    "county_id": 6741,
+    "wikiDataId": null
+  },
+  {
+    "id": 164440,
+    "name": "Villa Media Agua",
+    "state_id": 3634,
+    "state_code": "J",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-31.98310000",
+    "longitude": "-68.42499000",
+    "county_id": 6745,
     "wikiDataId": null
   },
   {
@@ -316,6 +236,19 @@
     "country_code": "AR",
     "latitude": "-31.49330000",
     "longitude": "-68.53838000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 998,
+    "name": "Villa San Martín",
+    "state_id": 3634,
+    "state_code": "J",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-31.51640000",
+    "longitude": "-68.35360000",
+    "county_id": 6743,
     "wikiDataId": null
   }
 ]

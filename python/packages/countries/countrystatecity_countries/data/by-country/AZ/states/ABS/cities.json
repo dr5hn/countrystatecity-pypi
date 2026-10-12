@@ -8,6 +8,7 @@
     "country_code": "AZ",
     "latitude": "40.54194000",
     "longitude": "49.66073000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "AZ",
     "latitude": "40.49257000",
     "longitude": "49.87477000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,19 @@
     "country_code": "AZ",
     "latitude": "40.37444000",
     "longitude": "49.68194000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 164469,
+    "name": "Hokmali",
+    "state_id": 540,
+    "state_code": "ABS",
+    "country_id": 16,
+    "country_code": "AZ",
+    "latitude": "40.43111000",
+    "longitude": "49.73722000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +56,7 @@
     "country_code": "AZ",
     "latitude": "40.44808000",
     "longitude": "49.75502000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,7 @@
     "country_code": "AZ",
     "latitude": "40.40472000",
     "longitude": "49.71306000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "AZ",
     "latitude": "40.53299000",
     "longitude": "49.71681000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

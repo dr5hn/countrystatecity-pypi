@@ -8,6 +8,7 @@
     "country_code": "RS",
     "latitude": "45.78604090",
     "longitude": "19.84788560",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "RS",
     "latitude": "46.00333000",
     "longitude": "20.04007000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "RS",
     "latitude": "45.67248000",
     "longitude": "20.46530000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "RS",
     "latitude": "45.81961000",
     "longitude": "20.60772000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "RS",
     "latitude": "45.64102000",
     "longitude": "20.41434000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +68,7 @@
     "country_code": "RS",
     "latitude": "45.94250000",
     "longitude": "20.14333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +80,19 @@
     "country_code": "RS",
     "latitude": "45.91995000",
     "longitude": "20.01766000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 97408,
+    "name": "Iđoš",
+    "state_id": 3736,
+    "state_code": "03",
+    "country_id": 196,
+    "country_code": "RS",
+    "latitude": "45.82648000",
+    "longitude": "20.31791000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +104,7 @@
     "country_code": "RS",
     "latitude": "45.89876000",
     "longitude": "20.22130000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +116,7 @@
     "country_code": "RS",
     "latitude": "46.06667000",
     "longitude": "20.05000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +128,7 @@
     "country_code": "RS",
     "latitude": "45.82972000",
     "longitude": "20.46528000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +140,7 @@
     "country_code": "RS",
     "latitude": "45.93362000",
     "longitude": "20.41215000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +152,7 @@
     "country_code": "RS",
     "latitude": "45.76457000",
     "longitude": "20.13286000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +164,7 @@
     "country_code": "RS",
     "latitude": "45.87503000",
     "longitude": "20.56709000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +176,7 @@
     "country_code": "RS",
     "latitude": "46.05000000",
     "longitude": "20.10000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +188,7 @@
     "country_code": "RS",
     "latitude": "45.78241000",
     "longitude": "20.62289000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +200,7 @@
     "country_code": "RS",
     "latitude": "45.88863000",
     "longitude": "20.16642000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +212,7 @@
     "country_code": "RS",
     "latitude": "45.82756000",
     "longitude": "20.16279000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +224,7 @@
     "country_code": "RS",
     "latitude": "45.76291000",
     "longitude": "20.57117000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +236,7 @@
     "country_code": "RS",
     "latitude": "45.84227000",
     "longitude": "20.27815000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +248,7 @@
     "country_code": "RS",
     "latitude": "45.97596000",
     "longitude": "20.10816000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,17 +260,7 @@
     "country_code": "RS",
     "latitude": "45.92750000",
     "longitude": "20.07722000",
-    "wikiDataId": null
-  },
-  {
-    "id": 97408,
-    "name": "Tiszahegyes",
-    "state_id": 3736,
-    "state_code": "03",
-    "country_id": 196,
-    "country_code": "RS",
-    "latitude": "45.82648000",
-    "longitude": "20.31791000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

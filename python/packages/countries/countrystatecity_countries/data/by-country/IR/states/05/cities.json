@@ -8,6 +8,7 @@
     "country_code": "IR",
     "latitude": "34.49698980",
     "longitude": "47.04017400",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "IR",
     "latitude": "34.96917880",
     "longitude": "46.35028830",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "IR",
     "latitude": "34.98088040",
     "longitude": "46.26785870",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,7 @@
     "country_code": "IR",
     "latitude": "34.39705640",
     "longitude": "47.43759150",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +56,7 @@
     "country_code": "IR",
     "latitude": "34.41667000",
     "longitude": "46.25000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,17 +68,7 @@
     "country_code": "IR",
     "latitude": "34.05000000",
     "longitude": "46.66667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 150810,
-    "name": "Ezgeleh",
-    "state_id": 3919,
-    "state_code": "05",
-    "country_id": 103,
-    "country_code": "IR",
-    "latitude": "34.83314400",
-    "longitude": "45.83253630",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +80,7 @@
     "country_code": "IR",
     "latitude": "34.34416220",
     "longitude": "46.41101360",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +92,7 @@
     "country_code": "IR",
     "latitude": "34.13333000",
     "longitude": "46.00000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +104,7 @@
     "country_code": "IR",
     "latitude": "34.50788250",
     "longitude": "48.07484150",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,6 +116,7 @@
     "country_code": "IR",
     "latitude": "34.10985920",
     "longitude": "47.08711270",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +128,7 @@
     "country_code": "IR",
     "latitude": "33.93732470",
     "longitude": "46.76577320",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +140,7 @@
     "country_code": "IR",
     "latitude": "34.27210000",
     "longitude": "47.58610000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,6 +152,7 @@
     "country_code": "IR",
     "latitude": "34.79611000",
     "longitude": "46.51722000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +164,7 @@
     "country_code": "IR",
     "latitude": "34.38380000",
     "longitude": "47.05530000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,6 +176,7 @@
     "country_code": "IR",
     "latitude": "34.50430000",
     "longitude": "47.96530000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,6 +188,7 @@
     "country_code": "IR",
     "latitude": "34.27801600",
     "longitude": "46.22670290",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -195,6 +200,7 @@
     "country_code": "IR",
     "latitude": "34.31417000",
     "longitude": "47.06500000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,6 +212,7 @@
     "country_code": "IR",
     "latitude": "34.49665360",
     "longitude": "46.59675130",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -217,6 +224,7 @@
     "country_code": "IR",
     "latitude": "34.93651900",
     "longitude": "46.45208350",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -228,6 +236,7 @@
     "country_code": "IR",
     "latitude": "34.58375750",
     "longitude": "47.44153980",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -239,6 +248,7 @@
     "country_code": "IR",
     "latitude": "35.18205130",
     "longitude": "46.24964120",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -250,6 +260,19 @@
     "country_code": "IR",
     "latitude": "35.16135400",
     "longitude": "46.20011690",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 150810,
+    "name": "Ozgoleh",
+    "state_id": 3919,
+    "state_code": "05",
+    "country_id": 103,
+    "country_code": "IR",
+    "latitude": "34.83314400",
+    "longitude": "45.83253630",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -261,6 +284,7 @@
     "country_code": "IR",
     "latitude": "35.04340000",
     "longitude": "46.35650000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -272,6 +296,7 @@
     "country_code": "IR",
     "latitude": "34.20000000",
     "longitude": "45.63333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -283,6 +308,7 @@
     "country_code": "IR",
     "latitude": "34.75000000",
     "longitude": "46.65000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -294,6 +320,7 @@
     "country_code": "IR",
     "latitude": "34.48030290",
     "longitude": "46.00143560",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -305,6 +332,7 @@
     "country_code": "IR",
     "latitude": "34.26546230",
     "longitude": "46.79866770",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -316,6 +344,7 @@
     "country_code": "IR",
     "latitude": "34.58333000",
     "longitude": "47.51667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -327,6 +356,7 @@
     "country_code": "IR",
     "latitude": "34.81667000",
     "longitude": "45.98333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -338,6 +368,7 @@
     "country_code": "IR",
     "latitude": "34.50000000",
     "longitude": "45.85000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -349,6 +380,7 @@
     "country_code": "IR",
     "latitude": "34.81151280",
     "longitude": "47.46012210",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -360,6 +392,7 @@
     "country_code": "IR",
     "latitude": "34.78187000",
     "longitude": "47.59945000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -371,6 +404,7 @@
     "country_code": "IR",
     "latitude": "33.88124650",
     "longitude": "45.63190690",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -382,6 +416,7 @@
     "country_code": "IR",
     "latitude": "34.50537190",
     "longitude": "47.83984780",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

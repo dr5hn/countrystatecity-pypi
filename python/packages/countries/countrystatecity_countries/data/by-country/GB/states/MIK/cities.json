@@ -1,13 +1,26 @@
 [
   {
-    "id": 48571,
-    "name": "Blisworth",
+    "id": 48567,
+    "name": "Bletchley",
     "state_id": 2416,
     "state_code": "MIK",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.17498000",
-    "longitude": "-0.94131000",
+    "latitude": "51.99334000",
+    "longitude": "-0.73471000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48632,
+    "name": "Bow Brickhill",
+    "state_id": 2416,
+    "state_code": "MIK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.00280000",
+    "longitude": "-0.68064000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,39 +32,7 @@
     "country_code": "GB",
     "latitude": "52.04869470",
     "longitude": "-0.78540500",
-    "wikiDataId": null
-  },
-  {
-    "id": 48748,
-    "name": "Buckingham",
-    "state_id": 2416,
-    "state_code": "MIK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.99968000",
-    "longitude": "-0.98779000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49058,
-    "name": "Cogenhoe",
-    "state_id": 2416,
-    "state_code": "MIK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.23758000",
-    "longitude": "-0.78381000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49249,
-    "name": "Deanshanger",
-    "state_id": 2416,
-    "state_code": "MIK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.04996000",
-    "longitude": "-0.88663000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,28 +44,7 @@
     "country_code": "GB",
     "latitude": "52.13691000",
     "longitude": "-0.70673000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49724,
-    "name": "Great Horwood",
-    "state_id": 2416,
-    "state_code": "MIK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.97351000",
-    "longitude": "-0.88088000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49770,
-    "name": "Hackleton",
-    "state_id": 2416,
-    "state_code": "MIK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.18798000",
-    "longitude": "-0.82312000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,28 +56,19 @@
     "country_code": "GB",
     "latitude": "52.11425000",
     "longitude": "-0.82672000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 49804,
-    "name": "Hardingstone",
+    "id": 50259,
+    "name": "Lavendon",
     "state_id": 2416,
     "state_code": "MIK",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.21358000",
-    "longitude": "-0.88582000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49827,
-    "name": "Hartwell",
-    "state_id": 2416,
-    "state_code": "MIK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.14616000",
-    "longitude": "-0.85376000",
+    "latitude": "52.17279000",
+    "longitude": "-0.66109000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,6 +80,7 @@
     "country_code": "GB",
     "latitude": "52.08333000",
     "longitude": "-0.75000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,6 +92,7 @@
     "country_code": "GB",
     "latitude": "52.08731000",
     "longitude": "-0.72218000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -151,28 +104,7 @@
     "country_code": "GB",
     "latitude": "52.15345000",
     "longitude": "-0.70201000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50976,
-    "name": "Potterspury",
-    "state_id": 2416,
-    "state_code": "MIK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.08288000",
-    "longitude": "-0.89676000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51091,
-    "name": "Roade",
-    "state_id": 2416,
-    "state_code": "MIK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.15824000",
-    "longitude": "-0.89745000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -184,17 +116,7 @@
     "country_code": "GB",
     "latitude": "52.11172000",
     "longitude": "-0.69973000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51311,
-    "name": "Silverstone",
-    "state_id": 2416,
-    "state_code": "MIK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.09216000",
-    "longitude": "-1.02602000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -206,39 +128,31 @@
     "country_code": "GB",
     "latitude": "52.13133000",
     "longitude": "-0.77814000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 51627,
-    "name": "Tingewick",
+    "id": 51766,
+    "name": "Water Eaton",
     "state_id": 2416,
     "state_code": "MIK",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.99031000",
-    "longitude": "-1.04804000",
+    "latitude": "51.98697000",
+    "longitude": "-0.72188000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 51654,
-    "name": "Towcester",
+    "id": 51955,
+    "name": "Woburn Sands",
     "state_id": 2416,
     "state_code": "MIK",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.13359000",
-    "longitude": "-0.99057000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51936,
-    "name": "Winslow",
-    "state_id": 2416,
-    "state_code": "MIK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.94284000",
-    "longitude": "-0.88131000",
+    "latitude": "52.01579000",
+    "longitude": "-0.64982000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

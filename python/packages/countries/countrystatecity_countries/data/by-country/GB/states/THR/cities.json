@@ -1,24 +1,14 @@
 [
   {
-    "id": 48420,
-    "name": "Basildon",
+    "id": 48318,
+    "name": "Aveley",
     "state_id": 2468,
     "state_code": "THR",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.56844000",
-    "longitude": "0.45782000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48503,
-    "name": "Billericay",
-    "state_id": 2468,
-    "state_code": "THR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.62867000",
-    "longitude": "0.41963000",
+    "latitude": "51.49987000",
+    "longitude": "0.25174000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +20,7 @@
     "country_code": "GB",
     "latitude": "51.50000000",
     "longitude": "0.41667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +32,7 @@
     "country_code": "GB",
     "latitude": "51.54612000",
     "longitude": "0.36066000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +44,7 @@
     "country_code": "GB",
     "latitude": "51.48140000",
     "longitude": "0.36343000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +56,7 @@
     "country_code": "GB",
     "latitude": "51.48920000",
     "longitude": "0.29440000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,17 +68,7 @@
     "country_code": "GB",
     "latitude": "51.48053000",
     "longitude": "0.41714000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49703,
-    "name": "Gravesend",
-    "state_id": 2468,
-    "state_code": "THR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.44206000",
-    "longitude": "0.37106000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,6 +80,7 @@
     "country_code": "GB",
     "latitude": "51.47566000",
     "longitude": "0.32521000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -107,6 +92,7 @@
     "country_code": "GB",
     "latitude": "51.52358000",
     "longitude": "0.40491000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -118,17 +104,31 @@
     "country_code": "GB",
     "latitude": "51.51232000",
     "longitude": "0.36753000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 50919,
-    "name": "Pitsea",
+    "id": 51004,
+    "name": "Purfleet",
     "state_id": 2468,
     "state_code": "THR",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.56387000",
-    "longitude": "0.50859000",
+    "latitude": "51.48390000",
+    "longitude": "0.24247000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51363,
+    "name": "South Ockendon",
+    "state_id": 2468,
+    "state_code": "THR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.50799000",
+    "longitude": "0.28333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,17 +140,7 @@
     "country_code": "GB",
     "latitude": "51.52274000",
     "longitude": "0.43422000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51531,
-    "name": "Swanscombe",
-    "state_id": 2468,
-    "state_code": "THR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.44713000",
-    "longitude": "0.31028000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -162,6 +152,7 @@
     "country_code": "GB",
     "latitude": "51.46248000",
     "longitude": "0.35856000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -173,17 +164,7 @@
     "country_code": "GB",
     "latitude": "51.47828000",
     "longitude": "0.27672000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51891,
-    "name": "Wickford",
-    "state_id": 2468,
-    "state_code": "THR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.61101000",
-    "longitude": "0.52331000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

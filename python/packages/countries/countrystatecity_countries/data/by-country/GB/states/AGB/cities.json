@@ -1,24 +1,74 @@
 [
   {
-    "id": 48848,
-    "name": "Caol",
+    "id": 48271,
+    "name": "Ardrishaig",
     "state_id": 2392,
     "state_code": "AGB",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "56.83721000",
-    "longitude": "-5.10062000",
+    "latitude": "56.01566000",
+    "longitude": "-5.44806000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 49590,
-    "name": "Fort William",
+    "id": 48840,
+    "name": "Campbeltown",
     "state_id": 2392,
     "state_code": "AGB",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "56.81648000",
-    "longitude": "-5.11208000",
+    "latitude": "55.42583000",
+    "longitude": "-5.60764000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48857,
+    "name": "Cardross",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.96184000",
+    "longitude": "-4.65316000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49361,
+    "name": "Dunoon",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.95031000",
+    "longitude": "-4.92734000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49626,
+    "name": "Garelochhead",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "56.08203000",
+    "longitude": "-4.82909000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 49888,
+    "name": "Helensburgh",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "56.00614000",
+    "longitude": "-4.72648000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +80,7 @@
     "country_code": "GB",
     "latitude": "55.78526000",
     "longitude": "-6.23886000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +92,31 @@
     "country_code": "GB",
     "latitude": "56.44703000",
     "longitude": "-5.77404000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50142,
+    "name": "Kilcreggan",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.98460000",
+    "longitude": "-4.82100000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50378,
+    "name": "Lochgilphead",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "56.03796000",
+    "longitude": "-5.43206000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +128,79 @@
     "country_code": "GB",
     "latitude": "56.41535000",
     "longitude": "-5.47184000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 50952,
+    "name": "Port Bannatyne",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.85660000",
+    "longitude": "-5.06503000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51072,
+    "name": "Rhu",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "56.01667000",
+    "longitude": "-4.76667000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51109,
+    "name": "Rosneath",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "56.00985000",
+    "longitude": "-4.80151000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51119,
+    "name": "Rothesay",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.83648000",
+    "longitude": "-5.05508000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51192,
+    "name": "Sandbank",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.98203000",
+    "longitude": "-4.94973000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51558,
+    "name": "Tarbert",
+    "state_id": 2392,
+    "state_code": "AGB",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "55.86277000",
+    "longitude": "-5.41622000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +212,7 @@
     "country_code": "GB",
     "latitude": "56.62198000",
     "longitude": "-6.07231000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

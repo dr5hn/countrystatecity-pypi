@@ -1,49 +1,5 @@
 [
   {
-    "id": 48159,
-    "name": "Abbots Langley",
-    "state_id": 2385,
-    "state_code": "HRW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.70573000",
-    "longitude": "-0.41757000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48801,
-    "name": "Bushey",
-    "state_id": 2385,
-    "state_code": "HRW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.64316000",
-    "longitude": "-0.36053000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48985,
-    "name": "Chorleywood",
-    "state_id": 2385,
-    "state_code": "HRW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.65472000",
-    "longitude": "-0.51404000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49463,
-    "name": "Elstree",
-    "state_id": 2385,
-    "state_code": "HRW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.64030000",
-    "longitude": "-0.29693000",
-    "wikiDataId": null
-  },
-  {
     "id": 49744,
     "name": "Greenhill",
     "state_id": 2385,
@@ -52,6 +8,7 @@
     "country_code": "GB",
     "latitude": "51.58342000",
     "longitude": "-0.33860000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,17 +20,7 @@
     "country_code": "GB",
     "latitude": "51.57142000",
     "longitude": "-0.33371000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50166,
-    "name": "Kings Langley",
-    "state_id": 2385,
-    "state_code": "HRW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.71395000",
-    "longitude": "-0.45044000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,39 +32,7 @@
     "country_code": "GB",
     "latitude": "51.59384000",
     "longitude": "-0.38216000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51018,
-    "name": "Radlett",
-    "state_id": 2385,
-    "state_code": "HRW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.68593000",
-    "longitude": "-0.31868000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51079,
-    "name": "Rickmansworth",
-    "state_id": 2385,
-    "state_code": "HRW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.63898000",
-    "longitude": "-0.47718000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51395,
-    "name": "St Albans",
-    "state_id": 2385,
-    "state_code": "HRW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.75000000",
-    "longitude": "-0.33333000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -129,17 +44,7 @@
     "country_code": "GB",
     "latitude": "51.61667000",
     "longitude": "-0.31667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51773,
-    "name": "Watford",
-    "state_id": 2385,
-    "state_code": "HRW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.65531000",
-    "longitude": "-0.39602000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

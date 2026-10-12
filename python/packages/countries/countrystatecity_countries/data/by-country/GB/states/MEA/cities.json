@@ -8,6 +8,7 @@
     "country_code": "GB",
     "latitude": "54.86667000",
     "longitude": "-6.36667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "GB",
     "latitude": "54.86357000",
     "longitude": "-6.27628000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,7 @@
     "country_code": "GB",
     "latitude": "54.89260000",
     "longitude": "-6.20899000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,6 +44,19 @@
     "country_code": "GB",
     "latitude": "54.99185000",
     "longitude": "-5.99038000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 48870,
+    "name": "Carrickfergus",
+    "state_id": 2429,
+    "state_code": "MEA",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.71580000",
+    "longitude": "-5.80580000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -52,6 +68,7 @@
     "country_code": "GB",
     "latitude": "54.80000000",
     "longitude": "-6.20000000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,28 +80,19 @@
     "country_code": "GB",
     "latitude": "54.88875000",
     "longitude": "-6.34701000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 49213,
-    "name": "Cushendall",
+    "id": 49746,
+    "name": "Greenisland",
     "state_id": 2429,
     "state_code": "MEA",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "55.08033000",
-    "longitude": "-6.06291000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49655,
-    "name": "Glenariff",
-    "state_id": 2429,
-    "state_code": "MEA",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "55.05000000",
-    "longitude": "-6.06667000",
+    "latitude": "54.70081000",
+    "longitude": "-5.87479000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -96,17 +104,31 @@
     "country_code": "GB",
     "latitude": "54.85000000",
     "longitude": "-5.81667000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 50568,
-    "name": "Mid and East Antrim",
+    "id": 50959,
+    "name": "Portglenone",
     "state_id": 2429,
     "state_code": "MEA",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "54.87436000",
-    "longitude": "-6.10141000",
+    "latitude": "54.87147000",
+    "longitude": "-6.47146000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 51874,
+    "name": "Whitehead",
+    "state_id": 2429,
+    "state_code": "MEA",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "54.75371000",
+    "longitude": "-5.70933000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

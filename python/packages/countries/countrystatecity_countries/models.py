@@ -63,4 +63,5 @@ class City(BaseModel):
     country_code: str = Field(..., min_length=2, max_length=2)
     latitude: str
     longitude: str
+    county_id: Optional[int] = None
     wikiDataId: Optional[str] = None

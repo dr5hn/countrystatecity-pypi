@@ -8,6 +8,7 @@
     "country_code": "TM",
     "latitude": "39.51075000",
     "longitude": "54.36713000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "TM",
     "latitude": "39.24463000",
     "longitude": "55.51536000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -30,6 +32,31 @@
     "country_code": "TM",
     "latitude": "39.20611000",
     "longitude": "54.59056000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 106901,
+    "name": "Gyzylarbat",
+    "state_id": 3372,
+    "state_code": "B",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "38.97644000",
+    "longitude": "56.27575000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 165597,
+    "name": "Jebel",
+    "state_id": 3372,
+    "state_code": "B",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "39.63101000",
+    "longitude": "54.23758000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -41,17 +68,7 @@
     "country_code": "TM",
     "latitude": "38.43749000",
     "longitude": "56.28081000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106901,
-    "name": "Serdar",
-    "state_id": 3372,
-    "state_code": "B",
-    "country_id": 226,
-    "country_code": "TM",
-    "latitude": "38.97644000",
-    "longitude": "56.27575000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +80,7 @@
     "country_code": "TM",
     "latitude": "40.02216000",
     "longitude": "52.95517000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

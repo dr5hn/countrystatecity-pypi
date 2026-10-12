@@ -6,8 +6,9 @@
     "state_code": "58",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "18.82643000",
-    "longitude": "97.93303000",
+    "latitude": "18.82958000",
+    "longitude": "97.93347000",
+    "county_id": 6002,
     "wikiDataId": null
   },
   {
@@ -19,6 +20,7 @@
     "country_code": "TH",
     "latitude": "19.30029000",
     "longitude": "97.96852000",
+    "county_id": 6001,
     "wikiDataId": null
   },
   {
@@ -28,8 +30,9 @@
     "state_code": "58",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "18.47823000",
-    "longitude": "97.98295000",
+    "latitude": "18.38181000",
+    "longitude": "97.94372000",
+    "county_id": 6005,
     "wikiDataId": null
   },
   {
@@ -41,17 +44,7 @@
     "country_code": "TH",
     "latitude": "18.26474000",
     "longitude": "97.77057000",
-    "wikiDataId": null
-  },
-  {
-    "id": 105550,
-    "name": "Mueang Mae Hong Son",
-    "state_id": 3505,
-    "state_code": "58",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "19.28862000",
-    "longitude": "98.00607000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -63,6 +56,7 @@
     "country_code": "TH",
     "latitude": "19.36036000",
     "longitude": "98.40638000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -74,6 +68,7 @@
     "country_code": "TH",
     "latitude": "19.60451000",
     "longitude": "98.20560000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -85,6 +80,7 @@
     "country_code": "TH",
     "latitude": "17.96333000",
     "longitude": "97.93149000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]
