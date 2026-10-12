@@ -33,13 +33,48 @@ csc = CountryStateCity()          # reads CSC_API_KEY
 Keep API keys in server-side environment variables, never in client-side code or
 source control.
 
+## Upgrading from 1.x to 2.x
+
+Version 2 uses upstream v4.0, a breaking data release. The snapshot is
+[v4.0-export.50](https://github.com/dr5hn/countries-states-cities-database/releases/tag/v4.0-export.50)
+(12 October 2026): 250 countries, 5,328 states and 152,152 cities.
+
+The [upstream v4.0 upgrade notes](https://github.com/dr5hn/countries-states-cities-database/releases/tag/v4.0)
+describe the changes from v3.2:
+
+- 4,486 city ids were removed: 1,377 duplicates merged into older ids, 3,081 US
+  counties moved to a separate counties dataset with new ids, and 28 non-places
+  were removed. US counties are no longer returned by the cities API.
+- 7,527 cities changed state; 27 states were added and 6 retired. Stored state
+  and city relationships and queries for cities of a state may need migration.
+- Upstream city `type` uses standard terms for the migrated countries, with the
+  official term in `type_local`. Other countries retain their earlier terms.
+- Names, coordinates, native names, translations and timezones were corrected.
+
+Migrate stored ids using
+[`removed_ids_v3.2_to_v4.0.csv`](https://github.com/dr5hn/countries-states-cities-database/releases/download/v4.0/removed_ids_v3.2_to_v4.0.csv),
+attached to the upstream v4.0 release. Check `record`, `outcome`, `new_table` and
+`new_id`: a county replacement id belongs to the counties dataset, not cities.
+The mapping covers the v3.2 to v4.0 transition; export .50 includes later changes.
+
+This package continues to use the reduced combined countries+states+cities
+export. `City.county_id` is an optional integer linking to the upstream counties
+dataset, which this package does not ship. The combined export omits city `type`,
+city/state `type_local`, `level`, `parent_id`, city translations and Wikidata ids;
+these fields are deliberately absent from the models (`wikiDataId` remains
+`None` for compatibility). Obtain those fields and hierarchy relationships from
+the upstream standalone exports. State `type` remains available.
+
+To defer migration, constrain the installed version to
+`countrystatecity-countries<2`.
+
 ## Features
 
 - ✅ **Type-safe** with Pydantic models and mypy support
 - ✅ **Lazy loading** for minimal memory footprint
 - ✅ **250 countries** with metadata
-- ✅ **5,308 states/provinces**
-- ✅ **171,938 cities**
+- ✅ **5,328 states/provinces**
+- ✅ **152,152 cities**
 - ✅ **4,724 translations** in 19 languages
 - ✅ **Timezone data** per location
 - ✅ **Zero external dependencies** (except Pydantic)
@@ -248,6 +283,7 @@ class City(BaseModel):
     country_code: str
     latitude: str
     longitude: str
+    county_id: Optional[int] = None
     wikiDataId: Optional[str]
 ```
 

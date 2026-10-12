@@ -41,6 +41,8 @@ def load_combined_data(filepath: str) -> List[Dict[str, Any]]:
     print(f"Loading data from {filepath}...")
     with open(filepath, "r", encoding="utf-8") as f:
         data = json.load(f)
+    if not isinstance(data, list) or not data:
+        raise ValueError("Expected a non-empty country list")
     print(f"✓ Loaded {len(data)} countries")
     return data
 
@@ -97,8 +99,24 @@ def save_countries(countries: List[Dict[str, Any]], output_dir: Path) -> None:
 
 def save_states_and_cities(data: List[Dict[str, Any]], output_dir: Path) -> None:
     """Save states and cities in split structure."""
+    if not data:
+        raise ValueError("Refusing to replace the dataset with an empty country list")
+
+    # Validate directory components before writing or removing generated files.
+    for country in data:
+        code = country["iso2"]
+        if not isinstance(code, str) or len(code) != 2 or not code.isalpha():
+            raise ValueError(f"Invalid country code: {code!r}")
+        for state in country.get("states", []):
+            code = state["iso2"]
+            if not isinstance(code, str) or not code or not all(
+                char.isalnum() or char in "-_" for char in code
+            ):
+                raise ValueError(f"Invalid state code: {code!r}")
+
     total_states = 0
     total_cities = 0
+    generated_files = set()
 
     for country in data:
         country_iso2 = country.get("iso2")
@@ -137,6 +155,7 @@ def save_states_and_cities(data: List[Dict[str, Any]], output_dir: Path) -> None
         states_file = country_dir / "states.json"
         with open(states_file, "w", encoding="utf-8") as f:
             json.dump(states_list, f, ensure_ascii=False, indent=2)
+        generated_files.add(states_file)
 
         total_states += len(states_list)
 
@@ -168,6 +187,7 @@ def save_states_and_cities(data: List[Dict[str, Any]], output_dir: Path) -> None
                     "country_code": country_iso2,
                     "latitude": city.get("latitude", ""),
                     "longitude": city.get("longitude", ""),
+                    "county_id": city.get("county_id"),
                     "wikiDataId": None  # Not available in new format
                 }
                 cities_list.append(city_data)
@@ -176,8 +196,15 @@ def save_states_and_cities(data: List[Dict[str, Any]], output_dir: Path) -> None
             cities_file = state_dir / "cities.json"
             with open(cities_file, "w", encoding="utf-8") as f:
                 json.dump(cities_list, f, ensure_ascii=False, indent=2)
+            generated_files.add(cities_file)
 
             total_cities += len(cities_list)
+
+    # Only remove obsolete generated files after the new snapshot was written.
+    for pattern in ("by-country/*/states.json", "by-country/*/states/*/cities.json"):
+        for old_file in output_dir.glob(pattern):
+            if old_file not in generated_files:
+                old_file.unlink()
 
     print(f"✓ Saved {total_states} states across {len(data)} countries")
     print(f"✓ Saved {total_cities} cities")

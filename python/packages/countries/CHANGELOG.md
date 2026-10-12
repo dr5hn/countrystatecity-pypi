@@ -5,6 +5,33 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - 2026-10-13
+
+### Breaking changes
+- Updated to upstream v4.0-export.50 (12 October 2026): 250 countries, 5,328
+  states and 152,152 cities. The upstream v3.2 to v4.0 transition removed 4,486
+  city ids (1,377 merged duplicates, 3,081 US counties moved to the counties
+  dataset with new ids, and 28 non-places), reassigned 7,527 cities to states,
+  added 27 states and retired 6. Names, coordinates and other metadata changed.
+- Migrate stored ids with
+  [`removed_ids_v3.2_to_v4.0.csv`](https://github.com/dr5hn/countries-states-cities-database/releases/download/v4.0/removed_ids_v3.2_to_v4.0.csv)
+  attached to the [upstream v4.0 release](https://github.com/dr5hn/countries-states-cities-database/releases/tag/v4.0).
+  County replacements belong to the counties dataset; they are not city ids.
+  This mapping covers v3.2 to v4.0, before subsequent export .50 changes.
+- Upstream city `type` now uses standard terms in the migrated countries and
+  `type_local` holds official terms. This package's reduced combined export
+  omits city `type`, city/state `type_local`, `level`, `parent_id`, city
+  translations and Wikidata ids. They remain deliberately outside its models;
+  `wikiDataId` remains `None`. Use standalone upstream exports for those fields.
+
+### Added
+- Optional `City.county_id` from the combined export. The counties dataset is
+  available upstream and is not bundled in this package.
+
+### Fixed
+- Removed obsolete city/state files during regeneration, preventing duplicate
+  city ids and stale records from surviving changes to the upstream hierarchy.
+
 ## [1.0.5] - 2026-08-11
 
 ### Documentation
