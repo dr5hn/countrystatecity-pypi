@@ -11,17 +11,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56323,
-    "name": "Balangan",
-    "state_id": 1819,
-    "state_code": "KS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.32314000",
-    "longitude": "115.62922000",
-    "wikiDataId": null
-  },
-  {
     "id": 56335,
     "name": "Banjar",
     "state_id": 1819,
@@ -30,6 +19,17 @@
     "country_code": "ID",
     "latitude": "-3.31667000",
     "longitude": "115.08333000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164797,
+    "name": "Banjarbaru",
+    "state_id": 1819,
+    "state_code": "KS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.44060000",
+    "longitude": "114.83650000",
     "wikiDataId": null
   },
   {
@@ -66,14 +66,14 @@
     "wikiDataId": null
   },
   {
-    "id": 56420,
-    "name": "Hulu Sungai Selatan",
+    "id": 56663,
+    "name": "Batulicin",
     "state_id": 1819,
     "state_code": "KS",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-2.75000000",
-    "longitude": "115.20000000",
+    "latitude": "-3.42022000",
+    "longitude": "116.00611000",
     "wikiDataId": null
   },
   {
@@ -99,14 +99,25 @@
     "wikiDataId": null
   },
   {
-    "id": 56468,
-    "name": "Kota Baru",
+    "id": 56420,
+    "name": "Kandangan",
     "state_id": 1819,
     "state_code": "KS",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-3.00000000",
-    "longitude": "116.00000000",
+    "latitude": "-2.78685427",
+    "longitude": "115.26574935",
+    "wikiDataId": null
+  },
+  {
+    "id": 56468,
+    "name": "Kotabaru",
+    "state_id": 1819,
+    "state_code": "KS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.24120000",
+    "longitude": "116.22590000",
     "wikiDataId": null
   },
   {
@@ -121,6 +132,28 @@
     "wikiDataId": null
   },
   {
+    "id": 56323,
+    "name": "Paringin",
+    "state_id": 1819,
+    "state_code": "KS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.33570000",
+    "longitude": "115.47490000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56673,
+    "name": "Rantau",
+    "state_id": 1819,
+    "state_code": "KS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.93270000",
+    "longitude": "115.15460000",
+    "wikiDataId": null
+  },
+  {
     "id": 56657,
     "name": "Tabalong",
     "state_id": 1819,
@@ -132,17 +165,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56663,
-    "name": "Tanah Bumbu",
-    "state_id": 1819,
-    "state_code": "KS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.45413000",
-    "longitude": "115.70372000",
-    "wikiDataId": null
-  },
-  {
     "id": 56665,
     "name": "Tanah Laut",
     "state_id": 1819,
@@ -151,17 +173,6 @@
     "country_code": "ID",
     "latitude": "-3.88333000",
     "longitude": "114.86667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56673,
-    "name": "Tapin",
-    "state_id": 1819,
-    "state_code": "KS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.91667000",
-    "longitude": "115.03333000",
     "wikiDataId": null
   }
 ]

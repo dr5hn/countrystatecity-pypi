@@ -1,16 +1,5 @@
 [
   {
-    "id": 48568,
-    "name": "Blewbury",
-    "state_id": 2471,
-    "state_code": "WBK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.56880000",
-    "longitude": "-1.23261000",
-    "wikiDataId": null
-  },
-  {
     "id": 48646,
     "name": "Bradfield",
     "state_id": 2471,
@@ -22,25 +11,14 @@
     "wikiDataId": null
   },
   {
-    "id": 48967,
-    "name": "Chilton Foliat",
+    "id": 48820,
+    "name": "Calcot",
     "state_id": 2471,
     "state_code": "WBK",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.43245000",
-    "longitude": "-1.53912000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48981,
-    "name": "Cholsey",
-    "state_id": 2471,
-    "state_code": "WBK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.57280000",
-    "longitude": "-1.15356000",
+    "latitude": "51.44058000",
+    "longitude": "-1.05091000",
     "wikiDataId": null
   },
   {
@@ -55,61 +33,6 @@
     "wikiDataId": null
   },
   {
-    "id": 49282,
-    "name": "Didcot",
-    "state_id": 2471,
-    "state_code": "WBK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.60928000",
-    "longitude": "-1.24214000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49396,
-    "name": "East Hanney",
-    "state_id": 2471,
-    "state_code": "WBK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.63443000",
-    "longitude": "-1.39518000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49681,
-    "name": "Goring",
-    "state_id": 2471,
-    "state_code": "WBK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.52322000",
-    "longitude": "-1.13342000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49758,
-    "name": "Grove",
-    "state_id": 2471,
-    "state_code": "WBK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.60954000",
-    "longitude": "-1.42187000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49829,
-    "name": "Harwell",
-    "state_id": 2471,
-    "state_code": "WBK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.59947000",
-    "longitude": "-1.29175000",
-    "wikiDataId": null
-  },
-  {
     "id": 49910,
     "name": "Hermitage",
     "state_id": 2471,
@@ -118,17 +41,6 @@
     "country_code": "GB",
     "latitude": "51.45540000",
     "longitude": "-1.26823000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49935,
-    "name": "Highclere",
-    "state_id": 2471,
-    "state_code": "WBK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.33860000",
-    "longitude": "-1.37569000",
     "wikiDataId": null
   },
   {
@@ -143,17 +55,6 @@
     "wikiDataId": null
   },
   {
-    "id": 50171,
-    "name": "Kingsclere",
-    "state_id": 2471,
-    "state_code": "WBK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.32487000",
-    "longitude": "-1.24339000",
-    "wikiDataId": null
-  },
-  {
     "id": 50188,
     "name": "Kintbury",
     "state_id": 2471,
@@ -162,6 +63,17 @@
     "country_code": "GB",
     "latitude": "51.39958000",
     "longitude": "-1.44865000",
+    "wikiDataId": null
+  },
+  {
+    "id": 50230,
+    "name": "Lambourn",
+    "state_id": 2471,
+    "state_code": "WBK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.50805000",
+    "longitude": "-1.53105000",
     "wikiDataId": null
   },
   {
@@ -176,36 +88,25 @@
     "wikiDataId": null
   },
   {
-    "id": 51245,
-    "name": "Shalbourne",
+    "id": 50849,
+    "name": "Pangbourne",
     "state_id": 2471,
     "state_code": "WBK",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.36358000",
-    "longitude": "-1.55053000",
+    "latitude": "51.48370000",
+    "longitude": "-1.08519000",
     "wikiDataId": null
   },
   {
-    "id": 51442,
-    "name": "Steventon",
+    "id": 51489,
+    "name": "Stratfield Mortimer",
     "state_id": 2471,
     "state_code": "WBK",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.62473000",
-    "longitude": "-1.32145000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51544,
-    "name": "Tadley",
-    "state_id": 2471,
-    "state_code": "WBK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.35045000",
-    "longitude": "-1.12850000",
+    "latitude": "51.37339000",
+    "longitude": "-1.03495000",
     "wikiDataId": null
   },
   {
@@ -220,6 +121,17 @@
     "wikiDataId": null
   },
   {
+    "id": 51590,
+    "name": "Theale",
+    "state_id": 2471,
+    "state_code": "WBK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.43694000",
+    "longitude": "-1.07700000",
+    "wikiDataId": null
+  },
+  {
     "id": 51700,
     "name": "Upper Basildon",
     "state_id": 2471,
@@ -228,28 +140,6 @@
     "country_code": "GB",
     "latitude": "51.48165000",
     "longitude": "-1.14075000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51745,
-    "name": "Wantage",
-    "state_id": 2471,
-    "state_code": "WBK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.58846000",
-    "longitude": "-1.42565000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51806,
-    "name": "West Berkshire",
-    "state_id": 2471,
-    "state_code": "WBK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.41667000",
-    "longitude": "-1.25000000",
     "wikiDataId": null
   },
   {

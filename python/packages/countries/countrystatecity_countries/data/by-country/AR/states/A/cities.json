@@ -12,7 +12,7 @@
   },
   {
     "id": 707,
-    "name": "Cachí",
+    "name": "Cachi",
     "state_id": 3643,
     "state_code": "A",
     "country_id": 11,
@@ -28,8 +28,8 @@
     "state_code": "A",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-26.08333000",
-    "longitude": "-65.83333000",
+    "latitude": "-26.07000000",
+    "longitude": "-65.98000000",
     "wikiDataId": null
   },
   {
@@ -55,28 +55,6 @@
     "wikiDataId": null
   },
   {
-    "id": 819,
-    "name": "Departamento Capital",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-24.83333000",
-    "longitude": "-65.33333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 828,
-    "name": "Departamento de Anta",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-24.91667000",
-    "longitude": "-64.00000000",
-    "wikiDataId": null
-  },
-  {
     "id": 857,
     "name": "Departamento de Cerrillos",
     "state_id": 3643,
@@ -85,138 +63,6 @@
     "country_code": "AR",
     "latitude": "-25.00000000",
     "longitude": "-65.41667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 858,
-    "name": "Departamento de Chicoana",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-25.11583000",
-    "longitude": "-65.59466000",
-    "wikiDataId": null
-  },
-  {
-    "id": 891,
-    "name": "Departamento de General Güemes",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-24.79464000",
-    "longitude": "-64.94393000",
-    "wikiDataId": null
-  },
-  {
-    "id": 901,
-    "name": "Departamento de Guachipas",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-25.66667000",
-    "longitude": "-65.50000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 911,
-    "name": "Departamento de Iruya",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-22.80000000",
-    "longitude": "-64.91667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 920,
-    "name": "Departamento de La Poma",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-24.16667000",
-    "longitude": "-66.16667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 921,
-    "name": "Departamento de La Viña",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-25.50000000",
-    "longitude": "-65.66667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 931,
-    "name": "Departamento de Los Andes",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-24.50000000",
-    "longitude": "-67.33333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 942,
-    "name": "Departamento de Metán",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-25.50000000",
-    "longitude": "-64.66667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 968,
-    "name": "Departamento de Rivadavia",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-23.66667000",
-    "longitude": "-62.91667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 971,
-    "name": "Departamento de Rosario de la Frontera",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-25.91667000",
-    "longitude": "-64.83333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 970,
-    "name": "Departamento de Rosario de Lerma",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-24.58333000",
-    "longitude": "-65.83333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 982,
-    "name": "Departamento de San Carlos",
-    "state_id": 3643,
-    "state_code": "A",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-25.75000000",
-    "longitude": "-66.08333000",
     "wikiDataId": null
   },
   {
@@ -264,14 +110,47 @@
     "wikiDataId": null
   },
   {
+    "id": 164415,
+    "name": "General Güemes",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-24.67445000",
+    "longitude": "-65.04660000",
+    "wikiDataId": null
+  },
+  {
     "id": 1101,
-    "name": "General Enrique Mosconi",
+    "name": "General Mosconi",
     "state_id": 3643,
     "state_code": "A",
     "country_id": 11,
     "country_code": "AR",
     "latitude": "-22.59588000",
     "longitude": "-63.81255000",
+    "wikiDataId": null
+  },
+  {
+    "id": 901,
+    "name": "Guachipas",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-25.52247000",
+    "longitude": "-65.50932000",
+    "wikiDataId": null
+  },
+  {
+    "id": 911,
+    "name": "Iruya",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-22.79141700",
+    "longitude": "-65.21630600",
     "wikiDataId": null
   },
   {
@@ -292,8 +171,30 @@
     "state_code": "A",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-24.58333000",
-    "longitude": "-65.41667000",
+    "latitude": "-24.60000000",
+    "longitude": "-65.38333333",
+    "wikiDataId": null
+  },
+  {
+    "id": 920,
+    "name": "La Poma",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-24.71666667",
+    "longitude": "-66.21666667",
+    "wikiDataId": null
+  },
+  {
+    "id": 921,
+    "name": "La Viña",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-25.46777778",
+    "longitude": "-65.56277778",
     "wikiDataId": null
   },
   {
@@ -305,6 +206,61 @@
     "country_code": "AR",
     "latitude": "-24.72762000",
     "longitude": "-64.19335000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164427,
+    "name": "Pichanal",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-23.31644000",
+    "longitude": "-64.21826000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164433,
+    "name": "Profesor Salvador Mazza",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-22.04897000",
+    "longitude": "-63.69075000",
+    "wikiDataId": null
+  },
+  {
+    "id": 968,
+    "name": "Rivadavia",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-24.18333333",
+    "longitude": "-62.88333333",
+    "wikiDataId": null
+  },
+  {
+    "id": 971,
+    "name": "Rosario de la Frontera",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-25.80000000",
+    "longitude": "-64.96666667",
+    "wikiDataId": null
+  },
+  {
+    "id": 970,
+    "name": "Rosario de Lerma",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-24.98333333",
+    "longitude": "-65.58333333",
     "wikiDataId": null
   },
   {
@@ -327,6 +283,39 @@
     "country_code": "AR",
     "latitude": "-24.21804000",
     "longitude": "-66.31877000",
+    "wikiDataId": null
+  },
+  {
+    "id": 982,
+    "name": "San Carlos",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-25.90000000",
+    "longitude": "-65.93333333",
+    "wikiDataId": null
+  },
+  {
+    "id": 164420,
+    "name": "San José de Metán",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-25.49711000",
+    "longitude": "-64.97106000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164424,
+    "name": "San Lorenzo",
+    "state_id": 3643,
+    "state_code": "A",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-24.73623000",
+    "longitude": "-65.48727000",
     "wikiDataId": null
   },
   {

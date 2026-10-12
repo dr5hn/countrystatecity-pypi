@@ -11,6 +11,17 @@
     "wikiDataId": null
   },
   {
+    "id": 106909,
+    "name": "Andalyp",
+    "state_id": 3373,
+    "state_code": "D",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "41.83333000",
+    "longitude": "59.65000000",
+    "wikiDataId": null
+  },
+  {
     "id": 106890,
     "name": "Boldumsaz",
     "state_id": 3373,
@@ -33,19 +44,8 @@
     "wikiDataId": null
   },
   {
-    "id": 106897,
-    "name": "Köneürgench",
-    "state_id": 3373,
-    "state_code": "D",
-    "country_id": 226,
-    "country_code": "TM",
-    "latitude": "42.32773000",
-    "longitude": "59.15442000",
-    "wikiDataId": null
-  },
-  {
     "id": 106904,
-    "name": "Tagta",
+    "name": "Görogly",
     "state_id": 3373,
     "state_code": "D",
     "country_id": 226,
@@ -55,14 +55,25 @@
     "wikiDataId": null
   },
   {
-    "id": 106909,
-    "name": "Yylanly",
+    "id": 165594,
+    "name": "Gubadag",
     "state_id": 3373,
     "state_code": "D",
     "country_id": 226,
     "country_code": "TM",
-    "latitude": "41.83333000",
-    "longitude": "59.65000000",
+    "latitude": "42.07948000",
+    "longitude": "59.94964000",
+    "wikiDataId": null
+  },
+  {
+    "id": 106897,
+    "name": "Köneürgenç",
+    "state_id": 3373,
+    "state_code": "D",
+    "country_id": 226,
+    "country_code": "TM",
+    "latitude": "42.32773000",
+    "longitude": "59.15442000",
     "wikiDataId": null
   }
 ]

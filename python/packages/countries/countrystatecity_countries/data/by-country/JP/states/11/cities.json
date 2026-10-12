@@ -33,17 +33,6 @@
     "wikiDataId": null
   },
   {
-    "id": 63261,
-    "name": "Asaka-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.80000000",
-    "longitude": "139.60000000",
-    "wikiDataId": null
-  },
-  {
     "id": 63294,
     "name": "Chichibu",
     "state_id": 860,
@@ -52,17 +41,6 @@
     "country_code": "JP",
     "latitude": "35.99028000",
     "longitude": "139.07639000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63295,
-    "name": "Chichibu-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.95966000",
-    "longitude": "138.93347000",
     "wikiDataId": null
   },
   {
@@ -132,17 +110,6 @@
     "wikiDataId": null
   },
   {
-    "id": 63438,
-    "name": "Hannō-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.85567000",
-    "longitude": "139.32777000",
-    "wikiDataId": null
-  },
-  {
     "id": 63439,
     "name": "Hanyū",
     "state_id": 860,
@@ -154,17 +121,6 @@
     "wikiDataId": null
   },
   {
-    "id": 63440,
-    "name": "Hanyū-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "36.17251000",
-    "longitude": "139.55338000",
-    "wikiDataId": null
-  },
-  {
     "id": 63446,
     "name": "Hasuda",
     "state_id": 860,
@@ -173,17 +129,6 @@
     "country_code": "JP",
     "latitude": "35.97113000",
     "longitude": "139.64910000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63447,
-    "name": "Hasuda-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "36.00147000",
-    "longitude": "139.64981000",
     "wikiDataId": null
   },
   {
@@ -242,17 +187,6 @@
     "wikiDataId": null
   },
   {
-    "id": 63524,
-    "name": "Honjō Shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "36.19925000",
-    "longitude": "139.14627000",
-    "wikiDataId": null
-  },
-  {
     "id": 63579,
     "name": "Iruma-shi",
     "state_id": 860,
@@ -297,17 +231,6 @@
     "wikiDataId": null
   },
   {
-    "id": 63748,
-    "name": "Kasukabe Shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.98270000",
-    "longitude": "139.77574000",
-    "wikiDataId": null
-  },
-  {
     "id": 63768,
     "name": "Kawagoe",
     "state_id": 860,
@@ -316,17 +239,6 @@
     "country_code": "JP",
     "latitude": "35.90861000",
     "longitude": "139.48528000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63769,
-    "name": "Kawagoe-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.91149000",
-    "longitude": "139.47924000",
     "wikiDataId": null
   },
   {
@@ -341,17 +253,6 @@
     "wikiDataId": null
   },
   {
-    "id": 63771,
-    "name": "Kawaguchi-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.83389000",
-    "longitude": "139.73252000",
-    "wikiDataId": null
-  },
-  {
     "id": 63778,
     "name": "Kazo",
     "state_id": 860,
@@ -360,17 +261,6 @@
     "country_code": "JP",
     "latitude": "36.11667000",
     "longitude": "139.60000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 63779,
-    "name": "Kazo-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "36.13670000",
-    "longitude": "139.61992000",
     "wikiDataId": null
   },
   {
@@ -407,19 +297,8 @@
     "wikiDataId": null
   },
   {
-    "id": 63898,
-    "name": "Kōnosu",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "36.06868000",
-    "longitude": "139.51684000",
-    "wikiDataId": null
-  },
-  {
     "id": 63844,
-    "name": "Konosu-Shi",
+    "name": "Kōnosu",
     "state_id": 860,
     "state_code": "11",
     "country_id": 109,
@@ -481,6 +360,17 @@
     "country_code": "JP",
     "latitude": "36.13333000",
     "longitude": "139.70000000",
+    "wikiDataId": null
+  },
+  {
+    "id": 165113,
+    "name": "Matsubushi",
+    "state_id": 860,
+    "state_code": "11",
+    "country_id": 109,
+    "country_code": "JP",
+    "latitude": "35.91898000",
+    "longitude": "139.81128000",
     "wikiDataId": null
   },
   {
@@ -561,17 +451,6 @@
     "wikiDataId": null
   },
   {
-    "id": 64199,
-    "name": "Okegawa-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "36.00000000",
-    "longitude": "139.55000000",
-    "wikiDataId": null
-  },
-  {
     "id": 64754,
     "name": "Ōsato-gun",
     "state_id": 860,
@@ -616,17 +495,6 @@
     "wikiDataId": null
   },
   {
-    "id": 64254,
-    "name": "Sakado-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.96776000",
-    "longitude": "139.40595000",
-    "wikiDataId": null
-  },
-  {
     "id": 64293,
     "name": "Satte",
     "state_id": 860,
@@ -635,17 +503,6 @@
     "country_code": "JP",
     "latitude": "36.07254000",
     "longitude": "139.72615000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64294,
-    "name": "Satte Shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "36.07081000",
-    "longitude": "139.74022000",
     "wikiDataId": null
   },
   {
@@ -671,17 +528,6 @@
     "wikiDataId": null
   },
   {
-    "id": 64321,
-    "name": "Shiki Shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.83698000",
-    "longitude": "139.58347000",
-    "wikiDataId": null
-  },
-  {
     "id": 64335,
     "name": "Shimotoda",
     "state_id": 860,
@@ -701,17 +547,6 @@
     "country_code": "JP",
     "latitude": "36.01839000",
     "longitude": "139.66034000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64356,
-    "name": "Shiraoka-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "36.01667000",
-    "longitude": "139.66667000",
     "wikiDataId": null
   },
   {
@@ -781,17 +616,6 @@
     "wikiDataId": null
   },
   {
-    "id": 64496,
-    "name": "Tokorozawa-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.79968000",
-    "longitude": "139.45817000",
-    "wikiDataId": null
-  },
-  {
     "id": 64555,
     "name": "Tsurugashima-shi",
     "state_id": 860,
@@ -814,17 +638,6 @@
     "wikiDataId": null
   },
   {
-    "id": 64623,
-    "name": "Wakō-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.78934000",
-    "longitude": "139.61988000",
-    "wikiDataId": null
-  },
-  {
     "id": 64624,
     "name": "Warabi-shi",
     "state_id": 860,
@@ -844,17 +657,6 @@
     "country_code": "JP",
     "latitude": "35.82255000",
     "longitude": "139.83905000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64657,
-    "name": "Yashio-shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.80918000",
-    "longitude": "139.84669000",
     "wikiDataId": null
   },
   {
@@ -888,17 +690,6 @@
     "country_code": "JP",
     "latitude": "35.89232000",
     "longitude": "139.84184000",
-    "wikiDataId": null
-  },
-  {
-    "id": 64686,
-    "name": "Yoshikawa Shi",
-    "state_id": 860,
-    "state_code": "11",
-    "country_id": 109,
-    "country_code": "JP",
-    "latitude": "35.89512000",
-    "longitude": "139.86090000",
     "wikiDataId": null
   }
 ]

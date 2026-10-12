@@ -66,17 +66,6 @@
     "wikiDataId": null
   },
   {
-    "id": 65659,
-    "name": "Chardara",
-    "state_id": 149,
-    "state_code": "61",
-    "country_id": 112,
-    "country_code": "KZ",
-    "latitude": "41.25832000",
-    "longitude": "67.96991000",
-    "wikiDataId": null
-  },
-  {
     "id": 65660,
     "name": "Chayan",
     "state_id": 149,
@@ -220,6 +209,17 @@
     "wikiDataId": null
   },
   {
+    "id": 65659,
+    "name": "Shardara",
+    "state_id": 149,
+    "state_code": "61",
+    "country_id": 112,
+    "country_code": "KZ",
+    "latitude": "41.25832000",
+    "longitude": "67.96991000",
+    "wikiDataId": null
+  },
+  {
     "id": 65795,
     "name": "Sozaq Aūdany",
     "state_id": 149,
@@ -254,7 +254,7 @@
   },
   {
     "id": 65819,
-    "name": "Turkestan",
+    "name": "Turkistan",
     "state_id": 149,
     "state_code": "61",
     "country_id": 112,
@@ -283,6 +283,17 @@
     "country_code": "KZ",
     "latitude": "42.43781000",
     "longitude": "70.47841000",
+    "wikiDataId": null
+  },
+  {
+    "id": 165150,
+    "name": "Zhetysay",
+    "state_id": 149,
+    "state_code": "61",
+    "country_id": 112,
+    "country_code": "KZ",
+    "latitude": "40.77631000",
+    "longitude": "68.32774000",
     "wikiDataId": null
   }
 ]

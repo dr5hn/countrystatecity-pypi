@@ -1,38 +1,5 @@
 [
   {
-    "id": 850,
-    "name": "Departamento de Capital",
-    "state_id": 3646,
-    "state_code": "M",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-32.88469000",
-    "longitude": "-68.85826000",
-    "wikiDataId": null
-  },
-  {
-    "id": 889,
-    "name": "Departamento de General Alvear",
-    "state_id": 3646,
-    "state_code": "M",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-35.16667000",
-    "longitude": "-67.33333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 898,
-    "name": "Departamento de Godoy Cruz",
-    "state_id": 3646,
-    "state_code": "M",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-32.93333000",
-    "longitude": "-68.86667000",
-    "wikiDataId": null
-  },
-  {
     "id": 905,
     "name": "Departamento de Guaymallén",
     "state_id": 3646,
@@ -41,28 +8,6 @@
     "country_code": "AR",
     "latitude": "-32.88333000",
     "longitude": "-68.70000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 919,
-    "name": "Departamento de La Paz",
-    "state_id": 3646,
-    "state_code": "M",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-33.66667000",
-    "longitude": "-67.25000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 924,
-    "name": "Departamento de Las Heras",
-    "state_id": 3646,
-    "state_code": "M",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-32.50000000",
-    "longitude": "-69.50000000",
     "wikiDataId": null
   },
   {
@@ -88,39 +33,6 @@
     "wikiDataId": null
   },
   {
-    "id": 936,
-    "name": "Departamento de Maipú",
-    "state_id": 3646,
-    "state_code": "M",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-33.00000000",
-    "longitude": "-68.58333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 938,
-    "name": "Departamento de Malargüe",
-    "state_id": 3646,
-    "state_code": "M",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-36.25000000",
-    "longitude": "-69.25000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 967,
-    "name": "Departamento de Rivadavia",
-    "state_id": 3646,
-    "state_code": "M",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-33.18000000",
-    "longitude": "-68.46600000",
-    "wikiDataId": null
-  },
-  {
     "id": 983,
     "name": "Departamento de San Carlos",
     "state_id": 3646,
@@ -129,50 +41,6 @@
     "country_code": "AR",
     "latitude": "-34.00000000",
     "longitude": "-69.00000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 999,
-    "name": "Departamento de San Martín",
-    "state_id": 3646,
-    "state_code": "M",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-32.83730000",
-    "longitude": "-68.24922000",
-    "wikiDataId": null
-  },
-  {
-    "id": 1003,
-    "name": "Departamento de San Rafael",
-    "state_id": 3646,
-    "state_code": "M",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-35.00000000",
-    "longitude": "-68.83333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 1008,
-    "name": "Departamento de Santa Rosa",
-    "state_id": 3646,
-    "state_code": "M",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-33.50000000",
-    "longitude": "-68.00000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 1026,
-    "name": "Departamento de Tunuyán",
-    "state_id": 3646,
-    "state_code": "M",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-33.66667000",
-    "longitude": "-69.50000000",
     "wikiDataId": null
   },
   {
@@ -187,6 +55,17 @@
     "wikiDataId": null
   },
   {
+    "id": 164418,
+    "name": "General Alvear",
+    "state_id": 3646,
+    "state_code": "M",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-34.97747000",
+    "longitude": "-67.69618000",
+    "wikiDataId": null
+  },
+  {
     "id": 1122,
     "name": "Godoy Cruz",
     "state_id": 3646,
@@ -195,6 +74,28 @@
     "country_code": "AR",
     "latitude": "-32.92863000",
     "longitude": "-68.83510000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164442,
+    "name": "La Consulta",
+    "state_id": 3646,
+    "state_code": "M",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-33.73385000",
+    "longitude": "-69.11988000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164443,
+    "name": "La Paz",
+    "state_id": 3646,
+    "state_code": "M",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-33.46170000",
+    "longitude": "-67.55228000",
     "wikiDataId": null
   },
   {
@@ -209,6 +110,28 @@
     "wikiDataId": null
   },
   {
+    "id": 164452,
+    "name": "Maipú",
+    "state_id": 3646,
+    "state_code": "M",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-32.98462000",
+    "longitude": "-68.78821000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164429,
+    "name": "Malargüe",
+    "state_id": 3646,
+    "state_code": "M",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-35.47791000",
+    "longitude": "-69.58521000",
+    "wikiDataId": null
+  },
+  {
     "id": 1278,
     "name": "Mendoza",
     "state_id": 3646,
@@ -217,6 +140,17 @@
     "country_code": "AR",
     "latitude": "-32.89084000",
     "longitude": "-68.82717000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164419,
+    "name": "Rivadavia",
+    "state_id": 3646,
+    "state_code": "M",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-33.19097000",
+    "longitude": "-68.46220000",
     "wikiDataId": null
   },
   {
@@ -239,6 +173,28 @@
     "country_code": "AR",
     "latitude": "-34.61772000",
     "longitude": "-68.33007000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164459,
+    "name": "Santa Rosa",
+    "state_id": 3646,
+    "state_code": "M",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-33.25407000",
+    "longitude": "-68.15066000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164414,
+    "name": "Tunuyán",
+    "state_id": 3646,
+    "state_code": "M",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-33.58125000",
+    "longitude": "-69.01537000",
     "wikiDataId": null
   }
 ]

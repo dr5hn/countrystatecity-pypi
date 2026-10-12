@@ -143,17 +143,6 @@
     "wikiDataId": null
   },
   {
-    "id": 137854,
-    "name": "Collagna",
-    "state_id": 1666,
-    "state_code": "PR",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "44.34694000",
-    "longitude": "10.27350000",
-    "wikiDataId": null
-  },
-  {
     "id": 137875,
     "name": "Collecchio",
     "state_id": 1666,
@@ -298,7 +287,7 @@
   },
   {
     "id": 139468,
-    "name": "Lesignano de'Bagni",
+    "name": "Lesignano de' Bagni",
     "state_id": 1666,
     "state_code": "PR",
     "country_id": 107,
@@ -316,6 +305,17 @@
     "country_code": "IT",
     "latitude": "44.75824000",
     "longitude": "10.13794000",
+    "wikiDataId": null
+  },
+  {
+    "id": 140114,
+    "name": "Mezzano Inferiore",
+    "state_id": 1666,
+    "state_code": "PR",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.91291000",
+    "longitude": "10.45838000",
     "wikiDataId": null
   },
   {
@@ -338,6 +338,17 @@
     "country_code": "IT",
     "latitude": "44.69261000",
     "longitude": "10.42128000",
+    "wikiDataId": null
+  },
+  {
+    "id": 140561,
+    "name": "Monticelli Terme",
+    "state_id": 1666,
+    "state_code": "PR",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.72881000",
+    "longitude": "10.39444000",
     "wikiDataId": null
   },
   {
@@ -418,6 +429,28 @@
     "wikiDataId": null
   },
   {
+    "id": 58785,
+    "name": "Polesine Parmense",
+    "state_id": 1666,
+    "state_code": "PR",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "45.01682000",
+    "longitude": "10.09015000",
+    "wikiDataId": null
+  },
+  {
+    "id": 166156,
+    "name": "Polesine Zibello",
+    "state_id": 1666,
+    "state_code": "PR",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "45.01666667",
+    "longitude": "10.08333333",
+    "wikiDataId": null
+  },
+  {
     "id": 58850,
     "name": "Ponte Taro",
     "state_id": 1666,
@@ -448,17 +481,6 @@
     "country_code": "IT",
     "latitude": "44.70055000",
     "longitude": "10.09110000",
-    "wikiDataId": null
-  },
-  {
-    "id": 59274,
-    "name": "Ramiseto",
-    "state_id": 1666,
-    "state_code": "PR",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "44.41284000",
-    "longitude": "10.27689000",
     "wikiDataId": null
   },
   {
@@ -539,6 +561,17 @@
     "wikiDataId": null
   },
   {
+    "id": 166155,
+    "name": "Sissa Trecasali",
+    "state_id": 1666,
+    "state_code": "PR",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.94559370",
+    "longitude": "10.27994670",
+    "wikiDataId": null
+  },
+  {
     "id": 60919,
     "name": "Solignano",
     "state_id": 1666,
@@ -558,6 +591,28 @@
     "country_code": "IT",
     "latitude": "44.92686000",
     "longitude": "10.12013000",
+    "wikiDataId": null
+  },
+  {
+    "id": 60951,
+    "name": "Sorbolo",
+    "state_id": 1666,
+    "state_code": "PR",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.84587000",
+    "longitude": "10.44375000",
+    "wikiDataId": null
+  },
+  {
+    "id": 166157,
+    "name": "Sorbolo Mezzani",
+    "state_id": 1666,
+    "state_code": "PR",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.90358333",
+    "longitude": "10.46858333",
     "wikiDataId": null
   },
   {
@@ -638,6 +693,17 @@
     "wikiDataId": null
   },
   {
+    "id": 166154,
+    "name": "Valmozzola",
+    "state_id": 1666,
+    "state_code": "PR",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "44.56841667",
+    "longitude": "9.88497222",
+    "wikiDataId": null
+  },
+  {
     "id": 61762,
     "name": "Varano De' Melegari",
     "state_id": 1666,
@@ -679,6 +745,17 @@
     "country_code": "IT",
     "latitude": "44.71999000",
     "longitude": "10.33037000",
+    "wikiDataId": null
+  },
+  {
+    "id": 62259,
+    "name": "Zibello",
+    "state_id": 1666,
+    "state_code": "PR",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "45.01847000",
+    "longitude": "10.12968000",
     "wikiDataId": null
   }
 ]

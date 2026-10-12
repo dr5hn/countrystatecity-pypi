@@ -1,35 +1,35 @@
 [
   {
     "id": 56361,
-    "name": "Bintan",
+    "name": "Bandar Seri Bentan",
     "state_id": 1807,
     "state_code": "KR",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "0.95000000",
-    "longitude": "104.61944000",
+    "latitude": "1.08719700",
+    "longitude": "104.50218350",
     "wikiDataId": null
   },
   {
-    "id": 56441,
-    "name": "Karimun",
+    "id": 56208,
+    "name": "Batam",
     "state_id": 1807,
     "state_code": "KR",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "0.80764000",
-    "longitude": "103.41911000",
+    "latitude": "1.14937000",
+    "longitude": "104.02491000",
     "wikiDataId": null
   },
   {
-    "id": 56450,
-    "name": "Kepulauan Anambas",
+    "id": 56495,
+    "name": "Daik Lingga",
     "state_id": 1807,
     "state_code": "KR",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "3.00000000",
-    "longitude": "106.00000000",
+    "latitude": "-0.21451000",
+    "longitude": "104.61824000",
     "wikiDataId": null
   },
   {
@@ -44,17 +44,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56495,
-    "name": "Lingga",
-    "state_id": 1807,
-    "state_code": "KR",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "0.20000000",
-    "longitude": "104.61667000",
-    "wikiDataId": null
-  },
-  {
     "id": 56554,
     "name": "Natuna",
     "state_id": 1807,
@@ -66,6 +55,17 @@
     "wikiDataId": null
   },
   {
+    "id": 164803,
+    "name": "Tanjung Balai",
+    "state_id": 1807,
+    "state_code": "KR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "1.00005000",
+    "longitude": "103.42186000",
+    "wikiDataId": null
+  },
+  {
     "id": 57018,
     "name": "Tanjung Pinang",
     "state_id": 1807,
@@ -74,6 +74,17 @@
     "country_code": "ID",
     "latitude": "0.91667000",
     "longitude": "104.45833000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56450,
+    "name": "Tarempa",
+    "state_id": 1807,
+    "state_code": "KR",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "3.21583000",
+    "longitude": "106.21722000",
     "wikiDataId": null
   }
 ]

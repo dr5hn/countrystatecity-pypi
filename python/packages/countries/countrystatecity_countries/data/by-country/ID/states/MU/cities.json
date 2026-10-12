@@ -1,49 +1,5 @@
 [
   {
-    "id": 56271,
-    "name": "East Halmahera Regency",
-    "state_id": 1801,
-    "state_code": "MU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "1.33517000",
-    "longitude": "128.48627000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56416,
-    "name": "Halmahera Barat",
-    "state_id": 1801,
-    "state_code": "MU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "1.41709000",
-    "longitude": "127.55264000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56417,
-    "name": "Halmahera Selatan",
-    "state_id": 1801,
-    "state_code": "MU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-0.39550000",
-    "longitude": "127.90833000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56418,
-    "name": "Halmahera Tengah",
-    "state_id": 1801,
-    "state_code": "MU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "0.48056000",
-    "longitude": "128.25000000",
-    "wikiDataId": null
-  },
-  {
     "id": 56419,
     "name": "Halmahera Utara",
     "state_id": 1801,
@@ -55,14 +11,36 @@
     "wikiDataId": null
   },
   {
-    "id": 56455,
-    "name": "Kepulauan Sula",
+    "id": 56416,
+    "name": "Jailolo",
     "state_id": 1801,
     "state_code": "MU",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-1.86460000",
-    "longitude": "125.69046000",
+    "latitude": "1.08057534",
+    "longitude": "127.48012352",
+    "wikiDataId": null
+  },
+  {
+    "id": 164809,
+    "name": "Labuha",
+    "state_id": 1801,
+    "state_code": "MU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-0.62546000",
+    "longitude": "127.47808000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56271,
+    "name": "Maba",
+    "state_id": 1801,
+    "state_code": "MU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.70070000",
+    "longitude": "128.29197000",
     "wikiDataId": null
   },
   {
@@ -85,6 +63,17 @@
     "country_code": "ID",
     "latitude": "-1.84578000",
     "longitude": "124.78992000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56455,
+    "name": "Sanana",
+    "state_id": 1801,
+    "state_code": "MU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.05853000",
+    "longitude": "125.97786000",
     "wikiDataId": null
   },
   {
@@ -118,6 +107,17 @@
     "country_code": "ID",
     "latitude": "1.72837000",
     "longitude": "128.00948000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56418,
+    "name": "Weda",
+    "state_id": 1801,
+    "state_code": "MU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.32952000",
+    "longitude": "127.87389000",
     "wikiDataId": null
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "id": 48429,
+    "name": "Batley",
+    "state_id": 2371,
+    "state_code": "KIR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.70291000",
+    "longitude": "-1.63370000",
+    "wikiDataId": null
+  },
+  {
     "id": 48547,
     "name": "Blackmoorfoot",
     "state_id": 2371,
@@ -11,14 +22,25 @@
     "wikiDataId": null
   },
   {
-    "id": 48692,
-    "name": "Brighouse",
+    "id": 49023,
+    "name": "Clayton West",
     "state_id": 2371,
     "state_code": "KIR",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.70322000",
-    "longitude": "-1.78428000",
+    "latitude": "53.59501000",
+    "longitude": "-1.61107000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49027,
+    "name": "Cleckheaton",
+    "state_id": 2371,
+    "state_code": "KIR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.72405000",
+    "longitude": "-1.71294000",
     "wikiDataId": null
   },
   {
@@ -33,14 +55,14 @@
     "wikiDataId": null
   },
   {
-    "id": 49452,
-    "name": "Elland",
+    "id": 49279,
+    "name": "Dewsbury",
     "state_id": 2371,
     "state_code": "KIR",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.68510000",
-    "longitude": "-1.83878000",
+    "latitude": "53.69076000",
+    "longitude": "-1.62907000",
     "wikiDataId": null
   },
   {
@@ -88,17 +110,6 @@
     "wikiDataId": null
   },
   {
-    "id": 49974,
-    "name": "Holywell Green",
-    "state_id": 2371,
-    "state_code": "KIR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.67406000",
-    "longitude": "-1.86682000",
-    "wikiDataId": null
-  },
-  {
     "id": 50018,
     "name": "Huddersfield",
     "state_id": 2371,
@@ -118,17 +129,6 @@
     "country_code": "GB",
     "latitude": "53.61047000",
     "longitude": "-1.70292000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50207,
-    "name": "Kirklees",
-    "state_id": 2371,
-    "state_code": "KIR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.58333000",
-    "longitude": "-1.75000000",
     "wikiDataId": null
   },
   {
@@ -198,17 +198,6 @@
     "wikiDataId": null
   },
   {
-    "id": 51032,
-    "name": "Rastrick",
-    "state_id": 2371,
-    "state_code": "KIR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.69210000",
-    "longitude": "-1.78830000",
-    "wikiDataId": null
-  },
-  {
     "id": 51257,
     "name": "Shelley",
     "state_id": 2371,
@@ -228,17 +217,6 @@
     "country_code": "GB",
     "latitude": "53.58333000",
     "longitude": "-1.71667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51377,
-    "name": "Southowram",
-    "state_id": 2371,
-    "state_code": "KIR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.70988000",
-    "longitude": "-1.83181000",
     "wikiDataId": null
   }
 ]

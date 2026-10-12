@@ -111,7 +111,7 @@
   },
   {
     "id": 110066,
-    "name": "Myhiya",
+    "name": "Myhiia",
     "state_id": 4679,
     "state_code": "48",
     "country_id": 230,
@@ -144,7 +144,7 @@
   },
   {
     "id": 110159,
-    "name": "Novyy Buh",
+    "name": "Novyi Buh",
     "state_id": 4679,
     "state_code": "48",
     "country_id": 230,
@@ -220,6 +220,17 @@
     "wikiDataId": null
   },
   {
+    "id": 110805,
+    "name": "Pivdennoukrainsk",
+    "state_id": 4679,
+    "state_code": "48",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "47.81777000",
+    "longitude": "31.18263000",
+    "wikiDataId": null
+  },
+  {
     "id": 110396,
     "name": "Rybakivka",
     "state_id": 4679,
@@ -283,17 +294,6 @@
     "country_code": "UA",
     "latitude": "47.86195000",
     "longitude": "30.59195000",
-    "wikiDataId": null
-  },
-  {
-    "id": 110805,
-    "name": "Yuzhnoukrains'k",
-    "state_id": 4679,
-    "state_code": "48",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "47.81777000",
-    "longitude": "31.18263000",
     "wikiDataId": null
   }
 ]

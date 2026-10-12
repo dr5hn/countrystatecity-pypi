@@ -440,17 +440,6 @@
     "wikiDataId": null
   },
   {
-    "id": 99438,
-    "name": "Kulundinskiy Rayon",
-    "state_id": 1911,
-    "state_code": "ALT",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "52.58333000",
-    "longitude": "79.00000000",
-    "wikiDataId": null
-  },
-  {
     "id": 99481,
     "name": "Kur’inskiy Rayon",
     "state_id": 1911,
@@ -459,6 +448,17 @@
     "country_code": "RU",
     "latitude": "51.41667000",
     "longitude": "82.41667000",
+    "wikiDataId": null
+  },
+  {
+    "id": 165499,
+    "name": "Kur’ya",
+    "state_id": 1911,
+    "state_code": "ALT",
+    "country_id": 182,
+    "country_code": "RU",
+    "latitude": "51.60139000",
+    "longitude": "82.28913000",
     "wikiDataId": null
   },
   {
@@ -726,6 +726,17 @@
     "wikiDataId": null
   },
   {
+    "id": 165502,
+    "name": "Novoyegor’yevskoye",
+    "state_id": 1911,
+    "state_code": "ALT",
+    "country_id": 182,
+    "country_code": "RU",
+    "latitude": "51.75842000",
+    "longitude": "80.89540000",
+    "wikiDataId": null
+  },
+  {
     "id": 100363,
     "name": "Novyye Zori",
     "state_id": 1911,
@@ -745,17 +756,6 @@
     "country_code": "RU",
     "latitude": "53.83194000",
     "longitude": "80.34056000",
-    "wikiDataId": null
-  },
-  {
-    "id": 100539,
-    "name": "Pankrushikhinskiy Rayon",
-    "state_id": 1911,
-    "state_code": "ALT",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "53.83333000",
-    "longitude": "80.33333000",
     "wikiDataId": null
   },
   {
@@ -811,17 +811,6 @@
     "country_code": "RU",
     "latitude": "52.59888000",
     "longitude": "85.25769000",
-    "wikiDataId": null
-  },
-  {
-    "id": 100655,
-    "name": "Petropavlovskiy Rayon",
-    "state_id": 1911,
-    "state_code": "ALT",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "52.16667000",
-    "longitude": "84.25000000",
     "wikiDataId": null
   },
   {
@@ -1119,17 +1108,6 @@
     "country_code": "RU",
     "latitude": "52.53180000",
     "longitude": "84.78960000",
-    "wikiDataId": null
-  },
-  {
-    "id": 101464,
-    "name": "Soloneshenskiy Rayon",
-    "state_id": 1911,
-    "state_code": "ALT",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "51.66667000",
-    "longitude": "84.50000000",
     "wikiDataId": null
   },
   {
@@ -1464,7 +1442,7 @@
   },
   {
     "id": 102233,
-    "name": "Verkh-Suetka",
+    "name": "Verkh-Suyetka",
     "state_id": 1911,
     "state_code": "ALT",
     "country_id": 182,
@@ -1548,6 +1526,17 @@
     "country_code": "RU",
     "latitude": "51.75000000",
     "longitude": "81.00000000",
+    "wikiDataId": null
+  },
+  {
+    "id": 165516,
+    "name": "Yel’tsovka",
+    "state_id": 1911,
+    "state_code": "ALT",
+    "country_id": 182,
+    "country_code": "RU",
+    "latitude": "53.25473000",
+    "longitude": "86.26395000",
     "wikiDataId": null
   },
   {

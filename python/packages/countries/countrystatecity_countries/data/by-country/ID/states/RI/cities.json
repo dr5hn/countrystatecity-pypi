@@ -1,5 +1,16 @@
 [
   {
+    "id": 164811,
+    "name": "Bagan Si Api-api",
+    "state_id": 1809,
+    "state_code": "RI",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "2.15668000",
+    "longitude": "100.80763000",
+    "wikiDataId": null
+  },
+  {
     "id": 56188,
     "name": "Balaipungut",
     "state_id": 1809,
@@ -11,14 +22,14 @@
     "wikiDataId": null
   },
   {
-    "id": 56208,
-    "name": "Batam",
+    "id": 164813,
+    "name": "Bangkinang",
     "state_id": 1809,
     "state_code": "RI",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "1.14937000",
-    "longitude": "104.02491000",
+    "latitude": "0.33833000",
+    "longitude": "101.02361000",
     "wikiDataId": null
   },
   {
@@ -28,8 +39,8 @@
     "state_code": "RI",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "0.98380000",
-    "longitude": "102.50960000",
+    "latitude": "1.48972222",
+    "longitude": "102.07972222",
     "wikiDataId": null
   },
   {
@@ -55,28 +66,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56425,
-    "name": "Indragiri Hulu",
-    "state_id": 1809,
-    "state_code": "RI",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-0.55000000",
-    "longitude": "102.31667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56436,
-    "name": "Kampar",
-    "state_id": 1809,
-    "state_code": "RI",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "0.23440000",
-    "longitude": "101.21310000",
-    "wikiDataId": null
-  },
-  {
     "id": 56453,
     "name": "Kepulauan Meranti",
     "state_id": 1809,
@@ -85,17 +74,6 @@
     "country_code": "ID",
     "latitude": "0.97488000",
     "longitude": "102.69539000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56471,
-    "name": "Kuantan Singingi",
-    "state_id": 1809,
-    "state_code": "RI",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-0.47532000",
-    "longitude": "101.45857000",
     "wikiDataId": null
   },
   {
@@ -121,14 +99,14 @@
     "wikiDataId": null
   },
   {
-    "id": 56611,
-    "name": "Rokan Hilir",
+    "id": 56425,
+    "name": "Rengat",
     "state_id": 1809,
     "state_code": "RI",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "2.16599000",
-    "longitude": "100.82514000",
+    "latitude": "-0.39290976",
+    "longitude": "102.43786020",
     "wikiDataId": null
   },
   {
@@ -143,14 +121,36 @@
     "wikiDataId": null
   },
   {
-    "id": 56626,
-    "name": "Siak",
+    "id": 164820,
+    "name": "Selat Panjang",
     "state_id": 1809,
     "state_code": "RI",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "0.97453000",
-    "longitude": "102.01355000",
+    "latitude": "0.99408000",
+    "longitude": "102.70817000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164821,
+    "name": "Siak Sri Indrapura",
+    "state_id": 1809,
+    "state_code": "RI",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.79317000",
+    "longitude": "102.05110000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56471,
+    "name": "Teluk Kuantan",
+    "state_id": 1809,
+    "state_code": "RI",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-0.50525281",
+    "longitude": "101.53788204",
     "wikiDataId": null
   }
 ]

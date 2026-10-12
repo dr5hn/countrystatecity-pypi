@@ -1,27 +1,5 @@
 [
   {
-    "id": 105297,
-    "name": "Amphoe Chiang Klang",
-    "state_id": 3530,
-    "state_code": "55",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "19.30637000",
-    "longitude": "100.87878000",
-    "wikiDataId": null
-  },
-  {
-    "id": 106366,
-    "name": "Amphoe Wiang Sa",
-    "state_id": 3530,
-    "state_code": "55",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "18.55088000",
-    "longitude": "100.72754000",
-    "wikiDataId": null
-  },
-  {
     "id": 105200,
     "name": "Ban Luang",
     "state_id": 3530,
@@ -77,17 +55,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105559,
-    "name": "Mueang Nan",
-    "state_id": 3530,
-    "state_code": "55",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "18.89008000",
-    "longitude": "100.67472000",
-    "wikiDataId": null
-  },
-  {
     "id": 105619,
     "name": "Na Muen",
     "state_id": 3530,
@@ -105,8 +72,8 @@
     "state_code": "55",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "18.30269000",
-    "longitude": "100.72393000",
+    "latitude": "18.32583055",
+    "longitude": "100.71217469",
     "wikiDataId": null
   },
   {
@@ -138,8 +105,8 @@
     "state_code": "55",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "19.16306000",
-    "longitude": "101.02796000",
+    "latitude": "19.17992698",
+    "longitude": "100.90888171",
     "wikiDataId": null
   },
   {
@@ -171,8 +138,8 @@
     "state_code": "55",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "19.13148000",
-    "longitude": "100.76117000",
+    "latitude": "19.09446245",
+    "longitude": "100.80969171",
     "wikiDataId": null
   },
   {
@@ -182,8 +149,19 @@
     "state_code": "55",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "19.46342000",
-    "longitude": "100.91937000",
+    "latitude": "19.38834832",
+    "longitude": "100.87808921",
+    "wikiDataId": null
+  },
+  {
+    "id": 106366,
+    "name": "Wiang Sa",
+    "state_id": 3530,
+    "state_code": "55",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "18.57066558",
+    "longitude": "100.75122585",
     "wikiDataId": null
   }
 ]

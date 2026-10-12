@@ -617,7 +617,7 @@
   },
   {
     "id": 143803,
-    "name": "Gmünd in Kärnten",
+    "name": "Gmünd",
     "state_id": 2057,
     "state_code": "2",
     "country_id": 15,
@@ -858,17 +858,6 @@
     "wikiDataId": null
   },
   {
-    "id": 143810,
-    "name": "Klagenfurt",
-    "state_id": 2057,
-    "state_code": "2",
-    "country_id": 15,
-    "country_code": "AT",
-    "latitude": "46.63873000",
-    "longitude": "14.29730000",
-    "wikiDataId": null
-  },
-  {
     "id": 2446,
     "name": "Klagenfurt am Wörthersee",
     "state_id": 2057,
@@ -877,6 +866,17 @@
     "country_code": "AT",
     "latitude": "46.63333000",
     "longitude": "14.30000000",
+    "wikiDataId": null
+  },
+  {
+    "id": 143810,
+    "name": "Klagenfurt am Wörthersee",
+    "state_id": 2057,
+    "state_code": "2",
+    "country_id": 15,
+    "country_code": "AT",
+    "latitude": "46.63873000",
+    "longitude": "14.29730000",
     "wikiDataId": null
   },
   {
@@ -2189,19 +2189,8 @@
     "wikiDataId": null
   },
   {
-    "id": 143865,
-    "name": "Velden am Wörther See",
-    "state_id": 2057,
-    "state_code": "2",
-    "country_id": 15,
-    "country_code": "AT",
-    "latitude": "46.61250000",
-    "longitude": "14.04194444",
-    "wikiDataId": null
-  },
-  {
     "id": 3675,
-    "name": "Velden am Wörthersee",
+    "name": "Velden am Wörther See",
     "state_id": 2057,
     "state_code": "2",
     "country_id": 15,

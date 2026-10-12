@@ -1,5 +1,115 @@
 [
   {
+    "id": 48205,
+    "name": "Alcester",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.21667000",
+    "longitude": "-1.86667000",
+    "wikiDataId": null
+  },
+  {
+    "id": 48308,
+    "name": "Atherstone",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.57536000",
+    "longitude": "-1.54693000",
+    "wikiDataId": null
+  },
+  {
+    "id": 48453,
+    "name": "Bedworth",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.47910000",
+    "longitude": "-1.46909000",
+    "wikiDataId": null
+  },
+  {
+    "id": 48498,
+    "name": "Bidford-on-Avon",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.16964000",
+    "longitude": "-1.85955000",
+    "wikiDataId": null
+  },
+  {
+    "id": 48701,
+    "name": "Brinklow",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.41091000",
+    "longitude": "-1.36400000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49210,
+    "name": "Curdworth",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.53382000",
+    "longitude": "-1.73687000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49345,
+    "name": "Dunchurch",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.33757000",
+    "longitude": "-1.29136000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49504,
+    "name": "Exhall",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.46464000",
+    "longitude": "-1.48144000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49803,
+    "name": "Harbury",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.23537000",
+    "longitude": "-1.45706000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49826,
+    "name": "Hartshill",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.54831000",
+    "longitude": "-1.52221000",
+    "wikiDataId": null
+  },
+  {
     "id": 49843,
     "name": "Hatton",
     "state_id": 2505,
@@ -8,6 +118,17 @@
     "country_code": "GB",
     "latitude": "52.30007000",
     "longitude": "-1.63260000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49903,
+    "name": "Henley in Arden",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.29032000",
+    "longitude": "-1.77807000",
     "wikiDataId": null
   },
   {
@@ -22,6 +143,28 @@
     "wikiDataId": null
   },
   {
+    "id": 50160,
+    "name": "Kineton",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.15645000",
+    "longitude": "-1.51148000",
+    "wikiDataId": null
+  },
+  {
+    "id": 50170,
+    "name": "Kingsbury",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.56106000",
+    "longitude": "-1.67936000",
+    "wikiDataId": null
+  },
+  {
     "id": 50272,
     "name": "Leek Wootton",
     "state_id": 2505,
@@ -33,14 +176,58 @@
     "wikiDataId": null
   },
   {
-    "id": 50565,
-    "name": "Mickleton",
+    "id": 50396,
+    "name": "Long Itchington",
     "state_id": 2505,
     "state_code": "WAR",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.09152000",
-    "longitude": "-1.76623000",
+    "latitude": "52.28396000",
+    "longitude": "-1.39243000",
+    "wikiDataId": null
+  },
+  {
+    "id": 50397,
+    "name": "Long Lawford",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.38176000",
+    "longitude": "-1.30716000",
+    "wikiDataId": null
+  },
+  {
+    "id": 50424,
+    "name": "Lower Brailes",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.05034000",
+    "longitude": "-1.54176000",
+    "wikiDataId": null
+  },
+  {
+    "id": 50789,
+    "name": "Nuneaton",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.52323000",
+    "longitude": "-1.46523000",
+    "wikiDataId": null
+  },
+  {
+    "id": 50931,
+    "name": "Polesworth",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.61962000",
+    "longitude": "-1.61036000",
     "wikiDataId": null
   },
   {
@@ -55,6 +242,61 @@
     "wikiDataId": null
   },
   {
+    "id": 51141,
+    "name": "Rugby",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.37092000",
+    "longitude": "-1.26417000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51158,
+    "name": "Ryton on Dunsmore",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.36667000",
+    "longitude": "-1.43333000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51285,
+    "name": "Shipston on Stour",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.06057000",
+    "longitude": "-1.62778000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51370,
+    "name": "Southam",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.25266000",
+    "longitude": "-1.38840000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51458,
+    "name": "Stockton",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.27181000",
+    "longitude": "-1.36055000",
+    "wikiDataId": null
+  },
+  {
     "id": 51490,
     "name": "Stratford-upon-Avon",
     "state_id": 2505,
@@ -63,6 +305,17 @@
     "country_code": "GB",
     "latitude": "52.19166000",
     "longitude": "-1.70734000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51504,
+    "name": "Studley",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.27026000",
+    "longitude": "-1.89188000",
     "wikiDataId": null
   },
   {
@@ -77,14 +330,14 @@
     "wikiDataId": null
   },
   {
-    "id": 51761,
-    "name": "Warwickshire",
+    "id": 51767,
+    "name": "Water Orton",
     "state_id": 2505,
     "state_code": "WAR",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.33333000",
-    "longitude": "-1.58333000",
+    "latitude": "52.51575000",
+    "longitude": "-1.74005000",
     "wikiDataId": null
   },
   {
@@ -118,6 +371,17 @@
     "country_code": "GB",
     "latitude": "52.22081000",
     "longitude": "-1.76528000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51962,
+    "name": "Wolston",
+    "state_id": 2505,
+    "state_code": "WAR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.37717000",
+    "longitude": "-1.39544000",
     "wikiDataId": null
   },
   {

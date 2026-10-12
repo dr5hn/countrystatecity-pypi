@@ -221,7 +221,7 @@
   },
   {
     "id": 68716,
-    "name": "Cadereyta",
+    "name": "Cadereyta de Montes",
     "state_id": 3455,
     "state_code": "QUE",
     "country_id": 142,
@@ -316,6 +316,17 @@
     "country_code": "MX",
     "latitude": "20.76512000",
     "longitude": "-100.33588000",
+    "wikiDataId": null
+  },
+  {
+    "id": 69095,
+    "name": "Chitejé de Garabato",
+    "state_id": 3455,
+    "state_code": "QUE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.10111000",
+    "longitude": "-100.18899000",
     "wikiDataId": null
   },
   {
@@ -426,17 +437,6 @@
     "country_code": "MX",
     "latitude": "20.61834000",
     "longitude": "-99.87242000",
-    "wikiDataId": null
-  },
-  {
-    "id": 69912,
-    "name": "El Colorado",
-    "state_id": 3455,
-    "state_code": "QUE",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "20.56185000",
-    "longitude": "-100.24520000",
     "wikiDataId": null
   },
   {
@@ -617,7 +617,7 @@
   },
   {
     "id": 70204,
-    "name": "El Saúz",
+    "name": "El Sauz",
     "state_id": 3455,
     "state_code": "QUE",
     "country_id": 142,
@@ -649,6 +649,17 @@
     "wikiDataId": null
   },
   {
+    "id": 76296,
+    "name": "El Zamorano",
+    "state_id": 3455,
+    "state_code": "QUE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.80819000",
+    "longitude": "-100.11797000",
+    "wikiDataId": null
+  },
+  {
     "id": 70311,
     "name": "Epigmenio González",
     "state_id": 3455,
@@ -661,7 +672,7 @@
   },
   {
     "id": 70319,
-    "name": "Escolasticas",
+    "name": "Escolásticas",
     "state_id": 3455,
     "state_code": "QUE",
     "country_id": 142,
@@ -726,14 +737,14 @@
     "wikiDataId": null
   },
   {
-    "id": 70541,
+    "id": 69912,
     "name": "General Lázaro Cárdenas (El Colorado)",
     "state_id": 3455,
     "state_code": "QUE",
     "country_id": 142,
     "country_code": "MX",
-    "latitude": "20.56389000",
-    "longitude": "-100.24389000",
+    "latitude": "20.56185000",
+    "longitude": "-100.24520000",
     "wikiDataId": null
   },
   {
@@ -793,7 +804,7 @@
   },
   {
     "id": 70979,
-    "name": "Jalpan",
+    "name": "Jalpan de Serra",
     "state_id": 3455,
     "state_code": "QUE",
     "country_id": 142,
@@ -1496,17 +1507,6 @@
     "wikiDataId": null
   },
   {
-    "id": 72977,
-    "name": "Puerto de Carroza",
-    "state_id": 3455,
-    "state_code": "QUE",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "20.89862000",
-    "longitude": "-100.41164000",
-    "wikiDataId": null
-  },
-  {
     "id": 72978,
     "name": "Puerto de Chiquihuite",
     "state_id": 3455,
@@ -1515,17 +1515,6 @@
     "country_code": "MX",
     "latitude": "20.70083000",
     "longitude": "-99.83528000",
-    "wikiDataId": null
-  },
-  {
-    "id": 72979,
-    "name": "Puerto de Nieto",
-    "state_id": 3455,
-    "state_code": "QUE",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "20.88975000",
-    "longitude": "-100.53814000",
     "wikiDataId": null
   },
   {
@@ -1695,7 +1684,7 @@
   },
   {
     "id": 73736,
-    "name": "San Jose de los Olvera",
+    "name": "San José de los Olvera",
     "state_id": 3455,
     "state_code": "QUE",
     "country_id": 142,
@@ -1992,7 +1981,7 @@
   },
   {
     "id": 74843,
-    "name": "Santa Rosa Jauregui",
+    "name": "Santa Rosa Jáuregui",
     "state_id": 3455,
     "state_code": "QUE",
     "country_id": 142,
@@ -2208,17 +2197,6 @@
     "country_code": "MX",
     "latitude": "20.17083000",
     "longitude": "-99.95222000",
-    "wikiDataId": null
-  },
-  {
-    "id": 76296,
-    "name": "Zamorano",
-    "state_id": 3455,
-    "state_code": "QUE",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "20.80819000",
-    "longitude": "-100.11797000",
     "wikiDataId": null
   }
 ]

@@ -1,13 +1,24 @@
 [
   {
-    "id": 56318,
-    "name": "Agam",
+    "id": 164810,
+    "name": "Arosuka",
     "state_id": 1828,
     "state_code": "SB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-0.25000000",
-    "longitude": "100.16667000",
+    "latitude": "-0.95221000",
+    "longitude": "100.62100000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164814,
+    "name": "Batusangkar",
+    "state_id": 1828,
+    "state_code": "SB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-0.46060000",
+    "longitude": "100.61070000",
     "wikiDataId": null
   },
   {
@@ -22,17 +33,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56398,
-    "name": "Dharmasraya",
-    "state_id": 1828,
-    "state_code": "SB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.05000000",
-    "longitude": "101.36700000",
-    "wikiDataId": null
-  },
-  {
     "id": 56631,
     "name": "Kabupaten Sijunjung",
     "state_id": 1828,
@@ -41,17 +41,6 @@
     "country_code": "ID",
     "latitude": "-1.18270000",
     "longitude": "101.60560000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56638,
-    "name": "Kabupaten Solok",
-    "state_id": 1828,
-    "state_code": "SB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-0.96667000",
-    "longitude": "100.81667000",
     "wikiDataId": null
   },
   {
@@ -66,14 +55,14 @@
     "wikiDataId": null
   },
   {
-    "id": 56494,
-    "name": "Lima Puluh Kota",
+    "id": 56318,
+    "name": "Lubuk Basung",
     "state_id": 1828,
     "state_code": "SB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-0.01680000",
-    "longitude": "100.58720000",
+    "latitude": "-0.31523584",
+    "longitude": "100.02960514",
     "wikiDataId": null
   },
   {
@@ -88,14 +77,36 @@
     "wikiDataId": null
   },
   {
-    "id": 56571,
-    "name": "Padang Pariaman",
+    "id": 56639,
+    "name": "Padang Aro",
     "state_id": 1828,
     "state_code": "SB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-0.60000000",
-    "longitude": "100.28333000",
+    "latitude": "-1.53333333",
+    "longitude": "101.26666667",
+    "wikiDataId": null
+  },
+  {
+    "id": 164801,
+    "name": "Padangpanjang",
+    "state_id": 1828,
+    "state_code": "SB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-0.45602000",
+    "longitude": "100.40521000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164819,
+    "name": "Painan",
+    "state_id": 1828,
+    "state_code": "SB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.35172000",
+    "longitude": "100.57383000",
     "wikiDataId": null
   },
   {
@@ -110,6 +121,17 @@
     "wikiDataId": null
   },
   {
+    "id": 56571,
+    "name": "Parik Malintang",
+    "state_id": 1828,
+    "state_code": "SB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-0.61666667",
+    "longitude": "100.28333333",
+    "wikiDataId": null
+  },
+  {
     "id": 56579,
     "name": "Pasaman",
     "state_id": 1828,
@@ -118,17 +140,6 @@
     "country_code": "ID",
     "latitude": "0.42503000",
     "longitude": "99.94606000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56580,
-    "name": "Pasaman Barat",
-    "state_id": 1828,
-    "state_code": "SB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "0.28152000",
-    "longitude": "99.51965000",
     "wikiDataId": null
   },
   {
@@ -143,14 +154,25 @@
     "wikiDataId": null
   },
   {
-    "id": 56592,
-    "name": "Pesisir Selatan",
+    "id": 56398,
+    "name": "Pulau Punjung",
     "state_id": 1828,
     "state_code": "SB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-1.58333000",
-    "longitude": "100.85000000",
+    "latitude": "-0.95900000",
+    "longitude": "101.50020000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56494,
+    "name": "Sarilamak",
+    "state_id": 1828,
+    "state_code": "SB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-0.15000000",
+    "longitude": "100.66666667",
     "wikiDataId": null
   },
   {
@@ -165,6 +187,17 @@
     "wikiDataId": null
   },
   {
+    "id": 164823,
+    "name": "Simpang Empat",
+    "state_id": 1828,
+    "state_code": "SB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.09703000",
+    "longitude": "99.82339000",
+    "wikiDataId": null
+  },
+  {
     "id": 56993,
     "name": "Solok",
     "state_id": 1828,
@@ -173,28 +206,6 @@
     "country_code": "ID",
     "latitude": "-0.80060000",
     "longitude": "100.65710000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56639,
-    "name": "Solok Selatan",
-    "state_id": 1828,
-    "state_code": "SB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.23333000",
-    "longitude": "101.41700000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56664,
-    "name": "Tanah Datar",
-    "state_id": 1828,
-    "state_code": "SB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-0.45550000",
-    "longitude": "100.57710000",
     "wikiDataId": null
   }
 ]

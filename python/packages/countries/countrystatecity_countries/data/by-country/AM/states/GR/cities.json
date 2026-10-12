@@ -89,7 +89,7 @@
   },
   {
     "id": 387,
-    "name": "Gavarr",
+    "name": "Gavar",
     "state_id": 2028,
     "state_code": "GR",
     "country_id": 12,
@@ -341,6 +341,17 @@
     "wikiDataId": null
   },
   {
+    "id": 555,
+    "name": "Vardadzor",
+    "state_id": 2028,
+    "state_code": "GR",
+    "country_id": 12,
+    "country_code": "AM",
+    "latitude": "40.18701000",
+    "longitude": "45.19212000",
+    "wikiDataId": null
+  },
+  {
     "id": 556,
     "name": "Vardenik",
     "state_id": 2028,
@@ -393,6 +404,17 @@
     "country_code": "AM",
     "latitude": "40.20428000",
     "longitude": "45.19209000",
+    "wikiDataId": null
+  },
+  {
+    "id": 587,
+    "name": "Zovaber",
+    "state_id": 2028,
+    "state_code": "GR",
+    "country_id": 12,
+    "country_code": "AM",
+    "latitude": "40.56671000",
+    "longitude": "44.79028000",
     "wikiDataId": null
   }
 ]

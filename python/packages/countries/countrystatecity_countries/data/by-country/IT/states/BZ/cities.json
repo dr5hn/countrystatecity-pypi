@@ -33,6 +33,17 @@
     "wikiDataId": null
   },
   {
+    "id": 166049,
+    "name": "Appiano sulla strada del vino/Eppan an der Weinstraße",
+    "state_id": 5639,
+    "state_code": "BZ",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "46.45533300",
+    "longitude": "11.25904900",
+    "wikiDataId": null
+  },
+  {
     "id": 135698,
     "name": "Avelengo",
     "state_id": 5639,
@@ -56,7 +67,7 @@
   },
   {
     "id": 135831,
-    "name": "Barbiano - Barbian",
+    "name": "Barbiano/Barbian",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -89,7 +100,7 @@
   },
   {
     "id": 136305,
-    "name": "Brennero - Brenner",
+    "name": "Brennero/Brenner",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -320,7 +331,7 @@
   },
   {
     "id": 138028,
-    "name": "Cornedo All'Isarco",
+    "name": "Cornedo all'Isarco/Karneid",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -430,7 +441,7 @@
   },
   {
     "id": 138751,
-    "name": "Funes - Villnoess",
+    "name": "Funes/Villnöß",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -485,7 +496,7 @@
   },
   {
     "id": 139307,
-    "name": "La Valle - Wengen",
+    "name": "La Valle/Wengen",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -595,7 +606,7 @@
   },
   {
     "id": 139678,
-    "name": "Luson - Luesen",
+    "name": "Luson/Lüsen",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -627,6 +638,17 @@
     "wikiDataId": null
   },
   {
+    "id": 166050,
+    "name": "Marebbe/Enneberg",
+    "state_id": 5639,
+    "state_code": "BZ",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "46.69800000",
+    "longitude": "11.93123000",
+    "wikiDataId": null
+  },
+  {
     "id": 139903,
     "name": "Marlengo",
     "state_id": 5639,
@@ -635,6 +657,17 @@
     "country_code": "IT",
     "latitude": "46.65262000",
     "longitude": "11.14546000",
+    "wikiDataId": null
+  },
+  {
+    "id": 166051,
+    "name": "Martello/Martell",
+    "state_id": 5639,
+    "state_code": "BZ",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "46.56559500",
+    "longitude": "10.78301700",
     "wikiDataId": null
   },
   {
@@ -672,7 +705,7 @@
   },
   {
     "id": 140291,
-    "name": "Monguelfo",
+    "name": "Monguelfo-Tesido/Welsberg-Taisten",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -683,7 +716,7 @@
   },
   {
     "id": 140308,
-    "name": "Montagna",
+    "name": "Montagna sulla strada del vino/Montan an der Weinstraße",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -738,7 +771,7 @@
   },
   {
     "id": 140732,
-    "name": "Naz-Sciaves - Natz-Schabs",
+    "name": "Naz-Sciaves/Natz-Schabs",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -891,6 +924,17 @@
     "wikiDataId": null
   },
   {
+    "id": 59098,
+    "name": "Proves/Proveis",
+    "state_id": 5639,
+    "state_code": "BZ",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "46.47661000",
+    "longitude": "11.02247000",
+    "wikiDataId": null
+  },
+  {
     "id": 59254,
     "name": "Rablà",
     "state_id": 5639,
@@ -925,7 +969,7 @@
   },
   {
     "id": 59292,
-    "name": "Rasun Anterselva - Rasen-Antholz",
+    "name": "Rasun-Anterselva/Rasen-Antholz",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -936,7 +980,7 @@
   },
   {
     "id": 59333,
-    "name": "Renon - Ritten",
+    "name": "Renon/Ritten",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -991,24 +1035,24 @@
   },
   {
     "id": 59549,
-    "name": "Rodengo",
-    "state_id": 5639,
-    "state_code": "BZ",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "46.80000000",
-    "longitude": "11.70000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 59550,
-    "name": "Rodengo - Rodeneck",
+    "name": "Rodengo/Rodeneck",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
     "country_code": "IT",
     "latitude": "46.77953000",
     "longitude": "11.69048000",
+    "wikiDataId": null
+  },
+  {
+    "id": 59779,
+    "name": "Salorno sulla strada del vino/Salurn an der Weinstraße",
+    "state_id": 5639,
+    "state_code": "BZ",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "46.24062000",
+    "longitude": "11.21192000",
     "wikiDataId": null
   },
   {
@@ -1134,7 +1178,7 @@
   },
   {
     "id": 60151,
-    "name": "San Pancrazio",
+    "name": "San Pancrazio/St. Pankraz",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -1442,7 +1486,7 @@
   },
   {
     "id": 61546,
-    "name": "Trodena",
+    "name": "Trodena nel parco naturale/Truden im Naturpark",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -1464,7 +1508,7 @@
   },
   {
     "id": 61595,
-    "name": "Ultimo - Ulten",
+    "name": "Ultimo/Ulten",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -1485,6 +1529,17 @@
     "wikiDataId": null
   },
   {
+    "id": 166053,
+    "name": "Val di Vizze/Pfitsch",
+    "state_id": 5639,
+    "state_code": "BZ",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "46.89999500",
+    "longitude": "11.45930100",
+    "wikiDataId": null
+  },
+  {
     "id": 61651,
     "name": "Valdaora di Mezzo",
     "state_id": 5639,
@@ -1496,8 +1551,19 @@
     "wikiDataId": null
   },
   {
+    "id": 166052,
+    "name": "Valdaora/Olang",
+    "state_id": 5639,
+    "state_code": "BZ",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "46.76118300",
+    "longitude": "12.03041100",
+    "wikiDataId": null
+  },
+  {
     "id": 61685,
-    "name": "Valle Aurina - Ahrntal",
+    "name": "Valle Aurina/Ahrntal",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
@@ -1508,24 +1574,13 @@
   },
   {
     "id": 61697,
-    "name": "Valle di Casies - Gsies",
+    "name": "Valle di Casies/Gsies",
     "state_id": 5639,
     "state_code": "BZ",
     "country_id": 107,
     "country_code": "IT",
     "latitude": "46.76833000",
     "longitude": "12.17939000",
-    "wikiDataId": null
-  },
-  {
-    "id": 61751,
-    "name": "Vandoies - Vintl",
-    "state_id": 5639,
-    "state_code": "BZ",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "46.81513000",
-    "longitude": "11.72068000",
     "wikiDataId": null
   },
   {
@@ -1537,6 +1592,17 @@
     "country_code": "IT",
     "latitude": "46.81600000",
     "longitude": "11.72183000",
+    "wikiDataId": null
+  },
+  {
+    "id": 61751,
+    "name": "Vandoies/Vintl",
+    "state_id": 5639,
+    "state_code": "BZ",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "46.81513000",
+    "longitude": "11.72068000",
     "wikiDataId": null
   },
   {

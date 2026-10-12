@@ -1,5 +1,38 @@
 [
   {
+    "id": 48281,
+    "name": "Arnold",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.00000000",
+    "longitude": "-1.13333000",
+    "wikiDataId": null
+  },
+  {
+    "id": 48302,
+    "name": "Aslockton",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.95299000",
+    "longitude": "-0.89700000",
+    "wikiDataId": null
+  },
+  {
+    "id": 48321,
+    "name": "Awsworth",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.98912000",
+    "longitude": "-1.28354000",
+    "wikiDataId": null
+  },
+  {
     "id": 48329,
     "name": "Babworth",
     "state_id": 2456,
@@ -11,14 +44,14 @@
     "wikiDataId": null
   },
   {
-    "id": 48424,
-    "name": "Bassingham",
+    "id": 48445,
+    "name": "Beckingham",
     "state_id": 2456,
     "state_code": "NTT",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.12881000",
-    "longitude": "-0.63765000",
+    "latitude": "53.40000000",
+    "longitude": "-0.83333000",
     "wikiDataId": null
   },
   {
@@ -33,6 +66,28 @@
     "wikiDataId": null
   },
   {
+    "id": 48514,
+    "name": "Bingham",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.94978000",
+    "longitude": "-0.95907000",
+    "wikiDataId": null
+  },
+  {
+    "id": 48517,
+    "name": "Bircotes",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.41933000",
+    "longitude": "-1.04905000",
+    "wikiDataId": null
+  },
+  {
     "id": 48569,
     "name": "Blidworth",
     "state_id": 2456,
@@ -41,17 +96,6 @@
     "country_code": "GB",
     "latitude": "53.09849000",
     "longitude": "-1.11689000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48586,
-    "name": "Bolsover",
-    "state_id": 2456,
-    "state_code": "NTT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.22846000",
-    "longitude": "-1.29204000",
     "wikiDataId": null
   },
   {
@@ -66,6 +110,28 @@
     "wikiDataId": null
   },
   {
+    "id": 48789,
+    "name": "Burton Joyce",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.98825000",
+    "longitude": "-1.03407000",
+    "wikiDataId": null
+  },
+  {
+    "id": 48828,
+    "name": "Calverton",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.03728000",
+    "longitude": "-1.08263000",
+    "wikiDataId": null
+  },
+  {
     "id": 49018,
     "name": "Clarborough",
     "state_id": 2456,
@@ -77,25 +143,47 @@
     "wikiDataId": null
   },
   {
-    "id": 49022,
-    "name": "Claypole",
+    "id": 49114,
+    "name": "Cotgrave",
     "state_id": 2456,
     "state_code": "NTT",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.03144000",
-    "longitude": "-0.73407000",
+    "latitude": "52.90859000",
+    "longitude": "-1.03752000",
     "wikiDataId": null
   },
   {
-    "id": 49153,
-    "name": "Creswell",
+    "id": 49170,
+    "name": "Cropwell Bishop",
     "state_id": 2456,
     "state_code": "NTT",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.26287000",
-    "longitude": "-1.21987000",
+    "latitude": "52.91480000",
+    "longitude": "-0.98482000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49388,
+    "name": "East Bridgford",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.97954000",
+    "longitude": "-0.96563000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49402,
+    "name": "East Leake",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.83015000",
+    "longitude": "-1.18103000",
     "wikiDataId": null
   },
   {
@@ -107,6 +195,17 @@
     "country_code": "GB",
     "latitude": "53.25221000",
     "longitude": "-0.89385000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49427,
+    "name": "Eastwood",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.00000000",
+    "longitude": "-1.30000000",
     "wikiDataId": null
   },
   {
@@ -143,14 +242,14 @@
     "wikiDataId": null
   },
   {
-    "id": 49649,
-    "name": "Glapwell",
+    "id": 49690,
+    "name": "Gotham",
     "state_id": 2456,
     "state_code": "NTT",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.18917000",
-    "longitude": "-1.28334000",
+    "latitude": "52.86799000",
+    "longitude": "-1.20558000",
     "wikiDataId": null
   },
   {
@@ -162,6 +261,39 @@
     "country_code": "GB",
     "latitude": "53.27372000",
     "longitude": "-1.04320000",
+    "wikiDataId": null
+  },
+  {
+    "id": 50017,
+    "name": "Hucknall",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.03333000",
+    "longitude": "-1.20000000",
+    "wikiDataId": null
+  },
+  {
+    "id": 50133,
+    "name": "Keyworth",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.87122000",
+    "longitude": "-1.08991000",
+    "wikiDataId": null
+  },
+  {
+    "id": 50156,
+    "name": "Kimberley",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.98333000",
+    "longitude": "-1.26667000",
     "wikiDataId": null
   },
   {
@@ -187,14 +319,14 @@
     "wikiDataId": null
   },
   {
-    "id": 50391,
-    "name": "Long Bennington",
+    "id": 50423,
+    "name": "Lowdham",
     "state_id": 2456,
     "state_code": "NTT",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.99314000",
-    "longitude": "-0.75803000",
+    "latitude": "53.01205000",
+    "longitude": "-1.00483000",
     "wikiDataId": null
   },
   {
@@ -231,6 +363,17 @@
     "wikiDataId": null
   },
   {
+    "id": 50604,
+    "name": "Misterton",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.44492000",
+    "longitude": "-0.85032000",
+    "wikiDataId": null
+  },
+  {
     "id": 50698,
     "name": "Newark on Trent",
     "state_id": 2456,
@@ -253,14 +396,14 @@
     "wikiDataId": null
   },
   {
-    "id": 50787,
-    "name": "Nottinghamshire",
+    "id": 51017,
+    "name": "Radcliffe on Trent",
     "state_id": 2456,
     "state_code": "NTT",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.16667000",
-    "longitude": "-1.00000000",
+    "latitude": "52.94802000",
+    "longitude": "-1.03855000",
     "wikiDataId": null
   },
   {
@@ -272,6 +415,17 @@
     "country_code": "GB",
     "latitude": "53.11883000",
     "longitude": "-1.11852000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51031,
+    "name": "Ranskill",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.38281000",
+    "longitude": "-1.01402000",
     "wikiDataId": null
   },
   {
@@ -297,36 +451,14 @@
     "wikiDataId": null
   },
   {
-    "id": 51206,
-    "name": "Saxilby",
+    "id": 51138,
+    "name": "Ruddington",
     "state_id": 2456,
     "state_code": "NTT",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.26746000",
-    "longitude": "-0.66253000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51287,
-    "name": "Shirebrook",
-    "state_id": 2456,
-    "state_code": "NTT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.20333000",
-    "longitude": "-1.21336000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51319,
-    "name": "Skellingthorpe",
-    "state_id": 2456,
-    "state_code": "NTT",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.23531000",
-    "longitude": "-0.61905000",
+    "latitude": "52.89254000",
+    "longitude": "-1.14953000",
     "wikiDataId": null
   },
   {
@@ -349,6 +481,17 @@
     "country_code": "GB",
     "latitude": "53.07804000",
     "longitude": "-0.95538000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51519,
+    "name": "Sutton Bonington",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.82144000",
+    "longitude": "-1.24969000",
     "wikiDataId": null
   },
   {
@@ -404,6 +547,17 @@
     "country_code": "GB",
     "latitude": "53.21402000",
     "longitude": "-1.15091000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51807,
+    "name": "West Bridgford",
+    "state_id": 2456,
+    "state_code": "NTT",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.92979000",
+    "longitude": "-1.12537000",
     "wikiDataId": null
   },
   {

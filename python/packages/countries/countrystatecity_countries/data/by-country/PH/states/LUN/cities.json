@@ -1,13 +1,24 @@
 [
   {
+    "id": 81142,
+    "name": "Acao",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.52436000",
+    "longitude": "120.35967000",
+    "wikiDataId": null
+  },
+  {
     "id": 145788,
     "name": "Agoo",
     "state_id": 1317,
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.33614330",
-    "longitude": "120.32866980",
+    "latitude": "16.32196111",
+    "longitude": "120.36467500",
     "wikiDataId": null
   },
   {
@@ -17,8 +28,8 @@
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.41146870",
-    "longitude": "120.31937570",
+    "latitude": "16.39880000",
+    "longitude": "120.37020000",
     "wikiDataId": null
   },
   {
@@ -28,8 +39,8 @@
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.74118340",
-    "longitude": "120.30198850",
+    "latitude": "16.71968889",
+    "longitude": "120.34808611",
     "wikiDataId": null
   },
   {
@@ -44,14 +55,25 @@
     "wikiDataId": null
   },
   {
+    "id": 81420,
+    "name": "Bail",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.27460000",
+    "longitude": "120.42020000",
+    "wikiDataId": null
+  },
+  {
     "id": 145814,
     "name": "Balaoan",
     "state_id": 1317,
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.80407950",
-    "longitude": "120.30901140",
+    "latitude": "16.82200000",
+    "longitude": "120.40300000",
     "wikiDataId": null
   },
   {
@@ -61,8 +83,8 @@
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.87838470",
-    "longitude": "120.39295890",
+    "latitude": "16.89300000",
+    "longitude": "120.42300000",
     "wikiDataId": null
   },
   {
@@ -83,8 +105,19 @@
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.51504470",
-    "longitude": "120.43624770",
+    "latitude": "16.52500000",
+    "longitude": "120.45833333",
+    "wikiDataId": null
+  },
+  {
+    "id": 81926,
+    "name": "Butubut Norte",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.81790000",
+    "longitude": "120.43320000",
     "wikiDataId": null
   },
   {
@@ -94,8 +127,107 @@
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.44088260",
-    "longitude": "120.30396900",
+    "latitude": "16.43540000",
+    "longitude": "120.34560000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82129,
+    "name": "Cantoria",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.84410000",
+    "longitude": "120.40450000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82177,
+    "name": "Caronoan West",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.26330000",
+    "longitude": "120.44630000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82297,
+    "name": "Corrooy",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.79620000",
+    "longitude": "120.44530000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82339,
+    "name": "Dagup",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.63722000",
+    "longitude": "120.44556000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82363,
+    "name": "Damortis",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.24051000",
+    "longitude": "120.40565000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82675,
+    "name": "Halog West",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.36680000",
+    "longitude": "120.41470000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82739,
+    "name": "Inabaan Sur",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.26300000",
+    "longitude": "120.47810000",
+    "wikiDataId": null
+  },
+  {
+    "id": 83068,
+    "name": "Leones East",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.36430000",
+    "longitude": "120.40020000",
+    "wikiDataId": null
+  },
+  {
+    "id": 83154,
+    "name": "Lloren",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.33200000",
+    "longitude": "120.44670000",
     "wikiDataId": null
   },
   {
@@ -110,6 +242,39 @@
     "wikiDataId": null
   },
   {
+    "id": 145957,
+    "name": "Luna",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.85000000",
+    "longitude": "120.38333333",
+    "wikiDataId": null
+  },
+  {
+    "id": 83249,
+    "name": "Luzong Sur",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.86700000",
+    "longitude": "120.44200000",
+    "wikiDataId": null
+  },
+  {
+    "id": 83301,
+    "name": "Macalva Norte",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.34850000",
+    "longitude": "120.38660000",
+    "wikiDataId": null
+  },
+  {
     "id": 154569,
     "name": "Naguilian",
     "state_id": 1317,
@@ -121,14 +286,91 @@
     "wikiDataId": null
   },
   {
+    "id": 145990,
+    "name": "Naguilian",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.53333333",
+    "longitude": "120.40000000",
+    "wikiDataId": null
+  },
+  {
+    "id": 83766,
+    "name": "Namboongan",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.30330000",
+    "longitude": "120.37580000",
+    "wikiDataId": null
+  },
+  {
+    "id": 83834,
+    "name": "Oaqui",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.85830000",
+    "longitude": "120.41240000",
+    "wikiDataId": null
+  },
+  {
+    "id": 84022,
+    "name": "Paringao",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.56450000",
+    "longitude": "120.32540000",
+    "wikiDataId": null
+  },
+  {
+    "id": 84069,
+    "name": "Payocpoc Sur",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.49444000",
+    "longitude": "120.32806000",
+    "wikiDataId": null
+  },
+  {
     "id": 146033,
     "name": "Pugo",
     "state_id": 1317,
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.32067460",
-    "longitude": "120.40029370",
+    "latitude": "16.32220000",
+    "longitude": "120.46800000",
+    "wikiDataId": null
+  },
+  {
+    "id": 84338,
+    "name": "Rimus",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.87640000",
+    "longitude": "120.39660000",
+    "wikiDataId": null
+  },
+  {
+    "id": 84340,
+    "name": "Rissing",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.86520000",
+    "longitude": "120.42280000",
     "wikiDataId": null
   },
   {
@@ -138,8 +380,19 @@
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.25208970",
-    "longitude": "120.37562910",
+    "latitude": "16.23050000",
+    "longitude": "120.48660000",
+    "wikiDataId": null
+  },
+  {
+    "id": 84471,
+    "name": "San Eugenio",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.37150000",
+    "longitude": "120.36270000",
     "wikiDataId": null
   },
   {
@@ -149,8 +402,19 @@
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.60841830",
-    "longitude": "120.27705910",
+    "latitude": "16.61666667",
+    "longitude": "120.31666667",
+    "wikiDataId": null
+  },
+  {
+    "id": 146058,
+    "name": "San Fernando Poblacion",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.61591000",
+    "longitude": "120.31663000",
     "wikiDataId": null
   },
   {
@@ -165,6 +429,17 @@
     "wikiDataId": null
   },
   {
+    "id": 146063,
+    "name": "San Juan",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.66861000",
+    "longitude": "120.34139000",
+    "wikiDataId": null
+  },
+  {
     "id": 154572,
     "name": "San Juan",
     "state_id": 1317,
@@ -173,6 +448,17 @@
     "country_code": "PH",
     "latitude": "16.66942090",
     "longitude": "120.29936580",
+    "wikiDataId": null
+  },
+  {
+    "id": 146085,
+    "name": "Santo Tomas",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.27980000",
+    "longitude": "120.37920000",
     "wikiDataId": null
   },
   {
@@ -193,8 +479,19 @@
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.76492150",
-    "longitude": "120.40582320",
+    "latitude": "16.77040000",
+    "longitude": "120.46740000",
+    "wikiDataId": null
+  },
+  {
+    "id": 84856,
+    "name": "Subusub",
+    "state_id": 1317,
+    "state_code": "LUN",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "16.22689000",
+    "longitude": "120.49513000",
     "wikiDataId": null
   },
   {
@@ -204,8 +501,8 @@
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.85439840",
-    "longitude": "120.41354260",
+    "latitude": "16.90000000",
+    "longitude": "120.46666667",
     "wikiDataId": null
   },
   {
@@ -215,8 +512,8 @@
     "state_code": "LUN",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "16.34900490",
-    "longitude": "120.38316140",
+    "latitude": "16.35000000",
+    "longitude": "120.41666667",
     "wikiDataId": null
   }
 ]

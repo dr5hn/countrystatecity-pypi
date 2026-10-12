@@ -1,5 +1,16 @@
 [
   {
+    "id": 110143,
+    "name": "Aidar",
+    "state_id": 4673,
+    "state_code": "09",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "49.54640000",
+    "longitude": "39.08987000",
+    "wikiDataId": null
+  },
+  {
     "id": 109311,
     "name": "Alchevs’k",
     "state_id": 4673,
@@ -56,7 +67,7 @@
   },
   {
     "id": 109359,
-    "name": "Bayrachky",
+    "name": "Bairachky",
     "state_id": 4673,
     "state_code": "09",
     "country_id": 230,
@@ -143,17 +154,6 @@
     "wikiDataId": null
   },
   {
-    "id": 109502,
-    "name": "Chervonopartyzans’k",
-    "state_id": 4673,
-    "state_code": "09",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "48.07613000",
-    "longitude": "39.79618000",
-    "wikiDataId": null
-  },
-  {
     "id": 109515,
     "name": "Chornukhyne",
     "state_id": 4673,
@@ -198,6 +198,17 @@
     "wikiDataId": null
   },
   {
+    "id": 109854,
+    "name": "Khrustalnyi",
+    "state_id": 4673,
+    "state_code": "09",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "48.13954000",
+    "longitude": "38.93715000",
+    "wikiDataId": null
+  },
+  {
     "id": 109754,
     "name": "Kirovs’k",
     "state_id": 4673,
@@ -221,7 +232,7 @@
   },
   {
     "id": 109760,
-    "name": "Klenovyy",
+    "name": "Klenovyi",
     "state_id": 4673,
     "state_code": "09",
     "country_id": 230,
@@ -232,24 +243,13 @@
   },
   {
     "id": 109853,
-    "name": "Krasnyy Kut",
+    "name": "Krasnyi Kut",
     "state_id": 4673,
     "state_code": "09",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "48.20138000",
     "longitude": "38.79765000",
-    "wikiDataId": null
-  },
-  {
-    "id": 109854,
-    "name": "Krasnyy Luch",
-    "state_id": 4673,
-    "state_code": "09",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "48.13954000",
-    "longitude": "38.93715000",
     "wikiDataId": null
   },
   {
@@ -272,17 +272,6 @@
     "country_code": "UA",
     "latitude": "48.07709000",
     "longitude": "39.05800000",
-    "wikiDataId": null
-  },
-  {
-    "id": 109911,
-    "name": "Lenina",
-    "state_id": 4673,
-    "state_code": "09",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "48.42944000",
-    "longitude": "39.14556000",
     "wikiDataId": null
   },
   {
@@ -363,6 +352,17 @@
     "wikiDataId": null
   },
   {
+    "id": 109911,
+    "name": "Mariia",
+    "state_id": 4673,
+    "state_code": "09",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "48.42944000",
+    "longitude": "39.14556000",
+    "wikiDataId": null
+  },
+  {
     "id": 110001,
     "name": "Markivka",
     "state_id": 4673,
@@ -407,36 +407,25 @@
     "wikiDataId": null
   },
   {
-    "id": 110049,
-    "name": "Molodohvardiys’k",
-    "state_id": 4673,
-    "state_code": "09",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "48.34511000",
-    "longitude": "39.65244000",
-    "wikiDataId": null
-  },
-  {
-    "id": 110143,
-    "name": "Novopskov",
-    "state_id": 4673,
-    "state_code": "09",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "49.54640000",
-    "longitude": "39.08987000",
-    "wikiDataId": null
-  },
-  {
     "id": 110166,
-    "name": "Nyzhnya Duvanka",
+    "name": "Nyzhnia Duvanka",
     "state_id": 4673,
     "state_code": "09",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "49.58464000",
     "longitude": "38.17429000",
+    "wikiDataId": null
+  },
+  {
+    "id": 110049,
+    "name": "Otamanivka",
+    "state_id": 4673,
+    "state_code": "09",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "48.34511000",
+    "longitude": "39.65244000",
     "wikiDataId": null
   },
   {
@@ -485,7 +474,7 @@
   },
   {
     "id": 110324,
-    "name": "Pryvillya",
+    "name": "Pryvillia",
     "state_id": 4673,
     "state_code": "09",
     "country_id": 230,
@@ -616,6 +605,17 @@
     "wikiDataId": null
   },
   {
+    "id": 165630,
+    "name": "Sukhodilsk",
+    "state_id": 4673,
+    "state_code": "09",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "48.35083000",
+    "longitude": "39.72573000",
+    "wikiDataId": null
+  },
+  {
     "id": 110572,
     "name": "Svatove",
     "state_id": 4673,
@@ -715,14 +715,14 @@
     "wikiDataId": null
   },
   {
-    "id": 110812,
-    "name": "Zalesnoye",
+    "id": 109502,
+    "name": "Voznesenivka",
     "state_id": 4673,
     "state_code": "09",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "48.03104000",
-    "longitude": "38.80934000",
+    "latitude": "48.07613000",
+    "longitude": "39.79618000",
     "wikiDataId": null
   },
   {

@@ -1,5 +1,18 @@
 [
   {
+    "id": 1530,
+    "name": "Capital Region of Denmark",
+    "country_id": 59,
+    "country_code": "DK",
+    "state_code": "84",
+    "type": "region",
+    "latitude": "55.93150733",
+    "longitude": "12.35011779",
+    "iso3166_2": "DK-84",
+    "native": "Danmark",
+    "timezone": "Europe/Copenhagen"
+  },
+  {
     "id": 1531,
     "name": "Central Denmark",
     "country_id": 59,
@@ -10,19 +23,6 @@
     "longitude": "9.23462500",
     "iso3166_2": "DK-82",
     "native": "Central Danmark",
-    "timezone": "Europe/Copenhagen"
-  },
-  {
-    "id": 1530,
-    "name": "Denmark",
-    "country_id": 59,
-    "country_code": "DK",
-    "state_code": "84",
-    "type": "region",
-    "latitude": "55.67024900",
-    "longitude": "10.33332830",
-    "iso3166_2": "DK-84",
-    "native": "Danmark",
     "timezone": "Europe/Copenhagen"
   },
   {

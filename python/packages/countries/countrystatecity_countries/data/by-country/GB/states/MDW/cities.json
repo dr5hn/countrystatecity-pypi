@@ -11,28 +11,6 @@
     "wikiDataId": null
   },
   {
-    "id": 48325,
-    "name": "Aylesford",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.30374000",
-    "longitude": "0.47936000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48769,
-    "name": "Burham",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.33243000",
-    "longitude": "0.47833000",
-    "wikiDataId": null
-  },
-  {
     "id": 48933,
     "name": "Chatham",
     "state_id": 2381,
@@ -88,6 +66,17 @@
     "wikiDataId": null
   },
   {
+    "id": 49695,
+    "name": "Grain",
+    "state_id": 2381,
+    "state_code": "MDW",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.45591000",
+    "longitude": "0.71126000",
+    "wikiDataId": null
+  },
+  {
     "id": 49787,
     "name": "Halling",
     "state_id": 2381,
@@ -121,28 +110,6 @@
     "wikiDataId": null
   },
   {
-    "id": 50091,
-    "name": "Iwade",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.37754000",
-    "longitude": "0.72935000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50165,
-    "name": "Kings Hill",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.27437000",
-    "longitude": "0.40237000",
-    "wikiDataId": null
-  },
-  {
     "id": 50251,
     "name": "Larkfield",
     "state_id": 2381,
@@ -151,61 +118,6 @@
     "country_code": "GB",
     "latitude": "51.30143000",
     "longitude": "0.44855000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50427,
-    "name": "Lower Halstow",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.37395000",
-    "longitude": "0.66819000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50536,
-    "name": "Medway",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.41667000",
-    "longitude": "0.50000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50549,
-    "name": "Meopham",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.36844000",
-    "longitude": "0.36007000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50715,
-    "name": "Newington",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.35217000",
-    "longitude": "0.66768000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51010,
-    "name": "Queenborough",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.41760000",
-    "longitude": "0.74441000",
     "wikiDataId": null
   },
   {
@@ -231,28 +143,6 @@
     "wikiDataId": null
   },
   {
-    "id": 51317,
-    "name": "Sittingbourne",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.34128000",
-    "longitude": "0.73282000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51337,
-    "name": "Snodland",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.32971000",
-    "longitude": "0.44305000",
-    "wikiDataId": null
-  },
-  {
     "id": 51502,
     "name": "Strood",
     "state_id": 2381,
@@ -261,50 +151,6 @@
     "country_code": "GB",
     "latitude": "51.39323000",
     "longitude": "0.47713000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51698,
-    "name": "Upchurch",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.37620000",
-    "longitude": "0.64789000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51770,
-    "name": "Wateringbury",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.25543000",
-    "longitude": "0.42317000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51827,
-    "name": "West Malling",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.29273000",
-    "longitude": "0.40907000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51994,
-    "name": "Wouldham",
-    "state_id": 2381,
-    "state_code": "MDW",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.34986000",
-    "longitude": "0.45816000",
     "wikiDataId": null
   }
 ]

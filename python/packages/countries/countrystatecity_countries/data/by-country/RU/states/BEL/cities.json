@@ -1,7 +1,7 @@
 [
   {
     "id": 97579,
-    "name": "Alekseyevka",
+    "name": "Alexeyevka",
     "state_id": 1903,
     "state_code": "BEL",
     "country_id": 182,
@@ -33,17 +33,6 @@
     "wikiDataId": null
   },
   {
-    "id": 97849,
-    "name": "Belgorodskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "50.50000000",
-    "longitude": "36.50000000",
-    "wikiDataId": null
-  },
-  {
     "id": 97914,
     "name": "Bessonovka",
     "state_id": 1903,
@@ -52,6 +41,17 @@
     "country_code": "RU",
     "latitude": "50.52644000",
     "longitude": "36.30107000",
+    "wikiDataId": null
+  },
+  {
+    "id": 99318,
+    "name": "Biryuch",
+    "state_id": 1903,
+    "state_code": "BEL",
+    "country_id": 182,
+    "country_code": "RU",
+    "latitude": "50.64920000",
+    "longitude": "38.40360000",
     "wikiDataId": null
   },
   {
@@ -66,17 +66,6 @@
     "wikiDataId": null
   },
   {
-    "id": 98029,
-    "name": "Borisovskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "50.58333000",
-    "longitude": "36.00000000",
-    "wikiDataId": null
-  },
-  {
     "id": 98178,
     "name": "Chernyanka",
     "state_id": 1903,
@@ -85,17 +74,6 @@
     "country_code": "RU",
     "latitude": "50.94095000",
     "longitude": "37.80693000",
-    "wikiDataId": null
-  },
-  {
-    "id": 98179,
-    "name": "Chernyanskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "51.00000000",
-    "longitude": "37.91667000",
     "wikiDataId": null
   },
   {
@@ -118,17 +96,6 @@
     "country_code": "RU",
     "latitude": "50.47670000",
     "longitude": "35.67730000",
-    "wikiDataId": null
-  },
-  {
-    "id": 98578,
-    "name": "Grayvoronskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "50.50000000",
-    "longitude": "35.66667000",
     "wikiDataId": null
   },
   {
@@ -165,17 +132,6 @@
     "wikiDataId": null
   },
   {
-    "id": 98740,
-    "name": "Ivnyanskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "51.00000000",
-    "longitude": "36.25000000",
-    "wikiDataId": null
-  },
-  {
     "id": 99212,
     "name": "Korocha",
     "state_id": 1903,
@@ -187,17 +143,6 @@
     "wikiDataId": null
   },
   {
-    "id": 99213,
-    "name": "Korochanskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "50.83333000",
-    "longitude": "37.25000000",
-    "wikiDataId": null
-  },
-  {
     "id": 99286,
     "name": "Krasnaya Yaruga",
     "state_id": 1903,
@@ -206,50 +151,6 @@
     "country_code": "RU",
     "latitude": "50.80083000",
     "longitude": "35.65833000",
-    "wikiDataId": null
-  },
-  {
-    "id": 99288,
-    "name": "Krasnenskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "50.91667000",
-    "longitude": "38.58333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 99314,
-    "name": "Krasnogvardeyskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "50.66667000",
-    "longitude": "38.33333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 99318,
-    "name": "Krasnogvardeyskoye",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "50.64920000",
-    "longitude": "38.40360000",
-    "wikiDataId": null
-  },
-  {
-    "id": 99348,
-    "name": "Krasnoyaruzhskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "50.83333000",
-    "longitude": "35.50000000",
     "wikiDataId": null
   },
   {
@@ -308,19 +209,8 @@
     "wikiDataId": null
   },
   {
-    "id": 100276,
-    "name": "Novooskol’skiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "50.75000000",
-    "longitude": "37.83333000",
-    "wikiDataId": null
-  },
-  {
     "id": 100348,
-    "name": "Novyy Oskol",
+    "name": "Novy Oskol",
     "state_id": 1903,
     "state_code": "BEL",
     "country_id": 182,
@@ -338,17 +228,6 @@
     "country_code": "RU",
     "latitude": "51.03741000",
     "longitude": "36.73252000",
-    "wikiDataId": null
-  },
-  {
-    "id": 100858,
-    "name": "Prokhorovskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "51.00447000",
-    "longitude": "36.74875000",
     "wikiDataId": null
   },
   {
@@ -385,17 +264,6 @@
     "wikiDataId": null
   },
   {
-    "id": 100933,
-    "name": "Rakityanskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "50.83333000",
-    "longitude": "35.91667000",
-    "wikiDataId": null
-  },
-  {
     "id": 100952,
     "name": "Razumnoye",
     "state_id": 1903,
@@ -415,6 +283,17 @@
     "country_code": "RU",
     "latitude": "51.23000000",
     "longitude": "38.38180000",
+    "wikiDataId": null
+  },
+  {
+    "id": 165472,
+    "name": "Roven’ki",
+    "state_id": 1903,
+    "state_code": "BEL",
+    "country_id": 182,
+    "country_code": "RU",
+    "latitude": "49.91786000",
+    "longitude": "38.90740000",
     "wikiDataId": null
   },
   {
@@ -572,17 +451,6 @@
     "wikiDataId": null
   },
   {
-    "id": 102359,
-    "name": "Volokonovskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "50.50000000",
-    "longitude": "37.83333000",
-    "wikiDataId": null
-  },
-  {
     "id": 102467,
     "name": "Yakovlevo",
     "state_id": 1903,
@@ -591,17 +459,6 @@
     "country_code": "RU",
     "latitude": "50.86033000",
     "longitude": "36.44784000",
-    "wikiDataId": null
-  },
-  {
-    "id": 102469,
-    "name": "Yakovlevskiy Rayon",
-    "state_id": 1903,
-    "state_code": "BEL",
-    "country_id": 182,
-    "country_code": "RU",
-    "latitude": "50.83333000",
-    "longitude": "36.41667000",
     "wikiDataId": null
   },
   {

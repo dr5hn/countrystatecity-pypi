@@ -11,14 +11,25 @@
     "wikiDataId": null
   },
   {
-    "id": 56402,
-    "name": "Empat Lawang",
+    "id": 56563,
+    "name": "Indralaya",
     "state_id": 1816,
     "state_code": "SS",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "3.22667000",
-    "longitude": "99.09256000",
+    "latitude": "-3.25249000",
+    "longitude": "104.67555000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56564,
+    "name": "Kayu Agung",
+    "state_id": 1816,
+    "state_code": "SS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.41174351",
+    "longitude": "104.82295217",
     "wikiDataId": null
   },
   {
@@ -55,6 +66,17 @@
     "wikiDataId": null
   },
   {
+    "id": 56567,
+    "name": "Martapura",
+    "state_id": 1816,
+    "state_code": "SS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-4.36867258",
+    "longitude": "104.35843125",
+    "wikiDataId": null
+  },
+  {
     "id": 56542,
     "name": "Muara Enim",
     "state_id": 1816,
@@ -63,6 +85,17 @@
     "country_code": "ID",
     "latitude": "-4.23270000",
     "longitude": "103.61410000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56566,
+    "name": "Muaradua",
+    "state_id": 1816,
+    "state_code": "SS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-4.53178000",
+    "longitude": "104.07397000",
     "wikiDataId": null
   },
   {
@@ -99,28 +132,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56563,
-    "name": "Ogan Ilir",
-    "state_id": 1816,
-    "state_code": "SS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.43186000",
-    "longitude": "104.62727000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56564,
-    "name": "Ogan Komering Ilir",
-    "state_id": 1816,
-    "state_code": "SS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.36667000",
-    "longitude": "105.36667000",
-    "wikiDataId": null
-  },
-  {
     "id": 56565,
     "name": "Ogan Komering Ulu",
     "state_id": 1816,
@@ -129,28 +140,6 @@
     "country_code": "ID",
     "latitude": "-4.13333000",
     "longitude": "104.03333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56566,
-    "name": "Ogan Komering Ulu Selatan",
-    "state_id": 1816,
-    "state_code": "SS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-4.65728000",
-    "longitude": "104.00659000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56567,
-    "name": "Ogan Komering Ulu Timur",
-    "state_id": 1816,
-    "state_code": "SS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.85679000",
-    "longitude": "104.75209000",
     "wikiDataId": null
   },
   {
@@ -206,6 +195,17 @@
     "country_code": "ID",
     "latitude": "-3.93728000",
     "longitude": "103.80465000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56402,
+    "name": "Tebing Tinggi",
+    "state_id": 1816,
+    "state_code": "SS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.58420000",
+    "longitude": "103.07720000",
     "wikiDataId": null
   }
 ]

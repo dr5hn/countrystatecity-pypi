@@ -1,5 +1,16 @@
 [
   {
+    "id": 65261,
+    "name": "Andong",
+    "state_id": 3855,
+    "state_code": "47",
+    "country_id": 116,
+    "country_code": "KR",
+    "latitude": "36.56667000",
+    "longitude": "128.71667000",
+    "wikiDataId": null
+  },
+  {
     "id": 65260,
     "name": "Andong",
     "state_id": 3855,
@@ -8,17 +19,6 @@
     "country_code": "KR",
     "latitude": "36.56636000",
     "longitude": "128.72275000",
-    "wikiDataId": null
-  },
-  {
-    "id": 65261,
-    "name": "Andong-si",
-    "state_id": 3855,
-    "state_code": "47",
-    "country_id": 116,
-    "country_code": "KR",
-    "latitude": "36.56667000",
-    "longitude": "128.71667000",
     "wikiDataId": null
   },
   {
@@ -89,7 +89,7 @@
   },
   {
     "id": 65336,
-    "name": "Gimcheon-si",
+    "name": "Gimcheon",
     "state_id": 3855,
     "state_code": "47",
     "country_id": 116,
@@ -210,7 +210,7 @@
   },
   {
     "id": 65447,
-    "name": "Mungyeong-si",
+    "name": "Mungyeong",
     "state_id": 3855,
     "state_code": "47",
     "country_id": 116,

@@ -22,17 +22,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56374,
-    "name": "Bone",
-    "state_id": 1795,
-    "state_code": "SN",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-4.70000000",
-    "longitude": "120.13333000",
-    "wikiDataId": null
-  },
-  {
     "id": 56380,
     "name": "Bulukumba",
     "state_id": 1795,
@@ -121,28 +110,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56502,
-    "name": "Luwu Timur",
-    "state_id": 1795,
-    "state_code": "SN",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.50957000",
-    "longitude": "120.39780000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56503,
-    "name": "Luwu Utara",
-    "state_id": 1795,
-    "state_code": "SN",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.60000000",
-    "longitude": "120.25000000",
-    "wikiDataId": null
-  },
-  {
     "id": 56855,
     "name": "Makassar",
     "state_id": 1795,
@@ -154,6 +121,17 @@
     "wikiDataId": null
   },
   {
+    "id": 56502,
+    "name": "Malili",
+    "state_id": 1795,
+    "state_code": "SN",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.63510000",
+    "longitude": "121.09480000",
+    "wikiDataId": null
+  },
+  {
     "id": 56863,
     "name": "Maros",
     "state_id": 1795,
@@ -162,6 +140,17 @@
     "country_code": "ID",
     "latitude": "-5.00600000",
     "longitude": "119.57270000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56503,
+    "name": "Masamba",
+    "state_id": 1795,
+    "state_code": "SN",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.54990669",
+    "longitude": "120.34620949",
     "wikiDataId": null
   },
   {
@@ -184,6 +173,17 @@
     "country_code": "ID",
     "latitude": "-4.78270000",
     "longitude": "119.55060000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56628,
+    "name": "Pangkajene Sidenreng",
+    "state_id": 1795,
+    "state_code": "SN",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.93322933",
+    "longitude": "119.76931404",
     "wikiDataId": null
   },
   {
@@ -242,17 +242,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56628,
-    "name": "Sidenreng Rappang",
-    "state_id": 1795,
-    "state_code": "SN",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.85000000",
-    "longitude": "119.96667000",
-    "wikiDataId": null
-  },
-  {
     "id": 56985,
     "name": "Sinjai",
     "state_id": 1795,
@@ -261,17 +250,6 @@
     "country_code": "ID",
     "latitude": "-5.12410000",
     "longitude": "120.25300000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56640,
-    "name": "Soppeng",
-    "state_id": 1795,
-    "state_code": "SN",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-4.38420000",
-    "longitude": "119.89000000",
     "wikiDataId": null
   },
   {
@@ -308,17 +286,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56689,
-    "name": "Wajo",
-    "state_id": 1795,
-    "state_code": "SN",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-4.00000000",
-    "longitude": "120.16667000",
-    "wikiDataId": null
-  },
-  {
     "id": 57052,
     "name": "Watampone",
     "state_id": 1795,
@@ -327,6 +294,17 @@
     "country_code": "ID",
     "latitude": "-4.53860000",
     "longitude": "120.32790000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164826,
+    "name": "Watansoppeng",
+    "state_id": 1795,
+    "state_code": "SN",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-4.35220000",
+    "longitude": "119.88410000",
     "wikiDataId": null
   }
 ]

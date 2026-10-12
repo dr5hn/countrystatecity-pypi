@@ -1,5 +1,16 @@
 [
   {
+    "id": 56357,
+    "name": "Arga Makmur",
+    "state_id": 1793,
+    "state_code": "BE",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.43672810",
+    "longitude": "102.20178360",
+    "wikiDataId": null
+  },
+  {
     "id": 56217,
     "name": "Bengkulu",
     "state_id": 1793,
@@ -11,17 +22,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56355,
-    "name": "Bengkulu Selatan",
-    "state_id": 1793,
-    "state_code": "BE",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-4.35000000",
-    "longitude": "103.03333000",
-    "wikiDataId": null
-  },
-  {
     "id": 56356,
     "name": "Bengkulu Tengah",
     "state_id": 1793,
@@ -30,17 +30,6 @@
     "country_code": "ID",
     "latitude": "-3.20679000",
     "longitude": "102.12616000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56357,
-    "name": "Bengkulu Utara",
-    "state_id": 1793,
-    "state_code": "BE",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.33333000",
-    "longitude": "102.05000000",
     "wikiDataId": null
   },
   {
@@ -72,19 +61,19 @@
     "state_code": "BE",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-3.60194000",
-    "longitude": "102.56424000",
+    "latitude": "-3.64550000",
+    "longitude": "102.57120000",
     "wikiDataId": null
   },
   {
-    "id": 56492,
-    "name": "Lebong",
+    "id": 56355,
+    "name": "Manna",
     "state_id": 1793,
     "state_code": "BE",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-3.24278000",
-    "longitude": "102.33490000",
+    "latitude": "-4.44004500",
+    "longitude": "102.89512292",
     "wikiDataId": null
   },
   {
@@ -94,8 +83,8 @@
     "state_code": "BE",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-3.07438000",
-    "longitude": "101.54766000",
+    "latitude": "-2.55311111",
+    "longitude": "101.10378056",
     "wikiDataId": null
   },
   {
@@ -118,6 +107,17 @@
     "country_code": "ID",
     "latitude": "-3.96644000",
     "longitude": "102.47429000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56492,
+    "name": "Tubei",
+    "state_id": 1793,
+    "state_code": "BE",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.11917000",
+    "longitude": "102.20000000",
     "wikiDataId": null
   }
 ]

@@ -22,17 +22,6 @@
     "wikiDataId": null
   },
   {
-    "id": 48372,
-    "name": "Banham",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.45240000",
-    "longitude": "1.03683000",
-    "wikiDataId": null
-  },
-  {
     "id": 48443,
     "name": "Beccles",
     "state_id": 2467,
@@ -63,17 +52,6 @@
     "country_code": "GB",
     "latitude": "52.34216000",
     "longitude": "1.00405000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48639,
-    "name": "Boxted",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.94878000",
-    "longitude": "0.91002000",
     "wikiDataId": null
   },
   {
@@ -121,6 +99,17 @@
     "wikiDataId": null
   },
   {
+    "id": 49019,
+    "name": "Clare",
+    "state_id": 2467,
+    "state_code": "SFK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.07861000",
+    "longitude": "0.58167000",
+    "wikiDataId": null
+  },
+  {
     "id": 49021,
     "name": "Claydon",
     "state_id": 2467,
@@ -154,61 +143,6 @@
     "wikiDataId": null
   },
   {
-    "id": 49253,
-    "name": "Dedham",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.95892000",
-    "longitude": "0.99336000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49281,
-    "name": "Dickleburgh",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.39650000",
-    "longitude": "1.18498000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49290,
-    "name": "Diss",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.37675000",
-    "longitude": "1.10910000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49293,
-    "name": "Ditchingham",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.46729000",
-    "longitude": "1.44370000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49318,
-    "name": "Dovercourt",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.93649000",
-    "longitude": "1.27831000",
-    "wikiDataId": null
-  },
-  {
     "id": 49386,
     "name": "East Bergholt",
     "state_id": 2467,
@@ -220,17 +154,6 @@
     "wikiDataId": null
   },
   {
-    "id": 49397,
-    "name": "East Harling",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.43843000",
-    "longitude": "0.93353000",
-    "wikiDataId": null
-  },
-  {
     "id": 49460,
     "name": "Elmswell",
     "state_id": 2467,
@@ -239,6 +162,17 @@
     "country_code": "GB",
     "latitude": "52.23616000",
     "longitude": "0.91247000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49507,
+    "name": "Exning",
+    "state_id": 2467,
+    "state_code": "SFK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.26642000",
+    "longitude": "0.37439000",
     "wikiDataId": null
   },
   {
@@ -261,17 +195,6 @@
     "country_code": "GB",
     "latitude": "52.22117000",
     "longitude": "1.34205000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49609,
-    "name": "Frinton-on-Sea",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.83061000",
-    "longitude": "1.24424000",
     "wikiDataId": null
   },
   {
@@ -330,28 +253,6 @@
     "wikiDataId": null
   },
   {
-    "id": 49808,
-    "name": "Harleston",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.40302000",
-    "longitude": "1.29664000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49830,
-    "name": "Harwich",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.94194000",
-    "longitude": "1.28437000",
-    "wikiDataId": null
-  },
-  {
     "id": 49844,
     "name": "Haughley",
     "state_id": 2467,
@@ -360,6 +261,17 @@
     "country_code": "GB",
     "latitude": "52.21907000",
     "longitude": "0.96800000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49848,
+    "name": "Haverhill",
+    "state_id": 2467,
+    "state_code": "SFK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.08226000",
+    "longitude": "0.43891000",
     "wikiDataId": null
   },
   {
@@ -396,6 +308,17 @@
     "wikiDataId": null
   },
   {
+    "id": 50101,
+    "name": "Kedington",
+    "state_id": 2467,
+    "state_code": "SFK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.09282000",
+    "longitude": "0.48675000",
+    "wikiDataId": null
+  },
+  {
     "id": 50126,
     "name": "Kesgrave",
     "state_id": 2467,
@@ -415,6 +338,17 @@
     "country_code": "GB",
     "latitude": "52.41973970",
     "longitude": "1.71224440",
+    "wikiDataId": null
+  },
+  {
+    "id": 50227,
+    "name": "Lakenheath",
+    "state_id": 2467,
+    "state_code": "SFK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.41755000",
+    "longitude": "0.52211000",
     "wikiDataId": null
   },
   {
@@ -462,25 +396,14 @@
     "wikiDataId": null
   },
   {
-    "id": 50484,
-    "name": "Manningtree",
+    "id": 50580,
+    "name": "Mildenhall",
     "state_id": 2467,
     "state_code": "SFK",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.94538000",
-    "longitude": "1.06112000",
-    "wikiDataId": null
-  },
-  {
-    "id": 50605,
-    "name": "Mistley",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.94331000",
-    "longitude": "1.08254000",
+    "latitude": "52.34446000",
+    "longitude": "0.51086000",
     "wikiDataId": null
   },
   {
@@ -492,6 +415,17 @@
     "country_code": "GB",
     "latitude": "52.15550000",
     "longitude": "1.05160000",
+    "wikiDataId": null
+  },
+  {
+    "id": 50718,
+    "name": "Newmarket",
+    "state_id": 2467,
+    "state_code": "SFK",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "52.24467000",
+    "longitude": "0.40418000",
     "wikiDataId": null
   },
   {
@@ -525,17 +459,6 @@
     "country_code": "GB",
     "latitude": "52.21497000",
     "longitude": "1.48805000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51214,
-    "name": "Scole",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.36706000",
-    "longitude": "1.15674000",
     "wikiDataId": null
   },
   {
@@ -594,39 +517,6 @@
     "wikiDataId": null
   },
   {
-    "id": 51510,
-    "name": "Suffolk",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.16667000",
-    "longitude": "1.00000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51591,
-    "name": "Thetford",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "52.41667000",
-    "longitude": "0.75000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51609,
-    "name": "Thorpe le Soken",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.85603000",
-    "longitude": "1.16580000",
-    "wikiDataId": null
-  },
-  {
     "id": 51616,
     "name": "Thurston",
     "state_id": 2467,
@@ -635,17 +525,6 @@
     "country_code": "GB",
     "latitude": "52.25244000",
     "longitude": "0.80749000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51742,
-    "name": "Walton-on-the-Naze",
-    "state_id": 2467,
-    "state_code": "SFK",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.84819000",
-    "longitude": "1.26738000",
     "wikiDataId": null
   },
   {

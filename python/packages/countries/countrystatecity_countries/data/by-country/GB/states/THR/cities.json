@@ -1,24 +1,13 @@
 [
   {
-    "id": 48420,
-    "name": "Basildon",
+    "id": 48318,
+    "name": "Aveley",
     "state_id": 2468,
     "state_code": "THR",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.56844000",
-    "longitude": "0.45782000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48503,
-    "name": "Billericay",
-    "state_id": 2468,
-    "state_code": "THR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.62867000",
-    "longitude": "0.41963000",
+    "latitude": "51.49987000",
+    "longitude": "0.25174000",
     "wikiDataId": null
   },
   {
@@ -77,17 +66,6 @@
     "wikiDataId": null
   },
   {
-    "id": 49703,
-    "name": "Gravesend",
-    "state_id": 2468,
-    "state_code": "THR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.44206000",
-    "longitude": "0.37106000",
-    "wikiDataId": null
-  },
-  {
     "id": 49704,
     "name": "Grays",
     "state_id": 2468,
@@ -121,14 +99,25 @@
     "wikiDataId": null
   },
   {
-    "id": 50919,
-    "name": "Pitsea",
+    "id": 51004,
+    "name": "Purfleet",
     "state_id": 2468,
     "state_code": "THR",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.56387000",
-    "longitude": "0.50859000",
+    "latitude": "51.48390000",
+    "longitude": "0.24247000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51363,
+    "name": "South Ockendon",
+    "state_id": 2468,
+    "state_code": "THR",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "51.50799000",
+    "longitude": "0.28333000",
     "wikiDataId": null
   },
   {
@@ -140,17 +129,6 @@
     "country_code": "GB",
     "latitude": "51.52274000",
     "longitude": "0.43422000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51531,
-    "name": "Swanscombe",
-    "state_id": 2468,
-    "state_code": "THR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.44713000",
-    "longitude": "0.31028000",
     "wikiDataId": null
   },
   {
@@ -173,17 +151,6 @@
     "country_code": "GB",
     "latitude": "51.47828000",
     "longitude": "0.27672000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51891,
-    "name": "Wickford",
-    "state_id": 2468,
-    "state_code": "THR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.61101000",
-    "longitude": "0.52331000",
     "wikiDataId": null
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "id": 56365,
-    "name": "Boalemo",
-    "state_id": 1812,
-    "state_code": "GO",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "0.62689000",
-    "longitude": "122.35680000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56375,
-    "name": "Bone Bolango",
-    "state_id": 1812,
-    "state_code": "GO",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "0.50296000",
-    "longitude": "123.27501000",
-    "wikiDataId": null
-  },
-  {
     "id": 56285,
     "name": "Gorontalo",
     "state_id": 1812,
@@ -30,17 +8,6 @@
     "country_code": "ID",
     "latitude": "0.53750000",
     "longitude": "123.06250000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56411,
-    "name": "Gorontalo Utara",
-    "state_id": 1812,
-    "state_code": "GO",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "0.77000000",
-    "longitude": "122.31667000",
     "wikiDataId": null
   },
   {
@@ -55,14 +22,47 @@
     "wikiDataId": null
   },
   {
-    "id": 56595,
-    "name": "Pohuwato",
+    "id": 56411,
+    "name": "Kwandang",
     "state_id": 1812,
     "state_code": "GO",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "0.70980000",
-    "longitude": "121.59582000",
+    "latitude": "0.83480000",
+    "longitude": "122.91500000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56595,
+    "name": "Marisa",
+    "state_id": 1812,
+    "state_code": "GO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.46550000",
+    "longitude": "121.93860000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56375,
+    "name": "Suwawa",
+    "state_id": 1812,
+    "state_code": "GO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.53250000",
+    "longitude": "123.14694000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56365,
+    "name": "Tilamuta",
+    "state_id": 1812,
+    "state_code": "GO",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.52730000",
+    "longitude": "122.34630000",
     "wikiDataId": null
   }
 ]

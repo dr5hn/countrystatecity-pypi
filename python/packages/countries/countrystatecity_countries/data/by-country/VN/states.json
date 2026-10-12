@@ -109,7 +109,7 @@
     "country_id": 240,
     "country_code": "VN",
     "state_code": "39",
-    "type": "province",
+    "type": "municipality",
     "latitude": "11.42854460",
     "longitude": "107.16242450",
     "iso3166_2": "VN-39",
@@ -174,7 +174,7 @@
     "country_id": 240,
     "country_code": "VN",
     "state_code": "HP",
-    "type": "province",
+    "type": "municipality",
     "latitude": "20.86232780",
     "longitude": "106.67992660",
     "iso3166_2": "VN-HP",
@@ -187,11 +187,24 @@
     "country_id": 240,
     "country_code": "VN",
     "state_code": "SG",
-    "type": "province",
+    "type": "municipality",
     "latitude": "10.77638970",
     "longitude": "106.70113910",
     "iso3166_2": "VN-SG",
     "native": "Hồ Chí Minh",
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "id": 3798,
+    "name": "Huế",
+    "country_id": 240,
+    "country_code": "VN",
+    "state_code": "26",
+    "type": "municipality",
+    "latitude": "16.55304730",
+    "longitude": "107.69003750",
+    "iso3166_2": "VN-26",
+    "native": "Huế",
     "timezone": "Asia/Ho_Chi_Minh"
   },
   {
@@ -400,19 +413,6 @@
     "longitude": "105.78518160",
     "iso3166_2": "VN-21",
     "native": "Thanh Hóa",
-    "timezone": "Asia/Ho_Chi_Minh"
-  },
-  {
-    "id": 3798,
-    "name": "Thừa Thiên-Huế",
-    "country_id": 240,
-    "country_code": "VN",
-    "state_code": "26",
-    "type": "province",
-    "latitude": "16.55304730",
-    "longitude": "107.69003750",
-    "iso3166_2": "VN-26",
-    "native": "Thừa Thiên-Huế",
     "timezone": "Asia/Ho_Chi_Minh"
   },
   {

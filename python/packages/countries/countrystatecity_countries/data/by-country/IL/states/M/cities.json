@@ -33,6 +33,17 @@
     "wikiDataId": null
   },
   {
+    "id": 164828,
+    "name": "El‘ad",
+    "state_id": 1367,
+    "state_code": "M",
+    "country_id": 106,
+    "country_code": "IL",
+    "latitude": "32.05108000",
+    "longitude": "34.95704000",
+    "wikiDataId": null
+  },
+  {
     "id": 57463,
     "name": "Elyakhin",
     "state_id": 1367,
@@ -143,17 +154,6 @@
     "wikiDataId": null
   },
   {
-    "id": 57499,
-    "name": "Kefar Yona",
-    "state_id": 1367,
-    "state_code": "M",
-    "country_id": 106,
-    "country_code": "IL",
-    "latitude": "32.31669000",
-    "longitude": "34.93507000",
-    "wikiDataId": null
-  },
-  {
     "id": 57500,
     "name": "Kfar Saba",
     "state_id": 1367,
@@ -162,6 +162,17 @@
     "country_code": "IL",
     "latitude": "32.17500000",
     "longitude": "34.90694000",
+    "wikiDataId": null
+  },
+  {
+    "id": 57499,
+    "name": "Kfar Yona",
+    "state_id": 1367,
+    "state_code": "M",
+    "country_id": 106,
+    "country_code": "IL",
+    "latitude": "32.31669000",
+    "longitude": "34.93507000",
     "wikiDataId": null
   },
   {
@@ -276,7 +287,7 @@
   },
   {
     "id": 57531,
-    "name": "Pardesiyya",
+    "name": "Pardesiya",
     "state_id": 1367,
     "state_code": "M",
     "country_id": 106,

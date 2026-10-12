@@ -23,7 +23,7 @@
   },
   {
     "id": 135901,
-    "name": "Bastia umbra",
+    "name": "Bastia Umbra",
     "state_id": 1691,
     "state_code": "PG",
     "country_id": 107,
@@ -913,6 +913,17 @@
     "wikiDataId": null
   },
   {
+    "id": 166208,
+    "name": "Scheggia e Pascelupo",
+    "state_id": 1691,
+    "state_code": "PG",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "43.40345000",
+    "longitude": "12.66666000",
+    "wikiDataId": null
+  },
+  {
     "id": 60642,
     "name": "Scheggino",
     "state_id": 1691,
@@ -1012,17 +1023,6 @@
     "wikiDataId": null
   },
   {
-    "id": 61234,
-    "name": "Terontola",
-    "state_id": 1691,
-    "state_code": "PG",
-    "country_id": 107,
-    "country_code": "IT",
-    "latitude": "43.21009000",
-    "longitude": "12.01113000",
-    "wikiDataId": null
-  },
-  {
     "id": 61295,
     "name": "Todi",
     "state_id": 1691,
@@ -1097,6 +1097,17 @@
     "country_code": "IT",
     "latitude": "43.15784000",
     "longitude": "12.60202000",
+    "wikiDataId": null
+  },
+  {
+    "id": 166209,
+    "name": "Vallo di Nera",
+    "state_id": 1691,
+    "state_code": "PG",
+    "country_id": 107,
+    "country_code": "IT",
+    "latitude": "42.75464000",
+    "longitude": "12.86407000",
     "wikiDataId": null
   },
   {

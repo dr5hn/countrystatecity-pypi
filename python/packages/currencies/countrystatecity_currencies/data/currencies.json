@@ -336,9 +336,9 @@
     "countryName": "Comoros"
   },
   {
-    "code": "CDF",
-    "name": "Congolese Franc",
-    "symbol": "FC",
+    "code": "XAF",
+    "name": "Central African CFA franc",
+    "symbol": "FCFA",
     "countryCode": "CG",
     "countryName": "Congo"
   },
@@ -371,9 +371,9 @@
     "countryName": "Cuba"
   },
   {
-    "code": "ANG",
-    "name": "Netherlands Antillean guilder",
-    "symbol": "ƒ",
+    "code": "XCG",
+    "name": "Caribbean guilder",
+    "symbol": "Cg",
     "countryCode": "CW",
     "countryName": "Curaçao"
   },
@@ -1365,7 +1365,7 @@
     "countryName": "Seychelles"
   },
   {
-    "code": "SLL",
+    "code": "SLE",
     "name": "Sierra Leonean leone",
     "symbol": "Le",
     "countryCode": "SL",
@@ -1379,9 +1379,9 @@
     "countryName": "Singapore"
   },
   {
-    "code": "ANG",
-    "name": "Netherlands Antillean guilder",
-    "symbol": "ƒ",
+    "code": "XCG",
+    "name": "Caribbean guilder",
+    "symbol": "Cg",
     "countryCode": "SX",
     "countryName": "Sint Maarten (Dutch part)"
   },
@@ -1736,9 +1736,9 @@
     "countryName": "Zambia"
   },
   {
-    "code": "ZWL",
-    "name": "Zimbabwe Dollar",
-    "symbol": "$",
+    "code": "ZWG",
+    "name": "Zimbabwe Gold",
+    "symbol": "ZiG",
     "countryCode": "ZW",
     "countryName": "Zimbabwe"
   }

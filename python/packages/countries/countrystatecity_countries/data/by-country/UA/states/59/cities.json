@@ -1,7 +1,7 @@
 [
   {
     "id": 109402,
-    "name": "Bilopillya",
+    "name": "Bilopillia",
     "state_id": 4685,
     "state_code": "59",
     "country_id": 230,
@@ -12,7 +12,7 @@
   },
   {
     "id": 109430,
-    "name": "Boromlya",
+    "name": "Boromlia",
     "state_id": 4685,
     "state_code": "59",
     "country_id": 230,
@@ -33,17 +33,6 @@
     "wikiDataId": null
   },
   {
-    "id": 109580,
-    "name": "Druzhba",
-    "state_id": 4685,
-    "state_code": "59",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "52.04545000",
-    "longitude": "33.94517000",
-    "wikiDataId": null
-  },
-  {
     "id": 109632,
     "name": "Hlukhiv",
     "state_id": 4685,
@@ -52,6 +41,17 @@
     "country_code": "UA",
     "latitude": "51.67822000",
     "longitude": "33.91620000",
+    "wikiDataId": null
+  },
+  {
+    "id": 109580,
+    "name": "Khutir-Mykhailivskyi",
+    "state_id": 4685,
+    "state_code": "59",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "52.04545000",
+    "longitude": "33.94517000",
     "wikiDataId": null
   },
   {
@@ -133,7 +133,7 @@
   },
   {
     "id": 110087,
-    "name": "Nedryhayliv",
+    "name": "Nedryhailiv",
     "state_id": 4685,
     "state_code": "59",
     "country_id": 230,

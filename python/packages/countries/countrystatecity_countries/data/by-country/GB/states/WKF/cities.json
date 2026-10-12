@@ -11,28 +11,6 @@
     "wikiDataId": null
   },
   {
-    "id": 48429,
-    "name": "Batley",
-    "state_id": 2465,
-    "state_code": "WKF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.70291000",
-    "longitude": "-1.63370000",
-    "wikiDataId": null
-  },
-  {
-    "id": 48807,
-    "name": "Byram",
-    "state_id": 2465,
-    "state_code": "WKF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.72394000",
-    "longitude": "-1.26128000",
-    "wikiDataId": null
-  },
-  {
     "id": 48883,
     "name": "Castleford",
     "state_id": 2465,
@@ -41,17 +19,6 @@
     "country_code": "GB",
     "latitude": "53.72587000",
     "longitude": "-1.36256000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49004,
-    "name": "City and Borough of Wakefield",
-    "state_id": 2465,
-    "state_code": "WKF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.68085000",
-    "longitude": "-1.49895000",
     "wikiDataId": null
   },
   {
@@ -77,17 +44,6 @@
     "wikiDataId": null
   },
   {
-    "id": 49279,
-    "name": "Dewsbury",
-    "state_id": 2465,
-    "state_code": "WKF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.69076000",
-    "longitude": "-1.62907000",
-    "wikiDataId": null
-  },
-  {
     "id": 49550,
     "name": "Ferrybridge",
     "state_id": 2465,
@@ -107,6 +63,17 @@
     "country_code": "GB",
     "latitude": "53.63288000",
     "longitude": "-1.37690000",
+    "wikiDataId": null
+  },
+  {
+    "id": 49899,
+    "name": "Hemsworth",
+    "state_id": 2465,
+    "state_code": "WKF",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.61267000",
+    "longitude": "-1.35424000",
     "wikiDataId": null
   },
   {
@@ -143,17 +110,6 @@
     "wikiDataId": null
   },
   {
-    "id": 50385,
-    "name": "Lofthouse",
-    "state_id": 2465,
-    "state_code": "WKF",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "53.72947000",
-    "longitude": "-1.49697000",
-    "wikiDataId": null
-  },
-  {
     "id": 50420,
     "name": "Low Ackworth",
     "state_id": 2465,
@@ -187,14 +143,14 @@
     "wikiDataId": null
   },
   {
-    "id": 50618,
-    "name": "Monk Fryston",
+    "id": 50788,
+    "name": "Notton",
     "state_id": 2465,
     "state_code": "WKF",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.76160000",
-    "longitude": "-1.23751000",
+    "latitude": "53.61267000",
+    "longitude": "-1.47234000",
     "wikiDataId": null
   },
   {
@@ -242,14 +198,25 @@
     "wikiDataId": null
   },
   {
-    "id": 51360,
-    "name": "South Milford",
+    "id": 51352,
+    "name": "South Elmsall",
     "state_id": 2465,
     "state_code": "WKF",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.77672000",
-    "longitude": "-1.24609000",
+    "latitude": "53.59709000",
+    "longitude": "-1.28034000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51704,
+    "name": "Upton",
+    "state_id": 2465,
+    "state_code": "WKF",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.61466000",
+    "longitude": "-1.28677000",
     "wikiDataId": null
   },
   {
@@ -261,6 +228,17 @@
     "country_code": "GB",
     "latitude": "53.68331000",
     "longitude": "-1.49768000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51981,
+    "name": "Woolley",
+    "state_id": 2465,
+    "state_code": "WKF",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "53.61339000",
+    "longitude": "-1.51457000",
     "wikiDataId": null
   }
 ]

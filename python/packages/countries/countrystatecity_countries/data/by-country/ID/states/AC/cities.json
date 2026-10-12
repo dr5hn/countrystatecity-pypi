@@ -1,16 +1,5 @@
 [
   {
-    "id": 56307,
-    "name": "Aceh Barat",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.45000000",
-    "longitude": "96.16667000",
-    "wikiDataId": null
-  },
-  {
     "id": 56308,
     "name": "Aceh Barat Daya",
     "state_id": 1822,
@@ -30,28 +19,6 @@
     "country_code": "ID",
     "latitude": "5.38333000",
     "longitude": "95.51667000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56310,
-    "name": "Aceh Jaya",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.86000000",
-    "longitude": "95.64000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56311,
-    "name": "Aceh Selatan",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "3.16667000",
-    "longitude": "97.41667000",
     "wikiDataId": null
   },
   {
@@ -88,17 +55,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56315,
-    "name": "Aceh Tenggara",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "3.36667000",
-    "longitude": "97.70000000",
-    "wikiDataId": null
-  },
-  {
     "id": 56316,
     "name": "Aceh Timur",
     "state_id": 1822,
@@ -110,17 +66,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56317,
-    "name": "Aceh Utara",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.97000000",
-    "longitude": "97.14000000",
-    "wikiDataId": null
-  },
-  {
     "id": 56193,
     "name": "Banda Aceh",
     "state_id": 1822,
@@ -129,17 +74,6 @@
     "country_code": "ID",
     "latitude": "5.54167000",
     "longitude": "95.33333000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56353,
-    "name": "Bener Meriah",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.73015000",
-    "longitude": "96.86156000",
     "wikiDataId": null
   },
   {
@@ -165,6 +99,17 @@
     "wikiDataId": null
   },
   {
+    "id": 164815,
+    "name": "Calang",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "4.63060000",
+    "longitude": "95.57540000",
+    "wikiDataId": null
+  },
+  {
     "id": 56408,
     "name": "Gayo Lues",
     "state_id": 1822,
@@ -173,6 +118,17 @@
     "country_code": "ID",
     "latitude": "3.95000000",
     "longitude": "97.39000000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56315,
+    "name": "Kutacane",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "3.47307781",
+    "longitude": "97.81921889",
     "wikiDataId": null
   },
   {
@@ -195,6 +151,17 @@
     "country_code": "ID",
     "latitude": "5.18010000",
     "longitude": "97.15070000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56317,
+    "name": "Lhoksukon",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "5.07555569",
+    "longitude": "97.30271784",
     "wikiDataId": null
   },
   {
@@ -264,14 +231,14 @@
     "wikiDataId": null
   },
   {
-    "id": 56634,
-    "name": "Simeulue",
+    "id": 164824,
+    "name": "Simpang Tiga Redelong",
     "state_id": 1822,
     "state_code": "AC",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "2.61667000",
-    "longitude": "96.08333000",
+    "latitude": "4.72200000",
+    "longitude": "96.87430000",
     "wikiDataId": null
   },
   {
@@ -294,6 +261,17 @@
     "country_code": "ID",
     "latitude": "2.28740000",
     "longitude": "97.78840000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56311,
+    "name": "Tapaktuan",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "3.25805556",
+    "longitude": "97.18000000",
     "wikiDataId": null
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "id": 56539,
+    "name": "Air Madidi",
+    "state_id": 1808,
+    "state_code": "SA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "1.42804000",
+    "longitude": "124.97774000",
+    "wikiDataId": null
+  },
+  {
     "id": 56368,
     "name": "Bolaang Mongondow",
     "state_id": 1808,
@@ -34,13 +45,13 @@
   },
   {
     "id": 56371,
-    "name": "Bolaang Mongondow Utara",
+    "name": "Boroko",
     "state_id": 1808,
     "state_code": "SA",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "0.78527000",
-    "longitude": "123.41766000",
+    "latitude": "0.90830000",
+    "longitude": "123.26790000",
     "wikiDataId": null
   },
   {
@@ -63,6 +74,17 @@
     "country_code": "ID",
     "latitude": "4.31178000",
     "longitude": "126.78085000",
+    "wikiDataId": null
+  },
+  {
+    "id": 164798,
+    "name": "Kotamobagu",
+    "state_id": 1808,
+    "state_code": "SA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.74194000",
+    "longitude": "124.31208000",
     "wikiDataId": null
   },
   {
@@ -110,36 +132,25 @@
     "wikiDataId": null
   },
   {
-    "id": 56538,
-    "name": "Minahasa Tenggara",
-    "state_id": 1808,
-    "state_code": "SA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "1.05633000",
-    "longitude": "124.79250000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56539,
-    "name": "Minahasa Utara",
-    "state_id": 1808,
-    "state_code": "SA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "1.40250000",
-    "longitude": "124.96000000",
-    "wikiDataId": null
-  },
-  {
     "id": 56627,
-    "name": "Siau Tagulandang Biaro",
+    "name": "Ondong Siau",
     "state_id": 1808,
     "state_code": "SA",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "2.11728000",
-    "longitude": "125.37512000",
+    "latitude": "2.74730000",
+    "longitude": "125.36110000",
+    "wikiDataId": null
+  },
+  {
+    "id": 56538,
+    "name": "Ratahan",
+    "state_id": 1808,
+    "state_code": "SA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "1.05490000",
+    "longitude": "124.80120000",
     "wikiDataId": null
   },
   {

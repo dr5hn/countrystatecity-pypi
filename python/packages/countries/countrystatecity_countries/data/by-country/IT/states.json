@@ -559,6 +559,19 @@
     "timezone": "Europe/Rome"
   },
   {
+    "id": 5830,
+    "name": "Gallura Nord-Est Sardegna",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "OT",
+    "type": "province",
+    "latitude": "40.89983333",
+    "longitude": "9.27950000",
+    "iso3166_2": null,
+    "native": "Gallura Nord-Est Sardegna",
+    "timezone": "Europe/Rome"
+  },
+  {
     "id": 5631,
     "name": "Genoa",
     "country_id": 107,
@@ -832,6 +845,19 @@
     "timezone": "Europe/Rome"
   },
   {
+    "id": 5832,
+    "name": "Medio Campidano",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "VS",
+    "type": "province",
+    "latitude": "39.56666667",
+    "longitude": "8.90000000",
+    "iso3166_2": null,
+    "native": "Medio Campidano",
+    "timezone": "Europe/Rome"
+  },
+  {
     "id": 5632,
     "name": "Messina",
     "country_id": 107,
@@ -933,6 +959,19 @@
     "longitude": "9.32973390",
     "iso3166_2": "IT-NU",
     "native": "Nuoro",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5831,
+    "name": "Ogliastra",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "OG",
+    "type": "province",
+    "latitude": "39.86663889",
+    "longitude": "9.55000000",
+    "iso3166_2": null,
+    "native": "Ogliastra",
     "timezone": "Europe/Rome"
   },
   {
@@ -1266,7 +1305,7 @@
     "country_id": 107,
     "country_code": "IT",
     "state_code": "SS",
-    "type": "province",
+    "type": "metropolitan city",
     "latitude": "40.72347460",
     "longitude": "8.56126740",
     "iso3166_2": "IT-SS",
@@ -1339,19 +1378,6 @@
     "timezone": "Europe/Rome"
   },
   {
-    "id": 1730,
-    "name": "South Sardinia",
-    "country_id": 107,
-    "country_code": "IT",
-    "state_code": "SU",
-    "type": "province",
-    "latitude": "39.38935350",
-    "longitude": "8.93970000",
-    "iso3166_2": "IT-SU",
-    "native": "Sudinia meridionale",
-    "timezone": "Europe/Rome"
-  },
-  {
     "id": 5639,
     "name": "South Tyrol",
     "country_id": 107,
@@ -1362,6 +1388,19 @@
     "longitude": "11.35662200",
     "iso3166_2": "IT-BZ",
     "native": "Bolzano",
+    "timezone": "Europe/Rome"
+  },
+  {
+    "id": 5833,
+    "name": "Sulcis Iglesiente",
+    "country_id": 107,
+    "country_code": "IT",
+    "state_code": "CI",
+    "type": "province",
+    "latitude": "39.21666667",
+    "longitude": "8.68333333",
+    "iso3166_2": null,
+    "native": "Sulcis Iglesiente",
     "timezone": "Europe/Rome"
   },
   {

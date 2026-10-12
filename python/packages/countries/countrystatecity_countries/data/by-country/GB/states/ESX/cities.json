@@ -77,14 +77,14 @@
     "wikiDataId": null
   },
   {
-    "id": 49411,
-    "name": "East Sussex",
+    "id": 49294,
+    "name": "Ditchling",
     "state_id": 2414,
     "state_code": "ESX",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "50.91667000",
-    "longitude": "0.33333000",
+    "latitude": "50.92100000",
+    "longitude": "-0.11536000",
     "wikiDataId": null
   },
   {
@@ -143,17 +143,6 @@
     "wikiDataId": null
   },
   {
-    "id": 49691,
-    "name": "Goudhurst",
-    "state_id": 2414,
-    "state_code": "ESX",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.11314000",
-    "longitude": "0.45615000",
-    "wikiDataId": null
-  },
-  {
     "id": 49757,
     "name": "Groombridge",
     "state_id": 2414,
@@ -184,17 +173,6 @@
     "country_code": "GB",
     "latitude": "50.85519000",
     "longitude": "0.57292000",
-    "wikiDataId": null
-  },
-  {
-    "id": 49852,
-    "name": "Hawkhurst",
-    "state_id": 2414,
-    "state_code": "ESX",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.04790000",
-    "longitude": "0.51095000",
     "wikiDataId": null
   },
   {
@@ -231,14 +209,36 @@
     "wikiDataId": null
   },
   {
-    "id": 50228,
-    "name": "Lamberhurst",
+    "id": 50294,
+    "name": "Lewes",
     "state_id": 2414,
     "state_code": "ESX",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.10050000",
-    "longitude": "0.38967000",
+    "latitude": "50.87398000",
+    "longitude": "0.00880000",
+    "wikiDataId": null
+  },
+  {
+    "id": 50713,
+    "name": "Newhaven",
+    "state_id": 2414,
+    "state_code": "ESX",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.79693000",
+    "longitude": "0.05545000",
+    "wikiDataId": null
+  },
+  {
+    "id": 50714,
+    "name": "Newick",
+    "state_id": 2414,
+    "state_code": "ESX",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.97518000",
+    "longitude": "0.01579000",
     "wikiDataId": null
   },
   {
@@ -264,14 +264,14 @@
     "wikiDataId": null
   },
   {
-    "id": 50874,
-    "name": "Pembury",
+    "id": 50863,
+    "name": "Peacehaven",
     "state_id": 2414,
     "state_code": "ESX",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.14296000",
-    "longitude": "0.32187000",
+    "latitude": "50.79270000",
+    "longitude": "-0.00652000",
     "wikiDataId": null
   },
   {
@@ -297,6 +297,17 @@
     "wikiDataId": null
   },
   {
+    "id": 51082,
+    "name": "Ringmer",
+    "state_id": 2414,
+    "state_code": "ESX",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.89264000",
+    "longitude": "0.05472000",
+    "wikiDataId": null
+  },
+  {
     "id": 51092,
     "name": "Robertsbridge",
     "state_id": 2414,
@@ -305,28 +316,6 @@
     "country_code": "GB",
     "latitude": "50.98569000",
     "longitude": "0.47253000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51131,
-    "name": "Royal Tunbridge Wells",
-    "state_id": 2414,
-    "state_code": "ESX",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.13321000",
-    "longitude": "0.26256000",
-    "wikiDataId": null
-  },
-  {
-    "id": 51147,
-    "name": "Rusthall",
-    "state_id": 2414,
-    "state_code": "ESX",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.13643000",
-    "longitude": "0.22931000",
     "wikiDataId": null
   },
   {
@@ -352,14 +341,25 @@
     "wikiDataId": null
   },
   {
-    "id": 51386,
-    "name": "Speldhurst",
+    "id": 51221,
+    "name": "Seaford",
     "state_id": 2414,
     "state_code": "ESX",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "51.15076000",
-    "longitude": "0.21947000",
+    "latitude": "50.77141000",
+    "longitude": "0.10268000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51349,
+    "name": "South Chailey",
+    "state_id": 2414,
+    "state_code": "ESX",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.93831000",
+    "longitude": "-0.02105000",
     "wikiDataId": null
   },
   {
@@ -415,6 +415,17 @@
     "country_code": "GB",
     "latitude": "50.91691000",
     "longitude": "0.72158000",
+    "wikiDataId": null
+  },
+  {
+    "id": 51952,
+    "name": "Wivelsfield Green",
+    "state_id": 2414,
+    "state_code": "ESX",
+    "country_id": 232,
+    "country_code": "GB",
+    "latitude": "50.96313000",
+    "longitude": "-0.07133000",
     "wikiDataId": null
   }
 ]

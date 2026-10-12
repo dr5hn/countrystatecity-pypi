@@ -1,5 +1,27 @@
 [
   {
+    "id": 68023,
+    "name": "Acachuén",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.84715000",
+    "longitude": "-102.09272000",
+    "wikiDataId": null
+  },
+  {
+    "id": 68031,
+    "name": "Acalpican de Morelos",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "18.01854000",
+    "longitude": "-102.34033000",
+    "wikiDataId": null
+  },
+  {
     "id": 68080,
     "name": "Acuitzio",
     "state_id": 3474,
@@ -30,6 +52,17 @@
     "country_code": "MX",
     "latitude": "19.53818000",
     "longitude": "-100.61849000",
+    "wikiDataId": null
+  },
+  {
+    "id": 68107,
+    "name": "Agua Caliente",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.90011000",
+    "longitude": "-100.17186000",
     "wikiDataId": null
   },
   {
@@ -89,7 +122,7 @@
   },
   {
     "id": 68271,
-    "name": "Angahuán",
+    "name": "Angahuan",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
@@ -122,24 +155,13 @@
   },
   {
     "id": 68282,
-    "name": "Antúnez",
+    "name": "Antúnez (Morelos)",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
     "country_code": "MX",
     "latitude": "19.01451000",
     "longitude": "-102.20432000",
-    "wikiDataId": null
-  },
-  {
-    "id": 68283,
-    "name": "Antúnez (Morelos)",
-    "state_id": 3474,
-    "state_code": "MIC",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "19.01278000",
-    "longitude": "-102.20389000",
     "wikiDataId": null
   },
   {
@@ -430,35 +452,13 @@
   },
   {
     "id": 68675,
-    "name": "Buenavista",
+    "name": "Buenavista Tomatlán",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
     "country_code": "MX",
     "latitude": "19.18802000",
     "longitude": "-102.58471000",
-    "wikiDataId": null
-  },
-  {
-    "id": 68680,
-    "name": "Buenavista de Benito Juárez",
-    "state_id": 3474,
-    "state_code": "MIC",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "18.46034000",
-    "longitude": "-98.63735000",
-    "wikiDataId": null
-  },
-  {
-    "id": 68678,
-    "name": "Buenavista Tomatlán",
-    "state_id": 3474,
-    "state_code": "MIC",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "19.21281000",
-    "longitude": "-102.58735000",
     "wikiDataId": null
   },
   {
@@ -572,6 +572,17 @@
     "wikiDataId": null
   },
   {
+    "id": 68815,
+    "name": "Carapán",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.86003000",
+    "longitude": "-102.03644000",
+    "wikiDataId": null
+  },
+  {
     "id": 68831,
     "name": "Carona",
     "state_id": 3474,
@@ -627,8 +638,19 @@
     "wikiDataId": null
   },
   {
+    "id": 68982,
+    "name": "Chaparaco",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.96061000",
+    "longitude": "-102.26092000",
+    "wikiDataId": null
+  },
+  {
     "id": 68992,
-    "name": "Charapán",
+    "name": "Charapan",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
@@ -693,6 +715,17 @@
     "wikiDataId": null
   },
   {
+    "id": 69066,
+    "name": "Chilchota",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.84654000",
+    "longitude": "-102.11716000",
+    "wikiDataId": null
+  },
+  {
     "id": 69067,
     "name": "Chilchota",
     "state_id": 3474,
@@ -712,17 +745,6 @@
     "country_code": "MX",
     "latitude": "19.79507000",
     "longitude": "-101.25208000",
-    "wikiDataId": null
-  },
-  {
-    "id": 69095,
-    "name": "Chitejé de Garabato",
-    "state_id": 3474,
-    "state_code": "MIC",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "20.10111000",
-    "longitude": "-100.18899000",
     "wikiDataId": null
   },
   {
@@ -811,17 +833,6 @@
     "country_code": "MX",
     "latitude": "18.75119000",
     "longitude": "-103.66798000",
-    "wikiDataId": null
-  },
-  {
-    "id": 69219,
-    "name": "Coajomulco",
-    "state_id": 3474,
-    "state_code": "MIC",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "19.03375000",
-    "longitude": "-99.20428000",
     "wikiDataId": null
   },
   {
@@ -1031,6 +1042,17 @@
     "country_code": "MX",
     "latitude": "19.68361000",
     "longitude": "-101.30361000",
+    "wikiDataId": null
+  },
+  {
+    "id": 69467,
+    "name": "Contepec",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.95432000",
+    "longitude": "-100.16385000",
     "wikiDataId": null
   },
   {
@@ -1276,6 +1298,17 @@
     "wikiDataId": null
   },
   {
+    "id": 69702,
+    "name": "Dolores",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.06059000",
+    "longitude": "-100.32211000",
+    "wikiDataId": null
+  },
+  {
     "id": 69713,
     "name": "Donaciano Ojeda",
     "state_id": 3474,
@@ -1365,7 +1398,7 @@
   },
   {
     "id": 69898,
-    "name": "El Chauz",
+    "name": "El Cháuz",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
@@ -1452,6 +1485,17 @@
     "wikiDataId": null
   },
   {
+    "id": 69980,
+    "name": "El Habillal",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "18.00699000",
+    "longitude": "-102.37263000",
+    "wikiDataId": null
+  },
+  {
     "id": 70013,
     "name": "El Letrero",
     "state_id": 3474,
@@ -1493,6 +1537,17 @@
     "country_code": "MX",
     "latitude": "19.51083000",
     "longitude": "-101.44917000",
+    "wikiDataId": null
+  },
+  {
+    "id": 70103,
+    "name": "El Pilar",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.24201000",
+    "longitude": "-101.40209000",
     "wikiDataId": null
   },
   {
@@ -1562,6 +1617,17 @@
     "wikiDataId": null
   },
   {
+    "id": 70312,
+    "name": "Epitacio Huerta",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.13493000",
+    "longitude": "-100.29321000",
+    "wikiDataId": null
+  },
+  {
     "id": 70314,
     "name": "Erongarícuaro",
     "state_id": 3474,
@@ -1581,6 +1647,17 @@
     "country_code": "MX",
     "latitude": "19.88285000",
     "longitude": "-100.94861000",
+    "wikiDataId": null
+  },
+  {
+    "id": 70376,
+    "name": "Etúcuaro",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.89286000",
+    "longitude": "-102.12945000",
     "wikiDataId": null
   },
   {
@@ -1749,8 +1826,19 @@
     "wikiDataId": null
   },
   {
+    "id": 70510,
+    "name": "Galeana",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.03585000",
+    "longitude": "-101.57150000",
+    "wikiDataId": null
+  },
+  {
     "id": 70516,
-    "name": "Gambara",
+    "name": "Gámbara",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
@@ -1779,17 +1867,6 @@
     "country_code": "MX",
     "latitude": "19.54889000",
     "longitude": "-102.45861000",
-    "wikiDataId": null
-  },
-  {
-    "id": 70567,
-    "name": "Guacamayas",
-    "state_id": 3474,
-    "state_code": "MIC",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "18.01932000",
-    "longitude": "-102.21225000",
     "wikiDataId": null
   },
   {
@@ -1834,6 +1911,17 @@
     "country_code": "MX",
     "latitude": "19.68210000",
     "longitude": "-100.74065000",
+    "wikiDataId": null
+  },
+  {
+    "id": 70730,
+    "name": "Huáncito",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.84889000",
+    "longitude": "-102.06784000",
     "wikiDataId": null
   },
   {
@@ -2035,6 +2123,17 @@
     "wikiDataId": null
   },
   {
+    "id": 70960,
+    "name": "Jacona de Plancarte",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.95232000",
+    "longitude": "-102.30781000",
+    "wikiDataId": null
+  },
+  {
     "id": 70996,
     "name": "Jamaica",
     "state_id": 3474,
@@ -2043,6 +2142,28 @@
     "country_code": "MX",
     "latitude": "19.85577000",
     "longitude": "-101.13486000",
+    "wikiDataId": null
+  },
+  {
+    "id": 70999,
+    "name": "Janambo",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.20642000",
+    "longitude": "-101.52644000",
+    "wikiDataId": null
+  },
+  {
+    "id": 71000,
+    "name": "Janamuato",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.09961000",
+    "longitude": "-101.58540000",
     "wikiDataId": null
   },
   {
@@ -2091,7 +2212,7 @@
   },
   {
     "id": 71057,
-    "name": "Jiquílpan de Juárez",
+    "name": "Jiquilpan de Juárez",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
@@ -2113,7 +2234,7 @@
   },
   {
     "id": 71134,
-    "name": "Jucutacato",
+    "name": "Jucutácato",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
@@ -2164,6 +2285,17 @@
     "country_code": "MX",
     "latitude": "20.27528000",
     "longitude": "-101.57556000",
+    "wikiDataId": null
+  },
+  {
+    "id": 71199,
+    "name": "La Cantera",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.86375000",
+    "longitude": "-102.40838000",
     "wikiDataId": null
   },
   {
@@ -2486,6 +2618,17 @@
     "wikiDataId": null
   },
   {
+    "id": 70567,
+    "name": "Las Guacamayas",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "18.01932000",
+    "longitude": "-102.21225000",
+    "wikiDataId": null
+  },
+  {
     "id": 71609,
     "name": "Las Letras",
     "state_id": 3474,
@@ -2494,6 +2637,17 @@
     "country_code": "MX",
     "latitude": "20.23083000",
     "longitude": "-101.43361000",
+    "wikiDataId": null
+  },
+  {
+    "id": 71636,
+    "name": "Las Ranas",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.20860000",
+    "longitude": "-101.47810000",
     "wikiDataId": null
   },
   {
@@ -2574,6 +2728,17 @@
     "wikiDataId": null
   },
   {
+    "id": 71807,
+    "name": "Los Hucuares",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.89916000",
+    "longitude": "-102.49759000",
+    "wikiDataId": null
+  },
+  {
     "id": 71809,
     "name": "Los Limones",
     "state_id": 3474,
@@ -2585,6 +2750,17 @@
     "wikiDataId": null
   },
   {
+    "id": 71823,
+    "name": "Los Nogales",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.85734000",
+    "longitude": "-102.15612000",
+    "wikiDataId": null
+  },
+  {
     "id": 71831,
     "name": "Los Pilares",
     "state_id": 3474,
@@ -2593,6 +2769,17 @@
     "country_code": "MX",
     "latitude": "20.32582000",
     "longitude": "-102.37322000",
+    "wikiDataId": null
+  },
+  {
+    "id": 71842,
+    "name": "Los Remedios",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.97810000",
+    "longitude": "-102.67954000",
     "wikiDataId": null
   },
   {
@@ -2751,7 +2938,7 @@
   },
   {
     "id": 72271,
-    "name": "Nahuatzén",
+    "name": "Nahuatzen",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
@@ -2860,6 +3047,17 @@
     "wikiDataId": null
   },
   {
+    "id": 72474,
+    "name": "Ocumicho",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.79654000",
+    "longitude": "-102.22169000",
+    "wikiDataId": null
+  },
+  {
     "id": 72475,
     "name": "Ocurio",
     "state_id": 3474,
@@ -2949,7 +3147,7 @@
   },
   {
     "id": 72640,
-    "name": "Paracuaro",
+    "name": "Parácuaro",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
@@ -3091,17 +3289,6 @@
     "wikiDataId": null
   },
   {
-    "id": 72762,
-    "name": "Pichátaro",
-    "state_id": 3474,
-    "state_code": "MIC",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "19.57289000",
-    "longitude": "-101.80737000",
-    "wikiDataId": null
-  },
-  {
     "id": 72784,
     "name": "Pinzándaro",
     "state_id": 3474,
@@ -3110,6 +3297,17 @@
     "country_code": "MX",
     "latitude": "19.10928000",
     "longitude": "-102.54082000",
+    "wikiDataId": null
+  },
+  {
+    "id": 72809,
+    "name": "Playa Azul",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.98170000",
+    "longitude": "-102.34761000",
     "wikiDataId": null
   },
   {
@@ -3388,6 +3586,17 @@
     "wikiDataId": null
   },
   {
+    "id": 75454,
+    "name": "Salto de Tepuxtepec",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.99135000",
+    "longitude": "-100.22566000",
+    "wikiDataId": null
+  },
+  {
     "id": 73261,
     "name": "San Agustín del Maíz",
     "state_id": 3474,
@@ -3440,6 +3649,17 @@
     "country_code": "MX",
     "latitude": "19.66722000",
     "longitude": "-101.26806000",
+    "wikiDataId": null
+  },
+  {
+    "id": 73335,
+    "name": "San Antonio Guaracha",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.94592000",
+    "longitude": "-102.55590000",
     "wikiDataId": null
   },
   {
@@ -3550,6 +3770,17 @@
     "country_code": "MX",
     "latitude": "19.55601000",
     "longitude": "-102.39844000",
+    "wikiDataId": null
+  },
+  {
+    "id": 72762,
+    "name": "San Francisco Pichátaro",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.57289000",
+    "longitude": "-101.80737000",
     "wikiDataId": null
   },
   {
@@ -3740,6 +3971,17 @@
     "wikiDataId": null
   },
   {
+    "id": 74086,
+    "name": "San Martín",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.21570000",
+    "longitude": "-101.61140000",
+    "wikiDataId": null
+  },
+  {
     "id": 74111,
     "name": "San Martín Totolán",
     "state_id": 3474,
@@ -3773,6 +4015,17 @@
     "wikiDataId": null
   },
   {
+    "id": 75961,
+    "name": "San Pedro Cahro",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.11553000",
+    "longitude": "-102.65391000",
+    "wikiDataId": null
+  },
+  {
     "id": 74410,
     "name": "San Pedro de los Sauces",
     "state_id": 3474,
@@ -3792,6 +4045,17 @@
     "country_code": "MX",
     "latitude": "19.71496000",
     "longitude": "-100.64493000",
+    "wikiDataId": null
+  },
+  {
+    "id": 74373,
+    "name": "San Pedro Tarímbaro",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.80799000",
+    "longitude": "-100.22541000",
     "wikiDataId": null
   },
   {
@@ -3905,6 +4169,17 @@
     "wikiDataId": null
   },
   {
+    "id": 74599,
+    "name": "Santa Clara",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.17904000",
+    "longitude": "-101.43350000",
+    "wikiDataId": null
+  },
+  {
     "id": 74603,
     "name": "Santa Clara de Valladares",
     "state_id": 3474,
@@ -3950,7 +4225,7 @@
   },
   {
     "id": 74664,
-    "name": "Santa Fé de la Laguna",
+    "name": "Santa Fe de la Laguna",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
@@ -4070,6 +4345,17 @@
     "wikiDataId": null
   },
   {
+    "id": 75023,
+    "name": "Santo Tomás",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.84524000",
+    "longitude": "-102.08571000",
+    "wikiDataId": null
+  },
+  {
     "id": 75059,
     "name": "Senguio",
     "state_id": 3474,
@@ -4137,7 +4423,7 @@
   },
   {
     "id": 75157,
-    "name": "Tacicuaro",
+    "name": "Tacícuaro",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
@@ -4169,6 +4455,17 @@
     "wikiDataId": null
   },
   {
+    "id": 75197,
+    "name": "Tamándaro",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.94941000",
+    "longitude": "-102.28416000",
+    "wikiDataId": null
+  },
+  {
     "id": 75199,
     "name": "Tanaco",
     "state_id": 3474,
@@ -4177,6 +4474,17 @@
     "country_code": "MX",
     "latitude": "19.73943000",
     "longitude": "-102.08146000",
+    "wikiDataId": null
+  },
+  {
+    "id": 75201,
+    "name": "Tanaquillo",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.84611000",
+    "longitude": "-102.09797000",
     "wikiDataId": null
   },
   {
@@ -4202,6 +4510,17 @@
     "wikiDataId": null
   },
   {
+    "id": 75209,
+    "name": "Tangancícuaro de Arista",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.88733000",
+    "longitude": "-102.20636000",
+    "wikiDataId": null
+  },
+  {
     "id": 75211,
     "name": "Tanhuato de Guerrero",
     "state_id": 3474,
@@ -4210,6 +4529,17 @@
     "country_code": "MX",
     "latitude": "20.28552000",
     "longitude": "-102.33113000",
+    "wikiDataId": null
+  },
+  {
+    "id": 75234,
+    "name": "Tarécuato",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.84359000",
+    "longitude": "-102.46485000",
     "wikiDataId": null
   },
   {
@@ -4225,7 +4555,7 @@
   },
   {
     "id": 75231,
-    "name": "Taretán",
+    "name": "Taretan",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
@@ -4279,6 +4609,17 @@
     "wikiDataId": null
   },
   {
+    "id": 75366,
+    "name": "Tengüecho",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.83836000",
+    "longitude": "-102.34347000",
+    "wikiDataId": null
+  },
+  {
     "id": 75393,
     "name": "Tepalcatepec",
     "state_id": 3474,
@@ -4290,14 +4631,25 @@
     "wikiDataId": null
   },
   {
-    "id": 75454,
-    "name": "Tepuxtepec",
+    "id": 75431,
+    "name": "Tepetongo",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
     "country_code": "MX",
-    "latitude": "19.99135000",
-    "longitude": "-100.22566000",
+    "latitude": "19.90877000",
+    "longitude": "-100.13356000",
+    "wikiDataId": null
+  },
+  {
+    "id": 75467,
+    "name": "Teremendo",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.78530000",
+    "longitude": "-101.47980000",
     "wikiDataId": null
   },
   {
@@ -4389,6 +4741,17 @@
     "wikiDataId": null
   },
   {
+    "id": 75708,
+    "name": "Tlazazalca",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.97085000",
+    "longitude": "-102.05842000",
+    "wikiDataId": null
+  },
+  {
     "id": 75718,
     "name": "Tocumbo",
     "state_id": 3474,
@@ -4422,6 +4785,17 @@
     "wikiDataId": null
   },
   {
+    "id": 75775,
+    "name": "Tres Mezquites",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.26203000",
+    "longitude": "-101.62735000",
+    "wikiDataId": null
+  },
+  {
     "id": 75806,
     "name": "Tumbiscatío de Ruiz",
     "state_id": 3474,
@@ -4441,6 +4815,17 @@
     "country_code": "MX",
     "latitude": "19.90833000",
     "longitude": "-100.36639000",
+    "wikiDataId": null
+  },
+  {
+    "id": 75813,
+    "name": "Tupátaro",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.81375000",
+    "longitude": "-100.30543000",
     "wikiDataId": null
   },
   {
@@ -4554,6 +4939,17 @@
     "wikiDataId": null
   },
   {
+    "id": 75900,
+    "name": "Urén",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.84564000",
+    "longitude": "-102.10524000",
+    "wikiDataId": null
+  },
+  {
     "id": 75892,
     "name": "Uricho",
     "state_id": 3474,
@@ -4620,14 +5016,14 @@
     "wikiDataId": null
   },
   {
-    "id": 75961,
-    "name": "Venustiano Carranza",
+    "id": 75954,
+    "name": "Venta de Bravo",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
     "country_code": "MX",
-    "latitude": "20.11553000",
-    "longitude": "-102.65391000",
+    "latitude": "19.86376000",
+    "longitude": "-100.17323000",
     "wikiDataId": null
   },
   {
@@ -4664,6 +5060,17 @@
     "wikiDataId": null
   },
   {
+    "id": 76036,
+    "name": "Villa Morelos",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.00335000",
+    "longitude": "-101.41360000",
+    "wikiDataId": null
+  },
+  {
     "id": 76057,
     "name": "Villa Victoria",
     "state_id": 3474,
@@ -4672,6 +5079,17 @@
     "country_code": "MX",
     "latitude": "18.75749000",
     "longitude": "-103.36967000",
+    "wikiDataId": null
+  },
+  {
+    "id": 76076,
+    "name": "Villachuato",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.14848000",
+    "longitude": "-101.63460000",
     "wikiDataId": null
   },
   {
@@ -4731,7 +5149,7 @@
   },
   {
     "id": 76294,
-    "name": "Zamora",
+    "name": "Zamora de Hidalgo",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
@@ -4786,13 +5204,24 @@
   },
   {
     "id": 76342,
-    "name": "Zinapécuaro",
+    "name": "Zinapécuaro de Figueroa",
     "state_id": 3474,
     "state_code": "MIC",
     "country_id": 142,
     "country_code": "MX",
     "latitude": "19.86006000",
     "longitude": "-100.82857000",
+    "wikiDataId": null
+  },
+  {
+    "id": 76344,
+    "name": "Zipiajo",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.79445000",
+    "longitude": "-101.55250000",
     "wikiDataId": null
   },
   {
@@ -4848,6 +5277,17 @@
     "country_code": "MX",
     "latitude": "19.40792000",
     "longitude": "-101.95840000",
+    "wikiDataId": null
+  },
+  {
+    "id": 76365,
+    "name": "Zopoco",
+    "state_id": 3474,
+    "state_code": "MIC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.84029000",
+    "longitude": "-102.07483000",
     "wikiDataId": null
   },
   {

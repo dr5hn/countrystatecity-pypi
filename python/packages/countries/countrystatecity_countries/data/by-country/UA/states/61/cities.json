@@ -11,6 +11,17 @@
     "wikiDataId": null
   },
   {
+    "id": 110873,
+    "name": "Berezhany",
+    "state_id": 4674,
+    "state_code": "61",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "49.45000000",
+    "longitude": "24.93333000",
+    "wikiDataId": null
+  },
+  {
     "id": 109434,
     "name": "Borshchiv",
     "state_id": 4674,
@@ -44,19 +55,8 @@
     "wikiDataId": null
   },
   {
-    "id": 109579,
-    "name": "Druzhba",
-    "state_id": 4674,
-    "state_code": "61",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "49.04251000",
-    "longitude": "25.45055000",
-    "wikiDataId": null
-  },
-  {
     "id": 109657,
-    "name": "Hrymayliv",
+    "name": "Hrymailiv",
     "state_id": 4674,
     "state_code": "61",
     "country_id": 230,
@@ -133,7 +133,7 @@
   },
   {
     "id": 110029,
-    "name": "Mikulintsy",
+    "name": "Mykulyntsi",
     "state_id": 4674,
     "state_code": "61",
     "country_id": 230,
@@ -166,7 +166,7 @@
   },
   {
     "id": 110256,
-    "name": "Petrikov",
+    "name": "Petrykiv",
     "state_id": 4674,
     "state_code": "61",
     "country_id": 230,
@@ -206,6 +206,17 @@
     "country_code": "UA",
     "latitude": "50.00509000",
     "longitude": "25.51183000",
+    "wikiDataId": null
+  },
+  {
+    "id": 149496,
+    "name": "Shumsk",
+    "state_id": 4674,
+    "state_code": "61",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "50.11944444",
+    "longitude": "26.11666667",
     "wikiDataId": null
   },
   {
@@ -264,8 +275,19 @@
     "wikiDataId": null
   },
   {
+    "id": 109579,
+    "name": "Trybukhivtsi",
+    "state_id": 4674,
+    "state_code": "61",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "49.04251000",
+    "longitude": "25.45055000",
+    "wikiDataId": null
+  },
+  {
     "id": 110682,
-    "name": "Velikiye Borki",
+    "name": "Velyki Birky",
     "state_id": 4674,
     "state_code": "61",
     "country_id": 230,
@@ -338,17 +360,6 @@
     "country_code": "UA",
     "latitude": "48.90950000",
     "longitude": "25.33926000",
-    "wikiDataId": null
-  },
-  {
-    "id": 110873,
-    "name": "Бережани",
-    "state_id": 4674,
-    "state_code": "61",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "49.45000000",
-    "longitude": "24.93333000",
     "wikiDataId": null
   }
 ]

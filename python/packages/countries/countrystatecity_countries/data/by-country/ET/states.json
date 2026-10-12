@@ -52,6 +52,19 @@
     "timezone": "Africa/Addis_Ababa"
   },
   {
+    "id": 5827,
+    "name": "Central Ethiopia",
+    "country_id": 70,
+    "country_code": "ET",
+    "state_code": "55",
+    "type": "region",
+    "latitude": "7.66666667",
+    "longitude": "38.00000000",
+    "iso3166_2": null,
+    "native": "ማዕከላዊ ኢትዮጵያ ክልላዊ መንግስት",
+    "timezone": "Africa/Addis_Ababa"
+  },
+  {
     "id": 8,
     "name": "Dire Dawa",
     "country_id": 70,
@@ -130,16 +143,16 @@
     "timezone": "Africa/Addis_Ababa"
   },
   {
-    "id": 1,
-    "name": "Southern Nations, Nationalities, and Peoples",
+    "id": 5828,
+    "name": "South Ethiopia",
     "country_id": 70,
     "country_code": "ET",
-    "state_code": "SN",
+    "state_code": "56",
     "type": "region",
-    "latitude": "6.51569110",
-    "longitude": "36.95410700",
-    "iso3166_2": "ET-SN",
-    "native": "ደቡብ ብሔር ብሔረሰቦችና ሕዝቦች",
+    "latitude": "6.85294900",
+    "longitude": "37.75454300",
+    "iso3166_2": null,
+    "native": "ደቡብ ኢትዮጵያ ክልላዊ መንግስት",
     "timezone": "Africa/Addis_Ababa"
   },
   {

@@ -1,24 +1,68 @@
 [
   {
-    "id": 144889,
+    "id": 81321,
+    "name": "Astorga",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.90722000",
+    "longitude": "125.45583000",
+    "wikiDataId": null
+  },
+  {
+    "id": 81507,
+    "name": "Balutakay",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.72111000",
+    "longitude": "125.35167000",
+    "wikiDataId": null
+  },
+  {
+    "id": 144124,
     "name": "Bansalan",
     "state_id": 1318,
     "state_code": "DAS",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "6.78693390",
-    "longitude": "125.21080710",
+    "latitude": "6.78333333",
+    "longitude": "125.21666667",
     "wikiDataId": null
   },
   {
-    "id": 144930,
-    "name": "Davao City",
+    "id": 82296,
+    "name": "Coronon",
     "state_id": 1318,
     "state_code": "DAS",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "7.25419890",
-    "longitude": "125.12141680",
+    "latitude": "6.87917000",
+    "longitude": "125.44889000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82328,
+    "name": "Dacudao",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.21528000",
+    "longitude": "125.47139000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82396,
+    "name": "Davao",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.07306000",
+    "longitude": "125.61278000",
     "wikiDataId": null
   },
   {
@@ -28,8 +72,41 @@
     "state_code": "DAS",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "6.84352490",
-    "longitude": "125.23817960",
+    "latitude": "6.83333000",
+    "longitude": "125.35000000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82450,
+    "name": "Dolo",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.81028000",
+    "longitude": "125.19167000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82621,
+    "name": "Guihing Proper",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.68444000",
+    "longitude": "125.35250000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82654,
+    "name": "Gumalang",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.20833000",
+    "longitude": "125.40361000",
     "wikiDataId": null
   },
   {
@@ -39,8 +116,19 @@
     "state_code": "DAS",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "6.69879730",
-    "longitude": "125.23344760",
+    "latitude": "6.68333000",
+    "longitude": "125.33333000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82743,
+    "name": "Inawayan",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.96083000",
+    "longitude": "125.47333000",
     "wikiDataId": null
   },
   {
@@ -50,8 +138,41 @@
     "state_code": "DAS",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "6.63096810",
-    "longitude": "125.13170900",
+    "latitude": "6.61667000",
+    "longitude": "125.21667000",
+    "wikiDataId": null
+  },
+  {
+    "id": 82972,
+    "name": "Lacson",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.21194000",
+    "longitude": "125.44222000",
+    "wikiDataId": null
+  },
+  {
+    "id": 83047,
+    "name": "Lasang",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.26694000",
+    "longitude": "125.66500000",
+    "wikiDataId": null
+  },
+  {
+    "id": 144224,
+    "name": "Magsaysay",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.76666667",
+    "longitude": "125.18333333",
     "wikiDataId": null
   },
   {
@@ -66,14 +187,36 @@
     "wikiDataId": null
   },
   {
+    "id": 83393,
+    "name": "Malagos",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.18500000",
+    "longitude": "125.42222000",
+    "wikiDataId": null
+  },
+  {
     "id": 144995,
     "name": "Malalag",
     "state_id": 1318,
     "state_code": "DAS",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "6.52397850",
-    "longitude": "125.14508380",
+    "latitude": "6.59274444",
+    "longitude": "125.40010278",
+    "wikiDataId": null
+  },
+  {
+    "id": 83484,
+    "name": "Managa",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.74611000",
+    "longitude": "125.26806000",
     "wikiDataId": null
   },
   {
@@ -83,8 +226,30 @@
     "state_code": "DAS",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "6.73990220",
-    "longitude": "125.06744830",
+    "latitude": "6.66065000",
+    "longitude": "125.16769000",
+    "wikiDataId": null
+  },
+  {
+    "id": 83632,
+    "name": "Matti",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.77056000",
+    "longitude": "125.30861000",
+    "wikiDataId": null
+  },
+  {
+    "id": 83801,
+    "name": "New Baclayon",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.58417000",
+    "longitude": "125.36944000",
     "wikiDataId": null
   },
   {
@@ -94,8 +259,8 @@
     "state_code": "DAS",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "6.65034450",
-    "longitude": "125.21705710",
+    "latitude": "6.63920556",
+    "longitude": "125.34159444",
     "wikiDataId": null
   },
   {
@@ -110,14 +275,135 @@
     "wikiDataId": null
   },
   {
+    "id": 144287,
+    "name": "Santa Cruz",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.83333333",
+    "longitude": "125.41666667",
+    "wikiDataId": null
+  },
+  {
+    "id": 84811,
+    "name": "Sinawilan",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.75444000",
+    "longitude": "125.24639000",
+    "wikiDataId": null
+  },
+  {
+    "id": 84812,
+    "name": "Sinayawan",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.71250000",
+    "longitude": "125.30944000",
+    "wikiDataId": null
+  },
+  {
+    "id": 84829,
+    "name": "Sirib",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.13333000",
+    "longitude": "125.40722000",
+    "wikiDataId": null
+  },
+  {
     "id": 145066,
     "name": "Sulop",
     "state_id": 1318,
     "state_code": "DAS",
     "country_id": 174,
     "country_code": "PH",
-    "latitude": "6.62101640",
-    "longitude": "125.24456580",
+    "latitude": "6.59861000",
+    "longitude": "125.34361000",
+    "wikiDataId": null
+  },
+  {
+    "id": 84926,
+    "name": "Tagakpan",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.11278000",
+    "longitude": "125.42917000",
+    "wikiDataId": null
+  },
+  {
+    "id": 85003,
+    "name": "Tamayong",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.13306000",
+    "longitude": "125.37972000",
+    "wikiDataId": null
+  },
+  {
+    "id": 85027,
+    "name": "Tamugan",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.23083000",
+    "longitude": "125.37639000",
+    "wikiDataId": null
+  },
+  {
+    "id": 85184,
+    "name": "Tuban",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "6.82278000",
+    "longitude": "125.38694000",
+    "wikiDataId": null
+  },
+  {
+    "id": 85245,
+    "name": "Ula",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.13222000",
+    "longitude": "125.49222000",
+    "wikiDataId": null
+  },
+  {
+    "id": 85315,
+    "name": "Wañgan",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.15972000",
+    "longitude": "125.44528000",
+    "wikiDataId": null
+  },
+  {
+    "id": 85316,
+    "name": "Wines",
+    "state_id": 1318,
+    "state_code": "DAS",
+    "country_id": 174,
+    "country_code": "PH",
+    "latitude": "7.19389000",
+    "longitude": "125.38917000",
     "wikiDataId": null
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "id": 164587,
+    "name": "Baimajing",
+    "state_id": 2273,
+    "state_code": "HI",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "19.71195000",
+    "longitude": "109.21801000",
+    "wikiDataId": null
+  },
+  {
     "id": 157669,
     "name": "Baisha",
     "state_id": 2273,
@@ -66,17 +77,6 @@
     "wikiDataId": null
   },
   {
-    "id": 157656,
-    "name": "Chengqu",
-    "state_id": 2273,
-    "state_code": "HI",
-    "country_id": 45,
-    "country_code": "CN",
-    "latitude": "0.00000000",
-    "longitude": "0.00000000",
-    "wikiDataId": null
-  },
-  {
     "id": 19406,
     "name": "Chongshan",
     "state_id": 2273,
@@ -118,17 +118,6 @@
     "country_code": "CN",
     "latitude": "19.48583300",
     "longitude": "110.30555600",
-    "wikiDataId": null
-  },
-  {
-    "id": 157658,
-    "name": "Directly",
-    "state_id": 2273,
-    "state_code": "HI",
-    "country_id": 45,
-    "country_code": "CN",
-    "latitude": "0.00000000",
-    "longitude": "0.00000000",
     "wikiDataId": null
   },
   {
@@ -297,17 +286,6 @@
     "wikiDataId": null
   },
   {
-    "id": 157647,
-    "name": "Qiongshan",
-    "state_id": 2273,
-    "state_code": "HI",
-    "country_id": 45,
-    "country_code": "CN",
-    "latitude": "19.98587820",
-    "longitude": "110.38019660",
-    "wikiDataId": null
-  },
-  {
     "id": 20034,
     "name": "Qiongshan",
     "state_id": 2273,
@@ -316,6 +294,17 @@
     "country_code": "CN",
     "latitude": "20.00583000",
     "longitude": "110.35417000",
+    "wikiDataId": null
+  },
+  {
+    "id": 157647,
+    "name": "Qiongshan",
+    "state_id": 2273,
+    "state_code": "HI",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "19.98587820",
+    "longitude": "110.38019660",
     "wikiDataId": null
   },
   {

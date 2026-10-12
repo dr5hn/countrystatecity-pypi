@@ -166,7 +166,7 @@
   },
   {
     "id": 68566,
-    "name": "Batopilas",
+    "name": "Batopilas de Manuel Gómez Morín",
     "state_id": 3447,
     "state_code": "CHH",
     "country_id": 142,
@@ -287,7 +287,7 @@
   },
   {
     "id": 69126,
-    "name": "Chínipas",
+    "name": "Chínipas de Almada",
     "state_id": 3447,
     "state_code": "CHH",
     "country_id": 142,
@@ -396,17 +396,6 @@
     "wikiDataId": null
   },
   {
-    "id": 69515,
-    "name": "Coyame",
-    "state_id": 3447,
-    "state_code": "CHH",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "29.46141000",
-    "longitude": "-105.09404000",
-    "wikiDataId": null
-  },
-  {
     "id": 69516,
     "name": "Coyame del Sotol",
     "state_id": 3447,
@@ -426,6 +415,17 @@
     "country_code": "MX",
     "latitude": "27.75054000",
     "longitude": "-107.63520000",
+    "wikiDataId": null
+  },
+  {
+    "id": 71594,
+    "name": "Cruces",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "29.43278000",
+    "longitude": "-107.38958000",
     "wikiDataId": null
   },
   {
@@ -528,17 +528,6 @@
     "wikiDataId": null
   },
   {
-    "id": 70074,
-    "name": "El Oro",
-    "state_id": 3447,
-    "state_code": "CHH",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "26.86320000",
-    "longitude": "-105.84838000",
-    "wikiDataId": null
-  },
-  {
     "id": 70200,
     "name": "El Sauz",
     "state_id": 3447,
@@ -602,17 +591,6 @@
     "country_code": "MX",
     "latitude": "30.10916000",
     "longitude": "-107.63167000",
-    "wikiDataId": null
-  },
-  {
-    "id": 70645,
-    "name": "Gómez Farías",
-    "state_id": 3447,
-    "state_code": "CHH",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "29.35981000",
-    "longitude": "-107.73960000",
     "wikiDataId": null
   },
   {
@@ -701,6 +679,17 @@
     "country_code": "MX",
     "latitude": "27.07964000",
     "longitude": "-105.70722000",
+    "wikiDataId": null
+  },
+  {
+    "id": 72660,
+    "name": "Hidalgo del Parral",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.93022000",
+    "longitude": "-105.66640000",
     "wikiDataId": null
   },
   {
@@ -847,17 +836,6 @@
     "wikiDataId": null
   },
   {
-    "id": 71594,
-    "name": "Las Cruces",
-    "state_id": 3447,
-    "state_code": "CHH",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "29.43278000",
-    "longitude": "-107.38958000",
-    "wikiDataId": null
-  },
-  {
     "id": 71649,
     "name": "Las Varas",
     "state_id": 3447,
@@ -990,14 +968,14 @@
     "wikiDataId": null
   },
   {
-    "id": 72075,
-    "name": "Meoqui",
+    "id": 72440,
+    "name": "Melchor Ocampo",
     "state_id": 3447,
     "state_code": "CHH",
     "country_id": 142,
     "country_code": "MX",
-    "latitude": "28.27226000",
-    "longitude": "-105.48046000",
+    "latitude": "28.19367000",
+    "longitude": "-108.36760000",
     "wikiDataId": null
   },
   {
@@ -1031,6 +1009,17 @@
     "country_code": "MX",
     "latitude": "28.15361000",
     "longitude": "-105.39389000",
+    "wikiDataId": null
+  },
+  {
+    "id": 72140,
+    "name": "Milpillas",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.20534000",
+    "longitude": "-108.64493000",
     "wikiDataId": null
   },
   {
@@ -1090,7 +1079,7 @@
   },
   {
     "id": 72317,
-    "name": "Nicolas Bravo",
+    "name": "Nicolás Bravo",
     "state_id": 3447,
     "state_code": "CHH",
     "country_id": 142,
@@ -1130,17 +1119,6 @@
     "country_code": "MX",
     "latitude": "30.41552000",
     "longitude": "-107.91166000",
-    "wikiDataId": null
-  },
-  {
-    "id": 72440,
-    "name": "Ocampo",
-    "state_id": 3447,
-    "state_code": "CHH",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "28.19367000",
-    "longitude": "-108.36760000",
     "wikiDataId": null
   },
   {
@@ -1188,14 +1166,14 @@
     "wikiDataId": null
   },
   {
-    "id": 72660,
-    "name": "Parral",
+    "id": 72075,
+    "name": "Pedro Meoqui",
     "state_id": 3447,
     "state_code": "CHH",
     "country_id": 142,
     "country_code": "MX",
-    "latitude": "26.93022000",
-    "longitude": "-105.66640000",
+    "latitude": "28.27226000",
+    "longitude": "-105.48046000",
     "wikiDataId": null
   },
   {
@@ -1284,17 +1262,6 @@
     "country_code": "MX",
     "latitude": "29.91982000",
     "longitude": "-107.52079000",
-    "wikiDataId": null
-  },
-  {
-    "id": 73159,
-    "name": "Rosales",
-    "state_id": 3447,
-    "state_code": "CHH",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "28.18753000",
-    "longitude": "-105.55717000",
     "wikiDataId": null
   },
   {
@@ -1397,6 +1364,17 @@
     "wikiDataId": null
   },
   {
+    "id": 70074,
+    "name": "San Francisco del Oro",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.86320000",
+    "longitude": "-105.84838000",
+    "wikiDataId": null
+  },
+  {
     "id": 73620,
     "name": "San Francisco del Oro",
     "state_id": 3447,
@@ -1463,6 +1441,17 @@
     "wikiDataId": null
   },
   {
+    "id": 73159,
+    "name": "Santa Cruz de Rosales",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.18753000",
+    "longitude": "-105.55717000",
+    "wikiDataId": null
+  },
+  {
     "id": 74657,
     "name": "Santa Eulalia",
     "state_id": 3447,
@@ -1482,6 +1471,17 @@
     "country_code": "MX",
     "latitude": "28.34166000",
     "longitude": "-106.37220000",
+    "wikiDataId": null
+  },
+  {
+    "id": 69515,
+    "name": "Santiago de Coyame",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "29.46141000",
+    "longitude": "-105.09404000",
     "wikiDataId": null
   },
   {
@@ -1573,6 +1573,17 @@
     "wikiDataId": null
   },
   {
+    "id": 70645,
+    "name": "Valentín Gómez Farías",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "29.35981000",
+    "longitude": "-107.73960000",
+    "wikiDataId": null
+  },
+  {
     "id": 75910,
     "name": "Valentín Gómez Farías",
     "state_id": 3447,
@@ -1585,7 +1596,7 @@
   },
   {
     "id": 75919,
-    "name": "Valle de Allende",
+    "name": "Valle de Ignacio Allende",
     "state_id": 3447,
     "state_code": "CHH",
     "country_id": 142,
@@ -1614,17 +1625,6 @@
     "country_code": "MX",
     "latitude": "27.31881000",
     "longitude": "-106.29551000",
-    "wikiDataId": null
-  },
-  {
-    "id": 76252,
-    "name": "Yécora",
-    "state_id": 3447,
-    "state_code": "CHH",
-    "country_id": 142,
-    "country_code": "MX",
-    "latitude": "28.37154000",
-    "longitude": "-108.92781000",
     "wikiDataId": null
   }
 ]

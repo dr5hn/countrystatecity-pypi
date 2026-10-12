@@ -52,19 +52,6 @@
     "timezone": "America/Port_of_Spain"
   },
   {
-    "id": 3355,
-    "name": "Eastern Tobago",
-    "country_id": 223,
-    "country_code": "TT",
-    "state_code": "ETO",
-    "type": "region",
-    "latitude": "11.28322320",
-    "longitude": "-60.69250660",
-    "iso3166_2": "TT-ETO",
-    "native": "Eastern Tobago",
-    "timezone": "America/Port_of_Spain"
-  },
-  {
     "id": 3365,
     "name": "Penal-Debe",
     "country_id": 223,
@@ -205,19 +192,6 @@
     "longitude": "-61.32052740",
     "iso3166_2": "TT-TUP",
     "native": "Tunapuna-Piarco",
-    "timezone": "America/Port_of_Spain"
-  },
-  {
-    "id": 3353,
-    "name": "Western Tobago",
-    "country_id": 223,
-    "country_code": "TT",
-    "state_code": "WTO",
-    "type": "region",
-    "latitude": "11.15728850",
-    "longitude": "-60.81650130",
-    "iso3166_2": "TT-WTO",
-    "native": "Western Tobago",
     "timezone": "America/Port_of_Spain"
   }
 ]

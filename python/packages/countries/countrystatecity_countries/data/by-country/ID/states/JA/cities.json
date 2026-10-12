@@ -1,13 +1,13 @@
 [
   {
-    "id": 56347,
-    "name": "Batang Hari",
+    "id": 56532,
+    "name": "Bangko",
     "state_id": 1815,
     "state_code": "JA",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-1.75000000",
-    "longitude": "103.11667000",
+    "latitude": "-2.05107512",
+    "longitude": "102.28165028",
     "wikiDataId": null
   },
   {
@@ -77,25 +77,36 @@
     "wikiDataId": null
   },
   {
-    "id": 56532,
-    "name": "Merangin",
+    "id": 56347,
+    "name": "Muara Bulian",
     "state_id": 1815,
     "state_code": "JA",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-2.06933000",
-    "longitude": "102.13303000",
+    "latitude": "-1.71425720",
+    "longitude": "103.26157620",
     "wikiDataId": null
   },
   {
-    "id": 56543,
-    "name": "Muaro Jambi",
+    "id": 56669,
+    "name": "Muara Sabak",
     "state_id": 1815,
     "state_code": "JA",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-1.55214000",
-    "longitude": "103.82163000",
+    "latitude": "-1.20601162",
+    "longitude": "103.79034467",
+    "wikiDataId": null
+  },
+  {
+    "id": 56675,
+    "name": "Muara Tebo",
+    "state_id": 1815,
+    "state_code": "JA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.46607500",
+    "longitude": "102.35824390",
     "wikiDataId": null
   },
   {
@@ -105,8 +116,19 @@
     "state_code": "JA",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-2.30000000",
-    "longitude": "102.65000000",
+    "latitude": "-2.31321485",
+    "longitude": "102.75045406",
+    "wikiDataId": null
+  },
+  {
+    "id": 56543,
+    "name": "Sengeti",
+    "state_id": 1815,
+    "state_code": "JA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.44795250",
+    "longitude": "103.51545370",
     "wikiDataId": null
   },
   {
@@ -140,28 +162,6 @@
     "country_code": "ID",
     "latitude": "-1.15440000",
     "longitude": "103.24402000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56669,
-    "name": "Tanjung Jabung Timur",
-    "state_id": 1815,
-    "state_code": "JA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.13198000",
-    "longitude": "103.61755000",
-    "wikiDataId": null
-  },
-  {
-    "id": 56675,
-    "name": "Tebo",
-    "state_id": 1815,
-    "state_code": "JA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.45576000",
-    "longitude": "102.37473000",
     "wikiDataId": null
   }
 ]

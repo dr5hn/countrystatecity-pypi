@@ -1,5 +1,16 @@
 [
   {
+    "id": 164447,
+    "name": "Algarrobo del Águila",
+    "state_id": 3655,
+    "state_code": "L",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-36.40053000",
+    "longitude": "-67.14457000",
+    "wikiDataId": null
+  },
+  {
     "id": 652,
     "name": "Alpachiri",
     "state_id": 3655,
@@ -96,28 +107,6 @@
     "country_code": "AR",
     "latitude": "-36.15152000",
     "longitude": "-63.85404000",
-    "wikiDataId": null
-  },
-  {
-    "id": 843,
-    "name": "Departamento de Caleu-Caleu",
-    "state_id": 3655,
-    "state_code": "L",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-38.58333000",
-    "longitude": "-64.00000000",
-    "wikiDataId": null
-  },
-  {
-    "id": 1021,
-    "name": "Departamento de Toay",
-    "state_id": 3655,
-    "state_code": "L",
-    "country_id": 11,
-    "country_code": "AR",
-    "latitude": "-36.58333000",
-    "longitude": "-64.80000000",
     "wikiDataId": null
   },
   {
@@ -371,6 +360,17 @@
     "country_code": "AR",
     "latitude": "-36.26429000",
     "longitude": "-65.51018000",
+    "wikiDataId": null
+  },
+  {
+    "id": 1021,
+    "name": "Toay",
+    "state_id": 3655,
+    "state_code": "L",
+    "country_id": 11,
+    "country_code": "AR",
+    "latitude": "-36.67500000",
+    "longitude": "-64.37850000",
     "wikiDataId": null
   },
   {
