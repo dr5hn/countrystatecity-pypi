@@ -1,14 +1,6 @@
 name: Publish to PyPI
 
 on:
-  push:
-    branches: [main, master]
-    paths:
-      - 'python/packages/*/pyproject.toml'
-      # Offline data packages import as countrystatecity_<name>; the API client
-      # imports as the bare countrystatecity namespace.
-      - 'python/packages/*/countrystatecity_*/**'
-      - 'python/packages/*/countrystatecity/**'
   workflow_dispatch:
     inputs:
       package:
@@ -57,10 +49,9 @@ jobs:
     outputs:
       packages: ${{ steps.resolve.outputs.packages }}
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
         with:
           ref: ${{ inputs.ref || github.sha }}
-          fetch-depth: 2
 
       - name: Resolve package list
         id: resolve
@@ -74,25 +65,8 @@ jobs:
           elif [ -n "$INPUT" ]; then
             echo "packages=[\"$INPUT\"]" >> $GITHUB_OUTPUT
           else
-            # Push trigger: only publish packages whose files actually changed
-            PKGS=""
-            for pkg in countries timezones currencies translations phonecodes regions postal_codes api; do
-              if [ "$pkg" = "api" ]; then
-                MODULE="countrystatecity"
-              else
-                MODULE="countrystatecity_$pkg"
-              fi
-              if git diff --name-only HEAD~1 HEAD -- \
-                "python/packages/$pkg/pyproject.toml" \
-                "python/packages/$pkg/$MODULE/" | grep -q .; then
-                PKGS="${PKGS}\"${pkg}\","
-              fi
-            done
-            PKGS="[${PKGS%,}]"
-            if [ "$PKGS" = "[]" ]; then
-              PKGS="$ALL_PACKAGES"
-            fi
-            echo "packages=$PKGS" >> $GITHUB_OUTPUT
+            echo "A package or group must be selected explicitly" >&2
+            exit 1
           fi
 
   publish:
@@ -108,15 +82,15 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         with:
           ref: ${{ inputs.ref || github.sha }}
           fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v7
         with:
-          python-version: '3.12'
+          python-version: '3.15'
 
       - name: Resolve package identity
         id: pkg
@@ -140,7 +114,7 @@ jobs:
 
       - name: Install build tools
         run: |
-          pip install build twine
+          pip install "build>=1.6.1" "twine>=7.0.0"
 
       - name: Install dependencies
         working-directory: python/packages/${{ matrix.package }}

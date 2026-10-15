@@ -24,14 +24,14 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v7
         with:
-          python-version: '3.12'
+          python-version: '3.15'
 
       - name: Install dependencies
         run: |
@@ -116,6 +116,7 @@ jobs:
   publish:
     name: Publish the offline data packages to PyPI
     needs: release
+    if: needs.release.result == 'success' && needs.release.outputs.ref != ''
     uses: ./.github/workflows/publish.yml
     with:
       package: data

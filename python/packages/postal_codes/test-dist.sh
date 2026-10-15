@@ -2,7 +2,7 @@
 set -e
 
 echo "==> Installing build tool..."
-pip install build -q
+pip install "build>=1.2.2.post1; python_version < '3.9'" "build>=1.4.4; python_version >= '3.9' and python_version < '3.10'" "build>=1.6.1; python_version >= '3.10'" -q
 
 echo "==> Building package..."
 python3 -m build

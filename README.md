@@ -342,7 +342,7 @@ postcodes = get_postcodes_of_country("AD")
 - ✅ **Regions and subregions** for 250 countries
 - ✅ **844,248 postal/ZIP-code records** across 125 countries, with validation regexes for 189
 - ✅ **Zero external dependencies** (except Pydantic)
-- ✅ **Python 3.8–3.12** support
+- ✅ **Python 3.8–3.15** CI coverage
 - ✅ **Full test coverage** with pytest
 
 ## 🏗️ Repository Structure
@@ -376,6 +376,10 @@ explicit.
 Version bumps differ too: `release.yml` moves the seven data packages in
 lockstep on every upstream data sync, while `countrystatecity-api` is versioned by
 hand — it ships no data, so a data sync does not change it.
+
+Publishing runs only after a successful `data-update` release with an exact
+commit ref, or through an explicit manual dispatch of `publish.yml`. Ordinary
+pushes and dependency PR merges do not publish packages.
 
 ## 🛠️ Development
 
