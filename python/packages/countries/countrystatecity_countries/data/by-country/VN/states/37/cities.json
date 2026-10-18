@@ -1,5 +1,29 @@
 [
   {
+    "id": 130239,
+    "name": "Bến Cầu",
+    "state_id": 3826,
+    "state_code": "37",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "11.11051000",
+    "longitude": "106.17924000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130271,
+    "name": "Cần Đước",
+    "state_id": 3826,
+    "state_code": "37",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "10.50966000",
+    "longitude": "106.60308000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 130190,
     "name": "Cần Giuộc",
     "state_id": 3826,
@@ -12,14 +36,50 @@
     "wikiDataId": null
   },
   {
-    "id": 130239,
-    "name": "Huyện Bến Cầu",
+    "id": 130282,
+    "name": "Dương Minh Châu",
     "state_id": 3826,
     "state_code": "37",
     "country_id": 240,
     "country_code": "VN",
-    "latitude": "11.12889000",
-    "longitude": "106.14296000",
+    "latitude": "11.38414000",
+    "longitude": "106.23078000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130550,
+    "name": "Đông Thành",
+    "state_id": 3826,
+    "state_code": "37",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "10.89221000",
+    "longitude": "106.30614000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130294,
+    "name": "Gò Dầu",
+    "state_id": 3826,
+    "state_code": "37",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "11.08850000",
+    "longitude": "106.26346000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130551,
+    "name": "Hậu Nghĩa",
+    "state_id": 3826,
+    "state_code": "37",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "10.89434000",
+    "longitude": "106.39695000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -32,90 +92,6 @@
     "country_code": "VN",
     "latitude": "10.68858000",
     "longitude": "106.45484000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130271,
-    "name": "Huyện Cần Đước",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.54148000",
-    "longitude": "106.59636000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130270,
-    "name": "Huyện Cần Giuộc",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.57742000",
-    "longitude": "106.67279000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130251,
-    "name": "Huyện Châu Thành",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.45214000",
-    "longitude": "106.49015000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130282,
-    "name": "Huyện Dương Minh Châu",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "11.31833000",
-    "longitude": "106.25697000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130551,
-    "name": "Huyện Đức Hòa",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.87838000",
-    "longitude": "106.42422000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130550,
-    "name": "Huyện Đức Huệ",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.86473000",
-    "longitude": "106.25914000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130294,
-    "name": "Huyện Gò Dầu",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "11.15737000",
-    "longitude": "106.27307000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -144,30 +120,6 @@
     "wikiDataId": null
   },
   {
-    "id": 130480,
-    "name": "Huyện Tân Châu",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "11.58739000",
-    "longitude": "106.28270000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130482,
-    "name": "Huyện Tân Hưng",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.83380000",
-    "longitude": "105.68848000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 130488,
     "name": "Huyện Tân Thạnh",
     "state_id": 3826,
@@ -176,42 +128,6 @@
     "country_code": "VN",
     "latitude": "10.60351000",
     "longitude": "105.96576000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130489,
-    "name": "Huyện Tân Trụ",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.53182000",
-    "longitude": "106.51644000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130448,
-    "name": "Huyện Thạnh Hóa",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.66667000",
-    "longitude": "106.16667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130454,
-    "name": "Huyện Thủ Thừa",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.65639000",
-    "longitude": "106.34580000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -228,18 +144,6 @@
     "wikiDataId": null
   },
   {
-    "id": 130499,
-    "name": "Huyện Vĩnh Hưng",
-    "state_id": 3826,
-    "state_code": "37",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.88299000",
-    "longitude": "105.80364000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 130581,
     "name": "Phú Khương",
     "state_id": 3826,
@@ -248,6 +152,18 @@
     "country_code": "VN",
     "latitude": "11.28333000",
     "longitude": "106.13333000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130251,
+    "name": "Tầm Vu",
+    "state_id": 3826,
+    "state_code": "37",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "10.44114000",
+    "longitude": "106.46793000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -264,6 +180,42 @@
     "wikiDataId": null
   },
   {
+    "id": 130480,
+    "name": "Tân Châu",
+    "state_id": 3826,
+    "state_code": "37",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "11.55202000",
+    "longitude": "106.17245000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130482,
+    "name": "Tân Hưng",
+    "state_id": 3826,
+    "state_code": "37",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "10.83476000",
+    "longitude": "105.66135000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130489,
+    "name": "Tân Trụ",
+    "state_id": 3826,
+    "state_code": "37",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "10.51271000",
+    "longitude": "106.50762000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 130621,
     "name": "Tây Ninh",
     "state_id": 3826,
@@ -272,6 +224,42 @@
     "country_code": "VN",
     "latitude": "11.31004000",
     "longitude": "106.09828000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130448,
+    "name": "Thạnh Hóa",
+    "state_id": 3826,
+    "state_code": "37",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "10.65744000",
+    "longitude": "106.18081000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130454,
+    "name": "Thủ Thừa",
+    "state_id": 3826,
+    "state_code": "37",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "10.60232000",
+    "longitude": "106.40207000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130499,
+    "name": "Vĩnh Hưng",
+    "state_id": 3826,
+    "state_code": "37",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "10.89067000",
+    "longitude": "105.78495000",
     "county_id": null,
     "wikiDataId": null
   }

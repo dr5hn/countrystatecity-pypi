@@ -1,13 +1,37 @@
 [
   {
     "id": 130223,
-    "name": "Huyện Bình Lục",
+    "name": "Bình Mỹ",
     "state_id": 3786,
     "state_code": "18",
     "country_id": 240,
     "country_code": "VN",
-    "latitude": "20.50126000",
-    "longitude": "106.02959000",
+    "latitude": "20.49121000",
+    "longitude": "106.00955000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130474,
+    "name": "Cổ Lễ",
+    "state_id": 3786,
+    "state_code": "18",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "20.32336000",
+    "longitude": "106.26584000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130315,
+    "name": "Hải Hậu",
+    "state_id": 3786,
+    "state_code": "18",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "20.20145000",
+    "longitude": "106.29578000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -36,18 +60,6 @@
     "wikiDataId": null
   },
   {
-    "id": 130315,
-    "name": "Huyện Hải Hậu",
-    "state_id": 3786,
-    "state_code": "18",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "20.15057000",
-    "longitude": "106.27161000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 130297,
     "name": "Huyện Hoa Lư",
     "state_id": 3786,
@@ -72,30 +84,6 @@
     "wikiDataId": null
   },
   {
-    "id": 130327,
-    "name": "Huyện Kim Sơn",
-    "state_id": 3786,
-    "state_code": "18",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "20.06034000",
-    "longitude": "106.09863000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130347,
-    "name": "Huyện Lý Nhân",
-    "state_id": 3786,
-    "state_code": "18",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "20.56422000",
-    "longitude": "106.09455000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 130370,
     "name": "Huyện Mỹ Lộc",
     "state_id": 3786,
@@ -104,30 +92,6 @@
     "country_code": "VN",
     "latitude": "20.46079000",
     "longitude": "106.12319000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130377,
-    "name": "Huyện Nam Trực",
-    "state_id": 3786,
-    "state_code": "18",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "20.34106000",
-    "longitude": "106.20821000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130384,
-    "name": "Huyện Nghĩa Hưng",
-    "state_id": 3786,
-    "state_code": "18",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "20.10598000",
-    "longitude": "106.17345000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -156,30 +120,6 @@
     "wikiDataId": null
   },
   {
-    "id": 130474,
-    "name": "Huyện Trực Ninh",
-    "state_id": 3786,
-    "state_code": "18",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "20.25690000",
-    "longitude": "106.24582000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130509,
-    "name": "Huyện Vụ Bản",
-    "state_id": 3786,
-    "state_code": "18",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "20.37705000",
-    "longitude": "106.09707000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 130526,
     "name": "Huyện Ý Yên",
     "state_id": 3786,
@@ -188,30 +128,6 @@
     "country_code": "VN",
     "latitude": "20.31669000",
     "longitude": "106.02327000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130513,
-    "name": "Huyện Yên Khánh",
-    "state_id": 3786,
-    "state_code": "18",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "20.19017000",
-    "longitude": "106.09605000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130517,
-    "name": "Huyện Yên Mô",
-    "state_id": 3786,
-    "state_code": "18",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "20.12984000",
-    "longitude": "106.00199000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -228,6 +144,30 @@
     "wikiDataId": null
   },
   {
+    "id": 130377,
+    "name": "Nam Trực",
+    "state_id": 3786,
+    "state_code": "18",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "20.33322000",
+    "longitude": "106.17754000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130384,
+    "name": "Nghĩa Hưng",
+    "state_id": 3786,
+    "state_code": "18",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "20.22095000",
+    "longitude": "106.18747000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 130577,
     "name": "Ninh Bình",
     "state_id": 3786,
@@ -240,6 +180,18 @@
     "wikiDataId": null
   },
   {
+    "id": 130327,
+    "name": "Phát Diệm",
+    "state_id": 3786,
+    "state_code": "18",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "20.09054000",
+    "longitude": "106.08323000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 130582,
     "name": "Phủ Lý",
     "state_id": 3786,
@@ -248,6 +200,54 @@
     "country_code": "VN",
     "latitude": "20.54531000",
     "longitude": "105.91221000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130347,
+    "name": "Vĩnh Trụ",
+    "state_id": 3786,
+    "state_code": "18",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "20.56020000",
+    "longitude": "106.02812000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130509,
+    "name": "Vụ Bản",
+    "state_id": 3786,
+    "state_code": "18",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "20.33335000",
+    "longitude": "106.07826000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130513,
+    "name": "Yên Khánh",
+    "state_id": 3786,
+    "state_code": "18",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "20.18396000",
+    "longitude": "106.06121000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 130517,
+    "name": "Yên Mô",
+    "state_id": 3786,
+    "state_code": "18",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "20.16245000",
+    "longitude": "106.00697000",
     "county_id": null,
     "wikiDataId": null
   }
