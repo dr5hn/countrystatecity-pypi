@@ -82,7 +82,7 @@ This implementation brings the specifications in `@specs/` folder to life by cre
 #### pyproject.toml
 - ✅ Modern Python packaging (setuptools backend)
 - ✅ Python 3.8+ support
-- ✅ Single runtime dependency (pydantic>=2.0.0)
+- ✅ Single runtime dependency (pydantic>=2.4.0)
 - ✅ Comprehensive dev dependencies
 - ✅ Package metadata and classifiers
 - ✅ Tool configurations (pytest, mypy, black, isort, ruff)

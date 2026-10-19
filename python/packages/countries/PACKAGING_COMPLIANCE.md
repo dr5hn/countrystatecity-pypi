@@ -26,7 +26,7 @@ This document verifies compliance with the official Python Packaging Authority g
 
 ### Recommended Metadata
 
-- [x] **dependencies** - Single runtime dependency: pydantic>=2.0.0,<3.0.0
+- [x] **dependencies** - Single runtime dependency: pydantic>=2.4.0,<3.0.0
 - [x] **optional-dependencies** - Dev dependencies properly separated
 - [x] **urls** - 6 URLs defined (Homepage, Documentation, Repository, Source, Issues, Changelog)
 
