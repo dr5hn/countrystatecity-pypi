@@ -2,6 +2,12 @@
 
 All notable changes to `countrystatecity-countries` (Python) will be documented in this file.
 
+## [Unreleased]
+
+### Changed
+- Raised the minimum Pydantic version to 2.4.0 across all seven offline
+  packages to exclude versions affected by the email-validation ReDoS.
+
 ## [1.0.1] - 2026-03-28
 
 ### Changed

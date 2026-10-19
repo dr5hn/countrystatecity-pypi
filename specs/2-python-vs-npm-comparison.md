@@ -161,7 +161,7 @@ def load_country_metadata(country_code: str) -> dict:
 name = "countrystatecity-countries"
 version = "1.0.0"
 requires-python = ">=3.8"
-dependencies = ["pydantic>=2.0.0,<3.0.0"]
+dependencies = ["pydantic>=2.4.0,<3.0.0"]
 
 [project.urls]
 Homepage = "https://github.com/dr5hn/countries-states-cities-database"

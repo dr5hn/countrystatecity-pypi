@@ -82,7 +82,7 @@
 Package:      countrystatecity-countries
 Import:       countrystatecity_countries
 Version:      1.0.0
-Dependencies: pydantic>=2.0.0,<3.0.0
+Dependencies: pydantic>=2.4.0,<3.0.0
 Features:     • 250+ countries with full metadata
               • 5,000+ states/provinces
               • 151,000+ cities
