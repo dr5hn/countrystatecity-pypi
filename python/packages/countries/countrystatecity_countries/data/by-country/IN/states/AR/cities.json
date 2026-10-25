@@ -32,7 +32,7 @@
     "country_code": "IN",
     "latitude": "27.99008000",
     "longitude": "94.69451000",
-    "county_id": null,
+    "county_id": 11897,
     "wikiDataId": null
   },
   {
@@ -60,6 +60,18 @@
     "wikiDataId": null
   },
   {
+    "id": 167601,
+    "name": "Daporijo",
+    "state_id": 4024,
+    "state_code": "AR",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "27.98611111",
+    "longitude": "94.22166667",
+    "county_id": 10851,
+    "wikiDataId": null
+  },
+  {
     "id": 131763,
     "name": "Dibang Valley",
     "state_id": 4024,
@@ -68,18 +80,6 @@
     "country_code": "IN",
     "latitude": "28.70000000",
     "longitude": "95.70000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 131826,
-    "name": "East Kameng",
-    "state_id": 4024,
-    "state_code": "AR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "27.30000000",
-    "longitude": "93.05000000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -156,42 +156,6 @@
     "wikiDataId": null
   },
   {
-    "id": 132769,
-    "name": "Lohit",
-    "state_id": 4024,
-    "state_code": "AR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "27.84012000",
-    "longitude": "96.19521000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 132779,
-    "name": "Lower Dibang Valley",
-    "state_id": 4024,
-    "state_code": "AR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "28.37258000",
-    "longitude": "95.88040000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 132780,
-    "name": "Lower Subansiri",
-    "state_id": 4024,
-    "state_code": "AR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "27.62554000",
-    "longitude": "93.93908000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 133121,
     "name": "Naharlagun",
     "state_id": 4024,
@@ -224,7 +188,7 @@
     "country_code": "IN",
     "latitude": "28.21022000",
     "longitude": "94.98873000",
-    "county_id": null,
+    "county_id": 11175,
     "wikiDataId": null
   },
   {
@@ -237,6 +201,30 @@
     "latitude": "28.06631000",
     "longitude": "95.32678000",
     "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 167559,
+    "name": "Roing",
+    "state_id": 4024,
+    "state_code": "AR",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "28.14277778",
+    "longitude": "95.84277778",
+    "county_id": 10847,
+    "wikiDataId": null
+  },
+  {
+    "id": 167531,
+    "name": "Seppa",
+    "state_id": 4024,
+    "state_code": "AR",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "27.35000000",
+    "longitude": "93.04555556",
+    "county_id": 10844,
     "wikiDataId": null
   },
   {
@@ -264,18 +252,6 @@
     "wikiDataId": null
   },
   {
-    "id": 134199,
-    "name": "Tirap",
-    "state_id": 4024,
-    "state_code": "AR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "27.01917000",
-    "longitude": "95.51788000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 134288,
     "name": "Upper Siang",
     "state_id": 4024,
@@ -284,42 +260,6 @@
     "country_code": "IN",
     "latitude": "28.83355000",
     "longitude": "94.91806000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 134289,
-    "name": "Upper Subansiri",
-    "state_id": 4024,
-    "state_code": "AR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "28.30000000",
-    "longitude": "94.00000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 134409,
-    "name": "West Kameng",
-    "state_id": 4024,
-    "state_code": "AR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "27.40000000",
-    "longitude": "92.35000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 134411,
-    "name": "West Siang",
-    "state_id": 4024,
-    "state_code": "AR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "28.40000000",
-    "longitude": "94.55000000",
     "county_id": null,
     "wikiDataId": null
   },

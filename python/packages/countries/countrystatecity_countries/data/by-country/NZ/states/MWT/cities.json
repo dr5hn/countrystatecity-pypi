@@ -8,7 +8,19 @@
     "country_code": "NZ",
     "latitude": "-40.17487000",
     "longitude": "175.38463000",
-    "county_id": null,
+    "county_id": 14027,
+    "wikiDataId": null
+  },
+  {
+    "id": 166865,
+    "name": "Feilding",
+    "state_id": 4060,
+    "state_code": "MWT",
+    "country_id": 158,
+    "country_code": "NZ",
+    "latitude": "-40.22500000",
+    "longitude": "175.56500000",
+    "county_id": 13767,
     "wikiDataId": null
   },
   {
@@ -20,19 +32,7 @@
     "country_code": "NZ",
     "latitude": "-40.46667000",
     "longitude": "175.30000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 79803,
-    "name": "Horowhenua",
-    "state_id": 4060,
-    "state_code": "MWT",
-    "country_id": 158,
-    "country_code": "NZ",
-    "latitude": "-40.57733000",
-    "longitude": "175.38071000",
-    "county_id": null,
+    "county_id": 13769,
     "wikiDataId": null
   },
   {
@@ -44,19 +44,7 @@
     "country_code": "NZ",
     "latitude": "-40.63333000",
     "longitude": "175.27500000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 79822,
-    "name": "Manawatu",
-    "state_id": 4060,
-    "state_code": "MWT",
-    "country_id": 158,
-    "country_code": "NZ",
-    "latitude": "-40.11979000",
-    "longitude": "175.67426000",
-    "county_id": null,
+    "county_id": 13769,
     "wikiDataId": null
   },
   {
@@ -68,7 +56,7 @@
     "country_code": "NZ",
     "latitude": "-40.35636000",
     "longitude": "175.61113000",
-    "county_id": null,
+    "county_id": 13768,
     "wikiDataId": null
   },
   {
@@ -80,7 +68,7 @@
     "country_code": "NZ",
     "latitude": "-39.47753000",
     "longitude": "175.66834000",
-    "county_id": null,
+    "county_id": 13765,
     "wikiDataId": null
   },
   {
@@ -92,7 +80,7 @@
     "country_code": "NZ",
     "latitude": "-39.93333000",
     "longitude": "175.05000000",
-    "county_id": null,
+    "county_id": 13766,
     "wikiDataId": null
   }
 ]

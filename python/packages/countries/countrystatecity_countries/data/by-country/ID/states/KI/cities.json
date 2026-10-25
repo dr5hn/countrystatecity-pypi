@@ -12,18 +12,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56358,
-    "name": "Berau",
-    "state_id": 1804,
-    "state_code": "KI",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "2.00000000",
-    "longitude": "117.30000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 56229,
     "name": "Bontang",
     "state_id": 1804,
@@ -44,18 +32,6 @@
     "country_code": "ID",
     "latitude": "-1.24204000",
     "longitude": "116.89419000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56477,
-    "name": "Kutai Kartanegara",
-    "state_id": 1804,
-    "state_code": "KI",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-0.44019000",
-    "longitude": "116.98139000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -96,19 +72,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56581,
-    "name": "Paser",
-    "state_id": 1804,
-    "state_code": "KI",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.43517000",
-    "longitude": "116.23535000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56588,
+    "id": 166794,
     "name": "Penajam",
     "state_id": 1804,
     "state_code": "KI",
@@ -132,7 +96,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56476,
+    "id": 166720,
     "name": "Sendawar",
     "state_id": 1804,
     "state_code": "KI",
@@ -141,6 +105,42 @@
     "latitude": "-0.21666667",
     "longitude": "115.78333333",
     "county_id": 8722,
+    "wikiDataId": null
+  },
+  {
+    "id": 166790,
+    "name": "Tana Paser",
+    "state_id": 1804,
+    "state_code": "KI",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-1.90510000",
+    "longitude": "116.19130000",
+    "county_id": 8719,
+    "wikiDataId": null
+  },
+  {
+    "id": 166649,
+    "name": "Tanjung Redeb",
+    "state_id": 1804,
+    "state_code": "KI",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "2.15281000",
+    "longitude": "117.49672000",
+    "county_id": 8721,
+    "wikiDataId": null
+  },
+  {
+    "id": 166721,
+    "name": "Tenggarong",
+    "state_id": 1804,
+    "state_code": "KI",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-0.42366000",
+    "longitude": "116.98895000",
+    "county_id": 8720,
     "wikiDataId": null
   }
 ]

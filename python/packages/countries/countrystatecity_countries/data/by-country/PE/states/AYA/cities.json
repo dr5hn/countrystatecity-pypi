@@ -1,17 +1,5 @@
 [
   {
-    "id": 80829,
-    "name": "Ayacucho",
-    "state_id": 3692,
-    "state_code": "AYA",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-13.15416667",
-    "longitude": "-74.22277778",
-    "county_id": 8215,
-    "wikiDataId": null
-  },
-  {
     "id": 80568,
     "name": "Ayacucho",
     "state_id": 3692,
@@ -20,6 +8,18 @@
     "country_code": "PE",
     "latitude": "-13.15878000",
     "longitude": "-74.22321000",
+    "county_id": 8215,
+    "wikiDataId": null
+  },
+  {
+    "id": 166886,
+    "name": "Ayacucho",
+    "state_id": 3692,
+    "state_code": "AYA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-13.16305556",
+    "longitude": "-74.22444444",
     "county_id": 8215,
     "wikiDataId": null
   },
@@ -48,19 +48,19 @@
     "wikiDataId": null
   },
   {
-    "id": 80873,
+    "id": 166900,
     "name": "Coracora",
     "state_id": 3692,
     "state_code": "AYA",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-15.01611111",
-    "longitude": "-73.78194444",
+    "latitude": "-15.01699444",
+    "longitude": "-73.78041944",
     "county_id": 8221,
     "wikiDataId": null
   },
   {
-    "id": 80653,
+    "id": 167877,
     "name": "Huanta",
     "state_id": 3692,
     "state_code": "AYA",
@@ -72,14 +72,14 @@
     "wikiDataId": null
   },
   {
-    "id": 80835,
+    "id": 166889,
     "name": "Huanta",
     "state_id": 3692,
     "state_code": "AYA",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-12.93861111",
-    "longitude": "-74.24861111",
+    "latitude": "-12.93972222",
+    "longitude": "-74.24750000",
     "county_id": 8218,
     "wikiDataId": null
   },

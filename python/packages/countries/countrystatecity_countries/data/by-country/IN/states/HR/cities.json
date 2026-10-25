@@ -1,14 +1,14 @@
 [
   {
-    "id": 57675,
+    "id": 166852,
     "name": "Ambala",
     "state_id": 4007,
     "state_code": "HR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "30.32854000",
-    "longitude": "76.94220000",
-    "county_id": null,
+    "latitude": "30.37861111",
+    "longitude": "76.77250000",
+    "county_id": 10708,
     "wikiDataId": null
   },
   {
@@ -20,7 +20,7 @@
     "country_code": "IN",
     "latitude": "29.52119000",
     "longitude": "76.60552000",
-    "county_id": null,
+    "county_id": 10716,
     "wikiDataId": null
   },
   {
@@ -68,7 +68,7 @@
     "country_code": "IN",
     "latitude": "29.36747000",
     "longitude": "75.90809000",
-    "county_id": null,
+    "county_id": 10712,
     "wikiDataId": null
   },
   {
@@ -288,15 +288,15 @@
     "wikiDataId": null
   },
   {
-    "id": 132032,
+    "id": 167539,
     "name": "Gurugram",
     "state_id": 4007,
     "state_code": "HR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "28.43891000",
-    "longitude": "77.00592000",
-    "county_id": null,
+    "latitude": "28.46666667",
+    "longitude": "77.03333333",
+    "county_id": 10711,
     "wikiDataId": null
   },
   {
@@ -492,15 +492,15 @@
     "wikiDataId": null
   },
   {
-    "id": 132405,
+    "id": 167552,
     "name": "Karnal",
     "state_id": 4007,
     "state_code": "HR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "29.66667000",
-    "longitude": "76.83333000",
-    "county_id": null,
+    "latitude": "29.69000000",
+    "longitude": "76.98833333",
+    "county_id": 10716,
     "wikiDataId": null
   },
   {
@@ -512,7 +512,7 @@
     "country_code": "IN",
     "latitude": "28.87870000",
     "longitude": "76.91069000",
-    "county_id": null,
+    "county_id": 10723,
     "wikiDataId": null
   },
   {
@@ -572,18 +572,6 @@
     "country_code": "IN",
     "latitude": "28.96912000",
     "longitude": "76.29495000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 132832,
-    "name": "Mahendragarh",
-    "state_id": 4007,
-    "state_code": "HR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "28.25000000",
-    "longitude": "76.16667000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -696,27 +684,27 @@
     "wikiDataId": null
   },
   {
-    "id": 133345,
+    "id": 167576,
     "name": "Panchkula",
     "state_id": 4007,
     "state_code": "HR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "30.72883000",
-    "longitude": "76.94716000",
-    "county_id": null,
+    "latitude": "30.69444444",
+    "longitude": "76.85027778",
+    "county_id": 10718,
     "wikiDataId": null
   },
   {
-    "id": 133350,
+    "id": 167577,
     "name": "Panipat",
     "state_id": 4007,
     "state_code": "HR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "29.33259000",
-    "longitude": "76.92634000",
-    "county_id": null,
+    "latitude": "29.38750000",
+    "longitude": "76.97000000",
+    "county_id": 10719,
     "wikiDataId": null
   },
   {
@@ -828,15 +816,15 @@
     "wikiDataId": null
   },
   {
-    "id": 133647,
+    "id": 167585,
     "name": "Rohtak",
     "state_id": 4007,
     "state_code": "HR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "28.83333000",
-    "longitude": "76.66667000",
-    "county_id": null,
+    "latitude": "28.90000000",
+    "longitude": "76.56666667",
+    "county_id": 10721,
     "wikiDataId": null
   },
   {
@@ -924,15 +912,15 @@
     "wikiDataId": null
   },
   {
-    "id": 133999,
+    "id": 167592,
     "name": "Sonipat",
     "state_id": 4007,
     "state_code": "HR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "29.00000000",
-    "longitude": "76.91667000",
-    "county_id": null,
+    "latitude": "28.99583333",
+    "longitude": "77.01138889",
+    "county_id": 10723,
     "wikiDataId": null
   },
   {
@@ -1004,19 +992,19 @@
     "country_code": "IN",
     "latitude": "29.51124000",
     "longitude": "75.87823000",
-    "county_id": null,
+    "county_id": 10712,
     "wikiDataId": null
   },
   {
-    "id": 134422,
+    "id": 167606,
     "name": "Yamunanagar",
     "state_id": 4007,
     "state_code": "HR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "30.23644000",
-    "longitude": "77.30498000",
-    "county_id": null,
+    "latitude": "30.12888889",
+    "longitude": "77.28027778",
+    "county_id": 10724,
     "wikiDataId": null
   }
 ]

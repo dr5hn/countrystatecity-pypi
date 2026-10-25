@@ -1,5 +1,29 @@
 [
   {
+    "id": 167929,
+    "name": "Bắc Bình",
+    "state_id": 3818,
+    "state_code": "35",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "11.22158000",
+    "longitude": "108.50707000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 167926,
+    "name": "Bảo Lâm 1",
+    "state_id": 3818,
+    "state_code": "35",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "11.62836000",
+    "longitude": "107.83508000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 130176,
     "name": "Bảo Lộc",
     "state_id": 3818,
@@ -8,6 +32,30 @@
     "country_code": "VN",
     "latitude": "11.54798000",
     "longitude": "107.80772000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 167957,
+    "name": "Cư Jút",
+    "state_id": 3818,
+    "state_code": "35",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "12.58904000",
+    "longitude": "107.89578000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 168131,
+    "name": "Đạ Tẻh",
+    "state_id": 3818,
+    "state_code": "35",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "11.51148000",
+    "longitude": "107.49092000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -36,6 +84,18 @@
     "wikiDataId": null
   },
   {
+    "id": 168130,
+    "name": "Đơn Dương",
+    "state_id": 3818,
+    "state_code": "35",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "11.76165000",
+    "longitude": "108.49473000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 130634,
     "name": "Đưc Trọng",
     "state_id": 3818,
@@ -60,38 +120,26 @@
     "wikiDataId": null
   },
   {
-    "id": 130233,
-    "name": "Huyện Bắc Bình",
+    "id": 167975,
+    "name": "Hàm Thuận",
     "state_id": 3818,
     "state_code": "35",
     "country_id": 240,
     "country_code": "VN",
-    "latitude": "11.27571000",
-    "longitude": "108.38506000",
+    "latitude": "11.07297000",
+    "longitude": "108.12997000",
     "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 130230,
-    "name": "Huyện Bảo Lâm",
+    "id": 167976,
+    "name": "Hàm Thuận Nam",
     "state_id": 3818,
     "state_code": "35",
     "country_id": 240,
     "country_code": "VN",
-    "latitude": "11.71163000",
-    "longitude": "107.75338000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130269,
-    "name": "Huyện Cư Jút",
-    "state_id": 3818,
-    "state_code": "35",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "12.69591000",
-    "longitude": "107.76316000",
+    "latitude": "10.85004000",
+    "longitude": "107.87864000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -108,18 +156,6 @@
     "wikiDataId": null
   },
   {
-    "id": 130537,
-    "name": "Huyện Đạ Tẻh",
-    "state_id": 3818,
-    "state_code": "35",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "11.58446000",
-    "longitude": "107.52792000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 130544,
     "name": "Huyện Đắk R’Lấp",
     "state_id": 3818,
@@ -128,30 +164,6 @@
     "country_code": "VN",
     "latitude": "11.87990000",
     "longitude": "107.52244000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130535,
-    "name": "Huyện Đơn Dương",
-    "state_id": 3818,
-    "state_code": "35",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "11.75308000",
-    "longitude": "108.55397000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130553,
-    "name": "Huyện Đức Trọng",
-    "state_id": 3818,
-    "state_code": "35",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "11.62686000",
-    "longitude": "108.35330000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -168,74 +180,14 @@
     "wikiDataId": null
   },
   {
-    "id": 130302,
-    "name": "Huyện Hàm Thuận Bắc",
+    "id": 167995,
+    "name": "Krông Nô",
     "state_id": 3818,
     "state_code": "35",
     "country_id": 240,
     "country_code": "VN",
-    "latitude": "11.14703000",
-    "longitude": "108.08172000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130303,
-    "name": "Huyện Hàm Thuận Nam",
-    "state_id": 3818,
-    "state_code": "35",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.92101000",
-    "longitude": "107.93325000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130333,
-    "name": "Huyện Krông Nô",
-    "state_id": 3818,
-    "state_code": "35",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "12.36285000",
-    "longitude": "107.83445000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130346,
-    "name": "Huyện Lâm Hà",
-    "state_id": 3818,
-    "state_code": "35",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "11.81890000",
-    "longitude": "108.21215000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130479,
-    "name": "Huyện Tánh Linh",
-    "state_id": 3818,
-    "state_code": "35",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "11.11367000",
-    "longitude": "107.68427000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130475,
-    "name": "Huyện Tuy Phong",
-    "state_id": 3818,
-    "state_code": "35",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "11.34746000",
-    "longitude": "108.70466000",
+    "latitude": "12.45789000",
+    "longitude": "107.86246000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -252,6 +204,18 @@
     "wikiDataId": null
   },
   {
+    "id": 168087,
+    "name": "Liên Hương",
+    "state_id": 3818,
+    "state_code": "35",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "11.22761000",
+    "longitude": "108.72366000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 130579,
     "name": "Phan Thiết",
     "state_id": 3818,
@@ -264,14 +228,14 @@
     "wikiDataId": null
   },
   {
-    "id": 130601,
-    "name": "Thành Phố Phan Thiết",
+    "id": 168091,
+    "name": "Tánh Linh",
     "state_id": 3818,
     "state_code": "35",
     "country_id": 240,
     "country_code": "VN",
-    "latitude": "10.93700000",
-    "longitude": "108.15778000",
+    "latitude": "11.08421000",
+    "longitude": "107.68095000",
     "county_id": null,
     "wikiDataId": null
   }

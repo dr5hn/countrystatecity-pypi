@@ -12,18 +12,6 @@
     "wikiDataId": null
   },
   {
-    "id": 57705,
-    "name": "Angul District",
-    "state_id": 4013,
-    "state_code": "OR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "20.84903000",
-    "longitude": "85.06079000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 134465,
     "name": "Asika",
     "state_id": 4013,
@@ -80,7 +68,7 @@
     "country_code": "IN",
     "latitude": "20.75000000",
     "longitude": "83.25000000",
-    "county_id": null,
+    "county_id": 10923,
     "wikiDataId": null
   },
   {
@@ -92,18 +80,6 @@
     "country_code": "IN",
     "latitude": "21.49266000",
     "longitude": "86.93348000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 58114,
-    "name": "Baleshwar",
-    "state_id": 4013,
-    "state_code": "OR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "21.50000000",
-    "longitude": "86.75000000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -188,7 +164,7 @@
     "country_code": "IN",
     "latitude": "22.10194000",
     "longitude": "85.37752000",
-    "county_id": null,
+    "county_id": 10934,
     "wikiDataId": null
   },
   {
@@ -213,6 +189,18 @@
     "latitude": "21.33348000",
     "longitude": "83.61905000",
     "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 167567,
+    "name": "Baripada",
+    "state_id": 4013,
+    "state_code": "OR",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "21.93500000",
+    "longitude": "86.72138889",
+    "county_id": 10938,
     "wikiDataId": null
   },
   {
@@ -284,18 +272,6 @@
     "country_code": "IN",
     "latitude": "21.82180000",
     "longitude": "83.84580000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 57953,
-    "name": "Bhadrak",
-    "state_id": 4013,
-    "state_code": "OR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "21.00000000",
-    "longitude": "86.60000000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -476,7 +452,7 @@
     "country_code": "IN",
     "latitude": "19.24665000",
     "longitude": "83.40577000",
-    "county_id": null,
+    "county_id": 10943,
     "wikiDataId": null
   },
   {
@@ -512,7 +488,7 @@
     "country_code": "IN",
     "latitude": "18.12533000",
     "longitude": "82.10890000",
-    "county_id": null,
+    "county_id": 10937,
     "wikiDataId": null
   },
   {
@@ -582,9 +558,9 @@
     "state_code": "OR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "20.65744000",
-    "longitude": "85.59693000",
-    "county_id": null,
+    "latitude": "20.66666667",
+    "longitude": "85.60000000",
+    "county_id": 10928,
     "wikiDataId": null
   },
   {
@@ -596,18 +572,6 @@
     "country_code": "IN",
     "latitude": "19.37275000",
     "longitude": "84.57184000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 131892,
-    "name": "Gajapati",
-    "state_id": 4013,
-    "state_code": "OR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "18.91000000",
-    "longitude": "84.20000000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -696,15 +660,15 @@
     "wikiDataId": null
   },
   {
-    "id": 132209,
+    "id": 167544,
     "name": "Jajpur",
     "state_id": 4013,
     "state_code": "OR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "20.84149000",
-    "longitude": "86.31237000",
-    "county_id": null,
+    "latitude": "20.85000000",
+    "longitude": "86.33333333",
+    "county_id": 10931,
     "wikiDataId": null
   },
   {
@@ -768,18 +732,6 @@
     "wikiDataId": null
   },
   {
-    "id": 132270,
-    "name": "Jharsuguda District",
-    "state_id": 4013,
-    "state_code": "OR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "21.85000000",
-    "longitude": "84.00000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 132318,
     "name": "Junagarh",
     "state_id": 4013,
@@ -788,18 +740,6 @@
     "country_code": "IN",
     "latitude": "19.85993000",
     "longitude": "82.93385000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 132687,
-    "name": "Kalahandi",
-    "state_id": 4013,
-    "state_code": "OR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "19.75000000",
-    "longitude": "83.00000000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -848,7 +788,7 @@
     "country_code": "IN",
     "latitude": "20.36152000",
     "longitude": "85.19212000",
-    "county_id": null,
+    "county_id": 10940,
     "wikiDataId": null
   },
   {
@@ -884,7 +824,7 @@
     "country_code": "IN",
     "latitude": "21.50000000",
     "longitude": "85.50000000",
-    "county_id": null,
+    "county_id": 10934,
     "wikiDataId": null
   },
   {
@@ -908,7 +848,7 @@
     "country_code": "IN",
     "latitude": "19.60908000",
     "longitude": "85.08609000",
-    "county_id": null,
+    "county_id": 10930,
     "wikiDataId": null
   },
   {
@@ -920,18 +860,6 @@
     "country_code": "IN",
     "latitude": "20.28845000",
     "longitude": "82.76060000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 132501,
-    "name": "Khordha",
-    "state_id": 4013,
-    "state_code": "OR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "20.20000000",
-    "longitude": "85.60000000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -990,9 +918,9 @@
     "state_code": "OR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "18.81199000",
-    "longitude": "82.71048000",
-    "county_id": null,
+    "latitude": "18.81666667",
+    "longitude": "82.71666667",
+    "county_id": 10936,
     "wikiDataId": null
   },
   {
@@ -1008,39 +936,15 @@
     "wikiDataId": null
   },
   {
-    "id": 132871,
+    "id": 167564,
     "name": "Malkangiri",
     "state_id": 4013,
     "state_code": "OR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "18.25000000",
-    "longitude": "81.95000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 132954,
-    "name": "Mayurbhanj",
-    "state_id": 4013,
-    "state_code": "OR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "21.75000000",
-    "longitude": "86.50000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 133104,
-    "name": "Nabarangpur",
-    "state_id": 4013,
-    "state_code": "OR",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "19.23330000",
-    "longitude": "82.55000000",
-    "county_id": null,
+    "latitude": "18.35000000",
+    "longitude": "81.90000000",
+    "county_id": 10937,
     "wikiDataId": null
   },
   {
@@ -1088,7 +992,7 @@
     "country_code": "IN",
     "latitude": "20.05756000",
     "longitude": "86.00436000",
-    "county_id": null,
+    "county_id": 10942,
     "wikiDataId": null
   },
   {
@@ -1112,7 +1016,7 @@
     "country_code": "IN",
     "latitude": "20.60000000",
     "longitude": "82.50000000",
-    "county_id": null,
+    "county_id": 10941,
     "wikiDataId": null
   },
   {
@@ -1124,7 +1028,7 @@
     "country_code": "IN",
     "latitude": "20.99932000",
     "longitude": "83.06325000",
-    "county_id": null,
+    "county_id": 10925,
     "wikiDataId": null
   },
   {
@@ -1137,6 +1041,18 @@
     "latitude": "20.31641000",
     "longitude": "86.60850000",
     "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 167532,
+    "name": "Paralakhemundi",
+    "state_id": 4013,
+    "state_code": "OR",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "18.78333333",
+    "longitude": "84.10000000",
+    "county_id": 10929,
     "wikiDataId": null
   },
   {
@@ -1200,15 +1116,15 @@
     "wikiDataId": null
   },
   {
-    "id": 133511,
+    "id": 167581,
     "name": "Puri",
     "state_id": 4013,
     "state_code": "OR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "19.90000000",
-    "longitude": "85.60000000",
-    "county_id": null,
+    "latitude": "19.80000000",
+    "longitude": "85.81666667",
+    "county_id": 10942,
     "wikiDataId": null
   },
   {
@@ -1260,15 +1176,15 @@
     "wikiDataId": null
   },
   {
-    "id": 133622,
+    "id": 167584,
     "name": "Rayagada",
     "state_id": 4013,
     "state_code": "OR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "19.40000000",
-    "longitude": "83.50000000",
-    "county_id": null,
+    "latitude": "19.16666667",
+    "longitude": "83.41666667",
+    "county_id": 10943,
     "wikiDataId": null
   },
   {
@@ -1292,7 +1208,7 @@
     "country_code": "IN",
     "latitude": "21.64602000",
     "longitude": "84.05311000",
-    "county_id": null,
+    "county_id": 10944,
     "wikiDataId": null
   },
   {
@@ -1314,9 +1230,9 @@
     "state_code": "OR",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "21.46527000",
-    "longitude": "83.97573000",
-    "county_id": null,
+    "latitude": "21.45000000",
+    "longitude": "83.96666667",
+    "county_id": 10944,
     "wikiDataId": null
   },
   {
@@ -1437,6 +1353,18 @@
     "latitude": "20.12416000",
     "longitude": "84.36869000",
     "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 134273,
+    "name": "Umarkot",
+    "state_id": 4013,
+    "state_code": "OR",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "19.66529000",
+    "longitude": "82.20629000",
+    "county_id": 10939,
     "wikiDataId": null
   }
 ]

@@ -8,7 +8,7 @@
     "country_code": "IN",
     "latitude": "22.75948000",
     "longitude": "86.19049000",
-    "county_id": null,
+    "county_id": 10908,
     "wikiDataId": null
   },
   {
@@ -20,7 +20,7 @@
     "country_code": "IN",
     "latitude": "23.73333000",
     "longitude": "86.31667000",
-    "county_id": null,
+    "county_id": 10907,
     "wikiDataId": null
   },
   {
@@ -32,7 +32,7 @@
     "country_code": "IN",
     "latitude": "23.62118000",
     "longitude": "85.46748000",
-    "county_id": null,
+    "county_id": 11885,
     "wikiDataId": null
   },
   {
@@ -56,7 +56,7 @@
     "country_code": "IN",
     "latitude": "23.84780000",
     "longitude": "84.11049000",
-    "county_id": null,
+    "county_id": 10915,
     "wikiDataId": null
   },
   {
@@ -68,7 +68,7 @@
     "country_code": "IN",
     "latitude": "23.78781000",
     "longitude": "85.93526000",
-    "county_id": null,
+    "county_id": 11810,
     "wikiDataId": null
   },
   {
@@ -80,7 +80,7 @@
     "country_code": "IN",
     "latitude": "23.63962000",
     "longitude": "86.44105000",
-    "county_id": null,
+    "county_id": 11810,
     "wikiDataId": null
   },
   {
@@ -104,7 +104,7 @@
     "country_code": "IN",
     "latitude": "23.16095000",
     "longitude": "85.59007000",
-    "county_id": null,
+    "county_id": 10918,
     "wikiDataId": null
   },
   {
@@ -164,7 +164,7 @@
     "country_code": "IN",
     "latitude": "23.74877000",
     "longitude": "86.11955000",
-    "county_id": null,
+    "county_id": 11810,
     "wikiDataId": null
   },
   {
@@ -200,7 +200,7 @@
     "country_code": "IN",
     "latitude": "22.31093000",
     "longitude": "85.27601000",
-    "county_id": null,
+    "county_id": 10921,
     "wikiDataId": null
   },
   {
@@ -224,7 +224,7 @@
     "country_code": "IN",
     "latitude": "23.57283000",
     "longitude": "85.65355000",
-    "county_id": null,
+    "county_id": 11885,
     "wikiDataId": null
   },
   {
@@ -236,7 +236,7 @@
     "country_code": "IN",
     "latitude": "23.65491000",
     "longitude": "85.01281000",
-    "county_id": null,
+    "county_id": 10918,
     "wikiDataId": null
   },
   {
@@ -284,7 +284,7 @@
     "country_code": "IN",
     "latitude": "23.74516000",
     "longitude": "86.17175000",
-    "county_id": null,
+    "county_id": 11810,
     "wikiDataId": null
   },
   {
@@ -300,6 +300,18 @@
     "wikiDataId": null
   },
   {
+    "id": 147475,
+    "name": "Garhwa",
+    "state_id": 4025,
+    "state_code": "JH",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "24.18000000",
+    "longitude": "83.82000000",
+    "county_id": 10909,
+    "wikiDataId": null
+  },
+  {
     "id": 131922,
     "name": "Garhwa",
     "state_id": 4025,
@@ -308,7 +320,7 @@
     "country_code": "IN",
     "latitude": "24.07494000",
     "longitude": "83.71023000",
-    "county_id": null,
+    "county_id": 10909,
     "wikiDataId": null
   },
   {
@@ -344,19 +356,19 @@
     "country_code": "IN",
     "latitude": "22.63393000",
     "longitude": "86.07162000",
-    "county_id": null,
+    "county_id": 10919,
     "wikiDataId": null
   },
   {
-    "id": 131963,
+    "id": 167533,
     "name": "Godda",
     "state_id": 4025,
     "state_code": "JH",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "24.83333000",
-    "longitude": "87.21667000",
-    "county_id": null,
+    "latitude": "24.83000000",
+    "longitude": "87.22000000",
+    "county_id": 10911,
     "wikiDataId": null
   },
   {
@@ -380,7 +392,7 @@
     "country_code": "IN",
     "latitude": "22.66301000",
     "longitude": "86.07500000",
-    "county_id": null,
+    "county_id": 10919,
     "wikiDataId": null
   },
   {
@@ -392,7 +404,7 @@
     "country_code": "IN",
     "latitude": "22.21361000",
     "longitude": "85.38774000",
-    "county_id": null,
+    "county_id": 10921,
     "wikiDataId": null
   },
   {
@@ -404,19 +416,19 @@
     "country_code": "IN",
     "latitude": "23.79750000",
     "longitude": "85.82523000",
-    "county_id": null,
+    "county_id": 11810,
     "wikiDataId": null
   },
   {
-    "id": 132021,
+    "id": 167536,
     "name": "Gumla",
     "state_id": 4025,
     "state_code": "JH",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "23.08055000",
-    "longitude": "84.53834000",
-    "county_id": null,
+    "latitude": "23.04444444",
+    "longitude": "84.54166667",
+    "county_id": 10912,
     "wikiDataId": null
   },
   {
@@ -452,7 +464,7 @@
     "country_code": "IN",
     "latitude": "24.06313000",
     "longitude": "85.87905000",
-    "county_id": null,
+    "county_id": 10910,
     "wikiDataId": null
   },
   {
@@ -476,7 +488,7 @@
     "country_code": "IN",
     "latitude": "22.22115000",
     "longitude": "85.63917000",
-    "county_id": null,
+    "county_id": 10921,
     "wikiDataId": null
   },
   {
@@ -504,15 +516,15 @@
     "wikiDataId": null
   },
   {
-    "id": 132232,
+    "id": 167546,
     "name": "Jamtara",
     "state_id": 4025,
     "state_code": "JH",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "24.00000000",
-    "longitude": "86.85000000",
-    "county_id": null,
+    "latitude": "23.95000000",
+    "longitude": "86.80000000",
+    "county_id": 10913,
     "wikiDataId": null
   },
   {
@@ -572,7 +584,7 @@
     "country_code": "IN",
     "latitude": "22.61662000",
     "longitude": "86.28810000",
-    "county_id": null,
+    "county_id": 10908,
     "wikiDataId": null
   },
   {
@@ -596,7 +608,7 @@
     "country_code": "IN",
     "latitude": "23.43478000",
     "longitude": "85.32059000",
-    "county_id": null,
+    "county_id": 10918,
     "wikiDataId": null
   },
   {
@@ -632,7 +644,7 @@
     "country_code": "IN",
     "latitude": "22.79093000",
     "longitude": "85.83102000",
-    "county_id": null,
+    "county_id": 10919,
     "wikiDataId": null
   },
   {
@@ -672,27 +684,27 @@
     "wikiDataId": null
   },
   {
-    "id": 132758,
+    "id": 167557,
     "name": "Latehar",
     "state_id": 4025,
     "state_code": "JH",
     "country_id": 101,
     "country_code": "IN",
     "latitude": "23.75000000",
-    "longitude": "84.40000000",
-    "county_id": null,
+    "longitude": "84.50000000",
+    "county_id": 10915,
     "wikiDataId": null
   },
   {
-    "id": 132768,
+    "id": 167558,
     "name": "Lohardaga",
     "state_id": 4025,
     "state_code": "JH",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "23.50000000",
-    "longitude": "84.60000000",
-    "county_id": null,
+    "latitude": "23.43000000",
+    "longitude": "84.68000000",
+    "county_id": 10916,
     "wikiDataId": null
   },
   {
@@ -716,7 +728,7 @@
     "country_code": "IN",
     "latitude": "23.78000000",
     "longitude": "86.81000000",
-    "county_id": null,
+    "county_id": 10907,
     "wikiDataId": null
   },
   {
@@ -740,7 +752,7 @@
     "country_code": "IN",
     "latitude": "22.37456000",
     "longitude": "85.19234000",
-    "county_id": null,
+    "county_id": 10921,
     "wikiDataId": null
   },
   {
@@ -764,7 +776,7 @@
     "country_code": "IN",
     "latitude": "23.77015000",
     "longitude": "86.72746000",
-    "county_id": null,
+    "county_id": 10907,
     "wikiDataId": null
   },
   {
@@ -800,7 +812,7 @@
     "country_code": "IN",
     "latitude": "23.47457000",
     "longitude": "84.26780000",
-    "county_id": null,
+    "county_id": 10915,
     "wikiDataId": null
   },
   {
@@ -824,7 +836,7 @@
     "country_code": "IN",
     "latitude": "22.16094000",
     "longitude": "85.50416000",
-    "county_id": null,
+    "county_id": 10921,
     "wikiDataId": null
   },
   {
@@ -896,7 +908,7 @@
     "country_code": "IN",
     "latitude": "23.66505000",
     "longitude": "85.30353000",
-    "county_id": null,
+    "county_id": 11885,
     "wikiDataId": null
   },
   {
@@ -921,6 +933,18 @@
     "latitude": "22.59238000",
     "longitude": "86.48341000",
     "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 142066,
+    "name": "Rajmahal",
+    "state_id": 4025,
+    "state_code": "JH",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "25.05000000",
+    "longitude": "87.84000000",
+    "county_id": 11815,
     "wikiDataId": null
   },
   {
@@ -956,7 +980,7 @@
     "country_code": "IN",
     "latitude": "23.68430000",
     "longitude": "85.05457000",
-    "county_id": null,
+    "county_id": 10918,
     "wikiDataId": null
   },
   {
@@ -992,7 +1016,7 @@
     "country_code": "IN",
     "latitude": "23.81813000",
     "longitude": "85.99628000",
-    "county_id": null,
+    "county_id": 11810,
     "wikiDataId": null
   },
   {
@@ -1016,7 +1040,7 @@
     "country_code": "IN",
     "latitude": "23.77617000",
     "longitude": "86.33028000",
-    "county_id": null,
+    "county_id": 10907,
     "wikiDataId": null
   },
   {
@@ -1040,7 +1064,7 @@
     "country_code": "IN",
     "latitude": "22.79325000",
     "longitude": "85.94543000",
-    "county_id": null,
+    "county_id": 10919,
     "wikiDataId": null
   },
   {
@@ -1052,7 +1076,7 @@
     "country_code": "IN",
     "latitude": "23.90381000",
     "longitude": "86.19792000",
-    "county_id": null,
+    "county_id": 10907,
     "wikiDataId": null
   }
 ]

@@ -24,7 +24,7 @@
     "wikiDataId": null
   },
   {
-    "id": 105329,
+    "id": 166986,
     "name": "Don Chan",
     "state_id": 3550,
     "state_code": "46",
@@ -84,7 +84,7 @@
     "wikiDataId": null
   },
   {
-    "id": 105384,
+    "id": 167010,
     "name": "Kham Muang",
     "state_id": 3550,
     "state_code": "46",
@@ -120,18 +120,6 @@
     "wikiDataId": null
   },
   {
-    "id": 105459,
-    "name": "Kuchinarai",
-    "state_id": 3550,
-    "state_code": "46",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "16.53179500",
-    "longitude": "104.04400200",
-    "county_id": 5845,
-    "wikiDataId": null
-  },
-  {
     "id": 106543,
     "name": "Kuchinarai",
     "state_id": 3550,
@@ -144,7 +132,19 @@
     "wikiDataId": null
   },
   {
-    "id": 105615,
+    "id": 167047,
+    "name": "Kuchinarai",
+    "state_id": 3550,
+    "state_code": "46",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "16.53179500",
+    "longitude": "104.04400200",
+    "county_id": 5845,
+    "wikiDataId": null
+  },
+  {
+    "id": 167089,
     "name": "Na Khu",
     "state_id": 3550,
     "state_code": "46",
@@ -156,7 +156,7 @@
     "wikiDataId": null
   },
   {
-    "id": 105618,
+    "id": 167090,
     "name": "Na Mon",
     "state_id": 3550,
     "state_code": "46",
@@ -180,7 +180,7 @@
     "wikiDataId": null
   },
   {
-    "id": 105813,
+    "id": 167175,
     "name": "Rong Kham",
     "state_id": 3550,
     "state_code": "46",
@@ -216,7 +216,7 @@
     "wikiDataId": null
   },
   {
-    "id": 106243,
+    "id": 167221,
     "name": "Somdet",
     "state_id": 3550,
     "state_code": "46",
@@ -228,7 +228,7 @@
     "wikiDataId": null
   },
   {
-    "id": 106274,
+    "id": 167234,
     "name": "Tha Khantho",
     "state_id": 3550,
     "state_code": "46",
@@ -246,9 +246,9 @@
     "state_code": "46",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.39972222",
-    "longitude": "103.36777778",
-    "county_id": 5847,
+    "latitude": "16.39982000",
+    "longitude": "103.36785000",
+    "county_id": null,
     "wikiDataId": null
   }
 ]

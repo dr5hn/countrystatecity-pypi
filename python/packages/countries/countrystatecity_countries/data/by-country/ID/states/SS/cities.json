@@ -12,7 +12,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56563,
+    "id": 166776,
     "name": "Indralaya",
     "state_id": 1816,
     "state_code": "SS",
@@ -24,7 +24,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56564,
+    "id": 166777,
     "name": "Kayu Agung",
     "state_id": 1816,
     "state_code": "SS",
@@ -48,18 +48,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56834,
-    "name": "Lahat Regency",
-    "state_id": 1816,
-    "state_code": "SS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.78640000",
-    "longitude": "103.54280000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 56847,
     "name": "Lubuklinggau",
     "state_id": 1816,
@@ -72,7 +60,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56567,
+    "id": 166779,
     "name": "Martapura",
     "state_id": 1816,
     "state_code": "SS",
@@ -84,19 +72,19 @@
     "wikiDataId": null
   },
   {
-    "id": 56542,
+    "id": 166762,
     "name": "Muara Enim",
     "state_id": 1816,
     "state_code": "SS",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-4.23270000",
-    "longitude": "103.61410000",
-    "county_id": null,
+    "latitude": "-3.64860000",
+    "longitude": "103.77100000",
+    "county_id": 8467,
     "wikiDataId": null
   },
   {
-    "id": 56566,
+    "id": 166778,
     "name": "Muaradua",
     "state_id": 1816,
     "state_code": "SS",
@@ -105,18 +93,6 @@
     "latitude": "-4.53178000",
     "longitude": "104.07397000",
     "county_id": 8473,
-    "wikiDataId": null
-  },
-  {
-    "id": 56548,
-    "name": "Musi Banyuasin",
-    "state_id": 1816,
-    "state_code": "SS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.41667000",
-    "longitude": "103.75000000",
-    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -140,18 +116,6 @@
     "country_code": "ID",
     "latitude": "-2.48533000",
     "longitude": "103.29346000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56565,
-    "name": "Ogan Komering Ulu",
-    "state_id": 1816,
-    "state_code": "SS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-4.13333000",
-    "longitude": "104.03333000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -180,18 +144,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56589,
-    "name": "Penukal Abab Lematang Ilir",
-    "state_id": 1816,
-    "state_code": "SS",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.21342000",
-    "longitude": "104.08722000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 56939,
     "name": "Prabumulih",
     "state_id": 1816,
@@ -201,6 +153,30 @@
     "latitude": "-3.43447000",
     "longitude": "104.23056000",
     "county_id": 8481,
+    "wikiDataId": null
+  },
+  {
+    "id": 166768,
+    "name": "Sekayu",
+    "state_id": 1816,
+    "state_code": "SS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.88190000",
+    "longitude": "103.83440000",
+    "county_id": 8470,
+    "wikiDataId": null
+  },
+  {
+    "id": 166795,
+    "name": "Talang Ubi",
+    "state_id": 1816,
+    "state_code": "SS",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.26560000",
+    "longitude": "103.82530000",
+    "county_id": 8476,
     "wikiDataId": null
   },
   {
@@ -216,7 +192,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56402,
+    "id": 166675,
     "name": "Tebing Tinggi",
     "state_id": 1816,
     "state_code": "SS",

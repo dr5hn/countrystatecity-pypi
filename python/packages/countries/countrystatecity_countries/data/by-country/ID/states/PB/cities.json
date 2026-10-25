@@ -1,26 +1,38 @@
 [
   {
-    "id": 56405,
-    "name": "Fakfak",
+    "id": 166839,
+    "name": "Bintuni",
     "state_id": 1799,
     "state_code": "PB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-2.92641000",
-    "longitude": "132.29608000",
-    "county_id": null,
+    "latitude": "-2.10967000",
+    "longitude": "133.52461000",
+    "county_id": 8842,
     "wikiDataId": null
   },
   {
-    "id": 56435,
+    "id": 166677,
+    "name": "Fak Fak",
+    "state_id": 1799,
+    "state_code": "PB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.92481000",
+    "longitude": "132.29813000",
+    "county_id": 8841,
+    "wikiDataId": null
+  },
+  {
+    "id": 166695,
     "name": "Kaimana",
     "state_id": 1799,
     "state_code": "PB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-3.66093000",
-    "longitude": "133.77451000",
-    "county_id": null,
+    "latitude": "-3.66350000",
+    "longitude": "133.76490000",
+    "county_id": 8844,
     "wikiDataId": null
   },
   {
@@ -36,39 +48,27 @@
     "wikiDataId": null
   },
   {
-    "id": 56528,
-    "name": "Manokwari Selatan",
+    "id": 166754,
+    "name": "Ransiki",
     "state_id": 1799,
     "state_code": "PB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-1.07980000",
-    "longitude": "133.96729000",
-    "county_id": null,
+    "latitude": "-1.50830000",
+    "longitude": "134.17080000",
+    "county_id": 8845,
     "wikiDataId": null
   },
   {
-    "id": 56677,
-    "name": "Teluk Bintuni",
+    "id": 166840,
+    "name": "Rasiei",
     "state_id": 1799,
     "state_code": "PB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-1.88037000",
-    "longitude": "133.33105000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56678,
-    "name": "Teluk Wondama",
-    "state_id": 1799,
-    "state_code": "PB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.70000000",
-    "longitude": "134.50000000",
-    "county_id": null,
+    "latitude": "-2.81700000",
+    "longitude": "134.52920000",
+    "county_id": 8843,
     "wikiDataId": null
   }
 ]

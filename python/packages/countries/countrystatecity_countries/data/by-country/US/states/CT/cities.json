@@ -1,5 +1,17 @@
 [
   {
+    "id": 168160,
+    "name": "Andover",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.73298200",
+    "longitude": "-72.37465800",
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
     "id": 111362,
     "name": "Ansonia",
     "state_id": 1435,
@@ -8,7 +20,31 @@
     "country_code": "US",
     "latitude": "41.34621000",
     "longitude": "-73.07900000",
-    "county_id": null,
+    "county_id": 14041,
+    "wikiDataId": null
+  },
+  {
+    "id": 168185,
+    "name": "Ashford",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.89712300",
+    "longitude": "-72.17142700",
+    "county_id": 14042,
+    "wikiDataId": null
+  },
+  {
+    "id": 168161,
+    "name": "Avon",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.78715900",
+    "longitude": "-72.85204600",
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -20,7 +56,31 @@
     "country_code": "US",
     "latitude": "41.61704000",
     "longitude": "-72.08452000",
-    "county_id": null,
+    "county_id": 14045,
+    "wikiDataId": null
+  },
+  {
+    "id": 168198,
+    "name": "Barkhamsted",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.93570800",
+    "longitude": "-72.97292100",
+    "county_id": 14043,
+    "wikiDataId": null
+  },
+  {
+    "id": 168184,
+    "name": "Beacon Falls",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.44368500",
+    "longitude": "-73.05192500",
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -32,7 +92,19 @@
     "country_code": "US",
     "latitude": "41.62223400",
     "longitude": "-72.77362800",
-    "county_id": null,
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168213,
+    "name": "Bethany",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.42296400",
+    "longitude": "-72.99418700",
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -44,7 +116,7 @@
     "country_code": "US",
     "latitude": "41.37121000",
     "longitude": "-73.41401000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -56,7 +128,19 @@
     "country_code": "US",
     "latitude": "41.64010000",
     "longitude": "-73.20308000",
-    "county_id": null,
+    "county_id": 14041,
+    "wikiDataId": null
+  },
+  {
+    "id": 168162,
+    "name": "Bloomfield",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.84377200",
+    "longitude": "-72.74100200",
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -68,7 +152,31 @@
     "country_code": "US",
     "latitude": "41.81288000",
     "longitude": "-72.69759000",
-    "county_id": null,
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168163,
+    "name": "Bolton",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.76458900",
+    "longitude": "-72.43757500",
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168214,
+    "name": "Bozrah",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.54505800",
+    "longitude": "-72.17522800",
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -80,7 +188,7 @@
     "country_code": "US",
     "latitude": "41.27954000",
     "longitude": "-72.81510000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -92,7 +200,7 @@
     "country_code": "US",
     "latitude": "41.27738000",
     "longitude": "-72.81511000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -104,7 +212,19 @@
     "country_code": "US",
     "latitude": "41.17923000",
     "longitude": "-73.18945000",
-    "county_id": null,
+    "county_id": 14039,
+    "wikiDataId": null
+  },
+  {
+    "id": 168221,
+    "name": "Bridgewater",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.52029400",
+    "longitude": "-73.36109300",
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -116,7 +236,43 @@
     "country_code": "US",
     "latitude": "41.67176000",
     "longitude": "-72.94927000",
-    "county_id": null,
+    "county_id": 14041,
+    "wikiDataId": null
+  },
+  {
+    "id": 168222,
+    "name": "Brookfield",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.47040200",
+    "longitude": "-73.39476000",
+    "county_id": 14046,
+    "wikiDataId": null
+  },
+  {
+    "id": 168186,
+    "name": "Brooklyn",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.78724300",
+    "longitude": "-71.95740100",
+    "county_id": 14042,
+    "wikiDataId": null
+  },
+  {
+    "id": 168199,
+    "name": "Burlington",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.74907900",
+    "longitude": "-72.94865700",
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -128,7 +284,7 @@
     "country_code": "US",
     "latitude": "41.00426000",
     "longitude": "-73.65374000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -140,7 +296,31 @@
     "country_code": "US",
     "latitude": "42.02731000",
     "longitude": "-73.32928000",
-    "county_id": null,
+    "county_id": 14043,
+    "wikiDataId": null
+  },
+  {
+    "id": 168187,
+    "name": "Canterbury",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.69396000",
+    "longitude": "-72.00911800",
+    "county_id": 14042,
+    "wikiDataId": null
+  },
+  {
+    "id": 168164,
+    "name": "Canton",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.85872600",
+    "longitude": "-72.91086200",
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -152,7 +332,7 @@
     "country_code": "US",
     "latitude": "41.83426000",
     "longitude": "-72.89177000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -164,7 +344,19 @@
     "country_code": "US",
     "latitude": "41.34504000",
     "longitude": "-72.12948000",
-    "county_id": null,
+    "county_id": 14045,
+    "wikiDataId": null
+  },
+  {
+    "id": 168188,
+    "name": "Chaplin",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.79089000",
+    "longitude": "-72.12954000",
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -176,7 +368,19 @@
     "country_code": "US",
     "latitude": "41.49899000",
     "longitude": "-72.90066000",
-    "county_id": null,
+    "county_id": 14041,
+    "wikiDataId": null
+  },
+  {
+    "id": 168177,
+    "name": "Chester",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.41172800",
+    "longitude": "-72.48714600",
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -188,7 +392,7 @@
     "country_code": "US",
     "latitude": "41.40132000",
     "longitude": "-72.45270000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -200,7 +404,7 @@
     "country_code": "US",
     "latitude": "41.22374000",
     "longitude": "-73.06164000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -212,7 +416,7 @@
     "country_code": "US",
     "latitude": "41.27871000",
     "longitude": "-72.52759000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -224,7 +428,19 @@
     "country_code": "US",
     "latitude": "41.57565000",
     "longitude": "-72.33203000",
-    "county_id": null,
+    "county_id": 14045,
+    "wikiDataId": null
+  },
+  {
+    "id": 168200,
+    "name": "Colebrook",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "42.00579700",
+    "longitude": "-73.06418400",
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -236,7 +452,19 @@
     "country_code": "US",
     "latitude": "41.81288000",
     "longitude": "-72.92010000",
-    "county_id": null,
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168165,
+    "name": "Columbia",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.69370700",
+    "longitude": "-72.30567100",
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -248,7 +476,19 @@
     "country_code": "US",
     "latitude": "41.38548000",
     "longitude": "-72.06877000",
-    "county_id": null,
+    "county_id": 14045,
+    "wikiDataId": null
+  },
+  {
+    "id": 168201,
+    "name": "Cornwall",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.84806000",
+    "longitude": "-73.33056100",
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -260,7 +500,19 @@
     "country_code": "US",
     "latitude": "41.03343000",
     "longitude": "-73.59957000",
-    "county_id": null,
+    "county_id": 14046,
+    "wikiDataId": null
+  },
+  {
+    "id": 168166,
+    "name": "Coventry",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.78021200",
+    "longitude": "-72.34375800",
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -272,7 +524,7 @@
     "country_code": "US",
     "latitude": "41.77232000",
     "longitude": "-72.33258000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -284,7 +536,7 @@
     "country_code": "US",
     "latitude": "41.59510000",
     "longitude": "-72.64537000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -296,7 +548,7 @@
     "country_code": "US",
     "latitude": "41.93176000",
     "longitude": "-72.37842000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -308,7 +560,7 @@
     "country_code": "US",
     "latitude": "41.39482000",
     "longitude": "-73.45401000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -320,7 +572,7 @@
     "country_code": "US",
     "latitude": "41.80260000",
     "longitude": "-71.88591000",
-    "county_id": null,
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -332,7 +584,7 @@
     "country_code": "US",
     "latitude": "41.07871000",
     "longitude": "-73.46929000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -344,7 +596,7 @@
     "country_code": "US",
     "latitude": "41.38221000",
     "longitude": "-72.43862000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -356,7 +608,7 @@
     "country_code": "US",
     "latitude": "41.32065000",
     "longitude": "-73.08900000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -368,7 +620,7 @@
     "country_code": "US",
     "latitude": "41.48176000",
     "longitude": "-72.68121000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -380,7 +632,19 @@
     "country_code": "US",
     "latitude": "41.79677000",
     "longitude": "-71.89729000",
-    "county_id": null,
+    "county_id": 14042,
+    "wikiDataId": null
+  },
+  {
+    "id": 168167,
+    "name": "East Granby",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.92971900",
+    "longitude": "-72.74537800",
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -392,7 +656,7 @@
     "country_code": "US",
     "latitude": "41.45315000",
     "longitude": "-72.46120000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -404,7 +668,7 @@
     "country_code": "US",
     "latitude": "41.57593000",
     "longitude": "-72.50259000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -416,7 +680,7 @@
     "country_code": "US",
     "latitude": "41.78232000",
     "longitude": "-72.61203000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -428,7 +692,19 @@
     "country_code": "US",
     "latitude": "41.27621000",
     "longitude": "-72.86843000",
-    "county_id": null,
+    "county_id": 14044,
+    "wikiDataId": null
+  },
+  {
+    "id": 168215,
+    "name": "East Lyme",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.35606800",
+    "longitude": "-72.22984100",
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -440,7 +716,7 @@
     "country_code": "US",
     "latitude": "41.10565000",
     "longitude": "-73.39845000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -452,7 +728,19 @@
     "country_code": "US",
     "latitude": "41.91232000",
     "longitude": "-72.54509000",
-    "county_id": null,
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168189,
+    "name": "Eastford",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.89559000",
+    "longitude": "-72.09330400",
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -464,7 +752,7 @@
     "country_code": "US",
     "latitude": "41.25287000",
     "longitude": "-73.29734000",
-    "county_id": null,
+    "county_id": 14039,
     "wikiDataId": null
   },
   {
@@ -476,7 +764,7 @@
     "country_code": "US",
     "latitude": "41.90399000",
     "longitude": "-72.46981000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -488,7 +776,19 @@
     "country_code": "US",
     "latitude": "41.97621000",
     "longitude": "-72.59176000",
-    "county_id": null,
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168178,
+    "name": "Essex",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.34986200",
+    "longitude": "-72.41338300",
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -500,7 +800,7 @@
     "country_code": "US",
     "latitude": "41.35544000",
     "longitude": "-72.39101000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -512,7 +812,7 @@
     "country_code": "US",
     "latitude": "41.14121000",
     "longitude": "-73.26373000",
-    "county_id": null,
+    "county_id": 14039,
     "wikiDataId": null
   },
   {
@@ -524,7 +824,19 @@
     "country_code": "US",
     "latitude": "41.71982000",
     "longitude": "-72.83204000",
-    "county_id": null,
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168216,
+    "name": "Franklin",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.62121200",
+    "longitude": "-72.14260900",
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -536,7 +848,7 @@
     "country_code": "US",
     "latitude": "41.42982000",
     "longitude": "-72.08202000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -548,7 +860,7 @@
     "country_code": "US",
     "latitude": "41.25565000",
     "longitude": "-73.43484000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -560,7 +872,7 @@
     "country_code": "US",
     "latitude": "41.71232000",
     "longitude": "-72.60815000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -572,7 +884,7 @@
     "country_code": "US",
     "latitude": "41.70093000",
     "longitude": "-72.59953000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -584,7 +896,31 @@
     "country_code": "US",
     "latitude": "41.03538000",
     "longitude": "-73.65985000",
-    "county_id": null,
+    "county_id": 14046,
+    "wikiDataId": null
+  },
+  {
+    "id": 168202,
+    "name": "Goshen",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.84953700",
+    "longitude": "-73.23400200",
+    "county_id": 14043,
+    "wikiDataId": null
+  },
+  {
+    "id": 168168,
+    "name": "Granby",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.97148000",
+    "longitude": "-72.83015900",
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -596,7 +932,19 @@
     "country_code": "US",
     "latitude": "41.02649000",
     "longitude": "-73.62846000",
-    "county_id": null,
+    "county_id": 14046,
+    "wikiDataId": null
+  },
+  {
+    "id": 168217,
+    "name": "Griswold",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.58477200",
+    "longitude": "-71.92109100",
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -608,7 +956,7 @@
     "country_code": "US",
     "latitude": "41.35010000",
     "longitude": "-72.07841000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -620,7 +968,7 @@
     "country_code": "US",
     "latitude": "41.28899000",
     "longitude": "-72.68176000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -632,7 +980,19 @@
     "country_code": "US",
     "latitude": "41.28156000",
     "longitude": "-72.67619000",
-    "county_id": null,
+    "county_id": 14044,
+    "wikiDataId": null
+  },
+  {
+    "id": 168179,
+    "name": "Haddam",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.48080900",
+    "longitude": "-72.54863600",
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -644,7 +1004,19 @@
     "country_code": "US",
     "latitude": "41.39593000",
     "longitude": "-72.89677000",
-    "county_id": null,
+    "county_id": 14044,
+    "wikiDataId": null
+  },
+  {
+    "id": 168190,
+    "name": "Hampton",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.78303000",
+    "longitude": "-72.06457200",
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -656,7 +1028,31 @@
     "country_code": "US",
     "latitude": "41.76371000",
     "longitude": "-72.68509000",
-    "county_id": null,
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168203,
+    "name": "Hartland",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "42.00120500",
+    "longitude": "-72.95402700",
+    "county_id": 14043,
+    "wikiDataId": null
+  },
+  {
+    "id": 168204,
+    "name": "Harwinton",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.76134500",
+    "longitude": "-73.06044300",
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -668,7 +1064,7 @@
     "country_code": "US",
     "latitude": "41.98732000",
     "longitude": "-72.54481000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -680,7 +1076,7 @@
     "country_code": "US",
     "latitude": "41.65788000",
     "longitude": "-72.36592000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -692,7 +1088,7 @@
     "country_code": "US",
     "latitude": "41.48565000",
     "longitude": "-73.23789000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -704,7 +1100,7 @@
     "country_code": "US",
     "latitude": "41.49704000",
     "longitude": "-72.55703000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -716,7 +1112,7 @@
     "country_code": "US",
     "latitude": "41.60677000",
     "longitude": "-71.98091000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -728,7 +1124,7 @@
     "country_code": "US",
     "latitude": "41.63538000",
     "longitude": "-72.76871000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -740,7 +1136,19 @@
     "country_code": "US",
     "latitude": "41.72482000",
     "longitude": "-73.47707000",
-    "county_id": null,
+    "county_id": 14043,
+    "wikiDataId": null
+  },
+  {
+    "id": 168191,
+    "name": "Killingly",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.82990200",
+    "longitude": "-71.84909700",
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -756,6 +1164,18 @@
     "wikiDataId": null
   },
   {
+    "id": 168180,
+    "name": "Killingworth",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.37441900",
+    "longitude": "-72.57832800",
+    "county_id": 14040,
+    "wikiDataId": null
+  },
+  {
     "id": 119965,
     "name": "Lake Pocotopaug",
     "state_id": 1435,
@@ -764,7 +1184,19 @@
     "country_code": "US",
     "latitude": "41.59843000",
     "longitude": "-72.51037000",
-    "county_id": null,
+    "county_id": 14040,
+    "wikiDataId": null
+  },
+  {
+    "id": 168218,
+    "name": "Lebanon",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.63295500",
+    "longitude": "-72.24009000",
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -776,7 +1208,7 @@
     "country_code": "US",
     "latitude": "41.43982000",
     "longitude": "-72.01424000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -788,7 +1220,7 @@
     "country_code": "US",
     "latitude": "41.60399000",
     "longitude": "-72.01174000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -800,7 +1232,7 @@
     "country_code": "US",
     "latitude": "41.74732000",
     "longitude": "-73.18872000",
-    "county_id": null,
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -812,7 +1244,19 @@
     "country_code": "US",
     "latitude": "41.35399000",
     "longitude": "-72.05230000",
-    "county_id": null,
+    "county_id": 14045,
+    "wikiDataId": null
+  },
+  {
+    "id": 168181,
+    "name": "Lyme",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.39861500",
+    "longitude": "-72.33154600",
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -824,7 +1268,7 @@
     "country_code": "US",
     "latitude": "41.27954000",
     "longitude": "-72.59843000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -836,7 +1280,7 @@
     "country_code": "US",
     "latitude": "41.27925000",
     "longitude": "-72.60048000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -848,7 +1292,7 @@
     "country_code": "US",
     "latitude": "41.77593000",
     "longitude": "-72.52148000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -860,7 +1304,19 @@
     "country_code": "US",
     "latitude": "41.76593000",
     "longitude": "-72.23369000",
-    "county_id": null,
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168169,
+    "name": "Marlborough",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.63643900",
+    "longitude": "-72.45400200",
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -872,7 +1328,7 @@
     "country_code": "US",
     "latitude": "41.53815000",
     "longitude": "-72.80704000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -884,7 +1340,19 @@
     "country_code": "US",
     "latitude": "41.52787000",
     "longitude": "-73.12761000",
-    "county_id": null,
+    "county_id": 14041,
+    "wikiDataId": null
+  },
+  {
+    "id": 168182,
+    "name": "Middlefield",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.51416300",
+    "longitude": "-72.71784400",
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -896,7 +1364,7 @@
     "country_code": "US",
     "latitude": "41.56232000",
     "longitude": "-72.65065000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -908,7 +1376,19 @@
     "country_code": "US",
     "latitude": "41.22232000",
     "longitude": "-73.05650000",
-    "county_id": null,
+    "county_id": 14044,
+    "wikiDataId": null
+  },
+  {
+    "id": 168176,
+    "name": "Monroe",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.33923600",
+    "longitude": "-73.22282800",
+    "county_id": 14039,
     "wikiDataId": null
   },
   {
@@ -920,7 +1400,7 @@
     "country_code": "US",
     "latitude": "41.47899000",
     "longitude": "-72.15119000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -932,7 +1412,7 @@
     "country_code": "US",
     "latitude": "41.50288000",
     "longitude": "-72.45009000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -944,7 +1424,19 @@
     "country_code": "US",
     "latitude": "41.71288000",
     "longitude": "-71.88091000",
-    "county_id": null,
+    "county_id": 14042,
+    "wikiDataId": null
+  },
+  {
+    "id": 168205,
+    "name": "Morris",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.69432300",
+    "longitude": "-73.20999800",
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -956,7 +1448,7 @@
     "country_code": "US",
     "latitude": "41.35427000",
     "longitude": "-71.96646000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -968,7 +1460,7 @@
     "country_code": "US",
     "latitude": "41.48593000",
     "longitude": "-73.05066000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -980,7 +1472,7 @@
     "country_code": "US",
     "latitude": "41.66121000",
     "longitude": "-72.77954000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -992,7 +1484,7 @@
     "country_code": "US",
     "latitude": "41.14676000",
     "longitude": "-73.49484000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -1004,7 +1496,19 @@
     "country_code": "US",
     "latitude": "41.46648000",
     "longitude": "-73.48568000",
-    "county_id": null,
+    "county_id": 14046,
+    "wikiDataId": null
+  },
+  {
+    "id": 168206,
+    "name": "New Hartford",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.84105300",
+    "longitude": "-72.99866400",
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -1016,7 +1520,7 @@
     "country_code": "US",
     "latitude": "41.87996000",
     "longitude": "-72.97530000",
-    "county_id": null,
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -1028,7 +1532,7 @@
     "country_code": "US",
     "latitude": "41.30815000",
     "longitude": "-72.92816000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -1040,7 +1544,7 @@
     "country_code": "US",
     "latitude": "41.35565000",
     "longitude": "-72.09952000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1052,7 +1556,7 @@
     "country_code": "US",
     "latitude": "41.57704000",
     "longitude": "-73.40845000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -1064,7 +1568,7 @@
     "country_code": "US",
     "latitude": "41.67510000",
     "longitude": "-73.35179000",
-    "county_id": null,
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -1076,7 +1580,7 @@
     "country_code": "US",
     "latitude": "41.69788000",
     "longitude": "-72.72371000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1088,7 +1592,7 @@
     "country_code": "US",
     "latitude": "41.41398000",
     "longitude": "-73.30345000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -1100,7 +1604,7 @@
     "country_code": "US",
     "latitude": "41.32538000",
     "longitude": "-72.19313000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1112,7 +1616,19 @@
     "country_code": "US",
     "latitude": "41.32788000",
     "longitude": "-71.99063000",
-    "county_id": null,
+    "county_id": 14045,
+    "wikiDataId": null
+  },
+  {
+    "id": 168207,
+    "name": "Norfolk",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.96977300",
+    "longitude": "-73.17843900",
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -1124,7 +1640,19 @@
     "country_code": "US",
     "latitude": "41.32760000",
     "longitude": "-72.76732000",
-    "county_id": null,
+    "county_id": 14044,
+    "wikiDataId": null
+  },
+  {
+    "id": 168208,
+    "name": "North Canaan",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "42.02059400",
+    "longitude": "-73.29624600",
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -1136,7 +1664,7 @@
     "country_code": "US",
     "latitude": "41.99593000",
     "longitude": "-72.82954000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1148,7 +1676,7 @@
     "country_code": "US",
     "latitude": "41.98565000",
     "longitude": "-71.89868000",
-    "county_id": null,
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -1160,7 +1688,7 @@
     "country_code": "US",
     "latitude": "41.39093000",
     "longitude": "-72.85954000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -1172,7 +1700,19 @@
     "country_code": "US",
     "latitude": "41.13815000",
     "longitude": "-73.54346000",
-    "county_id": null,
+    "county_id": 14046,
+    "wikiDataId": null
+  },
+  {
+    "id": 168219,
+    "name": "North Stonington",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.47096900",
+    "longitude": "-71.87252500",
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1184,7 +1724,7 @@
     "country_code": "US",
     "latitude": "41.77685000",
     "longitude": "-73.07922000",
-    "county_id": null,
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -1196,7 +1736,7 @@
     "country_code": "US",
     "latitude": "41.11760000",
     "longitude": "-73.40790000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -1208,7 +1748,7 @@
     "country_code": "US",
     "latitude": "41.52426000",
     "longitude": "-72.07591000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1220,7 +1760,7 @@
     "country_code": "US",
     "latitude": "41.59343000",
     "longitude": "-73.08539000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -1232,7 +1772,19 @@
     "country_code": "US",
     "latitude": "41.02287000",
     "longitude": "-73.56485000",
-    "county_id": null,
+    "county_id": 14046,
+    "wikiDataId": null
+  },
+  {
+    "id": 168183,
+    "name": "Old Lyme",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.31232000",
+    "longitude": "-72.30574200",
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -1244,7 +1796,7 @@
     "country_code": "US",
     "latitude": "41.39149000",
     "longitude": "-71.96174000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1256,7 +1808,7 @@
     "country_code": "US",
     "latitude": "41.29177000",
     "longitude": "-72.37620000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -1268,7 +1820,7 @@
     "country_code": "US",
     "latitude": "41.29150000",
     "longitude": "-72.36528000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -1280,7 +1832,7 @@
     "country_code": "US",
     "latitude": "41.27843000",
     "longitude": "-73.02566000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -1292,7 +1844,7 @@
     "country_code": "US",
     "latitude": "41.43399000",
     "longitude": "-73.11678000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -1304,7 +1856,7 @@
     "country_code": "US",
     "latitude": "41.44391000",
     "longitude": "-72.12502000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1316,7 +1868,7 @@
     "country_code": "US",
     "latitude": "41.37732000",
     "longitude": "-71.83368000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1328,7 +1880,7 @@
     "country_code": "US",
     "latitude": "41.02565000",
     "longitude": "-73.66068000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -1340,7 +1892,7 @@
     "country_code": "US",
     "latitude": "41.67649000",
     "longitude": "-71.91507000",
-    "county_id": null,
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -1352,7 +1904,7 @@
     "country_code": "US",
     "latitude": "41.67454000",
     "longitude": "-72.85816000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1364,7 +1916,19 @@
     "country_code": "US",
     "latitude": "41.67204000",
     "longitude": "-73.05289000",
-    "county_id": null,
+    "county_id": 14041,
+    "wikiDataId": null
+  },
+  {
+    "id": 168192,
+    "name": "Pomfret",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.86804000",
+    "longitude": "-71.97226000",
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -1376,7 +1940,7 @@
     "country_code": "US",
     "latitude": "41.34510000",
     "longitude": "-72.02480000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1388,7 +1952,7 @@
     "country_code": "US",
     "latitude": "41.57288000",
     "longitude": "-72.64065000",
-    "county_id": null,
+    "county_id": 14040,
     "wikiDataId": null
   },
   {
@@ -1400,7 +1964,7 @@
     "country_code": "US",
     "latitude": "41.52899000",
     "longitude": "-71.97396000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1412,7 +1976,7 @@
     "country_code": "US",
     "latitude": "41.50232000",
     "longitude": "-72.97872000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -1424,7 +1988,7 @@
     "country_code": "US",
     "latitude": "41.91510000",
     "longitude": "-71.90896000",
-    "county_id": null,
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -1436,7 +2000,19 @@
     "country_code": "US",
     "latitude": "42.02371000",
     "longitude": "-71.94980000",
-    "county_id": null,
+    "county_id": 14042,
+    "wikiDataId": null
+  },
+  {
+    "id": 168223,
+    "name": "Redding",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.30541500",
+    "longitude": "-73.39258400",
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -1448,7 +2024,7 @@
     "country_code": "US",
     "latitude": "41.28148000",
     "longitude": "-73.49818000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -1460,7 +2036,7 @@
     "country_code": "US",
     "latitude": "41.03371000",
     "longitude": "-73.57818000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -1472,7 +2048,31 @@
     "country_code": "US",
     "latitude": "41.86676000",
     "longitude": "-72.44953000",
-    "county_id": null,
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168170,
+    "name": "Rocky Hill",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.65662400",
+    "longitude": "-72.66177900",
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168209,
+    "name": "Roxbury",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.55553200",
+    "longitude": "-73.29602600",
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -1484,7 +2084,19 @@
     "country_code": "US",
     "latitude": "41.49038000",
     "longitude": "-72.27536000",
-    "county_id": null,
+    "county_id": 14045,
+    "wikiDataId": null
+  },
+  {
+    "id": 168210,
+    "name": "Salisbury",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.98622600",
+    "longitude": "-73.42527300",
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -1496,7 +2108,7 @@
     "country_code": "US",
     "latitude": "41.95649000",
     "longitude": "-72.79537000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1508,7 +2120,19 @@
     "country_code": "US",
     "latitude": "41.28538000",
     "longitude": "-72.39897000",
-    "county_id": null,
+    "county_id": 14040,
+    "wikiDataId": null
+  },
+  {
+    "id": 168193,
+    "name": "Scotland",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.69763600",
+    "longitude": "-72.08728900",
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -1520,7 +2144,19 @@
     "country_code": "US",
     "latitude": "41.39676000",
     "longitude": "-73.07594000",
-    "county_id": null,
+    "county_id": 14041,
+    "wikiDataId": null
+  },
+  {
+    "id": 168211,
+    "name": "Sharon",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.86076300",
+    "longitude": "-73.44921500",
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -1532,7 +2168,7 @@
     "country_code": "US",
     "latitude": "41.31649000",
     "longitude": "-73.09316000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -1544,7 +2180,7 @@
     "country_code": "US",
     "latitude": "41.57926000",
     "longitude": "-73.49568000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -1556,7 +2192,19 @@
     "country_code": "US",
     "latitude": "42.01343000",
     "longitude": "-72.56425000",
-    "county_id": null,
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168171,
+    "name": "Simsbury",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.87253000",
+    "longitude": "-72.82843800",
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1568,7 +2216,7 @@
     "country_code": "US",
     "latitude": "41.88088000",
     "longitude": "-72.81116000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1580,7 +2228,7 @@
     "country_code": "US",
     "latitude": "41.98537000",
     "longitude": "-72.44620000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1592,7 +2240,7 @@
     "country_code": "US",
     "latitude": "41.77010000",
     "longitude": "-72.30508000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1604,7 +2252,7 @@
     "country_code": "US",
     "latitude": "41.67954000",
     "longitude": "-72.17036000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1616,7 +2264,7 @@
     "country_code": "US",
     "latitude": "41.82371000",
     "longitude": "-72.62120000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1628,7 +2276,7 @@
     "country_code": "US",
     "latitude": "41.93899000",
     "longitude": "-71.95952000",
-    "county_id": null,
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -1640,7 +2288,19 @@
     "country_code": "US",
     "latitude": "41.48148000",
     "longitude": "-73.21317000",
-    "county_id": null,
+    "county_id": 14041,
+    "wikiDataId": null
+  },
+  {
+    "id": 168172,
+    "name": "Southington",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.60716000",
+    "longitude": "-72.87876000",
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1652,7 +2312,7 @@
     "country_code": "US",
     "latitude": "41.13649000",
     "longitude": "-73.28345000",
-    "county_id": null,
+    "county_id": 14039,
     "wikiDataId": null
   },
   {
@@ -1664,7 +2324,19 @@
     "country_code": "US",
     "latitude": "41.96260000",
     "longitude": "-72.57148000",
-    "county_id": null,
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168220,
+    "name": "Sprague",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.63557000",
+    "longitude": "-72.07752700",
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1676,7 +2348,7 @@
     "country_code": "US",
     "latitude": "41.98482000",
     "longitude": "-72.28897000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1688,7 +2360,7 @@
     "country_code": "US",
     "latitude": "41.95426000",
     "longitude": "-72.30230000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1700,7 +2372,31 @@
     "country_code": "US",
     "latitude": "41.05343000",
     "longitude": "-73.53873000",
-    "county_id": null,
+    "county_id": 14046,
+    "wikiDataId": null
+  },
+  {
+    "id": 168194,
+    "name": "Sterling",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.70120000",
+    "longitude": "-71.81598800",
+    "county_id": 14042,
+    "wikiDataId": null
+  },
+  {
+    "id": 168759,
+    "name": "Stonington",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.36351000",
+    "longitude": "-71.91136800",
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1712,7 +2408,7 @@
     "country_code": "US",
     "latitude": "41.80843000",
     "longitude": "-72.24952000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1724,7 +2420,19 @@
     "country_code": "US",
     "latitude": "41.18454000",
     "longitude": "-73.13317000",
-    "county_id": null,
+    "county_id": 14039,
+    "wikiDataId": null
+  },
+  {
+    "id": 168173,
+    "name": "Suffield",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.99991500",
+    "longitude": "-72.67875100",
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1736,7 +2444,7 @@
     "country_code": "US",
     "latitude": "41.98121000",
     "longitude": "-72.64981000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1748,7 +2456,7 @@
     "country_code": "US",
     "latitude": "41.90871000",
     "longitude": "-72.76010000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1760,7 +2468,7 @@
     "country_code": "US",
     "latitude": "41.63510000",
     "longitude": "-72.47036000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1772,7 +2480,7 @@
     "country_code": "US",
     "latitude": "41.67815000",
     "longitude": "-73.01094000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -1784,7 +2492,7 @@
     "country_code": "US",
     "latitude": "41.67399000",
     "longitude": "-73.07316000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -1796,7 +2504,7 @@
     "country_code": "US",
     "latitude": "41.95871000",
     "longitude": "-71.86257000",
-    "county_id": null,
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -1808,7 +2516,7 @@
     "country_code": "US",
     "latitude": "41.99704000",
     "longitude": "-72.59898000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1820,7 +2528,7 @@
     "country_code": "US",
     "latitude": "41.87149000",
     "longitude": "-72.36869000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1832,7 +2540,7 @@
     "country_code": "US",
     "latitude": "41.80065000",
     "longitude": "-73.12122000",
-    "county_id": null,
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -1844,7 +2552,7 @@
     "country_code": "US",
     "latitude": "41.24287000",
     "longitude": "-73.20067000",
-    "county_id": null,
+    "county_id": 14039,
     "wikiDataId": null
   },
   {
@@ -1860,6 +2568,42 @@
     "wikiDataId": null
   },
   {
+    "id": 168195,
+    "name": "Union",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.99988500",
+    "longitude": "-72.16224400",
+    "county_id": 14042,
+    "wikiDataId": null
+  },
+  {
+    "id": 168174,
+    "name": "Vernon",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.83756100",
+    "longitude": "-72.45904000",
+    "county_id": 14038,
+    "wikiDataId": null
+  },
+  {
+    "id": 168196,
+    "name": "Voluntown",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.57919200",
+    "longitude": "-71.83122800",
+    "county_id": 14042,
+    "wikiDataId": null
+  },
+  {
     "id": 128406,
     "name": "Wallingford",
     "state_id": 1435,
@@ -1868,7 +2612,7 @@
     "country_code": "US",
     "latitude": "41.45704000",
     "longitude": "-72.82316000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -1880,7 +2624,19 @@
     "country_code": "US",
     "latitude": "41.44987000",
     "longitude": "-72.81892000",
-    "county_id": null,
+    "county_id": 14044,
+    "wikiDataId": null
+  },
+  {
+    "id": 168212,
+    "name": "Warren",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.73585500",
+    "longitude": "-73.34283100",
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -1892,7 +2648,7 @@
     "country_code": "US",
     "latitude": "41.63148000",
     "longitude": "-73.31067000",
-    "county_id": null,
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -1904,7 +2660,7 @@
     "country_code": "US",
     "latitude": "41.55815000",
     "longitude": "-73.05150000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -1916,7 +2672,7 @@
     "country_code": "US",
     "latitude": "41.34170000",
     "longitude": "-72.13597000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -1928,7 +2684,7 @@
     "country_code": "US",
     "latitude": "41.60621000",
     "longitude": "-73.11817000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -1940,7 +2696,7 @@
     "country_code": "US",
     "latitude": "41.74427000",
     "longitude": "-71.90924000",
-    "county_id": null,
+    "county_id": 14042,
     "wikiDataId": null
   },
   {
@@ -1952,7 +2708,7 @@
     "country_code": "US",
     "latitude": "41.84371000",
     "longitude": "-72.82843000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1964,7 +2720,7 @@
     "country_code": "US",
     "latitude": "41.76204000",
     "longitude": "-72.74204000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -1976,7 +2732,7 @@
     "country_code": "US",
     "latitude": "41.27065000",
     "longitude": "-72.94705000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -1988,7 +2744,7 @@
     "country_code": "US",
     "latitude": "41.87315000",
     "longitude": "-72.85815000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -2012,7 +2768,19 @@
     "country_code": "US",
     "latitude": "41.27997000",
     "longitude": "-72.44254000",
-    "county_id": null,
+    "county_id": 14040,
+    "wikiDataId": null
+  },
+  {
+    "id": 168224,
+    "name": "Weston",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.22741300",
+    "longitude": "-73.36706100",
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -2024,7 +2792,7 @@
     "country_code": "US",
     "latitude": "41.14149000",
     "longitude": "-73.35790000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -2036,7 +2804,7 @@
     "country_code": "US",
     "latitude": "41.71427000",
     "longitude": "-72.65259000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -2048,7 +2816,19 @@
     "country_code": "US",
     "latitude": "41.71065000",
     "longitude": "-72.20813000",
-    "county_id": null,
+    "county_id": 14045,
+    "wikiDataId": null
+  },
+  {
+    "id": 168175,
+    "name": "Willington",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.89726700",
+    "longitude": "-72.25184800",
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -2060,7 +2840,7 @@
     "country_code": "US",
     "latitude": "41.19537000",
     "longitude": "-73.43790000",
-    "county_id": null,
+    "county_id": 14046,
     "wikiDataId": null
   },
   {
@@ -2072,7 +2852,7 @@
     "country_code": "US",
     "latitude": "41.90010000",
     "longitude": "-73.13483000",
-    "county_id": null,
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -2084,7 +2864,7 @@
     "country_code": "US",
     "latitude": "41.69982000",
     "longitude": "-72.15702000",
-    "county_id": null,
+    "county_id": 14045,
     "wikiDataId": null
   },
   {
@@ -2096,7 +2876,7 @@
     "country_code": "US",
     "latitude": "41.85260000",
     "longitude": "-72.64370000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -2108,7 +2888,7 @@
     "country_code": "US",
     "latitude": "41.92926000",
     "longitude": "-72.62731000",
-    "county_id": null,
+    "county_id": 14038,
     "wikiDataId": null
   },
   {
@@ -2120,7 +2900,7 @@
     "country_code": "US",
     "latitude": "41.92121000",
     "longitude": "-73.06011000",
-    "county_id": null,
+    "county_id": 14043,
     "wikiDataId": null
   },
   {
@@ -2132,7 +2912,7 @@
     "country_code": "US",
     "latitude": "41.60232000",
     "longitude": "-72.98677000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -2144,7 +2924,7 @@
     "country_code": "US",
     "latitude": "41.35260000",
     "longitude": "-73.00844000",
-    "county_id": null,
+    "county_id": 14044,
     "wikiDataId": null
   },
   {
@@ -2156,7 +2936,7 @@
     "country_code": "US",
     "latitude": "41.54454000",
     "longitude": "-73.20900000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -2168,7 +2948,7 @@
     "country_code": "US",
     "latitude": "41.54453000",
     "longitude": "-73.20476000",
-    "county_id": null,
+    "county_id": 14041,
     "wikiDataId": null
   },
   {
@@ -2180,7 +2960,19 @@
     "country_code": "US",
     "latitude": "41.22815000",
     "longitude": "-72.99149000",
-    "county_id": null,
+    "county_id": 14044,
+    "wikiDataId": null
+  },
+  {
+    "id": 168197,
+    "name": "Woodstock",
+    "state_id": 1435,
+    "state_code": "CT",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.96620800",
+    "longitude": "-72.02278600",
+    "county_id": 14042,
     "wikiDataId": null
   }
 ]

@@ -48,20 +48,7 @@
     "latitude": "37.88500000",
     "longitude": "127.72970000",
     "iso3166_2": "KR-42",
-    "native": "강원도",
-    "timezone": "Asia/Seoul"
-  },
-  {
-    "id": 3858,
-    "name": "Gwangju",
-    "country_id": 116,
-    "country_code": "KR",
-    "state_code": "29",
-    "type": "metropolitan city",
-    "latitude": "35.15954540",
-    "longitude": "126.85260120",
-    "iso3166_2": "KR-29",
-    "native": "광주",
+    "native": "강원특별자치도",
     "timezone": "Asia/Seoul"
   },
   {
@@ -104,6 +91,19 @@
     "timezone": "Asia/Seoul"
   },
   {
+    "id": 5854,
+    "name": "Jeonnam-Gwangju Integrated Special City",
+    "country_id": 116,
+    "country_code": "KR",
+    "state_code": "12",
+    "type": "integrated special city",
+    "latitude": "35.15472000",
+    "longitude": "126.91556000",
+    "iso3166_2": "KR-12",
+    "native": "전남광주통합특별시",
+    "timezone": "Asia/Seoul"
+  },
+  {
     "id": 3854,
     "name": "North Chungcheong",
     "country_id": 116,
@@ -135,11 +135,11 @@
     "country_id": 116,
     "country_code": "KR",
     "state_code": "45",
-    "type": "province",
+    "type": "special self-governing province",
     "latitude": "35.81989990",
     "longitude": "127.10900000",
     "iso3166_2": "KR-45",
-    "native": "전라북도",
+    "native": "전북특별자치도",
     "timezone": "Asia/Seoul"
   },
   {
@@ -192,19 +192,6 @@
     "longitude": "128.69250000",
     "iso3166_2": "KR-48",
     "native": "경상남도",
-    "timezone": "Asia/Seoul"
-  },
-  {
-    "id": 3856,
-    "name": "South Jeolla",
-    "country_id": 116,
-    "country_code": "KR",
-    "state_code": "46",
-    "type": "province",
-    "latitude": "34.81590000",
-    "longitude": "126.46290000",
-    "iso3166_2": "KR-46",
-    "native": "전라남도",
     "timezone": "Asia/Seoul"
   },
   {

@@ -1,7 +1,7 @@
 [
   {
     "id": 109305,
-    "name": "Abrikosovka",
+    "name": "Abrykosivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -13,7 +13,7 @@
   },
   {
     "id": 109306,
-    "name": "Abrikosovo",
+    "name": "Abrykosove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -25,7 +25,7 @@
   },
   {
     "id": 109308,
-    "name": "Aeroflotskiy",
+    "name": "Aeroflotskyi",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -37,7 +37,7 @@
   },
   {
     "id": 109309,
-    "name": "Agrarnoye",
+    "name": "Ahrarne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -48,38 +48,14 @@
     "wikiDataId": null
   },
   {
-    "id": 109310,
-    "name": "Akimovka",
+    "id": 109881,
+    "name": "Albat",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.51981000",
-    "longitude": "34.82438000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109313,
-    "name": "Aleksandrovka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.57654000",
-    "longitude": "34.09947000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109314,
-    "name": "Alekseyevka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.58194000",
-    "longitude": "33.62980000",
+    "latitude": "44.62900000",
+    "longitude": "33.86895000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -109,7 +85,7 @@
   },
   {
     "id": 109317,
-    "name": "Amurskoye",
+    "name": "Amurske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -121,7 +97,7 @@
   },
   {
     "id": 109327,
-    "name": "Armyansk",
+    "name": "Armiansk",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -133,7 +109,7 @@
   },
   {
     "id": 109328,
-    "name": "Aromatnoye",
+    "name": "Aromatne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -145,13 +121,37 @@
   },
   {
     "id": 109336,
-    "name": "Azovskoye",
+    "name": "Azovske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "45.58604000",
     "longitude": "34.56680000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109604,
+    "name": "Bahaily",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.02688000",
+    "longitude": "33.62956000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109417,
+    "name": "Bahate",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.02933000",
+    "longitude": "34.76732000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -165,6 +165,18 @@
     "latitude": "45.37417000",
     "longitude": "36.29705000",
     "county_id": 5245,
+    "wikiDataId": null
+  },
+  {
+    "id": 109784,
+    "name": "Bakachyk-Kyiat",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.01900000",
+    "longitude": "34.03049000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -193,37 +205,13 @@
   },
   {
     "id": 109356,
-    "name": "Batal’noye",
+    "name": "Batalne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "45.19402000",
     "longitude": "35.61583000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109363,
-    "name": "Belinskoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.37465000",
-    "longitude": "36.08212000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109364,
-    "name": "Beloglinka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.99490000",
-    "longitude": "34.04167000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -241,7 +229,7 @@
   },
   {
     "id": 109372,
-    "name": "Beregovoye",
+    "name": "Berehove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -253,13 +241,49 @@
   },
   {
     "id": 109384,
-    "name": "Berezovka",
+    "name": "Berezivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "45.57471000",
     "longitude": "33.34397000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110523,
+    "name": "Beshuili-Iliak",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.37062000",
+    "longitude": "33.94883000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109363,
+    "name": "Bielinske",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.37465000",
+    "longitude": "36.08212000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110183,
+    "name": "Biiuk-Onlar",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.28866000",
+    "longitude": "34.13521000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -276,20 +300,20 @@
     "wikiDataId": null
   },
   {
-    "id": 110183,
-    "name": "Biyuk-Onlar",
+    "id": 109364,
+    "name": "Bilohlynka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.28866000",
-    "longitude": "34.13521000",
+    "latitude": "44.99490000",
+    "longitude": "34.04167000",
     "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 109412,
-    "name": "Blizhneye",
+    "name": "Blyzhnie",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -300,20 +324,8 @@
     "wikiDataId": null
   },
   {
-    "id": 109417,
-    "name": "Bogatoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.02933000",
-    "longitude": "34.76732000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 109438,
-    "name": "Botanicheskoye",
+    "name": "Botanichne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -325,7 +337,7 @@
   },
   {
     "id": 109444,
-    "name": "Bratskoye",
+    "name": "Bratske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -336,20 +348,8 @@
     "wikiDataId": null
   },
   {
-    "id": 109470,
-    "name": "Chapayevka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.28119000",
-    "longitude": "34.89428000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 109474,
-    "name": "Chaykino",
+    "name": "Chaikyne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -361,13 +361,25 @@
   },
   {
     "id": 109476,
-    "name": "Chelyadinovo",
+    "name": "Cheliadinove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "45.20729000",
     "longitude": "36.37620000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109470,
+    "name": "Cherkez-Tobai",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.28119000",
+    "longitude": "34.89428000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -384,20 +396,8 @@
     "wikiDataId": null
   },
   {
-    "id": 109491,
-    "name": "Chernopolye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.04399000",
-    "longitude": "34.63916000",
-    "county_id": 5242,
-    "wikiDataId": null
-  },
-  {
     "id": 109492,
-    "name": "Chernovo",
+    "name": "Chernove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -408,20 +408,8 @@
     "wikiDataId": null
   },
   {
-    "id": 109493,
-    "name": "Chernozemnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.40808000",
-    "longitude": "34.81990000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 109497,
-    "name": "Chernyshevo",
+    "name": "Chernyshove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -433,7 +421,7 @@
   },
   {
     "id": 109503,
-    "name": "Chervonoye",
+    "name": "Chervone",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -444,32 +432,8 @@
     "wikiDataId": null
   },
   {
-    "id": 109505,
-    "name": "Chisten’koye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.88152000",
-    "longitude": "34.04716000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109506,
-    "name": "Chistopolye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.36541000",
-    "longitude": "36.18312000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 109507,
-    "name": "Chkalovo",
+    "name": "Chkalove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -492,8 +456,56 @@
     "wikiDataId": null
   },
   {
+    "id": 109491,
+    "name": "Chornopillia",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.04399000",
+    "longitude": "34.63916000",
+    "county_id": 5242,
+    "wikiDataId": null
+  },
+  {
+    "id": 109493,
+    "name": "Chornozemne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.40808000",
+    "longitude": "34.81990000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109505,
+    "name": "Chystenke",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "44.88152000",
+    "longitude": "34.04716000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109506,
+    "name": "Chystopillia",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.36541000",
+    "longitude": "36.18312000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 109527,
-    "name": "Dachnoye",
+    "name": "Dachne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -505,7 +517,7 @@
   },
   {
     "id": 109528,
-    "name": "Dalekoye",
+    "name": "Daleke",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -516,8 +528,20 @@
     "wikiDataId": null
   },
   {
+    "id": 110308,
+    "name": "Der-Emes",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.77903000",
+    "longitude": "33.84649000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 109543,
-    "name": "Dmitrovka",
+    "name": "Dmytrivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -529,7 +553,7 @@
   },
   {
     "id": 109547,
-    "name": "Dneprovka",
+    "name": "Dniprovka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -541,7 +565,7 @@
   },
   {
     "id": 109560,
-    "name": "Dobroye",
+    "name": "Dobre",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -553,7 +577,7 @@
   },
   {
     "id": 109561,
-    "name": "Dobrushino",
+    "name": "Dobrushyne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -565,7 +589,7 @@
   },
   {
     "id": 109564,
-    "name": "Dolinnoye",
+    "name": "Dolynne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -577,7 +601,7 @@
   },
   {
     "id": 109571,
-    "name": "Donskoye",
+    "name": "Donske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -589,7 +613,7 @@
   },
   {
     "id": 109577,
-    "name": "Drofino",
+    "name": "Drofyne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -601,7 +625,7 @@
   },
   {
     "id": 109582,
-    "name": "Dubki",
+    "name": "Dubky",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -613,7 +637,7 @@
   },
   {
     "id": 109592,
-    "name": "Dzhankoy",
+    "name": "Dzhankoi",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -636,8 +660,20 @@
     "wikiDataId": null
   },
   {
+    "id": 110272,
+    "name": "Dzholman",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "44.88083000",
+    "longitude": "34.20194000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 109599,
-    "name": "Feodosiya",
+    "name": "Feodosiia",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -649,7 +685,7 @@
   },
   {
     "id": 109600,
-    "name": "Filatovka",
+    "name": "Filativka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -684,20 +720,8 @@
     "wikiDataId": null
   },
   {
-    "id": 109604,
-    "name": "Frunze",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.02688000",
-    "longitude": "33.62956000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 109605,
-    "name": "Gaspra",
+    "name": "Haspra",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -709,7 +733,7 @@
   },
   {
     "id": 109606,
-    "name": "Geroyskoye",
+    "name": "Heroiske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -721,7 +745,7 @@
   },
   {
     "id": 109607,
-    "name": "Glazovka",
+    "name": "Hlazivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -733,7 +757,7 @@
   },
   {
     "id": 109608,
-    "name": "Golubinka",
+    "name": "Holubynka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -745,7 +769,7 @@
   },
   {
     "id": 109609,
-    "name": "Gornostayevka",
+    "name": "Hornostaivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -756,128 +780,8 @@
     "wikiDataId": null
   },
   {
-    "id": 109610,
-    "name": "Gorodskoy okrug Alushta",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.67256000",
-    "longitude": "34.41467000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109611,
-    "name": "Gorodskoy okrug Armyansk",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "46.10871000",
-    "longitude": "33.69095000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109612,
-    "name": "Gorodskoy okrug Dzhankoy",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.70810000",
-    "longitude": "34.39407000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109613,
-    "name": "Gorodskoy okrug Feodosiya",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.04612000",
-    "longitude": "35.37289000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109614,
-    "name": "Gorodskoy okrug Krasnoperekopsk",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.95330000",
-    "longitude": "33.79669000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109615,
-    "name": "Gorodskoy okrug Saki",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.12780000",
-    "longitude": "33.60134000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109616,
-    "name": "Gorodskoy okrug Simferopol",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.94803000",
-    "longitude": "34.10912000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109617,
-    "name": "Gorodskoy okrug Sudak",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.91667000",
-    "longitude": "35.00202000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109618,
-    "name": "Gorodskoy okrug Yalta",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.49638000",
-    "longitude": "34.16336000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109619,
-    "name": "Gorodskoy okrug Yevpatoriya",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.19559000",
-    "longitude": "33.36342000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 109620,
-    "name": "Gresovskiy",
+    "name": "Hresivskyi",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -888,26 +792,26 @@
     "wikiDataId": null
   },
   {
-    "id": 109621,
-    "name": "Grishino",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.64219000",
-    "longitude": "33.83098000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 109622,
-    "name": "Grushevka",
+    "name": "Hrushivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "45.02281000",
     "longitude": "34.97301000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109621,
+    "name": "Hryshyne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.64219000",
+    "longitude": "33.83098000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -948,32 +852,8 @@
     "wikiDataId": null
   },
   {
-    "id": 109669,
-    "name": "Ilychyovo",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.28348000",
-    "longitude": "35.73864000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109670,
-    "name": "Ilyichevo",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.24524000",
-    "longitude": "35.07127000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 109671,
-    "name": "Ilyinka",
+    "name": "Illinka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -985,7 +865,7 @@
   },
   {
     "id": 109676,
-    "name": "Ishun’",
+    "name": "Ishun",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -996,8 +876,20 @@
     "wikiDataId": null
   },
   {
+    "id": 109753,
+    "name": "Isliam-Terek",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.22967000",
+    "longitude": "35.19987000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 109685,
-    "name": "Ivanovka",
+    "name": "Ivanivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1008,8 +900,20 @@
     "wikiDataId": null
   },
   {
+    "id": 109692,
+    "name": "Iziumivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.04437000",
+    "longitude": "35.13717000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 109688,
-    "name": "Izobil’noye",
+    "name": "Izobilne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1021,25 +925,13 @@
   },
   {
     "id": 109689,
-    "name": "Izumrudnoye",
+    "name": "Izumrudne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "45.73704000",
     "longitude": "34.41299000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109692,
-    "name": "Izyumovka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.04437000",
-    "longitude": "35.13717000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -1056,20 +948,20 @@
     "wikiDataId": null
   },
   {
-    "id": 109700,
-    "name": "Kalinino",
+    "id": 109835,
+    "name": "Kainash",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.59521000",
-    "longitude": "34.22030000",
-    "county_id": 5246,
+    "latitude": "45.31572000",
+    "longitude": "34.94756000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 109701,
-    "name": "Kalinovka",
+    "name": "Kalynivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1081,7 +973,7 @@
   },
   {
     "id": 109707,
-    "name": "Kamenolomnya",
+    "name": "Kamenolomnia",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1092,8 +984,44 @@
     "wikiDataId": null
   },
   {
+    "id": 109669,
+    "name": "Kara-Kuiu",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.28348000",
+    "longitude": "35.73864000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110519,
+    "name": "Karakul",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.96005000",
+    "longitude": "33.77155000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109750,
+    "name": "Karsa",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.22106000",
+    "longitude": "35.84227000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 109718,
-    "name": "Kashtanovoye",
+    "name": "Kashtanove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1113,6 +1041,18 @@
     "latitude": "44.86760000",
     "longitude": "33.78995000",
     "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110748,
+    "name": "Katyrlez",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.38329000",
+    "longitude": "36.43739000",
+    "county_id": 5245,
     "wikiDataId": null
   },
   {
@@ -1141,7 +1081,7 @@
   },
   {
     "id": 109734,
-    "name": "Kholmovka",
+    "name": "Kholmivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1152,14 +1092,14 @@
     "wikiDataId": null
   },
   {
-    "id": 109750,
-    "name": "Kirovo",
+    "id": 109788,
+    "name": "Kindratove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.22106000",
-    "longitude": "35.84227000",
+    "latitude": "45.63125000",
+    "longitude": "34.47387000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -1176,20 +1116,20 @@
     "wikiDataId": null
   },
   {
-    "id": 109753,
-    "name": "Kirovskoye",
+    "id": 109812,
+    "name": "Kistochkivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.22967000",
-    "longitude": "35.19987000",
+    "latitude": "45.31747000",
+    "longitude": "34.67418000",
     "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 109761,
-    "name": "Klepinino",
+    "name": "Klepynine",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1213,7 +1153,7 @@
   },
   {
     "id": 109780,
-    "name": "Kol’chugino",
+    "name": "Kolchuhyne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1224,20 +1164,8 @@
     "wikiDataId": null
   },
   {
-    "id": 109781,
-    "name": "Kol’tsovo",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.32807000",
-    "longitude": "33.44992000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 109774,
-    "name": "Kolodeznoye",
+    "name": "Kolodiazne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1249,7 +1177,7 @@
   },
   {
     "id": 109779,
-    "name": "Koloski",
+    "name": "Kolosky",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1260,38 +1188,14 @@
     "wikiDataId": null
   },
   {
-    "id": 109784,
-    "name": "Komsomol’skoye",
+    "id": 109781,
+    "name": "Koltsove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.01900000",
-    "longitude": "34.03049000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109788,
-    "name": "Kondratyevo",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.63125000",
-    "longitude": "34.47387000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109790,
-    "name": "Konstantinovka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.85511000",
-    "longitude": "34.12069000",
+    "latitude": "45.32807000",
+    "longitude": "33.44992000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -1309,7 +1213,7 @@
   },
   {
     "id": 109796,
-    "name": "Kormovoye",
+    "name": "Kormove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1320,20 +1224,20 @@
     "wikiDataId": null
   },
   {
-    "id": 109812,
-    "name": "Kostochkovka",
+    "id": 109790,
+    "name": "Kostiantynivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.31747000",
-    "longitude": "34.67418000",
+    "latitude": "44.85511000",
+    "longitude": "34.12069000",
     "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 109818,
-    "name": "Kotel’nikovo",
+    "name": "Kotelnykove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1345,7 +1249,7 @@
   },
   {
     "id": 109822,
-    "name": "Kovyl’noye",
+    "name": "Kovylne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1356,20 +1260,20 @@
     "wikiDataId": null
   },
   {
-    "id": 109830,
-    "name": "Krasna Zor'ka",
+    "id": 109857,
+    "name": "Krainie",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.13432000",
-    "longitude": "34.04015000",
+    "latitude": "45.22993000",
+    "longitude": "33.83239000",
     "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 109831,
-    "name": "Krasnaya Polyana",
+    "name": "Krasna Poliana",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1380,32 +1284,32 @@
     "wikiDataId": null
   },
   {
-    "id": 109834,
-    "name": "Krasnoarmeyskoye",
+    "id": 109830,
+    "name": "Krasna Zorka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.99103000",
-    "longitude": "34.03037000",
+    "latitude": "45.13432000",
+    "longitude": "34.04015000",
     "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 109835,
-    "name": "Krasnoflotskoye",
+    "id": 109850,
+    "name": "Krasne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.31572000",
-    "longitude": "34.94756000",
+    "latitude": "45.13999000",
+    "longitude": "34.09452000",
     "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 109836,
-    "name": "Krasnogorka",
+    "name": "Krasnohirka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1428,8 +1332,20 @@
     "wikiDataId": null
   },
   {
+    "id": 109849,
+    "name": "Krasnoiarske",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.50661000",
+    "longitude": "33.26641000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 109840,
-    "name": "Krasnokamenka",
+    "name": "Krasnokamianka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1441,7 +1357,7 @@
   },
   {
     "id": 109842,
-    "name": "Krasnolesye",
+    "name": "Krasnolissia",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1449,18 +1365,6 @@
     "latitude": "44.83259000",
     "longitude": "34.23086000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109845,
-    "name": "Krasnoperekops’k",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.95716000",
-    "longitude": "33.79650000",
-    "county_id": 5247,
     "wikiDataId": null
   },
   {
@@ -1472,42 +1376,6 @@
     "country_code": "UA",
     "latitude": "45.96992000",
     "longitude": "33.87990000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109849,
-    "name": "Krasnoyarskoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.50661000",
-    "longitude": "33.26641000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109850,
-    "name": "Krasnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.13999000",
-    "longitude": "34.09452000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109851,
-    "name": "Krasnoznamenka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.28676000",
-    "longitude": "34.00036000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -1524,38 +1392,14 @@
     "wikiDataId": null
   },
   {
-    "id": 109857,
-    "name": "Krayneye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.22993000",
-    "longitude": "33.83239000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 109861,
-    "name": "Krest’yanovka",
+    "name": "Krestianivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "45.72268000",
     "longitude": "33.93938000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109863,
-    "name": "Krinichnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.02428000",
-    "longitude": "34.61202000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -1573,7 +1417,7 @@
   },
   {
     "id": 109870,
-    "name": "Krymskaya Roza",
+    "name": "Krymska Roza",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1585,7 +1429,7 @@
   },
   {
     "id": 109871,
-    "name": "Krymskoye",
+    "name": "Krymske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1596,20 +1440,32 @@
     "wikiDataId": null
   },
   {
-    "id": 109881,
-    "name": "Kuibyshevo",
+    "id": 109863,
+    "name": "Krynychne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "44.62900000",
-    "longitude": "33.86895000",
+    "latitude": "45.02428000",
+    "longitude": "34.61202000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110829,
+    "name": "Kuchuk-Alkaly",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.86258000",
+    "longitude": "34.39160000",
     "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 109882,
-    "name": "Kukushkino",
+    "name": "Kukushkine",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1633,7 +1489,7 @@
   },
   {
     "id": 109890,
-    "name": "Kurskoye",
+    "name": "Kurske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1644,26 +1500,38 @@
     "wikiDataId": null
   },
   {
-    "id": 109968,
-    "name": "L’govskoye",
+    "id": 109670,
+    "name": "Kyianly",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.09801000",
-    "longitude": "34.95770000",
+    "latitude": "45.24524000",
+    "longitude": "35.07127000",
     "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 109910,
-    "name": "Lekarstvennoye",
+    "id": 110209,
+    "name": "Kyiat",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "44.94194000",
-    "longitude": "33.82229000",
+    "latitude": "45.74232000",
+    "longitude": "34.06607000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109914,
+    "name": "Kyr-Bailar",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.26844000",
+    "longitude": "34.05023000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -1680,44 +1548,8 @@
     "wikiDataId": null
   },
   {
-    "id": 109913,
-    "name": "Lenino",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.29857000",
-    "longitude": "35.77708000",
-    "county_id": 5245,
-    "wikiDataId": null
-  },
-  {
-    "id": 109914,
-    "name": "Leninskoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.26844000",
-    "longitude": "34.05023000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 109915,
-    "name": "Lesnovka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.15350000",
-    "longitude": "33.61889000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 109917,
-    "name": "Levadki",
+    "name": "Levadky",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1728,32 +1560,44 @@
     "wikiDataId": null
   },
   {
-    "id": 109919,
-    "name": "Listvennoye",
+    "id": 109968,
+    "name": "Lhovske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.48086000",
-    "longitude": "34.81087000",
+    "latitude": "45.09801000",
+    "longitude": "34.95770000",
     "county_id": null,
     "wikiDataId": null
   },
   {
-    "id": 109920,
-    "name": "Litvinenkovo",
+    "id": 109910,
+    "name": "Likarstvenne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.08648000",
-    "longitude": "34.31107000",
+    "latitude": "44.94194000",
+    "longitude": "33.82229000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109915,
+    "name": "Lisnivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.15350000",
+    "longitude": "33.61889000",
     "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 109926,
-    "name": "Livadiya",
+    "name": "Livadiia",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1765,7 +1609,7 @@
   },
   {
     "id": 109927,
-    "name": "Lobanovo",
+    "name": "Lobanove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1777,7 +1621,7 @@
   },
   {
     "id": 109933,
-    "name": "Lozovoye",
+    "name": "Lozove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1789,7 +1633,7 @@
   },
   {
     "id": 109935,
-    "name": "Luchistoye",
+    "name": "Luchyste",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1801,7 +1645,7 @@
   },
   {
     "id": 109936,
-    "name": "Luganskoye",
+    "name": "Luhanske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1813,7 +1657,7 @@
   },
   {
     "id": 109937,
-    "name": "Lugovoye",
+    "name": "Luhove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1824,8 +1668,32 @@
     "wikiDataId": null
   },
   {
+    "id": 109919,
+    "name": "Lystvynne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.48086000",
+    "longitude": "34.81087000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109920,
+    "name": "Lytvynenkove",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.08648000",
+    "longitude": "34.31107000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 109969,
-    "name": "Magazinka",
+    "name": "Mahazynka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1836,8 +1704,20 @@
     "wikiDataId": null
   },
   {
+    "id": 110010,
+    "name": "Maiske",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.59555000",
+    "longitude": "34.55213000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 109982,
-    "name": "Malen’koye",
+    "name": "Malenke",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1849,7 +1729,7 @@
   },
   {
     "id": 109985,
-    "name": "Malorechenskoye",
+    "name": "Malorichenske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1861,7 +1741,7 @@
   },
   {
     "id": 109987,
-    "name": "Maly Mayak",
+    "name": "Malyi Maiak",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1872,20 +1752,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110005,
-    "name": "Mar’yanovka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.44627000",
-    "longitude": "34.29474000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 109998,
-    "name": "Marfovka",
+    "name": "Marfivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1896,8 +1764,20 @@
     "wikiDataId": null
   },
   {
+    "id": 110005,
+    "name": "Marianivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.44627000",
+    "longitude": "34.29474000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110004,
-    "name": "Maryevka",
+    "name": "Marivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1908,20 +1788,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110006,
-    "name": "Maslovo",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.79197000",
-    "longitude": "34.36298000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110007,
-    "name": "Massandra",
+    "name": "Masandra",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1932,14 +1800,14 @@
     "wikiDataId": null
   },
   {
-    "id": 110010,
-    "name": "Mayskoye",
+    "id": 110006,
+    "name": "Maslove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.59555000",
-    "longitude": "34.55213000",
+    "latitude": "45.79197000",
+    "longitude": "34.36298000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -1956,20 +1824,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110013,
-    "name": "Medvedevka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.88389000",
-    "longitude": "34.55562000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110014,
-    "name": "Medvedevo",
+    "name": "Medvedeve",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1980,8 +1836,32 @@
     "wikiDataId": null
   },
   {
+    "id": 110013,
+    "name": "Medvedivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.88389000",
+    "longitude": "34.55562000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110182,
+    "name": "Melek-Chesme",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.36215000",
+    "longitude": "36.36803000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110020,
-    "name": "Mel’nichnoye",
+    "name": "Melnychne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -1992,20 +1872,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110026,
-    "name": "Mezhvodnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.58751000",
-    "longitude": "32.84501000",
-    "county_id": 5244,
-    "wikiDataId": null
-  },
-  {
     "id": 110027,
-    "name": "Michurinskoye",
+    "name": "Michurinske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2016,80 +1884,20 @@
     "wikiDataId": null
   },
   {
-    "id": 110028,
-    "name": "Mikhaylovka",
+    "id": 110026,
+    "name": "Mizhvodne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.11325000",
-    "longitude": "33.61071000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110032,
-    "name": "Mirnovka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.69083000",
-    "longitude": "34.30966000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110033,
-    "name": "Mirnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.98330000",
-    "longitude": "34.06160000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110034,
-    "name": "Mirny",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.30788000",
-    "longitude": "33.03501000",
+    "latitude": "45.58751000",
+    "longitude": "32.84501000",
     "county_id": 5244,
     "wikiDataId": null
   },
   {
-    "id": 110036,
-    "name": "Mitrofanovka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.45114000",
-    "longitude": "34.67883000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110037,
-    "name": "Mityayevo",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.23423000",
-    "longitude": "33.70150000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110046,
-    "name": "Molochnoye",
+    "name": "Molochne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2101,7 +1909,7 @@
   },
   {
     "id": 110050,
-    "name": "Molodyozhnoye",
+    "name": "Molodizhne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2125,7 +1933,7 @@
   },
   {
     "id": 110061,
-    "name": "Muromskoye",
+    "name": "Muromske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2137,7 +1945,7 @@
   },
   {
     "id": 110064,
-    "name": "Muskatnoye",
+    "name": "Muskatne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2148,8 +1956,80 @@
     "wikiDataId": null
   },
   {
+    "id": 110028,
+    "name": "Mykhailivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.11325000",
+    "longitude": "33.61071000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110096,
+    "name": "Mykolaivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "44.96213000",
+    "longitude": "33.61061000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110033,
+    "name": "Myrne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "44.98330000",
+    "longitude": "34.06160000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110032,
+    "name": "Myrnivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.69083000",
+    "longitude": "34.30966000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110034,
+    "name": "Myrnyi",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.30788000",
+    "longitude": "33.03501000",
+    "county_id": 5244,
+    "wikiDataId": null
+  },
+  {
+    "id": 109834,
+    "name": "Myrza-Koiash",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.99103000",
+    "longitude": "34.03037000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110077,
-    "name": "Mysovoe",
+    "name": "Mysove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2160,8 +2040,44 @@
     "wikiDataId": null
   },
   {
+    "id": 110037,
+    "name": "Mytiaieve",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.23423000",
+    "longitude": "33.70150000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110036,
+    "name": "Mytrofanivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.45114000",
+    "longitude": "34.67883000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110085,
+    "name": "Naidonivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.27088000",
+    "longitude": "34.44898000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110083,
-    "name": "Nasypnoe",
+    "name": "Nasypne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2172,14 +2088,14 @@
     "wikiDataId": null
   },
   {
-    "id": 110085,
-    "name": "Naydenovka",
+    "id": 110089,
+    "name": "Nekrasove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.27088000",
-    "longitude": "34.44898000",
+    "latitude": "45.42453000",
+    "longitude": "34.28545000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -2196,18 +2112,6 @@
     "wikiDataId": null
   },
   {
-    "id": 110089,
-    "name": "Nekrasovo",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.42453000",
-    "longitude": "34.28545000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110095,
     "name": "Nikita",
     "state_id": 4689,
@@ -2217,30 +2121,6 @@
     "latitude": "44.51564000",
     "longitude": "34.23840000",
     "county_id": 5250,
-    "wikiDataId": null
-  },
-  {
-    "id": 110096,
-    "name": "Nikolayevka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.96213000",
-    "longitude": "33.61061000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110099,
-    "name": "Nizhnegorskiy",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.44789000",
-    "longitude": "34.73839000",
-    "county_id": 5242,
     "wikiDataId": null
   },
   {
@@ -2257,7 +2137,7 @@
   },
   {
     "id": 110118,
-    "name": "Novoandreyevka",
+    "name": "Novoandriivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2269,7 +2149,7 @@
   },
   {
     "id": 110124,
-    "name": "Novoestoniya",
+    "name": "Novoestoniia",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2281,7 +2161,7 @@
   },
   {
     "id": 110126,
-    "name": "Novofedorovka",
+    "name": "Novofedorivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2293,7 +2173,7 @@
   },
   {
     "id": 110127,
-    "name": "Novogrigoryevka",
+    "name": "Novohryhorivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2305,7 +2185,7 @@
   },
   {
     "id": 110129,
-    "name": "Novoivanovka",
+    "name": "Novoivanivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2317,7 +2197,7 @@
   },
   {
     "id": 110130,
-    "name": "Novokrymskoye",
+    "name": "Novokrymske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2329,7 +2209,7 @@
   },
   {
     "id": 110136,
-    "name": "Novonikolayevka",
+    "name": "Novomykolaivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2341,7 +2221,7 @@
   },
   {
     "id": 110138,
-    "name": "Novoozyornoye",
+    "name": "Novoozerne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2353,7 +2233,7 @@
   },
   {
     "id": 110139,
-    "name": "Novopavlovka",
+    "name": "Novopavlivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2376,44 +2256,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110147,
-    "name": "Novosel’skoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.50357000",
-    "longitude": "32.72250000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110144,
-    "name": "Novoselovskoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.44276000",
-    "longitude": "33.59795000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110148,
-    "name": "Novostepnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.66206000",
-    "longitude": "34.38700000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110149,
-    "name": "Novosyolovka",
+    "name": "Novoselivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2424,8 +2268,44 @@
     "wikiDataId": null
   },
   {
+    "id": 110144,
+    "name": "Novoselivske",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.44276000",
+    "longitude": "33.59795000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110147,
+    "name": "Novosilske",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.50357000",
+    "longitude": "32.72250000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110148,
+    "name": "Novostepove",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.66206000",
+    "longitude": "34.38700000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110155,
-    "name": "Novozhilovka",
+    "name": "Novozhylivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2437,7 +2317,7 @@
   },
   {
     "id": 110156,
-    "name": "Novy Svet",
+    "name": "Novyi Svit",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2448,8 +2328,20 @@
     "wikiDataId": null
   },
   {
+    "id": 110099,
+    "name": "Nyzhnohirskyi",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.44789000",
+    "longitude": "34.73839000",
+    "county_id": 5242,
+    "wikiDataId": null
+  },
+  {
     "id": 110178,
-    "name": "Okhotnikovo",
+    "name": "Okhotnykove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2461,7 +2353,7 @@
   },
   {
     "id": 110179,
-    "name": "Okhotskoye",
+    "name": "Okhotske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2472,20 +2364,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110182,
-    "name": "Oktyabr'skoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.36215000",
-    "longitude": "36.36803000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110184,
-    "name": "Okunevka",
+    "name": "Okunivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2496,8 +2376,32 @@
     "wikiDataId": null
   },
   {
+    "id": 109313,
+    "name": "Oleksandrivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.57654000",
+    "longitude": "34.09947000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109314,
+    "name": "Oleksiivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.58194000",
+    "longitude": "33.62980000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110191,
-    "name": "Olenevka",
+    "name": "Olenivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2505,6 +2409,18 @@
     "latitude": "45.38333000",
     "longitude": "32.53333000",
     "county_id": 5244,
+    "wikiDataId": null
+  },
+  {
+    "id": 110794,
+    "name": "Omelianivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.53287000",
+    "longitude": "34.89624000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -2521,7 +2437,7 @@
   },
   {
     "id": 110204,
-    "name": "Orlovskoye",
+    "name": "Orlivske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2533,7 +2449,7 @@
   },
   {
     "id": 110206,
-    "name": "Ostanino",
+    "name": "Ostanine",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2544,20 +2460,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110209,
-    "name": "Ostrovskoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.74232000",
-    "longitude": "34.06607000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110220,
-    "name": "Pakharevka",
+    "name": "Pakharivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2581,7 +2485,7 @@
   },
   {
     "id": 110224,
-    "name": "Partizanskoye",
+    "name": "Partyzanske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2593,7 +2497,7 @@
   },
   {
     "id": 110225,
-    "name": "Partizany",
+    "name": "Partyzany",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2605,7 +2509,7 @@
   },
   {
     "id": 110243,
-    "name": "Pereval'noye",
+    "name": "Perevalne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2617,7 +2521,7 @@
   },
   {
     "id": 110245,
-    "name": "Perovo",
+    "name": "Perove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2625,6 +2529,18 @@
     "latitude": "44.92513000",
     "longitude": "34.05753000",
     "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110249,
+    "name": "Pervomaiske",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.71744000",
+    "longitude": "33.85596000",
+    "county_id": 5246,
     "wikiDataId": null
   },
   {
@@ -2640,32 +2556,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110249,
-    "name": "Pervomayskoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.71744000",
-    "longitude": "33.85596000",
-    "county_id": 5246,
-    "wikiDataId": null
-  },
-  {
-    "id": 110254,
-    "name": "Peschanoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.84342000",
-    "longitude": "33.60921000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110260,
-    "name": "Petrovka",
+    "name": "Petrivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2676,20 +2568,32 @@
     "wikiDataId": null
   },
   {
-    "id": 110272,
-    "name": "Pionerskoye",
+    "id": 110333,
+    "name": "Piatykhatka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "44.88083000",
-    "longitude": "34.20194000",
+    "latitude": "45.32347000",
+    "longitude": "34.25516000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110254,
+    "name": "Pishchane",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "44.84342000",
+    "longitude": "33.60921000",
     "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 110277,
-    "name": "Plodovoye",
+    "name": "Plodove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2701,7 +2605,7 @@
   },
   {
     "id": 110280,
-    "name": "Pobednoye",
+    "name": "Pobiedne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2713,7 +2617,7 @@
   },
   {
     "id": 110283,
-    "name": "Pochetnoye",
+    "name": "Pochetne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2749,7 +2653,7 @@
   },
   {
     "id": 110307,
-    "name": "Pozharskoye",
+    "name": "Pozharske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2760,56 +2664,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110308,
-    "name": "Pravda",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.77903000",
-    "longitude": "33.84649000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110310,
-    "name": "Primorskiy",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.11904000",
-    "longitude": "35.48025000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110311,
-    "name": "Priozyornoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.26990000",
-    "longitude": "36.33405000",
-    "county_id": 5245,
-    "wikiDataId": null
-  },
-  {
-    "id": 110312,
-    "name": "Privetnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.11969000",
-    "longitude": "35.05960000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110314,
-    "name": "Prostornoye",
+    "name": "Prostorne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2821,7 +2677,7 @@
   },
   {
     "id": 110315,
-    "name": "Prudovoye",
+    "name": "Prudove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2844,8 +2700,44 @@
     "wikiDataId": null
   },
   {
+    "id": 110310,
+    "name": "Prymorskyi",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.11904000",
+    "longitude": "35.48025000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110311,
+    "name": "Pryozerne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.26990000",
+    "longitude": "36.33405000",
+    "county_id": 5245,
+    "wikiDataId": null
+  },
+  {
+    "id": 110312,
+    "name": "Pryvitne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.11969000",
+    "longitude": "35.05960000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110326,
-    "name": "Pshenichnoye",
+    "name": "Pshenychne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2857,25 +2749,13 @@
   },
   {
     "id": 110329,
-    "name": "Pushkino",
+    "name": "Pushkine",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "45.20373000",
     "longitude": "34.97642000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110333,
-    "name": "Pyatikhatka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.32347000",
-    "longitude": "34.25516000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -2892,20 +2772,20 @@
     "wikiDataId": null
   },
   {
-    "id": 110349,
-    "name": "Razdol’noye",
+    "id": 110375,
+    "name": "Rivne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.77083000",
-    "longitude": "33.48777000",
-    "county_id": 5247,
+    "latitude": "45.35134000",
+    "longitude": "34.35230000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 110358,
-    "name": "Rodnikovo",
+    "name": "Rodnykove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2917,7 +2797,7 @@
   },
   {
     "id": 110367,
-    "name": "Romashkino",
+    "name": "Romashkyne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2929,7 +2809,7 @@
   },
   {
     "id": 110371,
-    "name": "Roshchino",
+    "name": "Roshchyne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2940,8 +2820,20 @@
     "wikiDataId": null
   },
   {
+    "id": 110349,
+    "name": "Rozdolne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.77083000",
+    "longitude": "33.48777000",
+    "county_id": 5247,
+    "wikiDataId": null
+  },
+  {
     "id": 110372,
-    "name": "Roskoshnoye",
+    "name": "Rozkishne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2952,20 +2844,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110375,
-    "name": "Rovnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.35134000",
-    "longitude": "34.35230000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110389,
-    "name": "Ruch’i",
+    "name": "Ruchi",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2977,7 +2857,7 @@
   },
   {
     "id": 110392,
-    "name": "Rusakovka",
+    "name": "Rusakivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -2989,7 +2869,7 @@
   },
   {
     "id": 110395,
-    "name": "Rybach'e",
+    "name": "Rybache",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3001,7 +2881,7 @@
   },
   {
     "id": 110399,
-    "name": "Sadovoye",
+    "name": "Sadove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3049,7 +2929,7 @@
   },
   {
     "id": 110416,
-    "name": "Semisotka",
+    "name": "Semysotka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3060,20 +2940,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110418,
-    "name": "Senokosnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.73277000",
-    "longitude": "33.51552000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110421,
-    "name": "Serebryanka",
+    "name": "Serebrianka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3097,7 +2965,7 @@
   },
   {
     "id": 110437,
-    "name": "Shchyolkino",
+    "name": "Shcholkine",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3108,32 +2976,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110439,
-    "name": "Shelkovichnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.18748000",
-    "longitude": "33.68807000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110446,
-    "name": "Shirokoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.20029000",
-    "longitude": "34.05069000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110448,
-    "name": "Shkol’noye",
+    "name": "Shkilne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3144,8 +2988,20 @@
     "wikiDataId": null
   },
   {
+    "id": 110439,
+    "name": "Shovkovychne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.18748000",
+    "longitude": "33.68807000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110452,
-    "name": "Shtormovoye",
+    "name": "Shtormove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3153,6 +3009,18 @@
     "latitude": "45.26717000",
     "longitude": "33.08693000",
     "county_id": 5244,
+    "wikiDataId": null
+  },
+  {
+    "id": 110446,
+    "name": "Shyroke",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.20029000",
+    "longitude": "34.05069000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -3192,32 +3060,20 @@
     "wikiDataId": null
   },
   {
-    "id": 110463,
-    "name": "Sinitsyno",
+    "id": 110418,
+    "name": "Sinokisne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.23862000",
-    "longitude": "35.24659000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110465,
-    "name": "Sizovka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.34892000",
-    "longitude": "33.87669000",
+    "latitude": "45.73277000",
+    "longitude": "33.51552000",
     "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 110469,
-    "name": "Skalistoye",
+    "name": "Skalyste",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3229,7 +3085,7 @@
   },
   {
     "id": 110473,
-    "name": "Skvortsovo",
+    "name": "Skvortsove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3241,7 +3097,7 @@
   },
   {
     "id": 110477,
-    "name": "Slavnoye",
+    "name": "Slavne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3253,7 +3109,7 @@
   },
   {
     "id": 110481,
-    "name": "Slavyanskoye",
+    "name": "Slovianske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3277,7 +3133,7 @@
   },
   {
     "id": 110501,
-    "name": "Sokolinoye",
+    "name": "Sokolyne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3289,7 +3145,7 @@
   },
   {
     "id": 110504,
-    "name": "Solnechnaya Dolina",
+    "name": "Soniachna Dolyna",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3300,20 +3156,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110505,
-    "name": "Solnechnogorskoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.74722000",
-    "longitude": "34.53999000",
-    "county_id": 5250,
-    "wikiDataId": null
-  },
-  {
     "id": 110506,
-    "name": "Solnechnoye",
+    "name": "Soniachne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3321,6 +3165,18 @@
     "latitude": "45.04767000",
     "longitude": "34.08380000",
     "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110505,
+    "name": "Soniachnohirske",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "44.74722000",
+    "longitude": "34.53999000",
+    "county_id": 5250,
     "wikiDataId": null
   },
   {
@@ -3336,32 +3192,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110519,
-    "name": "Sovkhoznoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.96005000",
-    "longitude": "33.77155000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110523,
-    "name": "Stakhanovka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.37062000",
-    "longitude": "33.94883000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110524,
-    "name": "Stal’noye",
+    "name": "Stalne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3384,8 +3216,20 @@
     "wikiDataId": null
   },
   {
+    "id": 109851,
+    "name": "Staryi Mlyn",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.28676000",
+    "longitude": "34.00036000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110549,
-    "name": "Stepnoye",
+    "name": "Stepne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3397,7 +3241,7 @@
   },
   {
     "id": 110553,
-    "name": "Stolbovoye",
+    "name": "Stovpove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3409,7 +3253,7 @@
   },
   {
     "id": 110556,
-    "name": "Strogonovka",
+    "name": "Strohonivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3433,7 +3277,7 @@
   },
   {
     "id": 110565,
-    "name": "Susanino",
+    "name": "Susanine",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3445,7 +3289,7 @@
   },
   {
     "id": 110567,
-    "name": "Suvorovo",
+    "name": "Suvorove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3457,7 +3301,7 @@
   },
   {
     "id": 110568,
-    "name": "Suvorovskoye",
+    "name": "Suvorovske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3469,7 +3313,7 @@
   },
   {
     "id": 110576,
-    "name": "Svetloye",
+    "name": "Svitle",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3480,8 +3324,32 @@
     "wikiDataId": null
   },
   {
+    "id": 110463,
+    "name": "Synytsyne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.23862000",
+    "longitude": "35.24659000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110465,
+    "name": "Syzivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.34892000",
+    "longitude": "33.87669000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110586,
-    "name": "Tabachnoye",
+    "name": "Tabachne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3493,7 +3361,7 @@
   },
   {
     "id": 110588,
-    "name": "Tankovoye",
+    "name": "Tankove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3504,20 +3372,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110596,
-    "name": "Tenistoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.74303000",
-    "longitude": "33.66812000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110599,
-    "name": "Teplovka",
+    "name": "Teplivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3528,8 +3384,20 @@
     "wikiDataId": null
   },
   {
+    "id": 110596,
+    "name": "Tinyste",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "44.74303000",
+    "longitude": "33.66812000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110610,
-    "name": "Tokarevo",
+    "name": "Tokarieve",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3541,7 +3409,7 @@
   },
   {
     "id": 110622,
-    "name": "Trudovoye",
+    "name": "Trudove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3553,7 +3421,7 @@
   },
   {
     "id": 110628,
-    "name": "Tselinnoye",
+    "name": "Tsilynne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3565,7 +3433,7 @@
   },
   {
     "id": 110630,
-    "name": "Tsvetochnoye",
+    "name": "Tsvitochne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3577,7 +3445,7 @@
   },
   {
     "id": 110638,
-    "name": "Turgenevka",
+    "name": "Turhenievka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3589,7 +3457,7 @@
   },
   {
     "id": 110648,
-    "name": "Uglovoye",
+    "name": "Uhlove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3597,6 +3465,18 @@
     "latitude": "44.82146000",
     "longitude": "33.60452000",
     "county_id": 5241,
+    "wikiDataId": null
+  },
+  {
+    "id": 110666,
+    "name": "Uiutne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.19769000",
+    "longitude": "33.29796000",
+    "county_id": 5244,
     "wikiDataId": null
   },
   {
@@ -3613,7 +3493,7 @@
   },
   {
     "id": 110653,
-    "name": "Ukromnoye",
+    "name": "Ukromne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3624,8 +3504,20 @@
     "wikiDataId": null
   },
   {
+    "id": 109700,
+    "name": "Umiut",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.59521000",
+    "longitude": "34.22030000",
+    "county_id": 5246,
+    "wikiDataId": null
+  },
+  {
     "id": 110658,
-    "name": "Urozhaynoye",
+    "name": "Urozhaine",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3637,7 +3529,7 @@
   },
   {
     "id": 110664,
-    "name": "Uvarovka",
+    "name": "Uvarivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3649,7 +3541,7 @@
   },
   {
     "id": 110665,
-    "name": "Uvarovo",
+    "name": "Uvarove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3660,20 +3552,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110666,
-    "name": "Uyutnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.19769000",
-    "longitude": "33.29796000",
-    "county_id": 5244,
-    "wikiDataId": null
-  },
-  {
     "id": 110676,
-    "name": "Vasilyevka",
+    "name": "Vasylivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3685,7 +3565,7 @@
   },
   {
     "id": 110703,
-    "name": "Veresayevo",
+    "name": "Veresaieve",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3697,7 +3577,7 @@
   },
   {
     "id": 110711,
-    "name": "Verkhorechye",
+    "name": "Verkhorichchia",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3721,7 +3601,7 @@
   },
   {
     "id": 110715,
-    "name": "Veselovka",
+    "name": "Veselivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3733,7 +3613,7 @@
   },
   {
     "id": 110717,
-    "name": "Vilino",
+    "name": "Viline",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3744,8 +3624,20 @@
     "wikiDataId": null
   },
   {
+    "id": 110739,
+    "name": "Vilne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.56570000",
+    "longitude": "34.30360000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110721,
-    "name": "Vinnitskoye",
+    "name": "Vinnytske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3756,68 +3648,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110723,
-    "name": "Vinogradnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.48149000",
-    "longitude": "34.12973000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110724,
-    "name": "Vinogradovo",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.39264000",
-    "longitude": "33.64668000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110725,
-    "name": "Vishennoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.14509000",
-    "longitude": "34.59691000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110726,
-    "name": "Vishnyovka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.95966000",
-    "longitude": "33.95289000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 110728,
-    "name": "Vladimirovka",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.14760000",
-    "longitude": "33.57583000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110729,
-    "name": "Vladislavovka",
+    "name": "Vladyslavivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3840,20 +3672,20 @@
     "wikiDataId": null
   },
   {
-    "id": 110739,
-    "name": "Vol’noye",
+    "id": 110728,
+    "name": "Volodymyrivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.56570000",
-    "longitude": "34.30360000",
+    "latitude": "45.14760000",
+    "longitude": "33.57583000",
     "county_id": null,
     "wikiDataId": null
   },
   {
     "id": 110740,
-    "name": "Vorobyovo",
+    "name": "Vorobiove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3876,15 +3708,63 @@
     "wikiDataId": null
   },
   {
-    "id": 110748,
-    "name": "Voykovo",
+    "id": 110723,
+    "name": "Vynohradne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.38329000",
-    "longitude": "36.43739000",
-    "county_id": 5245,
+    "latitude": "44.48149000",
+    "longitude": "34.12973000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110724,
+    "name": "Vynohradove",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.39264000",
+    "longitude": "33.64668000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110725,
+    "name": "Vyshenne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.14509000",
+    "longitude": "34.59691000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110726,
+    "name": "Vyshnivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.95966000",
+    "longitude": "33.95289000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109310,
+    "name": "Yakymivka",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.51981000",
+    "longitude": "34.82438000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -3901,13 +3781,37 @@
   },
   {
     "id": 110782,
-    "name": "Yantarnoye",
+    "name": "Yantarne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "45.43473000",
     "longitude": "34.22134000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 109845,
+    "name": "Yany Kapu",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.95716000",
+    "longitude": "33.79650000",
+    "county_id": 5247,
+    "wikiDataId": null
+  },
+  {
+    "id": 110786,
+    "name": "Yarke Pole",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.20581000",
+    "longitude": "35.19848000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -3924,20 +3828,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110786,
-    "name": "Yarkoye Pole",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.20581000",
-    "longitude": "35.19848000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110789,
-    "name": "Yasnopolyanskoye",
+    "name": "Yasnopolianske",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3948,20 +3840,20 @@
     "wikiDataId": null
   },
   {
-    "id": 110794,
-    "name": "Yemelyanovka",
+    "id": 109913,
+    "name": "Yedy-Kuiu",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
-    "latitude": "45.53287000",
-    "longitude": "34.89624000",
-    "county_id": null,
+    "latitude": "45.29857000",
+    "longitude": "35.77708000",
+    "county_id": 5245,
     "wikiDataId": null
   },
   {
     "id": 110798,
-    "name": "Yermakovo",
+    "name": "Yermakove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3973,7 +3865,7 @@
   },
   {
     "id": 110800,
-    "name": "Yevpatoriya",
+    "name": "Yevpatoriia",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3985,7 +3877,7 @@
   },
   {
     "id": 110813,
-    "name": "Zalesye",
+    "name": "Zalissia",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -3996,8 +3888,20 @@
     "wikiDataId": null
   },
   {
+    "id": 110841,
+    "name": "Zaliznychne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "44.71710000",
+    "longitude": "33.80417000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110819,
-    "name": "Zaozyornoye",
+    "name": "Zaozerne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4009,7 +3913,7 @@
   },
   {
     "id": 110822,
-    "name": "Zarechnoye",
+    "name": "Zarichne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4020,20 +3924,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110829,
-    "name": "Zavet-Leninskiy",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.86258000",
-    "longitude": "34.39160000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110830,
-    "name": "Zavetnoye",
+    "name": "Zavitne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4044,20 +3936,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110835,
-    "name": "Zelenogorskoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.01249000",
-    "longitude": "34.46848000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110836,
-    "name": "Zelyonoye",
+    "name": "Zelene",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4068,8 +3948,20 @@
     "wikiDataId": null
   },
   {
+    "id": 110835,
+    "name": "Zelenohirske",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.01249000",
+    "longitude": "34.46848000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
     "id": 110837,
-    "name": "Zemlyanichnoye",
+    "name": "Zemlianychne",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4081,7 +3973,7 @@
   },
   {
     "id": 110838,
-    "name": "Zernovoye",
+    "name": "Zernove",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4092,20 +3984,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110841,
-    "name": "Zheleznodorozhnoye",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "44.71710000",
-    "longitude": "33.80417000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110842,
-    "name": "Zhelyabovka",
+    "name": "Zheliabovka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4117,7 +3997,7 @@
   },
   {
     "id": 110843,
-    "name": "Zhemchuzhina",
+    "name": "Zhemchuzhyna",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4129,7 +4009,7 @@
   },
   {
     "id": 110848,
-    "name": "Zhuravki",
+    "name": "Zhuravky",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4153,7 +4033,7 @@
   },
   {
     "id": 110850,
-    "name": "Zhuravlyovka",
+    "name": "Zhuravlivka",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4164,20 +4044,8 @@
     "wikiDataId": null
   },
   {
-    "id": 110855,
-    "name": "Zimino",
-    "state_id": 4689,
-    "state_code": "43",
-    "country_id": 230,
-    "country_code": "UA",
-    "latitude": "45.50797000",
-    "longitude": "33.51431000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 110862,
-    "name": "Zolotoye Pole",
+    "name": "Zolote Pole",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4189,7 +4057,7 @@
   },
   {
     "id": 110864,
-    "name": "Zorkino",
+    "name": "Zorkine",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4201,7 +4069,7 @@
   },
   {
     "id": 110868,
-    "name": "Zuya",
+    "name": "Zuia",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
@@ -4213,13 +4081,25 @@
   },
   {
     "id": 110870,
-    "name": "Zybiny",
+    "name": "Zybyny",
     "state_id": 4689,
     "state_code": "43",
     "country_id": 230,
     "country_code": "UA",
     "latitude": "45.23674000",
     "longitude": "34.64987000",
+    "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 110855,
+    "name": "Zymyne",
+    "state_id": 4689,
+    "state_code": "43",
+    "country_id": 230,
+    "country_code": "UA",
+    "latitude": "45.50797000",
+    "longitude": "33.51431000",
     "county_id": null,
     "wikiDataId": null
   }

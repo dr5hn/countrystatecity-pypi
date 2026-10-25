@@ -48,7 +48,7 @@
     "wikiDataId": null
   },
   {
-    "id": 80630,
+    "id": 167876,
     "name": "Concepción",
     "state_id": 3693,
     "state_code": "JUN",
@@ -60,18 +60,6 @@
     "wikiDataId": null
   },
   {
-    "id": 80834,
-    "name": "Huancayo",
-    "state_id": 3693,
-    "state_code": "JUN",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-12.07027778",
-    "longitude": "-75.21388889",
-    "county_id": 8275,
-    "wikiDataId": null
-  },
-  {
     "id": 80652,
     "name": "Huancayo",
     "state_id": 3693,
@@ -80,6 +68,18 @@
     "country_code": "PE",
     "latitude": "-12.06513000",
     "longitude": "-75.20486000",
+    "county_id": 8275,
+    "wikiDataId": null
+  },
+  {
+    "id": 166888,
+    "name": "Huancayo",
+    "state_id": 3693,
+    "state_code": "JUN",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-12.06866000",
+    "longitude": "-75.21027000",
     "county_id": 8275,
     "wikiDataId": null
   },
@@ -108,7 +108,7 @@
     "wikiDataId": null
   },
   {
-    "id": 80674,
+    "id": 167878,
     "name": "Jauja",
     "state_id": 3693,
     "state_code": "JUN",
@@ -144,14 +144,14 @@
     "wikiDataId": null
   },
   {
-    "id": 80909,
+    "id": 166914,
     "name": "La Oroya",
     "state_id": 3693,
     "state_code": "JUN",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-11.52055556",
-    "longitude": "-75.90138889",
+    "latitude": "-11.53333333",
+    "longitude": "-75.90000000",
     "county_id": 8282,
     "wikiDataId": null
   },
@@ -312,18 +312,6 @@
     "wikiDataId": null
   },
   {
-    "id": 80893,
-    "name": "Satipo",
-    "state_id": 3693,
-    "state_code": "JUN",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-11.25305556",
-    "longitude": "-74.63722222",
-    "county_id": 8280,
-    "wikiDataId": null
-  },
-  {
     "id": 80970,
     "name": "Satipo",
     "state_id": 3693,
@@ -332,6 +320,18 @@
     "country_code": "PE",
     "latitude": "-11.25222000",
     "longitude": "-74.63861000",
+    "county_id": 8280,
+    "wikiDataId": null
+  },
+  {
+    "id": 166908,
+    "name": "Satipo",
+    "state_id": 3693,
+    "state_code": "JUN",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-11.25422778",
+    "longitude": "-74.63673611",
     "county_id": 8280,
     "wikiDataId": null
   },
@@ -348,18 +348,6 @@
     "wikiDataId": null
   },
   {
-    "id": 80902,
-    "name": "Tarma",
-    "state_id": 3693,
-    "state_code": "JUN",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-11.40562000",
-    "longitude": "-75.69129000",
-    "county_id": 8281,
-    "wikiDataId": null
-  },
-  {
     "id": 80991,
     "name": "Tarma",
     "state_id": 3693,
@@ -368,6 +356,18 @@
     "country_code": "PE",
     "latitude": "-11.41899000",
     "longitude": "-75.68992000",
+    "county_id": 8281,
+    "wikiDataId": null
+  },
+  {
+    "id": 166911,
+    "name": "Tarma",
+    "state_id": 3693,
+    "state_code": "JUN",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-11.40562000",
+    "longitude": "-75.69129000",
     "county_id": 8281,
     "wikiDataId": null
   }
