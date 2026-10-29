@@ -9,7 +9,12 @@
     "latitude": "10.75000000",
     "longitude": "-12.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q623302",
+    "type": "adm2",
+    "native": "Dalaba",
+    "timezone": "Africa/Conakry",
+    "population": 9925,
+    "population_year": null
   },
   {
     "id": 52354,
@@ -21,7 +26,12 @@
     "latitude": "10.37546000",
     "longitude": "-12.09148000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q644131",
+    "type": "adm1",
+    "native": "Mamou",
+    "timezone": "Africa/Conakry",
+    "population": 79109,
+    "population_year": null
   },
   {
     "id": 52355,
@@ -33,7 +43,12 @@
     "latitude": "10.45900000",
     "longitude": "-11.81500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q623295",
+    "type": "prefecture",
+    "native": "Préfecture de Mamou",
+    "timezone": "Africa/Conakry",
+    "population": 318981,
+    "population_year": null
   },
   {
     "id": 52360,
@@ -45,6 +60,11 @@
     "latitude": "10.83333000",
     "longitude": "-12.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q736507",
+    "type": "city",
+    "native": "Pita",
+    "timezone": "Africa/Conakry",
+    "population": 278530,
+    "population_year": null
   }
 ]

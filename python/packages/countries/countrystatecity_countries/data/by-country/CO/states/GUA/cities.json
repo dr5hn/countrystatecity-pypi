@@ -9,7 +9,12 @@
     "latitude": "3.09899000",
     "longitude": "-69.58297000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Barranco Minas",
+    "timezone": "America/Bogota",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 20618,
@@ -21,7 +26,12 @@
     "latitude": "3.32533000",
     "longitude": "-67.62397000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Cacahual",
+    "timezone": "America/Bogota",
+    "population": 1592,
+    "population_year": null
   },
   {
     "id": 20949,
@@ -33,7 +43,12 @@
     "latitude": "3.86528000",
     "longitude": "-67.92389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q130281",
+    "type": "municipality",
+    "native": "Inírida",
+    "timezone": "America/Bogota",
+    "population": 7298,
+    "population_year": null
   },
   {
     "id": 20986,
@@ -45,7 +60,12 @@
     "latitude": "1.39579000",
     "longitude": "-67.00150000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "La Guadalupe",
+    "timezone": "America/Bogota",
+    "population": 225,
+    "population_year": null
   },
   {
     "id": 21063,
@@ -57,7 +77,12 @@
     "latitude": "2.81003000",
     "longitude": "-70.28568000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mapiripana",
+    "timezone": "America/Bogota",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21106,
@@ -69,7 +94,12 @@
     "latitude": "2.42980000",
     "longitude": "-69.83284000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Morichal",
+    "timezone": "America/Bogota",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21178,
@@ -81,7 +111,12 @@
     "latitude": "1.96249000",
     "longitude": "-69.12600000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Pana Pana",
+    "timezone": "America/Bogota",
+    "population": 2224,
+    "population_year": null
   },
   {
     "id": 21239,
@@ -93,7 +128,12 @@
     "latitude": "2.43903000",
     "longitude": "-68.16419000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2186176",
+    "type": "city",
+    "native": "Puerto Colombia",
+    "timezone": "America/Bogota",
+    "population": 26932,
+    "population_year": null
   },
   {
     "id": 21354,
@@ -105,6 +145,11 @@
     "latitude": "2.14321000",
     "longitude": "-67.34122000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "San Felipe",
+    "timezone": "America/Bogota",
+    "population": 982,
+    "population_year": null
   }
 ]

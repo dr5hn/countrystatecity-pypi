@@ -9,7 +9,12 @@
     "latitude": "-2.59667000",
     "longitude": "29.73944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16654643",
+    "type": "city",
+    "native": "Butare",
+    "timezone": "Africa/Kigali",
+    "population": 62823,
+    "population_year": null
   },
   {
     "id": 102795,
@@ -21,7 +26,12 @@
     "latitude": "-1.93653000",
     "longitude": "29.80610000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Kiko Bagatikuru Gatolika",
+    "timezone": "Africa/Kigali",
+    "population": 3000,
+    "population_year": null
   },
   {
     "id": 165524,
@@ -33,7 +43,12 @@
     "latitude": "-2.46397000",
     "longitude": "29.57389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1377368",
+    "type": "adm2",
+    "native": "Gikongoro",
+    "timezone": "Africa/Kigali",
+    "population": 21029,
+    "population_year": null
   },
   {
     "id": 102797,
@@ -45,7 +60,12 @@
     "latitude": "-2.07444000",
     "longitude": "29.75667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q668180",
+    "type": "adm2",
+    "native": "Gitarama",
+    "timezone": "Africa/Kigali",
+    "population": 87613,
+    "population_year": null
   },
   {
     "id": 165518,
@@ -57,7 +77,12 @@
     "latitude": "-2.35187000",
     "longitude": "29.75089000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q528679",
+    "type": "adm1",
+    "native": "Nyanza",
+    "timezone": "Africa/Kigali",
+    "population": 32016,
+    "population_year": null
   },
   {
     "id": 102802,
@@ -69,7 +94,12 @@
     "latitude": "-2.47900000",
     "longitude": "29.55640000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "NZEGA",
+    "timezone": "Africa/Kigali",
+    "population": 33832,
+    "population_year": null
   },
   {
     "id": 165523,
@@ -81,6 +111,11 @@
     "latitude": "-2.22460000",
     "longitude": "29.79088000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12884189",
+    "type": "city",
+    "native": "Ruhango",
+    "timezone": "Africa/Kigali",
+    "population": 21478,
+    "population_year": null
   }
 ]

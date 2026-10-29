@@ -9,7 +9,12 @@
     "latitude": "64.06013000",
     "longitude": "-139.43328000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q372324",
+    "type": "city",
+    "native": "Dawson City",
+    "timezone": "America/Dawson",
+    "population": 1577,
+    "population_year": null
   },
   {
     "id": 16479,
@@ -21,7 +26,12 @@
     "latitude": "60.75216000",
     "longitude": "-137.51082000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1001810",
+    "type": "city",
+    "native": "Haines Junction",
+    "timezone": "America/Whitehorse",
+    "population": 613,
+    "population_year": null
   },
   {
     "id": 17180,
@@ -33,7 +43,12 @@
     "latitude": "60.06349000",
     "longitude": "-128.70893000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1025947",
+    "type": "city",
+    "native": "Watson Lake",
+    "timezone": "America/Whitehorse",
+    "population": 1547,
+    "population_year": null
   },
   {
     "id": 17204,
@@ -45,6 +60,11 @@
     "latitude": "60.71611000",
     "longitude": "-135.05375000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2055",
+    "type": "city",
+    "native": "Whitehorse",
+    "timezone": "America/Whitehorse",
+    "population": 28201,
+    "population_year": null
   }
 ]

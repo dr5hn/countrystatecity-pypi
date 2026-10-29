@@ -9,7 +9,12 @@
     "latitude": "35.13923000",
     "longitude": "44.44907000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2625867",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 134521,
@@ -21,7 +26,12 @@
     "latitude": "35.46806000",
     "longitude": "44.39222000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q173310",
+    "type": "adm1",
+    "native": "كركوك",
+    "timezone": "Asia/Baghdad",
+    "population": 975000,
+    "population_year": null
   },
   {
     "id": 165091,
@@ -33,6 +43,11 @@
     "latitude": "35.30236000",
     "longitude": "44.32637000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7690384",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "population": 21788,
+    "population_year": null
   }
 ]

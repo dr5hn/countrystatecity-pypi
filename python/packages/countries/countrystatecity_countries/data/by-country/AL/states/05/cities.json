@@ -9,7 +9,12 @@
     "latitude": "40.36196000",
     "longitude": "20.16476000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Kelcyrë",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 172,
@@ -21,7 +26,12 @@
     "latitude": "40.10754000",
     "longitude": "20.25753000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Libohovë",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 177,
@@ -33,7 +43,12 @@
     "latitude": "40.41524000",
     "longitude": "19.96911000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Memaliaj",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 183,
@@ -45,7 +60,12 @@
     "latitude": "40.23246000",
     "longitude": "20.41091000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Përmet",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 187,
@@ -57,7 +77,12 @@
     "latitude": "40.26736000",
     "longitude": "19.97003000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Tepelenë",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 158,
@@ -69,7 +94,12 @@
     "latitude": "39.98584000",
     "longitude": "20.30529000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Dropull",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 204,
@@ -81,7 +111,12 @@
     "latitude": "40.19944000",
     "longitude": "20.40611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155137",
+    "type": "city",
+    "native": "Gjinkar",
+    "timezone": "Europe/Tirane",
+    "population": 3243,
+    "population_year": null
   },
   {
     "id": 205,
@@ -93,7 +128,12 @@
     "latitude": "40.07583000",
     "longitude": "20.13889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q173690",
+    "type": "adm1",
+    "native": "Gjirokastër",
+    "timezone": "Europe/Tirane",
+    "population": 19400,
+    "population_year": null
   },
   {
     "id": 220,
@@ -105,7 +145,12 @@
     "latitude": "40.31306000",
     "longitude": "20.18944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1007556",
+    "type": "adm3",
+    "native": "Këlcyrë",
+    "timezone": "Europe/Tirane",
+    "population": 4900,
+    "population_year": null
   },
   {
     "id": 221,
@@ -117,7 +162,12 @@
     "latitude": "40.04667000",
     "longitude": "20.14750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2713473",
+    "type": "adm3",
+    "native": "Lazarat",
+    "timezone": "Europe/Tirane",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 225,
@@ -129,7 +179,12 @@
     "latitude": "40.03111000",
     "longitude": "20.26306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18738",
+    "type": "adm3",
+    "native": "Libohovë",
+    "timezone": "Europe/Tirane",
+    "population": 3651,
+    "population_year": null
   },
   {
     "id": 231,
@@ -141,7 +196,12 @@
     "latitude": "40.35167000",
     "longitude": "19.98028000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18749",
+    "type": "adm3",
+    "native": "Memaliaj",
+    "timezone": "Europe/Tirane",
+    "population": 4951,
+    "population_year": null
   },
   {
     "id": 240,
@@ -153,7 +213,12 @@
     "latitude": "40.23361000",
     "longitude": "20.35167000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q642856",
+    "type": "adm2",
+    "native": "Përmet",
+    "timezone": "Europe/Tirane",
+    "population": 7980,
+    "population_year": null
   },
   {
     "id": 270,
@@ -165,6 +230,11 @@
     "latitude": "40.29583000",
     "longitude": "20.01917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q81631",
+    "type": "adm2",
+    "native": "Tepelenë",
+    "timezone": "Europe/Tirane",
+    "population": 11955,
+    "population_year": null
   }
 ]

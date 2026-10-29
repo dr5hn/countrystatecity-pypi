@@ -107,3 +107,14 @@ class DataLoader:
         cls.load_country_metadata.cache_clear()
         cls.load_states.cache_clear()
         cls.load_cities.cache_clear()
+        cls.load_country_cities.cache_clear()
+
+    @classmethod
+    @lru_cache(maxsize=250)
+    def load_country_cities(cls, country_code: str) -> List[Dict[str, Any]]:
+        """Load cities with no state, preserving their null state pair."""
+        file_path = cls._data_dir / "by-country" / country_code / "cities.json"
+        if not file_path.exists():
+            return []
+        with open(file_path, encoding="utf-8") as handle:
+            return cast(List[Dict[str, Any]], json.load(handle))

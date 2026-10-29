@@ -9,7 +9,12 @@
     "latitude": "9.30091000",
     "longitude": "-82.40180000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Almirante",
+    "timezone": "America/Panama",
+    "population": 8744,
+    "population_year": null
   },
   {
     "id": 79982,
@@ -21,7 +26,12 @@
     "latitude": "9.51984000",
     "longitude": "-82.70424000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Barranco",
+    "timezone": "America/Panama",
+    "population": 1398,
+    "population_year": null
   },
   {
     "id": 79983,
@@ -33,7 +43,12 @@
     "latitude": "9.52757000",
     "longitude": "-82.73344000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q104540910",
+    "type": "section",
+    "native": "Barranco Adentro",
+    "timezone": "America/Panama",
+    "population": 1349,
+    "population_year": null
   },
   {
     "id": 79986,
@@ -45,7 +60,12 @@
     "latitude": "9.34707000",
     "longitude": "-82.20880000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Bastimentos",
+    "timezone": "America/Panama",
+    "population": 738,
+    "population_year": null
   },
   {
     "id": 80000,
@@ -57,7 +77,12 @@
     "latitude": "9.34031000",
     "longitude": "-82.24204000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q888971",
+    "type": "adm1",
+    "native": "Bocas del Toro",
+    "timezone": "America/Panama",
+    "population": 5380,
+    "population_year": null
   },
   {
     "id": 80036,
@@ -69,7 +94,12 @@
     "latitude": "9.15226000",
     "longitude": "-82.26450000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Cauchero",
+    "timezone": "America/Panama",
+    "population": 40,
+    "population_year": null
   },
   {
     "id": 80054,
@@ -81,7 +111,12 @@
     "latitude": "9.43000000",
     "longitude": "-82.52000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Changuinola",
+    "timezone": "America/Panama",
+    "population": 17997,
+    "population_year": null
   },
   {
     "id": 80063,
@@ -93,7 +128,12 @@
     "latitude": "8.94557000",
     "longitude": "-82.11769000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5101934",
+    "type": "section",
+    "native": "Chiriquí Grande",
+    "timezone": "America/Panama",
+    "population": 1525,
+    "population_year": null
   },
   {
     "id": 80084,
@@ -105,7 +145,12 @@
     "latitude": "8.94748000",
     "longitude": "-82.12418000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q515794",
+    "type": "city",
+    "native": "Distrito Chiriquí Grande",
+    "timezone": "America/Panama",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80092,
@@ -117,7 +162,12 @@
     "latitude": "9.36235000",
     "longitude": "-82.26288000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2702428",
+    "type": "city",
+    "native": "Distrito de Bocas del Toro",
+    "timezone": "America/Panama",
+    "population": 525,
+    "population_year": null
   },
   {
     "id": 80101,
@@ -129,7 +179,12 @@
     "latitude": "9.25000000",
     "longitude": "-82.63333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2216073",
+    "type": "city",
+    "native": "Distrito de Changuinola",
+    "timezone": "America/Panama",
+    "population": 101091,
+    "population_year": null
   },
   {
     "id": 80170,
@@ -141,7 +196,12 @@
     "latitude": "9.41667000",
     "longitude": "-82.51667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "El Empalme",
+    "timezone": "America/Panama",
+    "population": 11035,
+    "population_year": null
   },
   {
     "id": 80202,
@@ -153,7 +213,12 @@
     "latitude": "9.37222000",
     "longitude": "-82.52877000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "El Silencio",
+    "timezone": "America/Panama",
+    "population": 2017,
+    "population_year": null
   },
   {
     "id": 80217,
@@ -165,7 +230,12 @@
     "latitude": "9.48968000",
     "longitude": "-82.61279000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2437057",
+    "type": "adm3",
+    "native": "Guabito",
+    "timezone": "America/Panama",
+    "population": 1978,
+    "population_year": null
   },
   {
     "id": 80235,
@@ -177,7 +247,12 @@
     "latitude": "9.30000000",
     "longitude": "-82.13333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Isla Bastimentos",
+    "timezone": "America/Panama",
+    "population": 1500,
+    "population_year": null
   },
   {
     "id": 80354,
@@ -189,7 +264,12 @@
     "latitude": "8.99482000",
     "longitude": "-82.24147000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Miramar",
+    "timezone": "America/Panama",
+    "population": 346,
+    "population_year": null
   },
   {
     "id": 80437,
@@ -201,7 +281,12 @@
     "latitude": "9.14100000",
     "longitude": "-82.12717000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Punta Laurel",
+    "timezone": "America/Panama",
+    "population": 69,
+    "population_year": null
   },
   {
     "id": 80438,
@@ -213,7 +298,12 @@
     "latitude": "8.91659000",
     "longitude": "-82.18488000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Punta Peña",
+    "timezone": "America/Panama",
+    "population": 1187,
+    "population_year": null
   },
   {
     "id": 80439,
@@ -225,7 +315,12 @@
     "latitude": "9.03631000",
     "longitude": "-82.24952000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7260554",
+    "type": "section",
+    "native": "Punta Róbalo",
+    "timezone": "America/Panama",
+    "population": 149,
+    "population_year": null
   },
   {
     "id": 80537,
@@ -237,6 +332,11 @@
     "latitude": "9.23064000",
     "longitude": "-82.42748000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Valle de Risco",
+    "timezone": "America/Panama",
+    "population": 1171,
+    "population_year": null
   }
 ]

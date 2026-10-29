@@ -9,7 +9,12 @@
     "latitude": "29.60018000",
     "longitude": "32.31671000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "العين السخنة",
+    "timezone": "Africa/Cairo",
+    "population": 45552,
+    "population_year": null
   },
   {
     "id": 31868,
@@ -21,6 +26,11 @@
     "latitude": "29.97371000",
     "longitude": "32.52627000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q134514",
+    "type": "adm1",
+    "native": "السويس",
+    "timezone": "Africa/Cairo",
+    "population": 699541,
+    "population_year": null
   }
 ]

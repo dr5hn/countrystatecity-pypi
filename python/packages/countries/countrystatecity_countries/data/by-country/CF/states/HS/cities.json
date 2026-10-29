@@ -9,7 +9,12 @@
     "latitude": "4.31211000",
     "longitude": "15.88948000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Berberati",
+    "timezone": "Africa/Bangui",
+    "population": 76918,
+    "population_year": null
   },
   {
     "id": 17314,
@@ -21,7 +26,12 @@
     "latitude": "4.94273000",
     "longitude": "15.87735000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Carnot",
+    "timezone": "Africa/Bangui",
+    "population": 129032,
+    "population_year": null
   },
   {
     "id": 17317,
@@ -33,6 +43,11 @@
     "latitude": "4.11775000",
     "longitude": "15.13926000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q962947",
+    "type": "city",
+    "native": "Gamboula",
+    "timezone": "Africa/Bangui",
+    "population": 13048,
+    "population_year": null
   }
 ]

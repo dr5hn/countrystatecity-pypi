@@ -8,8 +8,13 @@
     "country_code": "TR",
     "latitude": "40.81593000",
     "longitude": "33.07556000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7468,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Atkaracalar",
+    "timezone": "Europe/Istanbul",
+    "population": 5088,
+    "population_year": null
   },
   {
     "id": 107303,
@@ -20,8 +25,13 @@
     "country_code": "TR",
     "latitude": "40.94329000",
     "longitude": "33.20300000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7588,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bayramören",
+    "timezone": "Europe/Istanbul",
+    "population": 3049,
+    "population_year": null
   },
   {
     "id": 108820,
@@ -32,8 +42,13 @@
     "country_code": "TR",
     "latitude": "40.81164000",
     "longitude": "32.89358000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 6976,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Çerkeş",
+    "timezone": "Europe/Istanbul",
+    "population": 17802,
+    "population_year": null
   },
   {
     "id": 107564,
@@ -44,8 +59,13 @@
     "country_code": "TR",
     "latitude": "40.52975000",
     "longitude": "33.49903000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7026,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Eldivan",
+    "timezone": "Europe/Istanbul",
+    "population": 7588,
+    "population_year": null
   },
   {
     "id": 107844,
@@ -56,8 +76,13 @@
     "country_code": "TR",
     "latitude": "40.92511000",
     "longitude": "33.62586000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7120,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Ilgaz",
+    "timezone": "Europe/Istanbul",
+    "population": 14891,
+    "population_year": null
   },
   {
     "id": 108122,
@@ -68,8 +93,13 @@
     "country_code": "TR",
     "latitude": "40.34556000",
     "longitude": "33.98639000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7520,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Kızılırmak",
+    "timezone": "Europe/Istanbul",
+    "population": 3260,
+    "population_year": null
   },
   {
     "id": 108020,
@@ -80,8 +110,13 @@
     "country_code": "TR",
     "latitude": "40.73479000",
     "longitude": "33.51844000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7666,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Korgun",
+    "timezone": "Europe/Istanbul",
+    "population": 7659,
+    "population_year": null
   },
   {
     "id": 108060,
@@ -92,8 +127,13 @@
     "country_code": "TR",
     "latitude": "40.84101000",
     "longitude": "33.26028000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7209,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Kurşunlu",
+    "timezone": "Europe/Istanbul",
+    "population": 11956,
+    "population_year": null
   },
   {
     "id": 153353,
@@ -104,8 +144,13 @@
     "country_code": "TR",
     "latitude": "40.60000000",
     "longitude": "33.61666700",
-    "county_id": 6960,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q209925",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 89892,
+    "population_year": 2025
   },
   {
     "id": 108276,
@@ -117,7 +162,12 @@
     "latitude": "40.62420000",
     "longitude": "33.10928000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1982306",
+    "type": "adm2",
+    "native": "Orta",
+    "timezone": "Europe/Istanbul",
+    "population": 6072,
+    "population_year": null
   },
   {
     "id": 108928,
@@ -129,7 +179,12 @@
     "latitude": "40.48333000",
     "longitude": "33.28333000",
     "county_id": 7356,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Şabanözü",
+    "timezone": "Europe/Istanbul",
+    "population": 9634,
+    "population_year": 2025
   },
   {
     "id": 108673,
@@ -140,7 +195,12 @@
     "country_code": "TR",
     "latitude": "40.75785000",
     "longitude": "33.77819000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7421,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Yapraklı",
+    "timezone": "Europe/Istanbul",
+    "population": 6394,
+    "population_year": null
   }
 ]

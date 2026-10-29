@@ -9,7 +9,12 @@
     "latitude": "5.34865000",
     "longitude": "163.01917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Lelu Municipality",
+    "timezone": "Pacific/Kosrae",
+    "population": 2160,
+    "population_year": null
   },
   {
     "id": 39181,
@@ -21,7 +26,12 @@
     "latitude": "5.27507000",
     "longitude": "163.01685000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Malem Municipality",
+    "timezone": "Pacific/Kosrae",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 39217,
@@ -33,7 +43,12 @@
     "latitude": "5.34993000",
     "longitude": "162.96965000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tafunsak Municipality",
+    "timezone": "Pacific/Kosrae",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 39219,
@@ -45,7 +60,12 @@
     "latitude": "5.32479000",
     "longitude": "163.00781000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q787588",
+    "type": "adm1",
+    "native": "Tofol",
+    "timezone": "Pacific/Kosrae",
+    "population": 9686,
+    "population_year": null
   },
   {
     "id": 39228,
@@ -57,6 +77,11 @@
     "latitude": "5.27511000",
     "longitude": "162.95617000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Utwe Municipality",
+    "timezone": "Pacific/Kosrae",
+    "population": 1067,
+    "population_year": null
   }
 ]

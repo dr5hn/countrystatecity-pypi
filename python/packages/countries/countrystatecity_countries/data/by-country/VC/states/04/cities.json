@@ -9,7 +9,12 @@
     "latitude": "13.12867000",
     "longitude": "-61.19178000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5021973",
+    "type": "city",
+    "native": null,
+    "timezone": "America/St_Vincent",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130034,
@@ -21,7 +26,12 @@
     "latitude": "13.15527000",
     "longitude": "-61.22742000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q41474",
+    "type": "capital",
+    "native": "Kingstown",
+    "timezone": "America/St_Vincent",
+    "population": 24518,
+    "population_year": null
   },
   {
     "id": 130035,
@@ -33,6 +43,11 @@
     "latitude": "13.15924000",
     "longitude": "-61.23161000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q41474",
+    "type": "capital",
+    "native": "Kingstown Park",
+    "timezone": "America/St_Vincent",
+    "population": 24518,
+    "population_year": null
   }
 ]

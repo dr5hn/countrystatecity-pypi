@@ -1,6 +1,6 @@
 [
   {
-    "id": 56342,
+    "id": 166639,
     "name": "Buntok",
     "state_id": 1794,
     "state_code": "KT",
@@ -9,34 +9,15 @@
     "latitude": "-1.71903000",
     "longitude": "114.84475000",
     "county_id": 8695,
-    "wikiDataId": null
+    "wikiDataId": "Q6684716",
+    "type": "section",
+    "native": "Buntok",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56415,
-    "name": "Gunung Mas",
-    "state_id": 1794,
-    "state_code": "KT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-0.95000000",
-    "longitude": "113.50000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56437,
-    "name": "Kapuas",
-    "state_id": 1794,
-    "state_code": "KT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.01667000",
-    "longitude": "114.38333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56443,
+    "id": 166698,
     "name": "Kasongan",
     "state_id": 1794,
     "state_code": "KT",
@@ -45,22 +26,32 @@
     "latitude": "-1.89590000",
     "longitude": "113.38780000",
     "county_id": 8697,
-    "wikiDataId": null
+    "wikiDataId": "Q19727331",
+    "type": "town",
+    "native": "Kasongan",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56469,
-    "name": "Kotawaringin Barat",
+    "id": 166684,
+    "name": "Kuala Kurun",
     "state_id": 1794,
     "state_code": "KT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-2.40000000",
-    "longitude": "111.73333000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "-1.10161400",
+    "longitude": "113.86638300",
+    "county_id": 8701,
+    "wikiDataId": "Q12492720",
+    "type": "section",
+    "native": "Kuala Kurun",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56625,
+    "id": 166814,
     "name": "Kuala Pembuang",
     "state_id": 1794,
     "state_code": "KT",
@@ -69,7 +60,12 @@
     "latitude": "-3.38710000",
     "longitude": "112.54340000",
     "county_id": 8698,
-    "wikiDataId": null
+    "wikiDataId": "Q12492739",
+    "type": "town",
+    "native": "Kuala Pembuang",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56823,
@@ -81,10 +77,15 @@
     "latitude": "-3.00913000",
     "longitude": "114.38759000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kualakapuas",
+    "timezone": "Asia/Jakarta",
+    "population": 35632,
+    "population_year": null
   },
   {
-    "id": 56344,
+    "id": 166641,
     "name": "Muara Teweh",
     "state_id": 1794,
     "state_code": "KT",
@@ -93,10 +94,15 @@
     "latitude": "-0.90000000",
     "longitude": "114.98300000",
     "county_id": 8696,
-    "wikiDataId": null
+    "wikiDataId": "Q19729450",
+    "type": "town",
+    "native": "Muara Teweh",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56482,
+    "id": 166724,
     "name": "Nanga Bulik",
     "state_id": 1794,
     "state_code": "KT",
@@ -105,7 +111,12 @@
     "latitude": "-2.16240000",
     "longitude": "111.48850000",
     "county_id": 8700,
-    "wikiDataId": null
+    "wikiDataId": "Q12500026",
+    "type": "section",
+    "native": "Nanga Bulik",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56897,
@@ -116,8 +127,30 @@
     "country_code": "ID",
     "latitude": "-2.20833000",
     "longitude": "113.91667000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 8705,
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Palangkaraya",
+    "timezone": "Asia/Pontianak",
+    "population": 249434,
+    "population_year": null
+  },
+  {
+    "id": 166717,
+    "name": "Pangkalan Bun",
+    "state_id": 1794,
+    "state_code": "KT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-2.68320000",
+    "longitude": "111.62590000",
+    "county_id": 8692,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Pangkalan Bun",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56911,
@@ -129,10 +162,15 @@
     "latitude": "-2.68320000",
     "longitude": "111.62590000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Pangkalanbuun",
+    "timezone": "Asia/Pontianak",
+    "population": 38057,
+    "population_year": null
   },
   {
-    "id": 56601,
+    "id": 166801,
     "name": "Pulang Pisau",
     "state_id": 1794,
     "state_code": "KT",
@@ -141,10 +179,15 @@
     "latitude": "-2.74817000",
     "longitude": "114.25827500",
     "county_id": 8702,
-    "wikiDataId": null
+    "wikiDataId": "Q13096255",
+    "type": "section",
+    "native": "Pulang Pisau",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56547,
+    "id": 166767,
     "name": "Puruk Cahu",
     "state_id": 1794,
     "state_code": "KT",
@@ -153,7 +196,12 @@
     "latitude": "-0.63833333",
     "longitude": "114.56777778",
     "county_id": 8703,
-    "wikiDataId": null
+    "wikiDataId": "Q116213753",
+    "type": "town",
+    "native": "Puruk Cahu",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56961,
@@ -165,7 +213,12 @@
     "latitude": "-2.53150000",
     "longitude": "112.94960000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3470926",
+    "type": "adm2",
+    "native": "Sampit",
+    "timezone": "Asia/Pontianak",
+    "population": 166773,
+    "population_year": null
   },
   {
     "id": 56646,
@@ -177,10 +230,15 @@
     "latitude": "-2.62675000",
     "longitude": "111.23681000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14386",
+    "type": "regency",
+    "native": "Kabupaten Sukamara",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56343,
+    "id": 166640,
     "name": "Tamiang Layang",
     "state_id": 1794,
     "state_code": "KT",
@@ -189,6 +247,11 @@
     "latitude": "-2.11600000",
     "longitude": "115.16910000",
     "county_id": 8704,
-    "wikiDataId": null
+    "wikiDataId": "Q10990756",
+    "type": "section",
+    "native": "Tamiang Layang",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   }
 ]

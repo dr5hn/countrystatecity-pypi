@@ -9,7 +9,12 @@
     "latitude": "17.01050000",
     "longitude": "-13.97102000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q227072",
+    "type": "locality",
+    "native": "قلب الجميل",
+    "timezone": "Africa/Nouakchott",
+    "population": 1500,
+    "population_year": null
   },
   {
     "id": 67745,
@@ -21,7 +26,12 @@
     "latitude": "17.05314000",
     "longitude": "-13.91312000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q175596",
+    "type": "adm1",
+    "native": "أليج",
+    "timezone": "Africa/Nouakchott",
+    "population": 19183,
+    "population_year": null
   },
   {
     "id": 150071,
@@ -33,7 +43,12 @@
     "latitude": "16.41666667",
     "longitude": "-13.80000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4937271",
+    "type": "city",
+    "native": "بوفال",
+    "timezone": "Africa/Nouakchott",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 150072,
@@ -45,6 +60,11 @@
     "latitude": "16.95416667",
     "longitude": "-13.37916667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3281053",
+    "type": "city",
+    "native": "سوري ماليه",
+    "timezone": "Africa/Nouakchott",
+    "population": null,
+    "population_year": null
   }
 ]

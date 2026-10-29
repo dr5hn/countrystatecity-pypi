@@ -9,7 +9,12 @@
     "latitude": "39.08656000",
     "longitude": "42.27158000",
     "county_id": 6942,
-    "wikiDataId": null
+    "wikiDataId": "Q2614475",
+    "type": "municipality",
+    "native": "Bulanık",
+    "timezone": "Europe/Istanbul",
+    "population": 25897,
+    "population_year": 2025
   },
   {
     "id": 107802,
@@ -21,7 +26,12 @@
     "latitude": "38.68231000",
     "longitude": "41.67851000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1011290",
+    "type": "adm3",
+    "native": "Hasköy",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 108022,
@@ -33,7 +43,12 @@
     "latitude": "38.73390000",
     "longitude": "41.78396000",
     "county_id": 7667,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Korkut",
+    "timezone": "Europe/Istanbul",
+    "population": 3352,
+    "population_year": 2025
   },
   {
     "id": 108142,
@@ -44,8 +59,13 @@
     "country_code": "TR",
     "latitude": "39.14650000",
     "longitude": "42.53536000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7224,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Malazgirt",
+    "timezone": "Europe/Istanbul",
+    "population": 26108,
+    "population_year": null
   },
   {
     "id": 165612,
@@ -56,8 +76,13 @@
     "country_code": "TR",
     "latitude": "38.73163000",
     "longitude": "41.48482000",
-    "county_id": 7244,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q118995",
+    "type": "adm1",
+    "native": "Muş",
+    "timezone": "Europe/Istanbul",
+    "population": 123317,
+    "population_year": 2025
   },
   {
     "id": 108647,
@@ -69,6 +94,11 @@
     "latitude": "39.17375000",
     "longitude": "41.45402000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1004578",
+    "type": "adm2",
+    "native": "Varto",
+    "timezone": "Europe/Istanbul",
+    "population": 18691,
+    "population_year": null
   }
 ]

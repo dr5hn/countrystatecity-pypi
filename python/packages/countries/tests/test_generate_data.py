@@ -9,6 +9,38 @@ import pytest
 from countrystatecity_countries.models import City
 
 
+def test_generate_preserves_cities_without_a_state(tmp_path: Path) -> None:
+    """Country-level cities remain reachable with null states and population years."""
+    script = Path(__file__).parents[1] / "scripts" / "generate-data.py"
+    save = runpy.run_path(str(script))["save_states_and_cities"]
+    save(
+        [
+            {
+                "id": 1,
+                "iso2": "EH",
+                "states": [],
+                "cities": [
+                    {
+                        "id": 7,
+                        "name": "Town",
+                        "latitude": "1",
+                        "longitude": "2",
+                        "population": 12,
+                        "population_year": 2024,
+                    }
+                ],
+            }
+        ],
+        tmp_path,
+    )
+    city = City(**json.loads((tmp_path / "by-country/EH/cities.json").read_text())[0])
+    assert city.state_id is None
+    assert city.state_code is None
+    assert city.population_year == 2024
+    save([{"id": 1, "iso2": "EH", "states": []}], tmp_path)
+    assert not (tmp_path / "by-country/EH/cities.json").exists()
+
+
 def test_generate_replaces_retired_and_empty_state_data(tmp_path: Path) -> None:
     """Remove old city locations and preserve the new county link on a second run."""
     script = Path(__file__).parents[1] / "scripts" / "generate-data.py"

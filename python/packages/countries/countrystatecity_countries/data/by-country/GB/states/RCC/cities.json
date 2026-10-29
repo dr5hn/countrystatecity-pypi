@@ -9,7 +9,12 @@
     "latitude": "54.37356000",
     "longitude": "-1.11923000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Bilsdale",
+    "timezone": "Europe/London",
+    "population": 1841,
+    "population_year": null
   },
   {
     "id": 48593,
@@ -21,7 +26,12 @@
     "latitude": "54.54265000",
     "longitude": "-0.98139000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q303161",
+    "type": "city",
+    "native": "Boosbeck",
+    "timezone": "Europe/London",
+    "population": 1168,
+    "population_year": null
   },
   {
     "id": 48726,
@@ -33,7 +43,12 @@
     "latitude": "54.56661000",
     "longitude": "-0.93929000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1622799",
+    "type": "section",
+    "native": "Brotton",
+    "timezone": "Europe/London",
+    "population": 5394,
+    "population_year": null
   },
   {
     "id": 49764,
@@ -45,7 +60,12 @@
     "latitude": "54.53478000",
     "longitude": "-1.05606000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q952490",
+    "type": "adm3",
+    "native": "Guisborough",
+    "timezone": "Europe/London",
+    "population": 18874,
+    "population_year": null
   },
   {
     "id": 50308,
@@ -57,7 +77,12 @@
     "latitude": "54.53787000",
     "longitude": "-0.95864000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6553810",
+    "type": "city",
+    "native": "Lingdale",
+    "timezone": "Europe/London",
+    "population": 1423,
+    "population_year": null
   },
   {
     "id": 50386,
@@ -69,7 +94,12 @@
     "latitude": "54.55543000",
     "longitude": "-0.89459000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2400875",
+    "type": "town",
+    "native": "Loftus",
+    "timezone": "Europe/London",
+    "population": 4824,
+    "population_year": null
   },
   {
     "id": 50519,
@@ -81,7 +111,12 @@
     "latitude": "54.59147000",
     "longitude": "-1.01959000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1655185",
+    "type": "city",
+    "native": "Marske-by-the-Sea",
+    "timezone": "Europe/London",
+    "population": 8282,
+    "population_year": null
   },
   {
     "id": 50690,
@@ -93,7 +128,12 @@
     "latitude": "54.57848000",
     "longitude": "-1.04224000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7010051",
+    "type": "city",
+    "native": "New Marske",
+    "timezone": "Europe/London",
+    "population": 3271,
+    "population_year": null
   },
   {
     "id": 51048,
@@ -105,7 +145,12 @@
     "latitude": "54.61657000",
     "longitude": "-1.05999000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1193749",
+    "type": "town",
+    "native": "Redcar",
+    "timezone": "Europe/London",
+    "population": 37073,
+    "population_year": null
   },
   {
     "id": 51187,
@@ -117,7 +162,12 @@
     "latitude": "54.58237000",
     "longitude": "-0.97367000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2332298",
+    "type": "city",
+    "native": "Saltburn-by-the-Sea",
+    "timezone": "Europe/London",
+    "population": 5958,
+    "population_year": null
   },
   {
     "id": 51324,
@@ -129,6 +179,11 @@
     "latitude": "54.56908000",
     "longitude": "-0.89869000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7535541",
+    "type": "city",
+    "native": "Skinningrove",
+    "timezone": "Europe/London",
+    "population": 1606,
+    "population_year": null
   }
 ]

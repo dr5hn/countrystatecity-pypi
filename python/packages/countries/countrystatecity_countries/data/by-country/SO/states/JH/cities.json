@@ -9,7 +9,12 @@
     "latitude": "-1.21917000",
     "longitude": "41.83725000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Buur Gaabo",
+    "timezone": "Africa/Mogadishu",
+    "population": 3096,
+    "population_year": null
   },
   {
     "id": 104802,
@@ -21,7 +26,12 @@
     "latitude": "0.06968000",
     "longitude": "42.74497000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1017154",
+    "type": "city",
+    "native": "Jamaame",
+    "timezone": "Africa/Mogadishu",
+    "population": 42270,
+    "population_year": null
   },
   {
     "id": 165559,
@@ -33,7 +43,12 @@
     "latitude": "-1.63772000",
     "longitude": "41.58660000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1719488",
+    "type": "city",
+    "native": "Ras kambooni",
+    "timezone": "Africa/Mogadishu",
+    "population": 79000,
+    "population_year": null
   },
   {
     "id": 104805,
@@ -45,6 +60,11 @@
     "latitude": "-0.35817000",
     "longitude": "42.54536000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q270787",
+    "type": "adm1",
+    "native": "Kismayo",
+    "timezone": "Africa/Mogadishu",
+    "population": 234852,
+    "population_year": null
   }
 ]

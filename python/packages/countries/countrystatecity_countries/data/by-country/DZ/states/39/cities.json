@@ -9,7 +9,12 @@
     "latitude": "33.51667000",
     "longitude": "6.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3020835",
+    "type": "municipality",
+    "native": "ديبيلا",
+    "timezone": "Africa/Algiers",
+    "population": 36834,
+    "population_year": null
   },
   {
     "id": 31341,
@@ -21,7 +26,12 @@
     "latitude": "33.35608000",
     "longitude": "6.86319000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "الواد",
+    "timezone": "Africa/Algiers",
+    "population": 186525,
+    "population_year": null
   },
   {
     "id": 31408,
@@ -33,7 +43,12 @@
     "latitude": "33.56391000",
     "longitude": "6.70326000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3325064",
+    "type": "municipality",
+    "native": "رقيبة",
+    "timezone": "Africa/Algiers",
+    "population": 25210,
+    "population_year": null
   },
   {
     "id": 31411,
@@ -45,6 +60,11 @@
     "latitude": "33.27967000",
     "longitude": "6.90984000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2364827",
+    "type": "municipality",
+    "native": "ربة",
+    "timezone": "Africa/Algiers",
+    "population": 30446,
+    "population_year": null
   }
 ]

@@ -8,8 +8,13 @@
     "country_code": "CN",
     "latitude": "31.25750000",
     "longitude": "113.67833000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 12589,
+    "wikiDataId": "Q557934",
+    "type": "city",
+    "native": "安陆",
+    "timezone": "Asia/Shanghai",
+    "population": 71198,
+    "population_year": null
   },
   {
     "id": 158187,
@@ -21,7 +26,12 @@
     "latitude": "31.30662190",
     "longitude": "113.64802030",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q557934",
+    "type": "city",
+    "native": "安陆",
+    "timezone": "Asia/Shanghai",
+    "population": 498356,
+    "population_year": null
   },
   {
     "id": 158219,
@@ -33,7 +43,12 @@
     "latitude": "31.04464430",
     "longitude": "110.33529570",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "巴东",
+    "timezone": "Asia/Shanghai",
+    "population": 395376,
+    "population_year": null
   },
   {
     "id": 158170,
@@ -45,7 +60,12 @@
     "latitude": "31.87993380",
     "longitude": "111.25558530",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "保康",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 19353,
@@ -57,19 +77,12 @@
     "latitude": "30.28757000",
     "longitude": "112.22979000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 19355,
-    "name": "Caidian",
-    "state_id": 2274,
-    "state_code": "HB",
-    "country_id": 45,
-    "country_code": "CN",
-    "latitude": "30.58333000",
-    "longitude": "114.03333000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm4",
+    "native": "埠河",
+    "timezone": "Asia/Shanghai",
+    "population": 106347,
+    "population_year": null
   },
   {
     "id": 158134,
@@ -81,7 +94,29 @@
     "latitude": "30.53892890",
     "longitude": "114.08210560",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "蔡甸",
+    "timezone": "Asia/Shanghai",
+    "population": 630300,
+    "population_year": null
+  },
+  {
+    "id": 167858,
+    "name": "Caidian",
+    "state_id": 2274,
+    "state_code": "HB",
+    "country_id": 45,
+    "country_code": "CN",
+    "latitude": "30.53870400",
+    "longitude": "114.08160200",
+    "county_id": 12529,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "蔡甸",
+    "timezone": "Asia/Shanghai",
+    "population": 71891,
+    "population_year": null
   },
   {
     "id": 19359,
@@ -93,7 +128,12 @@
     "latitude": "30.22970000",
     "longitude": "115.43346000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "漕河",
+    "timezone": "Asia/Shanghai",
+    "population": 67370,
+    "population_year": null
   },
   {
     "id": 158160,
@@ -105,7 +145,12 @@
     "latitude": "30.47521050",
     "longitude": "111.20152650",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1062175",
+    "type": "county",
+    "native": "长阳",
+    "timezone": "Asia/Shanghai",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 19396,
@@ -117,7 +162,12 @@
     "latitude": "30.94454000",
     "longitude": "113.55284000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm4",
+    "native": "城中",
+    "timezone": "Asia/Shanghai",
+    "population": 265886,
+    "population_year": null
   },
   {
     "id": 158212,
@@ -126,10 +176,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "29.72817000",
-    "longitude": "113.89512220",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "29.88333333",
+    "longitude": "113.63333333",
+    "county_id": 12617,
+    "wikiDataId": null,
+    "type": "city",
+    "native": "赤壁",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 158210,
@@ -141,7 +196,12 @@
     "latitude": "29.55882530",
     "longitude": "114.03382890",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "崇阳",
+    "timezone": "Asia/Shanghai",
+    "population": 427130,
+    "population_year": null
   },
   {
     "id": 158163,
@@ -150,10 +210,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.82386360",
-    "longitude": "111.78239660",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.82580000",
+    "longitude": "111.79098000",
+    "county_id": 12561,
+    "wikiDataId": "Q1159699",
+    "type": "city",
+    "native": "当阳",
+    "timezone": "Asia/Shanghai",
+    "population": 397465,
+    "population_year": null
   },
   {
     "id": 19425,
@@ -162,10 +227,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "32.54278000",
-    "longitude": "111.50861000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "32.54085000",
+    "longitude": "111.50979000",
+    "county_id": 12548,
+    "wikiDataId": null,
+    "type": "city",
+    "native": "丹江口",
+    "timezone": "Asia/Shanghai",
+    "population": 92008,
+    "population_year": null
   },
   {
     "id": 158151,
@@ -177,7 +247,12 @@
     "latitude": "32.54538210",
     "longitude": "111.18466050",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1164197",
+    "type": "city",
+    "native": "丹江口",
+    "timezone": "Asia/Shanghai",
+    "population": 409940,
+    "population_year": null
   },
   {
     "id": 158184,
@@ -189,7 +264,12 @@
     "latitude": "31.60942700",
     "longitude": "114.31208200",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "大悟",
+    "timezone": "Asia/Shanghai",
+    "population": 486153,
+    "population_year": null
   },
   {
     "id": 19440,
@@ -198,10 +278,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.08333000",
-    "longitude": "114.95000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.10034000",
+    "longitude": "114.96988000",
+    "county_id": 12539,
+    "wikiDataId": "Q1179105",
+    "type": "city",
+    "native": "大冶",
+    "timezone": "Asia/Shanghai",
+    "population": 347406,
+    "population_year": null
   },
   {
     "id": 158143,
@@ -213,7 +298,12 @@
     "latitude": "30.09855670",
     "longitude": "114.97480740",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1179105",
+    "type": "city",
+    "native": "大冶市",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 158154,
@@ -222,10 +312,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.68114940",
-    "longitude": "111.25109560",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.70070000",
+    "longitude": "111.25965000",
+    "county_id": 12552,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "点军",
+    "timezone": "Asia/Shanghai",
+    "population": 101649,
+    "population_year": null
   },
   {
     "id": 158177,
@@ -237,7 +332,12 @@
     "latitude": "31.05406000",
     "longitude": "112.19557670",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "东宝",
+    "timezone": "Asia/Shanghai",
+    "population": 356938,
+    "population_year": null
   },
   {
     "id": 158132,
@@ -249,7 +349,12 @@
     "latitude": "30.62083290",
     "longitude": "114.13076160",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "东西湖",
+    "timezone": "Asia/Shanghai",
+    "population": 845782,
+    "population_year": null
   },
   {
     "id": 19486,
@@ -261,7 +366,12 @@
     "latitude": "30.67000000",
     "longitude": "112.68952000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm4",
+    "native": "多宝",
+    "timezone": "Asia/Shanghai",
+    "population": 90257,
+    "population_year": null
   },
   {
     "id": 158178,
@@ -273,7 +383,12 @@
     "latitude": "30.97622000",
     "longitude": "112.20243640",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "掇刀",
+    "timezone": "Asia/Shanghai",
+    "population": 632954,
+    "population_year": null
   },
   {
     "id": 158176,
@@ -285,7 +400,12 @@
     "latitude": "30.40329440",
     "longitude": "114.88637750",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "鄂城",
+    "timezone": "Asia/Shanghai",
+    "population": 668727,
+    "population_year": null
   },
   {
     "id": 19491,
@@ -297,7 +417,12 @@
     "latitude": "30.27454830",
     "longitude": "109.48330790",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "prefecture",
+    "native": "恩施",
+    "timezone": "Asia/Shanghai",
+    "population": 279185,
+    "population_year": null
   },
   {
     "id": 19492,
@@ -309,7 +434,12 @@
     "latitude": "30.19810000",
     "longitude": "109.67555000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71415",
+    "type": "city",
+    "native": "恩施土家族苗族自治州",
+    "timezone": "Asia/Shanghai",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 19495,
@@ -321,7 +451,12 @@
     "latitude": "30.39253790",
     "longitude": "114.88989880",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71305",
+    "type": "prefecture",
+    "native": "鄂州",
+    "timezone": "Asia/Shanghai",
+    "population": 1079353,
+    "population_year": null
   },
   {
     "id": 19496,
@@ -333,7 +468,12 @@
     "latitude": "30.48832000",
     "longitude": "114.77979000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71305",
+    "type": "adm4",
+    "native": "鄂州市",
+    "timezone": "Asia/Shanghai",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 158166,
@@ -345,7 +485,12 @@
     "latitude": "32.04674900",
     "longitude": "112.12962980",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "樊城",
+    "timezone": "Asia/Shanghai",
+    "population": 920794,
+    "population_year": null
   },
   {
     "id": 158150,
@@ -357,7 +502,12 @@
     "latitude": "32.04261410",
     "longitude": "110.72106160",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "房县",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 19507,
@@ -369,7 +519,12 @@
     "latitude": "30.08268000",
     "longitude": "113.33346000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm4",
+    "native": "峰口",
+    "timezone": "Asia/Shanghai",
+    "population": 67139,
+    "population_year": null
   },
   {
     "id": 158191,
@@ -381,7 +536,12 @@
     "latitude": "29.93129750",
     "longitude": "112.16488480",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "公安",
+    "timezone": "Asia/Shanghai",
+    "population": 747134,
+    "population_year": null
   },
   {
     "id": 19560,
@@ -393,7 +553,12 @@
     "latitude": "31.61990000",
     "longitude": "113.99780000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm4",
+    "native": "广水",
+    "timezone": "Asia/Shanghai",
+    "population": 154771,
+    "population_year": null
   },
   {
     "id": 158215,
@@ -405,7 +570,12 @@
     "latitude": "31.68381560",
     "longitude": "113.84076410",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q930230",
+    "type": "city",
+    "native": "广水",
+    "timezone": "Asia/Shanghai",
+    "population": 710900,
+    "population_year": null
   },
   {
     "id": 158169,
@@ -417,7 +587,12 @@
     "latitude": "37.34903480",
     "longitude": "115.96468180",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "故城",
+    "timezone": "Asia/Shanghai",
+    "population": 444493,
+    "population_year": null
   },
   {
     "id": 19567,
@@ -429,7 +604,12 @@
     "latitude": "32.26604000",
     "longitude": "111.63476000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "谷城城关镇",
+    "timezone": "Asia/Shanghai",
+    "population": 74038,
+    "population_year": null
   },
   {
     "id": 19596,
@@ -438,10 +618,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.65000000",
-    "longitude": "113.76667000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.65201000",
+    "longitude": "113.82745000",
+    "county_id": 12590,
+    "wikiDataId": null,
+    "type": "city",
+    "native": "汉川",
+    "timezone": "Asia/Shanghai",
+    "population": 87737,
+    "population_year": null
   },
   {
     "id": 158188,
@@ -453,7 +638,12 @@
     "latitude": "30.65625750",
     "longitude": "113.83295830",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1337056",
+    "type": "city",
+    "native": "汉川",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 158133,
@@ -462,10 +652,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.31065570",
-    "longitude": "114.08010090",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.31341000",
+    "longitude": "114.07654000",
+    "county_id": 12528,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "汉南",
+    "timezone": "Asia/Shanghai",
+    "population": 145103,
+    "population_year": null
   },
   {
     "id": 158128,
@@ -474,10 +669,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.55666550",
-    "longitude": "114.21317250",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.54979000",
+    "longitude": "114.26514000",
+    "county_id": 12523,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "汉阳",
+    "timezone": "Asia/Shanghai",
+    "population": 837263,
+    "population_year": null
   },
   {
     "id": 158223,
@@ -489,7 +689,12 @@
     "latitude": "29.93069670",
     "longitude": "110.20807030",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "鹤峰",
+    "timezone": "Asia/Shanghai",
+    "population": 174650,
+    "population_year": null
   },
   {
     "id": 158199,
@@ -501,7 +706,12 @@
     "latitude": "31.27607890",
     "longitude": "114.64202790",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "红安",
+    "timezone": "Asia/Shanghai",
+    "population": 510189,
+    "population_year": null
   },
   {
     "id": 158194,
@@ -510,10 +720,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "29.82879060",
-    "longitude": "113.47069050",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "29.81817000",
+    "longitude": "113.46531000",
+    "county_id": 12598,
+    "wikiDataId": "Q1359268",
+    "type": "city",
+    "native": "洪湖",
+    "timezone": "Asia/Shanghai",
+    "population": 30426,
+    "population_year": null
   },
   {
     "id": 158131,
@@ -522,10 +737,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.50280430",
-    "longitude": "114.33784310",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.50671000",
+    "longitude": "114.39256000",
+    "county_id": 12526,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "洪山",
+    "timezone": "Asia/Shanghai",
+    "population": 469079,
+    "population_year": null
   },
   {
     "id": 19647,
@@ -537,7 +757,12 @@
     "latitude": "30.45601870",
     "longitude": "114.86732260",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71355",
+    "type": "prefecture",
+    "native": "黄冈",
+    "timezone": "Asia/Shanghai",
+    "population": 225956,
+    "population_year": null
   },
   {
     "id": 19651,
@@ -549,7 +774,12 @@
     "latitude": "30.19235000",
     "longitude": "116.02496000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "黄梅",
+    "timezone": "Asia/Shanghai",
+    "population": 77633,
+    "population_year": null
   },
   {
     "id": 158204,
@@ -561,7 +791,12 @@
     "latitude": "30.01825610",
     "longitude": "115.92890510",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1337631",
+    "type": "county",
+    "native": "黄梅",
+    "timezone": "Asia/Shanghai",
+    "population": 759928,
+    "population_year": null
   },
   {
     "id": 19654,
@@ -570,10 +805,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.88453000",
-    "longitude": "114.37789000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.87505000",
+    "longitude": "114.36991000",
+    "county_id": 12531,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "黄陂",
+    "timezone": "Asia/Shanghai",
+    "population": 57554,
+    "population_year": null
   },
   {
     "id": 158136,
@@ -585,7 +825,12 @@
     "latitude": "31.05675280",
     "longitude": "114.38201730",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "黄陂",
+    "timezone": "Asia/Shanghai",
+    "population": 1151644,
+    "population_year": null
   },
   {
     "id": 19658,
@@ -597,7 +842,12 @@
     "latitude": "30.20249710",
     "longitude": "115.03341440",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71204",
+    "type": "prefecture",
+    "native": "黄石",
+    "timezone": "Asia/Shanghai",
+    "population": 2469079,
+    "population_year": null
   },
   {
     "id": 158138,
@@ -609,7 +859,12 @@
     "latitude": "30.22542790",
     "longitude": "115.06047210",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "黄石港",
+    "timezone": "Asia/Shanghai",
+    "population": 241589,
+    "population_year": null
   },
   {
     "id": 19663,
@@ -621,7 +876,12 @@
     "latitude": "30.45000000",
     "longitude": "114.80000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "黄州",
+    "timezone": "Asia/Shanghai",
+    "population": 122563,
+    "population_year": null
   },
   {
     "id": 158197,
@@ -633,7 +893,12 @@
     "latitude": "30.43695760",
     "longitude": "114.87507660",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "黄州",
+    "timezone": "Asia/Shanghai",
+    "population": 501200,
+    "population_year": null
   },
   {
     "id": 158175,
@@ -642,10 +907,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.53733810",
-    "longitude": "114.72463790",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.53722000",
+    "longitude": "114.72942000",
+    "county_id": 12575,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "华容",
+    "timezone": "Asia/Shanghai",
+    "population": 553800,
+    "population_year": null
   },
   {
     "id": 158125,
@@ -654,10 +924,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.63560820",
-    "longitude": "114.27765950",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.60317000",
+    "longitude": "114.29954000",
+    "county_id": 12520,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "江岸",
+    "timezone": "Asia/Shanghai",
+    "population": 965260,
+    "population_year": null
   },
   {
     "id": 158126,
@@ -666,10 +941,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.60413820",
-    "longitude": "114.26538710",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.60392000",
+    "longitude": "114.26555000",
+    "county_id": 12521,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "江汉",
+    "timezone": "Asia/Shanghai",
+    "population": 647932,
+    "population_year": null
   },
   {
     "id": 158192,
@@ -681,7 +961,12 @@
     "latitude": "30.04462040",
     "longitude": "112.41882560",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1363632",
+    "type": "county",
+    "native": "江陵",
+    "timezone": "Asia/Shanghai",
+    "population": 278192,
+    "population_year": null
   },
   {
     "id": 158135,
@@ -690,10 +975,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.37804940",
-    "longitude": "114.31616930",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.35507000",
+    "longitude": "114.31428000",
+    "county_id": 12530,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "江夏",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 158196,
@@ -702,10 +992,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "29.84237490",
-    "longitude": "112.89926290",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "29.82395000",
+    "longitude": "112.90186000",
+    "county_id": 12595,
+    "wikiDataId": "Q1356616",
+    "type": "city",
+    "native": "监利",
+    "timezone": "Asia/Shanghai",
+    "population": 1120822,
+    "population_year": null
   },
   {
     "id": 158218,
@@ -717,7 +1012,12 @@
     "latitude": "30.66153180",
     "longitude": "109.93676060",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "建始",
+    "timezone": "Asia/Shanghai",
+    "population": 411622,
+    "population_year": null
   },
   {
     "id": 158208,
@@ -729,7 +1029,12 @@
     "latitude": "29.97242090",
     "longitude": "113.93353260",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "嘉鱼",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 19735,
@@ -741,7 +1046,12 @@
     "latitude": "30.65000000",
     "longitude": "113.10000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "竟陵",
+    "timezone": "Asia/Shanghai",
+    "population": 224871,
+    "population_year": null
   },
   {
     "id": 19736,
@@ -753,7 +1063,12 @@
     "latitude": "31.03752480",
     "longitude": "112.19379790",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71323",
+    "type": "prefecture",
+    "native": "荆门",
+    "timezone": "Asia/Shanghai",
+    "population": 2596927,
+    "population_year": null
   },
   {
     "id": 19737,
@@ -765,7 +1080,12 @@
     "latitude": "31.11244000",
     "longitude": "112.64310000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71323",
+    "type": "city",
+    "native": "荆门市",
+    "timezone": "Asia/Shanghai",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 158181,
@@ -774,10 +1094,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "31.01610470",
-    "longitude": "113.12806790",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "31.02359000",
+    "longitude": "113.10793000",
+    "county_id": 12580,
+    "wikiDataId": null,
+    "type": "city",
+    "native": "京山",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 19738,
@@ -789,7 +1114,12 @@
     "latitude": "30.33756120",
     "longitude": "112.23372640",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71247",
+    "type": "prefecture",
+    "native": "荆州",
+    "timezone": "Asia/Shanghai",
+    "population": 5231180,
+    "population_year": null
   },
   {
     "id": 158222,
@@ -801,7 +1131,12 @@
     "latitude": "29.45672400",
     "longitude": "109.19290500",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "来凤",
+    "timezone": "Asia/Shanghai",
+    "population": 283255,
+    "population_year": null
   },
   {
     "id": 19805,
@@ -810,10 +1145,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "32.38583000",
-    "longitude": "111.66778000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "32.38494000",
+    "longitude": "111.66953000",
+    "county_id": 12570,
+    "wikiDataId": "Q1359204",
+    "type": "city",
+    "native": "老河口市",
+    "timezone": "Asia/Shanghai",
+    "population": 253112,
+    "population_year": null
   },
   {
     "id": 158171,
@@ -825,7 +1165,12 @@
     "latitude": "32.43705260",
     "longitude": "111.75750730",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1359204",
+    "type": "city",
+    "native": "老河口",
+    "timezone": "Asia/Shanghai",
+    "population": 253112,
+    "population_year": null
   },
   {
     "id": 158174,
@@ -837,7 +1182,12 @@
     "latitude": "30.10275500",
     "longitude": "114.67950620",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "梁子湖",
+    "timezone": "Asia/Shanghai",
+    "population": 126822,
+    "population_year": null
   },
   {
     "id": 19834,
@@ -846,10 +1196,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.30000000",
-    "longitude": "108.85000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.29649000",
+    "longitude": "108.93776000",
+    "county_id": 12624,
+    "wikiDataId": null,
+    "type": "city",
+    "native": "利川",
+    "timezone": "Asia/Shanghai",
+    "population": 120587,
+    "population_year": null
   },
   {
     "id": 158217,
@@ -861,7 +1216,12 @@
     "latitude": "30.24450800",
     "longitude": "108.81575900",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "利川",
+    "timezone": "Asia/Shanghai",
+    "population": 750670,
+    "population_year": null
   },
   {
     "id": 158200,
@@ -873,7 +1233,12 @@
     "latitude": "30.96080900",
     "longitude": "115.46826170",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "罗田",
+    "timezone": "Asia/Shanghai",
+    "population": 473195,
+    "population_year": null
   },
   {
     "id": 19900,
@@ -882,10 +1247,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "31.18013000",
-    "longitude": "115.02213000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "31.18171000",
+    "longitude": "115.01893000",
+    "county_id": 12609,
+    "wikiDataId": null,
+    "type": "city",
+    "native": "麻城",
+    "timezone": "Asia/Shanghai",
+    "population": 126366,
+    "population_year": null
   },
   {
     "id": 158205,
@@ -897,7 +1267,12 @@
     "latitude": "31.31985720",
     "longitude": "115.11086470",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1016939",
+    "type": "city",
+    "native": "麻城",
+    "timezone": "Asia/Shanghai",
+    "population": 893654,
+    "population_year": null
   },
   {
     "id": 158144,
@@ -906,10 +1281,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "32.56666700",
-    "longitude": "110.78333300",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "32.59379000",
+    "longitude": "110.80703000",
+    "county_id": 12541,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "茅箭",
+    "timezone": "Asia/Shanghai",
+    "population": 601548,
+    "population_year": null
   },
   {
     "id": 158168,
@@ -921,7 +1301,12 @@
     "latitude": "31.77692060",
     "longitude": "111.83317670",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "南漳",
+    "timezone": "Asia/Shanghai",
+    "population": 455690,
+    "population_year": null
   },
   {
     "id": 19951,
@@ -933,7 +1318,12 @@
     "latitude": "31.78394000",
     "longitude": "111.82752000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "南漳城关镇",
+    "timezone": "Asia/Shanghai",
+    "population": 83604,
+    "population_year": null
   },
   {
     "id": 19997,
@@ -945,7 +1335,12 @@
     "latitude": "29.71667000",
     "longitude": "113.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "蒲圻",
+    "timezone": "Asia/Shanghai",
+    "population": 132891,
+    "population_year": null
   },
   {
     "id": 20008,
@@ -954,10 +1349,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.42100000",
-    "longitude": "112.89190000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.41666667",
+    "longitude": "112.85000000",
+    "county_id": 12631,
+    "wikiDataId": "Q71489",
+    "type": "city",
+    "native": "潜江",
+    "timezone": "Asia/Shanghai",
+    "population": 179079,
+    "population_year": null
   },
   {
     "id": 158226,
@@ -969,7 +1369,12 @@
     "latitude": "30.40498260",
     "longitude": "112.89403720",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71489",
+    "type": "city",
+    "native": "潜江",
+    "timezone": "Asia/Shanghai",
+    "population": 179079,
+    "population_year": null
   },
   {
     "id": 158127,
@@ -978,10 +1383,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.58480890",
-    "longitude": "114.20937180",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.57188000",
+    "longitude": "114.25890000",
+    "county_id": 12522,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "硚口",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 158203,
@@ -993,7 +1403,12 @@
     "latitude": "30.32129100",
     "longitude": "115.57047140",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "蕲春",
+    "timezone": "Asia/Shanghai",
+    "population": 792101,
+    "population_year": null
   },
   {
     "id": 20022,
@@ -1005,7 +1420,12 @@
     "latitude": "30.45113000",
     "longitude": "115.25593000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "清泉",
+    "timezone": "Asia/Shanghai",
+    "population": 76154,
+    "population_year": null
   },
   {
     "id": 158130,
@@ -1014,10 +1434,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.64212060",
-    "longitude": "114.37978040",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.63252000",
+    "longitude": "114.38846000",
+    "county_id": 12525,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "青山",
+    "timezone": "Asia/Shanghai",
+    "population": 535128,
+    "population_year": null
   },
   {
     "id": 20085,
@@ -1026,10 +1451,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.30722000",
-    "longitude": "112.24472000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.31363000",
+    "longitude": "112.24995000",
+    "county_id": 12592,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "沙市",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 158189,
@@ -1041,7 +1471,12 @@
     "latitude": "30.31442740",
     "longitude": "112.25249830",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "沙市",
+    "timezone": "Asia/Shanghai",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 158179,
@@ -1053,7 +1488,12 @@
     "latitude": "30.71182980",
     "longitude": "112.58318320",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "沙洋",
+    "timezone": "Asia/Shanghai",
+    "population": 395717,
+    "population_year": null
   },
   {
     "id": 20089,
@@ -1065,7 +1505,12 @@
     "latitude": "31.58339000",
     "longitude": "110.49720000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1359055",
+    "type": "administrative zone",
+    "native": "神农架",
+    "timezone": "Asia/Shanghai",
+    "population": 66571,
+    "population_year": null
   },
   {
     "id": 158193,
@@ -1074,10 +1519,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "29.72284270",
-    "longitude": "112.41890370",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "29.72109000",
+    "longitude": "112.40368000",
+    "county_id": 12597,
+    "wikiDataId": "Q1359319",
+    "type": "city",
+    "native": "石首",
+    "timezone": "Asia/Shanghai",
+    "population": 473707,
+    "population_year": null
   },
   {
     "id": 20109,
@@ -1089,7 +1539,12 @@
     "latitude": "32.45269000",
     "longitude": "110.56081200",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71227",
+    "type": "prefecture",
+    "native": "十堰",
+    "timezone": "Asia/Shanghai",
+    "population": 3209004,
+    "population_year": null
   },
   {
     "id": 158195,
@@ -1098,10 +1553,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.17509720",
-    "longitude": "111.75127140",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.17717000",
+    "longitude": "111.77323000",
+    "county_id": 12599,
+    "wikiDataId": "Q1357999",
+    "type": "city",
+    "native": "松滋市",
+    "timezone": "Asia/Shanghai",
+    "population": 654762,
+    "population_year": null
   },
   {
     "id": 158214,
@@ -1113,7 +1573,12 @@
     "latitude": "31.85000000",
     "longitude": "113.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q423253",
+    "type": "county",
+    "native": "随县",
+    "timezone": "Asia/Shanghai",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 20145,
@@ -1125,7 +1590,12 @@
     "latitude": "31.92092100",
     "longitude": "113.46584400",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71401",
+    "type": "prefecture",
+    "native": "随州",
+    "timezone": "Asia/Shanghai",
+    "population": 2047923,
+    "population_year": null
   },
   {
     "id": 158227,
@@ -1134,10 +1604,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.66596830",
-    "longitude": "113.16055990",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.66666667",
+    "longitude": "113.16666667",
+    "county_id": 12632,
+    "wikiDataId": "Q71468",
+    "type": "city",
+    "native": "天门",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 158141,
@@ -1146,10 +1621,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.20565860",
-    "longitude": "114.88659980",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.20661000",
+    "longitude": "114.89445000",
+    "county_id": 12537,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "铁山",
+    "timezone": "Asia/Shanghai",
+    "population": 15669,
+    "population_year": null
   },
   {
     "id": 158209,
@@ -1161,7 +1641,12 @@
     "latitude": "29.24816660",
     "longitude": "113.81163190",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "通城",
+    "timezone": "Asia/Shanghai",
+    "population": 593629,
+    "population_year": null
   },
   {
     "id": 158211,
@@ -1173,7 +1658,12 @@
     "latitude": "29.60819860",
     "longitude": "114.47750620",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "通山",
+    "timezone": "Asia/Shanghai",
+    "population": 391311,
+    "population_year": null
   },
   {
     "id": 158198,
@@ -1185,7 +1675,12 @@
     "latitude": "30.64605280",
     "longitude": "114.86715870",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "团风",
+    "timezone": "Asia/Shanghai",
+    "population": 266218,
+    "population_year": null
   },
   {
     "id": 158129,
@@ -1197,7 +1692,12 @@
     "latitude": "30.55669980",
     "longitude": "114.31098470",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "武昌",
+    "timezone": "Asia/Shanghai",
+    "population": 94786,
+    "population_year": null
   },
   {
     "id": 158161,
@@ -1209,7 +1709,12 @@
     "latitude": "30.16458100",
     "longitude": "110.68500600",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1199161",
+    "type": "county",
+    "native": "五峰",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 20233,
@@ -1221,7 +1726,12 @@
     "latitude": "30.59510510",
     "longitude": "114.29993530",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q11746",
+    "type": "prefecture",
+    "native": "武汉",
+    "timezone": "Asia/Shanghai",
+    "population": 12326518,
+    "population_year": null
   },
   {
     "id": 158153,
@@ -1233,7 +1743,12 @@
     "latitude": "30.64616900",
     "longitude": "111.35500790",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "伍家岗",
+    "timezone": "Asia/Shanghai",
+    "population": 336294,
+    "population_year": null
   },
   {
     "id": 20240,
@@ -1242,10 +1757,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "29.85058000",
-    "longitude": "115.55250000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "29.85180000",
+    "longitude": "115.55391000",
+    "county_id": 12610,
+    "wikiDataId": "Q1367949",
+    "type": "city",
+    "native": "武穴",
+    "timezone": "Asia/Shanghai",
+    "population": 220661,
+    "population_year": null
   },
   {
     "id": 158206,
@@ -1257,7 +1777,12 @@
     "latitude": "29.84703500",
     "longitude": "115.55628610",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1367949",
+    "type": "city",
+    "native": "武穴",
+    "timezone": "Asia/Shanghai",
+    "population": 676264,
+    "population_year": null
   },
   {
     "id": 158140,
@@ -1266,10 +1791,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.17561400",
-    "longitude": "114.95628430",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.17450000",
+    "longitude": "114.95019000",
+    "county_id": 12536,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "下陆",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 158207,
@@ -1278,10 +1808,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "29.85046590",
-    "longitude": "114.39072930",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "29.87564000",
+    "longitude": "114.28006000",
+    "county_id": 12612,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "咸安",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 158221,
@@ -1293,7 +1828,12 @@
     "latitude": "29.74236540",
     "longitude": "108.95304800",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "咸丰",
+    "timezone": "Asia/Shanghai",
+    "population": 318827,
+    "population_year": null
   },
   {
     "id": 158165,
@@ -1302,10 +1842,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "32.01183490",
-    "longitude": "112.12797610",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "32.01254000",
+    "longitude": "112.12784000",
+    "county_id": 12564,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "襄城",
+    "timezone": "Asia/Shanghai",
+    "population": 973197,
+    "population_year": null
   },
   {
     "id": 20258,
@@ -1317,7 +1862,12 @@
     "latitude": "32.01099800",
     "longitude": "112.11637850",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71284",
+    "type": "prefecture",
+    "native": "襄阳",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 158167,
@@ -1326,10 +1876,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "32.21846700",
-    "longitude": "112.26230400",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "32.08722222",
+    "longitude": "112.21194444",
+    "county_id": 12566,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "襄州",
+    "timezone": "Asia/Shanghai",
+    "population": 923235,
+    "population_year": null
   },
   {
     "id": 20261,
@@ -1341,7 +1896,12 @@
     "latitude": "29.84375450",
     "longitude": "114.31694180",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71373",
+    "type": "prefecture",
+    "native": "咸宁",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 20262,
@@ -1353,7 +1913,12 @@
     "latitude": "29.66609000",
     "longitude": "114.26389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71373",
+    "type": "prefecture",
+    "native": "咸宁地区",
+    "timezone": "Asia/Shanghai",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 20266,
@@ -1364,8 +1929,13 @@
     "country_code": "CN",
     "latitude": "30.37080000",
     "longitude": "113.44294000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11313,
+    "wikiDataId": "Q71455",
+    "type": "city",
+    "native": "仙桃",
+    "timezone": "Asia/Shanghai",
+    "population": 239406,
+    "population_year": null
   },
   {
     "id": 158225,
@@ -1377,7 +1947,12 @@
     "latitude": "30.36402900",
     "longitude": "113.44867020",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71455",
+    "type": "city",
+    "native": "仙桃",
+    "timezone": "Asia/Shanghai",
+    "population": 1268715,
+    "population_year": null
   },
   {
     "id": 158183,
@@ -1389,7 +1964,12 @@
     "latitude": "31.24691410",
     "longitude": "114.03773720",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "孝昌",
+    "timezone": "Asia/Shanghai",
+    "population": 483367,
+    "population_year": null
   },
   {
     "id": 20269,
@@ -1401,7 +1981,12 @@
     "latitude": "31.17641300",
     "longitude": "113.92243400",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71339",
+    "type": "prefecture",
+    "native": "孝感",
+    "timezone": "Asia/Shanghai",
+    "population": 4270371,
+    "population_year": null
   },
   {
     "id": 158182,
@@ -1410,10 +1995,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.94824630",
-    "longitude": "114.01619650",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.92049000",
+    "longitude": "113.91353000",
+    "county_id": 12584,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "孝南",
+    "timezone": "Asia/Shanghai",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 158155,
@@ -1425,7 +2015,12 @@
     "latitude": "30.53299560",
     "longitude": "111.42887790",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "猇亭",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 20282,
@@ -1437,7 +2032,12 @@
     "latitude": "31.68635000",
     "longitude": "113.46585000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm4",
+    "native": "淅河",
+    "timezone": "Asia/Shanghai",
+    "population": 90422,
+    "population_year": null
   },
   {
     "id": 158152,
@@ -1446,10 +2046,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.71322730",
-    "longitude": "111.28007770",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.71294000",
+    "longitude": "111.28053000",
+    "county_id": 12550,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "西陵",
+    "timezone": "Asia/Shanghai",
+    "population": 506520,
+    "population_year": null
   },
   {
     "id": 20290,
@@ -1461,7 +2066,12 @@
     "latitude": "29.81667000",
     "longitude": "113.46667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "新堤",
+    "timezone": "Asia/Shanghai",
+    "population": 175761,
+    "population_year": null
   },
   {
     "id": 158158,
@@ -1473,7 +2083,12 @@
     "latitude": "31.30834700",
     "longitude": "110.80395300",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q204696",
+    "type": "county",
+    "native": "兴山",
+    "timezone": "Asia/Shanghai",
+    "population": 21125,
+    "population_year": null
   },
   {
     "id": 20305,
@@ -1485,7 +2100,12 @@
     "latitude": "31.04704000",
     "longitude": "113.14098000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "新市",
+    "timezone": "Asia/Shanghai",
+    "population": 98422,
+    "population_year": null
   },
   {
     "id": 20317,
@@ -1494,10 +2114,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.86667000",
-    "longitude": "114.80000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.83974000",
+    "longitude": "114.79928000",
+    "county_id": 12532,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "新洲",
+    "timezone": "Asia/Shanghai",
+    "population": 78767,
+    "population_year": null
   },
   {
     "id": 158137,
@@ -1509,7 +2134,12 @@
     "latitude": "30.84377020",
     "longitude": "114.79600130",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "新洲",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 158139,
@@ -1521,7 +2151,12 @@
     "latitude": "30.20729540",
     "longitude": "115.10431360",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "西塞山",
+    "timezone": "Asia/Shanghai",
+    "population": 197217,
+    "population_year": null
   },
   {
     "id": 158202,
@@ -1533,7 +2168,12 @@
     "latitude": "30.59994440",
     "longitude": "115.29931330",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "浠水",
+    "timezone": "Asia/Shanghai",
+    "population": 584947,
+    "population_year": null
   },
   {
     "id": 20323,
@@ -1545,7 +2185,12 @@
     "latitude": "29.71667000",
     "longitude": "112.40000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1359319",
+    "type": "city",
+    "native": "秀林",
+    "timezone": "Asia/Shanghai",
+    "population": 122411,
+    "population_year": null
   },
   {
     "id": 158220,
@@ -1557,7 +2202,12 @@
     "latitude": "29.99051200",
     "longitude": "109.48507900",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "宣恩",
+    "timezone": "Asia/Shanghai",
+    "population": 284955,
+    "population_year": null
   },
   {
     "id": 158142,
@@ -1569,7 +2219,12 @@
     "latitude": "29.83281530",
     "longitude": "115.20984390",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1356685",
+    "type": "county",
+    "native": "阳新",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 20366,
@@ -1581,7 +2236,12 @@
     "latitude": "30.69413320",
     "longitude": "111.28035120",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q71266",
+    "type": "prefecture",
+    "native": "宜昌",
+    "timezone": "Asia/Shanghai",
+    "population": 4017607,
+    "population_year": null
   },
   {
     "id": 20367,
@@ -1590,10 +2250,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "31.70472000",
-    "longitude": "112.25611000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "31.71173000",
+    "longitude": "112.25514000",
+    "county_id": 12572,
+    "wikiDataId": null,
+    "type": "city",
+    "native": "宜城",
+    "timezone": "Asia/Shanghai",
+    "population": 61027,
+    "population_year": null
   },
   {
     "id": 158173,
@@ -1605,7 +2270,12 @@
     "latitude": "31.72103460",
     "longitude": "112.25273750",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1199240",
+    "type": "city",
+    "native": "宜城",
+    "timezone": "Asia/Shanghai",
+    "population": 469417,
+    "population_year": null
   },
   {
     "id": 158162,
@@ -1614,10 +2284,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.38196960",
-    "longitude": "111.44369270",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.38804000",
+    "longitude": "111.45049000",
+    "county_id": 12560,
+    "wikiDataId": "Q282948",
+    "type": "city",
+    "native": "宜都市",
+    "timezone": "Asia/Shanghai",
+    "population": 347388,
+    "population_year": null
   },
   {
     "id": 158156,
@@ -1626,10 +2301,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "31.00136820",
-    "longitude": "111.28912770",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.77596000",
+    "longitude": "111.31955000",
+    "county_id": 12554,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "夷陵",
+    "timezone": "Asia/Shanghai",
+    "population": 534408,
+    "population_year": null
   },
   {
     "id": 158186,
@@ -1638,10 +2318,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.93336420",
-    "longitude": "113.56648120",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.94259000",
+    "longitude": "113.56772000",
+    "county_id": 12588,
+    "wikiDataId": "Q1344777",
+    "type": "city",
+    "native": "应城",
+    "timezone": "Asia/Shanghai",
+    "population": 476596,
+    "population_year": null
   },
   {
     "id": 158201,
@@ -1653,7 +2338,12 @@
     "latitude": "30.85269460",
     "longitude": "115.71717620",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "英山",
+    "timezone": "Asia/Shanghai",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 158157,
@@ -1665,7 +2355,12 @@
     "latitude": "31.16924570",
     "longitude": "111.56548500",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "远安",
+    "timezone": "Asia/Shanghai",
+    "population": 166174,
+    "population_year": null
   },
   {
     "id": 158185,
@@ -1677,7 +2372,12 @@
     "latitude": "31.00213670",
     "longitude": "113.77377540",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "云梦",
+    "timezone": "Asia/Shanghai",
+    "population": 434124,
+    "population_year": null
   },
   {
     "id": 20402,
@@ -1689,7 +2389,12 @@
     "latitude": "31.06251000",
     "longitude": "113.76545000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "云梦城关镇",
+    "timezone": "Asia/Shanghai",
+    "population": 64390,
+    "population_year": null
   },
   {
     "id": 158147,
@@ -1701,7 +2406,12 @@
     "latitude": "33.00097280",
     "longitude": "110.17886920",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "郧西",
+    "timezone": "Asia/Shanghai",
+    "population": 153657,
+    "population_year": null
   },
   {
     "id": 158146,
@@ -1710,10 +2420,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "32.91285600",
-    "longitude": "110.75694200",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "32.83921000",
+    "longitude": "110.80714000",
+    "county_id": 12543,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "郧阳",
+    "timezone": "Asia/Shanghai",
+    "population": 395222,
+    "population_year": null
   },
   {
     "id": 20414,
@@ -1722,10 +2437,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "32.12722000",
-    "longitude": "112.75417000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "32.12874000",
+    "longitude": "112.75810000",
+    "county_id": 12571,
+    "wikiDataId": "Q147171",
+    "type": "city",
+    "native": "枣阳",
+    "timezone": "Asia/Shanghai",
+    "population": 184509,
+    "population_year": null
   },
   {
     "id": 158172,
@@ -1737,7 +2457,12 @@
     "latitude": "32.13076860",
     "longitude": "112.76657160",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q147171",
+    "type": "city",
+    "native": "枣阳",
+    "timezone": "Asia/Shanghai",
+    "population": 888794,
+    "population_year": null
   },
   {
     "id": 158213,
@@ -1749,7 +2474,12 @@
     "latitude": "31.71801000",
     "longitude": "113.36515190",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "曾都",
+    "timezone": "Asia/Shanghai",
+    "population": 699475,
+    "population_year": null
   },
   {
     "id": 158145,
@@ -1758,10 +2488,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "32.65339560",
-    "longitude": "110.76536160",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "32.63925000",
+    "longitude": "110.75118000",
+    "county_id": 12542,
+    "wikiDataId": null,
+    "type": "section",
+    "native": "张湾",
+    "timezone": "Asia/Shanghai",
+    "population": 6590,
+    "population_year": null
   },
   {
     "id": 20445,
@@ -1773,7 +2508,12 @@
     "latitude": "30.29556000",
     "longitude": "111.50472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm4",
+    "native": "枝城",
+    "timezone": "Asia/Shanghai",
+    "population": 159383,
+    "population_year": null
   },
   {
     "id": 20446,
@@ -1782,10 +2522,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "30.42139000",
-    "longitude": "111.75333000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "30.42711000",
+    "longitude": "111.75059000",
+    "county_id": 12562,
+    "wikiDataId": "Q197789",
+    "type": "city",
+    "native": "枝江市",
+    "timezone": "Asia/Shanghai",
+    "population": 60169,
+    "population_year": null
   },
   {
     "id": 158164,
@@ -1797,7 +2542,12 @@
     "latitude": "30.42838350",
     "longitude": "111.75468680",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "枝江",
+    "timezone": "Asia/Shanghai",
+    "population": 60169,
+    "population_year": null
   },
   {
     "id": 20455,
@@ -1806,10 +2556,15 @@
     "state_code": "HB",
     "country_id": 45,
     "country_code": "CN",
-    "latitude": "31.16611000",
-    "longitude": "112.58306000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "31.16899000",
+    "longitude": "112.58534000",
+    "county_id": 12582,
+    "wikiDataId": "Q197919",
+    "type": "city",
+    "native": "钟祥市",
+    "timezone": "Asia/Shanghai",
+    "population": 108883,
+    "population_year": null
   },
   {
     "id": 158180,
@@ -1821,7 +2576,12 @@
     "latitude": "31.17023220",
     "longitude": "112.58233310",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q197919",
+    "type": "city",
+    "native": "钟祥市",
+    "timezone": "Asia/Shanghai",
+    "population": 108883,
+    "population_year": null
   },
   {
     "id": 158148,
@@ -1833,7 +2593,12 @@
     "latitude": "32.31646620",
     "longitude": "110.15637910",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "竹山",
+    "timezone": "Asia/Shanghai",
+    "population": 383453,
+    "population_year": null
   },
   {
     "id": 158149,
@@ -1845,7 +2610,12 @@
     "latitude": "32.32047830",
     "longitude": "109.71038150",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q198256",
+    "type": "county",
+    "native": "竹溪",
+    "timezone": "Asia/Shanghai",
+    "population": 283578,
+    "population_year": null
   },
   {
     "id": 158159,
@@ -1857,6 +2627,11 @@
     "latitude": "30.82759250",
     "longitude": "110.97252640",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "county",
+    "native": "秭归",
+    "timezone": "Asia/Shanghai",
+    "population": 299642,
+    "population_year": null
   }
 ]

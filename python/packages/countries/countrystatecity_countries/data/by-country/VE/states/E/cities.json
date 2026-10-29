@@ -9,7 +9,12 @@
     "latitude": "8.59310000",
     "longitude": "-70.22610000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Alto Barinas",
+    "timezone": "America/Caracas",
+    "population": 284289,
+    "population_year": null
   },
   {
     "id": 165799,
@@ -21,7 +26,12 @@
     "latitude": "8.47974000",
     "longitude": "-68.36996000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2861319",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Caracas",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130045,
@@ -33,7 +43,12 @@
     "latitude": "8.62261000",
     "longitude": "-70.20749000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q695623",
+    "type": "adm1",
+    "native": "Barinas",
+    "timezone": "America/Caracas",
+    "population": 873962,
+    "population_year": null
   },
   {
     "id": 130046,
@@ -45,7 +60,12 @@
     "latitude": "8.76171000",
     "longitude": "-70.41199000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2884528",
+    "type": "adm2",
+    "native": "Barinita",
+    "timezone": "America/Caracas",
+    "population": 51556,
+    "population_year": null
   },
   {
     "id": 165768,
@@ -57,7 +77,12 @@
     "latitude": "8.76962000",
     "longitude": "-70.11086000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q599527",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Caracas",
+    "population": 24354,
+    "population_year": null
   },
   {
     "id": 165739,
@@ -69,7 +94,12 @@
     "latitude": "8.35304000",
     "longitude": "-70.57121000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2974855",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Caracas",
+    "population": 52476,
+    "population_year": null
   },
   {
     "id": 130111,
@@ -81,7 +111,12 @@
     "latitude": "8.61497000",
     "longitude": "-70.19852000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2884525",
+    "type": "adm1",
+    "native": "Municipio Barinas",
+    "timezone": "America/Caracas",
+    "population": 353851,
+    "population_year": null
   },
   {
     "id": 165747,
@@ -93,7 +128,12 @@
     "latitude": "8.75234000",
     "longitude": "-69.93351000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q728412",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Caracas",
+    "population": 39493,
+    "population_year": null
   },
   {
     "id": 165742,
@@ -105,7 +145,12 @@
     "latitude": "7.81348000",
     "longitude": "-71.17788000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3472573",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Caracas",
+    "population": 45808,
+    "population_year": null
   },
   {
     "id": 165732,
@@ -117,6 +162,11 @@
     "latitude": "8.23062000",
     "longitude": "-70.82198000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q986288",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Caracas",
+    "population": 72352,
+    "population_year": null
   }
 ]

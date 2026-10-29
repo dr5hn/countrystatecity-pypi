@@ -9,7 +9,12 @@
     "latitude": "-4.63983000",
     "longitude": "-79.71491000",
     "county_id": 8326,
-    "wikiDataId": null
+    "wikiDataId": "Q792713",
+    "type": "municipality",
+    "native": "Ayabaca",
+    "timezone": "America/Lima",
+    "population": 5985,
+    "population_year": null
   },
   {
     "id": 80577,
@@ -21,7 +26,12 @@
     "latitude": "-5.45000000",
     "longitude": "-80.75000000",
     "county_id": 8332,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bernal",
+    "timezone": "America/Lima",
+    "population": 6855,
+    "population_year": null
   },
   {
     "id": 80578,
@@ -33,7 +43,12 @@
     "latitude": "-5.26083000",
     "longitude": "-79.96417000",
     "county_id": 8328,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Buenos Aires",
+    "timezone": "America/Lima",
+    "population": 7932,
+    "population_year": null
   },
   {
     "id": 80596,
@@ -45,7 +60,12 @@
     "latitude": "-5.26667000",
     "longitude": "-80.68333000",
     "county_id": 8325,
-    "wikiDataId": null
+    "wikiDataId": "Q3312424",
+    "type": "municipality",
+    "native": "Catacaos",
+    "timezone": "America/Lima",
+    "population": 57304,
+    "population_year": null
   },
   {
     "id": 80624,
@@ -57,7 +77,12 @@
     "latitude": "-5.09250000",
     "longitude": "-80.16250000",
     "county_id": 8328,
-    "wikiDataId": null
+    "wikiDataId": "Q1089449",
+    "type": "municipality",
+    "native": "Chulucanas",
+    "timezone": "America/Lima",
+    "population": 68835,
+    "population_year": null
   },
   {
     "id": 80638,
@@ -69,7 +94,12 @@
     "latitude": "-4.26851000",
     "longitude": "-81.21719000",
     "county_id": 8331,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "El Alto",
+    "timezone": "America/Lima",
+    "population": 9303,
+    "population_year": null
   },
   {
     "id": 80650,
@@ -81,7 +111,12 @@
     "latitude": "-5.23861000",
     "longitude": "-79.45056000",
     "county_id": 8327,
-    "wikiDataId": null
+    "wikiDataId": "Q2307821",
+    "type": "municipality",
+    "native": "Huancabamba",
+    "timezone": "America/Lima",
+    "population": 8553,
+    "population_year": null
   },
   {
     "id": 80686,
@@ -93,7 +128,12 @@
     "latitude": "-4.25691000",
     "longitude": "-80.88599000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2640092",
+    "type": "city",
+    "native": "La Breita",
+    "timezone": "America/Lima",
+    "population": 17693,
+    "population_year": null
   },
   {
     "id": 80687,
@@ -105,7 +145,12 @@
     "latitude": "-4.91167000",
     "longitude": "-80.96000000",
     "county_id": 8329,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "La Huaca",
+    "timezone": "America/Lima",
+    "population": 8468,
+    "population_year": null
   },
   {
     "id": 80691,
@@ -117,7 +162,12 @@
     "latitude": "-5.40232000",
     "longitude": "-80.74224000",
     "county_id": 8325,
-    "wikiDataId": null
+    "wikiDataId": "Q595441",
+    "type": "municipality",
+    "native": "La Unión",
+    "timezone": "America/Lima",
+    "population": 34834,
+    "population_year": null
   },
   {
     "id": 80698,
@@ -129,7 +179,12 @@
     "latitude": "-4.65333000",
     "longitude": "-80.24667000",
     "county_id": 8325,
-    "wikiDataId": null
+    "wikiDataId": "Q3826737",
+    "type": "municipality",
+    "native": "Las Lomas",
+    "timezone": "America/Lima",
+    "population": 9450,
+    "population_year": null
   },
   {
     "id": 80727,
@@ -141,7 +196,12 @@
     "latitude": "-4.10778000",
     "longitude": "-81.04750000",
     "county_id": 8331,
-    "wikiDataId": null
+    "wikiDataId": "Q529807",
+    "type": "municipality",
+    "native": "Máncora",
+    "timezone": "America/Lima",
+    "population": 10547,
+    "population_year": null
   },
   {
     "id": 80711,
@@ -153,7 +213,12 @@
     "latitude": "-4.87778000",
     "longitude": "-80.70528000",
     "county_id": 8330,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Marcavelica",
+    "timezone": "America/Lima",
+    "population": 29569,
+    "population_year": null
   },
   {
     "id": 80721,
@@ -165,7 +230,12 @@
     "latitude": "-5.25000000",
     "longitude": "-80.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q384980",
+    "type": "city",
+    "native": "Morrópono",
+    "timezone": "America/Lima",
+    "population": 786,
+    "population_year": null
   },
   {
     "id": 80746,
@@ -177,10 +247,15 @@
     "latitude": "-5.08917000",
     "longitude": "-81.11444000",
     "county_id": 8329,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Paita",
+    "timezone": "America/Lima",
+    "population": 56151,
+    "population_year": null
   },
   {
-    "id": 80870,
+    "id": 166898,
     "name": "Paita",
     "state_id": 3697,
     "state_code": "PIU",
@@ -189,7 +264,12 @@
     "latitude": "-5.10189000",
     "longitude": "-81.09695000",
     "county_id": 8329,
-    "wikiDataId": null
+    "wikiDataId": "Q1026270",
+    "type": "city",
+    "native": "Paita",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80765,
@@ -201,10 +281,15 @@
     "latitude": "-5.19449000",
     "longitude": "-80.63282000",
     "county_id": 8325,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Piura",
+    "timezone": "America/Lima",
+    "population": 473025,
+    "population_year": null
   },
   {
-    "id": 80879,
+    "id": 166902,
     "name": "Piura",
     "state_id": 3697,
     "state_code": "PIU",
@@ -213,7 +298,12 @@
     "latitude": "-5.19416667",
     "longitude": "-80.62888889",
     "county_id": 8325,
-    "wikiDataId": null
+    "wikiDataId": "Q223966",
+    "type": "city",
+    "native": "Piura",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80778,
@@ -225,7 +315,12 @@
     "latitude": "-4.75000000",
     "longitude": "-79.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1367672",
+    "type": "province",
+    "native": "Provincia de Ayabaca",
+    "timezone": "America/Lima",
+    "population": 119287,
+    "population_year": null
   },
   {
     "id": 80831,
@@ -237,7 +332,12 @@
     "latitude": "-5.50000000",
     "longitude": "-79.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1422619",
+    "type": "province",
+    "native": "Provincia de Huancabamba",
+    "timezone": "America/Lima",
+    "population": 111501,
+    "population_year": null
   },
   {
     "id": 80927,
@@ -249,7 +349,12 @@
     "latitude": "-4.83778000",
     "longitude": "-80.64556000",
     "county_id": 8330,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Querecotillo",
+    "timezone": "America/Lima",
+    "population": 26395,
+    "population_year": null
   },
   {
     "id": 80937,
@@ -261,7 +366,12 @@
     "latitude": "-5.03333000",
     "longitude": "-81.06667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Salinera Colán",
+    "timezone": "America/Lima",
+    "population": 14210,
+    "population_year": null
   },
   {
     "id": 80938,
@@ -273,7 +383,12 @@
     "latitude": "-4.85722000",
     "longitude": "-80.68111000",
     "county_id": 8330,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Salitral",
+    "timezone": "America/Lima",
+    "population": 5385,
+    "population_year": null
   },
   {
     "id": 80973,
@@ -285,19 +400,12 @@
     "latitude": "-5.55694000",
     "longitude": "-80.82222000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 80896,
-    "name": "Sullana",
-    "state_id": 3697,
-    "state_code": "PIU",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-4.90444444",
-    "longitude": "-80.70472222",
-    "county_id": 8330,
-    "wikiDataId": null
+    "wikiDataId": "Q3236446",
+    "type": "adm3",
+    "native": "Sechura",
+    "timezone": "America/Lima",
+    "population": 23020,
+    "population_year": null
   },
   {
     "id": 80979,
@@ -309,7 +417,29 @@
     "latitude": "-4.90389000",
     "longitude": "-80.68528000",
     "county_id": 8330,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Sullana",
+    "timezone": "America/Lima",
+    "population": 162434,
+    "population_year": null
+  },
+  {
+    "id": 166909,
+    "name": "Sullana",
+    "state_id": 3697,
+    "state_code": "PIU",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-4.90388889",
+    "longitude": "-80.68527778",
+    "county_id": 8330,
+    "wikiDataId": "Q510413",
+    "type": "city",
+    "native": "Sullana",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80983,
@@ -321,7 +451,12 @@
     "latitude": "-4.57722000",
     "longitude": "-81.27194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q723584",
+    "type": "adm3",
+    "native": "Talara",
+    "timezone": "America/Lima",
+    "population": 99600,
+    "population_year": null
   },
   {
     "id": 80986,
@@ -333,7 +468,12 @@
     "latitude": "-4.92694000",
     "longitude": "-80.34472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Tambo Grande",
+    "timezone": "America/Lima",
+    "population": 30033,
+    "population_year": null
   },
   {
     "id": 81007,
@@ -345,6 +485,11 @@
     "latitude": "-5.41667000",
     "longitude": "-80.78333000",
     "county_id": 8332,
-    "wikiDataId": null
+    "wikiDataId": "Q6318710",
+    "type": "municipality",
+    "native": "Vice",
+    "timezone": "America/Lima",
+    "population": 15630,
+    "population_year": null
   }
 ]

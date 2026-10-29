@@ -9,7 +9,12 @@
     "latitude": "32.70896000",
     "longitude": "36.56951000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q311099",
+    "type": "adm1",
+    "native": "السويداء",
+    "timezone": "Asia/Damascus",
+    "population": 59052,
+    "population_year": null
   },
   {
     "id": 104978,
@@ -21,7 +26,12 @@
     "latitude": "32.78127000",
     "longitude": "36.86502000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3266216",
+    "type": "district",
+    "native": "قضاء السويداء",
+    "timezone": "Asia/Damascus",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105069,
@@ -33,7 +43,12 @@
     "latitude": "32.87271000",
     "longitude": "36.57271000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "شالاخيد",
+    "timezone": "Asia/Damascus",
+    "population": 12842,
+    "population_year": null
   },
   {
     "id": 105068,
@@ -45,7 +60,12 @@
     "latitude": "32.49200000",
     "longitude": "36.71114000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24343",
+    "type": "adm2",
+    "native": "شالخاد",
+    "timezone": "Asia/Damascus",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 105043,
@@ -57,7 +77,12 @@
     "latitude": "32.51779000",
     "longitude": "36.91954000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3265272",
+    "type": "district",
+    "native": "منطقة سلخاد",
+    "timezone": "Asia/Damascus",
+    "population": 60375,
+    "population_year": null
   },
   {
     "id": 105049,
@@ -69,7 +94,12 @@
     "latitude": "32.85514000",
     "longitude": "36.62896000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q926336",
+    "type": "adm2",
+    "native": "شهبا",
+    "timezone": "Asia/Damascus",
+    "population": 14784,
+    "population_year": null
   },
   {
     "id": 105048,
@@ -81,6 +111,11 @@
     "latitude": "33.04282000",
     "longitude": "36.72034000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3265263",
+    "type": "district",
+    "native": "منطقة الشهباء",
+    "timezone": "Asia/Damascus",
+    "population": 71949,
+    "population_year": null
   }
 ]

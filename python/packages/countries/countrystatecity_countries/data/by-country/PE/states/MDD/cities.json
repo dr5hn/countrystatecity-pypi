@@ -9,7 +9,12 @@
     "latitude": "-11.35000000",
     "longitude": "-69.58333000",
     "county_id": 8318,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Iberia",
+    "timezone": "America/Lima",
+    "population": 5791,
+    "population_year": null
   },
   {
     "id": 80858,
@@ -21,7 +26,12 @@
     "latitude": "-12.25000000",
     "longitude": "-71.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2320717",
+    "type": "province",
+    "native": "Provincia de Manú",
+    "timezone": "America/Lima",
+    "population": 18549,
+    "population_year": null
   },
   {
     "id": 80898,
@@ -33,7 +43,12 @@
     "latitude": "-11.25000000",
     "longitude": "-70.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q945636",
+    "type": "province",
+    "native": "Provincia de Tahuamanú",
+    "timezone": "America/Lima",
+    "population": 11047,
+    "population_year": null
   },
   {
     "id": 80918,
@@ -45,7 +60,12 @@
     "latitude": "-12.59331000",
     "longitude": "-69.18913000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q541435",
+    "type": "adm1",
+    "native": "Puerto Maldonado",
+    "timezone": "America/Lima",
+    "population": 85024,
+    "population_year": null
   },
   {
     "id": 80939,
@@ -57,7 +77,12 @@
     "latitude": "-12.83605000",
     "longitude": "-71.36490000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3348291",
+    "type": "adm3",
+    "native": "Salvación",
+    "timezone": "America/Lima",
+    "population": 330,
+    "population_year": null
   },
   {
     "id": 80987,
@@ -69,6 +94,11 @@
     "latitude": "-12.67191000",
     "longitude": "-69.35547000",
     "county_id": 8316,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tambopata",
+    "timezone": "America/Lima",
+    "population": 38966,
+    "population_year": null
   }
 ]

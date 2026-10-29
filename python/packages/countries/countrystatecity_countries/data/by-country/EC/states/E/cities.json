@@ -9,7 +9,12 @@
     "latitude": "0.86903000",
     "longitude": "-79.84806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q753121",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 31505,
@@ -21,7 +26,12 @@
     "latitude": "0.95920000",
     "longitude": "-79.65397000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q149955",
+    "type": "adm1",
+    "native": "Esmeraldas",
+    "timezone": "America/Guayaquil",
+    "population": 218727,
+    "population_year": null
   },
   {
     "id": 31531,
@@ -33,7 +43,12 @@
     "latitude": "0.61129000",
     "longitude": "-80.01863000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6933279",
+    "type": "adm2",
+    "native": "Muisne",
+    "timezone": "America/Guayaquil",
+    "population": 13393,
+    "population_year": null
   },
   {
     "id": 31541,
@@ -45,7 +60,12 @@
     "latitude": "1.35251000",
     "longitude": "-78.89360000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Pampanal de Bolívar",
+    "timezone": "America/Guayaquil",
+    "population": 1118,
+    "population_year": null
   },
   {
     "id": 31561,
@@ -57,7 +77,12 @@
     "latitude": "1.06235000",
     "longitude": "-79.39939000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Río Verde",
+    "timezone": "America/Guayaquil",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 31564,
@@ -69,7 +94,12 @@
     "latitude": "0.32779000",
     "longitude": "-79.47407000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Rosa Zarate",
+    "timezone": "America/Guayaquil",
+    "population": 42121,
+    "population_year": null
   },
   {
     "id": 31568,
@@ -81,7 +111,12 @@
     "latitude": "1.28626000",
     "longitude": "-78.83514000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7414682",
+    "type": "city",
+    "native": "San Lorenzo de Esmeraldas",
+    "timezone": "America/Guayaquil",
+    "population": 20209,
+    "population_year": null
   },
   {
     "id": 31585,
@@ -93,6 +128,11 @@
     "latitude": "1.24917000",
     "longitude": "-78.98306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7909405",
+    "type": "city",
+    "native": "Valdez",
+    "timezone": "America/Guayaquil",
+    "population": 11441,
+    "population_year": null
   }
 ]

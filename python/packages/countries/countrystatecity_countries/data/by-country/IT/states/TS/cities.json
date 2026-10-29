@@ -9,7 +9,12 @@
     "latitude": "45.74968000",
     "longitude": "13.67345000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2256594",
+    "type": "locality",
+    "native": "Aurisina",
+    "timezone": "Europe/Rome",
+    "population": 2202,
+    "population_year": null
   },
   {
     "id": 138284,
@@ -21,7 +26,12 @@
     "latitude": "45.60080000",
     "longitude": "13.85929000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18449379",
+    "type": "adm3",
+    "native": "Dolina",
+    "timezone": "Europe/Rome",
+    "population": 1892,
+    "population_year": null
   },
   {
     "id": 138291,
@@ -33,7 +43,12 @@
     "latitude": "45.61049000",
     "longitude": "13.83103000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18449382",
+    "type": "city",
+    "native": "Domio",
+    "timezone": "Europe/Rome",
+    "population": 1860,
+    "population_year": null
   },
   {
     "id": 138341,
@@ -45,7 +60,12 @@
     "latitude": "45.77342000",
     "longitude": "13.60436000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2477512",
+    "type": "locality",
+    "native": "Duino",
+    "timezone": "Europe/Rome",
+    "population": 1369,
+    "population_year": null
   },
   {
     "id": 140677,
@@ -57,7 +77,12 @@
     "latitude": "45.60419000",
     "longitude": "13.76754000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16937",
+    "type": "municipality",
+    "native": "Muggia",
+    "timezone": "Europe/Rome",
+    "population": 12627,
+    "population_year": 2026
   },
   {
     "id": 59092,
@@ -69,7 +94,12 @@
     "latitude": "45.70807000",
     "longitude": "13.73376000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Prosecco-Contovello",
+    "timezone": "Europe/Rome",
+    "population": 1994,
+    "population_year": null
   },
   {
     "id": 60425,
@@ -81,7 +111,12 @@
     "latitude": "45.73472000",
     "longitude": "13.69278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3948975",
+    "type": "city",
+    "native": "Santa Croce",
+    "timezone": "Europe/Rome",
+    "population": 1248,
+    "population_year": null
   },
   {
     "id": 60831,
@@ -93,7 +128,12 @@
     "latitude": "45.73583000",
     "longitude": "13.74708000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16939",
+    "type": "municipality",
+    "native": "Sgonico",
+    "timezone": "Europe/Rome",
+    "population": 1948,
+    "population_year": 2026
   },
   {
     "id": 60881,
@@ -105,7 +145,12 @@
     "latitude": "45.77237000",
     "longitude": "13.63824000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Sistiana-Visogliano",
+    "timezone": "Europe/Rome",
+    "population": 2996,
+    "population_year": null
   },
   {
     "id": 61524,
@@ -117,7 +162,12 @@
     "latitude": "45.64953000",
     "longitude": "13.77678000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q546",
+    "type": "municipality",
+    "native": "Trieste",
+    "timezone": "Europe/Rome",
+    "population": 198622,
+    "population_year": 2026
   },
   {
     "id": 62007,
@@ -129,7 +179,12 @@
     "latitude": "45.68780000",
     "longitude": "13.78861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q425566",
+    "type": "locality",
+    "native": "Villa Opicina",
+    "timezone": "Europe/Rome",
+    "population": 8009,
+    "population_year": null
   },
   {
     "id": 62268,
@@ -141,6 +196,11 @@
     "latitude": "45.71698000",
     "longitude": "13.81038000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18449615",
+    "type": "adm3",
+    "native": "Zolla",
+    "timezone": "Europe/Rome",
+    "population": 68,
+    "population_year": null
   }
 ]

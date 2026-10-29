@@ -9,7 +9,12 @@
     "latitude": "50.83619000",
     "longitude": "4.31454000",
     "county_id": 8133,
-    "wikiDataId": null
+    "wikiDataId": "Q12886",
+    "type": "municipality",
+    "native": null,
+    "timezone": "Europe/Brussels",
+    "population": 129600,
+    "population_year": 2026
   },
   {
     "id": 8693,
@@ -21,6 +26,11 @@
     "latitude": "50.85045000",
     "longitude": "4.34878000",
     "county_id": 8133,
-    "wikiDataId": null
+    "wikiDataId": "Q239",
+    "type": "city",
+    "native": "Brussel",
+    "timezone": "Europe/Brussels",
+    "population": 198674,
+    "population_year": 2026
   }
 ]

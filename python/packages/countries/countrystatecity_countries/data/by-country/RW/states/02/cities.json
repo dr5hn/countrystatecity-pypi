@@ -9,7 +9,12 @@
     "latitude": "-1.95090000",
     "longitude": "30.52050000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3566641",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Kigali",
+    "population": 27059,
+    "population_year": null
   },
   {
     "id": 102798,
@@ -21,7 +26,12 @@
     "latitude": "-2.15970000",
     "longitude": "30.54270000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q992776",
+    "type": "city",
+    "native": "Kibungo",
+    "timezone": "Africa/Kigali",
+    "population": 46240,
+    "population_year": null
   },
   {
     "id": 165522,
@@ -33,7 +43,12 @@
     "latitude": "-2.20419000",
     "longitude": "30.14494000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2356928",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Kigali",
+    "population": 21509,
+    "population_year": null
   },
   {
     "id": 102803,
@@ -45,6 +60,11 @@
     "latitude": "-1.94870000",
     "longitude": "30.43470000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q246139",
+    "type": "adm1",
+    "native": "Rwamagana",
+    "timezone": "Africa/Kigali",
+    "population": 47203,
+    "population_year": null
   }
 ]

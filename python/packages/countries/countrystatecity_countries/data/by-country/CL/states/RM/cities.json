@@ -9,7 +9,12 @@
     "latitude": "-33.73257000",
     "longitude": "-70.74281000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3656",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Santiago",
+    "population": 63419,
+    "population_year": null
   },
   {
     "id": 148502,
@@ -21,7 +26,12 @@
     "latitude": "-33.20000000",
     "longitude": "-70.68333333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3841",
+    "type": "adm2",
+    "native": "Colina",
+    "timezone": "America/Santiago",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 164569,
@@ -32,8 +42,13 @@
     "country_code": "CL",
     "latitude": "-33.67969000",
     "longitude": "-70.98482000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13845,
+    "wikiDataId": "Q23645886",
+    "type": "municipality",
+    "native": null,
+    "timezone": "America/Santiago",
+    "population": 26459,
+    "population_year": null
   },
   {
     "id": 164565,
@@ -44,8 +59,13 @@
     "country_code": "CL",
     "latitude": "-33.28630000",
     "longitude": "-70.87561000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13842,
+    "wikiDataId": "Q23640196",
+    "type": "municipality",
+    "native": null,
+    "timezone": "America/Santiago",
+    "population": 102234,
+    "population_year": null
   },
   {
     "id": 19012,
@@ -57,7 +77,12 @@
     "latitude": "-33.68909000",
     "longitude": "-71.21528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q51032",
+    "type": "adm2",
+    "native": "Melipilla",
+    "timezone": "America/Santiago",
+    "population": 63100,
+    "population_year": null
   },
   {
     "id": 164567,
@@ -69,7 +94,12 @@
     "latitude": "-33.80796000",
     "longitude": "-70.74109000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q51070",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Santiago",
+    "population": 72759,
+    "population_year": null
   },
   {
     "id": 164566,
@@ -81,7 +111,12 @@
     "latitude": "-33.60627000",
     "longitude": "-70.87649000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q51098",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Santiago",
+    "population": 85671,
+    "population_year": null
   },
   {
     "id": 19081,
@@ -93,7 +128,12 @@
     "latitude": "-33.61169000",
     "longitude": "-70.57577000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q51594",
+    "type": "adm2",
+    "native": "Puente Alto",
+    "timezone": "America/Santiago",
+    "population": 573935,
+    "population_year": null
   },
   {
     "id": 19102,
@@ -105,7 +145,12 @@
     "latitude": "-33.59217000",
     "longitude": "-70.69960000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q56136",
+    "type": "adm2",
+    "native": "San Bernardo",
+    "timezone": "America/Santiago",
+    "population": 301313,
+    "population_year": null
   },
   {
     "id": 19111,
@@ -116,8 +161,13 @@
     "country_code": "CL",
     "latitude": "-33.45694000",
     "longitude": "-70.64827000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13840,
+    "wikiDataId": "Q2887",
+    "type": "municipality",
+    "native": "Santiago",
+    "timezone": "America/Santiago",
+    "population": 4837295,
+    "population_year": null
   },
   {
     "id": 19112,
@@ -129,6 +179,11 @@
     "latitude": "-33.66386000",
     "longitude": "-70.92734000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q188038",
+    "type": "adm2",
+    "native": "Talagante",
+    "timezone": "America/Santiago",
+    "population": 51764,
+    "population_year": null
   }
 ]

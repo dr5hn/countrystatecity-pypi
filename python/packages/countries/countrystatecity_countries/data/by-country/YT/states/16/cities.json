@@ -9,7 +9,12 @@
     "latitude": "-12.70440000",
     "longitude": "45.12231000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "population": 7880,
+    "population_year": null
   },
   {
     "id": 160329,
@@ -21,7 +26,12 @@
     "latitude": "-12.73462000",
     "longitude": "45.13914000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "population": 1948,
+    "population_year": null
   },
   {
     "id": 160333,
@@ -33,7 +43,12 @@
     "latitude": "-12.71667000",
     "longitude": "45.11667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "population": 6075,
+    "population_year": null
   },
   {
     "id": 160332,
@@ -45,7 +60,12 @@
     "latitude": "-12.68112000",
     "longitude": "45.09965000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "population": 1829,
+    "population_year": null
   },
   {
     "id": 160331,
@@ -57,6 +77,11 @@
     "latitude": "-12.69033000",
     "longitude": "45.10926000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "population": 1304,
+    "population_year": null
   }
 ]

@@ -9,7 +9,29 @@
     "latitude": "25.46230000",
     "longitude": "89.93325000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4748075",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 167593,
+    "name": "Baghmara",
+    "state_id": 4006,
+    "state_code": "ML",
+    "country_id": 101,
+    "country_code": "IN",
+    "latitude": "25.19349167",
+    "longitude": "90.63463056",
+    "county_id": 10874,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "बाघमारा",
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 131520,
@@ -21,43 +43,12 @@
     "latitude": "25.30089000",
     "longitude": "91.69619000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 131824,
-    "name": "East Garo Hills",
-    "state_id": 4006,
-    "state_code": "ML",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "25.61372000",
-    "longitude": "90.62426000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 131825,
-    "name": "East Jaintia Hills",
-    "state_id": 4006,
-    "state_code": "ML",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "25.35976000",
-    "longitude": "92.36680000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 131827,
-    "name": "East Khasi Hills",
-    "state_id": 4006,
-    "state_code": "ML",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "25.38050000",
-    "longitude": "91.78905000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q211030",
+    "type": "city",
+    "native": "चेरापूंजी",
+    "timezone": "Asia/Kolkata",
+    "population": 11722,
+    "population_year": null
   },
   {
     "id": 164926,
@@ -69,7 +60,12 @@
     "latitude": "25.43596000",
     "longitude": "92.19132000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2070576",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 28430,
+    "population_year": null
   },
   {
     "id": 165081,
@@ -81,7 +77,12 @@
     "latitude": "25.35776000",
     "longitude": "92.36643000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16895297",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 132858,
@@ -93,7 +94,12 @@
     "latitude": "25.56165000",
     "longitude": "91.63602000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2606858",
+    "type": "city",
+    "native": "मैरांग",
+    "timezone": "Asia/Kolkata",
+    "population": 14363,
+    "population_year": null
   },
   {
     "id": 133232,
@@ -105,7 +111,12 @@
     "latitude": "25.90230000",
     "longitude": "91.87694000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2483960",
+    "type": "city",
+    "native": "नोंगपोह",
+    "timezone": "Asia/Kolkata",
+    "population": 17055,
+    "population_year": null
   },
   {
     "id": 133233,
@@ -117,7 +128,12 @@
     "latitude": "25.51704000",
     "longitude": "91.26484000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2341832",
+    "type": "city",
+    "native": "नोंगस्टोइन",
+    "timezone": "Asia/Kolkata",
+    "population": 28742,
+    "population_year": null
   },
   {
     "id": 164893,
@@ -129,19 +145,12 @@
     "latitude": "25.56370000",
     "longitude": "91.90640000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 133237,
-    "name": "North Garo Hills",
-    "state_id": 4006,
-    "state_code": "ML",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "25.89682000",
-    "longitude": "90.61602000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2454723",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 38004,
+    "population_year": null
   },
   {
     "id": 165009,
@@ -153,7 +162,12 @@
     "latitude": "25.90404000",
     "longitude": "90.60747000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2564095",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 19595,
+    "population_year": null
   },
   {
     "id": 133636,
@@ -165,7 +179,12 @@
     "latitude": "25.88997000",
     "longitude": "91.82707000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1884672",
+    "type": "area",
+    "native": "री-भोई",
+    "timezone": "Asia/Kolkata",
+    "population": 258840,
+    "population_year": null
   },
   {
     "id": 133870,
@@ -177,19 +196,12 @@
     "latitude": "25.56892000",
     "longitude": "91.88313000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 134009,
-    "name": "South Garo Hills",
-    "state_id": 4006,
-    "state_code": "ML",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "25.30162000",
-    "longitude": "90.58530000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q207752",
+    "type": "adm1",
+    "native": "शिलांग",
+    "timezone": "Asia/Kolkata",
+    "population": 143229,
+    "population_year": null
   },
   {
     "id": 134013,
@@ -201,7 +213,12 @@
     "latitude": "25.47245000",
     "longitude": "89.93399000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15961576",
+    "type": "area",
+    "native": "दक्षिण पश्चिम गारो हिल्स",
+    "timezone": "Asia/Kolkata",
+    "population": 172495,
+    "population_year": null
   },
   {
     "id": 134014,
@@ -213,7 +230,12 @@
     "latitude": "25.32155000",
     "longitude": "91.29462000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15923741",
+    "type": "area",
+    "native": "दक्षिण पश्चिम खासी हिल्स",
+    "timezone": "Asia/Kolkata",
+    "population": 110152,
+    "population_year": null
   },
   {
     "id": 134223,
@@ -225,7 +247,12 @@
     "latitude": "25.51421000",
     "longitude": "90.20239000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2317186",
+    "type": "city",
+    "native": "तुरा",
+    "timezone": "Asia/Kolkata",
+    "population": 74858,
+    "population_year": null
   },
   {
     "id": 134406,
@@ -237,31 +264,12 @@
     "latitude": "25.56794000",
     "longitude": "90.22447000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 134408,
-    "name": "West Jaintia Hills",
-    "state_id": 4006,
-    "state_code": "ML",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "25.50000000",
-    "longitude": "92.25000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 134410,
-    "name": "West Khasi Hills",
-    "state_id": 4006,
-    "state_code": "ML",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "25.54776000",
-    "longitude": "91.26957000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2329181",
+    "type": "area",
+    "native": "पश्चिम गारो हिल्स",
+    "timezone": "Asia/Kolkata",
+    "population": 643291,
+    "population_year": null
   },
   {
     "id": 164957,
@@ -273,6 +281,11 @@
     "latitude": "25.49550000",
     "longitude": "90.61680000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2484012",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 24597,
+    "population_year": null
   }
 ]

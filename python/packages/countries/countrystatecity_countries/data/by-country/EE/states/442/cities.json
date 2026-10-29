@@ -9,7 +9,29 @@
     "latitude": "59.35306000",
     "longitude": "26.97111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q216119",
+    "type": "city",
+    "native": "Kiviõli",
+    "timezone": "Europe/Tallinn",
+    "population": 4792,
+    "population_year": null
+  },
+  {
+    "id": 31657,
+    "name": "Lüganuse vald",
+    "state_id": 5762,
+    "state_code": "442",
+    "country_id": 69,
+    "country_code": "EE",
+    "latitude": "59.39262000",
+    "longitude": "27.07641000",
+    "county_id": null,
+    "wikiDataId": "Q1010581",
+    "type": "city",
+    "native": "Lüganuse vald",
+    "timezone": "Europe/Tallinn",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 31687,
@@ -21,6 +43,11 @@
     "latitude": "59.36000000",
     "longitude": "27.04972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q172263",
+    "type": "city",
+    "native": "Püssi",
+    "timezone": "Europe/Tallinn",
+    "population": 859,
+    "population_year": null
   }
 ]

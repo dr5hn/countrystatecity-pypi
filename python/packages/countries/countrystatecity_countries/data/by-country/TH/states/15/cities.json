@@ -9,7 +9,12 @@
     "latitude": "14.58839000",
     "longitude": "100.45283000",
     "county_id": 5462,
-    "wikiDataId": null
+    "wikiDataId": "Q530241",
+    "type": "city",
+    "native": "อ่างทอง",
+    "timezone": "Asia/Bangkok",
+    "population": 13277,
+    "population_year": null
   },
   {
     "id": 106419,
@@ -21,7 +26,12 @@
     "latitude": "14.62161000",
     "longitude": "100.48739000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "บ้านไทยตัน",
+    "timezone": "Asia/Bangkok",
+    "population": 14430,
+    "population_year": null
   },
   {
     "id": 106466,
@@ -33,10 +43,15 @@
     "latitude": "14.67639000",
     "longitude": "100.46861000",
     "county_id": 5463,
-    "wikiDataId": null
+    "wikiDataId": "Q28721669",
+    "type": "town",
+    "native": "ไชโย",
+    "timezone": "Asia/Bangkok",
+    "population": 13255,
+    "population_year": null
   },
   {
-    "id": 105695,
+    "id": 167130,
     "name": "Pa Mok",
     "state_id": 3519,
     "state_code": "15",
@@ -45,7 +60,12 @@
     "latitude": "14.49210000",
     "longitude": "100.44480000",
     "county_id": 5464,
-    "wikiDataId": null
+    "wikiDataId": "Q15980673",
+    "type": "town",
+    "native": "ป่าโมก",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106638,
@@ -56,11 +76,16 @@
     "country_code": "TH",
     "latitude": "14.66731000",
     "longitude": "100.40878000",
-    "county_id": 5465,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q28721858",
+    "type": "adm2",
+    "native": "โพธิ์ทอง",
+    "timezone": "Asia/Bangkok",
+    "population": 12200,
+    "population_year": null
   },
   {
-    "id": 106199,
+    "id": 167199,
     "name": "Sawaeng Ha",
     "state_id": 3519,
     "state_code": "15",
@@ -69,7 +94,12 @@
     "latitude": "14.74635000",
     "longitude": "100.32666000",
     "county_id": 5466,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "แสวงหา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106754,
@@ -80,7 +110,12 @@
     "country_code": "TH",
     "latitude": "14.59450000",
     "longitude": "100.33825000",
-    "county_id": 5467,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q28722068",
+    "type": "adm2",
+    "native": "วิเศษไชยชาญ",
+    "timezone": "Asia/Bangkok",
+    "population": 19129,
+    "population_year": null
   }
 ]

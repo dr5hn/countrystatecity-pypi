@@ -9,7 +9,12 @@
     "latitude": "19.31102000",
     "longitude": "-69.54280000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1806486",
+    "type": "city",
+    "native": "Las Terrenas",
+    "timezone": "America/Santo_Domingo",
+    "population": 7713,
+    "population_year": null
   },
   {
     "id": 31181,
@@ -21,7 +26,12 @@
     "latitude": "19.20561000",
     "longitude": "-69.33685000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q579950",
+    "type": "adm1",
+    "native": "Samaná",
+    "timezone": "America/Santo_Domingo",
+    "population": 11432,
+    "population_year": null
   },
   {
     "id": 31202,
@@ -33,6 +43,11 @@
     "latitude": "19.22810000",
     "longitude": "-69.61370000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23761049",
+    "type": "city",
+    "native": "Sánchez",
+    "timezone": "America/Santo_Domingo",
+    "population": 11365,
+    "population_year": null
   }
 ]

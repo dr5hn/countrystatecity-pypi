@@ -9,7 +9,12 @@
     "latitude": "52.04272000",
     "longitude": "-2.74169000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Belmont",
+    "timezone": "Europe/London",
+    "population": 3382,
+    "population_year": null
   },
   {
     "id": 48722,
@@ -21,7 +26,12 @@
     "latitude": "52.19019000",
     "longitude": "-2.50875000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2277559",
+    "type": "city",
+    "native": "Bromyard",
+    "timezone": "Europe/London",
+    "population": 4117,
+    "population_year": null
   },
   {
     "id": 49150,
@@ -33,7 +43,12 @@
     "latitude": "52.08351000",
     "longitude": "-2.80804000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q372195",
+    "type": "village",
+    "native": "Credenhill",
+    "timezone": "Europe/London",
+    "population": 2271,
+    "population_year": null
   },
   {
     "id": 49313,
@@ -45,7 +60,12 @@
     "latitude": "52.06667000",
     "longitude": "-3.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2613273",
+    "type": "village",
+    "native": "Dorstone",
+    "timezone": "Europe/London",
+    "population": 386,
+    "population_year": null
   },
   {
     "id": 49502,
@@ -57,7 +77,12 @@
     "latitude": "51.95358000",
     "longitude": "-2.89325000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3399541",
+    "type": "village",
+    "native": "Ewyas Harold",
+    "timezone": "Europe/London",
+    "population": 887,
+    "population_year": null
   },
   {
     "id": 49908,
@@ -69,7 +94,12 @@
     "latitude": "52.05684000",
     "longitude": "-2.71482000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q204720",
+    "type": "city",
+    "native": "Hereford",
+    "timezone": "Europe/London",
+    "population": 53113,
+    "population_year": null
   },
   {
     "id": 50174,
@@ -81,7 +111,12 @@
     "latitude": "52.24911000",
     "longitude": "-2.81542000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3784597",
+    "type": "village",
+    "native": "Kingsland",
+    "timezone": "Europe/London",
+    "population": 474,
+    "population_year": null
   },
   {
     "id": 50267,
@@ -93,7 +128,12 @@
     "latitude": "52.03639000",
     "longitude": "-2.42635000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q665330",
+    "type": "adm3",
+    "native": "Ledbury",
+    "timezone": "Europe/London",
+    "population": 9111,
+    "population_year": null
   },
   {
     "id": 50282,
@@ -105,7 +145,12 @@
     "latitude": "52.22583000",
     "longitude": "-2.74491000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q550424",
+    "type": "town",
+    "native": "Leominster",
+    "timezone": "Europe/London",
+    "population": 11954,
+    "population_year": null
   },
   {
     "id": 50413,
@@ -117,7 +162,12 @@
     "latitude": "51.95000000",
     "longitude": "-2.98333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3399511",
+    "type": "village",
+    "native": "Longtown",
+    "timezone": "Europe/London",
+    "population": 2064,
+    "population_year": null
   },
   {
     "id": 50435,
@@ -129,7 +179,12 @@
     "latitude": "52.06583000",
     "longitude": "-2.65780000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3785240",
+    "type": "village",
+    "native": "Lugwardine",
+    "timezone": "Europe/London",
+    "population": 1833,
+    "population_year": null
   },
   {
     "id": 50814,
@@ -141,7 +196,12 @@
     "latitude": "52.30000000",
     "longitude": "-2.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3784305",
+    "type": "village",
+    "native": "Orleton",
+    "timezone": "Europe/London",
+    "population": 573,
+    "population_year": null
   },
   {
     "id": 51110,
@@ -153,7 +213,12 @@
     "latitude": "51.91667000",
     "longitude": "-2.56667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2057705",
+    "type": "town",
+    "native": "Ross on Wye",
+    "timezone": "Europe/London",
+    "population": 10582,
+    "population_year": null
   },
   {
     "id": 51804,
@@ -165,7 +230,12 @@
     "latitude": "52.15960000",
     "longitude": "-2.87500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1998959",
+    "type": "village",
+    "native": "Weobley",
+    "timezone": "Europe/London",
+    "population": 1274,
+    "population_year": null
   },
   {
     "id": 51899,
@@ -177,6 +247,11 @@
     "latitude": "52.31474000",
     "longitude": "-2.85802000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q608317",
+    "type": "village",
+    "native": "Wigmore",
+    "timezone": "Europe/London",
+    "population": 793,
+    "population_year": null
   }
 ]

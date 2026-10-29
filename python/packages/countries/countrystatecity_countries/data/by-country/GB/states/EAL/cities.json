@@ -9,7 +9,12 @@
     "latitude": "51.50901000",
     "longitude": "-0.27620000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q83609",
+    "type": "city",
+    "native": "Acton",
+    "timezone": "Europe/London",
+    "population": 53689,
+    "population_year": null
   },
   {
     "id": 48674,
@@ -21,7 +26,12 @@
     "latitude": "51.55306000",
     "longitude": "-0.30230000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Brent",
+    "timezone": "Europe/London",
+    "population": 329100,
+    "population_year": null
   },
   {
     "id": 49742,
@@ -33,7 +43,12 @@
     "latitude": "51.52866000",
     "longitude": "-0.35508000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q83475",
+    "type": "city",
+    "native": "Greenford",
+    "timezone": "Europe/London",
+    "population": 46787,
+    "population_year": null
   },
   {
     "id": 50778,
@@ -45,7 +60,12 @@
     "latitude": "51.54855000",
     "longitude": "-0.36778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q83399",
+    "type": "city",
+    "native": "Northolt",
+    "timezone": "Europe/London",
+    "population": 26000,
+    "population_year": null
   },
   {
     "id": 51369,
@@ -57,6 +77,11 @@
     "latitude": "51.50896000",
     "longitude": "-0.37130000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Southall",
+    "timezone": "Europe/London",
+    "population": 70000,
+    "population_year": null
   }
 ]

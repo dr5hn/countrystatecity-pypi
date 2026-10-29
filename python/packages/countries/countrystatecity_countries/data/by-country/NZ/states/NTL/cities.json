@@ -8,8 +8,13 @@
     "country_code": "NZ",
     "latitude": "-35.16667000",
     "longitude": "173.16667000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13743,
+    "wikiDataId": "Q400269",
+    "type": "town",
+    "native": "Ahipara",
+    "timezone": "Pacific/Auckland",
+    "population": 1390,
+    "population_year": null
   },
   {
     "id": 79789,
@@ -20,32 +25,30 @@
     "country_code": "NZ",
     "latitude": "-35.93333000",
     "longitude": "173.88333000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13745,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Dargaville",
+    "timezone": "Pacific/Auckland",
+    "population": 5130,
+    "population_year": null
   },
   {
-    "id": 79793,
-    "name": "Far North",
+    "id": 166863,
+    "name": "Kaikohe",
     "state_id": 4059,
     "state_code": "NTL",
     "country_id": 158,
     "country_code": "NZ",
-    "latitude": "-35.03359000",
-    "longitude": "173.48841000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 79806,
-    "name": "Kaipara",
-    "state_id": 4059,
-    "state_code": "NTL",
-    "country_id": 158,
-    "country_code": "NZ",
-    "latitude": "-35.99546000",
-    "longitude": "174.04688000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "-35.40750000",
+    "longitude": "173.79972222",
+    "county_id": 13743,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Kaikohe",
+    "timezone": "Pacific/Auckland",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 79807,
@@ -56,8 +59,13 @@
     "country_code": "NZ",
     "latitude": "-35.11485000",
     "longitude": "173.26366000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13743,
+    "wikiDataId": "Q257417",
+    "type": "town",
+    "native": "Kaitaia",
+    "timezone": "Pacific/Auckland",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 79810,
@@ -68,8 +76,13 @@
     "country_code": "NZ",
     "latitude": "-35.38333000",
     "longitude": "174.06667000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13743,
+    "wikiDataId": "Q1013579",
+    "type": "town",
+    "native": "Kawakawa",
+    "timezone": "Pacific/Auckland",
+    "population": 1610,
+    "population_year": null
   },
   {
     "id": 79813,
@@ -80,8 +93,13 @@
     "country_code": "NZ",
     "latitude": "-35.22676000",
     "longitude": "173.94739000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13743,
+    "wikiDataId": "Q1185949",
+    "type": "town",
+    "native": "Kerikeri",
+    "timezone": "Pacific/Auckland",
+    "population": 7850,
+    "population_year": null
   },
   {
     "id": 79828,
@@ -92,8 +110,13 @@
     "country_code": "NZ",
     "latitude": "-35.75000000",
     "longitude": "174.20000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13744,
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Maungatapere",
+    "timezone": "Pacific/Auckland",
+    "population": 1007,
+    "population_year": null
   },
   {
     "id": 163962,
@@ -104,8 +127,13 @@
     "country_code": "NZ",
     "latitude": "-36.12955650",
     "longitude": "174.34624500",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13745,
+    "wikiDataId": "Q3300200",
+    "type": "locality",
+    "native": "Maungaturoto",
+    "timezone": "Pacific/Auckland",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 79831,
@@ -116,8 +144,13 @@
     "country_code": "NZ",
     "latitude": "-35.38333000",
     "longitude": "174.03333000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13743,
+    "wikiDataId": "Q952307",
+    "type": "town",
+    "native": "Moerewa",
+    "timezone": "Pacific/Auckland",
+    "population": 1850,
+    "population_year": null
   },
   {
     "id": 79842,
@@ -128,8 +161,13 @@
     "country_code": "NZ",
     "latitude": "-35.61667000",
     "longitude": "174.50000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13744,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Ngunguru",
+    "timezone": "Pacific/Auckland",
+    "population": 1230,
+    "population_year": null
   },
   {
     "id": 79851,
@@ -140,8 +178,13 @@
     "country_code": "NZ",
     "latitude": "-35.28067000",
     "longitude": "174.09103000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13743,
+    "wikiDataId": "Q152017",
+    "type": "town",
+    "native": "Paihia",
+    "timezone": "Pacific/Auckland",
+    "population": 1660,
+    "population_year": null
   },
   {
     "id": 79876,
@@ -152,8 +195,13 @@
     "country_code": "NZ",
     "latitude": "-35.90818000",
     "longitude": "174.45019000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13744,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Ruakaka",
+    "timezone": "Pacific/Auckland",
+    "population": 2830,
+    "population_year": null
   },
   {
     "id": 79882,
@@ -164,8 +212,13 @@
     "country_code": "NZ",
     "latitude": "-34.99604000",
     "longitude": "173.46665000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13743,
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Taipa",
+    "timezone": "Pacific/Auckland",
+    "population": 1731,
+    "population_year": null
   },
   {
     "id": 79903,
@@ -177,7 +230,12 @@
     "latitude": "-35.31667000",
     "longitude": "173.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Waimate North",
+    "timezone": "Pacific/Auckland",
+    "population": 2799,
+    "population_year": null
   },
   {
     "id": 79921,
@@ -188,7 +246,12 @@
     "country_code": "NZ",
     "latitude": "-35.73167000",
     "longitude": "174.32391000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13744,
+    "wikiDataId": "Q744239",
+    "type": "city",
+    "native": "Whangarei",
+    "timezone": "Pacific/Auckland",
+    "population": 54400,
+    "population_year": null
   }
 ]

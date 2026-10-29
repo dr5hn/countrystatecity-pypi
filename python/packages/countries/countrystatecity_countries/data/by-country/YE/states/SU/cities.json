@@ -9,7 +9,12 @@
     "latitude": "12.64881000",
     "longitude": "54.01895000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1015916",
+    "type": "adm2",
+    "native": "حديبو",
+    "timezone": "Asia/Aden",
+    "population": 8545,
+    "population_year": null
   },
   {
     "id": 130865,
@@ -21,7 +26,12 @@
     "latitude": "12.50250000",
     "longitude": "54.00820000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5751685",
+    "type": "adm2",
+    "native": "هيدايبو",
+    "timezone": "Asia/Aden",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130940,
@@ -33,7 +43,12 @@
     "latitude": "12.68958000",
     "longitude": "53.48709000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12233488",
+    "type": "adm2",
+    "native": "قلنسية",
+    "timezone": "Asia/Aden",
+    "population": 3500,
+    "population_year": null
   },
   {
     "id": 130944,
@@ -45,6 +60,11 @@
     "latitude": "12.55479000",
     "longitude": "53.58671000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7272759",
+    "type": "district",
+    "native": "مديرية قلنسية وعبد الكوري",
+    "timezone": "Asia/Aden",
+    "population": 10109,
+    "population_year": null
   }
 ]

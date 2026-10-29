@@ -1,6 +1,6 @@
 [
   {
-    "id": 56512,
+    "id": 166742,
     "name": "Malinau",
     "state_id": 1824,
     "state_code": "KU",
@@ -9,10 +9,15 @@
     "latitude": "3.58902111",
     "longitude": "116.62289889",
     "county_id": 8730,
-    "wikiDataId": null
+    "wikiDataId": "Q20455246",
+    "type": "town",
+    "native": "Malinau",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56562,
+    "id": 166775,
     "name": "Nunukan",
     "state_id": 1824,
     "state_code": "KU",
@@ -21,7 +26,12 @@
     "latitude": "4.07678898",
     "longitude": "117.71891526",
     "county_id": 8731,
-    "wikiDataId": null
+    "wikiDataId": "Q26759516",
+    "type": "town",
+    "native": "Nunukan",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 57019,
@@ -33,7 +43,12 @@
     "latitude": "2.83750000",
     "longitude": "117.36528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10855339",
+    "type": "adm1",
+    "native": "Tanjung Selor",
+    "timezone": "Asia/Makassar",
+    "population": 56569,
+    "population_year": null
   },
   {
     "id": 57023,
@@ -45,10 +60,15 @@
     "latitude": "3.31332000",
     "longitude": "117.59152000",
     "county_id": 8733,
-    "wikiDataId": null
+    "wikiDataId": "Q14501",
+    "type": "city",
+    "native": "Tarakan",
+    "timezone": "Asia/Makassar",
+    "population": 201635,
+    "population_year": null
   },
   {
-    "id": 56661,
+    "id": 166830,
     "name": "Tideng Pale",
     "state_id": 1824,
     "state_code": "KU",
@@ -57,6 +77,11 @@
     "latitude": "3.60833333",
     "longitude": "116.90694444",
     "county_id": 8732,
-    "wikiDataId": null
+    "wikiDataId": "Q12521399",
+    "type": "village",
+    "native": "Tideng Pale",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   }
 ]

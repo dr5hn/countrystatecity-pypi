@@ -9,7 +9,12 @@
     "latitude": "-7.71444000",
     "longitude": "-79.10778000",
     "county_id": 8285,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Ascopio",
+    "timezone": "America/Lima",
+    "population": 14015,
+    "population_year": null
   },
   {
     "id": 80595,
@@ -21,19 +26,29 @@
     "latitude": "-7.48333000",
     "longitude": "-78.81667000",
     "county_id": 8294,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Cascas",
+    "timezone": "America/Lima",
+    "population": 4299,
+    "population_year": null
   },
   {
-    "id": 80643,
+    "id": 166869,
     "name": "Cascas",
     "state_id": 3683,
     "state_code": "LAL",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-7.48027778",
-    "longitude": "-78.81666667",
+    "latitude": "-7.47972222",
+    "longitude": "-78.81777778",
     "county_id": 8294,
-    "wikiDataId": null
+    "wikiDataId": "Q3344040",
+    "type": "city",
+    "native": "Cascas",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80609,
@@ -45,7 +60,12 @@
     "latitude": "-7.14367000",
     "longitude": "-79.45674000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1920599",
+    "type": "adm3",
+    "native": "Chepen",
+    "timezone": "America/Lima",
+    "population": 41992,
+    "population_year": null
   },
   {
     "id": 80611,
@@ -57,10 +77,15 @@
     "latitude": "-7.84472000",
     "longitude": "-79.14694000",
     "county_id": 8285,
-    "wikiDataId": null
+    "wikiDataId": "Q7258550",
+    "type": "municipality",
+    "native": "Chicama",
+    "timezone": "America/Lima",
+    "population": 14915,
+    "population_year": null
   },
   {
-    "id": 80620,
+    "id": 167875,
     "name": "Chocope",
     "state_id": 3683,
     "state_code": "LAL",
@@ -69,7 +94,12 @@
     "latitude": "-7.79139000",
     "longitude": "-79.22167000",
     "county_id": 8285,
-    "wikiDataId": null
+    "wikiDataId": "Q3031143",
+    "type": "municipality",
+    "native": "Chocope",
+    "timezone": "America/Lima",
+    "population": 32370,
+    "population_year": null
   },
   {
     "id": 80644,
@@ -81,7 +111,12 @@
     "latitude": "-7.25000000",
     "longitude": "-79.48333000",
     "county_id": 8290,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Guadalupo",
+    "timezone": "America/Lima",
+    "population": 25376,
+    "population_year": null
   },
   {
     "id": 80649,
@@ -93,19 +128,29 @@
     "latitude": "-7.80000000",
     "longitude": "-78.06667000",
     "county_id": 8292,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Huamachuco",
+    "timezone": "America/Lima",
+    "population": 21768,
+    "population_year": null
   },
   {
-    "id": 80959,
+    "id": 166916,
     "name": "Huamachuco",
     "state_id": 3683,
     "state_code": "LAL",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-7.81527778",
-    "longitude": "-78.05250000",
+    "latitude": "-7.81208333",
+    "longitude": "-78.04869444",
     "county_id": 8292,
-    "wikiDataId": null
+    "wikiDataId": "Q1632770",
+    "type": "city",
+    "native": "Huamachuco",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80682,
@@ -117,7 +162,12 @@
     "latitude": "-8.17238000",
     "longitude": "-78.46356000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1920491",
+    "type": "adm3",
+    "native": "Julcán",
+    "timezone": "America/Lima",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 80697,
@@ -129,7 +179,12 @@
     "latitude": "-8.08965000",
     "longitude": "-78.96020000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6488869",
+    "type": "adm3",
+    "native": "Lacedo",
+    "timezone": "America/Lima",
+    "population": 24691,
+    "population_year": null
   },
   {
     "id": 80715,
@@ -141,7 +196,12 @@
     "latitude": "-8.17111000",
     "longitude": "-79.00917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6887544",
+    "type": "adm3",
+    "native": "Moche",
+    "timezone": "America/Lima",
+    "population": 22581,
+    "population_year": null
   },
   {
     "id": 80736,
@@ -153,10 +213,15 @@
     "latitude": "-7.90000000",
     "longitude": "-78.58333000",
     "county_id": 8289,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Otuzco",
+    "timezone": "America/Lima",
+    "population": 10134,
+    "population_year": null
   },
   {
-    "id": 80866,
+    "id": 166897,
     "name": "Otuzco",
     "state_id": 3683,
     "state_code": "LAL",
@@ -165,7 +230,12 @@
     "latitude": "-7.90457000",
     "longitude": "-78.56362000",
     "county_id": 8289,
-    "wikiDataId": null
+    "wikiDataId": "Q3056421",
+    "type": "city",
+    "native": "Otuzco",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80741,
@@ -177,7 +247,12 @@
     "latitude": "-7.16667000",
     "longitude": "-79.50000000",
     "county_id": 8287,
-    "wikiDataId": null
+    "wikiDataId": "Q7121871",
+    "type": "municipality",
+    "native": "Pacanga",
+    "timezone": "America/Lima",
+    "population": 8750,
+    "population_year": null
   },
   {
     "id": 80742,
@@ -189,10 +264,15 @@
     "latitude": "-7.40056000",
     "longitude": "-79.57139000",
     "county_id": 8290,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Pacasmayo",
+    "timezone": "America/Lima",
+    "population": 29165,
+    "population_year": null
   },
   {
-    "id": 80745,
+    "id": 167881,
     "name": "Paiján",
     "state_id": 3683,
     "state_code": "LAL",
@@ -201,7 +281,12 @@
     "latitude": "-7.73291000",
     "longitude": "-79.30150000",
     "county_id": 8285,
-    "wikiDataId": null
+    "wikiDataId": "Q6318521",
+    "type": "municipality",
+    "native": "Paiján",
+    "timezone": "America/Lima",
+    "population": 21128,
+    "population_year": null
   },
   {
     "id": 80783,
@@ -213,7 +298,12 @@
     "latitude": "-7.33333000",
     "longitude": "-77.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q951816",
+    "type": "province",
+    "native": "Provincia de Bolívar",
+    "timezone": "America/Lima",
+    "population": 14457,
+    "population_year": null
   },
   {
     "id": 80868,
@@ -225,7 +315,12 @@
     "latitude": "-7.25000000",
     "longitude": "-79.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1944266",
+    "type": "province",
+    "native": "Provincia de Pacasmayo",
+    "timezone": "America/Lima",
+    "population": 102897,
+    "population_year": null
   },
   {
     "id": 80876,
@@ -237,7 +332,12 @@
     "latitude": "-8.25000000",
     "longitude": "-77.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1948180",
+    "type": "province",
+    "native": "Provincia de Pataz",
+    "timezone": "America/Lima",
+    "population": 76103,
+    "population_year": null
   },
   {
     "id": 80904,
@@ -249,7 +349,12 @@
     "latitude": "-8.08333000",
     "longitude": "-78.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2013427",
+    "type": "province",
+    "native": "Provincia de Trujillo",
+    "timezone": "America/Lima",
+    "population": 970016,
+    "population_year": null
   },
   {
     "id": 80931,
@@ -261,7 +366,12 @@
     "latitude": "-7.96667000",
     "longitude": "-78.20000000",
     "county_id": 8293,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Quiruvilca",
+    "timezone": "America/Lima",
+    "population": 9226,
+    "population_year": null
   },
   {
     "id": 80936,
@@ -273,7 +383,12 @@
     "latitude": "-8.22100000",
     "longitude": "-78.97698000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7403730",
+    "type": "adm3",
+    "native": "Salaverry",
+    "timezone": "America/Lima",
+    "population": 10066,
+    "population_year": null
   },
   {
     "id": 80955,
@@ -285,7 +400,12 @@
     "latitude": "-7.42890000",
     "longitude": "-79.50416000",
     "county_id": 8290,
-    "wikiDataId": null
+    "wikiDataId": "Q1014474",
+    "type": "municipality",
+    "native": "San Pedro de Lloc",
+    "timezone": "America/Lima",
+    "population": 16198,
+    "population_year": null
   },
   {
     "id": 80965,
@@ -297,19 +417,12 @@
     "latitude": "-7.95889000",
     "longitude": "-79.23917000",
     "county_id": 8285,
-    "wikiDataId": null
-  },
-  {
-    "id": 80892,
-    "name": "Santiago de Chuco",
-    "state_id": 3683,
-    "state_code": "LAL",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-8.14555556",
-    "longitude": "-78.17527778",
-    "county_id": 8293,
-    "wikiDataId": null
+    "wikiDataId": "Q15275280",
+    "type": "municipality",
+    "native": "Santiago de Cao",
+    "timezone": "America/Lima",
+    "population": 21982,
+    "population_year": null
   },
   {
     "id": 80966,
@@ -321,7 +434,29 @@
     "latitude": "-8.14099000",
     "longitude": "-78.17329000",
     "county_id": 8293,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Santiago de Chuco",
+    "timezone": "America/Lima",
+    "population": 6759,
+    "population_year": null
+  },
+  {
+    "id": 166907,
+    "name": "Santiago de Chuco",
+    "state_id": 3683,
+    "state_code": "LAL",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-8.15021667",
+    "longitude": "-78.17831944",
+    "county_id": 8293,
+    "wikiDataId": "Q3344084",
+    "type": "city",
+    "native": "Santiago de Chuco",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80998,
@@ -333,7 +468,12 @@
     "latitude": "-8.11599000",
     "longitude": "-79.02998000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q214173",
+    "type": "adm1",
+    "native": "Trujillo",
+    "timezone": "America/Lima",
+    "population": 1148668,
+    "population_year": null
   },
   {
     "id": 81010,
@@ -345,6 +485,11 @@
     "latitude": "-8.52199000",
     "longitude": "-78.60355000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1948051",
+    "type": "adm3",
+    "native": "Viru",
+    "timezone": "America/Lima",
+    "population": 36029,
+    "population_year": null
   }
 ]

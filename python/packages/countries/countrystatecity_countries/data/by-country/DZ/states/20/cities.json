@@ -9,7 +9,12 @@
     "latitude": "34.75846000",
     "longitude": "0.14528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "عين الحجر",
+    "timezone": "Africa/Algiers",
+    "population": 12996,
+    "population_year": null
   },
   {
     "id": 31419,
@@ -21,6 +26,11 @@
     "latitude": "34.83033000",
     "longitude": "0.15171000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q401452",
+    "type": "municipality",
+    "native": "صيدا",
+    "timezone": "Africa/Algiers",
+    "population": 128413,
+    "population_year": null
   }
 ]

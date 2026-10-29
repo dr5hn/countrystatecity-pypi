@@ -9,7 +9,29 @@
     "latitude": "-9.10611000",
     "longitude": "124.89250000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Atambua",
+    "timezone": "Asia/Makassar",
+    "population": 82196,
+    "population_year": null
+  },
+  {
+    "id": 166806,
+    "name": "Baa",
+    "state_id": 1818,
+    "state_code": "NT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-10.72630000",
+    "longitude": "123.04920000",
+    "county_id": 8669,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Baa",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164812,
@@ -21,22 +43,15 @@
     "latitude": "-8.78480000",
     "longitude": "120.97440000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q804109",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56352,
-    "name": "Belu",
-    "state_id": 1818,
-    "state_code": "NT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-9.41258000",
-    "longitude": "124.95066000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56526,
+    "id": 166753,
     "name": "Borong",
     "state_id": 1818,
     "state_code": "NT",
@@ -45,7 +60,12 @@
     "latitude": "-8.81250000",
     "longitude": "120.60972000",
     "county_id": 8674,
-    "wikiDataId": null
+    "wikiDataId": "Q138791087",
+    "type": "town",
+    "native": "Borong",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56272,
@@ -57,19 +77,12 @@
     "latitude": "-8.84320000",
     "longitude": "121.66230000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56406,
-    "name": "Flores Timur",
-    "state_id": 1818,
-    "state_code": "NT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-8.24224000",
-    "longitude": "122.96817000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1340301",
+    "type": "adm2",
+    "native": "Ende",
+    "timezone": "Asia/Makassar",
+    "population": 87269,
+    "population_year": null
   },
   {
     "id": 56475,
@@ -81,7 +94,12 @@
     "latitude": "-9.91667000",
     "longitude": "123.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14141",
+    "type": "regency",
+    "native": "Kabupaten Kupang",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164808,
@@ -93,7 +111,12 @@
     "latitude": "-8.21510000",
     "longitude": "124.54580000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q277062",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56710,
@@ -105,7 +128,12 @@
     "latitude": "-9.44667000",
     "longitude": "124.47806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2848591",
+    "type": "adm2",
+    "native": "Kefamenanu",
+    "timezone": "Asia/Makassar",
+    "population": 48202,
+    "population_year": null
   },
   {
     "id": 56721,
@@ -117,7 +145,12 @@
     "latitude": "-8.58950000",
     "longitude": "119.49130000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q107640",
+    "type": "adm4",
+    "native": "Komodo",
+    "timezone": "Asia/Makassar",
+    "population": 2000,
+    "population_year": null
   },
   {
     "id": 56826,
@@ -129,7 +162,12 @@
     "latitude": "-10.17083000",
     "longitude": "123.60694000",
     "county_id": 8677,
-    "wikiDataId": null
+    "wikiDataId": "Q14155",
+    "type": "city",
+    "native": "Kupang",
+    "timezone": "Asia/Makassar",
+    "population": 442758,
+    "population_year": null
   },
   {
     "id": 56830,
@@ -141,19 +179,46 @@
     "latitude": "-8.49640000",
     "longitude": "119.88770000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Labuan Bajo",
+    "timezone": "Asia/Makassar",
+    "population": 188724,
+    "population_year": null
   },
   {
-    "id": 56493,
-    "name": "Lembata",
+    "id": 166678,
+    "name": "Larantuka",
     "state_id": 1818,
     "state_code": "NT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-8.41396000",
-    "longitude": "123.55225000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "-8.34680000",
+    "longitude": "122.97710000",
+    "county_id": 8661,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Larantuka",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166731,
+    "name": "Lewoleba",
+    "state_id": 1818,
+    "state_code": "NT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-8.37230000",
+    "longitude": "123.41800000",
+    "county_id": 8668,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Lewoleba",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56510,
@@ -165,31 +230,12 @@
     "latitude": "-9.56320000",
     "longitude": "124.89481000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56524,
-    "name": "Manggarai",
-    "state_id": 1818,
-    "state_code": "NT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-8.56667000",
-    "longitude": "120.41667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56525,
-    "name": "Manggarai Barat",
-    "state_id": 1818,
-    "state_code": "NT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-8.64484000",
-    "longitude": "119.88281000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4069046",
+    "type": "regency",
+    "native": "Kabupaten Malaka",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56866,
@@ -201,10 +247,15 @@
     "latitude": "-8.61990000",
     "longitude": "122.21110000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Maumere",
+    "timezone": "Asia/Makassar",
+    "population": 87720,
+    "population_year": null
   },
   {
-    "id": 56553,
+    "id": 166770,
     "name": "Mbay",
     "state_id": 1818,
     "state_code": "NT",
@@ -213,7 +264,12 @@
     "latitude": "-8.56666667",
     "longitude": "121.26666667",
     "county_id": 8671,
-    "wikiDataId": null
+    "wikiDataId": "Q111911698",
+    "type": "town",
+    "native": "Mbay",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56883,
@@ -225,19 +281,12 @@
     "latitude": "-9.59806000",
     "longitude": "123.77028000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56613,
-    "name": "Rote Ndao",
-    "state_id": 1818,
-    "state_code": "NT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-10.73617000",
-    "longitude": "123.12054000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q25024399",
+    "type": "city",
+    "native": "Naanano Dua",
+    "timezone": "Asia/Makassar",
+    "population": 2345,
+    "population_year": null
   },
   {
     "id": 56956,
@@ -249,7 +298,12 @@
     "latitude": "-8.61139000",
     "longitude": "120.46444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Ruteng",
+    "timezone": "Asia/Makassar",
+    "population": 41533,
+    "population_year": null
   },
   {
     "id": 56614,
@@ -261,19 +315,12 @@
     "latitude": "-10.56286000",
     "longitude": "121.78894000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56632,
-    "name": "Sikka",
-    "state_id": 1818,
-    "state_code": "NT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-8.66667000",
-    "longitude": "122.36667000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14148",
+    "type": "regency",
+    "native": "Kabupaten Sabu Raijua",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56989,
@@ -285,43 +332,12 @@
     "latitude": "-9.86071000",
     "longitude": "124.28395000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56648,
-    "name": "Sumba Barat",
-    "state_id": 1818,
-    "state_code": "NT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-9.56667000",
-    "longitude": "119.45000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56649,
-    "name": "Sumba Barat Daya",
-    "state_id": 1818,
-    "state_code": "NT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-9.56216000",
-    "longitude": "119.08905000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56651,
-    "name": "Sumba Timur",
-    "state_id": 1818,
-    "state_code": "NT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-9.88333000",
-    "longitude": "120.25000000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Soe",
+    "timezone": "Asia/Makassar",
+    "population": 40190,
+    "population_year": null
   },
   {
     "id": 164805,
@@ -333,19 +349,12 @@
     "latitude": "-9.42830000",
     "longitude": "119.23800000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56680,
-    "name": "Timor Tengah Selatan",
-    "state_id": 1818,
-    "state_code": "NT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-9.83333000",
-    "longitude": "124.40000000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7681048",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Makassar",
+    "population": 35790,
+    "population_year": null
   },
   {
     "id": 56681,
@@ -357,10 +366,15 @@
     "latitude": "-9.33136000",
     "longitude": "124.51904000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14146",
+    "type": "regency",
+    "native": "Kabupaten Timor Tengah Utara",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56650,
+    "id": 166824,
     "name": "Waibakul",
     "state_id": 1818,
     "state_code": "NT",
@@ -369,7 +383,29 @@
     "latitude": "-9.58990000",
     "longitude": "119.50770000",
     "county_id": 8672,
-    "wikiDataId": null
+    "wikiDataId": "Q7959920",
+    "type": "town",
+    "native": "Waibakul",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166823,
+    "name": "Waikabubak",
+    "state_id": 1818,
+    "state_code": "NT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-9.64750000",
+    "longitude": "119.38890000",
+    "county_id": 8667,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Waikabubak",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 57048,
@@ -381,6 +417,11 @@
     "latitude": "-9.65670000",
     "longitude": "120.26410000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Waingapu",
+    "timezone": "Asia/Makassar",
+    "population": 35932,
+    "population_year": null
   }
 ]

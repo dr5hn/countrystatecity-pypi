@@ -9,7 +9,12 @@
     "latitude": "-4.50153290",
     "longitude": "37.91444740",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Hedaru",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 21000,
+    "population_year": null
   },
   {
     "id": 149047,
@@ -21,7 +26,12 @@
     "latitude": "-3.78333333",
     "longitude": "37.61666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20618701",
+    "type": "city",
+    "native": "Lembeni",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 16008,
+    "population_year": null
   },
   {
     "id": 109164,
@@ -33,7 +43,12 @@
     "latitude": "-3.20611000",
     "longitude": "37.22638890",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2075157",
+    "type": "city",
+    "native": "Machame",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 109233,
@@ -45,7 +60,12 @@
     "latitude": "-3.28376300",
     "longitude": "37.52298200",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2627745",
+    "type": "city",
+    "native": "Marangu",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 109209,
@@ -57,7 +77,12 @@
     "latitude": "-3.35000000",
     "longitude": "37.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q271733",
+    "type": "adm1",
+    "native": "Moshi",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 221733,
+    "population_year": null
   },
   {
     "id": 109274,
@@ -69,7 +94,12 @@
     "latitude": "-4.22199000",
     "longitude": "37.88278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7193222",
+    "type": "county",
+    "native": "Same",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 16819,
+    "population_year": null
   },
   {
     "id": 149061,
@@ -81,7 +111,12 @@
     "latitude": "-4.06666667",
     "longitude": "37.78333333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6120947",
+    "type": "city",
+    "native": "Sawa",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 16819,
+    "population_year": null
   },
   {
     "id": 149064,
@@ -93,6 +128,11 @@
     "latitude": "-3.65000000",
     "longitude": "37.65000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16902271",
+    "type": "city",
+    "native": "Ugweno",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 0,
+    "population_year": null
   }
 ]

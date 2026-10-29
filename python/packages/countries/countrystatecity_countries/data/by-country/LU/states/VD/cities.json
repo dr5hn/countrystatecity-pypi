@@ -9,7 +9,12 @@
     "latitude": "49.96083000",
     "longitude": "6.14306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q513740",
+    "type": "municipality",
+    "native": "Putscheid",
+    "timezone": "Europe/Luxembourg",
+    "population": 38,
+    "population_year": null
   },
   {
     "id": 66848,
@@ -21,7 +26,12 @@
     "latitude": "49.89750000",
     "longitude": "6.18333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1365356",
+    "type": "municipality",
+    "native": "Tandel",
+    "timezone": "Europe/Luxembourg",
+    "population": 89,
+    "population_year": null
   },
   {
     "id": 66853,
@@ -33,6 +43,11 @@
     "latitude": "49.93500000",
     "longitude": "6.20889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q836082",
+    "type": "adm2",
+    "native": "Vianden",
+    "timezone": "Europe/Luxembourg",
+    "population": 2212,
+    "population_year": null
   }
 ]

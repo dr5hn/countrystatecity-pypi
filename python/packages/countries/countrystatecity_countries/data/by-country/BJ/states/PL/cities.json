@@ -9,7 +9,12 @@
     "latitude": "7.36332000",
     "longitude": "2.59978000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kétou",
+    "timezone": "Africa/Porto-Novo",
+    "population": 39626,
+    "population_year": null
   },
   {
     "id": 9808,
@@ -21,7 +26,12 @@
     "latitude": "6.98008000",
     "longitude": "2.66490000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2337446",
+    "type": "adm2",
+    "native": "Pobé",
+    "timezone": "Africa/Porto-Novo",
+    "population": 49232,
+    "population_year": null
   },
   {
     "id": 9810,
@@ -33,6 +43,11 @@
     "latitude": "6.73618000",
     "longitude": "2.65866000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Sakété",
+    "timezone": "Africa/Porto-Novo",
+    "population": 43541,
+    "population_year": null
   }
 ]

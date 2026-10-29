@@ -9,19 +9,12 @@
     "latitude": "-9.18987000",
     "longitude": "-77.39878000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 80841,
-    "name": "Caraz",
-    "state_id": 3680,
-    "state_code": "ANC",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-9.04722222",
-    "longitude": "-77.81083333",
-    "county_id": 8191,
-    "wikiDataId": null
+    "wikiDataId": "Q1166116",
+    "type": "adm3",
+    "native": "Asunción",
+    "timezone": "America/Lima",
+    "population": 7378,
+    "population_year": null
   },
   {
     "id": 80594,
@@ -33,10 +26,32 @@
     "latitude": "-9.04692000",
     "longitude": "-77.80901000",
     "county_id": 8191,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Carás",
+    "timezone": "America/Lima",
+    "population": 503,
+    "population_year": null
   },
   {
-    "id": 80592,
+    "id": 166891,
+    "name": "Caraz",
+    "state_id": 3680,
+    "state_code": "ANC",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-9.04833333",
+    "longitude": "-77.81083333",
+    "county_id": 8191,
+    "wikiDataId": "Q1035471",
+    "type": "city",
+    "native": "Caraz",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 167874,
     "name": "Carhuaz",
     "state_id": 3680,
     "state_code": "ANC",
@@ -45,19 +60,29 @@
     "latitude": "-9.28194000",
     "longitude": "-77.64472000",
     "county_id": 8185,
-    "wikiDataId": null
+    "wikiDataId": "Q2697185",
+    "type": "municipality",
+    "native": "Carhuaz",
+    "timezone": "America/Lima",
+    "population": 5044,
+    "population_year": null
   },
   {
-    "id": 80796,
+    "id": 166878,
     "name": "Carhuaz",
     "state_id": 3680,
     "state_code": "ANC",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-9.28055556",
-    "longitude": "-77.64694444",
+    "latitude": "-9.28138889",
+    "longitude": "-77.64638889",
     "county_id": 8185,
-    "wikiDataId": null
+    "wikiDataId": "Q1036082",
+    "type": "city",
+    "native": "Carhuaz",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80593,
@@ -69,7 +94,12 @@
     "latitude": "-9.04415000",
     "longitude": "-77.24168000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q633478",
+    "type": "adm3",
+    "native": "Carlos Fermin Fitzcarrald",
+    "timezone": "America/Lima",
+    "population": 17717,
+    "population_year": null
   },
   {
     "id": 80615,
@@ -81,19 +111,29 @@
     "latitude": "-9.08528000",
     "longitude": "-78.57833000",
     "county_id": 8197,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Chimbote",
+    "timezone": "America/Lima",
+    "population": 395100,
+    "population_year": null
   },
   {
-    "id": 80890,
+    "id": 166906,
     "name": "Chimbote",
     "state_id": 3680,
     "state_code": "ANC",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-9.07583333",
-    "longitude": "-78.58416667",
+    "latitude": "-9.07454444",
+    "longitude": "-78.59357222",
     "county_id": 8197,
-    "wikiDataId": null
+    "wikiDataId": "Q518431",
+    "type": "city",
+    "native": "Chimbote",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80628,
@@ -105,7 +145,12 @@
     "latitude": "-9.02306000",
     "longitude": "-78.61556000",
     "county_id": 8197,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Coishco",
+    "timezone": "America/Lima",
+    "population": 15979,
+    "population_year": null
   },
   {
     "id": 80656,
@@ -117,7 +162,12 @@
     "latitude": "-9.52779000",
     "longitude": "-77.52778000",
     "county_id": 8180,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "En Huaraz",
+    "timezone": "America/Lima",
+    "population": 118836,
+    "population_year": null
   },
   {
     "id": 80658,
@@ -129,19 +179,29 @@
     "latitude": "-10.06806000",
     "longitude": "-78.15222000",
     "county_id": 8190,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Huarmey",
+    "timezone": "America/Lima",
+    "population": 16172,
+    "population_year": null
   },
   {
-    "id": 80839,
+    "id": 166890,
     "name": "Huarmey",
     "state_id": 3680,
     "state_code": "ANC",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-10.06972222",
-    "longitude": "-78.15166667",
+    "latitude": "-10.06876300",
+    "longitude": "-78.15222100",
     "county_id": 8190,
-    "wikiDataId": null
+    "wikiDataId": "Q430862",
+    "type": "city",
+    "native": "Huarmey",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80766,
@@ -153,19 +213,29 @@
     "latitude": "-8.83333000",
     "longitude": "-77.46667000",
     "county_id": 8195,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Pomabamba",
+    "timezone": "America/Lima",
+    "population": 4453,
+    "population_year": null
   },
   {
-    "id": 80880,
+    "id": 166903,
     "name": "Pomabamba",
     "state_id": 3680,
     "state_code": "ANC",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-8.81472222",
-    "longitude": "-77.45916667",
+    "latitude": "-8.82000000",
+    "longitude": "-77.46055556",
     "county_id": 8195,
-    "wikiDataId": null
+    "wikiDataId": "Q3322611",
+    "type": "city",
+    "native": "Pomabamba",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80770,
@@ -177,7 +247,12 @@
     "latitude": "-9.83333000",
     "longitude": "-77.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q615891",
+    "type": "adm3",
+    "native": "Provincia de Aija",
+    "timezone": "America/Lima",
+    "population": 332,
+    "population_year": null
   },
   {
     "id": 80776,
@@ -189,7 +264,12 @@
     "latitude": "-9.08333000",
     "longitude": "-77.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1166121",
+    "type": "province",
+    "native": "Provincia de Antonio Raymondi",
+    "timezone": "America/Lima",
+    "population": 13650,
+    "population_year": null
   },
   {
     "id": 80782,
@@ -201,7 +281,12 @@
     "latitude": "-10.10723000",
     "longitude": "-77.14804000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1166113",
+    "type": "adm3",
+    "native": "Provincia de Bolognesi",
+    "timezone": "America/Lima",
+    "population": 681,
+    "population_year": null
   },
   {
     "id": 80797,
@@ -213,7 +298,12 @@
     "latitude": "-9.47638000",
     "longitude": "-78.24738000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q747503",
+    "type": "province",
+    "native": "Provincia de Casma",
+    "timezone": "America/Lima",
+    "population": 50989,
+    "population_year": null
   },
   {
     "id": 80816,
@@ -225,7 +315,12 @@
     "latitude": "-8.58333000",
     "longitude": "-77.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1166124",
+    "type": "adm3",
+    "native": "Provincia de Corongo",
+    "timezone": "America/Lima",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 80837,
@@ -237,7 +332,12 @@
     "latitude": "-9.56109000",
     "longitude": "-77.64605000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1140995",
+    "type": "province",
+    "native": "Provincia de Huaraz",
+    "timezone": "America/Lima",
+    "population": 163936,
+    "population_year": null
   },
   {
     "id": 80838,
@@ -249,7 +349,12 @@
     "latitude": "-9.33333000",
     "longitude": "-77.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1779705",
+    "type": "adm3",
+    "native": "Provincia de Huari",
+    "timezone": "America/Lima",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 80861,
@@ -261,7 +366,12 @@
     "latitude": "-8.83333000",
     "longitude": "-77.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1779663",
+    "type": "province",
+    "native": "Provincia de Mariscal Luzuriaga",
+    "timezone": "America/Lima",
+    "population": 20284,
+    "population_year": null
   },
   {
     "id": 80871,
@@ -273,7 +383,12 @@
     "latitude": "-8.33333000",
     "longitude": "-77.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1779654",
+    "type": "province",
+    "native": "Provincia de Pallasca",
+    "timezone": "America/Lima",
+    "population": 23491,
+    "population_year": null
   },
   {
     "id": 80883,
@@ -285,7 +400,12 @@
     "latitude": "-10.00000000",
     "longitude": "-77.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1779720",
+    "type": "province",
+    "native": "Provincia de Recuay",
+    "timezone": "America/Lima",
+    "population": 17185,
+    "population_year": null
   },
   {
     "id": 80894,
@@ -297,7 +417,12 @@
     "latitude": "-8.50000000",
     "longitude": "-77.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1779714",
+    "type": "province",
+    "native": "Provincia de Sihuas",
+    "timezone": "America/Lima",
+    "population": 26971,
+    "population_year": null
   },
   {
     "id": 80919,
@@ -309,7 +434,12 @@
     "latitude": "-8.98772000",
     "longitude": "-78.64727000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Puerto Santa",
+    "timezone": "America/Lima",
+    "population": 14066,
+    "population_year": null
   },
   {
     "id": 81017,
@@ -321,19 +451,12 @@
     "latitude": "-8.98333000",
     "longitude": "-77.30000000",
     "county_id": 8186,
-    "wikiDataId": null
-  },
-  {
-    "id": 80911,
-    "name": "Yungay",
-    "state_id": 3680,
-    "state_code": "ANC",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-9.13750000",
-    "longitude": "-77.74750000",
-    "county_id": 8199,
-    "wikiDataId": null
+    "wikiDataId": "Q2696377",
+    "type": "municipality",
+    "native": "Yauya",
+    "timezone": "America/Lima",
+    "population": 9092,
+    "population_year": null
   },
   {
     "id": 81018,
@@ -345,6 +468,28 @@
     "latitude": "-9.13833000",
     "longitude": "-77.74361000",
     "county_id": 8199,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Yungay",
+    "timezone": "America/Lima",
+    "population": 5269,
+    "population_year": null
+  },
+  {
+    "id": 166915,
+    "name": "Yungay",
+    "state_id": 3680,
+    "state_code": "ANC",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-9.13888889",
+    "longitude": "-77.74444444",
+    "county_id": 8199,
+    "wikiDataId": "Q919678",
+    "type": "city",
+    "native": "Yungay",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "51.38333000",
     "longitude": "-0.10000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2213391",
+    "type": "adm3",
+    "native": "Croydon",
+    "timezone": "Europe/London",
+    "population": 173314,
+    "population_year": null
   },
   {
     "id": 51006,
@@ -21,7 +26,12 @@
     "latitude": "51.33678000",
     "longitude": "-0.11201000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2118905",
+    "type": "city",
+    "native": "Purley",
+    "timezone": "Europe/London",
+    "population": 72000,
+    "population_year": null
   },
   {
     "id": 51351,
@@ -33,7 +43,12 @@
     "latitude": "51.36217000",
     "longitude": "-0.09421000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "South Croydon",
+    "timezone": "Europe/London",
+    "population": 55198,
+    "population_year": null
   },
   {
     "id": 51605,
@@ -45,7 +60,12 @@
     "latitude": "51.39884000",
     "longitude": "-0.09872000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2123194",
+    "type": "city",
+    "native": "Thornton Heath",
+    "timezone": "Europe/London",
+    "population": 14669,
+    "population_year": null
   },
   {
     "id": 51835,
@@ -57,6 +77,11 @@
     "latitude": "51.36667000",
     "longitude": "-0.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "West Wickham",
+    "timezone": "Europe/London",
+    "population": 14276,
+    "population_year": null
   }
 ]

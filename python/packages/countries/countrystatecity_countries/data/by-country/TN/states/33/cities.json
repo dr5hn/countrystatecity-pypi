@@ -9,7 +9,12 @@
     "latitude": "36.07640000",
     "longitude": "9.02117000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "As Sars",
+    "timezone": "Africa/Tunis",
+    "population": 12137,
+    "population_year": null
   },
   {
     "id": 106947,
@@ -21,7 +26,12 @@
     "latitude": "36.17424000",
     "longitude": "8.70486000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27155",
+    "type": "adm1",
+    "native": "الكاف",
+    "timezone": "Africa/Tunis",
+    "population": 53596,
+    "population_year": null
   },
   {
     "id": 106948,
@@ -33,7 +43,12 @@
     "latitude": "35.89607000",
     "longitude": "8.88493000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2743148",
+    "type": "city",
+    "native": "القصور",
+    "timezone": "Africa/Tunis",
+    "population": 5576,
+    "population_year": null
   },
   {
     "id": 106992,
@@ -45,7 +60,12 @@
     "latitude": "35.85673000",
     "longitude": "8.47654000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q659504",
+    "type": "city",
+    "native": "مينزل سالم",
+    "timezone": "Africa/Tunis",
+    "population": 2856,
+    "population_year": null
   },
   {
     "id": 107002,
@@ -57,7 +77,12 @@
     "latitude": "36.29411000",
     "longitude": "8.76657000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3117290",
+    "type": "city",
+    "native": "نيبار",
+    "timezone": "Africa/Tunis",
+    "population": 3557,
+    "population_year": null
   },
   {
     "id": 107013,
@@ -69,7 +94,12 @@
     "latitude": "36.22292000",
     "longitude": "8.35547000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q958423",
+    "type": "city",
+    "native": "ساقية سيدي يوسف",
+    "timezone": "Africa/Tunis",
+    "population": 6442,
+    "population_year": null
   },
   {
     "id": 107032,
@@ -81,6 +111,11 @@
     "latitude": "35.89174000",
     "longitude": "8.55276000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3175916",
+    "type": "city",
+    "native": "تاجروين",
+    "timezone": "Africa/Tunis",
+    "population": 19362,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "50.85966000",
     "longitude": "-1.32432000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1439543",
+    "type": "city",
+    "native": "Hamble-le-rice",
+    "timezone": "Europe/London",
+    "population": 4650,
+    "population_year": null
   },
   {
     "id": 153932,
@@ -21,7 +26,12 @@
     "latitude": "50.90666667",
     "longitude": "-1.40444444",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q79848",
+    "type": "city",
+    "native": "Southampton",
+    "timezone": "Europe/London",
+    "population": 271173,
+    "population_year": null
   },
   {
     "id": 51834,
@@ -33,6 +43,11 @@
     "latitude": "50.97273000",
     "longitude": "-1.58293000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "West Wellow",
+    "timezone": "Europe/London",
+    "population": 2929,
+    "population_year": null
   }
 ]

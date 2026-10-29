@@ -9,7 +9,12 @@
     "latitude": "-15.68333000",
     "longitude": "-70.15000000",
     "county_id": 8333,
-    "wikiDataId": null
+    "wikiDataId": "Q3826204",
+    "type": "municipality",
+    "native": "Atuncolla",
+    "timezone": "America/Lima",
+    "population": 4555,
+    "population_year": null
   },
   {
     "id": 80569,
@@ -21,7 +26,12 @@
     "latitude": "-14.88639000",
     "longitude": "-70.58889000",
     "county_id": 8340,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Ayaviri",
+    "timezone": "America/Lima",
+    "population": 19310,
+    "population_year": null
   },
   {
     "id": 80571,
@@ -33,7 +43,12 @@
     "latitude": "-14.90843000",
     "longitude": "-70.19616000",
     "county_id": 8334,
-    "wikiDataId": null
+    "wikiDataId": "Q2638284",
+    "type": "municipality",
+    "native": "Azángaro",
+    "timezone": "America/Lima",
+    "population": 13290,
+    "population_year": null
   },
   {
     "id": 80637,
@@ -45,7 +60,12 @@
     "latitude": "-16.56556000",
     "longitude": "-69.04167000",
     "county_id": 8336,
-    "wikiDataId": null
+    "wikiDataId": "Q3825232",
+    "type": "municipality",
+    "native": "Desaguadero",
+    "timezone": "America/Lima",
+    "population": 5329,
+    "population_year": null
   },
   {
     "id": 80639,
@@ -57,7 +77,12 @@
     "latitude": "-16.72641000",
     "longitude": "-69.75515000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2088833",
+    "type": "province",
+    "native": "El Collao",
+    "timezone": "America/Lima",
+    "population": 63878,
+    "population_year": null
   },
   {
     "id": 80645,
@@ -69,7 +94,12 @@
     "latitude": "-15.82327000",
     "longitude": "-70.88540000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2117510",
+    "type": "city",
+    "native": "Hacienda Huancane",
+    "timezone": "America/Lima",
+    "population": 7831,
+    "population_year": null
   },
   {
     "id": 165436,
@@ -81,7 +111,12 @@
     "latitude": "-15.20054000",
     "longitude": "-69.76314000",
     "county_id": 8338,
-    "wikiDataId": null
+    "wikiDataId": "Q2638267",
+    "type": "municipality",
+    "native": null,
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80669,
@@ -93,7 +128,12 @@
     "latitude": "-16.08333000",
     "longitude": "-69.66667000",
     "county_id": 8337,
-    "wikiDataId": null
+    "wikiDataId": "Q3348236",
+    "type": "municipality",
+    "native": "Ilave",
+    "timezone": "America/Lima",
+    "population": 16033,
+    "population_year": null
   },
   {
     "id": 80683,
@@ -105,19 +145,46 @@
     "latitude": "-16.21667000",
     "longitude": "-69.45000000",
     "county_id": 8336,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Julio",
+    "timezone": "America/Lima",
+    "population": 7309,
+    "population_year": null
   },
   {
-    "id": 80807,
+    "id": 166883,
     "name": "Juli",
     "state_id": 3682,
     "state_code": "PUN",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-16.21500000",
-    "longitude": "-69.46194444",
+    "latitude": "-16.21250000",
+    "longitude": "-69.46027778",
     "county_id": 8336,
-    "wikiDataId": null
+    "wikiDataId": "Q2588438",
+    "type": "city",
+    "native": "Juli",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 167884,
+    "name": "Juliaca",
+    "state_id": 3682,
+    "state_code": "PUN",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-15.49083333",
+    "longitude": "-70.12694444",
+    "county_id": 8343,
+    "wikiDataId": "Q696074",
+    "type": "city",
+    "native": "Juliaca",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80684,
@@ -129,19 +196,12 @@
     "latitude": "-15.50000000",
     "longitude": "-70.13333000",
     "county_id": 8343,
-    "wikiDataId": null
-  },
-  {
-    "id": 80957,
-    "name": "Juliaca",
-    "state_id": 3682,
-    "state_code": "PUN",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-15.49388889",
-    "longitude": "-70.13555556",
-    "county_id": 8343,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Juliaca",
+    "timezone": "America/Lima",
+    "population": 245675,
+    "population_year": null
   },
   {
     "id": 80690,
@@ -153,7 +213,12 @@
     "latitude": "-14.63126000",
     "longitude": "-69.44638000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q852929",
+    "type": "cities",
+    "native": "La Rinconada",
+    "timezone": "America/Lima",
+    "population": 29678,
+    "population_year": null
   },
   {
     "id": 80695,
@@ -165,7 +230,12 @@
     "latitude": "-15.35000000",
     "longitude": "-70.36667000",
     "county_id": 8339,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Lampa",
+    "timezone": "America/Lima",
+    "population": 4780,
+    "population_year": null
   },
   {
     "id": 80707,
@@ -177,7 +247,12 @@
     "latitude": "-14.08333000",
     "longitude": "-70.43333000",
     "county_id": 8335,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Macusani",
+    "timezone": "America/Lima",
+    "population": 6044,
+    "population_year": null
   },
   {
     "id": 81023,
@@ -189,7 +264,12 @@
     "latitude": "-14.47788000",
     "longitude": "-70.63583000",
     "county_id": 8340,
-    "wikiDataId": null
+    "wikiDataId": "Q27194667",
+    "type": "municipality",
+    "native": "Ñuñoa",
+    "timezone": "America/Lima",
+    "population": 4271,
+    "population_year": null
   },
   {
     "id": 80780,
@@ -201,7 +281,12 @@
     "latitude": "-14.83333000",
     "longitude": "-70.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2088824",
+    "type": "province",
+    "native": "Provincia de Azángaro",
+    "timezone": "America/Lima",
+    "population": 110392,
+    "population_year": null
   },
   {
     "id": 80794,
@@ -213,7 +298,12 @@
     "latitude": "-13.83333000",
     "longitude": "-70.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1944216",
+    "type": "province",
+    "native": "Provincia de Carabaya",
+    "timezone": "America/Lima",
+    "population": 73322,
+    "population_year": null
   },
   {
     "id": 80832,
@@ -225,7 +315,12 @@
     "latitude": "-15.16667000",
     "longitude": "-69.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1944227",
+    "type": "province",
+    "native": "Provincia de Huancané",
+    "timezone": "America/Lima",
+    "population": 57651,
+    "population_year": null
   },
   {
     "id": 80854,
@@ -237,7 +332,12 @@
     "latitude": "-15.41667000",
     "longitude": "-70.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1944347",
+    "type": "province",
+    "native": "Provincia de lámpara",
+    "timezone": "America/Lima",
+    "population": 40856,
+    "population_year": null
   },
   {
     "id": 80863,
@@ -249,7 +349,12 @@
     "latitude": "-14.75000000",
     "longitude": "-70.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1944356",
+    "type": "province",
+    "native": "Provincia de Melgar",
+    "timezone": "America/Lima",
+    "population": 67138,
+    "population_year": null
   },
   {
     "id": 80889,
@@ -261,19 +366,12 @@
     "latitude": "-13.83333000",
     "longitude": "-69.33333000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 80881,
-    "name": "Puno",
-    "state_id": 3682,
-    "state_code": "PUN",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-15.84055556",
-    "longitude": "-70.02777778",
-    "county_id": 8333,
-    "wikiDataId": null
+    "wikiDataId": "Q1948135",
+    "type": "province",
+    "native": "Provincia de Sandia",
+    "timezone": "America/Lima",
+    "population": 50742,
+    "population_year": null
   },
   {
     "id": 80922,
@@ -285,7 +383,29 @@
     "latitude": "-15.84220000",
     "longitude": "-70.01990000",
     "county_id": 8333,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Puno",
+    "timezone": "America/Lima",
+    "population": 128637,
+    "population_year": null
+  },
+  {
+    "id": 166904,
+    "name": "Puno",
+    "state_id": 3682,
+    "state_code": "PUN",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-15.84333333",
+    "longitude": "-70.02361111",
+    "county_id": 8333,
+    "wikiDataId": "Q232842",
+    "type": "city",
+    "native": "Puno",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80941,
@@ -297,7 +417,12 @@
     "latitude": "-14.71175000",
     "longitude": "-69.61559000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1935565",
+    "type": "province",
+    "native": "San Antonio De Putina",
+    "timezone": "America/Lima",
+    "population": 36113,
+    "population_year": null
   },
   {
     "id": 80961,
@@ -309,7 +434,12 @@
     "latitude": "-15.69788000",
     "longitude": "-70.60610000",
     "county_id": 8339,
-    "wikiDataId": null
+    "wikiDataId": "Q3824330",
+    "type": "municipality",
+    "native": "Santa Lucía",
+    "timezone": "America/Lima",
+    "population": 4320,
+    "population_year": null
   },
   {
     "id": 80988,
@@ -321,7 +451,12 @@
     "latitude": "-15.76667000",
     "longitude": "-69.68333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Taquile",
+    "timezone": "America/Lima",
+    "population": 2000,
+    "population_year": null
   },
   {
     "id": 81019,
@@ -333,6 +468,11 @@
     "latitude": "-16.25000000",
     "longitude": "-69.08333000",
     "county_id": 8345,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Yunguyo",
+    "timezone": "America/Lima",
+    "population": 16140,
+    "population_year": null
   }
 ]

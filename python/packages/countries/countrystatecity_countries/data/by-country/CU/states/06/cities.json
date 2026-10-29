@@ -9,7 +9,12 @@
     "latitude": "22.27797000",
     "longitude": "-80.56931000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23806009",
+    "type": "city",
+    "native": "Abreus",
+    "timezone": "America/Havana",
+    "population": 16711,
+    "population_year": null
   },
   {
     "id": 21801,
@@ -21,7 +26,12 @@
     "latitude": "22.38520000",
     "longitude": "-80.84792000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Aguada de Pasajeros",
+    "timezone": "America/Havana",
+    "population": 23606,
+    "population_year": null
   },
   {
     "id": 21834,
@@ -33,7 +43,12 @@
     "latitude": "22.14957000",
     "longitude": "-80.44662000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Cienfuegos",
+    "timezone": "America/Havana",
+    "population": 164924,
+    "population_year": null
   },
   {
     "id": 21843,
@@ -45,7 +60,12 @@
     "latitude": "22.34203000",
     "longitude": "-80.27021000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Cruces",
+    "timezone": "America/Havana",
+    "population": 24906,
+    "population_year": null
   },
   {
     "id": 21845,
@@ -57,7 +77,12 @@
     "latitude": "22.15247000",
     "longitude": "-80.20354000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5044",
+    "type": "adm2",
+    "native": "Cumanayagua",
+    "timezone": "America/Havana",
+    "population": 38687,
+    "population_year": null
   },
   {
     "id": 21883,
@@ -69,7 +94,12 @@
     "latitude": "22.41479000",
     "longitude": "-80.29310000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5045",
+    "type": "adm2",
+    "native": "Lajas",
+    "timezone": "America/Havana",
+    "population": 22602,
+    "population_year": null
   },
   {
     "id": 21903,
@@ -81,7 +111,12 @@
     "latitude": "22.19229000",
     "longitude": "-80.71465000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q331384",
+    "type": "city",
+    "native": "Municipio de Abreus",
+    "timezone": "America/Havana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21910,
@@ -93,7 +128,12 @@
     "latitude": "22.15000000",
     "longitude": "-80.45000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q190005",
+    "type": "adm1",
+    "native": "Municipio de Cienfuegos",
+    "timezone": "America/Havana",
+    "population": 186644,
+    "population_year": null
   },
   {
     "id": 21940,
@@ -105,7 +145,12 @@
     "latitude": "22.24126000",
     "longitude": "-80.39110000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5008",
+    "type": "adm2",
+    "native": "Palmira",
+    "timezone": "America/Havana",
+    "population": 23078,
+    "population_year": null
   },
   {
     "id": 21953,
@@ -117,6 +162,11 @@
     "latitude": "22.34184000",
     "longitude": "-80.55596000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Rodas",
+    "timezone": "America/Havana",
+    "population": 19212,
+    "population_year": null
   }
 ]

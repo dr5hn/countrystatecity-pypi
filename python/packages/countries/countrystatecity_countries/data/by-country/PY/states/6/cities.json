@@ -9,7 +9,12 @@
     "latitude": "-26.03333000",
     "longitude": "-55.93333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Abaí",
+    "timezone": "America/Asuncion",
+    "population": 32538,
+    "population_year": null
   },
   {
     "id": 89728,
@@ -21,7 +26,12 @@
     "latitude": "-26.18387000",
     "longitude": "-56.08171000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q34783829",
+    "type": "city",
+    "native": "Buena Vista",
+    "timezone": "America/Asuncion",
+    "population": 1580,
+    "population_year": null
   },
   {
     "id": 89732,
@@ -33,7 +43,12 @@
     "latitude": "-26.19583000",
     "longitude": "-56.36806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Caazapá",
+    "timezone": "America/Asuncion",
+    "population": 23996,
+    "population_year": null
   },
   {
     "id": 89772,
@@ -45,7 +60,12 @@
     "latitude": "-25.95000000",
     "longitude": "-55.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "General Higinio Morínigo",
+    "timezone": "America/Asuncion",
+    "population": 1399,
+    "population_year": null
   },
   {
     "id": 89826,
@@ -57,7 +77,12 @@
     "latitude": "-26.11229000",
     "longitude": "-55.93861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "San Juan Nepomuceno",
+    "timezone": "America/Asuncion",
+    "population": 7893,
+    "population_year": null
   },
   {
     "id": 89850,
@@ -69,7 +94,12 @@
     "latitude": "-26.45000000",
     "longitude": "-56.40000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1983624",
+    "type": "city",
+    "native": "Yegros",
+    "timezone": "America/Asuncion",
+    "population": 1140,
+    "population_year": null
   },
   {
     "id": 89855,
@@ -81,6 +111,11 @@
     "latitude": "-26.61471000",
     "longitude": "-56.24607000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2475423",
+    "type": "city",
+    "native": "Yuty",
+    "timezone": "America/Asuncion",
+    "population": 4774,
+    "population_year": null
   }
 ]

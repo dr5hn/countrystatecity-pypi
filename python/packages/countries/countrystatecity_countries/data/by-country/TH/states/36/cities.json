@@ -9,7 +9,12 @@
     "latitude": "15.50189000",
     "longitude": "101.68982000",
     "county_id": 5708,
-    "wikiDataId": null
+    "wikiDataId": "Q28732560",
+    "type": "town",
+    "native": "บำเหน็จณรงค์",
+    "timezone": "Asia/Bangkok",
+    "population": 14890,
+    "population_year": null
   },
   {
     "id": 148555,
@@ -21,7 +26,12 @@
     "latitude": "15.81047000",
     "longitude": "102.02881000",
     "county_id": 5702,
-    "wikiDataId": null
+    "wikiDataId": "Q997062",
+    "type": "city",
+    "native": "ชัยภูมิ",
+    "timezone": "Asia/Bangkok",
+    "population": 58350,
+    "population_year": null
   },
   {
     "id": 148556,
@@ -32,8 +42,13 @@
     "country_code": "TH",
     "latitude": "16.10861111",
     "longitude": "102.25805556",
-    "county_id": 5713,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q15260331",
+    "type": "adm2",
+    "native": "แก่งโคร่",
+    "timezone": "Asia/Bangkok",
+    "population": 29056,
+    "population_year": null
   },
   {
     "id": 148557,
@@ -45,7 +60,12 @@
     "latitude": "16.28053000",
     "longitude": "101.95422000",
     "county_id": 5705,
-    "wikiDataId": null
+    "wikiDataId": "Q28732564",
+    "type": "town",
+    "native": "เกษตรสมบูรณ์",
+    "timezone": "Asia/Bangkok",
+    "population": 16996,
+    "population_year": null
   },
   {
     "id": 148559,
@@ -57,6 +77,11 @@
     "latitude": "16.37650000",
     "longitude": "102.12853000",
     "county_id": 5711,
-    "wikiDataId": null
+    "wikiDataId": "Q28732567",
+    "type": "town",
+    "native": "ภูเขียว",
+    "timezone": "Asia/Bangkok",
+    "population": 17122,
+    "population_year": null
   }
 ]

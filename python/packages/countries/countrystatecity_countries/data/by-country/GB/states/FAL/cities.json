@@ -9,7 +9,12 @@
     "latitude": "56.06983000",
     "longitude": "-3.77209000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1012333",
+    "type": "village",
+    "native": "Airth",
+    "timezone": "Europe/London",
+    "population": 1940,
+    "population_year": null
   },
   {
     "id": 48374,
@@ -21,7 +26,12 @@
     "latitude": "55.98967000",
     "longitude": "-3.95611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Banknock",
+    "timezone": "Europe/London",
+    "population": 2440,
+    "population_year": null
   },
   {
     "id": 48641,
@@ -33,7 +43,12 @@
     "latitude": "56.01667000",
     "longitude": "-3.61667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q896424",
+    "type": "city",
+    "native": "Bo’ness",
+    "timezone": "Europe/London",
+    "population": 14910,
+    "population_year": null
   },
   {
     "id": 48591,
@@ -45,7 +60,12 @@
     "latitude": "56.00152000",
     "longitude": "-3.88860000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1014515",
+    "type": "town",
+    "native": "Bonnybridge",
+    "timezone": "Europe/London",
+    "population": 5210,
+    "population_year": null
   },
   {
     "id": 48697,
@@ -57,7 +77,12 @@
     "latitude": "55.98028000",
     "longitude": "-3.71613000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Brightons",
+    "timezone": "Europe/London",
+    "population": 4420,
+    "population_year": null
   },
   {
     "id": 48871,
@@ -69,7 +94,12 @@
     "latitude": "56.02611000",
     "longitude": "-3.79251000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Carron",
+    "timezone": "Europe/London",
+    "population": 2530,
+    "population_year": null
   },
   {
     "id": 48872,
@@ -81,7 +111,12 @@
     "latitude": "56.03146000",
     "longitude": "-3.78290000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5046689",
+    "type": "section",
+    "native": "Carronshore",
+    "timezone": "Europe/London",
+    "population": 3000,
+    "population_year": null
   },
   {
     "id": 49265,
@@ -93,7 +128,12 @@
     "latitude": "56.02350000",
     "longitude": "-3.90812000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3778259",
+    "type": "section",
+    "native": "Denny",
+    "timezone": "Europe/London",
+    "population": 8300,
+    "population_year": null
   },
   {
     "id": 49266,
@@ -105,7 +145,12 @@
     "latitude": "55.99886000",
     "longitude": "-3.91306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Dennyloanhead",
+    "timezone": "Europe/London",
+    "population": 1610,
+    "population_year": null
   },
   {
     "id": 49356,
@@ -117,19 +162,12 @@
     "latitude": "56.02700000",
     "longitude": "-3.91471000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 49521,
-    "name": "Falkirk",
-    "state_id": 2344,
-    "state_code": "FAL",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "56.00000000",
-    "longitude": "-3.75000000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5315302",
+    "type": "section",
+    "native": "Dunipace",
+    "timezone": "Europe/London",
+    "population": 2560,
+    "population_year": null
   },
   {
     "id": 49698,
@@ -141,7 +179,12 @@
     "latitude": "56.01141000",
     "longitude": "-3.72183000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q617845",
+    "type": "section",
+    "native": "Grangemouth",
+    "timezone": "Europe/London",
+    "population": 16650,
+    "population_year": null
   },
   {
     "id": 49743,
@@ -153,7 +196,12 @@
     "latitude": "55.99204000",
     "longitude": "-3.89096000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Greenhill",
+    "timezone": "Europe/London",
+    "population": 2410,
+    "population_year": null
   },
   {
     "id": 49786,
@@ -165,7 +213,12 @@
     "latitude": "55.98573000",
     "longitude": "-3.78535000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Hallglen",
+    "timezone": "Europe/London",
+    "population": 3180,
+    "population_year": null
   },
   {
     "id": 49871,
@@ -177,7 +230,12 @@
     "latitude": "56.00623000",
     "longitude": "-3.91358000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Head of Muir",
+    "timezone": "Europe/London",
+    "population": 1700,
+    "population_year": null
   },
   {
     "id": 50248,
@@ -189,7 +247,12 @@
     "latitude": "56.02246000",
     "longitude": "-3.82872000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1389537",
+    "type": "section",
+    "native": "Larbert",
+    "timezone": "Europe/London",
+    "population": 11050,
+    "population_year": null
   },
   {
     "id": 50258,
@@ -201,7 +264,12 @@
     "latitude": "55.99562000",
     "longitude": "-3.74801000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Laurieston",
+    "timezone": "Europe/London",
+    "population": 2660,
+    "population_year": null
   },
   {
     "id": 50463,
@@ -213,7 +281,12 @@
     "latitude": "55.97365000",
     "longitude": "-3.69900000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Maddiston",
+    "timezone": "Europe/London",
+    "population": 3720,
+    "population_year": null
   },
   {
     "id": 50933,
@@ -225,7 +298,12 @@
     "latitude": "55.99050000",
     "longitude": "-3.70737000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q972353",
+    "type": "section",
+    "native": "Polmont",
+    "timezone": "Europe/London",
+    "population": 5320,
+    "population_year": null
   },
   {
     "id": 51050,
@@ -237,7 +315,12 @@
     "latitude": "55.98861000",
     "longitude": "-3.73230000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Redding",
+    "timezone": "Europe/London",
+    "population": 2540,
+    "population_year": null
   },
   {
     "id": 51051,
@@ -249,7 +332,12 @@
     "latitude": "55.98026000",
     "longitude": "-3.74853000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Reddingmuirhead",
+    "timezone": "Europe/London",
+    "population": 1580,
+    "population_year": null
   },
   {
     "id": 51276,
@@ -261,7 +349,12 @@
     "latitude": "55.97277000",
     "longitude": "-3.76788000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "village",
+    "native": "Shieldhill",
+    "timezone": "Europe/London",
+    "population": 2420,
+    "population_year": null
   },
   {
     "id": 51328,
@@ -273,7 +366,12 @@
     "latitude": "55.93729000",
     "longitude": "-3.83311000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1016958",
+    "type": "village",
+    "native": "Slamannan",
+    "timezone": "Europe/London",
+    "population": 1310,
+    "population_year": null
   },
   {
     "id": 51438,
@@ -285,7 +383,12 @@
     "latitude": "56.02676000",
     "longitude": "-3.81462000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3358826",
+    "type": "section",
+    "native": "Stenhousemuir",
+    "timezone": "Europe/London",
+    "population": 9740,
+    "population_year": null
   },
   {
     "id": 51850,
@@ -297,6 +400,11 @@
     "latitude": "55.99142000",
     "longitude": "-3.74016000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Westquarter",
+    "timezone": "Europe/London",
+    "population": 1120,
+    "population_year": null
   }
 ]

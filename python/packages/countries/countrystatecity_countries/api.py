@@ -247,7 +247,9 @@ def get_cities_of_country(country_code: str) -> List[City]:
         True
     """
     states = get_states_of_country(country_code)
-    all_cities = []
+    all_cities = [
+        City(**city) for city in DataLoader.load_country_cities(country_code.upper())
+    ]
 
     for state in states:
         cities = get_cities_of_state(country_code, state.state_code)

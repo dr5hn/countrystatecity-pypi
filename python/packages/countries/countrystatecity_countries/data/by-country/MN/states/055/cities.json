@@ -9,7 +9,12 @@
     "latitude": "46.26389000",
     "longitude": "102.77500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q717684",
+    "type": "adm1",
+    "native": "Арвайхээр",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 29420,
+    "population_year": null
   },
   {
     "id": 67721,
@@ -21,7 +26,12 @@
     "latitude": "47.19753000",
     "longitude": "102.82379000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Хархорин",
+    "timezone": "Asia/Choibalsan",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 67722,
@@ -33,7 +43,12 @@
     "latitude": "44.67024000",
     "longitude": "102.17491000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Ховд",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 27924,
+    "population_year": null
   },
   {
     "id": 67723,
@@ -45,7 +60,12 @@
     "latitude": "47.19245000",
     "longitude": "102.81349000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Хархорин",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 8977,
+    "population_year": null
   },
   {
     "id": 67729,
@@ -57,6 +77,11 @@
     "latitude": "45.95950000",
     "longitude": "101.45977000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3402273",
+    "type": "city",
+    "native": "Нарийнтээл",
+    "timezone": "Asia/Choibalsan",
+    "population": null,
+    "population_year": null
   }
 ]

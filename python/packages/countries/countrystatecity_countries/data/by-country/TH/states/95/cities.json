@@ -1,6 +1,6 @@
 [
   {
-    "id": 105247,
+    "id": 166953,
     "name": "Bannang Sata",
     "state_id": 3493,
     "state_code": "95",
@@ -9,7 +9,12 @@
     "latitude": "6.26604882",
     "longitude": "101.26624625",
     "county_id": 6286,
-    "wikiDataId": null
+    "wikiDataId": "Q4856861",
+    "type": "town",
+    "native": "บันนังสตา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106451,
@@ -21,7 +26,12 @@
     "latitude": "5.77434000",
     "longitude": "101.07231000",
     "county_id": 6285,
-    "wikiDataId": null
+    "wikiDataId": "Q2900126",
+    "type": "city",
+    "native": "เบตง",
+    "timezone": "Asia/Bangkok",
+    "population": 29604,
+    "population_year": null
   },
   {
     "id": 105361,
@@ -33,7 +43,12 @@
     "latitude": "6.37923000",
     "longitude": "100.98348000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475558",
+    "type": "district",
+    "native": "อำเภอกาบัง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105457,
@@ -45,10 +60,15 @@
     "latitude": "6.39932000",
     "longitude": "101.25710000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475838",
+    "type": "district",
+    "native": "อำเภอกรงปินัง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105803,
+    "id": 167899,
     "name": "Mueang Raman",
     "state_id": 3493,
     "state_code": "95",
@@ -57,7 +77,12 @@
     "latitude": "6.47748215",
     "longitude": "101.42550269",
     "county_id": 6289,
-    "wikiDataId": null
+    "wikiDataId": "Q2055930",
+    "type": "town",
+    "native": "เมืองรามันห์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106297,
@@ -69,10 +94,15 @@
     "latitude": "6.08042000",
     "longitude": "101.25941000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476882",
+    "type": "district",
+    "native": "อำเภอธารโต",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106372,
+    "id": 167285,
     "name": "Yaha",
     "state_id": 3493,
     "state_code": "95",
@@ -81,7 +111,12 @@
     "latitude": "6.48369444",
     "longitude": "101.13336111",
     "county_id": 6288,
-    "wikiDataId": null
+    "wikiDataId": "Q73295072",
+    "type": "town",
+    "native": "ยะหา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106755,
@@ -90,9 +125,14 @@
     "state_code": "95",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "6.53972222",
-    "longitude": "101.28111111",
-    "county_id": 6284,
-    "wikiDataId": null
+    "latitude": "6.53995000",
+    "longitude": "101.28128000",
+    "county_id": null,
+    "wikiDataId": "Q1207083",
+    "type": "adm1",
+    "native": "ยะลา",
+    "timezone": "Asia/Bangkok",
+    "population": 93558,
+    "population_year": null
   }
 ]

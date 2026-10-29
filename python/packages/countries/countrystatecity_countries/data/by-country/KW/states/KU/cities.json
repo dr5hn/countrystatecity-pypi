@@ -9,7 +9,12 @@
     "latitude": "29.36500000",
     "longitude": "48.00139000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الدسمة",
+    "timezone": "Asia/Kuwait",
+    "population": 17585,
+    "population_year": null
   },
   {
     "id": 65584,
@@ -21,7 +26,12 @@
     "latitude": "29.29500000",
     "longitude": "47.93306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "الربيعة",
+    "timezone": "Asia/Kuwait",
+    "population": 36447,
+    "population_year": null
   },
   {
     "id": 65586,
@@ -33,7 +43,12 @@
     "latitude": "29.34722000",
     "longitude": "47.96167000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3505782",
+    "type": "section",
+    "native": "الشامية",
+    "timezone": "Asia/Kuwait",
+    "population": 13762,
+    "population_year": null
   },
   {
     "id": 65587,
@@ -45,7 +60,12 @@
     "latitude": "29.44250000",
     "longitude": "48.27472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3505782",
+    "type": "city",
+    "native": "الزور",
+    "timezone": "Asia/Kuwait",
+    "population": 5750,
+    "population_year": null
   },
   {
     "id": 65590,
@@ -57,6 +77,11 @@
     "latitude": "29.36972000",
     "longitude": "47.97833000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q35178",
+    "type": "capital",
+    "native": "مدينة الكويت",
+    "timezone": "Asia/Kuwait",
+    "population": 2989000,
+    "population_year": null
   }
 ]

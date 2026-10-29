@@ -9,7 +9,12 @@
     "latitude": "1.87633000",
     "longitude": "32.06225000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6699373",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Africa/Kampala",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 110932,
@@ -21,6 +26,11 @@
     "latitude": "1.69606000",
     "longitude": "32.08608000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6783287",
+    "type": "city",
+    "native": "Masindi port",
+    "timezone": "Africa/Kampala",
+    "population": 7828,
+    "population_year": null
   }
 ]

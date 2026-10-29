@@ -9,7 +9,12 @@
     "latitude": "-0.17359000",
     "longitude": "34.91890000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2280998",
+    "type": "city",
+    "native": "Amherno",
+    "timezone": "Africa/Nairobi",
+    "population": 11801,
+    "population_year": null
   },
   {
     "id": 64811,
@@ -21,7 +26,12 @@
     "latitude": "-0.10221000",
     "longitude": "34.76171000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q214485",
+    "type": "adm1",
+    "native": "Kisumu",
+    "timezone": "Africa/Nairobi",
+    "population": 397957,
+    "population_year": null
   },
   {
     "id": 64841,
@@ -33,6 +43,11 @@
     "latitude": "-0.15816000",
     "longitude": "35.19645000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Muhoron",
+    "timezone": "Africa/Nairobi",
+    "population": 15217,
+    "population_year": null
   }
 ]

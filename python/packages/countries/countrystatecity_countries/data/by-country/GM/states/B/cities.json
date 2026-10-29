@@ -9,7 +9,12 @@
     "latitude": "13.47806000",
     "longitude": "-16.68194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q804275",
+    "type": "city",
+    "native": "Bakau",
+    "timezone": "Africa/Banjul",
+    "population": 43098,
+    "population_year": null
   },
   {
     "id": 52221,
@@ -21,7 +26,12 @@
     "latitude": "13.45274000",
     "longitude": "-16.57803000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3726",
+    "type": "capital",
+    "native": "Banjul",
+    "timezone": "Africa/Banjul",
+    "population": 31356,
+    "population_year": null
   },
   {
     "id": 52277,
@@ -33,7 +43,12 @@
     "latitude": "13.44389000",
     "longitude": "-16.64583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1572418",
+    "type": "district",
+    "native": "Kombo Saint Mary District",
+    "timezone": "Africa/Banjul",
+    "population": 345191,
+    "population_year": null
   },
   {
     "id": 52304,
@@ -45,6 +60,11 @@
     "latitude": "13.43833000",
     "longitude": "-16.67806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q217568",
+    "type": "city",
+    "native": "Serekunda",
+    "timezone": "Africa/Banjul",
+    "population": 382096,
+    "population_year": null
   }
 ]

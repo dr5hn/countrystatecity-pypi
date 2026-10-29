@@ -9,7 +9,12 @@
     "latitude": "19.81667000",
     "longitude": "-72.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Arcahaïe",
+    "timezone": "America/Port-au-Prince",
+    "population": 4119,
+    "population_year": null
   },
   {
     "id": 55062,
@@ -21,7 +26,12 @@
     "latitude": "19.83333000",
     "longitude": "-72.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Arrondissement de Port-de-Paix",
+    "timezone": "America/Port-au-Prince",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 55063,
@@ -33,7 +43,12 @@
     "latitude": "19.85000000",
     "longitude": "-72.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Arrondissement de Saint-Louis du Nord",
+    "timezone": "America/Port-au-Prince",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 55068,
@@ -45,7 +60,12 @@
     "latitude": "19.75000000",
     "longitude": "-73.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Arrondissement du Môle Saint-Nicolas",
+    "timezone": "America/Port-au-Prince",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 55071,
@@ -57,7 +77,12 @@
     "latitude": "19.66307000",
     "longitude": "-73.20943000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Baie de Henne",
+    "timezone": "America/Port-au-Prince",
+    "population": 1660,
+    "population_year": null
   },
   {
     "id": 55074,
@@ -69,7 +94,12 @@
     "latitude": "19.69142000",
     "longitude": "-73.33769000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2670981",
+    "type": "city",
+    "native": "Bombardopole",
+    "timezone": "America/Port-au-Prince",
+    "population": 1974,
+    "population_year": null
   },
   {
     "id": 55097,
@@ -81,7 +111,12 @@
     "latitude": "19.79445000",
     "longitude": "-72.79949000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Fond Bassin Bleu",
+    "timezone": "America/Port-au-Prince",
+    "population": 1184,
+    "population_year": null
   },
   {
     "id": 55110,
@@ -93,7 +128,12 @@
     "latitude": "19.85379000",
     "longitude": "-73.19131000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1317264",
+    "type": "city",
+    "native": "Jean-Rabel",
+    "timezone": "America/Port-au-Prince",
+    "population": 5419,
+    "population_year": null
   },
   {
     "id": 55133,
@@ -105,7 +145,12 @@
     "latitude": "19.80700000",
     "longitude": "-73.37605000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2429630",
+    "type": "city",
+    "native": "Môle Saint-Nicolas",
+    "timezone": "America/Port-au-Prince",
+    "population": 3224,
+    "population_year": null
   },
   {
     "id": 55138,
@@ -117,7 +162,12 @@
     "latitude": "19.63011000",
     "longitude": "-73.15499000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Petite Anse",
+    "timezone": "America/Port-au-Prince",
+    "population": 1539,
+    "population_year": null
   },
   {
     "id": 55147,
@@ -129,7 +179,12 @@
     "latitude": "19.93984000",
     "longitude": "-72.83037000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q951602",
+    "type": "adm1",
+    "native": "Port-de-Paix",
+    "timezone": "America/Port-au-Prince",
+    "population": 306217,
+    "population_year": null
   },
   {
     "id": 55153,
@@ -141,7 +196,12 @@
     "latitude": "19.93397000",
     "longitude": "-72.72138000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Saint-Louis du Nord",
+    "timezone": "America/Port-au-Prince",
+    "population": 11849,
+    "population_year": null
   },
   {
     "id": 55161,
@@ -153,6 +213,11 @@
     "latitude": "19.93333000",
     "longitude": "-72.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Ti Port-de-Paix",
+    "timezone": "America/Port-au-Prince",
+    "population": 34657,
+    "population_year": null
   }
 ]

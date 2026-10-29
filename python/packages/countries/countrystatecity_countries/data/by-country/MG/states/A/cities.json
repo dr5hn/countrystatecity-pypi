@@ -9,7 +9,12 @@
     "latitude": "-18.95443000",
     "longitude": "49.10940000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13105654",
+    "type": "city",
+    "native": "Andovaranto",
+    "timezone": "Indian/Antananarivo",
+    "population": 10429,
+    "population_year": null
   },
   {
     "id": 67382,
@@ -21,7 +26,12 @@
     "latitude": "-18.14920000",
     "longitude": "49.40234000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q178067",
+    "type": "adm1",
+    "native": "Toamasina",
+    "timezone": "Indian/Antananarivo",
+    "population": 345107,
+    "population_year": null
   },
   {
     "id": 67384,
@@ -33,6 +43,11 @@
     "latitude": "-17.94053000",
     "longitude": "49.14608000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3031893",
+    "type": "city",
+    "native": "Toamasina II",
+    "timezone": "Indian/Antananarivo",
+    "population": 168388,
+    "population_year": null
   }
 ]

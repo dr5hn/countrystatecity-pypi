@@ -9,7 +9,12 @@
     "latitude": "18.45000000",
     "longitude": "-69.60000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q888935",
+    "type": "adm3",
+    "native": "Boca Chica",
+    "timezone": "America/Santo_Domingo",
+    "population": 46300,
+    "population_year": null
   },
   {
     "id": 31198,
@@ -21,7 +26,12 @@
     "latitude": "18.48847000",
     "longitude": "-69.85707000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2713354",
+    "type": "adm1",
+    "native": "Santo Domingo Este",
+    "timezone": "America/Santo_Domingo",
+    "population": 948855,
+    "population_year": null
   },
   {
     "id": 31199,
@@ -33,6 +43,11 @@
     "latitude": "18.50000000",
     "longitude": "-70.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3949488",
+    "type": "city",
+    "native": "Santo Domingo Oeste",
+    "timezone": "America/Santo_Domingo",
+    "population": 701269,
+    "population_year": null
   }
 ]

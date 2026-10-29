@@ -9,7 +9,12 @@
     "latitude": "6.81968910",
     "longitude": "-2.80770500",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q752417",
+    "type": "city",
+    "native": "Asunafo North",
+    "timezone": "Africa/Accra",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149071,
@@ -21,7 +26,12 @@
     "latitude": "6.68210000",
     "longitude": "-2.43997530",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q752420",
+    "type": "area",
+    "native": "Asunafo South",
+    "timezone": "Africa/Accra",
+    "population": 91693,
+    "population_year": null
   },
   {
     "id": 149072,
@@ -33,7 +43,12 @@
     "latitude": "6.94774860",
     "longitude": "-2.76757160",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q55555112",
+    "type": "city",
+    "native": "Asutifi North",
+    "timezone": "Africa/Accra",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149073,
@@ -45,7 +60,12 @@
     "latitude": "6.93215810",
     "longitude": "-2.35521890",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q55555134",
+    "type": "city",
+    "native": "Asutifi South",
+    "timezone": "Africa/Accra",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 164763,
@@ -57,7 +77,12 @@
     "latitude": "7.17487000",
     "longitude": "-2.09961000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5310449",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164760,
@@ -69,7 +94,12 @@
     "latitude": "6.80355000",
     "longitude": "-2.51720000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5575256",
+    "type": "adm1",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "population": 21798,
+    "population_year": null
   },
   {
     "id": 149069,
@@ -81,7 +111,12 @@
     "latitude": "7.22603010",
     "longitude": "-2.30456560",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q373327",
+    "type": "city",
+    "native": "Tano North",
+    "timezone": "Africa/Accra",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149068,
@@ -93,6 +128,11 @@
     "latitude": "7.19537930",
     "longitude": "-2.12586610",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q960302",
+    "type": "city",
+    "native": "Tano South",
+    "timezone": "Africa/Accra",
+    "population": null,
+    "population_year": null
   }
 ]

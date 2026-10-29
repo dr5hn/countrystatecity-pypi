@@ -9,7 +9,12 @@
     "latitude": "55.46273000",
     "longitude": "-4.63393000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q654216",
+    "type": "town",
+    "native": "Ayr",
+    "timezone": "Europe/London",
+    "population": 46780,
+    "population_year": null
   },
   {
     "id": 48462,
@@ -21,7 +26,12 @@
     "latitude": "55.31310000",
     "longitude": "-4.39869000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Bellsbank",
+    "timezone": "Europe/London",
+    "population": 1270,
+    "population_year": null
   },
   {
     "id": 49137,
@@ -33,7 +43,12 @@
     "latitude": "55.44528000",
     "longitude": "-4.51950000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1011801",
+    "type": "village",
+    "native": "Coylton",
+    "timezone": "Europe/London",
+    "population": 2160,
+    "population_year": null
   },
   {
     "id": 49349,
@@ -45,7 +60,12 @@
     "latitude": "55.57939000",
     "longitude": "-4.59473000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5314885",
+    "type": "village",
+    "native": "Dundonald",
+    "timezone": "Europe/London",
+    "population": 2670,
+    "population_year": null
   },
   {
     "id": 49646,
@@ -57,7 +77,12 @@
     "latitude": "55.24255000",
     "longitude": "-4.85551000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1011787",
+    "type": "town",
+    "native": "Girvan",
+    "timezone": "Europe/London",
+    "population": 6450,
+    "population_year": null
   },
   {
     "id": 50531,
@@ -69,7 +94,12 @@
     "latitude": "55.35503000",
     "longitude": "-4.68026000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q603616",
+    "type": "town",
+    "native": "Maybole",
+    "timezone": "Europe/London",
+    "population": 4610,
+    "population_year": null
   },
   {
     "id": 50990,
@@ -81,7 +111,12 @@
     "latitude": "55.48333000",
     "longitude": "-4.61667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q939049",
+    "type": "section",
+    "native": "Prestwick",
+    "timezone": "Europe/London",
+    "population": 14750,
+    "population_year": null
   },
   {
     "id": 51540,
@@ -93,7 +128,12 @@
     "latitude": "55.55176000",
     "longitude": "-4.55835000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12070430",
+    "type": "village",
+    "native": "Symington",
+    "timezone": "Europe/London",
+    "population": 1050,
+    "population_year": null
   },
   {
     "id": 51559,
@@ -105,7 +145,12 @@
     "latitude": "55.51292000",
     "longitude": "-4.48648000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1011743",
+    "type": "village",
+    "native": "Tarbolton",
+    "timezone": "Europe/London",
+    "population": 1900,
+    "population_year": null
   },
   {
     "id": 51673,
@@ -117,6 +162,11 @@
     "latitude": "55.54359000",
     "longitude": "-4.66335000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1021167",
+    "type": "town",
+    "native": "Troon",
+    "timezone": "Europe/London",
+    "population": 14680,
+    "population_year": null
   }
 ]

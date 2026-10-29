@@ -9,7 +9,12 @@
     "latitude": "20.24670000",
     "longitude": "100.45401000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "ບ້ານຫົວຂົວ",
+    "timezone": "Asia/Vientiane",
+    "population": 15500,
+    "population_year": null
   },
   {
     "id": 65857,
@@ -21,7 +26,12 @@
     "latitude": "20.27000000",
     "longitude": "100.41780000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "ບ້ານຫ້ວຍຊາຍ",
+    "timezone": "Asia/Vientiane",
+    "population": 12500,
+    "population_year": null
   },
   {
     "id": 65872,
@@ -33,7 +43,12 @@
     "latitude": "20.38763000",
     "longitude": "100.62687000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5912694",
+    "type": "city",
+    "native": "ເມືອງຫ້ວຍຊາຍ",
+    "timezone": "Asia/Vientiane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65881,
@@ -45,7 +60,12 @@
     "latitude": "20.67585000",
     "longitude": "100.52639000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10793130",
+    "type": "city",
+    "native": "ເມືອງເມຶອງ",
+    "timezone": "Asia/Vientiane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65885,
@@ -57,7 +77,12 @@
     "latitude": "20.09108000",
     "longitude": "100.59940000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6468523",
+    "type": "city",
+    "native": "ເມືອງປາກທາ",
+    "timezone": "Asia/Vientiane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65889,
@@ -69,7 +94,12 @@
     "latitude": "20.18744000",
     "longitude": "100.92600000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7179857",
+    "type": "city",
+    "native": "ມ.ຜາອຸດົມ",
+    "timezone": "Asia/Vientiane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65908,
@@ -81,6 +111,11 @@
     "latitude": "20.53465000",
     "longitude": "100.29624000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6578402",
+    "type": "city",
+    "native": "ເມືອງຕົ້ນເຜິ້ງ",
+    "timezone": "Asia/Vientiane",
+    "population": null,
+    "population_year": null
   }
 ]

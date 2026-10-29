@@ -9,7 +9,12 @@
     "latitude": "43.75306000",
     "longitude": "20.09556000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2041757",
+    "type": "adm3",
+    "native": "Ариље",
+    "timezone": "Europe/Belgrade",
+    "population": 6762,
+    "population_year": null
   },
   {
     "id": 97150,
@@ -21,7 +26,12 @@
     "latitude": "43.97083000",
     "longitude": "19.56750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1811753",
+    "type": "adm3",
+    "native": "Бајина Башта",
+    "timezone": "Europe/Belgrade",
+    "population": 8533,
+    "population_year": null
   },
   {
     "id": 97456,
@@ -33,7 +43,12 @@
     "latitude": "43.74977000",
     "longitude": "19.71273000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1250050",
+    "type": "municipality",
+    "native": "Чајетина",
+    "timezone": "Europe/Belgrade",
+    "population": 3162,
+    "population_year": null
   },
   {
     "id": 155097,
@@ -45,7 +60,12 @@
     "latitude": "43.99992150",
     "longitude": "19.89156760",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2500654",
+    "type": "adm3",
+    "native": "Косјерић",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 155098,
@@ -57,7 +77,12 @@
     "latitude": "43.46568110",
     "longitude": "19.76736470",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2041713",
+    "type": "city",
+    "native": "Нова Варош",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97324,
@@ -69,7 +94,12 @@
     "latitude": "43.14528000",
     "longitude": "19.85889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Осјеченик",
+    "timezone": "Europe/Belgrade",
+    "population": 1430,
+    "population_year": null
   },
   {
     "id": 155099,
@@ -81,7 +111,12 @@
     "latitude": "43.84033580",
     "longitude": "19.99691900",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2500701",
+    "type": "city",
+    "native": "Пожега",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97344,
@@ -93,7 +128,12 @@
     "latitude": "43.58306000",
     "longitude": "19.52519000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Прибој",
+    "timezone": "Europe/Belgrade",
+    "population": 3,
+    "population_year": null
   },
   {
     "id": 97346,
@@ -105,7 +145,12 @@
     "latitude": "43.38996000",
     "longitude": "19.64870000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2500681",
+    "type": "municipality",
+    "native": "Пријепоље",
+    "timezone": "Europe/Belgrade",
+    "population": 3,
+    "population_year": null
   },
   {
     "id": 97381,
@@ -117,7 +162,12 @@
     "latitude": "43.27306000",
     "longitude": "19.99944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q994217",
+    "type": "municipality",
+    "native": "Сјеница",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97424,
@@ -129,6 +179,11 @@
     "latitude": "43.85861000",
     "longitude": "19.84878000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q59473",
+    "type": "city",
+    "native": "Ужице",
+    "timezone": "Europe/Belgrade",
+    "population": 59747,
+    "population_year": null
   }
 ]

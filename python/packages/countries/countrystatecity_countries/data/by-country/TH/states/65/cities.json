@@ -9,7 +9,12 @@
     "latitude": "17.39357000",
     "longitude": "100.68460000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475371",
+    "type": "district",
+    "native": "อำเภอชาติตระการ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106430,
@@ -21,7 +26,12 @@
     "latitude": "16.57831000",
     "longitude": "100.30034000",
     "county_id": 6064,
-    "wikiDataId": null
+    "wikiDataId": "Q28732635",
+    "type": "town",
+    "native": "บางกระทุ่ม",
+    "timezone": "Asia/Bangkok",
+    "population": 18874,
+    "population_year": null
   },
   {
     "id": 106444,
@@ -33,7 +43,12 @@
     "latitude": "16.75847000",
     "longitude": "100.11742000",
     "county_id": 6063,
-    "wikiDataId": null
+    "wikiDataId": "Q28732633",
+    "type": "town",
+    "native": "บางระกำ",
+    "timezone": "Asia/Bangkok",
+    "population": 16841,
+    "population_year": null
   },
   {
     "id": 106468,
@@ -45,7 +60,12 @@
     "latitude": "17.27606000",
     "longitude": "100.60022000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "ชาติตระการ",
+    "timezone": "Asia/Bangkok",
+    "population": 4608,
+    "population_year": null
   },
   {
     "id": 106586,
@@ -57,10 +77,15 @@
     "latitude": "17.10056000",
     "longitude": "100.83739000",
     "county_id": 6061,
-    "wikiDataId": null
+    "wikiDataId": "Q28732623",
+    "type": "town",
+    "native": "นครไทย",
+    "timezone": "Asia/Bangkok",
+    "population": 12345,
+    "population_year": null
   },
   {
-    "id": 105647,
+    "id": 167102,
     "name": "Noen Maprang",
     "state_id": 3506,
     "state_code": "65",
@@ -69,7 +94,12 @@
     "latitude": "16.56834100",
     "longitude": "100.63556300",
     "county_id": 6068,
-    "wikiDataId": null
+    "wikiDataId": "Q15141861",
+    "type": "town",
+    "native": "เนินมะปราง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106636,
@@ -81,10 +111,15 @@
     "latitude": "16.82481000",
     "longitude": "100.25858000",
     "county_id": 6060,
-    "wikiDataId": null
+    "wikiDataId": "Q867579",
+    "type": "city",
+    "native": "พิษณุโลก",
+    "timezone": "Asia/Bangkok",
+    "population": 70871,
+    "population_year": null
   },
   {
-    "id": 105773,
+    "id": 167161,
     "name": "Phrom Phiram",
     "state_id": 3506,
     "state_code": "65",
@@ -93,10 +128,15 @@
     "latitude": "17.03352000",
     "longitude": "100.20190000",
     "county_id": 6065,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "พรหมพิราม",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106348,
+    "id": 167274,
     "name": "Wang Thong",
     "state_id": 3506,
     "state_code": "65",
@@ -105,10 +145,15 @@
     "latitude": "16.82290000",
     "longitude": "100.42550000",
     "county_id": 6067,
-    "wikiDataId": null
+    "wikiDataId": "Q103493481",
+    "type": "town",
+    "native": "วังทอง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106355,
+    "id": 167278,
     "name": "Wat Bot",
     "state_id": 3506,
     "state_code": "65",
@@ -117,6 +162,11 @@
     "latitude": "16.98114000",
     "longitude": "100.33195000",
     "county_id": 6066,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "วัดโบสถ์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

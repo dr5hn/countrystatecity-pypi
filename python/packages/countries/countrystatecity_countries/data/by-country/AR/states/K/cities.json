@@ -9,7 +9,12 @@
     "latitude": "-28.81247000",
     "longitude": "-65.50145000",
     "county_id": 6456,
-    "wikiDataId": null
+    "wikiDataId": "Q2566241",
+    "type": "municipality",
+    "native": "Ancasti",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 3082,
+    "population_year": null
   },
   {
     "id": 661,
@@ -20,8 +25,13 @@
     "country_code": "AR",
     "latitude": "-27.58185000",
     "longitude": "-66.31626000",
-    "county_id": 6457,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q489679",
+    "type": "adm2",
+    "native": "Andalgalá",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 14068,
+    "population_year": null
   },
   {
     "id": 663,
@@ -32,11 +42,16 @@
     "country_code": "AR",
     "latitude": "-26.05940000",
     "longitude": "-67.40636000",
-    "county_id": 6458,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q2536371",
+    "type": "adm2",
+    "native": "Antofagasta de la Sierra",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 500,
+    "population_year": null
   },
   {
-    "id": 1007,
+    "id": 166332,
     "name": "Bañado de Ovanta",
     "state_id": 3647,
     "state_code": "K",
@@ -45,7 +60,12 @@
     "latitude": "-28.10000000",
     "longitude": "-65.31666667",
     "county_id": 6468,
-    "wikiDataId": null
+    "wikiDataId": "Q812709",
+    "type": "locality",
+    "native": "Bañado de Ovanta",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 726,
@@ -57,7 +77,12 @@
     "latitude": "-28.77436000",
     "longitude": "-66.04749000",
     "county_id": 6460,
-    "wikiDataId": null
+    "wikiDataId": "Q3656770",
+    "type": "municipality",
+    "native": "Capayán",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 6358,
+    "population_year": null
   },
   {
     "id": 164445,
@@ -69,7 +94,12 @@
     "latitude": "-28.85319000",
     "longitude": "-66.23756000",
     "county_id": 6460,
-    "wikiDataId": null
+    "wikiDataId": "Q5116156",
+    "type": "locality",
+    "native": null,
+    "timezone": "America/Argentina/Catamarca",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 877,
@@ -81,7 +111,12 @@
     "latitude": "-28.41667000",
     "longitude": "-65.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Departamento de El Alto",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 4375,
+    "population_year": null
   },
   {
     "id": 1060,
@@ -93,7 +128,12 @@
     "latitude": "-28.21518000",
     "longitude": "-65.87420000",
     "county_id": 6455,
-    "wikiDataId": null
+    "wikiDataId": "Q1324572",
+    "type": "municipality",
+    "native": "El Rodeo",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 1083,
+    "population_year": null
   },
   {
     "id": 1078,
@@ -104,8 +144,13 @@
     "country_code": "AR",
     "latitude": "-27.67225000",
     "longitude": "-67.61870000",
-    "county_id": 6469,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q2613214",
+    "type": "city",
+    "native": "Fiambalá",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 8061,
+    "population_year": null
   },
   {
     "id": 1142,
@@ -116,8 +161,13 @@
     "country_code": "AR",
     "latitude": "-27.22896000",
     "longitude": "-66.83131000",
-    "county_id": 6459,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1774287",
+    "type": "city",
+    "native": "Hualfin",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 2304,
+    "population_year": null
   },
   {
     "id": 1145,
@@ -128,8 +178,13 @@
     "country_code": "AR",
     "latitude": "-28.72533000",
     "longitude": "-65.97870000",
-    "county_id": 6460,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q81653",
+    "type": "city",
+    "native": "Huillapima",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 7779,
+    "population_year": null
   },
   {
     "id": 1149,
@@ -140,8 +195,13 @@
     "country_code": "AR",
     "latitude": "-28.91934000",
     "longitude": "-65.32817000",
-    "county_id": 6464,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q3791626",
+    "type": "city",
+    "native": "Icaño",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 6857,
+    "population_year": null
   },
   {
     "id": 164450,
@@ -153,7 +213,12 @@
     "latitude": "-28.15635000",
     "longitude": "-65.79387000",
     "county_id": 6455,
-    "wikiDataId": null
+    "wikiDataId": "Q1015215",
+    "type": "locality",
+    "native": null,
+    "timezone": "America/Argentina/Catamarca",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 1239,
@@ -164,8 +229,13 @@
     "country_code": "AR",
     "latitude": "-27.71439000",
     "longitude": "-67.13349000",
-    "county_id": 6459,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q930973",
+    "type": "city",
+    "native": "Londres",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 2627,
+    "population_year": null
   },
   {
     "id": 1243,
@@ -176,8 +246,13 @@
     "country_code": "AR",
     "latitude": "-28.04845000",
     "longitude": "-65.49945000",
-    "county_id": 6468,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q6681893",
+    "type": "city",
+    "native": "Los Altos",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 6421,
+    "population_year": null
   },
   {
     "id": 1256,
@@ -188,8 +263,13 @@
     "country_code": "AR",
     "latitude": "-27.93003000",
     "longitude": "-65.87153000",
-    "county_id": 6455,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1774269",
+    "type": "city",
+    "native": "Los Varela",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 1908,
+    "population_year": null
   },
   {
     "id": 1294,
@@ -200,8 +280,13 @@
     "country_code": "AR",
     "latitude": "-28.32104000",
     "longitude": "-66.14253000",
-    "county_id": 6466,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q2387512",
+    "type": "city",
+    "native": "Mutquín",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 1207,
+    "population_year": null
   },
   {
     "id": 1340,
@@ -212,8 +297,13 @@
     "country_code": "AR",
     "latitude": "-28.39455000",
     "longitude": "-66.22052000",
-    "county_id": 6466,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q2437304",
+    "type": "city",
+    "native": "Pomano",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 3387,
+    "population_year": null
   },
   {
     "id": 1350,
@@ -224,8 +314,13 @@
     "country_code": "AR",
     "latitude": "-27.23000000",
     "longitude": "-66.93635000",
-    "county_id": 6459,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1774277",
+    "type": "city",
+    "native": "Puerta de Corral Quemado",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 1634,
+    "population_year": null
   },
   {
     "id": 1197,
@@ -236,8 +331,13 @@
     "country_code": "AR",
     "latitude": "-27.55000000",
     "longitude": "-67.01667000",
-    "county_id": 6459,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1774215",
+    "type": "city",
+    "native": "La Puerta de San José",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 1378,
@@ -248,8 +348,13 @@
     "country_code": "AR",
     "latitude": "-29.28184000",
     "longitude": "-65.06096000",
-    "county_id": 6464,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q766923",
+    "type": "adm2",
+    "native": "Recreo",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 14204,
+    "population_year": null
   },
   {
     "id": 1408,
@@ -261,7 +366,12 @@
     "latitude": "-28.01009000",
     "longitude": "-65.70874000",
     "county_id": 6465,
-    "wikiDataId": null
+    "wikiDataId": "Q7413304",
+    "type": "locality",
+    "native": "San Antonio",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 4290,
+    "population_year": null
   },
   {
     "id": 1421,
@@ -272,8 +382,13 @@
     "country_code": "AR",
     "latitude": "-28.46957000",
     "longitude": "-65.78524000",
-    "county_id": 6461,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q44162",
+    "type": "city",
+    "native": "San Fernando del Valle de Catamarca",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 159139,
+    "population_year": null
   },
   {
     "id": 164423,
@@ -285,7 +400,12 @@
     "latitude": "-28.45775000",
     "longitude": "-65.72498000",
     "county_id": 6470,
-    "wikiDataId": null
+    "wikiDataId": "Q2287613",
+    "type": "locality",
+    "native": null,
+    "timezone": "America/Argentina/Catamarca",
+    "population": 31972,
+    "population_year": null
   },
   {
     "id": 164439,
@@ -297,7 +417,12 @@
     "latitude": "-28.38756000",
     "longitude": "-65.70087000",
     "county_id": 6463,
-    "wikiDataId": null
+    "wikiDataId": "Q1015546",
+    "type": "locality",
+    "native": null,
+    "timezone": "America/Argentina/Catamarca",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 1464,
@@ -308,20 +433,30 @@
     "country_code": "AR",
     "latitude": "-26.69547000",
     "longitude": "-66.04732000",
-    "county_id": 6467,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1012407",
+    "type": "adm2",
+    "native": "Santa María",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 0,
+    "population_year": null
   },
   {
-    "id": 959,
+    "id": 166317,
     "name": "Saujil",
     "state_id": 3647,
     "state_code": "K",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-28.17352104",
-    "longitude": "-66.21208954",
+    "latitude": "-28.17380860",
+    "longitude": "-66.21148660",
     "county_id": 6466,
-    "wikiDataId": null
+    "wikiDataId": "Q2165549",
+    "type": "municipality",
+    "native": "Saujil",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 1505,
@@ -332,7 +467,12 @@
     "country_code": "AR",
     "latitude": "-28.06319000",
     "longitude": "-67.56488000",
-    "county_id": 6469,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q81563",
+    "type": "adm2",
+    "native": "Tinogasta",
+    "timezone": "America/Argentina/Catamarca",
+    "population": 14509,
+    "population_year": null
   }
 ]

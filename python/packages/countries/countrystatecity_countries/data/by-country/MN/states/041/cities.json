@@ -9,7 +9,12 @@
     "latitude": "51.50265000",
     "longitude": "100.66395000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2607700",
+    "type": "adm2",
+    "native": "Ханх",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 2140,
+    "population_year": null
   },
   {
     "id": 67726,
@@ -21,7 +26,12 @@
     "latitude": "49.63417000",
     "longitude": "100.16250000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Мөрөн-күрэн",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 39404,
+    "population_year": null
   },
   {
     "id": 67732,
@@ -33,7 +43,12 @@
     "latitude": "49.47833000",
     "longitude": "100.88944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Цэнгэл",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 7952,
+    "population_year": null
   },
   {
     "id": 67735,
@@ -45,6 +60,11 @@
     "latitude": "51.50725000",
     "longitude": "100.66257000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Турт",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 2140,
+    "population_year": null
   }
 ]

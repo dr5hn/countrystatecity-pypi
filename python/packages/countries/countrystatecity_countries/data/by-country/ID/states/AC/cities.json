@@ -1,77 +1,5 @@
 [
   {
-    "id": 56308,
-    "name": "Aceh Barat Daya",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "3.83333000",
-    "longitude": "96.88333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56309,
-    "name": "Aceh Besar",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "5.38333000",
-    "longitude": "95.51667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56312,
-    "name": "Aceh Singkil",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "2.41667000",
-    "longitude": "97.91667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56313,
-    "name": "Aceh Tamiang",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.25000000",
-    "longitude": "97.96667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56314,
-    "name": "Aceh Tengah",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.51000000",
-    "longitude": "96.85500000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56316,
-    "name": "Aceh Timur",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.63333000",
-    "longitude": "97.63333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 56193,
     "name": "Banda Aceh",
     "state_id": 1822,
@@ -81,19 +9,12 @@
     "latitude": "5.54167000",
     "longitude": "95.33333000",
     "county_id": 8385,
-    "wikiDataId": null
-  },
-  {
-    "id": 56362,
-    "name": "Bireuen",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "5.08333000",
-    "longitude": "96.58333000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5779",
+    "type": "city",
+    "native": "Banda Aceh",
+    "timezone": "Asia/Jakarta",
+    "population": 235305,
+    "population_year": null
   },
   {
     "id": 56223,
@@ -105,7 +26,46 @@
     "latitude": "5.20300000",
     "longitude": "96.70090000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24821904",
+    "type": "city",
+    "native": "Bireun",
+    "timezone": "Asia/Jakarta",
+    "population": 47670,
+    "population_year": null
+  },
+  {
+    "id": 166680,
+    "name": "Blangkejeren",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "3.99710000",
+    "longitude": "97.33840000",
+    "county_id": 8379,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Blangkejeren",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166617,
+    "name": "Blangpidie",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "3.73956000",
+    "longitude": "96.83608000",
+    "county_id": 8378,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Blangpidie",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164815,
@@ -117,22 +77,66 @@
     "latitude": "4.63060000",
     "longitude": "95.57540000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2474681",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56408,
-    "name": "Gayo Lues",
+    "id": 166623,
+    "name": "Idi Rayeuk",
     "state_id": 1822,
     "state_code": "AC",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "3.95000000",
-    "longitude": "97.39000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "4.94952000",
+    "longitude": "97.77267000",
+    "county_id": 8369,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Idi Rayeuk",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56315,
+    "id": 166618,
+    "name": "Jantho",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "5.29680000",
+    "longitude": "95.63580000",
+    "county_id": 8372,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Jantho",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166620,
+    "name": "Karang Baru",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "4.30563000",
+    "longitude": "98.02709000",
+    "county_id": 8382,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Karang Baru",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166622,
     "name": "Kutacane",
     "state_id": 1822,
     "state_code": "AC",
@@ -141,7 +145,12 @@
     "latitude": "3.47307781",
     "longitude": "97.81921889",
     "county_id": 8368,
-    "wikiDataId": null
+    "wikiDataId": "Q14221611",
+    "type": "town",
+    "native": "Kutacane",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56837,
@@ -153,7 +162,12 @@
     "latitude": "4.46830000",
     "longitude": "97.96830000",
     "county_id": 8388,
-    "wikiDataId": null
+    "wikiDataId": "Q5781",
+    "type": "city",
+    "native": "Langsa",
+    "timezone": "Asia/Jakarta",
+    "population": 178334,
+    "population_year": null
   },
   {
     "id": 56844,
@@ -165,10 +179,15 @@
     "latitude": "5.18010000",
     "longitude": "97.15070000",
     "county_id": 8387,
-    "wikiDataId": null
+    "wikiDataId": "Q5784",
+    "type": "city",
+    "native": "Lhokseumawe",
+    "timezone": "Asia/Jakarta",
+    "population": 180200,
+    "population_year": null
   },
   {
-    "id": 56317,
+    "id": 166624,
     "name": "Lhoksukon",
     "state_id": 1822,
     "state_code": "AC",
@@ -177,7 +196,12 @@
     "latitude": "5.07555569",
     "longitude": "97.30271784",
     "county_id": 8374,
-    "wikiDataId": null
+    "wikiDataId": "Q14634612",
+    "type": "town",
+    "native": "Lhoksukon",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56872,
@@ -189,31 +213,12 @@
     "latitude": "4.14402000",
     "longitude": "96.12664000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56552,
-    "name": "Nagan Raya",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.16667000",
-    "longitude": "96.51667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56593,
-    "name": "Pidie",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "5.08000000",
-    "longitude": "96.11000000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1026402",
+    "type": "adm2",
+    "native": "Meulaboh",
+    "timezone": "Asia/Jakarta",
+    "population": 64646,
+    "population_year": null
   },
   {
     "id": 56955,
@@ -225,7 +230,12 @@
     "latitude": "5.21667000",
     "longitude": "96.28333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Releuet",
+    "timezone": "Asia/Jakarta",
+    "population": 40393,
+    "population_year": null
   },
   {
     "id": 56957,
@@ -237,7 +247,12 @@
     "latitude": "5.88969000",
     "longitude": "95.31644000",
     "county_id": 8386,
-    "wikiDataId": null
+    "wikiDataId": "Q5787",
+    "type": "city",
+    "native": "Sabang",
+    "timezone": "Asia/Jakarta",
+    "population": 42066,
+    "population_year": null
   },
   {
     "id": 56976,
@@ -249,7 +264,12 @@
     "latitude": "5.38480000",
     "longitude": "95.96090000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Sigli",
+    "timezone": "Asia/Jakarta",
+    "population": 17504,
+    "population_year": null
   },
   {
     "id": 164824,
@@ -261,7 +281,12 @@
     "latitude": "4.72200000",
     "longitude": "96.87430000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7520592",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56979,
@@ -273,7 +298,12 @@
     "latitude": "2.48030000",
     "longitude": "96.38010000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q646700",
+    "type": "adm2",
+    "native": "Sinabang",
+    "timezone": "Asia/Jakarta",
+    "population": 15000,
+    "population_year": null
   },
   {
     "id": 56982,
@@ -285,10 +315,49 @@
     "latitude": "2.28740000",
     "longitude": "97.78840000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Singkil",
+    "timezone": "Asia/Jakarta",
+    "population": 46800,
+    "population_year": null
   },
   {
-    "id": 56311,
+    "id": 166769,
+    "name": "Suka Makmue",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "4.00312000",
+    "longitude": "96.61762000",
+    "county_id": 8381,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Suka Makmue",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166621,
+    "name": "Takengon",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "4.62120000",
+    "longitude": "96.84670000",
+    "county_id": 8370,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Takengon",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166619,
     "name": "Tapaktuan",
     "state_id": 1822,
     "state_code": "AC",
@@ -297,6 +366,11 @@
     "latitude": "3.25805556",
     "longitude": "97.18000000",
     "county_id": 8367,
-    "wikiDataId": null
+    "wikiDataId": "Q26758564",
+    "type": "town",
+    "native": "Tapaktuan",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   }
 ]

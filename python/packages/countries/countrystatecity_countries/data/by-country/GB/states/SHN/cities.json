@@ -9,7 +9,12 @@
     "latitude": "53.49795000",
     "longitude": "-2.70810000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4911915",
+    "type": "city",
+    "native": "Billinge",
+    "timezone": "Europe/London",
+    "population": 5896,
+    "population_year": null
   },
   {
     "id": 49859,
@@ -21,7 +26,12 @@
     "latitude": "53.46723000",
     "longitude": "-2.68166000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3783795",
+    "type": "town",
+    "native": "Haydock",
+    "timezone": "Europe/London",
+    "population": 17333,
+    "population_year": null
   },
   {
     "id": 50734,
@@ -33,7 +43,12 @@
     "latitude": "53.45000000",
     "longitude": "-2.60000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q750000",
+    "type": "city",
+    "native": "Newton-le-Willows",
+    "timezone": "Europe/London",
+    "population": 21782,
+    "population_year": null
   },
   {
     "id": 51023,
@@ -45,7 +60,12 @@
     "latitude": "53.50223000",
     "longitude": "-2.78839000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2253752",
+    "type": "village",
+    "native": "Rainford",
+    "timezone": "Europe/London",
+    "population": 6131,
+    "population_year": null
   },
   {
     "id": 51397,
@@ -57,6 +77,11 @@
     "latitude": "53.45000000",
     "longitude": "-2.73333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q153647",
+    "type": "adm2",
+    "native": "St Helens",
+    "timezone": "Europe/London",
+    "population": 183248,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "13.97738000",
     "longitude": "100.77776000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "บ้านลำลูกกา",
+    "timezone": "Asia/Bangkok",
+    "population": 60700,
+    "population_year": null
   },
   {
     "id": 106524,
@@ -21,7 +26,12 @@
     "latitude": "14.06467000",
     "longitude": "100.64578000",
     "county_id": 5440,
-    "wikiDataId": null
+    "wikiDataId": "Q11980574",
+    "type": "city",
+    "native": "คลองหลวง",
+    "timezone": "Asia/Bangkok",
+    "population": 118551,
+    "population_year": null
   },
   {
     "id": 105473,
@@ -33,7 +43,12 @@
     "latitude": "13.97744000",
     "longitude": "100.79244000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475872",
+    "type": "district",
+    "native": "อำเภอลำลูกกา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105488,
@@ -45,10 +60,15 @@
     "latitude": "14.04459000",
     "longitude": "100.40948000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q279560",
+    "type": "district",
+    "native": "อำเภอลาดหลุมแก้ว",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   },
   {
-    "id": 105682,
+    "id": 167123,
     "name": "Nong Suea",
     "state_id": 3500,
     "state_code": "13",
@@ -57,7 +77,12 @@
     "latitude": "14.13104600",
     "longitude": "100.81285400",
     "county_id": 5442,
-    "wikiDataId": null
+    "wikiDataId": "Q98949762",
+    "type": "town",
+    "native": "หนองเสือ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106614,
@@ -68,11 +93,16 @@
     "country_code": "TH",
     "latitude": "14.01346000",
     "longitude": "100.53049000",
-    "county_id": 5439,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1365723",
+    "type": "adm1",
+    "native": "ปทุมธานี",
+    "timezone": "Asia/Bangkok",
+    "population": 22948,
+    "population_year": null
   },
   {
-    "id": 106298,
+    "id": 167247,
     "name": "Thanyaburi",
     "state_id": 3500,
     "state_code": "13",
@@ -81,6 +111,11 @@
     "latitude": "14.01670000",
     "longitude": "100.75000000",
     "county_id": 5441,
-    "wikiDataId": null
+    "wikiDataId": "Q7710650",
+    "type": "town",
+    "native": "ธัญบุรี",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "33.29194000",
     "longitude": "44.06919000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "قضاء أبو غريب",
+    "timezone": "Asia/Baghdad",
+    "population": 190000,
+    "population_year": null
   },
   {
     "id": 134474,
@@ -21,7 +26,12 @@
     "latitude": "33.30563000",
     "longitude": "44.18477000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q335021",
+    "type": "adm2",
+    "native": "أبو غريب",
+    "timezone": "Asia/Baghdad",
+    "population": 900000,
+    "population_year": null
   },
   {
     "id": 153202,
@@ -33,7 +43,12 @@
     "latitude": "33.36917800",
     "longitude": "44.33955940",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12215048",
+    "type": "adm2",
+    "native": "آدمية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153203,
@@ -45,7 +60,12 @@
     "latitude": "33.35912830",
     "longitude": "44.28138680",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4117860",
+    "type": "city",
+    "native": "العادل",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153204,
@@ -57,7 +77,12 @@
     "latitude": "33.34931610",
     "longitude": "44.41071530",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12184591",
+    "type": "capital",
+    "native": "البلديات",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153205,
@@ -69,7 +94,12 @@
     "latitude": "33.34114470",
     "longitude": "44.34062690",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31174551",
+    "type": "adm2",
+    "native": "الجماعة",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153206,
@@ -81,7 +111,12 @@
     "latitude": "33.32480360",
     "longitude": "44.41470980",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "حديقة السعدون",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153207,
@@ -93,7 +128,12 @@
     "latitude": "33.32254010",
     "longitude": "44.38425050",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الصالحية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153208,
@@ -105,7 +145,12 @@
     "latitude": "33.31857750",
     "longitude": "44.48686390",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4120505",
+    "type": "city",
+    "native": "الزعفرانية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153209,
@@ -117,7 +162,12 @@
     "latitude": "33.32036030",
     "longitude": "44.45955910",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2118592",
+    "type": "city",
+    "native": "العبيدي",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153210,
@@ -129,7 +179,12 @@
     "latitude": "33.31115820",
     "longitude": "44.43352280",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q286301",
+    "type": "city",
+    "native": "الوحدة",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153211,
@@ -141,7 +196,12 @@
     "latitude": "33.29671020",
     "longitude": "44.27076790",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q463033",
+    "type": "city",
+    "native": "أميريا",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153212,
@@ -153,7 +213,12 @@
     "latitude": "33.27606090",
     "longitude": "44.31037170",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "منطقة أميل",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153213,
@@ -165,7 +230,12 @@
     "latitude": "33.31248740",
     "longitude": "44.48634150",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2843347",
+    "type": "city",
+    "native": "أمين",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153214,
@@ -177,7 +247,12 @@
     "latitude": "33.29335790",
     "longitude": "44.42302450",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "عرصات الهندية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153215,
@@ -189,7 +264,12 @@
     "latitude": "33.35643940",
     "longitude": "44.35791100",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7902296",
+    "type": "adm2",
+    "native": "At Taifiya",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153216,
@@ -201,7 +281,12 @@
     "latitude": "33.36014170",
     "longitude": "44.36507700",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4115517",
+    "type": "adm2",
+    "native": "باب المعظم",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153217,
@@ -213,7 +298,12 @@
     "latitude": "33.33249060",
     "longitude": "44.41407910",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2896966",
+    "type": "city",
+    "native": "باب الشرقي",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 134504,
@@ -225,7 +315,12 @@
     "latitude": "33.34058000",
     "longitude": "44.40088000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1530",
+    "type": "capital",
+    "native": "بغداد",
+    "timezone": "Asia/Baghdad",
+    "population": 8126755,
+    "population_year": null
   },
   {
     "id": 153218,
@@ -237,7 +332,12 @@
     "latitude": "33.31335440",
     "longitude": "44.47157920",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "بغداد الجديدة",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153219,
@@ -249,7 +349,12 @@
     "latitude": "33.33254000",
     "longitude": "44.34509550",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "بايجاي",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153220,
@@ -261,7 +366,12 @@
     "latitude": "33.32112350",
     "longitude": "44.40855680",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q130467025",
+    "type": "city",
+    "native": "باتاوين",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153221,
@@ -273,7 +383,12 @@
     "latitude": "33.28255440",
     "longitude": "44.37528030",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q804061",
+    "type": "capital",
+    "native": "بياعة",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153222,
@@ -285,7 +400,12 @@
     "latitude": "33.39278120",
     "longitude": "44.41114480",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "capital",
+    "native": "بينوك",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153223,
@@ -297,7 +417,12 @@
     "latitude": "33.24194630",
     "longitude": "44.42695090",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "capital",
+    "native": "بوعيثة",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153224,
@@ -309,7 +434,12 @@
     "latitude": "33.30112930",
     "longitude": "44.44469600",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "مخيم سارة",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153225,
@@ -321,7 +451,12 @@
     "latitude": "33.31214030",
     "longitude": "44.32584820",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q37105575",
+    "type": "city",
+    "native": "داودي",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153226,
@@ -333,7 +468,12 @@
     "latitude": "33.23126860",
     "longitude": "44.36198120",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q226695",
+    "type": "adm2",
+    "native": "دورا",
+    "timezone": "Asia/Baghdad",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153227,
@@ -345,7 +485,12 @@
     "latitude": "33.33749740",
     "longitude": "44.46281840",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5555176",
+    "type": "city",
+    "native": "غدير",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153228,
@@ -357,7 +502,12 @@
     "latitude": "33.34143530",
     "longitude": "44.22354420",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12190726",
+    "type": "city",
+    "native": "غزالية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153229,
@@ -369,7 +519,12 @@
     "latitude": "33.39208370",
     "longitude": "44.30443140",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "غيريات",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153230,
@@ -381,7 +536,12 @@
     "latitude": "33.31376100",
     "longitude": "44.35900560",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1312431",
+    "type": "adm2",
+    "native": "المنطقة الخضراء",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153231,
@@ -393,7 +553,12 @@
     "latitude": "33.33920270",
     "longitude": "44.46846120",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "حبيبية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153232,
@@ -405,7 +570,12 @@
     "latitude": "33.22626120",
     "longitude": "44.39826750",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "capital",
+    "native": "حارثيا",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153233,
@@ -417,7 +587,12 @@
     "latitude": "33.34241870",
     "longitude": "44.30656300",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5948441",
+    "type": "city",
+    "native": "حرية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153234,
@@ -429,7 +604,12 @@
     "latitude": "33.33405930",
     "longitude": "44.32303100",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6081260",
+    "type": "city",
+    "native": "إسكان",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153235,
@@ -441,7 +621,12 @@
     "latitude": "33.26076360",
     "longitude": "44.41117200",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "capital",
+    "native": "الجادرية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153236,
@@ -453,7 +638,12 @@
     "latitude": "33.35108840",
     "longitude": "44.41495600",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q11927163",
+    "type": "capital",
+    "native": "جميلة",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153237,
@@ -465,7 +655,12 @@
     "latitude": "33.25289200",
     "longitude": "44.29231180",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q44311",
+    "type": "city",
+    "native": "الجهاد",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153238,
@@ -477,7 +672,12 @@
     "latitude": "33.38129610",
     "longitude": "44.35139180",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q311315",
+    "type": "section",
+    "native": "الكاظمية",
+    "timezone": "Asia/Baghdad",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153239,
@@ -489,7 +689,12 @@
     "latitude": "33.35008480",
     "longitude": "44.50894110",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q109673798",
+    "type": "city",
+    "native": "كمالية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153240,
@@ -501,7 +706,12 @@
     "latitude": "33.29336610",
     "longitude": "44.39641530",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6367812",
+    "type": "capital",
+    "native": "الكرادة",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153241,
@@ -513,7 +723,12 @@
     "latitude": "33.31972470",
     "longitude": "44.28764700",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3195934",
+    "type": "city",
+    "native": "خضرة",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153242,
@@ -525,7 +740,12 @@
     "latitude": "33.31422960",
     "longitude": "44.33631230",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q48978401",
+    "type": "city",
+    "native": "منصور",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153243,
@@ -537,7 +757,12 @@
     "latitude": "33.32443210",
     "longitude": "44.49314830",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "مشتال",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153244,
@@ -549,7 +774,12 @@
     "latitude": "33.36298920",
     "longitude": "44.38695430",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "المستنصرية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153245,
@@ -561,7 +791,12 @@
     "latitude": "33.32719630",
     "longitude": "44.31623840",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q285674",
+    "type": "city",
+    "native": "القادسية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153246,
@@ -573,7 +808,12 @@
     "latitude": "33.37692330",
     "longitude": "44.40446380",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1017715",
+    "type": "city",
+    "native": "مدينة الصدر",
+    "timezone": "Asia/Baghdad",
+    "population": 3500000,
+    "population_year": null
   },
   {
     "id": 153247,
@@ -585,7 +825,12 @@
     "latitude": "33.26500930",
     "longitude": "44.33159340",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "السعيدية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153248,
@@ -597,7 +842,12 @@
     "latitude": "33.41309100",
     "longitude": "44.38611030",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q721811",
+    "type": "city",
+    "native": "شعب",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153249,
@@ -609,7 +859,12 @@
     "latitude": "33.33896010",
     "longitude": "44.34789580",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الشيخ معروف",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153250,
@@ -621,7 +876,12 @@
     "latitude": "33.34613940",
     "longitude": "44.39504420",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "شورجة",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153251,
@@ -633,7 +893,12 @@
     "latitude": "33.39343320",
     "longitude": "44.36144500",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الصليخ",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153252,
@@ -645,7 +910,12 @@
     "latitude": "33.41694000",
     "longitude": "44.39060790",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "district",
+    "native": "منطقة أور",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153253,
@@ -657,7 +927,12 @@
     "latitude": "33.36366170",
     "longitude": "44.38196550",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4703341",
+    "type": "city",
+    "native": "وزيرية",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153254,
@@ -669,7 +944,12 @@
     "latitude": "33.33938360",
     "longitude": "44.32212520",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1163870",
+    "type": "city",
+    "native": "اليرموك",
+    "timezone": "Asia/Baghdad",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153255,
@@ -681,6 +961,11 @@
     "latitude": "33.32484340",
     "longitude": "44.45454600",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "زيونة",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   }
 ]

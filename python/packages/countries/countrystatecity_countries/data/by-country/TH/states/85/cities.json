@@ -1,6 +1,6 @@
 [
   {
-    "id": 105377,
+    "id": 167007,
     "name": "Kapoe",
     "state_id": 3479,
     "state_code": "85",
@@ -9,7 +9,12 @@
     "latitude": "9.58290000",
     "longitude": "98.59410000",
     "county_id": 6217,
-    "wikiDataId": null
+    "wikiDataId": "Q102076684",
+    "type": "town",
+    "native": "กะเปอร์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105451,
@@ -21,10 +26,15 @@
     "latitude": "10.45895000",
     "longitude": "98.84373000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475824",
+    "type": "district",
+    "native": "อำเภอกระบุรี",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105469,
+    "id": 167051,
     "name": "La-un",
     "state_id": 3479,
     "state_code": "85",
@@ -33,7 +43,12 @@
     "latitude": "10.11280000",
     "longitude": "98.75450000",
     "county_id": 6216,
-    "wikiDataId": null
+    "wikiDataId": "Q102077692",
+    "type": "town",
+    "native": "ละอุ่น",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106661,
@@ -45,7 +60,12 @@
     "latitude": "9.96583000",
     "longitude": "98.63476000",
     "county_id": 6215,
-    "wikiDataId": null
+    "wikiDataId": "Q1012440",
+    "type": "city",
+    "native": "ระนอง",
+    "timezone": "Asia/Bangkok",
+    "population": 24561,
+    "population_year": null
   },
   {
     "id": 106254,
@@ -57,6 +77,11 @@
     "latitude": "9.41570000",
     "longitude": "98.49117000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476780",
+    "type": "district",
+    "native": "อำเภอสุขสำราญ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

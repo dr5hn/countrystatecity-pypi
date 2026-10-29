@@ -9,7 +9,12 @@
     "latitude": "15.41618000",
     "longitude": "6.16975000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q305217",
+    "type": "city",
+    "native": "Abalak",
+    "timezone": "Africa/Niamey",
+    "population": 74719,
+    "population_year": null
   },
   {
     "id": 76682,
@@ -21,7 +26,12 @@
     "latitude": "13.79599000",
     "longitude": "5.25026000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Birni N Konni",
+    "timezone": "Africa/Niamey",
+    "population": 85494,
+    "population_year": null
   },
   {
     "id": 76684,
@@ -33,7 +43,12 @@
     "latitude": "14.42293000",
     "longitude": "6.04278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Bouza",
+    "timezone": "Africa/Niamey",
+    "population": 14032,
+    "population_year": null
   },
   {
     "id": 76689,
@@ -45,7 +60,12 @@
     "latitude": "14.25000000",
     "longitude": "5.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q605633",
+    "type": "city",
+    "native": "Département d' Illéla",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76691,
@@ -57,7 +77,12 @@
     "latitude": "13.90000000",
     "longitude": "5.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q865805",
+    "type": "city",
+    "native": "Département de Birni Nkonni",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76692,
@@ -69,7 +94,12 @@
     "latitude": "14.43333000",
     "longitude": "6.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q895323",
+    "type": "area",
+    "native": "Département de Bouza",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76701,
@@ -81,7 +111,12 @@
     "latitude": "14.80000000",
     "longitude": "6.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1674773",
+    "type": "adm2",
+    "native": "Département de Keïta",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76703,
@@ -93,7 +128,12 @@
     "latitude": "13.99988000",
     "longitude": "6.10012000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q427279",
+    "type": "adm2",
+    "native": "Département de Madaoua",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76709,
@@ -105,7 +145,12 @@
     "latitude": "14.80000000",
     "longitude": "4.80000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13403317",
+    "type": "city",
+    "native": "Département de Tahoua",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76710,
@@ -117,7 +162,12 @@
     "latitude": "15.86694000",
     "longitude": "5.71042000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1509694",
+    "type": "city",
+    "native": "Département de Tchin-Tabaraden",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76719,
@@ -129,7 +179,12 @@
     "latitude": "14.46050000",
     "longitude": "5.24370000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Illéla",
+    "timezone": "Africa/Niamey",
+    "population": 30439,
+    "population_year": null
   },
   {
     "id": 76720,
@@ -141,7 +196,12 @@
     "latitude": "14.75510000",
     "longitude": "5.77490000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Keïta",
+    "timezone": "Africa/Niamey",
+    "population": 14022,
+    "population_year": null
   },
   {
     "id": 76723,
@@ -153,7 +213,12 @@
     "latitude": "14.07300000",
     "longitude": "5.96000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Madaoua",
+    "timezone": "Africa/Niamey",
+    "population": 37858,
+    "population_year": null
   },
   {
     "id": 76734,
@@ -165,7 +230,12 @@
     "latitude": "14.88880000",
     "longitude": "5.26920000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Tahoua",
+    "timezone": "Africa/Niamey",
+    "population": 159468,
+    "population_year": null
   },
   {
     "id": 76736,
@@ -177,6 +247,11 @@
     "latitude": "15.89690000",
     "longitude": "5.79850000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Le tchintabared",
+    "timezone": "Africa/Niamey",
+    "population": 20704,
+    "population_year": null
   }
 ]

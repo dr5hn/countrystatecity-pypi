@@ -9,7 +9,12 @@
     "latitude": "37.57144000",
     "longitude": "43.16515000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q853401",
+    "type": "adm2",
+    "native": "Beytüşşebap",
+    "timezone": "Europe/Istanbul",
+    "population": 8161,
+    "population_year": null
   },
   {
     "id": 107436,
@@ -21,7 +26,12 @@
     "latitude": "37.33024000",
     "longitude": "42.18484000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q821363",
+    "type": "adm2",
+    "native": "Cizre",
+    "timezone": "Europe/Istanbul",
+    "population": 80992,
+    "population_year": null
   },
   {
     "id": 107763,
@@ -33,7 +43,12 @@
     "latitude": "37.47133000",
     "longitude": "41.91298000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1027277",
+    "type": "adm2",
+    "native": "Güçlükonak",
+    "timezone": "Europe/Istanbul",
+    "population": 13091,
+    "population_year": null
   },
   {
     "id": 108879,
@@ -45,7 +60,12 @@
     "latitude": "37.33481000",
     "longitude": "41.88944000",
     "county_id": 7123,
-    "wikiDataId": null
+    "wikiDataId": "Q49110525",
+    "type": "municipality",
+    "native": "İdil",
+    "timezone": "Europe/Istanbul",
+    "population": 32629,
+    "population_year": 2025
   },
   {
     "id": 108966,
@@ -56,8 +76,13 @@
     "country_code": "TR",
     "latitude": "37.51393000",
     "longitude": "42.45432000",
-    "county_id": 7368,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q131495",
+    "type": "city",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 73084,
+    "population_year": 2025
   },
   {
     "id": 108461,
@@ -68,8 +93,13 @@
     "country_code": "TR",
     "latitude": "37.24379000",
     "longitude": "42.46345000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7330,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Silopi",
+    "timezone": "Europe/Istanbul",
+    "population": 74798,
+    "population_year": null
   },
   {
     "id": 108626,
@@ -80,7 +110,12 @@
     "country_code": "TR",
     "latitude": "37.44074000",
     "longitude": "42.85236000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7403,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Uludere",
+    "timezone": "Europe/Istanbul",
+    "population": 8827,
+    "population_year": null
   }
 ]

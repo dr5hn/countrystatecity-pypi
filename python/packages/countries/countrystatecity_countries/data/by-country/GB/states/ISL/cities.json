@@ -9,7 +9,12 @@
     "latitude": "51.56733000",
     "longitude": "-0.13415000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Archway",
+    "timezone": "Europe/London",
+    "population": 215667,
+    "population_year": null
   },
   {
     "id": 48380,
@@ -21,7 +26,12 @@
     "latitude": "51.51988000",
     "longitude": "-0.09446000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Barbican",
+    "timezone": "Europe/London",
+    "population": 4000,
+    "population_year": null
   },
   {
     "id": 48401,
@@ -33,7 +43,12 @@
     "latitude": "51.54067000",
     "longitude": "-0.11675000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Barnsbury",
+    "timezone": "Europe/London",
+    "population": 10000,
+    "population_year": null
   },
   {
     "id": 49032,
@@ -45,7 +60,12 @@
     "latitude": "51.52438000",
     "longitude": "-0.11022000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Clerkenwell",
+    "timezone": "Europe/London",
+    "population": 4934,
+    "population_year": null
   },
   {
     "id": 49962,
@@ -57,7 +77,12 @@
     "latitude": "51.55237000",
     "longitude": "-0.12497000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Holloway",
+    "timezone": "Europe/London",
+    "population": 41329,
+    "population_year": null
   },
   {
     "id": 50086,
@@ -69,6 +94,11 @@
     "latitude": "51.53622000",
     "longitude": "-0.10304000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Islington",
+    "timezone": "Europe/London",
+    "population": 319143,
+    "population_year": null
   }
 ]

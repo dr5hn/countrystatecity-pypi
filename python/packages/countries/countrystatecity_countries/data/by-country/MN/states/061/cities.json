@@ -9,7 +9,12 @@
     "latitude": "48.07257000",
     "longitude": "114.53264000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q318245",
+    "type": "adm1",
+    "native": "Чойбалсан",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 38150,
+    "population_year": null
   },
   {
     "id": 67718,
@@ -21,6 +26,11 @@
     "latitude": "49.88070000",
     "longitude": "115.72526000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Эрээнцав",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 23,
+    "population_year": null
   }
 ]

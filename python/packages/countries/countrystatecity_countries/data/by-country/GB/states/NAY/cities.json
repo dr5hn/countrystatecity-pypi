@@ -9,7 +9,12 @@
     "latitude": "55.65018000",
     "longitude": "-4.80659000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q640073",
+    "type": "section",
+    "native": "Ardrossan",
+    "timezone": "Europe/London",
+    "population": 10670,
+    "population_year": null
   },
   {
     "id": 48456,
@@ -21,7 +26,12 @@
     "latitude": "55.74923000",
     "longitude": "-4.63680000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1013620",
+    "type": "town",
+    "native": "Beith",
+    "timezone": "Europe/London",
+    "population": 6040,
+    "population_year": null
   },
   {
     "id": 49224,
@@ -33,7 +43,12 @@
     "latitude": "55.70956000",
     "longitude": "-4.72167000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3467446",
+    "type": "town",
+    "native": "Dalry",
+    "timezone": "Europe/London",
+    "population": 5360,
+    "population_year": null
   },
   {
     "id": 49325,
@@ -45,7 +60,12 @@
     "latitude": "55.60807000",
     "longitude": "-4.62226000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5306868",
+    "type": "section",
+    "native": "Dreghorn",
+    "timezone": "Europe/London",
+    "population": 3540,
+    "population_year": null
   },
   {
     "id": 49518,
@@ -57,7 +77,12 @@
     "latitude": "55.75602000",
     "longitude": "-4.85564000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5430546",
+    "type": "village",
+    "native": "Fairlie",
+    "timezone": "Europe/London",
+    "population": 1400,
+    "population_year": null
   },
   {
     "id": 50072,
@@ -69,7 +94,12 @@
     "latitude": "55.61940000",
     "longitude": "-4.65508000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1774629",
+    "type": "town",
+    "native": "Irvine",
+    "timezone": "Europe/London",
+    "population": 34090,
+    "population_year": null
   },
   {
     "id": 50075,
@@ -81,7 +111,12 @@
     "latitude": "55.58145000",
     "longitude": "-5.21233000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Isle of Arran",
+    "timezone": "Europe/London",
+    "population": 5058,
+    "population_year": null
   },
   {
     "id": 50077,
@@ -93,7 +128,12 @@
     "latitude": "55.76933000",
     "longitude": "-4.91913000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Isle of Cumbrae",
+    "timezone": "Europe/London",
+    "population": 1434,
+    "population_year": null
   },
   {
     "id": 50140,
@@ -105,7 +145,12 @@
     "latitude": "55.75082000",
     "longitude": "-4.68791000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1016743",
+    "type": "town",
+    "native": "Kilbirnie",
+    "timezone": "Europe/London",
+    "population": 7340,
+    "population_year": null
   },
   {
     "id": 50155,
@@ -117,7 +162,12 @@
     "latitude": "55.65333000",
     "longitude": "-4.70666000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1013827",
+    "type": "town",
+    "native": "Kilwinning",
+    "timezone": "Europe/London",
+    "population": 16460,
+    "population_year": null
   },
   {
     "id": 50232,
@@ -129,7 +179,12 @@
     "latitude": "55.53358000",
     "longitude": "-5.12956000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1011746",
+    "type": "village",
+    "native": "Lamlash",
+    "timezone": "Europe/London",
+    "population": 1120,
+    "population_year": null
   },
   {
     "id": 50249,
@@ -141,7 +196,12 @@
     "latitude": "55.79629000",
     "longitude": "-4.86337000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1016169",
+    "type": "town",
+    "native": "Largs",
+    "timezone": "Europe/London",
+    "population": 11260,
+    "population_year": null
   },
   {
     "id": 50587,
@@ -153,19 +213,12 @@
     "latitude": "55.75348000",
     "longitude": "-4.92559000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 50747,
-    "name": "North Ayrshire",
-    "state_id": 2535,
-    "state_code": "NAY",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "55.69694000",
-    "longitude": "-4.73373000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q391948",
+    "type": "village",
+    "native": "Millport",
+    "timezone": "Europe/London",
+    "population": 1100,
+    "population_year": null
   },
   {
     "id": 51188,
@@ -177,7 +230,12 @@
     "latitude": "55.63616000",
     "longitude": "-4.78588000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1018756",
+    "type": "town",
+    "native": "Saltcoats",
+    "timezone": "Europe/London",
+    "population": 12640,
+    "population_year": null
   },
   {
     "id": 51321,
@@ -189,7 +247,12 @@
     "latitude": "55.86950000",
     "longitude": "-4.88475000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1013753",
+    "type": "village",
+    "native": "Skelmorlie",
+    "timezone": "Europe/London",
+    "population": 2060,
+    "population_year": null
   },
   {
     "id": 51393,
@@ -201,7 +264,12 @@
     "latitude": "55.61514000",
     "longitude": "-4.59062000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7581176",
+    "type": "village",
+    "native": "Springside",
+    "timezone": "Europe/London",
+    "population": 1250,
+    "population_year": null
   },
   {
     "id": 51441,
@@ -213,7 +281,12 @@
     "latitude": "55.63970000",
     "longitude": "-4.75339000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2376078",
+    "type": "section",
+    "native": "Stevenston",
+    "timezone": "Europe/London",
+    "population": 9230,
+    "population_year": null
   },
   {
     "id": 51822,
@@ -225,6 +298,11 @@
     "latitude": "55.69004000",
     "longitude": "-4.85771000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1010320",
+    "type": "town",
+    "native": "West Kilbride",
+    "timezone": "Europe/London",
+    "population": 4700,
+    "population_year": null
   }
 ]

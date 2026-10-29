@@ -9,7 +9,12 @@
     "latitude": "-3.63045000",
     "longitude": "39.84992000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1009199",
+    "type": "adm1",
+    "native": "Kilifi",
+    "timezone": "Africa/Nairobi",
+    "population": 74270,
+    "population_year": null
   },
   {
     "id": 64828,
@@ -21,7 +26,12 @@
     "latitude": "-3.21799000",
     "longitude": "40.11692000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q271411",
+    "type": "city",
+    "native": "Malindi",
+    "timezone": "Africa/Nairobi",
+    "population": 119859,
+    "population_year": null
   },
   {
     "id": 64832,
@@ -33,7 +43,12 @@
     "latitude": "-3.86261000",
     "longitude": "39.47458000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6761771",
+    "type": "city",
+    "native": "Mariakani",
+    "timezone": "Africa/Nairobi",
+    "population": 31715,
+    "population_year": null
   },
   {
     "id": 64872,
@@ -45,7 +60,12 @@
     "latitude": "-3.68350000",
     "longitude": "39.85687000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3236500",
+    "type": "city",
+    "native": "Takaungu",
+    "timezone": "Africa/Nairobi",
+    "population": 10760,
+    "population_year": null
   },
   {
     "id": 165130,
@@ -57,6 +77,11 @@
     "latitude": "-3.35335000",
     "longitude": "40.02095000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q745944",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "population": 27857,
+    "population_year": null
   }
 ]

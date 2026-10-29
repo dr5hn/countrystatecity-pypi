@@ -9,7 +9,12 @@
     "latitude": "54.97296000",
     "longitude": "-1.66926000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Benwell",
+    "timezone": "Europe/London",
+    "population": 6500,
+    "population_year": null
   },
   {
     "id": 49687,
@@ -21,7 +26,12 @@
     "latitude": "55.00000000",
     "longitude": "-1.61667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Gosforth",
+    "timezone": "Europe/London",
+    "population": 23975,
+    "population_year": null
   },
   {
     "id": 49869,
@@ -33,7 +43,12 @@
     "latitude": "55.04135000",
     "longitude": "-1.63912000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2862048",
+    "type": "village",
+    "native": "Hazlerigg",
+    "timezone": "Europe/London",
+    "population": 1003,
+    "population_year": null
   },
   {
     "id": 50705,
@@ -45,18 +60,28 @@
     "latitude": "54.98760000",
     "longitude": "-1.74415000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Newburn",
+    "timezone": "Europe/London",
+    "population": 41347,
+    "population_year": null
   },
   {
-    "id": 50710,
+    "id": 166603,
     "name": "Newcastle upon Tyne",
     "state_id": 2458,
     "state_code": "NET",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "55.00000000",
-    "longitude": "-1.66667000",
+    "latitude": "54.97777778",
+    "longitude": "-1.61333333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Newcastle upon Tyne",
+    "timezone": "Europe/London",
+    "population": 300196,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "-45.40303000",
     "longitude": "-72.69184000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3651",
+    "type": "adm2",
+    "native": "Aysén",
+    "timezone": "America/Coyhaique",
+    "population": 16936,
+    "population_year": null
   },
   {
     "id": 18962,
@@ -21,7 +26,12 @@
     "latitude": "-46.53760000",
     "longitude": "-71.72930000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3770",
+    "type": "adm2",
+    "native": "Chile Chico",
+    "timezone": "America/Punta_Arenas",
+    "population": 3129,
+    "population_year": null
   },
   {
     "id": 19084,
@@ -32,8 +42,13 @@
     "country_code": "CL",
     "latitude": "-44.72750000",
     "longitude": "-72.68050000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13833,
+    "wikiDataId": "Q940455",
+    "type": "municipality",
+    "native": "Cisnes",
+    "timezone": "America/Punta_Arenas",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 18966,
@@ -45,7 +60,12 @@
     "latitude": "-47.25390000",
     "longitude": "-72.57320000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3800",
+    "type": "city",
+    "native": "Cochrane",
+    "timezone": "America/Punta_Arenas",
+    "population": 2789,
+    "population_year": null
   },
   {
     "id": 18976,
@@ -57,7 +77,12 @@
     "latitude": "-45.57524000",
     "longitude": "-72.06619000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3810",
+    "type": "adm1",
+    "native": "Coyhaique",
+    "timezone": "America/Coyhaique",
+    "population": 45787,
+    "population_year": null
   },
   {
     "id": 148332,
@@ -69,7 +94,12 @@
     "latitude": "-43.88333333",
     "longitude": "-73.73333333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13069",
+    "type": "city",
+    "native": "Guaitecas",
+    "timezone": "America/Punta_Arenas",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 148333,
@@ -81,7 +111,12 @@
     "latitude": "-44.24031000",
     "longitude": "-71.84950000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14471",
+    "type": "city",
+    "native": "Lago Verde",
+    "timezone": "America/Coyhaique",
+    "population": 869,
+    "population_year": null
   },
   {
     "id": 148334,
@@ -93,7 +128,12 @@
     "latitude": "-48.46666667",
     "longitude": "-72.56666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q51051",
+    "type": "city",
+    "native": "O'Higgins",
+    "timezone": "America/Punta_Arenas",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 148335,
@@ -105,7 +145,12 @@
     "latitude": "-46.30000000",
     "longitude": "-71.93333333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q56129",
+    "type": "city",
+    "native": "Río Ibáñez",
+    "timezone": "America/Punta_Arenas",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 148336,
@@ -117,6 +162,11 @@
     "latitude": "-47.83333333",
     "longitude": "-73.56666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2390232",
+    "type": "city",
+    "native": "Tortel",
+    "timezone": "America/Punta_Arenas",
+    "population": 0,
+    "population_year": null
   }
 ]

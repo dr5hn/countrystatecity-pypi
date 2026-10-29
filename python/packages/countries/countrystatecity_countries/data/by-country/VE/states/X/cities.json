@@ -9,7 +9,12 @@
     "latitude": "10.61216000",
     "longitude": "-66.85192000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "El Araballe",
+    "timezone": "America/Caracas",
+    "population": 37824,
+    "population_year": null
   },
   {
     "id": 130060,
@@ -21,7 +26,12 @@
     "latitude": "10.60545000",
     "longitude": "-67.03238000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2725457",
+    "type": "adm3",
+    "native": "Catia en mar",
+    "timezone": "America/Caracas",
+    "population": 106822,
+    "population_year": null
   },
   {
     "id": 130092,
@@ -33,7 +43,12 @@
     "latitude": "10.60156000",
     "longitude": "-66.93293000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q873405",
+    "type": "adm1",
+    "native": "La Guaira",
+    "timezone": "America/Caracas",
+    "population": 25259,
+    "population_year": null
   },
   {
     "id": 130102,
@@ -45,6 +60,11 @@
     "latitude": "10.59450000",
     "longitude": "-66.95624000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1677956",
+    "type": "adm3",
+    "native": "Maiquetía",
+    "timezone": "America/Caracas",
+    "population": 52564,
+    "population_year": null
   }
 ]

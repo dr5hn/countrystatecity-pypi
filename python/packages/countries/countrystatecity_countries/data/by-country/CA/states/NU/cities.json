@@ -9,7 +9,12 @@
     "latitude": "70.47233000",
     "longitude": "-68.58987000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q201351",
+    "type": "locality",
+    "native": "Clyde River",
+    "timezone": "America/Iqaluit",
+    "population": 1181,
+    "population_year": null
   },
   {
     "id": 16453,
@@ -21,7 +26,12 @@
     "latitude": "68.62602000",
     "longitude": "-95.87836000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q719585",
+    "type": "locality",
+    "native": "Gjoa Haven",
+    "timezone": "America/Cambridge_Bay",
+    "population": 1349,
+    "population_year": null
   },
   {
     "id": 16524,
@@ -33,7 +43,12 @@
     "latitude": "63.74697000",
     "longitude": "-68.51727000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2030",
+    "type": "adm1",
+    "native": "Iqaluit",
+    "timezone": "America/Iqaluit",
+    "population": 7429,
+    "population_year": null
   },
   {
     "id": 16555,
@@ -45,7 +60,12 @@
     "latitude": "67.82743000",
     "longitude": "-115.09649000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q719707",
+    "type": "locality",
+    "native": "Kugluktuk",
+    "timezone": "America/Cambridge_Bay",
+    "population": 1382,
+    "population_year": null
   },
   {
     "id": 16793,
@@ -57,7 +77,12 @@
     "latitude": "66.14642000",
     "longitude": "-65.69996000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q631747",
+    "type": "locality",
+    "native": "Pangnirtung",
+    "timezone": "America/Iqaluit",
+    "population": 1504,
+    "population_year": null
   },
   {
     "id": 16869,
@@ -69,6 +94,11 @@
     "latitude": "62.80906000",
     "longitude": "-92.08534000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1021766",
+    "type": "locality",
+    "native": "Rankin Inlet",
+    "timezone": "America/Rankin_Inlet",
+    "population": 2975,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "5.36073000",
     "longitude": "-1.94856000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Aboso",
+    "timezone": "Africa/Accra",
+    "population": 8790,
+    "population_year": null
   },
   {
     "id": 52160,
@@ -21,7 +26,12 @@
     "latitude": "4.86641000",
     "longitude": "-2.24181000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q792509",
+    "type": "city",
+    "native": "Axim",
+    "timezone": "Africa/Accra",
+    "population": 35487,
+    "population_year": null
   },
   {
     "id": 164759,
@@ -33,7 +43,12 @@
     "latitude": "5.28515000",
     "longitude": "-2.76658000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5367909",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "population": 23952,
+    "population_year": null
   },
   {
     "id": 52197,
@@ -45,7 +60,12 @@
     "latitude": "5.43385000",
     "longitude": "-2.14295000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2109005",
+    "type": "city",
+    "native": "Prests",
+    "timezone": "Africa/Accra",
+    "population": 35611,
+    "population_year": null
   },
   {
     "id": 52201,
@@ -57,7 +77,12 @@
     "latitude": "4.92678000",
     "longitude": "-1.75773000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q243293",
+    "type": "adm1",
+    "native": "Sekondi-Takoradi",
+    "timezone": "Africa/Accra",
+    "population": 138872,
+    "population_year": null
   },
   {
     "id": 52202,
@@ -69,7 +94,12 @@
     "latitude": "5.01806000",
     "longitude": "-1.66437000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Shama Junction",
+    "timezone": "Africa/Accra",
+    "population": 20946,
+    "population_year": null
   },
   {
     "id": 52207,
@@ -81,7 +111,12 @@
     "latitude": "4.89816000",
     "longitude": "-1.76029000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Takoradi",
+    "timezone": "Africa/Accra",
+    "population": 389114,
+    "population_year": null
   },
   {
     "id": 52209,
@@ -93,7 +128,12 @@
     "latitude": "5.30383000",
     "longitude": "-1.98956000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q995439",
+    "type": "city",
+    "native": "TARKWA",
+    "timezone": "Africa/Accra",
+    "population": 49937,
+    "population_year": null
   },
   {
     "id": 164765,
@@ -105,6 +145,11 @@
     "latitude": "5.78722000",
     "longitude": "-2.08361000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7972736",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "population": null,
+    "population_year": null
   }
 ]

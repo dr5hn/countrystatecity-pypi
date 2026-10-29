@@ -9,7 +9,12 @@
     "latitude": "23.67872000",
     "longitude": "57.88605000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Barkā’",
+    "timezone": "Asia/Muscat",
+    "population": 81647,
+    "population_year": null
   },
   {
     "id": 79933,
@@ -21,7 +26,12 @@
     "latitude": "23.30324000",
     "longitude": "57.52459000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Bayt al ‘Awābī",
+    "timezone": "Asia/Muscat",
+    "population": 10711,
+    "population_year": null
   },
   {
     "id": 79943,
@@ -33,7 +43,12 @@
     "latitude": "23.65270000",
     "longitude": "57.59926000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Oman Smart Future City",
+    "timezone": "Asia/Muscat",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 79944,
@@ -45,6 +60,11 @@
     "latitude": "23.39083000",
     "longitude": "57.42444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q542678",
+    "type": "city",
+    "native": "ولاية الرستاق",
+    "timezone": "Asia/Muscat",
+    "population": 120000,
+    "population_year": null
   }
 ]

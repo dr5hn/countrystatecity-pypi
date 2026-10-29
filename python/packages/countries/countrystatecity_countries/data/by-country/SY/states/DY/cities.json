@@ -9,7 +9,12 @@
     "latitude": "35.01982000",
     "longitude": "40.45154000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q310895",
+    "type": "adm2",
+    "native": "الميادين",
+    "timezone": "Asia/Damascus",
+    "population": 54534,
+    "population_year": null
   },
   {
     "id": 105066,
@@ -21,7 +26,12 @@
     "latitude": "34.45226000",
     "longitude": "40.91854000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q152828",
+    "type": "adm2",
+    "native": "ألبو كمال",
+    "timezone": "Asia/Damascus",
+    "population": 57572,
+    "population_year": null
   },
   {
     "id": 104993,
@@ -33,7 +43,12 @@
     "latitude": "35.33588000",
     "longitude": "40.14084000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q239097",
+    "type": "adm1",
+    "native": "دير الزور",
+    "timezone": "Asia/Damascus",
+    "population": 271800,
+    "population_year": null
   },
   {
     "id": 104997,
@@ -45,7 +60,12 @@
     "latitude": "34.69508000",
     "longitude": "40.83138000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5639989",
+    "type": "adm3",
+    "native": "هجين",
+    "timezone": "Asia/Damascus",
+    "population": 29237,
+    "population_year": null
   },
   {
     "id": 105051,
@@ -57,6 +77,11 @@
     "latitude": "34.85305000",
     "longitude": "40.59987000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "سبيخان",
+    "timezone": "Asia/Damascus",
+    "population": 25514,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "-7.05614000",
     "longitude": "-76.59110000",
     "county_id": 8347,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bellavista",
+    "timezone": "America/Lima",
+    "population": 15231,
+    "population_year": null
   },
   {
     "id": 80606,
@@ -21,7 +26,12 @@
     "latitude": "-6.57087000",
     "longitude": "-76.13753000",
     "county_id": 8354,
-    "wikiDataId": null
+    "wikiDataId": "Q5088699",
+    "type": "municipality",
+    "native": "Chazuta",
+    "timezone": "America/Lima",
+    "population": 9497,
+    "population_year": null
   },
   {
     "id": 80664,
@@ -33,7 +43,12 @@
     "latitude": "-7.31860000",
     "longitude": "-76.77556000",
     "county_id": 8351,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Huicungo",
+    "timezone": "America/Lima",
+    "population": 6757,
+    "population_year": null
   },
   {
     "id": 80679,
@@ -45,7 +60,12 @@
     "latitude": "-6.11667000",
     "longitude": "-76.95000000",
     "county_id": 8346,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Jepelacio",
+    "timezone": "America/Lima",
+    "population": 7150,
+    "population_year": null
   },
   {
     "id": 80681,
@@ -57,7 +77,12 @@
     "latitude": "-7.17697000",
     "longitude": "-76.72774000",
     "county_id": 8351,
-    "wikiDataId": null
+    "wikiDataId": "Q2671983",
+    "type": "municipality",
+    "native": "Juanjuí",
+    "timezone": "America/Lima",
+    "population": 37715,
+    "population_year": null
   },
   {
     "id": 80693,
@@ -69,31 +94,29 @@
     "latitude": "-6.41667000",
     "longitude": "-76.53333000",
     "county_id": 8350,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Lamas",
+    "timezone": "America/Lima",
+    "population": 13693,
+    "population_year": null
   },
   {
-    "id": 80852,
+    "id": 166893,
     "name": "Lamas",
     "state_id": 3694,
     "state_code": "SAM",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-6.42166667",
-    "longitude": "-76.52111111",
+    "latitude": "-6.42184700",
+    "longitude": "-76.51619700",
     "county_id": 8350,
-    "wikiDataId": null
-  },
-  {
-    "id": 80864,
-    "name": "Moyobamba",
-    "state_id": 3694,
-    "state_code": "SAM",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-6.02833333",
-    "longitude": "-76.97194444",
-    "county_id": 8346,
-    "wikiDataId": null
+    "wikiDataId": "Q3139869",
+    "type": "city",
+    "native": "Lamas",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80726,
@@ -105,7 +128,29 @@
     "latitude": "-6.03416000",
     "longitude": "-76.97168000",
     "county_id": 8346,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Moyobamba",
+    "timezone": "America/Lima",
+    "population": 50073,
+    "population_year": null
+  },
+  {
+    "id": 166895,
+    "name": "Moyobamba",
+    "state_id": 3694,
+    "state_code": "SAM",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-6.03333333",
+    "longitude": "-76.96666667",
+    "county_id": 8346,
+    "wikiDataId": "Q285672",
+    "type": "city",
+    "native": "Moyobamba",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80759,
@@ -117,7 +162,12 @@
     "latitude": "-6.92033000",
     "longitude": "-76.33142000",
     "county_id": 8352,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Picota",
+    "timezone": "America/Lima",
+    "population": 6697,
+    "population_year": null
   },
   {
     "id": 80827,
@@ -129,7 +179,12 @@
     "latitude": "-6.75664000",
     "longitude": "-76.90143000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q731515",
+    "type": "province",
+    "native": "Provincia de Huallaga",
+    "timezone": "America/Lima",
+    "population": 27506,
+    "population_year": null
   },
   {
     "id": 80860,
@@ -141,7 +196,12 @@
     "latitude": "-7.27390000",
     "longitude": "-77.18216000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1947944",
+    "type": "province",
+    "native": "Provincia de Mariscal Cáceres",
+    "timezone": "America/Lima",
+    "population": 64626,
+    "population_year": null
   },
   {
     "id": 80884,
@@ -153,7 +213,12 @@
     "latitude": "-6.00000000",
     "longitude": "-77.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2084648",
+    "type": "province",
+    "native": "Provincia de Rioja",
+    "timezone": "America/Lima",
+    "population": 122544,
+    "population_year": null
   },
   {
     "id": 80934,
@@ -165,7 +230,12 @@
     "latitude": "-6.05675000",
     "longitude": "-77.16651000",
     "county_id": 8353,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "la Rioja",
+    "timezone": "America/Lima",
+    "population": 25057,
+    "population_year": null
   },
   {
     "id": 80969,
@@ -177,7 +247,12 @@
     "latitude": "-6.93395000",
     "longitude": "-76.77158000",
     "county_id": 8349,
-    "wikiDataId": null
+    "wikiDataId": "Q3344065",
+    "type": "municipality",
+    "native": "Saposoa",
+    "timezone": "America/Lima",
+    "population": 14894,
+    "population_year": null
   },
   {
     "id": 80976,
@@ -189,7 +264,12 @@
     "latitude": "-6.61085000",
     "longitude": "-76.69302000",
     "county_id": 8348,
-    "wikiDataId": null
+    "wikiDataId": "Q11034041",
+    "type": "town",
+    "native": "Sisa",
+    "timezone": "America/Lima",
+    "population": 9477,
+    "population_year": null
   },
   {
     "id": 80977,
@@ -201,7 +281,12 @@
     "latitude": "-6.13917000",
     "longitude": "-77.10389000",
     "county_id": 8346,
-    "wikiDataId": null
+    "wikiDataId": "Q6318739",
+    "type": "municipality",
+    "native": "Soritor",
+    "timezone": "America/Lima",
+    "population": 10858,
+    "population_year": null
   },
   {
     "id": 80981,
@@ -213,19 +298,12 @@
     "latitude": "-6.35000000",
     "longitude": "-76.68333000",
     "county_id": 8350,
-    "wikiDataId": null
-  },
-  {
-    "id": 80887,
-    "name": "Tarapoto",
-    "state_id": 3694,
-    "state_code": "SAM",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-6.49694444",
-    "longitude": "-76.36638889",
-    "county_id": 8354,
-    "wikiDataId": null
+    "wikiDataId": "Q6316878",
+    "type": "municipality",
+    "native": "Tabalosos",
+    "timezone": "America/Lima",
+    "population": 13879,
+    "population_year": null
   },
   {
     "id": 80989,
@@ -237,7 +315,29 @@
     "latitude": "-6.50139000",
     "longitude": "-76.36556000",
     "county_id": 8354,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tarapoto",
+    "timezone": "America/Lima",
+    "population": 0,
+    "population_year": null
+  },
+  {
+    "id": 166905,
+    "name": "Tarapoto",
+    "state_id": 3694,
+    "state_code": "SAM",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-6.48333333",
+    "longitude": "-76.36666667",
+    "county_id": 8354,
+    "wikiDataId": "Q927933",
+    "type": "city",
+    "native": "Tarapoto",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80995,
@@ -249,7 +349,12 @@
     "latitude": "-8.18770000",
     "longitude": "-76.52046000",
     "county_id": 8355,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tocache",
+    "timezone": "America/Lima",
+    "population": 29029,
+    "population_year": null
   },
   {
     "id": 81002,
@@ -261,6 +366,11 @@
     "latitude": "-8.45917000",
     "longitude": "-76.46333000",
     "county_id": 8355,
-    "wikiDataId": null
+    "wikiDataId": "Q6318790",
+    "type": "municipality",
+    "native": "Uchiza",
+    "timezone": "America/Lima",
+    "population": 20149,
+    "population_year": null
   }
 ]

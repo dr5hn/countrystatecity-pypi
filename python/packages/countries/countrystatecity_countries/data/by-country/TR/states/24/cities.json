@@ -9,7 +9,12 @@
     "latitude": "39.80454000",
     "longitude": "40.03724000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q272722",
+    "type": "adm2",
+    "native": "Çayırlı",
+    "timezone": "Europe/Istanbul",
+    "population": 62,
+    "population_year": null
   },
   {
     "id": 108890,
@@ -21,7 +26,12 @@
     "latitude": "39.45587000",
     "longitude": "38.56409000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q343776",
+    "type": "adm2",
+    "native": "İliç",
+    "timezone": "Europe/Istanbul",
+    "population": 10044,
+    "population_year": null
   },
   {
     "id": 107971,
@@ -33,7 +43,12 @@
     "latitude": "39.59606000",
     "longitude": "39.02329000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1023301",
+    "type": "adm2",
+    "native": "Kemah",
+    "timezone": "Europe/Istanbul",
+    "population": 2549,
+    "population_year": null
   },
   {
     "id": 107973,
@@ -44,8 +59,13 @@
     "country_code": "TR",
     "latitude": "39.26288000",
     "longitude": "38.49674000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7177,
+    "wikiDataId": "Q1000823",
+    "type": "municipality",
+    "native": "Kemaliye",
+    "timezone": "Europe/Istanbul",
+    "population": 2323,
+    "population_year": null
   },
   {
     "id": 107602,
@@ -56,8 +76,13 @@
     "country_code": "TR",
     "latitude": "39.73919000",
     "longitude": "39.49015000",
-    "county_id": 7043,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q136217",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 149157,
+    "population_year": 2025
   },
   {
     "id": 108295,
@@ -68,8 +93,13 @@
     "country_code": "TR",
     "latitude": "39.97000000",
     "longitude": "40.01872000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7680,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Otlukbeli",
+    "timezone": "Europe/Istanbul",
+    "population": 3669,
+    "population_year": null
   },
   {
     "id": 108365,
@@ -80,8 +110,13 @@
     "country_code": "TR",
     "latitude": "39.89315000",
     "longitude": "38.76607000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7292,
+    "wikiDataId": "Q1023298",
+    "type": "municipality",
+    "native": "Refahiye",
+    "timezone": "Europe/Istanbul",
+    "population": 5579,
+    "population_year": null
   },
   {
     "id": 108570,
@@ -92,8 +127,13 @@
     "country_code": "TR",
     "latitude": "39.77709000",
     "longitude": "40.37783000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7381,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tercan",
+    "timezone": "Europe/Istanbul",
+    "population": 12235,
+    "population_year": null
   },
   {
     "id": 108876,
@@ -105,6 +145,11 @@
     "latitude": "39.70943000",
     "longitude": "39.70125000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q335204",
+    "type": "adm2",
+    "native": "Üzümlü",
+    "timezone": "Europe/Istanbul",
+    "population": 39591,
+    "population_year": null
   }
 ]

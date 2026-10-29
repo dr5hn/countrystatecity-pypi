@@ -9,7 +9,12 @@
     "latitude": "46.77793000",
     "longitude": "9.67621000",
     "county_id": 5164,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Arosa",
+    "timezone": "Europe/Zurich",
+    "population": 3144,
+    "population_year": 2025
   },
   {
     "id": 17411,
@@ -21,7 +26,12 @@
     "latitude": "46.30211000",
     "longitude": "9.11300000",
     "county_id": 5163,
-    "wikiDataId": null
+    "wikiDataId": "Q66036",
+    "type": "locality",
+    "native": "Arvigo",
+    "timezone": "Europe/Zurich",
+    "population": 92,
+    "population_year": null
   },
   {
     "id": 17547,
@@ -33,7 +43,12 @@
     "latitude": "46.81103000",
     "longitude": "9.39821000",
     "county_id": 5160,
-    "wikiDataId": null
+    "wikiDataId": "Q22580002",
+    "type": "municipality",
+    "native": "Bonaduz",
+    "timezone": "Europe/Zurich",
+    "population": 3618,
+    "population_year": 2025
   },
   {
     "id": 17559,
@@ -45,7 +60,12 @@
     "latitude": "46.76986000",
     "longitude": "9.06036000",
     "county_id": 5166,
-    "wikiDataId": null
+    "wikiDataId": "Q22592231",
+    "type": "municipality",
+    "native": "Breíl",
+    "timezone": "Europe/Zurich",
+    "population": 1738,
+    "population_year": 2025
   },
   {
     "id": 17571,
@@ -57,7 +77,12 @@
     "latitude": "46.25953000",
     "longitude": "10.12385000",
     "county_id": 5158,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Brusio",
+    "timezone": "Europe/Zurich",
+    "population": 1103,
+    "population_year": 2025
   },
   {
     "id": 17585,
@@ -69,7 +94,12 @@
     "latitude": "46.27381000",
     "longitude": "9.10735000",
     "county_id": 5163,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "BUSENO",
+    "timezone": "Europe/Zurich",
+    "population": 102,
+    "population_year": 2025
   },
   {
     "id": 17615,
@@ -81,7 +111,12 @@
     "latitude": "46.33541000",
     "longitude": "9.12129000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q65708",
+    "type": "adm3",
+    "native": "Cauco",
+    "timezone": "Europe/Zurich",
+    "population": 34,
+    "population_year": null
   },
   {
     "id": 17617,
@@ -93,7 +128,12 @@
     "latitude": "46.71940000",
     "longitude": "9.43271000",
     "county_id": 5167,
-    "wikiDataId": null
+    "wikiDataId": "Q64443",
+    "type": "municipality",
+    "native": "Cazis",
+    "timezone": "Europe/Zurich",
+    "population": 2551,
+    "population_year": 2025
   },
   {
     "id": 17618,
@@ -105,7 +145,12 @@
     "latitude": "46.51217000",
     "longitude": "9.85794000",
     "county_id": 5162,
-    "wikiDataId": null
+    "wikiDataId": "Q64964",
+    "type": "municipality",
+    "native": "Celerina",
+    "timezone": "Europe/Zurich",
+    "population": 1410,
+    "population_year": 2025
   },
   {
     "id": 17638,
@@ -117,7 +162,12 @@
     "latitude": "46.84986000",
     "longitude": "9.53287000",
     "county_id": 5164,
-    "wikiDataId": null
+    "wikiDataId": "Q69007",
+    "type": "city",
+    "native": "Chur",
+    "timezone": "Europe/Zurich",
+    "population": 39753,
+    "population_year": 2025
   },
   {
     "id": 17639,
@@ -129,7 +179,12 @@
     "latitude": "46.78143000",
     "longitude": "9.54377000",
     "county_id": 5164,
-    "wikiDataId": null
+    "wikiDataId": "Q64363",
+    "type": "municipality",
+    "native": "Churwalden",
+    "timezone": "Europe/Zurich",
+    "population": 2075,
+    "population_year": 2025
   },
   {
     "id": 17677,
@@ -141,7 +196,12 @@
     "latitude": "46.80429000",
     "longitude": "9.83723000",
     "county_id": 5165,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Davos",
+    "timezone": "Europe/Zurich",
+    "population": 10738,
+    "population_year": 2025
   },
   {
     "id": 17699,
@@ -152,8 +212,13 @@
     "country_code": "CH",
     "latitude": "46.70341000",
     "longitude": "8.85090000",
-    "county_id": 5166,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q68347",
+    "type": "city",
+    "native": "Disentis",
+    "timezone": "Europe/Zurich",
+    "population": 2163,
+    "population_year": 2025
   },
   {
     "id": 17700,
@@ -165,7 +230,12 @@
     "latitude": "46.83483000",
     "longitude": "9.45075000",
     "county_id": 5160,
-    "wikiDataId": null
+    "wikiDataId": "Q68266",
+    "type": "municipality",
+    "native": "Domat",
+    "timezone": "Europe/Zurich",
+    "population": 8428,
+    "population_year": 2025
   },
   {
     "id": 17783,
@@ -177,7 +247,12 @@
     "latitude": "46.84566000",
     "longitude": "9.47588000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q64961",
+    "type": "city",
+    "native": "Felsberg",
+    "timezone": "Europe/Zurich",
+    "population": 2088,
+    "population_year": null
   },
   {
     "id": 17793,
@@ -189,7 +264,12 @@
     "latitude": "46.83705000",
     "longitude": "9.28458000",
     "county_id": 5160,
-    "wikiDataId": null
+    "wikiDataId": "Q65049",
+    "type": "municipality",
+    "native": "Flims",
+    "timezone": "Europe/Zurich",
+    "population": 2954,
+    "population_year": 2025
   },
   {
     "id": 17882,
@@ -200,8 +280,13 @@
     "country_code": "CH",
     "latitude": "46.97965000",
     "longitude": "9.64639000",
-    "county_id": 5165,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q64635",
+    "type": "city",
+    "native": "Grüsch",
+    "timezone": "Europe/Zurich",
+    "population": 2189,
+    "population_year": 2025
   },
   {
     "id": 17917,
@@ -213,7 +298,12 @@
     "latitude": "46.53333000",
     "longitude": "9.20000000",
     "county_id": 5167,
-    "wikiDataId": null
+    "wikiDataId": "Q64886",
+    "type": "locality",
+    "native": "Hinterrhein",
+    "timezone": "Europe/Zurich",
+    "population": 61,
+    "population_year": null
   },
   {
     "id": 17947,
@@ -225,7 +315,12 @@
     "latitude": "46.94531000",
     "longitude": "9.57218000",
     "county_id": 5161,
-    "wikiDataId": null
+    "wikiDataId": "Q658739",
+    "type": "locality",
+    "native": "Igis",
+    "timezone": "Europe/Zurich",
+    "population": 6828,
+    "population_year": null
   },
   {
     "id": 17948,
@@ -237,7 +332,12 @@
     "latitude": "46.77413000",
     "longitude": "9.20461000",
     "county_id": 5166,
-    "wikiDataId": null
+    "wikiDataId": "Q64213",
+    "type": "municipality",
+    "native": "Ilanz",
+    "timezone": "Europe/Zurich",
+    "population": 5101,
+    "population_year": 2025
   },
   {
     "id": 17958,
@@ -249,7 +349,12 @@
     "latitude": "46.92892000",
     "longitude": "9.71275000",
     "county_id": 5165,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Jenaz",
+    "timezone": "Europe/Zurich",
+    "population": 1150,
+    "population_year": 2025
   },
   {
     "id": 17986,
@@ -261,7 +366,12 @@
     "latitude": "46.88918000",
     "longitude": "9.83826000",
     "county_id": 5165,
-    "wikiDataId": null
+    "wikiDataId": "Q22699156",
+    "type": "locality",
+    "native": "Klosters Serneus",
+    "timezone": "Europe/Zurich",
+    "population": 4044,
+    "population_year": null
   },
   {
     "id": 18024,
@@ -273,7 +383,12 @@
     "latitude": "46.57887000",
     "longitude": "9.92015000",
     "county_id": 5162,
-    "wikiDataId": null
+    "wikiDataId": "Q65637",
+    "type": "municipality",
+    "native": "La Punt Chamues-ch",
+    "timezone": "Europe/Zurich",
+    "population": 763,
+    "population_year": 2025
   },
   {
     "id": 18029,
@@ -285,7 +400,12 @@
     "latitude": "46.80452000",
     "longitude": "9.25787000",
     "county_id": 5166,
-    "wikiDataId": null
+    "wikiDataId": "Q69606",
+    "type": "municipality",
+    "native": "Laax",
+    "timezone": "Europe/Zurich",
+    "population": 2104,
+    "population_year": 2025
   },
   {
     "id": 18033,
@@ -297,7 +417,12 @@
     "latitude": "46.95000000",
     "longitude": "9.56667000",
     "county_id": 5161,
-    "wikiDataId": null
+    "wikiDataId": "Q70631",
+    "type": "municipality",
+    "native": "Landquart",
+    "timezone": "Europe/Zurich",
+    "population": 9281,
+    "population_year": 2025
   },
   {
     "id": 18067,
@@ -309,7 +434,12 @@
     "latitude": "46.72215000",
     "longitude": "9.55905000",
     "county_id": 5157,
-    "wikiDataId": null
+    "wikiDataId": "Q676017",
+    "type": "section",
+    "native": "Lenzerheide",
+    "timezone": "Europe/Zurich",
+    "population": 2641,
+    "population_year": null
   },
   {
     "id": 18105,
@@ -321,7 +451,12 @@
     "latitude": "46.91957000",
     "longitude": "9.76080000",
     "county_id": 5165,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Luzein",
+    "timezone": "Europe/Zurich",
+    "population": 1706,
+    "population_year": 2025
   },
   {
     "id": 18116,
@@ -333,7 +468,12 @@
     "latitude": "47.00472000",
     "longitude": "9.53115000",
     "county_id": 5161,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Maienfeld",
+    "timezone": "Europe/Zurich",
+    "population": 3344,
+    "population_year": 2025
   },
   {
     "id": 18117,
@@ -345,7 +485,12 @@
     "latitude": "46.98096000",
     "longitude": "9.57527000",
     "county_id": 5161,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Malans",
+    "timezone": "Europe/Zurich",
+    "population": 2530,
+    "population_year": 2025
   },
   {
     "id": 18155,
@@ -357,7 +502,12 @@
     "latitude": "46.39390000",
     "longitude": "9.23333000",
     "county_id": 5163,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Mesokko",
+    "timezone": "Europe/Zurich",
+    "population": 1432,
+    "population_year": 2025
   },
   {
     "id": 18318,
@@ -369,7 +519,12 @@
     "latitude": "46.49550000",
     "longitude": "9.90126000",
     "county_id": 5162,
-    "wikiDataId": null
+    "wikiDataId": "Q69259",
+    "type": "municipality",
+    "native": "Pontresina",
+    "timezone": "Europe/Zurich",
+    "population": 2077,
+    "population_year": 2025
   },
   {
     "id": 18321,
@@ -381,7 +536,12 @@
     "latitude": "46.32441000",
     "longitude": "10.05823000",
     "county_id": 5158,
-    "wikiDataId": null
+    "wikiDataId": "Q22557399",
+    "type": "municipality",
+    "native": "Poschiavo",
+    "timezone": "Europe/Zurich",
+    "population": 3494,
+    "population_year": 2025
   },
   {
     "id": 18367,
@@ -392,8 +552,13 @@
     "country_code": "CH",
     "latitude": "46.79891000",
     "longitude": "9.39764000",
-    "county_id": 5160,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q66030",
+    "type": "city",
+    "native": "Rhäzüns",
+    "timezone": "Europe/Zurich",
+    "population": 1607,
+    "population_year": 2025
   },
   {
     "id": 18435,
@@ -405,7 +570,12 @@
     "latitude": "46.53399000",
     "longitude": "9.87276000",
     "county_id": 5162,
-    "wikiDataId": null
+    "wikiDataId": "Q69085",
+    "type": "municipality",
+    "native": "Samedan",
+    "timezone": "Europe/Zurich",
+    "population": 2926,
+    "population_year": 2025
   },
   {
     "id": 18457,
@@ -417,7 +587,12 @@
     "latitude": "46.71814000",
     "longitude": "9.45903000",
     "county_id": 5167,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Scharans",
+    "timezone": "Europe/Zurich",
+    "population": 846,
+    "population_year": 2025
   },
   {
     "id": 18460,
@@ -429,7 +604,12 @@
     "latitude": "46.96973000",
     "longitude": "9.68720000",
     "county_id": 5165,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Schiers",
+    "timezone": "Europe/Zurich",
+    "population": 3017,
+    "population_year": 2025
   },
   {
     "id": 18490,
@@ -441,7 +621,12 @@
     "latitude": "46.79671000",
     "longitude": "10.29804000",
     "county_id": 5159,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Scuol",
+    "timezone": "Europe/Zurich",
+    "population": 4599,
+    "population_year": 2025
   },
   {
     "id": 18522,
@@ -453,7 +638,12 @@
     "latitude": "46.45810000",
     "longitude": "9.79514000",
     "county_id": 5162,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Silvaplana",
+    "timezone": "Europe/Zurich",
+    "population": 1108,
+    "population_year": 2025
   },
   {
     "id": 18535,
@@ -465,7 +655,12 @@
     "latitude": "46.49937000",
     "longitude": "9.84327000",
     "county_id": 5162,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "St. Moritz",
+    "timezone": "Europe/Zurich",
+    "population": 5027,
+    "population_year": 2025
   },
   {
     "id": 18572,
@@ -477,7 +672,12 @@
     "latitude": "46.82964000",
     "longitude": "9.40648000",
     "county_id": 5160,
-    "wikiDataId": null
+    "wikiDataId": "Q64740",
+    "type": "municipality",
+    "native": "Tamins",
+    "timezone": "Europe/Zurich",
+    "population": 1225,
+    "population_year": 2025
   },
   {
     "id": 18594,
@@ -489,7 +689,12 @@
     "latitude": "46.69724000",
     "longitude": "9.43938000",
     "county_id": 5167,
-    "wikiDataId": null
+    "wikiDataId": "Q66171",
+    "type": "municipality",
+    "native": "Thusis",
+    "timezone": "Europe/Zurich",
+    "population": 3453,
+    "population_year": 2025
   },
   {
     "id": 18596,
@@ -501,7 +706,12 @@
     "latitude": "46.66014000",
     "longitude": "9.57883000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q64328",
+    "type": "adm2",
+    "native": "Tiefencastel",
+    "timezone": "Europe/Zurich",
+    "population": 256,
+    "population_year": null
   },
   {
     "id": 18604,
@@ -513,7 +723,12 @@
     "latitude": "46.90075000",
     "longitude": "9.56120000",
     "county_id": 5161,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Trimmis",
+    "timezone": "Europe/Zurich",
+    "population": 3472,
+    "population_year": 2025
   },
   {
     "id": 18610,
@@ -525,7 +740,12 @@
     "latitude": "46.74292000",
     "longitude": "8.98716000",
     "county_id": 5166,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Trun",
+    "timezone": "Europe/Zurich",
+    "population": 1136,
+    "population_year": 2025
   },
   {
     "id": 18637,
@@ -537,7 +757,12 @@
     "latitude": "46.92750000",
     "longitude": "9.53422000",
     "county_id": 5161,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Untervaz",
+    "timezone": "Europe/Zurich",
+    "population": 2676,
+    "population_year": 2025
   },
   {
     "id": 18660,
@@ -549,7 +774,12 @@
     "latitude": "46.61647000",
     "longitude": "9.18025000",
     "county_id": 5166,
-    "wikiDataId": null
+    "wikiDataId": "Q31951416",
+    "type": "locality",
+    "native": "Vals Platz",
+    "timezone": "Europe/Zurich",
+    "population": 1006,
+    "population_year": null
   },
   {
     "id": 18794,
@@ -561,7 +791,12 @@
     "latitude": "46.69862000",
     "longitude": "10.09268000",
     "county_id": 5159,
-    "wikiDataId": null
+    "wikiDataId": "Q64609",
+    "type": "municipality",
+    "native": "Zernez",
+    "timezone": "Europe/Zurich",
+    "population": 1586,
+    "population_year": 2025
   },
   {
     "id": 18795,
@@ -573,7 +808,12 @@
     "latitude": "46.93575000",
     "longitude": "9.56491000",
     "county_id": 5161,
-    "wikiDataId": null
+    "wikiDataId": "Q69616",
+    "type": "municipality",
+    "native": "Zizers",
+    "timezone": "Europe/Zurich",
+    "population": 3827,
+    "population_year": 2025
   },
   {
     "id": 18804,
@@ -585,6 +825,11 @@
     "latitude": "46.60206000",
     "longitude": "9.95965000",
     "county_id": 5162,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Zuoz",
+    "timezone": "Europe/Zurich",
+    "population": 1210,
+    "population_year": 2025
   }
 ]

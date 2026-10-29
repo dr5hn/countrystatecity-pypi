@@ -9,7 +9,12 @@
     "latitude": "13.92261000",
     "longitude": "-61.05250000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Anse Cochon",
+    "timezone": "America/St_Lucia",
+    "population": 2918,
+    "population_year": null
   },
   {
     "id": 65963,
@@ -21,7 +26,12 @@
     "latitude": "13.93221000",
     "longitude": "-61.04290000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Anse Galet",
+    "timezone": "America/St_Lucia",
+    "population": 1256,
+    "population_year": null
   },
   {
     "id": 65966,
@@ -33,7 +43,12 @@
     "latitude": "13.90964000",
     "longitude": "-61.04755000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Anse La Verdue",
+    "timezone": "America/St_Lucia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 66006,
@@ -45,7 +60,12 @@
     "latitude": "13.89122000",
     "longitude": "-61.05550000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Belvedere",
+    "timezone": "America/St_Lucia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 66063,
@@ -57,7 +77,12 @@
     "latitude": "13.92018000",
     "longitude": "-61.04412000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Chalon",
+    "timezone": "America/St_Lucia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 66359,
@@ -69,7 +94,12 @@
     "latitude": "13.89408000",
     "longitude": "-61.04989000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Riverside Road",
+    "timezone": "America/St_Lucia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 66397,
@@ -81,7 +111,12 @@
     "latitude": "13.92878000",
     "longitude": "-61.04972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Theodrine",
+    "timezone": "America/St_Lucia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 66428,
@@ -93,6 +128,11 @@
     "latitude": "13.90526000",
     "longitude": "-61.06108000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Village",
+    "timezone": "America/St_Lucia",
+    "population": null,
+    "population_year": null
   }
 ]

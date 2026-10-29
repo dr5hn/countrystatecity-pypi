@@ -9,7 +9,12 @@
     "latitude": "47.18994000",
     "longitude": "8.83823000",
     "county_id": 5239,
-    "wikiDataId": null
+    "wikiDataId": "Q69625",
+    "type": "municipality",
+    "native": "Altendorf",
+    "timezone": "Europe/Zurich",
+    "population": 7539,
+    "population_year": 2025
   },
   {
     "id": 17410,
@@ -21,7 +26,12 @@
     "latitude": "47.06337000",
     "longitude": "8.52349000",
     "county_id": 5240,
-    "wikiDataId": null
+    "wikiDataId": "Q22455065",
+    "type": "municipality",
+    "native": "Arth",
+    "timezone": "Europe/Zurich",
+    "population": 12616,
+    "population_year": 2025
   },
   {
     "id": 17590,
@@ -33,7 +43,12 @@
     "latitude": "47.20388000",
     "longitude": "8.73224000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Bäch",
+    "timezone": "Europe/Zurich",
+    "population": 1479,
+    "population_year": null
   },
   {
     "id": 17738,
@@ -45,10 +60,15 @@
     "latitude": "47.12849000",
     "longitude": "8.74735000",
     "county_id": 5235,
-    "wikiDataId": null
+    "wikiDataId": "Q22380143",
+    "type": "municipality",
+    "native": "Einsiedeln",
+    "timezone": "Europe/Zurich",
+    "population": 16667,
+    "population_year": 2025
   },
   {
-    "id": 17787,
+    "id": 167664,
     "name": "Feusisberg",
     "state_id": 1653,
     "state_code": "SZ",
@@ -57,7 +77,12 @@
     "latitude": "47.18707000",
     "longitude": "8.74724000",
     "county_id": 5237,
-    "wikiDataId": null
+    "wikiDataId": "Q69654",
+    "type": "municipality",
+    "native": "Feusisberg",
+    "timezone": "Europe/Zurich",
+    "population": 5588,
+    "population_year": 2025
   },
   {
     "id": 17806,
@@ -69,10 +94,15 @@
     "latitude": "47.20534000",
     "longitude": "8.75842000",
     "county_id": 5237,
-    "wikiDataId": null
+    "wikiDataId": "Q22509889",
+    "type": "municipality",
+    "native": "Freienbach",
+    "timezone": "Europe/Zurich",
+    "population": 17100,
+    "population_year": 2025
   },
   {
-    "id": 17830,
+    "id": 167674,
     "name": "Gersau",
     "state_id": 1653,
     "state_code": "SZ",
@@ -81,7 +111,12 @@
     "latitude": "46.99419000",
     "longitude": "8.52500000",
     "county_id": 5236,
-    "wikiDataId": null
+    "wikiDataId": "Q64380",
+    "type": "municipality",
+    "native": "Gersau",
+    "timezone": "Europe/Zurich",
+    "population": 2505,
+    "population_year": 2025
   },
   {
     "id": 17848,
@@ -93,7 +128,12 @@
     "latitude": "47.04761000",
     "longitude": "8.54616000",
     "county_id": 5240,
-    "wikiDataId": null
+    "wikiDataId": "Q474619",
+    "type": "section",
+    "native": "Goldau",
+    "timezone": "Europe/Zurich",
+    "population": 5285,
+    "population_year": null
   },
   {
     "id": 17946,
@@ -105,10 +145,15 @@
     "latitude": "47.01105000",
     "longitude": "8.64538000",
     "county_id": 5240,
-    "wikiDataId": null
+    "wikiDataId": "Q687867",
+    "type": "section",
+    "native": "Ibach",
+    "timezone": "Europe/Zurich",
+    "population": 3500,
+    "population_year": null
   },
   {
-    "id": 17951,
+    "id": 167701,
     "name": "Ingenbohl",
     "state_id": 1653,
     "state_code": "SZ",
@@ -117,10 +162,15 @@
     "latitude": "46.99880000",
     "longitude": "8.61529000",
     "county_id": 5240,
-    "wikiDataId": null
+    "wikiDataId": "Q66330",
+    "type": "municipality",
+    "native": "Ingenbohl",
+    "timezone": "Europe/Zurich",
+    "population": 9599,
+    "population_year": 2025
   },
   {
-    "id": 18019,
+    "id": 167714,
     "name": "Küssnacht",
     "state_id": 1653,
     "state_code": "SZ",
@@ -129,10 +179,15 @@
     "latitude": "47.08557000",
     "longitude": "8.44206000",
     "county_id": 5238,
-    "wikiDataId": null
+    "wikiDataId": "Q64183",
+    "type": "municipality",
+    "native": "Küssnacht",
+    "timezone": "Europe/Zurich",
+    "population": 14185,
+    "population_year": 2025
   },
   {
-    "id": 18030,
+    "id": 167716,
     "name": "Lachen",
     "state_id": 1653,
     "state_code": "SZ",
@@ -141,7 +196,12 @@
     "latitude": "47.19224000",
     "longitude": "8.85324000",
     "county_id": 5239,
-    "wikiDataId": null
+    "wikiDataId": "Q67100",
+    "type": "municipality",
+    "native": "Lachen",
+    "timezone": "Europe/Zurich",
+    "population": 9448,
+    "population_year": 2025
   },
   {
     "id": 18179,
@@ -153,7 +213,12 @@
     "latitude": "46.97676000",
     "longitude": "8.76499000",
     "county_id": 5240,
-    "wikiDataId": null
+    "wikiDataId": "Q22629922",
+    "type": "municipality",
+    "native": "Muotathal",
+    "timezone": "Europe/Zurich",
+    "population": 3604,
+    "population_year": 2025
   },
   {
     "id": 18310,
@@ -165,10 +230,15 @@
     "latitude": "47.20109000",
     "longitude": "8.77816000",
     "county_id": 5237,
-    "wikiDataId": null
+    "wikiDataId": "Q671010",
+    "type": "section",
+    "native": "Pfäffikon",
+    "timezone": "Europe/Zurich",
+    "population": 7310,
+    "population_year": null
   },
   {
-    "id": 18360,
+    "id": 167780,
     "name": "Reichenburg",
     "state_id": 1653,
     "state_code": "SZ",
@@ -177,10 +247,15 @@
     "latitude": "47.17097000",
     "longitude": "8.97704000",
     "county_id": 5239,
-    "wikiDataId": null
+    "wikiDataId": "Q65862",
+    "type": "municipality",
+    "native": "Reichenburg",
+    "timezone": "Europe/Zurich",
+    "population": 4142,
+    "population_year": 2025
   },
   {
-    "id": 18393,
+    "id": 167786,
     "name": "Rothenthurm",
     "state_id": 1653,
     "state_code": "SZ",
@@ -189,10 +264,15 @@
     "latitude": "47.10420000",
     "longitude": "8.67585000",
     "county_id": 5240,
-    "wikiDataId": null
+    "wikiDataId": "Q66962",
+    "type": "municipality",
+    "native": "Rothenthurm",
+    "timezone": "Europe/Zurich",
+    "population": 2604,
+    "population_year": 2025
   },
   {
-    "id": 18449,
+    "id": 167798,
     "name": "Sattel",
     "state_id": 1653,
     "state_code": "SZ",
@@ -201,7 +281,12 @@
     "latitude": "47.08246000",
     "longitude": "8.63565000",
     "county_id": 5240,
-    "wikiDataId": null
+    "wikiDataId": "Q65465",
+    "type": "municipality",
+    "native": "Sattel",
+    "timezone": "Europe/Zurich",
+    "population": 2097,
+    "population_year": 2025
   },
   {
     "id": 18461,
@@ -213,7 +298,12 @@
     "latitude": "47.17460000",
     "longitude": "8.71345000",
     "county_id": 5237,
-    "wikiDataId": null
+    "wikiDataId": "Q456214",
+    "type": "section",
+    "native": "Schindellegi",
+    "timezone": "Europe/Zurich",
+    "population": 3174,
+    "population_year": null
   },
   {
     "id": 18487,
@@ -225,7 +315,12 @@
     "latitude": "47.17326000",
     "longitude": "8.92811000",
     "county_id": 5239,
-    "wikiDataId": null
+    "wikiDataId": "Q22548451",
+    "type": "municipality",
+    "native": "Schübelbach",
+    "timezone": "Europe/Zurich",
+    "population": 9919,
+    "population_year": 2025
   },
   {
     "id": 18481,
@@ -237,7 +332,12 @@
     "latitude": "47.02076000",
     "longitude": "8.65414000",
     "county_id": 5240,
-    "wikiDataId": null
+    "wikiDataId": "Q68155",
+    "type": "municipality",
+    "native": "Schwyz",
+    "timezone": "Europe/Zurich",
+    "population": 16735,
+    "population_year": 2025
   },
   {
     "id": 18516,
@@ -249,10 +349,15 @@
     "latitude": "47.17449000",
     "longitude": "8.89781000",
     "county_id": 5239,
-    "wikiDataId": null
+    "wikiDataId": "Q687976",
+    "type": "section",
+    "native": "Siebnen",
+    "timezone": "Europe/Zurich",
+    "population": 7104,
+    "population_year": null
   },
   {
-    "id": 18553,
+    "id": 167814,
     "name": "Steinen",
     "state_id": 1653,
     "state_code": "SZ",
@@ -261,10 +366,15 @@
     "latitude": "47.04975000",
     "longitude": "8.61214000",
     "county_id": 5240,
-    "wikiDataId": null
+    "wikiDataId": "Q67191",
+    "type": "municipality",
+    "native": "Stein",
+    "timezone": "Europe/Zurich",
+    "population": 3762,
+    "population_year": 2025
   },
   {
-    "id": 18612,
+    "id": 167822,
     "name": "Tuggen",
     "state_id": 1653,
     "state_code": "SZ",
@@ -273,7 +383,12 @@
     "latitude": "47.20291000",
     "longitude": "8.94896000",
     "county_id": 5239,
-    "wikiDataId": null
+    "wikiDataId": "Q65620",
+    "type": "municipality",
+    "native": "Tuggen",
+    "timezone": "Europe/Zurich",
+    "population": 3491,
+    "population_year": 2025
   },
   {
     "id": 18632,
@@ -285,10 +400,15 @@
     "latitude": "47.06258000",
     "longitude": "8.80520000",
     "county_id": 5240,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "UNTERIBERG",
+    "timezone": "Europe/Zurich",
+    "population": 2524,
+    "population_year": 2025
   },
   {
-    "id": 18693,
+    "id": 167835,
     "name": "Vorderthal",
     "state_id": 1653,
     "state_code": "SZ",
@@ -297,7 +417,12 @@
     "latitude": "47.12172000",
     "longitude": "8.90225000",
     "county_id": 5239,
-    "wikiDataId": null
+    "wikiDataId": "Q66794",
+    "type": "municipality",
+    "native": "Vorderthal",
+    "timezone": "Europe/Zurich",
+    "population": 1032,
+    "population_year": 2025
   },
   {
     "id": 18767,
@@ -309,6 +434,11 @@
     "latitude": "47.19478000",
     "longitude": "8.71903000",
     "county_id": 5237,
-    "wikiDataId": null
+    "wikiDataId": "Q22632539",
+    "type": "municipality",
+    "native": "Wollerau",
+    "timezone": "Europe/Zurich",
+    "population": 7631,
+    "population_year": 2025
   }
 ]

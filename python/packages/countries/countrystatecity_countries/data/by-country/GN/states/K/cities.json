@@ -9,7 +9,12 @@
     "latitude": "10.38542000",
     "longitude": "-9.30568000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q874317",
+    "type": "adm1",
+    "native": "Kankan",
+    "timezone": "Africa/Conakry",
+    "population": 190772,
+    "population_year": null
   },
   {
     "id": 52337,
@@ -21,7 +26,12 @@
     "latitude": "10.27100000",
     "longitude": "-9.17800000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q581719",
+    "type": "prefecture",
+    "native": "Kankan Prefecture",
+    "timezone": "Africa/Conakry",
+    "population": 473359,
+    "population_year": null
   },
   {
     "id": 52345,
@@ -33,7 +43,12 @@
     "latitude": "9.26667000",
     "longitude": "-9.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1152900",
+    "type": "adm2",
+    "native": "Kérouané",
+    "timezone": "Africa/Conakry",
+    "population": 26990,
+    "population_year": null
   },
   {
     "id": 52338,
@@ -45,7 +60,12 @@
     "latitude": "9.16667000",
     "longitude": "-9.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q962654",
+    "type": "prefecture",
+    "native": "Préfecture de Kerouane",
+    "timezone": "Africa/Conakry",
+    "population": 207547,
+    "population_year": null
   },
   {
     "id": 52344,
@@ -57,7 +77,12 @@
     "latitude": "10.66667000",
     "longitude": "-9.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1471573",
+    "type": "adm2",
+    "native": "Kouroussa",
+    "timezone": "Africa/Conakry",
+    "population": 36295,
+    "population_year": null
   },
   {
     "id": 52356,
@@ -69,7 +94,12 @@
     "latitude": "10.62577000",
     "longitude": "-8.69413000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6748057",
+    "type": "adm2",
+    "native": "Mandiana",
+    "timezone": "Africa/Conakry",
+    "population": 19110,
+    "population_year": null
   },
   {
     "id": 52357,
@@ -81,7 +111,12 @@
     "latitude": "10.65800000",
     "longitude": "-8.61500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1470878",
+    "type": "prefecture",
+    "native": "Préfecture de mandiana",
+    "timezone": "Africa/Conakry",
+    "population": 335999,
+    "population_year": null
   },
   {
     "id": 52365,
@@ -93,7 +128,12 @@
     "latitude": "11.42282000",
     "longitude": "-9.16852000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1100303",
+    "type": "adm2",
+    "native": "Siguiri",
+    "timezone": "Africa/Conakry",
+    "population": 183875,
+    "population_year": null
   },
   {
     "id": 52366,
@@ -105,7 +145,12 @@
     "latitude": "11.66667000",
     "longitude": "-9.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1780649",
+    "type": "prefecture",
+    "native": "Siguiri Prefecture",
+    "timezone": "Africa/Conakry",
+    "population": 687002,
+    "population_year": null
   },
   {
     "id": 52368,
@@ -117,6 +162,11 @@
     "latitude": "9.65000000",
     "longitude": "-9.78333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tokonou",
+    "timezone": "Africa/Conakry",
+    "population": 6729,
+    "population_year": null
   }
 ]

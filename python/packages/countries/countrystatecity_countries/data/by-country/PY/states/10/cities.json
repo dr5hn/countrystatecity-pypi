@@ -9,7 +9,12 @@
     "latitude": "-25.65668000",
     "longitude": "-54.72272000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Cedrales",
+    "timezone": "America/Asuncion",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 89745,
@@ -21,7 +26,12 @@
     "latitude": "-25.50972000",
     "longitude": "-54.61111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q192235",
+    "type": "city",
+    "native": "Ciudad del Este",
+    "timezone": "America/Asuncion",
+    "population": 54292,
+    "population_year": null
   },
   {
     "id": 89751,
@@ -33,7 +43,12 @@
     "latitude": "-24.86667000",
     "longitude": "-54.90000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q34796137",
+    "type": "city",
+    "native": "Colonia Minga Porá",
+    "timezone": "America/Asuncion",
+    "population": 1770,
+    "population_year": null
   },
   {
     "id": 89759,
@@ -45,7 +60,12 @@
     "latitude": "-25.43053000",
     "longitude": "-55.25412000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Doctor Juan León Mallorquín",
+    "timezone": "America/Asuncion",
+    "population": 7481,
+    "population_year": null
   },
   {
     "id": 89782,
@@ -57,7 +77,12 @@
     "latitude": "-24.98611000",
     "longitude": "-55.14963000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Itakyry",
+    "timezone": "America/Asuncion",
+    "population": 3038,
+    "population_year": null
   },
   {
     "id": 89799,
@@ -69,7 +94,12 @@
     "latitude": "-25.96667000",
     "longitude": "-55.18333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Naranjal",
+    "timezone": "America/Asuncion",
+    "population": 2151,
+    "population_year": null
   },
   {
     "id": 89812,
@@ -81,7 +111,12 @@
     "latitude": "-25.56384000",
     "longitude": "-54.61097000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Presidente Franco",
+    "timezone": "America/Asuncion",
+    "population": 54292,
+    "population_year": null
   },
   {
     "id": 89818,
@@ -93,7 +128,12 @@
     "latitude": "-24.96667000",
     "longitude": "-54.90000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "San Alberto",
+    "timezone": "America/Asuncion",
+    "population": 4989,
+    "population_year": null
   },
   {
     "id": 89835,
@@ -105,7 +145,12 @@
     "latitude": "-25.78333000",
     "longitude": "-55.06667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Santa Rita",
+    "timezone": "America/Asuncion",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 89852,
@@ -117,6 +162,11 @@
     "latitude": "-25.46187000",
     "longitude": "-55.00007000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q34796144",
+    "type": "city",
+    "native": "Yguazú",
+    "timezone": "America/Asuncion",
+    "population": null,
+    "population_year": null
   }
 ]

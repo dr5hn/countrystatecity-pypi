@@ -9,7 +9,12 @@
     "latitude": "52.70031000",
     "longitude": "-6.96181000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Bagenalstown",
+    "timezone": "Europe/Dublin",
+    "population": 2837,
+    "population_year": null
   },
   {
     "id": 57144,
@@ -21,7 +26,12 @@
     "latitude": "52.84083000",
     "longitude": "-6.92611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Carlow",
+    "timezone": "Europe/Dublin",
+    "population": 24272,
+    "population_year": null
   },
   {
     "id": 57423,
@@ -33,6 +43,11 @@
     "latitude": "52.80028000",
     "longitude": "-6.73694000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1025610",
+    "type": "town",
+    "native": "Tullow",
+    "timezone": "Europe/Dublin",
+    "population": 4673,
+    "population_year": null
   }
 ]

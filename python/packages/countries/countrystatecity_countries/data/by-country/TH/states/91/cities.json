@@ -1,6 +1,6 @@
 [
   {
-    "id": 105426,
+    "id": 167028,
     "name": "Khuan Don",
     "state_id": 3537,
     "state_code": "91",
@@ -9,10 +9,15 @@
     "latitude": "6.78758000",
     "longitude": "100.07778000",
     "county_id": 6245,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ควนโดน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105427,
+    "id": 167029,
     "name": "Khuan Kalong",
     "state_id": 3537,
     "state_code": "91",
@@ -21,7 +26,12 @@
     "latitude": "6.84538000",
     "longitude": "100.07148000",
     "county_id": 6246,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ควนกาหลง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154915,
@@ -33,7 +43,12 @@
     "latitude": "6.48770430",
     "longitude": "99.27685140",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q49296148",
+    "type": "city",
+    "native": "เกาะหลีเป๊ะ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105468,
@@ -45,7 +60,12 @@
     "latitude": "6.90392000",
     "longitude": "99.79836000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q32351",
+    "type": "district",
+    "native": "อำเภอละงู",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 105524,
@@ -57,7 +77,12 @@
     "latitude": "7.01822000",
     "longitude": "99.95399000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q32346",
+    "type": "district",
+    "native": "อำเภอมะนัง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106692,
@@ -69,7 +94,12 @@
     "latitude": "6.62314000",
     "longitude": "100.06676000",
     "county_id": 6244,
-    "wikiDataId": null
+    "wikiDataId": "Q1365666",
+    "type": "city",
+    "native": "สตูล",
+    "timezone": "Asia/Bangkok",
+    "population": 34544,
+    "population_year": null
   },
   {
     "id": 106280,
@@ -81,10 +111,15 @@
     "latitude": "6.79542000",
     "longitude": "99.91985000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q32345",
+    "type": "district",
+    "native": "อำเภอท่าแพ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106319,
+    "id": 167256,
     "name": "Thung Wa",
     "state_id": 3537,
     "state_code": "91",
@@ -93,6 +128,11 @@
     "latitude": "7.10920000",
     "longitude": "99.75590000",
     "county_id": 6249,
-    "wikiDataId": null
+    "wikiDataId": "Q109837642",
+    "type": "town",
+    "native": "ทุ่งหว้า",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

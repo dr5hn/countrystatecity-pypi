@@ -9,7 +9,12 @@
     "latitude": "55.96895000",
     "longitude": "25.15648000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Obeliai",
+    "timezone": "Europe/Vilnius",
+    "population": 1247,
+    "population_year": null
   },
   {
     "id": 66653,
@@ -21,7 +26,12 @@
     "latitude": "55.73301000",
     "longitude": "24.37609000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1351758",
+    "type": "municipality",
+    "native": "Panevėžys rajono savivaldybė",
+    "timezone": "Europe/Vilnius",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 66654,
@@ -33,7 +43,12 @@
     "latitude": "56.06667000",
     "longitude": "24.40000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Pasvalys",
+    "timezone": "Europe/Vilnius",
+    "population": 6411,
+    "population_year": null
   },
   {
     "id": 66665,
@@ -45,7 +60,12 @@
     "latitude": "55.51400000",
     "longitude": "24.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2089619",
+    "type": "city",
+    "native": "Ramygala",
+    "timezone": "Europe/Vilnius",
+    "population": 1198,
+    "population_year": null
   },
   {
     "id": 66669,
@@ -57,6 +77,11 @@
     "latitude": "55.96667000",
     "longitude": "25.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Rokiškis",
+    "timezone": "Europe/Vilnius",
+    "population": 11606,
+    "population_year": null
   }
 ]

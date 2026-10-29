@@ -9,7 +9,12 @@
     "latitude": "14.87394000",
     "longitude": "100.04669000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475455",
+    "type": "district",
+    "native": "อำเภอเดิมบางนางบวช",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106412,
@@ -21,7 +26,12 @@
     "latitude": "14.74219000",
     "longitude": "100.09531000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "บ้านสามชุก",
+    "timezone": "Asia/Bangkok",
+    "population": 13438,
+    "population_year": null
   },
   {
     "id": 105239,
@@ -33,10 +43,15 @@
     "latitude": "14.34985000",
     "longitude": "100.14479000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475237",
+    "type": "district",
+    "native": "อำเภอบางปลาม้า",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105317,
+    "id": 166984,
     "name": "Dan Chang",
     "state_id": 3524,
     "state_code": "72",
@@ -45,7 +60,12 @@
     "latitude": "14.84183000",
     "longitude": "99.69756000",
     "county_id": 6117,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ด่านช้าง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106490,
@@ -57,10 +77,15 @@
     "latitude": "14.83333000",
     "longitude": "100.10000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "เดิมบาง นางบวช",
+    "timezone": "Asia/Bangkok",
+    "population": 14671,
+    "population_year": null
   },
   {
-    "id": 105330,
+    "id": 166987,
     "name": "Don Chedi",
     "state_id": 3524,
     "state_code": "72",
@@ -69,10 +94,15 @@
     "latitude": "14.63497000",
     "longitude": "100.02097000",
     "county_id": 6120,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ดอนเจดีย์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105687,
+    "id": 167126,
     "name": "Nong Ya Sai",
     "state_id": 3524,
     "state_code": "72",
@@ -81,10 +111,15 @@
     "latitude": "14.77988000",
     "longitude": "99.91073000",
     "county_id": 6124,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "หนองหญ้าไซ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106219,
+    "id": 167208,
     "name": "Si Prachan",
     "state_id": 3524,
     "state_code": "72",
@@ -93,10 +128,15 @@
     "latitude": "14.62040000",
     "longitude": "100.14440000",
     "county_id": 6119,
-    "wikiDataId": null
+    "wikiDataId": "Q15688358",
+    "type": "town",
+    "native": "ศรีประจันต์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106247,
+    "id": 167224,
     "name": "Song Phi Nong",
     "state_id": 3524,
     "state_code": "72",
@@ -105,7 +145,12 @@
     "latitude": "14.23055556",
     "longitude": "100.03888889",
     "county_id": 6121,
-    "wikiDataId": null
+    "wikiDataId": "Q15217918",
+    "type": "city",
+    "native": "สองพี่น้อง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106709,
@@ -117,10 +162,15 @@
     "latitude": "14.47418000",
     "longitude": "100.12218000",
     "county_id": 6115,
-    "wikiDataId": null
+    "wikiDataId": "Q978805",
+    "type": "city",
+    "native": "สุพรรณบุรี",
+    "timezone": "Asia/Bangkok",
+    "population": 53399,
+    "population_year": null
   },
   {
-    "id": 106324,
+    "id": 167258,
     "name": "U Thong",
     "state_id": 3524,
     "state_code": "72",
@@ -129,6 +179,11 @@
     "latitude": "14.37610000",
     "longitude": "99.89220000",
     "county_id": 6123,
-    "wikiDataId": null
+    "wikiDataId": "Q13025305",
+    "type": "town",
+    "native": "อู่ทอง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

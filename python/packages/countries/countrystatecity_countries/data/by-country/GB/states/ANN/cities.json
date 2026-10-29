@@ -9,7 +9,12 @@
     "latitude": "54.70000000",
     "longitude": "-6.20000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q609235",
+    "type": "adm2",
+    "native": "Antrim",
+    "timezone": "Europe/London",
+    "population": 19986,
+    "population_year": null
   },
   {
     "id": 48260,
@@ -21,7 +26,12 @@
     "latitude": "54.70177000",
     "longitude": "-6.19770000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "area",
+    "native": "Antrim and Newtownabbey",
+    "timezone": "Europe/London",
+    "population": 142492,
+    "population_year": null
   },
   {
     "id": 48352,
@@ -33,7 +43,12 @@
     "latitude": "54.75089000",
     "longitude": "-5.99944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q805403",
+    "type": "town",
+    "native": "Ballyclare",
+    "timezone": "Europe/London",
+    "population": 9472,
+    "population_year": null
   },
   {
     "id": 49188,
@@ -45,7 +60,12 @@
     "latitude": "54.62054000",
     "longitude": "-6.21414000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2053639",
+    "type": "town",
+    "native": "Crumlin",
+    "timezone": "Europe/London",
+    "population": 5149,
+    "population_year": null
   },
   {
     "id": 49296,
@@ -57,7 +77,12 @@
     "latitude": "54.75000000",
     "longitude": "-6.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1702678",
+    "type": "city",
+    "native": "Doagh",
+    "timezone": "Europe/London",
+    "population": 1151,
+    "population_year": null
   },
   {
     "id": 50739,
@@ -69,7 +94,12 @@
     "latitude": "54.65983000",
     "longitude": "-5.90858000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q918947",
+    "type": "adm2",
+    "native": "Newtownabbey",
+    "timezone": "Europe/London",
+    "population": 62056,
+    "population_year": null
   },
   {
     "id": 51030,
@@ -81,7 +111,12 @@
     "latitude": "54.75000000",
     "longitude": "-6.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1249441",
+    "type": "city",
+    "native": "Randalstown",
+    "timezone": "Europe/London",
+    "population": 4956,
+    "population_year": null
   },
   {
     "id": 51572,
@@ -93,6 +128,11 @@
     "latitude": "54.68333000",
     "longitude": "-6.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2223119",
+    "type": "city",
+    "native": "Templepatrick",
+    "timezone": "Europe/London",
+    "population": 1627,
+    "population_year": null
   }
 ]

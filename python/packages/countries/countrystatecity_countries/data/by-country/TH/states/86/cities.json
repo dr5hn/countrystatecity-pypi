@@ -9,7 +9,12 @@
     "latitude": "9.87686000",
     "longitude": "98.86592000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "บ้านน้ำยืน",
+    "timezone": "Asia/Bangkok",
+    "population": 12335,
+    "population_year": null
   },
   {
     "id": 106484,
@@ -21,10 +26,15 @@
     "latitude": "10.49570000",
     "longitude": "99.17971000",
     "county_id": 6220,
-    "wikiDataId": null
+    "wikiDataId": "Q637500",
+    "type": "city",
+    "native": "ชุมพร",
+    "timezone": "Asia/Bangkok",
+    "population": 55835,
+    "population_year": null
   },
   {
-    "id": 105478,
+    "id": 167056,
     "name": "Lamae",
     "state_id": 3526,
     "state_code": "86",
@@ -33,7 +43,12 @@
     "latitude": "9.78125997",
     "longitude": "99.11213688",
     "county_id": 6224,
-    "wikiDataId": null
+    "wikiDataId": "Q16325321",
+    "type": "town",
+    "native": "ละแม",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106553,
@@ -45,7 +60,12 @@
     "latitude": "9.94561000",
     "longitude": "99.07847000",
     "county_id": 6223,
-    "wikiDataId": null
+    "wikiDataId": "Q6485624",
+    "type": "city",
+    "native": "หลังสวน",
+    "timezone": "Asia/Bangkok",
+    "population": 16142,
+    "population_year": null
   },
   {
     "id": 105713,
@@ -57,10 +77,15 @@
     "latitude": "10.81008000",
     "longitude": "99.33938000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476353",
+    "type": "district",
+    "native": "อำเภอปะทิว",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105731,
+    "id": 167143,
     "name": "Phato",
     "state_id": 3526,
     "state_code": "86",
@@ -69,7 +94,12 @@
     "latitude": "9.78657959",
     "longitude": "98.77685209",
     "county_id": 6225,
-    "wikiDataId": null
+    "wikiDataId": "Q16325322",
+    "type": "town",
+    "native": "พะโต๊ะ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106204,
@@ -81,10 +111,15 @@
     "latitude": "10.24008000",
     "longitude": "99.01865000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476673",
+    "type": "district",
+    "native": "อำเภอสวี",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106283,
+    "id": 167238,
     "name": "Tha Sae",
     "state_id": 3526,
     "state_code": "86",
@@ -93,7 +128,12 @@
     "latitude": "10.67160765",
     "longitude": "99.18122116",
     "county_id": 6221,
-    "wikiDataId": null
+    "wikiDataId": "Q16325318",
+    "type": "town",
+    "native": "ท่าแซะ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106318,
@@ -105,6 +145,11 @@
     "latitude": "10.09223000",
     "longitude": "99.05337000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476954",
+    "type": "district",
+    "native": "อำเภอทุ่งตะโก",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

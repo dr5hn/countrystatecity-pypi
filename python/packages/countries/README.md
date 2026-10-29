@@ -33,7 +33,25 @@ csc = CountryStateCity()          # reads CSC_API_KEY
 Keep API keys in server-side environment variables, never in client-side code or
 source control.
 
-## Upgrading from 1.x to 2.x
+## Upgrading to 3.0.0
+
+This version uses pinned `v5.0.0-export.1`: 250 countries, 5,327 states and
+152,378 cities. Read the [upstream v5 migration notes](https://github.com/dr5hn/countries-states-cities-database/releases/tag/v5.0.0)
+before changing stored IDs. Removed administrative units must not automatically
+redirect to their seat towns.
+
+Cities can now have `state_id=None` and `state_code=None`.
+`get_cities_of_country("EH")` includes all three Western Sahara cities without
+inventing a state. City type, native name, time zone, population, population year,
+Wikidata item and county link are retained from the full city export. City/state
+hierarchy levels, parent links, local type labels and city translations remain
+outside this package's models. Keep the supplied `NOTICE-*.txt` files when
+redistributing the data. Every offline package includes `data/release.json`
+with its exact source tag and asset checksums.
+
+To stay on v4 data, pin `countrystatecity-countries<3`.
+
+## Earlier migration: 1.x to 2.x
 
 Version 2 uses upstream v4.0, a breaking data release. The snapshot is
 [v4.0-export.50](https://github.com/dr5hn/countries-states-cities-database/releases/tag/v4.0-export.50)
@@ -57,7 +75,7 @@ attached to the upstream v4.0 release. Check `record`, `outcome`, `new_table` an
 `new_id`: a county replacement id belongs to the counties dataset, not cities.
 The mapping covers the v3.2 to v4.0 transition; export .50 includes later changes.
 
-This package continues to use the reduced combined countries+states+cities
+Version 2 used the reduced combined countries+states+cities
 export. `City.county_id` is an optional integer linking to the upstream counties
 dataset, which this package does not ship. The combined export omits city `type`,
 city/state `type_local`, `level`, `parent_id`, city translations and Wikidata ids;
@@ -73,8 +91,8 @@ To defer migration, constrain the installed version to
 - ✅ **Type-safe** with Pydantic models and mypy support
 - ✅ **Lazy loading** for minimal memory footprint
 - ✅ **250 countries** with metadata
-- ✅ **5,328 states/provinces**
-- ✅ **152,152 cities**
+- ✅ **5,327 states/provinces**
+- ✅ **152,378 cities**
 - ✅ **4,724 translations** in 19 languages
 - ✅ **Timezone data** per location
 - ✅ **Zero external dependencies** (except Pydantic)
@@ -442,7 +460,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 | [countrystatecity-translations](https://pypi.org/project/countrystatecity-translations/) | 4,724 translations in 19 languages |
 | [countrystatecity-phonecodes](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250 countries |
 | [countrystatecity-regions](https://pypi.org/project/countrystatecity-regions/) | Region and subregion associations for 250 countries |
-| [countrystatecity-postal-codes](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 125 countries |
+| [countrystatecity-postal-codes](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 116 countries |
 
 Data sourced from [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database).
 

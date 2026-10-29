@@ -9,7 +9,12 @@
     "latitude": "-6.05000000",
     "longitude": "144.56667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Angalimp South Wahgi",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81051,
@@ -21,7 +26,12 @@
     "latitude": "-5.53333000",
     "longitude": "144.56667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711008",
+    "type": "area",
+    "native": "Jimi",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 37385,
+    "population_year": null
   },
   {
     "id": 81093,
@@ -33,6 +43,11 @@
     "latitude": "-5.80000000",
     "longitude": "144.68333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711261",
+    "type": "area",
+    "native": "North Wahgi",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   }
 ]

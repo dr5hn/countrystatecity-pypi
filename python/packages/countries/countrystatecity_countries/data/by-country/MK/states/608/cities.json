@@ -9,7 +9,12 @@
     "latitude": "42.10711000",
     "longitude": "21.10810000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20932467",
+    "type": "city",
+    "native": "Нераште",
+    "timezone": "Europe/Skopje",
+    "population": 2724,
+    "population_year": null
   },
   {
     "id": 67500,
@@ -21,7 +26,12 @@
     "latitude": "42.06250000",
     "longitude": "21.79972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20932502",
+    "type": "city",
+    "native": "Орашац",
+    "timezone": "Europe/Skopje",
+    "population": 1179,
+    "population_year": null
   },
   {
     "id": 67511,
@@ -33,7 +43,12 @@
     "latitude": "42.08336000",
     "longitude": "21.05994000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Пршовце",
+    "timezone": "Europe/Skopje",
+    "population": 1923,
+    "population_year": null
   },
   {
     "id": 67527,
@@ -45,7 +60,12 @@
     "latitude": "42.06784000",
     "longitude": "21.03902000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20936134",
+    "type": "city",
+    "native": "Слатино",
+    "timezone": "Europe/Skopje",
+    "population": 3422,
+    "population_year": null
   },
   {
     "id": 67542,
@@ -57,6 +77,11 @@
     "latitude": "42.07666000",
     "longitude": "21.05310000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q653186",
+    "type": "adm1",
+    "native": "Теарце",
+    "timezone": "Europe/Skopje",
+    "population": 23096,
+    "population_year": null
   }
 ]

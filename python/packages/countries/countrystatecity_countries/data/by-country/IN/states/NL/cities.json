@@ -6,10 +6,15 @@
     "state_code": "NL",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "25.77852000",
-    "longitude": "93.78508000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "25.91250000",
+    "longitude": "93.74166667",
+    "county_id": 10854,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "दीमापुर",
+    "timezone": "Asia/Kolkata",
+    "population": 135860,
+    "population_year": null
   },
   {
     "id": 132549,
@@ -21,7 +26,12 @@
     "latitude": "25.67467000",
     "longitude": "94.11099000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q234056",
+    "type": "adm1",
+    "native": "कोहिमा",
+    "timezone": "Asia/Kolkata",
+    "population": 99039,
+    "population_year": null
   },
   {
     "id": 132989,
@@ -33,7 +43,12 @@
     "latitude": "26.31393000",
     "longitude": "94.51675000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2175311",
+    "type": "city",
+    "native": "मोकोकचुंग",
+    "timezone": "Asia/Kolkata",
+    "population": 35913,
+    "population_year": null
   },
   {
     "id": 132990,
@@ -45,7 +60,12 @@
     "latitude": "26.75000000",
     "longitude": "94.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2339648",
+    "type": "city",
+    "native": "सोमवार",
+    "timezone": "Asia/Kolkata",
+    "population": 26328,
+    "population_year": null
   },
   {
     "id": 133416,
@@ -56,20 +76,30 @@
     "country_code": "IN",
     "latitude": "25.51276000",
     "longitude": "93.73716000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11117,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "पेरेन",
+    "timezone": "Asia/Kolkata",
+    "population": 95219,
+    "population_year": null
   },
   {
-    "id": 133438,
+    "id": 168145,
     "name": "Phek",
     "state_id": 4018,
     "state_code": "NL",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "25.75000000",
+    "latitude": "25.66670000",
     "longitude": "94.50000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10856,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "फेक",
+    "timezone": "Asia/Kolkata",
+    "population": 15118,
+    "population_year": null
   },
   {
     "id": 134215,
@@ -81,19 +111,12 @@
     "latitude": "26.26704000",
     "longitude": "94.82415000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 134216,
-    "name": "Tuensang District",
-    "state_id": 4018,
-    "state_code": "NL",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "26.25000000",
-    "longitude": "94.75000000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2726329",
+    "type": "city",
+    "native": "तुएनसांग",
+    "timezone": "Asia/Kolkata",
+    "population": 36774,
+    "population_year": null
   },
   {
     "id": 134413,
@@ -104,8 +127,13 @@
     "country_code": "IN",
     "latitude": "26.16667000",
     "longitude": "94.25000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10858,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "वोखा",
+    "timezone": "Asia/Kolkata",
+    "population": 166343,
+    "population_year": null
   },
   {
     "id": 134445,
@@ -116,7 +144,12 @@
     "country_code": "IN",
     "latitude": "26.00000000",
     "longitude": "94.50000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10859,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "जुन्हेबोटो",
+    "timezone": "Asia/Kolkata",
+    "population": 140757,
+    "population_year": null
   }
 ]

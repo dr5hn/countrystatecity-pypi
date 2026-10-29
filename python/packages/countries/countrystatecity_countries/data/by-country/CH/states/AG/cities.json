@@ -9,7 +9,12 @@
     "latitude": "47.39254000",
     "longitude": "8.04422000",
     "county_id": 5168,
-    "wikiDataId": null
+    "wikiDataId": "Q14274",
+    "type": "city",
+    "native": "Aarau",
+    "timezone": "Europe/Zurich",
+    "population": 22932,
+    "population_year": 2025
   },
   {
     "id": 17359,
@@ -21,10 +26,15 @@
     "latitude": "47.32067000",
     "longitude": "7.89986000",
     "county_id": 5177,
-    "wikiDataId": null
+    "wikiDataId": "Q64165",
+    "type": "city",
+    "native": "Aarburg",
+    "timezone": "Europe/Zurich",
+    "population": 9040,
+    "population_year": 2025
   },
   {
-    "id": 17407,
+    "id": 167614,
     "name": "Aristau",
     "state_id": 1639,
     "state_code": "AG",
@@ -33,10 +43,15 @@
     "latitude": "47.28692000",
     "longitude": "8.36356000",
     "county_id": 5175,
-    "wikiDataId": null
+    "wikiDataId": "Q64752",
+    "type": "municipality",
+    "native": "Aristau",
+    "timezone": "Europe/Zurich",
+    "population": 1655,
+    "population_year": 2025
   },
   {
-    "id": 17424,
+    "id": 167615,
     "name": "Auw",
     "state_id": 1639,
     "state_code": "AG",
@@ -45,7 +60,12 @@
     "latitude": "47.21082000",
     "longitude": "8.36583000",
     "county_id": 5175,
-    "wikiDataId": null
+    "wikiDataId": "Q64420",
+    "type": "municipality",
+    "native": "Auw",
+    "timezone": "Europe/Zurich",
+    "population": 2325,
+    "population_year": 2025
   },
   {
     "id": 17431,
@@ -57,7 +77,12 @@
     "latitude": "47.58764000",
     "longitude": "8.29365000",
     "county_id": 5178,
-    "wikiDataId": null
+    "wikiDataId": "Q22471704",
+    "type": "locality",
+    "native": "Bad Zurzach",
+    "timezone": "Europe/Zurich",
+    "population": 4344,
+    "population_year": null
   },
   {
     "id": 17432,
@@ -69,10 +94,15 @@
     "latitude": "47.47333000",
     "longitude": "8.30592000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q63939",
+    "type": "city",
+    "native": "Baden",
+    "timezone": "Europe/Zurich",
+    "population": 24012,
+    "population_year": 2025
   },
   {
-    "id": 17460,
+    "id": 167620,
     "name": "Berikon",
     "state_id": 1639,
     "state_code": "AG",
@@ -81,7 +111,12 @@
     "latitude": "47.35155000",
     "longitude": "8.37232000",
     "county_id": 5170,
-    "wikiDataId": null
+    "wikiDataId": "Q64334",
+    "type": "municipality",
+    "native": "Berikon",
+    "timezone": "Europe/Zurich",
+    "population": 5026,
+    "population_year": 2025
   },
   {
     "id": 17467,
@@ -93,10 +128,15 @@
     "latitude": "47.31439000",
     "longitude": "8.34586000",
     "county_id": 5175,
-    "wikiDataId": null
+    "wikiDataId": "Q659378",
+    "type": "municipality",
+    "native": "Besenbüren",
+    "timezone": "Europe/Zurich",
+    "population": 677,
+    "population_year": 2025
   },
   {
-    "id": 17536,
+    "id": 167624,
     "name": "Birmenstorf",
     "state_id": 1639,
     "state_code": "AG",
@@ -105,10 +145,15 @@
     "latitude": "47.46152000",
     "longitude": "8.24816000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q64457",
+    "type": "municipality",
+    "native": "Birmenstorf",
+    "timezone": "Europe/Zurich",
+    "population": 3053,
+    "population_year": 2025
   },
   {
-    "id": 17537,
+    "id": 167625,
     "name": "Birr",
     "state_id": 1639,
     "state_code": "AG",
@@ -117,7 +162,12 @@
     "latitude": "47.43432000",
     "longitude": "8.20891000",
     "county_id": 5171,
-    "wikiDataId": null
+    "wikiDataId": "Q64411",
+    "type": "municipality",
+    "native": "Birr",
+    "timezone": "Europe/Zurich",
+    "population": 4868,
+    "population_year": 2025
   },
   {
     "id": 17549,
@@ -129,7 +179,12 @@
     "latitude": "47.31725000",
     "longitude": "8.18963000",
     "county_id": 5174,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Boniswil",
+    "timezone": "Europe/Zurich",
+    "population": 1795,
+    "population_year": 2025
   },
   {
     "id": 17558,
@@ -141,10 +196,15 @@
     "latitude": "47.35109000",
     "longitude": "8.34214000",
     "county_id": 5170,
-    "wikiDataId": null
+    "wikiDataId": "Q64139",
+    "type": "city",
+    "native": "Bremgarten",
+    "timezone": "Europe/Zurich",
+    "population": 8902,
+    "population_year": 2025
   },
   {
-    "id": 17565,
+    "id": 167629,
     "name": "Brittnau",
     "state_id": 1639,
     "state_code": "AG",
@@ -153,7 +213,12 @@
     "latitude": "47.25954000",
     "longitude": "7.94689000",
     "county_id": 5177,
-    "wikiDataId": null
+    "wikiDataId": "Q64273",
+    "type": "municipality",
+    "native": "Brittnau",
+    "timezone": "Europe/Zurich",
+    "population": 4350,
+    "population_year": 2025
   },
   {
     "id": 17570,
@@ -165,7 +230,12 @@
     "latitude": "47.48096000",
     "longitude": "8.20869000",
     "county_id": 5171,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Brugg",
+    "timezone": "Europe/Zurich",
+    "population": 11177,
+    "population_year": null
   },
   {
     "id": 17579,
@@ -177,7 +247,12 @@
     "latitude": "47.39358000",
     "longitude": "8.08233000",
     "county_id": 5168,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Buchs",
+    "timezone": "Europe/Zurich",
+    "population": 8651,
+    "population_year": 2025
   },
   {
     "id": 17588,
@@ -189,10 +264,15 @@
     "latitude": "47.26828000",
     "longitude": "8.31064000",
     "county_id": 5175,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Buttwil",
+    "timezone": "Europe/Zurich",
+    "population": 1305,
+    "population_year": 2025
   },
   {
-    "id": 17682,
+    "id": 167643,
     "name": "Densbüren",
     "state_id": 1639,
     "state_code": "AG",
@@ -201,10 +281,15 @@
     "latitude": "47.45260000",
     "longitude": "8.05330000",
     "county_id": 5168,
-    "wikiDataId": null
+    "wikiDataId": "Q64537",
+    "type": "municipality",
+    "native": "Densburen",
+    "timezone": "Europe/Zurich",
+    "population": 784,
+    "population_year": 2025
   },
   {
-    "id": 17705,
+    "id": 167648,
     "name": "Dottikon",
     "state_id": 1639,
     "state_code": "AG",
@@ -213,7 +298,12 @@
     "latitude": "47.38437000",
     "longitude": "8.23981000",
     "county_id": 5170,
-    "wikiDataId": null
+    "wikiDataId": "Q64438",
+    "type": "municipality",
+    "native": "Dottikon",
+    "timezone": "Europe/Zurich",
+    "population": 4240,
+    "population_year": 2025
   },
   {
     "id": 17717,
@@ -225,10 +315,15 @@
     "latitude": "47.32094000",
     "longitude": "8.15874000",
     "county_id": 5172,
-    "wikiDataId": null
+    "wikiDataId": "Q22609484",
+    "type": "municipality",
+    "native": "Dürrenäsch",
+    "timezone": "Europe/Zurich",
+    "population": 1393,
+    "population_year": 2025
   },
   {
-    "id": 17732,
+    "id": 167653,
     "name": "Egliswil",
     "state_id": 1639,
     "state_code": "AG",
@@ -237,7 +332,12 @@
     "latitude": "47.34922000",
     "longitude": "8.18553000",
     "county_id": 5174,
-    "wikiDataId": null
+    "wikiDataId": "Q65155",
+    "type": "municipality",
+    "native": "Egliswil",
+    "timezone": "Europe/Zurich",
+    "population": 1627,
+    "population_year": 2025
   },
   {
     "id": 17734,
@@ -249,10 +349,15 @@
     "latitude": "47.50250000",
     "longitude": "8.34729000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q22377720",
+    "type": "municipality",
+    "native": "Ehrendingen",
+    "timezone": "Europe/Zurich",
+    "population": 4919,
+    "population_year": 2025
   },
   {
-    "id": 17737,
+    "id": 167656,
     "name": "Eiken",
     "state_id": 1639,
     "state_code": "AG",
@@ -261,7 +366,12 @@
     "latitude": "47.53361000",
     "longitude": "7.98801000",
     "county_id": 5173,
-    "wikiDataId": null
+    "wikiDataId": "Q66433",
+    "type": "municipality",
+    "native": "Eiken",
+    "timezone": "Europe/Zurich",
+    "population": 2573,
+    "population_year": 2025
   },
   {
     "id": 17749,
@@ -273,10 +383,15 @@
     "latitude": "47.53742000",
     "longitude": "8.29036000",
     "county_id": 5178,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Endingen",
+    "timezone": "Europe/Zurich",
+    "population": 2758,
+    "population_year": 2025
   },
   {
-    "id": 17810,
+    "id": 167667,
     "name": "Frick",
     "state_id": 1639,
     "state_code": "AG",
@@ -285,10 +400,15 @@
     "latitude": "47.51169000",
     "longitude": "8.02471000",
     "county_id": 5173,
-    "wikiDataId": null
+    "wikiDataId": "Q66617",
+    "type": "municipality",
+    "native": "Frick",
+    "timezone": "Europe/Zurich",
+    "population": 6211,
+    "population_year": 2025
   },
   {
-    "id": 17824,
+    "id": 167670,
     "name": "Gebenstorf",
     "state_id": 1639,
     "state_code": "AG",
@@ -297,10 +417,15 @@
     "latitude": "47.48136000",
     "longitude": "8.23949000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q64486",
+    "type": "municipality",
+    "native": "Gebenstorf",
+    "timezone": "Europe/Zurich",
+    "population": 5840,
+    "population_year": 2025
   },
   {
-    "id": 17834,
+    "id": 167677,
     "name": "Gipf-Oberfrick",
     "state_id": 1639,
     "state_code": "AG",
@@ -309,10 +434,15 @@
     "latitude": "47.49875000",
     "longitude": "8.00497000",
     "county_id": 5173,
-    "wikiDataId": null
+    "wikiDataId": "Q66986",
+    "type": "municipality",
+    "native": "Gipf-oberfrick",
+    "timezone": "Europe/Zurich",
+    "population": 3886,
+    "population_year": 2025
   },
   {
-    "id": 17853,
+    "id": 167679,
     "name": "Gontenschwil",
     "state_id": 1639,
     "state_code": "AG",
@@ -321,7 +451,12 @@
     "latitude": "47.27166000",
     "longitude": "8.14396000",
     "county_id": 5172,
-    "wikiDataId": null
+    "wikiDataId": "Q65333",
+    "type": "municipality",
+    "native": "Gontenschwil",
+    "timezone": "Europe/Zurich",
+    "population": 2249,
+    "population_year": 2025
   },
   {
     "id": 17880,
@@ -333,10 +468,15 @@
     "latitude": "47.35930000",
     "longitude": "8.10243000",
     "county_id": 5168,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Gränichen",
+    "timezone": "Europe/Zurich",
+    "population": 8699,
+    "population_year": 2025
   },
   {
-    "id": 17939,
+    "id": 167698,
     "name": "Hägglingen",
     "state_id": 1639,
     "state_code": "AG",
@@ -345,7 +485,12 @@
     "latitude": "47.38851000",
     "longitude": "8.25285000",
     "county_id": 5170,
-    "wikiDataId": null
+    "wikiDataId": "Q65286",
+    "type": "municipality",
+    "native": "Hägglingen",
+    "timezone": "Europe/Zurich",
+    "population": 2707,
+    "population_year": 2025
   },
   {
     "id": 17895,
@@ -357,10 +502,15 @@
     "latitude": "47.46396000",
     "longitude": "8.20988000",
     "county_id": 5171,
-    "wikiDataId": null
+    "wikiDataId": "Q65497",
+    "type": "municipality",
+    "native": "Hausen",
+    "timezone": "Europe/Zurich",
+    "population": 3850,
+    "population_year": 2025
   },
   {
-    "id": 17960,
+    "id": 167702,
     "name": "Jonen",
     "state_id": 1639,
     "state_code": "AG",
@@ -369,10 +519,15 @@
     "latitude": "47.29750000",
     "longitude": "8.39282000",
     "county_id": 5170,
-    "wikiDataId": null
+    "wikiDataId": "Q64957",
+    "type": "municipality",
+    "native": "Jonen",
+    "timezone": "Europe/Zurich",
+    "population": 2333,
+    "population_year": 2025
   },
   {
-    "id": 17966,
+    "id": 167705,
     "name": "Kaiseraugst",
     "state_id": 1639,
     "state_code": "AG",
@@ -381,7 +536,12 @@
     "latitude": "47.53966000",
     "longitude": "7.72605000",
     "county_id": 5176,
-    "wikiDataId": null
+    "wikiDataId": "Q69048",
+    "type": "municipality",
+    "native": "Kaiseraugst",
+    "timezone": "Europe/Zurich",
+    "population": 5985,
+    "population_year": 2025
   },
   {
     "id": 17967,
@@ -393,10 +553,15 @@
     "latitude": "47.54160000",
     "longitude": "8.04337000",
     "county_id": 5173,
-    "wikiDataId": null
+    "wikiDataId": "Q22504869",
+    "type": "municipality",
+    "native": "Kaisten",
+    "timezone": "Europe/Zurich",
+    "population": 3063,
+    "population_year": 2025
   },
   {
-    "id": 17978,
+    "id": 167706,
     "name": "Killwangen",
     "state_id": 1639,
     "state_code": "AG",
@@ -405,7 +570,12 @@
     "latitude": "47.43223000",
     "longitude": "8.35097000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q64547",
+    "type": "municipality",
+    "native": "Killwangen",
+    "timezone": "Europe/Zurich",
+    "population": 2272,
+    "population_year": 2025
   },
   {
     "id": 17985,
@@ -417,7 +587,12 @@
     "latitude": "47.58361000",
     "longitude": "8.24880000",
     "county_id": 5178,
-    "wikiDataId": null
+    "wikiDataId": "Q22543965",
+    "type": "city",
+    "native": "Klingnau",
+    "timezone": "Europe/Zurich",
+    "population": 3710,
+    "population_year": 2025
   },
   {
     "id": 17999,
@@ -429,10 +604,15 @@
     "latitude": "47.60972000",
     "longitude": "8.23750000",
     "county_id": 5178,
-    "wikiDataId": null
+    "wikiDataId": "Q22547330",
+    "type": "municipality",
+    "native": "Koblenz",
+    "timezone": "Europe/Zurich",
+    "population": 1835,
+    "population_year": 2025
   },
   {
-    "id": 18010,
+    "id": 167712,
     "name": "Kölliken",
     "state_id": 1639,
     "state_code": "AG",
@@ -441,10 +621,15 @@
     "latitude": "47.33337000",
     "longitude": "8.02237000",
     "county_id": 5177,
-    "wikiDataId": null
+    "wikiDataId": "Q68106",
+    "type": "municipality",
+    "native": "Kölliken",
+    "timezone": "Europe/Zurich",
+    "population": 5133,
+    "population_year": 2025
   },
   {
-    "id": 18012,
+    "id": 167713,
     "name": "Künten",
     "state_id": 1639,
     "state_code": "AG",
@@ -453,10 +638,15 @@
     "latitude": "47.38887000",
     "longitude": "8.33045000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q64247",
+    "type": "municipality",
+    "native": "Künten",
+    "timezone": "Europe/Zurich",
+    "population": 1978,
+    "population_year": 2025
   },
   {
-    "id": 18020,
+    "id": 167715,
     "name": "Küttigen",
     "state_id": 1639,
     "state_code": "AG",
@@ -465,7 +655,12 @@
     "latitude": "47.41484000",
     "longitude": "8.04979000",
     "county_id": 5168,
-    "wikiDataId": null
+    "wikiDataId": "Q65007",
+    "type": "municipality",
+    "native": "Küttigen",
+    "timezone": "Europe/Zurich",
+    "population": 7025,
+    "population_year": 2025
   },
   {
     "id": 18043,
@@ -477,7 +672,12 @@
     "latitude": "47.55985000",
     "longitude": "8.06225000",
     "county_id": 5173,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Laufenburg",
+    "timezone": "Europe/Zurich",
+    "population": 3882,
+    "population_year": 2025
   },
   {
     "id": 18044,
@@ -489,7 +689,12 @@
     "latitude": "47.50154000",
     "longitude": "8.23122000",
     "county_id": 5171,
-    "wikiDataId": null
+    "wikiDataId": "Q492440",
+    "type": "section",
+    "native": "Lauffohr (Brugg)",
+    "timezone": "Europe/Zurich",
+    "population": 2000,
+    "population_year": null
   },
   {
     "id": 18062,
@@ -501,7 +706,12 @@
     "latitude": "47.58790000",
     "longitude": "8.17611000",
     "county_id": 5178,
-    "wikiDataId": null
+    "wikiDataId": "Q22401542",
+    "type": "municipality",
+    "native": "Leibstadt",
+    "timezone": "Europe/Zurich",
+    "population": 1639,
+    "population_year": 2025
   },
   {
     "id": 18066,
@@ -513,10 +723,15 @@
     "latitude": "47.38853000",
     "longitude": "8.17503000",
     "county_id": 5174,
-    "wikiDataId": null
+    "wikiDataId": "Q69433",
+    "type": "city",
+    "native": "Lenzburg",
+    "timezone": "Europe/Zurich",
+    "population": 11322,
+    "population_year": 2025
   },
   {
-    "id": 18115,
+    "id": 167730,
     "name": "Magden",
     "state_id": 1639,
     "state_code": "AG",
@@ -525,10 +740,15 @@
     "latitude": "47.52868000",
     "longitude": "7.81128000",
     "county_id": 5176,
-    "wikiDataId": null
+    "wikiDataId": "Q66567",
+    "type": "municipality",
+    "native": "Magden",
+    "timezone": "Europe/Zurich",
+    "population": 3903,
+    "population_year": 2025
   },
   {
-    "id": 18144,
+    "id": 167738,
     "name": "Meisterschwanden",
     "state_id": 1639,
     "state_code": "AG",
@@ -537,7 +757,12 @@
     "latitude": "47.29489000",
     "longitude": "8.22867000",
     "county_id": 5174,
-    "wikiDataId": null
+    "wikiDataId": "Q65316",
+    "type": "municipality",
+    "native": "Meisterschwanden",
+    "timezone": "Europe/Zurich",
+    "population": 3330,
+    "population_year": 2025
   },
   {
     "id": 18148,
@@ -549,10 +774,15 @@
     "latitude": "47.41903000",
     "longitude": "8.27331000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q22493909",
+    "type": "city",
+    "native": "Mellingen",
+    "timezone": "Europe/Zurich",
+    "population": 6324,
+    "population_year": 2025
   },
   {
-    "id": 18151,
+    "id": 167739,
     "name": "Menziken",
     "state_id": 1639,
     "state_code": "AG",
@@ -561,7 +791,12 @@
     "latitude": "47.23965000",
     "longitude": "8.18996000",
     "county_id": 5172,
-    "wikiDataId": null
+    "wikiDataId": "Q65309",
+    "type": "municipality",
+    "native": "Menziken",
+    "timezone": "Europe/Zurich",
+    "population": 8909,
+    "population_year": 2025
   },
   {
     "id": 18154,
@@ -573,7 +808,12 @@
     "latitude": "47.25944000",
     "longitude": "8.37633000",
     "county_id": 5175,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Merenschwand",
+    "timezone": "Europe/Zurich",
+    "population": 3945,
+    "population_year": 2025
   },
   {
     "id": 18191,
@@ -585,10 +825,15 @@
     "latitude": "47.55915000",
     "longitude": "7.84329000",
     "county_id": 5176,
-    "wikiDataId": null
+    "wikiDataId": "Q22644873",
+    "type": "municipality",
+    "native": "Möhlin",
+    "timezone": "Europe/Zurich",
+    "population": 11351,
+    "population_year": 2025
   },
   {
-    "id": 18176,
+    "id": 167742,
     "name": "Muhen",
     "state_id": 1639,
     "state_code": "AG",
@@ -597,7 +842,12 @@
     "latitude": "47.33578000",
     "longitude": "8.05536000",
     "county_id": 5168,
-    "wikiDataId": null
+    "wikiDataId": "Q64985",
+    "type": "municipality",
+    "native": "Muhen",
+    "timezone": "Europe/Zurich",
+    "population": 4099,
+    "population_year": 2025
   },
   {
     "id": 18177,
@@ -609,10 +859,15 @@
     "latitude": "47.54563000",
     "longitude": "7.92123000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22578650",
+    "type": "city",
+    "native": "Mumpf",
+    "timezone": "Europe/Zurich",
+    "population": 1467,
+    "population_year": null
   },
   {
-    "id": 18181,
+    "id": 167743,
     "name": "Murgenthal",
     "state_id": 1639,
     "state_code": "AG",
@@ -621,10 +876,15 @@
     "latitude": "47.27145000",
     "longitude": "7.83935000",
     "county_id": 5177,
-    "wikiDataId": null
+    "wikiDataId": "Q64478",
+    "type": "municipality",
+    "native": "Murgenthal",
+    "timezone": "Europe/Zurich",
+    "population": 3188,
+    "population_year": 2025
   },
   {
-    "id": 18182,
+    "id": 167744,
     "name": "Muri",
     "state_id": 1639,
     "state_code": "AG",
@@ -633,10 +893,15 @@
     "latitude": "47.27428000",
     "longitude": "8.33854000",
     "county_id": 5175,
-    "wikiDataId": null
+    "wikiDataId": "Q69011",
+    "type": "municipality",
+    "native": "Muri",
+    "timezone": "Europe/Zurich",
+    "population": 8850,
+    "population_year": 2025
   },
   {
-    "id": 18215,
+    "id": 167749,
     "name": "Neuenhof",
     "state_id": 1639,
     "state_code": "AG",
@@ -645,7 +910,12 @@
     "latitude": "47.44985000",
     "longitude": "8.32682000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q64461",
+    "type": "municipality",
+    "native": "Neuenhof",
+    "timezone": "Europe/Zurich",
+    "population": 9306,
+    "population_year": 2025
   },
   {
     "id": 18227,
@@ -657,10 +927,15 @@
     "latitude": "47.40079000",
     "longitude": "8.17640000",
     "county_id": 5174,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Niederlenz",
+    "timezone": "Europe/Zurich",
+    "population": 4998,
+    "population_year": 2025
   },
   {
-    "id": 18228,
+    "id": 167755,
     "name": "Niederrohrdorf",
     "state_id": 1639,
     "state_code": "AG",
@@ -669,10 +944,15 @@
     "latitude": "47.42409000",
     "longitude": "8.30404000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q64465",
+    "type": "municipality",
+    "native": "Niederrohrdorf",
+    "timezone": "Europe/Zurich",
+    "population": 4751,
+    "population_year": 2025
   },
   {
-    "id": 18250,
+    "id": 167760,
     "name": "Oberentfelden",
     "state_id": 1639,
     "state_code": "AG",
@@ -681,10 +961,15 @@
     "latitude": "47.35639000",
     "longitude": "8.04594000",
     "county_id": 5168,
-    "wikiDataId": null
+    "wikiDataId": "Q64990",
+    "type": "municipality",
+    "native": "Oberentfelden",
+    "timezone": "Europe/Zurich",
+    "population": 9061,
+    "population_year": 2025
   },
   {
-    "id": 18257,
+    "id": 167763,
     "name": "Oberlunkhofen",
     "state_id": 1639,
     "state_code": "AG",
@@ -693,10 +978,15 @@
     "latitude": "47.31244000",
     "longitude": "8.39242000",
     "county_id": 5170,
-    "wikiDataId": null
+    "wikiDataId": "Q64245",
+    "type": "municipality",
+    "native": "Oberlunkhofen",
+    "timezone": "Europe/Zurich",
+    "population": 2196,
+    "population_year": 2025
   },
   {
-    "id": 18263,
+    "id": 167765,
     "name": "Oberrohrdorf",
     "state_id": 1639,
     "state_code": "AG",
@@ -705,10 +995,15 @@
     "latitude": "47.41833000",
     "longitude": "8.31983000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q64496",
+    "type": "municipality",
+    "native": "Oberrohrdorf",
+    "timezone": "Europe/Zurich",
+    "population": 4265,
+    "population_year": 2025
   },
   {
-    "id": 18264,
+    "id": 167766,
     "name": "Oberrüti",
     "state_id": 1639,
     "state_code": "AG",
@@ -717,10 +1012,15 @@
     "latitude": "47.16673000",
     "longitude": "8.39441000",
     "county_id": 5175,
-    "wikiDataId": null
+    "wikiDataId": "Q64771",
+    "type": "municipality",
+    "native": "Oberrüti",
+    "timezone": "Europe/Zurich",
+    "population": 1631,
+    "population_year": 2025
   },
   {
-    "id": 18266,
+    "id": 167767,
     "name": "Obersiggenthal",
     "state_id": 1639,
     "state_code": "AG",
@@ -729,7 +1029,12 @@
     "latitude": "47.48750000",
     "longitude": "8.29652000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q64541",
+    "type": "municipality",
+    "native": "Obersiggenthal",
+    "timezone": "Europe/Zurich",
+    "population": 9020,
+    "population_year": 2025
   },
   {
     "id": 18281,
@@ -741,10 +1046,15 @@
     "latitude": "47.31382000",
     "longitude": "7.92533000",
     "county_id": 5177,
-    "wikiDataId": null
+    "wikiDataId": "Q22430133",
+    "type": "municipality",
+    "native": "Oftringen",
+    "timezone": "Europe/Zurich",
+    "population": 15198,
+    "population_year": 2025
   },
   {
-    "id": 18293,
+    "id": 167771,
     "name": "Othmarsingen",
     "state_id": 1639,
     "state_code": "AG",
@@ -753,10 +1063,15 @@
     "latitude": "47.40125000",
     "longitude": "8.21383000",
     "county_id": 5174,
-    "wikiDataId": null
+    "wikiDataId": "Q65124",
+    "type": "municipality",
+    "native": "Othmarsingen",
+    "timezone": "Europe/Zurich",
+    "population": 3301,
+    "population_year": 2025
   },
   {
-    "id": 18363,
+    "id": 167782,
     "name": "Reinach",
     "state_id": 1639,
     "state_code": "AG",
@@ -765,7 +1080,12 @@
     "latitude": "47.25732000",
     "longitude": "8.18091000",
     "county_id": 5172,
-    "wikiDataId": null
+    "wikiDataId": "Q67507",
+    "type": "municipality",
+    "native": "Reinach",
+    "timezone": "Europe/Zurich",
+    "population": 9858,
+    "population_year": 2025
   },
   {
     "id": 18366,
@@ -777,10 +1097,15 @@
     "latitude": "47.55437000",
     "longitude": "7.79403000",
     "county_id": 5176,
-    "wikiDataId": null
+    "wikiDataId": "Q22372648",
+    "type": "city",
+    "native": "Rheinfeld",
+    "timezone": "Europe/Zurich",
+    "population": 14034,
+    "population_year": 2025
   },
   {
-    "id": 18394,
+    "id": 167787,
     "name": "Rothrist",
     "state_id": 1639,
     "state_code": "AG",
@@ -789,7 +1114,12 @@
     "latitude": "47.30508000",
     "longitude": "7.89196000",
     "county_id": 5177,
-    "wikiDataId": null
+    "wikiDataId": "Q64482",
+    "type": "municipality",
+    "native": "Rothrist",
+    "timezone": "Europe/Zurich",
+    "population": 9979,
+    "population_year": 2025
   },
   {
     "id": 18397,
@@ -801,7 +1131,12 @@
     "latitude": "47.37101000",
     "longitude": "8.38083000",
     "county_id": 5170,
-    "wikiDataId": null
+    "wikiDataId": "Q22699205",
+    "type": "locality",
+    "native": "Rudolfstetten",
+    "timezone": "Europe/Zurich",
+    "population": 3800,
+    "population_year": null
   },
   {
     "id": 18399,
@@ -813,10 +1148,15 @@
     "latitude": "47.40131000",
     "longitude": "8.12877000",
     "county_id": 5174,
-    "wikiDataId": null
+    "wikiDataId": "Q22360739",
+    "type": "municipality",
+    "native": "Rupperswil",
+    "timezone": "Europe/Zurich",
+    "population": 6317,
+    "population_year": 2025
   },
   {
-    "id": 18419,
+    "id": 167791,
     "name": "Safenwil",
     "state_id": 1639,
     "state_code": "AG",
@@ -825,10 +1165,15 @@
     "latitude": "47.32163000",
     "longitude": "7.98254000",
     "county_id": 5177,
-    "wikiDataId": null
+    "wikiDataId": "Q64448",
+    "type": "municipality",
+    "native": "Safenwil",
+    "timezone": "Europe/Zurich",
+    "population": 4629,
+    "population_year": 2025
   },
   {
-    "id": 18446,
+    "id": 167796,
     "name": "Sarmenstorf",
     "state_id": 1639,
     "state_code": "AG",
@@ -837,10 +1182,15 @@
     "latitude": "47.31109000",
     "longitude": "8.24950000",
     "county_id": 5170,
-    "wikiDataId": null
+    "wikiDataId": "Q65217",
+    "type": "municipality",
+    "native": "Sarmenstorf",
+    "timezone": "Europe/Zurich",
+    "population": 3194,
+    "population_year": 2025
   },
   {
-    "id": 18456,
+    "id": 167799,
     "name": "Schafisheim",
     "state_id": 1639,
     "state_code": "AG",
@@ -849,7 +1199,12 @@
     "latitude": "47.37664000",
     "longitude": "8.14263000",
     "county_id": 5174,
-    "wikiDataId": null
+    "wikiDataId": "Q65993",
+    "type": "municipality",
+    "native": "Schafisheim",
+    "timezone": "Europe/Zurich",
+    "population": 3131,
+    "population_year": 2025
   },
   {
     "id": 18462,
@@ -861,7 +1216,12 @@
     "latitude": "47.44992000",
     "longitude": "8.16833000",
     "county_id": 5171,
-    "wikiDataId": null
+    "wikiDataId": "Q22698706",
+    "type": "locality",
+    "native": "Schinznach Bad",
+    "timezone": "Europe/Zurich",
+    "population": 1327,
+    "population_year": null
   },
   {
     "id": 18463,
@@ -873,10 +1233,15 @@
     "latitude": "47.44650000",
     "longitude": "8.14089000",
     "county_id": 5171,
-    "wikiDataId": null
+    "wikiDataId": "Q22698717",
+    "type": "locality",
+    "native": "Schinznach Dorf",
+    "timezone": "Europe/Zurich",
+    "population": 1736,
+    "population_year": null
   },
   {
-    "id": 18483,
+    "id": 167803,
     "name": "Schöftland",
     "state_id": 1639,
     "state_code": "AG",
@@ -885,10 +1250,15 @@
     "latitude": "47.30590000",
     "longitude": "8.05119000",
     "county_id": 5172,
-    "wikiDataId": null
+    "wikiDataId": "Q65411",
+    "type": "municipality",
+    "native": "Schöftland",
+    "timezone": "Europe/Zurich",
+    "population": 4658,
+    "population_year": 2025
   },
   {
-    "id": 18474,
+    "id": 167801,
     "name": "Schwaderloch",
     "state_id": 1639,
     "state_code": "AG",
@@ -897,10 +1267,15 @@
     "latitude": "47.58541000",
     "longitude": "8.14455000",
     "county_id": 5173,
-    "wikiDataId": null
+    "wikiDataId": "Q67340",
+    "type": "municipality",
+    "native": "Schwaderloch",
+    "timezone": "Europe/Zurich",
+    "population": 727,
+    "population_year": 2025
   },
   {
-    "id": 18501,
+    "id": 167806,
     "name": "Seengen",
     "state_id": 1639,
     "state_code": "AG",
@@ -909,10 +1284,15 @@
     "latitude": "47.32503000",
     "longitude": "8.20724000",
     "county_id": 5174,
-    "wikiDataId": null
+    "wikiDataId": "Q65004",
+    "type": "municipality",
+    "native": "Seengen",
+    "timezone": "Europe/Zurich",
+    "population": 4516,
+    "population_year": 2025
   },
   {
-    "id": 18511,
+    "id": 167809,
     "name": "Seon",
     "state_id": 1639,
     "state_code": "AG",
@@ -921,10 +1301,15 @@
     "latitude": "47.34848000",
     "longitude": "8.16072000",
     "county_id": 5174,
-    "wikiDataId": null
+    "wikiDataId": "Q64563",
+    "type": "municipality",
+    "native": "Seon",
+    "timezone": "Europe/Zurich",
+    "population": 5716,
+    "population_year": 2025
   },
   {
-    "id": 18523,
+    "id": 167810,
     "name": "Sins",
     "state_id": 1639,
     "state_code": "AG",
@@ -933,7 +1318,12 @@
     "latitude": "47.19296000",
     "longitude": "8.39384000",
     "county_id": 5175,
-    "wikiDataId": null
+    "wikiDataId": "Q64372",
+    "type": "municipality",
+    "native": "Sins",
+    "timezone": "Europe/Zurich",
+    "population": 4561,
+    "population_year": 2025
   },
   {
     "id": 18534,
@@ -945,10 +1335,15 @@
     "latitude": "47.42285000",
     "longitude": "8.36792000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Spreitenbach",
+    "timezone": "Europe/Zurich",
+    "population": 13377,
+    "population_year": 2025
   },
   {
-    "id": 18544,
+    "id": 167811,
     "name": "Staffelbach",
     "state_id": 1639,
     "state_code": "AG",
@@ -957,10 +1352,15 @@
     "latitude": "47.28395000",
     "longitude": "8.04208000",
     "county_id": 5177,
-    "wikiDataId": null
+    "wikiDataId": "Q64239",
+    "type": "municipality",
+    "native": "Staffelbach",
+    "timezone": "Europe/Zurich",
+    "population": 1398,
+    "population_year": 2025
   },
   {
-    "id": 18548,
+    "id": 167813,
     "name": "Staufen",
     "state_id": 1639,
     "state_code": "AG",
@@ -969,7 +1369,12 @@
     "latitude": "47.38197000",
     "longitude": "8.16681000",
     "county_id": 5174,
-    "wikiDataId": null
+    "wikiDataId": "Q65137",
+    "type": "municipality",
+    "native": "Staufen",
+    "timezone": "Europe/Zurich",
+    "population": 4411,
+    "population_year": 2025
   },
   {
     "id": 18551,
@@ -981,10 +1386,15 @@
     "latitude": "47.54403000",
     "longitude": "7.95256000",
     "county_id": 5176,
-    "wikiDataId": null
+    "wikiDataId": "Q22389665",
+    "type": "municipality",
+    "native": "Stein",
+    "timezone": "Europe/Zurich",
+    "population": 3660,
+    "population_year": 2025
   },
   {
-    "id": 18559,
+    "id": 167817,
     "name": "Strengelbach",
     "state_id": 1639,
     "state_code": "AG",
@@ -993,7 +1403,12 @@
     "latitude": "47.27917000",
     "longitude": "7.92895000",
     "county_id": 5177,
-    "wikiDataId": null
+    "wikiDataId": "Q64237",
+    "type": "municipality",
+    "native": "Strengelbach",
+    "timezone": "Europe/Zurich",
+    "population": 5080,
+    "population_year": 2025
   },
   {
     "id": 18562,
@@ -1005,7 +1420,12 @@
     "latitude": "47.37172000",
     "longitude": "8.07967000",
     "county_id": 5168,
-    "wikiDataId": null
+    "wikiDataId": "Q22430909",
+    "type": "municipality",
+    "native": "Suhr",
+    "timezone": "Europe/Zurich",
+    "population": 11760,
+    "population_year": 2025
   },
   {
     "id": 18564,
@@ -1017,7 +1437,12 @@
     "latitude": "47.53602000",
     "longitude": "8.09628000",
     "county_id": 5173,
-    "wikiDataId": null
+    "wikiDataId": "Q669229",
+    "type": "section",
+    "native": "Sulz",
+    "timezone": "Europe/Zurich",
+    "population": 1244,
+    "population_year": null
   },
   {
     "id": 18577,
@@ -1029,10 +1454,15 @@
     "latitude": "47.55809000",
     "longitude": "8.28914000",
     "county_id": 5178,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tegerfelden",
+    "timezone": "Europe/Zurich",
+    "population": 1326,
+    "population_year": 2025
   },
   {
-    "id": 18580,
+    "id": 167819,
     "name": "Teufenthal",
     "state_id": 1639,
     "state_code": "AG",
@@ -1041,7 +1471,12 @@
     "latitude": "47.32896000",
     "longitude": "8.11777000",
     "county_id": 5172,
-    "wikiDataId": null
+    "wikiDataId": "Q65182",
+    "type": "municipality",
+    "native": "Teufenthal",
+    "timezone": "Europe/Zurich",
+    "population": 1772,
+    "population_year": 2025
   },
   {
     "id": 18614,
@@ -1053,10 +1488,15 @@
     "latitude": "47.49201000",
     "longitude": "8.25412000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q22357941",
+    "type": "locality",
+    "native": "Turgi",
+    "timezone": "Europe/Zurich",
+    "population": 2982,
+    "population_year": null
   },
   {
-    "id": 18625,
+    "id": 167826,
     "name": "Uerkheim",
     "state_id": 1639,
     "state_code": "AG",
@@ -1065,7 +1505,12 @@
     "latitude": "47.30353000",
     "longitude": "8.02320000",
     "county_id": 5177,
-    "wikiDataId": null
+    "wikiDataId": "Q64376",
+    "type": "municipality",
+    "native": "Uerkheim",
+    "timezone": "Europe/Zurich",
+    "population": 1442,
+    "population_year": 2025
   },
   {
     "id": 18633,
@@ -1077,10 +1522,15 @@
     "latitude": "47.30998000",
     "longitude": "8.11371000",
     "county_id": 5172,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "UNTERKULM",
+    "timezone": "Europe/Zurich",
+    "population": 3807,
+    "population_year": 2025
   },
   {
-    "id": 18634,
+    "id": 167829,
     "name": "Unterlunkhofen",
     "state_id": 1639,
     "state_code": "AG",
@@ -1089,10 +1539,15 @@
     "latitude": "47.32120000",
     "longitude": "8.38102000",
     "county_id": 5170,
-    "wikiDataId": null
+    "wikiDataId": "Q65150",
+    "type": "municipality",
+    "native": "Unterlunkhofen",
+    "timezone": "Europe/Zurich",
+    "population": 1662,
+    "population_year": 2025
   },
   {
-    "id": 18636,
+    "id": 167830,
     "name": "Untersiggenthal",
     "state_id": 1639,
     "state_code": "AG",
@@ -1101,10 +1556,15 @@
     "latitude": "47.50213000",
     "longitude": "8.25554000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q64269",
+    "type": "municipality",
+    "native": "Untersiggenthal",
+    "timezone": "Europe/Zurich",
+    "population": 7875,
+    "population_year": 2025
   },
   {
-    "id": 18664,
+    "id": 167833,
     "name": "Veltheim",
     "state_id": 1639,
     "state_code": "AG",
@@ -1113,7 +1573,12 @@
     "latitude": "47.43796000",
     "longitude": "8.14722000",
     "county_id": 5171,
-    "wikiDataId": null
+    "wikiDataId": "Q65142",
+    "type": "municipality",
+    "native": "Veltheim",
+    "timezone": "Europe/Zurich",
+    "population": 1598,
+    "population_year": 2025
   },
   {
     "id": 18683,
@@ -1125,7 +1590,12 @@
     "latitude": "47.52682000",
     "longitude": "8.21486000",
     "county_id": 5171,
-    "wikiDataId": null
+    "wikiDataId": "Q22423944",
+    "type": "municipality",
+    "native": "Villigen",
+    "timezone": "Europe/Zurich",
+    "population": 2257,
+    "population_year": 2025
   },
   {
     "id": 18684,
@@ -1137,7 +1607,12 @@
     "latitude": "47.35009000",
     "longitude": "8.24762000",
     "county_id": 5170,
-    "wikiDataId": null
+    "wikiDataId": "Q22423982",
+    "type": "municipality",
+    "native": "Villmergen",
+    "timezone": "Europe/Zurich",
+    "population": 8290,
+    "population_year": 2025
   },
   {
     "id": 18685,
@@ -1149,10 +1624,15 @@
     "latitude": "47.47098000",
     "longitude": "8.15975000",
     "county_id": 5171,
-    "wikiDataId": null
+    "wikiDataId": "Q22424021",
+    "type": "locality",
+    "native": "Villnachern",
+    "timezone": "Europe/Zurich",
+    "population": 1632,
+    "population_year": null
   },
   {
-    "id": 18692,
+    "id": 167834,
     "name": "Vordemwald",
     "state_id": 1639,
     "state_code": "AG",
@@ -1161,10 +1641,15 @@
     "latitude": "47.27585000",
     "longitude": "7.90114000",
     "county_id": 5177,
-    "wikiDataId": null
+    "wikiDataId": "Q64234",
+    "type": "municipality",
+    "native": "Vordemwald",
+    "timezone": "Europe/Zurich",
+    "population": 2026,
+    "population_year": 2025
   },
   {
-    "id": 18719,
+    "id": 167840,
     "name": "Waltenschwil",
     "state_id": 1639,
     "state_code": "AG",
@@ -1173,10 +1658,15 @@
     "latitude": "47.33339000",
     "longitude": "8.29791000",
     "county_id": 5175,
-    "wikiDataId": null
+    "wikiDataId": "Q64242",
+    "type": "municipality",
+    "native": "Waltenschwil",
+    "timezone": "Europe/Zurich",
+    "population": 3291,
+    "population_year": 2025
   },
   {
-    "id": 18728,
+    "id": 167841,
     "name": "Wegenstetten",
     "state_id": 1639,
     "state_code": "AG",
@@ -1185,7 +1675,12 @@
     "latitude": "47.49797000",
     "longitude": "7.93141000",
     "county_id": 5176,
-    "wikiDataId": null
+    "wikiDataId": "Q65889",
+    "type": "municipality",
+    "native": "Wegenstetten",
+    "timezone": "Europe/Zurich",
+    "population": 1008,
+    "population_year": 2025
   },
   {
     "id": 18736,
@@ -1197,10 +1692,15 @@
     "latitude": "47.47049000",
     "longitude": "8.31636000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q22601617",
+    "type": "locality",
+    "native": "Wettingen",
+    "timezone": "Europe/Zurich",
+    "population": 20843,
+    "population_year": null
   },
   {
-    "id": 18757,
+    "id": 167847,
     "name": "Windisch",
     "state_id": 1639,
     "state_code": "AG",
@@ -1209,10 +1709,15 @@
     "latitude": "47.47899000",
     "longitude": "8.21842000",
     "county_id": 5171,
-    "wikiDataId": null
+    "wikiDataId": "Q69208",
+    "type": "municipality",
+    "native": "Windisch",
+    "timezone": "Europe/Zurich",
+    "population": 8286,
+    "population_year": 2025
   },
   {
-    "id": 18760,
+    "id": 167849,
     "name": "Wittnau",
     "state_id": 1639,
     "state_code": "AG",
@@ -1221,7 +1726,12 @@
     "latitude": "47.48139000",
     "longitude": "7.97577000",
     "county_id": 5173,
-    "wikiDataId": null
+    "wikiDataId": "Q69058",
+    "type": "municipality",
+    "native": "Wittnau",
+    "timezone": "Europe/Zurich",
+    "population": 1449,
+    "population_year": 2025
   },
   {
     "id": 18761,
@@ -1233,10 +1743,15 @@
     "latitude": "47.35066000",
     "longitude": "8.27517000",
     "county_id": 5170,
-    "wikiDataId": null
+    "wikiDataId": "Q22630188",
+    "type": "municipality",
+    "native": "Wohlen",
+    "timezone": "Europe/Zurich",
+    "population": 18162,
+    "population_year": 2025
   },
   {
-    "id": 18782,
+    "id": 167851,
     "name": "Wölflinswil",
     "state_id": 1639,
     "state_code": "AG",
@@ -1245,10 +1760,15 @@
     "latitude": "47.46070000",
     "longitude": "7.99835000",
     "county_id": 5173,
-    "wikiDataId": null
+    "wikiDataId": "Q66442",
+    "type": "municipality",
+    "native": "Wölflinswil",
+    "timezone": "Europe/Zurich",
+    "population": 1105,
+    "population_year": 2025
   },
   {
-    "id": 18788,
+    "id": 167852,
     "name": "Würenlingen",
     "state_id": 1639,
     "state_code": "AG",
@@ -1257,10 +1777,15 @@
     "latitude": "47.53356000",
     "longitude": "8.25666000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q64219",
+    "type": "municipality",
+    "native": "Würenlingen",
+    "timezone": "Europe/Zurich",
+    "population": 5323,
+    "population_year": 2025
   },
   {
-    "id": 18789,
+    "id": 167853,
     "name": "Würenlos",
     "state_id": 1639,
     "state_code": "AG",
@@ -1269,7 +1794,12 @@
     "latitude": "47.44205000",
     "longitude": "8.36261000",
     "county_id": 5169,
-    "wikiDataId": null
+    "wikiDataId": "Q64258",
+    "type": "municipality",
+    "native": "Würenlos",
+    "timezone": "Europe/Zurich",
+    "population": 7046,
+    "population_year": 2025
   },
   {
     "id": 18796,
@@ -1281,6 +1811,11 @@
     "latitude": "47.28779000",
     "longitude": "7.94586000",
     "county_id": 5177,
-    "wikiDataId": null
+    "wikiDataId": "Q63986",
+    "type": "city",
+    "native": "Zofingen",
+    "timezone": "Europe/Zurich",
+    "population": 13054,
+    "population_year": 2025
   }
 ]

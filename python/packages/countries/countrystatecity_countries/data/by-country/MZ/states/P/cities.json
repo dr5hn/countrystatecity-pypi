@@ -9,7 +9,12 @@
     "latitude": "-13.46665000",
     "longitude": "39.70317000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2640763",
+    "type": "city",
+    "native": "Chiurere",
+    "timezone": "Africa/Maputo",
+    "population": 37871,
+    "population_year": null
   },
   {
     "id": 76614,
@@ -21,7 +26,12 @@
     "latitude": "-11.31667000",
     "longitude": "40.35000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mocímboa",
+    "timezone": "Africa/Maputo",
+    "population": 27909,
+    "population_year": null
   },
   {
     "id": 76615,
@@ -33,7 +43,12 @@
     "latitude": "-13.12556000",
     "longitude": "38.99972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1027174",
+    "type": "city",
+    "native": "Montepuez",
+    "timezone": "Africa/Maputo",
+    "population": 88442,
+    "population_year": null
   },
   {
     "id": 76621,
@@ -45,6 +60,11 @@
     "latitude": "-12.97395000",
     "longitude": "40.51775000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q498048",
+    "type": "adm1",
+    "native": "Pemba",
+    "timezone": "Africa/Maputo",
+    "population": 232932,
+    "population_year": null
   }
 ]

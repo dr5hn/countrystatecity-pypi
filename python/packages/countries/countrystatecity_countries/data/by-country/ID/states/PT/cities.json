@@ -9,10 +9,15 @@
     "latitude": "-3.94737000",
     "longitude": "135.95032000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27386",
+    "type": "regency",
+    "native": "Kabupaten Deiyai",
+    "timezone": "Asia/Jayapura",
+    "population": 0,
+    "population_year": null
   },
   {
-    "id": 56577,
+    "id": 166787,
     "name": "Enarotali",
     "state_id": 5235,
     "state_code": "PT",
@@ -21,10 +26,15 @@
     "latitude": "-3.93019111",
     "longitude": "136.37852694",
     "county_id": 8852,
-    "wikiDataId": null
+    "wikiDataId": "Q3053702",
+    "type": "section",
+    "native": "Enarotali",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56604,
+    "id": 166802,
     "name": "Ilaga",
     "state_id": 5235,
     "state_code": "PT",
@@ -33,22 +43,15 @@
     "latitude": "-3.97461000",
     "longitude": "137.64044000",
     "county_id": 8854,
-    "wikiDataId": null
+    "wikiDataId": "Q138791092",
+    "type": "town",
+    "native": "Ilaga",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56427,
-    "name": "Intan Jaya",
-    "state_id": 5235,
-    "state_code": "PT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.41016000",
-    "longitude": "136.70837000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56399,
+    "id": 166673,
     "name": "Kigamani",
     "state_id": 5235,
     "state_code": "PT",
@@ -57,10 +60,15 @@
     "latitude": "-3.96139000",
     "longitude": "135.94361000",
     "county_id": 8855,
-    "wikiDataId": null
+    "wikiDataId": "Q138791093",
+    "type": "town",
+    "native": "Kigamani",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 153774,
+    "id": 167608,
     "name": "Kota Mulia",
     "state_id": 5235,
     "state_code": "PT",
@@ -69,7 +77,12 @@
     "latitude": "-3.70226000",
     "longitude": "137.96457111",
     "county_id": 8851,
-    "wikiDataId": null
+    "wikiDataId": "Q31186675",
+    "type": "town",
+    "native": "Kota Mulia",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56882,
@@ -81,10 +94,32 @@
     "latitude": "-3.35989000",
     "longitude": "135.50074000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24854639",
+    "type": "adm1",
+    "native": "Nabire",
+    "timezone": "Asia/Jayapura",
+    "population": 43898,
+    "population_year": null
   },
   {
-    "id": 56535,
+    "id": 166691,
+    "name": "Sugapa",
+    "state_id": 5235,
+    "state_code": "PT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.74306000",
+    "longitude": "137.05000000",
+    "county_id": 8856,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Sugapa",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166759,
     "name": "Timika",
     "state_id": 5235,
     "state_code": "PT",
@@ -93,6 +128,11 @@
     "latitude": "-4.54848300",
     "longitude": "136.88947000",
     "county_id": 8853,
-    "wikiDataId": null
+    "wikiDataId": "Q1026405",
+    "type": "town",
+    "native": "Timika",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   }
 ]

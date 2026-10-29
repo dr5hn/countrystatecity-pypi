@@ -9,7 +9,12 @@
     "latitude": "-30.21666667",
     "longitude": "-71.08333333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3602",
+    "type": "city",
+    "native": "Andacollo",
+    "timezone": "America/Santiago",
+    "population": 11044,
+    "population_year": null
   },
   {
     "id": 148353,
@@ -21,7 +26,12 @@
     "latitude": "-31.40000000",
     "longitude": "-71.45000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3735",
+    "type": "city",
+    "native": "Canela",
+    "timezone": "America/Santiago",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 148354,
@@ -33,7 +43,12 @@
     "latitude": "-31.16666667",
     "longitude": "-71.05000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3850",
+    "type": "city",
+    "native": "Combarbalá",
+    "timezone": "America/Santiago",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 18973,
@@ -44,8 +59,13 @@
     "country_code": "CL",
     "latitude": "-29.95332000",
     "longitude": "-71.33947000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13805,
+    "wikiDataId": "Q23660214",
+    "type": "municipality",
+    "native": "Coquimbo",
+    "timezone": "America/Santiago",
+    "population": 161317,
+    "population_year": null
   },
   {
     "id": 18988,
@@ -57,7 +77,12 @@
     "latitude": "-31.63349000",
     "longitude": "-71.16967000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14434",
+    "type": "adm2",
+    "native": "Illapel",
+    "timezone": "America/Santiago",
+    "population": 20751,
+    "population_year": null
   },
   {
     "id": 148355,
@@ -69,7 +94,12 @@
     "latitude": "-29.50000000",
     "longitude": "-71.26666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14462",
+    "type": "city",
+    "native": "La Higuera",
+    "timezone": "America/Santiago",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 18994,
@@ -81,7 +111,12 @@
     "latitude": "-29.90453000",
     "longitude": "-71.24894000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14467",
+    "type": "adm1",
+    "native": "Serena",
+    "timezone": "America/Santiago",
+    "population": 154521,
+    "population_year": null
   },
   {
     "id": 148356,
@@ -93,7 +128,12 @@
     "latitude": "-31.90000000",
     "longitude": "-71.51666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16908",
+    "type": "city",
+    "native": "Los Vilos",
+    "timezone": "America/Santiago",
+    "population": 21382,
+    "population_year": null
   },
   {
     "id": 19014,
@@ -105,7 +145,12 @@
     "latitude": "-30.69496000",
     "longitude": "-70.95770000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q51034",
+    "type": "city",
+    "native": "Monte Patria",
+    "timezone": "America/Santiago",
+    "population": 13945,
+    "population_year": null
   },
   {
     "id": 19019,
@@ -117,7 +162,12 @@
     "latitude": "-30.60106000",
     "longitude": "-71.19901000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q51060",
+    "type": "adm2",
+    "native": "Ovalle",
+    "timezone": "America/Santiago",
+    "population": 77138,
+    "population_year": null
   },
   {
     "id": 148357,
@@ -129,7 +179,12 @@
     "latitude": "-30.02884000",
     "longitude": "-70.51708000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q51064",
+    "type": "city",
+    "native": "Paihuano",
+    "timezone": "America/Santiago",
+    "population": 4256,
+    "population_year": null
   },
   {
     "id": 148358,
@@ -141,7 +196,12 @@
     "latitude": "-30.90000000",
     "longitude": "-71.26666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q51598",
+    "type": "city",
+    "native": "Punitaqui",
+    "timezone": "America/Santiago",
+    "population": 10956,
+    "population_year": null
   },
   {
     "id": 148359,
@@ -153,7 +213,12 @@
     "latitude": "-30.26666667",
     "longitude": "-70.70000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q56128",
+    "type": "city",
+    "native": "Río Hurtado",
+    "timezone": "America/Santiago",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 19099,
@@ -165,7 +230,12 @@
     "latitude": "-31.77922000",
     "longitude": "-70.96389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q56134",
+    "type": "city",
+    "native": "Salamanca",
+    "timezone": "America/Santiago",
+    "population": 13265,
+    "population_year": null
   },
   {
     "id": 19125,
@@ -177,6 +247,11 @@
     "latitude": "-30.03541000",
     "longitude": "-70.71274000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q201007",
+    "type": "city",
+    "native": "Vicuña",
+    "timezone": "America/Santiago",
+    "population": 27771,
+    "population_year": null
   }
 ]

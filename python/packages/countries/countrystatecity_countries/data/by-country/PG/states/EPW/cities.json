@@ -9,7 +9,12 @@
     "latitude": "-5.83333000",
     "longitude": "143.55000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q924873",
+    "type": "area",
+    "native": "Kandep",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 47400,
+    "population_year": null
   },
   {
     "id": 81071,
@@ -21,7 +26,12 @@
     "latitude": "-5.25000000",
     "longitude": "144.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1776207",
+    "type": "city",
+    "native": "Ambum Kompiam",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81075,
@@ -33,7 +43,12 @@
     "latitude": "-5.38333000",
     "longitude": "143.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q945880",
+    "type": "city",
+    "native": "Lagaip Porgera",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81100,
@@ -45,7 +60,12 @@
     "latitude": "-5.46300000",
     "longitude": "143.14800000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Porgera",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 1578,
+    "population_year": null
   },
   {
     "id": 81122,
@@ -57,7 +77,12 @@
     "latitude": "-5.33333000",
     "longitude": "143.65000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1776192",
+    "type": "adm1",
+    "native": "Wabag",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 3958,
+    "population_year": null
   },
   {
     "id": 81123,
@@ -69,6 +94,11 @@
     "latitude": "-5.66667000",
     "longitude": "143.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "area",
+    "native": "Wapenamanda",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 53547,
+    "population_year": null
   }
 ]

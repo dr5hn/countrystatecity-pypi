@@ -9,6 +9,28 @@
     "latitude": "58.74667000",
     "longitude": "26.39389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q117513",
+    "type": "city",
+    "native": "Jõgeva",
+    "timezone": "Europe/Tallinn",
+    "population": 6396,
+    "population_year": null
+  },
+  {
+    "id": 31615,
+    "name": "Jõgeva vald",
+    "state_id": 5745,
+    "state_code": "247",
+    "country_id": 69,
+    "country_code": "EE",
+    "latitude": "58.78732000",
+    "longitude": "26.38122000",
+    "county_id": null,
+    "wikiDataId": "Q1503436",
+    "type": "adm1",
+    "native": "Jõgeva vald",
+    "timezone": "Europe/Tallinn",
+    "population": null,
+    "population_year": null
   }
 ]

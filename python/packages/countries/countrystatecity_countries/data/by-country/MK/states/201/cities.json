@@ -9,7 +9,12 @@
     "latitude": "41.70306000",
     "longitude": "22.85778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q827047",
+    "type": "adm1",
+    "native": "Берово",
+    "timezone": "Europe/Skopje",
+    "population": 13847,
+    "population_year": null
   },
   {
     "id": 67519,
@@ -21,7 +26,12 @@
     "latitude": "41.68728000",
     "longitude": "22.80849000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q221320",
+    "type": "city",
+    "native": "Русиново",
+    "timezone": "Europe/Skopje",
+    "population": 2173,
+    "population_year": null
   },
   {
     "id": 67556,
@@ -33,6 +43,11 @@
     "latitude": "41.71000000",
     "longitude": "22.79278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1042326",
+    "type": "city",
+    "native": "Владимирово",
+    "timezone": "Europe/Skopje",
+    "population": 1290,
+    "population_year": null
   }
 ]

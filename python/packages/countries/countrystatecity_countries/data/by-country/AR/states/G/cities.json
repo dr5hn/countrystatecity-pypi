@@ -9,7 +9,12 @@
     "latitude": "-28.46064000",
     "longitude": "-62.83472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q794668",
+    "type": "adm2",
+    "native": "Añatuya",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 20261,
+    "population_year": null
   },
   {
     "id": 691,
@@ -21,10 +26,15 @@
     "latitude": "-27.82913000",
     "longitude": "-64.06098000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4884800",
+    "type": "city",
+    "native": "Beltrán",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 5321,
+    "population_year": null
   },
   {
-    "id": 997,
+    "id": 166329,
     "name": "Brea Pozo",
     "state_id": 3635,
     "state_code": "G",
@@ -33,7 +43,12 @@
     "latitude": "-28.25000000",
     "longitude": "-63.95000000",
     "county_id": 6809,
-    "wikiDataId": null
+    "wikiDataId": "Q903479",
+    "type": "locality",
+    "native": "Brea Pozo",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 717,
@@ -45,7 +60,12 @@
     "latitude": "-26.58333000",
     "longitude": "-62.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q761980",
+    "type": "adm2",
+    "native": "Campo Gallo",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 5455,
+    "population_year": null
   },
   {
     "id": 771,
@@ -57,7 +77,12 @@
     "latitude": "-27.57440000",
     "longitude": "-64.13108000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3680889",
+    "type": "city",
+    "native": "Clodom",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 9043,
+    "population_year": null
   },
   {
     "id": 777,
@@ -69,7 +94,12 @@
     "latitude": "-28.60000000",
     "longitude": "-62.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5148225",
+    "type": "city",
+    "native": "Colonia Dora",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 2406,
+    "population_year": null
   },
   {
     "id": 930,
@@ -81,7 +111,12 @@
     "latitude": "-28.55000000",
     "longitude": "-64.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "area",
+    "native": "Departamento de Loreto",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 24060,
+    "population_year": null
   },
   {
     "id": 1056,
@@ -93,10 +128,15 @@
     "latitude": "-27.02872000",
     "longitude": "-63.23197000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21842092",
+    "type": "city",
+    "native": "El Hoyo",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 2162,
+    "population_year": null
   },
   {
-    "id": 969,
+    "id": 166321,
     "name": "Fernández",
     "state_id": 3635,
     "state_code": "G",
@@ -105,10 +145,15 @@
     "latitude": "-27.91666667",
     "longitude": "-63.88333333",
     "county_id": 6807,
-    "wikiDataId": null
+    "wikiDataId": "Q1016070",
+    "type": "locality",
+    "native": "Fernández",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 861,
+    "id": 166308,
     "name": "Frías",
     "state_id": 3635,
     "state_code": "G",
@@ -117,10 +162,15 @@
     "latitude": "-28.63333333",
     "longitude": "-65.13333333",
     "county_id": 6793,
-    "wikiDataId": null
+    "wikiDataId": "Q1471709",
+    "type": "locality",
+    "native": "Frías",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 1011,
+    "id": 166333,
     "name": "Garza",
     "state_id": 3635,
     "state_code": "G",
@@ -129,7 +179,12 @@
     "latitude": "-28.15000000",
     "longitude": "-63.51666667",
     "county_id": 6810,
-    "wikiDataId": null
+    "wikiDataId": "Q1015178",
+    "type": "locality",
+    "native": "Garza",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 1176,
@@ -141,7 +196,12 @@
     "latitude": "-27.73348000",
     "longitude": "-64.24278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1494067",
+    "type": "adm2",
+    "native": "La Banda",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 1251,
@@ -153,7 +213,12 @@
     "latitude": "-28.46539000",
     "longitude": "-62.10862000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2917961",
+    "type": "city",
+    "native": "Los Juríes",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 3212,
+    "population_year": null
   },
   {
     "id": 1255,
@@ -165,7 +230,12 @@
     "latitude": "-28.98479000",
     "longitude": "-63.44889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1015224",
+    "type": "adm2",
+    "native": "Los Telares",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 2032,
+    "population_year": null
   },
   {
     "id": 164454,
@@ -177,7 +247,12 @@
     "latitude": "-26.19907000",
     "longitude": "-64.23792000",
     "county_id": 6803,
-    "wikiDataId": null
+    "wikiDataId": "Q1015520",
+    "type": "locality",
+    "native": null,
+    "timezone": "America/Argentina/Cordoba",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 1315,
@@ -189,7 +264,12 @@
     "latitude": "-26.23002000",
     "longitude": "-61.83774000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1154215",
+    "type": "city",
+    "native": "Pampa de los Guanacos",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 4393,
+    "population_year": null
   },
   {
     "id": 1369,
@@ -201,7 +281,12 @@
     "latitude": "-27.64615000",
     "longitude": "-62.41655000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1015595",
+    "type": "adm2",
+    "native": "Quimilí",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 10959,
+    "population_year": null
   },
   {
     "id": 1445,
@@ -213,7 +298,12 @@
     "latitude": "-27.95386000",
     "longitude": "-65.16651000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1015246",
+    "type": "city",
+    "native": "San Pedro",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 390654,
+    "population_year": null
   },
   {
     "id": 1473,
@@ -225,7 +315,12 @@
     "latitude": "-27.79511000",
     "longitude": "-64.26149000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q44253",
+    "type": "adm1",
+    "native": "Santiago del Estero",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 252192,
+    "population_year": null
   },
   {
     "id": 1489,
@@ -237,7 +332,12 @@
     "latitude": "-29.38470000",
     "longitude": "-63.46907000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1015605",
+    "type": "adm2",
+    "native": "Sumampa",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 4812,
+    "population_year": null
   },
   {
     "id": 1491,
@@ -249,7 +349,12 @@
     "latitude": "-27.93357000",
     "longitude": "-63.42938000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1015579",
+    "type": "adm2",
+    "native": "Sundo Corral",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 6087,
+    "population_year": null
   },
   {
     "id": 1501,
@@ -261,7 +366,12 @@
     "latitude": "-27.49362000",
     "longitude": "-64.85972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q169334",
+    "type": "adm2",
+    "native": "Termas de Río Hondo",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 27838,
+    "population_year": null
   },
   {
     "id": 1506,
@@ -273,7 +383,12 @@
     "latitude": "-27.02687000",
     "longitude": "-62.70643000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1154169",
+    "type": "city",
+    "native": "Tintia",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 3868,
+    "population_year": null
   },
   {
     "id": 1539,
@@ -285,7 +400,12 @@
     "latitude": "-28.49609000",
     "longitude": "-63.81609000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q577778",
+    "type": "adm2",
+    "native": "Villa atamisqui",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 2683,
+    "population_year": null
   },
   {
     "id": 1554,
@@ -297,7 +417,12 @@
     "latitude": "-29.14310000",
     "longitude": "-62.65248000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1016062",
+    "type": "city",
+    "native": "Villa General Mitre",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 3605,
+    "population_year": null
   },
   {
     "id": 1569,
@@ -309,6 +434,11 @@
     "latitude": "-29.50003000",
     "longitude": "-63.69377000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1016067",
+    "type": "adm2",
+    "native": "Villa Ojo de Agua",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 5832,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "-34.77926023",
     "longitude": "-56.20816281",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": null,
+    "native": null,
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153689,
@@ -21,7 +26,12 @@
     "latitude": "-34.85200000",
     "longitude": "-56.18300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q408664",
+    "type": "section",
+    "native": "Aires Puros",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153690,
@@ -33,7 +43,12 @@
     "latitude": "-34.80400000",
     "longitude": "-56.27700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q97168938",
+    "type": "adm1",
+    "native": "Arroyo Seco",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153691,
@@ -45,7 +60,12 @@
     "latitude": "-34.80900000",
     "longitude": "-56.23000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q753192",
+    "type": "city",
+    "native": "Atahualpa",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153692,
@@ -57,7 +77,12 @@
     "latitude": "-34.82100000",
     "longitude": "-56.06700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q812710",
+    "type": "section",
+    "native": "Bañados de Carrasco",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153694,
@@ -69,7 +94,12 @@
     "latitude": "-34.90800000",
     "longitude": "-56.19400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q808953",
+    "type": "city",
+    "native": "Barrio Sur",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153695,
@@ -81,7 +111,12 @@
     "latitude": "-34.85600000",
     "longitude": "-56.15500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q122396855",
+    "type": "city",
+    "native": "Bella Italia",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149276,
@@ -93,7 +128,12 @@
     "latitude": "-34.87527778",
     "longitude": "-56.18666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13479688",
+    "type": "city",
+    "native": "Bella Vista",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 149277,
@@ -105,7 +145,12 @@
     "latitude": "-34.85155556",
     "longitude": "-56.21611111",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1005240",
+    "type": "section",
+    "native": "Belvedere",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 149278,
@@ -117,7 +162,12 @@
     "latitude": "-34.90000000",
     "longitude": "-56.13305556",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q997676",
+    "type": "section",
+    "native": "Buceo",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153696,
@@ -129,7 +179,12 @@
     "latitude": "-34.90500000",
     "longitude": "-56.21700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q986346",
+    "type": "city",
+    "native": "Capurro",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 149280,
@@ -141,7 +196,12 @@
     "latitude": "-34.88333333",
     "longitude": "-56.06666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1005003",
+    "type": "section",
+    "native": "Carrasco",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153697,
@@ -153,7 +213,12 @@
     "latitude": "-34.86800000",
     "longitude": "-56.04300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984512",
+    "type": "city",
+    "native": "Carrasco Norte",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149281,
@@ -165,7 +230,12 @@
     "latitude": "-34.86388889",
     "longitude": "-56.34111111",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984873",
+    "type": "city",
+    "native": "Racimo",
+    "timezone": "America/Montevideo",
+    "population": 2000,
+    "population_year": null
   },
   {
     "id": 153698,
@@ -177,7 +247,12 @@
     "latitude": "-34.84300000",
     "longitude": "-56.20300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984924",
+    "type": "city",
+    "native": "Casavalle",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149282,
@@ -189,7 +264,12 @@
     "latitude": "-34.90361111",
     "longitude": "-56.18833333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984382",
+    "type": "section",
+    "native": "Centro",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153699,
@@ -201,7 +281,12 @@
     "latitude": "-34.81500000",
     "longitude": "-56.22500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q177318",
+    "type": "city",
+    "native": "Cerrito",
+    "timezone": "America/Montevideo",
+    "population": 19913,
+    "population_year": null
   },
   {
     "id": 149307,
@@ -213,7 +298,12 @@
     "latitude": "-34.88444444",
     "longitude": "-56.25138889",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1010338",
+    "type": "section",
+    "native": "Cerro",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153700,
@@ -225,7 +315,12 @@
     "latitude": "-34.90800000",
     "longitude": "-56.20400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1007576",
+    "type": "section",
+    "native": "Ciudad Vieja",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153701,
@@ -237,7 +332,12 @@
     "latitude": "-34.86500000",
     "longitude": "-56.18000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984425",
+    "type": "capital",
+    "native": "Colon",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 149286,
@@ -249,7 +349,12 @@
     "latitude": "-34.82361111",
     "longitude": "-56.23194444",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q985021",
+    "type": "section",
+    "native": "Conciliación",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 149287,
@@ -261,7 +366,12 @@
     "latitude": "-34.90000000",
     "longitude": "-56.17858333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1005742",
+    "type": "section",
+    "native": "Cordón",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 149288,
@@ -273,7 +383,12 @@
     "latitude": "-34.85055556",
     "longitude": "-56.12472222",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984899",
+    "type": "section",
+    "native": "Flor de Maroñas",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153702,
@@ -285,7 +400,12 @@
     "latitude": "-34.87500000",
     "longitude": "-56.19200000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q17633166",
+    "type": "city",
+    "native": "Va",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149289,
@@ -297,7 +417,12 @@
     "latitude": "-34.84750000",
     "longitude": "-56.14361111",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q985110",
+    "type": "section",
+    "native": "Ituzaingó",
+    "timezone": "America/Montevideo",
+    "population": 771,
+    "population_year": null
   },
   {
     "id": 153703,
@@ -309,7 +434,12 @@
     "latitude": "-34.88300000",
     "longitude": "-56.16600000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6336405",
+    "type": "section",
+    "native": "Jacinto vera",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153704,
@@ -321,7 +451,12 @@
     "latitude": "-34.88100000",
     "longitude": "-56.15300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984915",
+    "type": "city",
+    "native": "Jardines del Hipódromo",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153705,
@@ -333,7 +468,12 @@
     "latitude": "-34.89700000",
     "longitude": "-56.18500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "capital",
+    "native": "La Blanqueada",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153706,
@@ -345,7 +485,12 @@
     "latitude": "-34.89400000",
     "longitude": "-56.19700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984523",
+    "type": "capital",
+    "native": "La Comercial",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153707,
@@ -357,7 +502,12 @@
     "latitude": "-34.88600000",
     "longitude": "-56.20300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q986342",
+    "type": "capital",
+    "native": "La Figurita",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153708,
@@ -369,7 +519,12 @@
     "latitude": "-34.86200000",
     "longitude": "-56.23600000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984835",
+    "type": "city",
+    "native": "La Teja",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149290,
@@ -381,7 +536,12 @@
     "latitude": "-34.87861111",
     "longitude": "-56.13583333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984518",
+    "type": "section",
+    "native": "La Unión",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153709,
@@ -393,7 +553,12 @@
     "latitude": "-34.86100000",
     "longitude": "-56.16300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1806010",
+    "type": "capital",
+    "native": "Larañaga",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153710,
@@ -405,7 +570,12 @@
     "latitude": "-34.85500000",
     "longitude": "-56.17000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1661914",
+    "type": "city",
+    "native": "Las Acacias",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153711,
@@ -417,7 +587,12 @@
     "latitude": "-34.84600000",
     "longitude": "-56.22300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q986348",
+    "type": "city",
+    "native": "Estos",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149291,
@@ -429,7 +604,12 @@
     "latitude": "-34.89352778",
     "longitude": "-56.09994444",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1004920",
+    "type": "section",
+    "native": "Malvín",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153712,
@@ -441,7 +621,12 @@
     "latitude": "-34.87800000",
     "longitude": "-56.08300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1005816",
+    "type": "city",
+    "native": "Malvín Norte",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149292,
@@ -453,7 +638,12 @@
     "latitude": "-34.80722222",
     "longitude": "-56.13805556",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q985379",
+    "type": "section",
+    "native": "Manga",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153713,
@@ -465,7 +655,12 @@
     "latitude": "-34.86200000",
     "longitude": "-56.14700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Marconi",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149293,
@@ -477,7 +672,12 @@
     "latitude": "-34.86338889",
     "longitude": "-56.12963889",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984197",
+    "type": "city",
+    "native": "Maroñas",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153714,
@@ -489,7 +689,12 @@
     "latitude": "-34.83700000",
     "longitude": "-56.25900000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6009580",
+    "type": "city",
+    "native": "Melilla",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153715,
@@ -501,7 +706,12 @@
     "latitude": "-34.85600000",
     "longitude": "-56.20200000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1788762",
+    "type": "capital",
+    "native": "Mercado Modelo",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 129833,
@@ -513,7 +723,12 @@
     "latitude": "-34.90328000",
     "longitude": "-56.18816000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1335",
+    "type": "city",
+    "native": "Montevideo",
+    "timezone": "America/Montevideo",
+    "population": 1302954,
+    "population_year": null
   },
   {
     "id": 149294,
@@ -525,7 +740,12 @@
     "latitude": "-34.83333333",
     "longitude": "-56.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q751376",
+    "type": "section",
+    "native": "Nuevo París",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 129838,
@@ -537,7 +757,12 @@
     "latitude": "-34.80167000",
     "longitude": "-56.33417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Pajas Blancas",
+    "timezone": "America/Montevideo",
+    "population": 2000,
+    "population_year": null
   },
   {
     "id": 153716,
@@ -549,7 +774,12 @@
     "latitude": "-34.90300000",
     "longitude": "-56.18200000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984385",
+    "type": "capital",
+    "native": "Palermo",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153717,
@@ -561,7 +791,12 @@
     "latitude": "-34.90000000",
     "longitude": "-56.18000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q588205",
+    "type": "capital",
+    "native": "Parque Batlle",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153718,
@@ -573,7 +808,12 @@
     "latitude": "-34.90800000",
     "longitude": "-56.17100000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Parque Rodó",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153719,
@@ -585,7 +825,12 @@
     "latitude": "-34.86100000",
     "longitude": "-56.23900000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984720",
+    "type": "city",
+    "native": "Paso de la Arena",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149295,
@@ -597,7 +842,12 @@
     "latitude": "-34.85000000",
     "longitude": "-56.21666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10345885",
+    "type": "section",
+    "native": "Paso Molino",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 149296,
@@ -609,7 +859,12 @@
     "latitude": "-34.82519444",
     "longitude": "-56.19916667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1007597",
+    "type": "capital",
+    "native": "Peñarol",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153720,
@@ -621,7 +876,12 @@
     "latitude": "-34.84300000",
     "longitude": "-56.21300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q519177",
+    "type": "city",
+    "native": "Perez Castellanos",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149297,
@@ -633,7 +893,12 @@
     "latitude": "-34.82361111",
     "longitude": "-56.14027778",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984919",
+    "type": "section",
+    "native": "Piedras Blancas",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 149298,
@@ -645,7 +910,12 @@
     "latitude": "-34.90833333",
     "longitude": "-56.15000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2094894",
+    "type": "section",
+    "native": "Pocitos",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153721,
@@ -657,7 +927,12 @@
     "latitude": "-34.85600000",
     "longitude": "-56.20400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q389478",
+    "type": "capital",
+    "native": "Prado",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149299,
@@ -669,7 +944,12 @@
     "latitude": "-34.92188889",
     "longitude": "-56.15944444",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984390",
+    "type": "section",
+    "native": "Punta Carretas",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153723,
@@ -681,7 +961,12 @@
     "latitude": "-34.84700000",
     "longitude": "-56.25200000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2118579",
+    "type": "city",
+    "native": "Punta de Rieles",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153722,
@@ -693,7 +978,12 @@
     "latitude": "-34.83500000",
     "longitude": "-56.28600000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18418589",
+    "type": "adm1",
+    "native": "Punta Espinillo",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149300,
@@ -705,7 +995,12 @@
     "latitude": "-34.88647222",
     "longitude": "-56.08983333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984180",
+    "type": "section",
+    "native": "Punta Gorda",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 149301,
@@ -717,7 +1012,12 @@
     "latitude": "-34.87831944",
     "longitude": "-56.18957778",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984388",
+    "type": "section",
+    "native": "Reducto",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 163929,
@@ -729,7 +1029,12 @@
     "latitude": "-34.89030806",
     "longitude": "-56.29295442",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": null,
+    "native": null,
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 129871,
@@ -741,7 +1046,12 @@
     "latitude": "-34.79028000",
     "longitude": "-56.35000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3698900",
+    "type": "city",
+    "native": "Santiago Vázquez",
+    "timezone": "America/Montevideo",
+    "population": 1468,
+    "population_year": null
   },
   {
     "id": 149302,
@@ -753,7 +1063,12 @@
     "latitude": "-34.83583333",
     "longitude": "-56.21250000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1004942",
+    "type": "section",
+    "native": "Sayago",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 163922,
@@ -765,7 +1080,12 @@
     "latitude": "-34.75695481",
     "longitude": "-56.11083182",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": null,
+    "native": null,
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149303,
@@ -777,7 +1097,12 @@
     "latitude": "-34.89583333",
     "longitude": "-56.16805556",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984193",
+    "type": "section",
+    "native": "Tres Cruces",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153724,
@@ -789,7 +1114,12 @@
     "latitude": "-34.76600000",
     "longitude": "-56.33000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1304029",
+    "type": "city",
+    "native": "Tres Ombues",
+    "timezone": "America/Montevideo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149304,
@@ -801,7 +1131,12 @@
     "latitude": "-34.86388889",
     "longitude": "-56.14472222",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984929",
+    "type": "section",
+    "native": "Villa Española",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 149305,
@@ -813,7 +1148,12 @@
     "latitude": "-34.78111000",
     "longitude": "-56.05333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7930332",
+    "type": "city",
+    "native": "Villa García",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 149306,
@@ -825,6 +1165,11 @@
     "latitude": "-34.88781389",
     "longitude": "-56.17701389",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984422",
+    "type": "section",
+    "native": "Villa Muñoz",
+    "timezone": "America/Montevideo",
+    "population": 0,
+    "population_year": null
   }
 ]

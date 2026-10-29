@@ -9,7 +9,12 @@
     "latitude": "14.70074000",
     "longitude": "-16.45911000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2881786",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Dakar",
+    "population": 37374,
+    "population_year": null
   },
   {
     "id": 165547,
@@ -21,7 +26,12 @@
     "latitude": "14.64792000",
     "longitude": "-16.24363000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q910973",
+    "type": "adm1",
+    "native": null,
+    "timezone": "Africa/Dakar",
+    "population": 157554,
+    "population_year": null
   },
   {
     "id": 104734,
@@ -33,7 +43,12 @@
     "latitude": "14.80828000",
     "longitude": "-15.86454000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2068182",
+    "type": "city",
+    "native": "Mbacké",
+    "timezone": "Africa/Dakar",
+    "population": 101451,
+    "population_year": null
   },
   {
     "id": 104735,
@@ -45,7 +60,12 @@
     "latitude": "14.79032000",
     "longitude": "-15.90803000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q965360",
+    "type": "city",
+    "native": "Mbaké",
+    "timezone": "Africa/Dakar",
+    "population": 101451,
+    "population_year": null
   },
   {
     "id": 104769,
@@ -57,7 +77,12 @@
     "latitude": "14.63333000",
     "longitude": "-16.23333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tiébo",
+    "timezone": "Africa/Dakar",
+    "population": 100289,
+    "population_year": null
   },
   {
     "id": 104770,
@@ -69,6 +94,11 @@
     "latitude": "14.85000000",
     "longitude": "-15.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q657072",
+    "type": "city",
+    "native": "Touba",
+    "timezone": "Africa/Dakar",
+    "population": 1120824,
+    "population_year": null
   }
 ]

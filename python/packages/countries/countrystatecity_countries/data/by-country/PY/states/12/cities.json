@@ -9,7 +9,12 @@
     "latitude": "-27.34215000",
     "longitude": "-57.64119000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Cerrito",
+    "timezone": "America/Asuncion",
+    "population": 1036,
+    "population_year": null
   },
   {
     "id": 89773,
@@ -21,7 +26,12 @@
     "latitude": "-27.20136000",
     "longitude": "-58.36740000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "General José Eduvigis Díaz",
+    "timezone": "America/Asuncion",
+    "population": 1345,
+    "population_year": null
   },
   {
     "id": 89808,
@@ -33,7 +43,12 @@
     "latitude": "-26.85874000",
     "longitude": "-58.30639000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q135970",
+    "type": "adm1",
+    "native": "Pilar",
+    "timezone": "America/Asuncion",
+    "population": 32810,
+    "population_year": null
   },
   {
     "id": 161652,
@@ -45,6 +60,11 @@
     "latitude": "-26.02000000",
     "longitude": "-57.87000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1750358",
+    "type": "locality",
+    "native": "Villa Oliva",
+    "timezone": "America/Asuncion",
+    "population": 990,
+    "population_year": null
   }
 ]

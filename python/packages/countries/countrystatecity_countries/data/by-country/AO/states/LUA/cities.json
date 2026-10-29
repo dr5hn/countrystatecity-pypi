@@ -9,7 +9,12 @@
     "latitude": "-9.06875000",
     "longitude": "13.16072000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q727233",
+    "type": "city",
+    "native": "Belas",
+    "timezone": "Africa/Luanda",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153641,
@@ -21,7 +26,12 @@
     "latitude": "-8.82960000",
     "longitude": "13.29730000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3829",
+    "type": "capital",
+    "native": "Cacuaco",
+    "timezone": "Africa/Luanda",
+    "population": 1279488,
+    "population_year": null
   },
   {
     "id": 153642,
@@ -33,7 +43,12 @@
     "latitude": "-8.82860000",
     "longitude": "13.26650000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "capital",
+    "native": "Cazenga",
+    "timezone": "Africa/Luanda",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 611,
@@ -45,7 +60,12 @@
     "latitude": "-9.24191000",
     "longitude": "13.73549000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q291729",
+    "type": "city",
+    "native": "Icolo e Bengo",
+    "timezone": "Africa/Luanda",
+    "population": 59000,
+    "population_year": null
   },
   {
     "id": 615,
@@ -57,7 +77,12 @@
     "latitude": "-8.83682000",
     "longitude": "13.23432000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3897",
+    "type": "capital",
+    "native": "Luanda",
+    "timezone": "Africa/Luanda",
+    "population": 2487444,
+    "population_year": null
   },
   {
     "id": 153643,
@@ -69,7 +94,12 @@
     "latitude": "-8.89570000",
     "longitude": "13.19430000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3831",
+    "type": "capital",
+    "native": "Talatona",
+    "timezone": "Africa/Luanda",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153644,
@@ -81,6 +111,11 @@
     "latitude": "-8.90210000",
     "longitude": "13.28610000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "capital",
+    "native": "Viana",
+    "timezone": "Africa/Luanda",
+    "population": 0,
+    "population_year": null
   }
 ]

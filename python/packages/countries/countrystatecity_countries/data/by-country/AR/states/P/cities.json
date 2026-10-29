@@ -8,8 +8,13 @@
     "country_code": "AR",
     "latitude": "-25.28481000",
     "longitude": "-57.71851000",
-    "county_id": 6585,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q106063",
+    "type": "adm2",
+    "native": "Clorinda",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 15000,
+    "population_year": null
   },
   {
     "id": 785,
@@ -20,8 +25,13 @@
     "country_code": "AR",
     "latitude": "-25.33453000",
     "longitude": "-59.68212000",
-    "county_id": 6583,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q106069",
+    "type": "adm2",
+    "native": "Comandante de fontana",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 5655,
+    "population_year": null
   },
   {
     "id": 1053,
@@ -32,8 +42,13 @@
     "country_code": "AR",
     "latitude": "-26.30808000",
     "longitude": "-59.37291000",
-    "county_id": 6586,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q994889",
+    "type": "city",
+    "native": "El Colorado",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 12780,
+    "population_year": null
   },
   {
     "id": 1072,
@@ -44,8 +59,13 @@
     "country_code": "AR",
     "latitude": "-25.05504000",
     "longitude": "-60.09218000",
-    "county_id": 6583,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q8843108",
+    "type": "city",
+    "native": "Estanislao del Campo",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 4055,
+    "population_year": null
   },
   {
     "id": 1082,
@@ -56,8 +76,13 @@
     "country_code": "AR",
     "latitude": "-26.18489000",
     "longitude": "-58.17313000",
-    "county_id": 6580,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q44214",
+    "type": "adm1",
+    "native": "Formosa",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 222226,
+    "population_year": null
   },
   {
     "id": 1102,
@@ -69,7 +94,12 @@
     "latitude": "-23.21667000",
     "longitude": "-62.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "General Enrique Mosconi",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 1138,
@@ -80,8 +110,13 @@
     "country_code": "AR",
     "latitude": "-26.48705000",
     "longitude": "-58.31198000",
-    "county_id": 6581,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q3197888",
+    "type": "city",
+    "native": "Herradura",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 2333,
+    "population_year": null
   },
   {
     "id": 1148,
@@ -92,8 +127,13 @@
     "country_code": "AR",
     "latitude": "-25.21438000",
     "longitude": "-59.85851000",
-    "county_id": 6583,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q5983760",
+    "type": "city",
+    "native": "Ibarreta",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 8687,
+    "population_year": null
   },
   {
     "id": 1151,
@@ -105,7 +145,12 @@
     "latitude": "-23.90000000",
     "longitude": "-61.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q106075",
+    "type": "adm2",
+    "native": "Ingeniero Guillermo N. Juárez",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 1209,
@@ -117,7 +162,12 @@
     "latitude": "-25.24769000",
     "longitude": "-58.09383000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21826826",
+    "type": "city",
+    "native": "Laguna Naick-Neck",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 2115,
+    "population_year": null
   },
   {
     "id": 1211,
@@ -128,8 +178,13 @@
     "country_code": "AR",
     "latitude": "-24.25391000",
     "longitude": "-61.24466000",
-    "county_id": 6579,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1016035",
+    "type": "adm2",
+    "native": "Laguna Yema",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 2744,
+    "population_year": null
   },
   {
     "id": 1225,
@@ -140,8 +195,13 @@
     "country_code": "AR",
     "latitude": "-24.70955000",
     "longitude": "-60.59303000",
-    "county_id": 6583,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q6492291",
+    "type": "city",
+    "native": "Las Lomitas",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 10354,
+    "population_year": null
   },
   {
     "id": 1312,
@@ -152,8 +212,13 @@
     "country_code": "AR",
     "latitude": "-25.56332000",
     "longitude": "-59.33781000",
-    "county_id": 6586,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q9054861",
+    "type": "city",
+    "native": "Palo Santo",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 5324,
+    "population_year": null
   },
   {
     "id": 1336,
@@ -164,8 +229,13 @@
     "country_code": "AR",
     "latitude": "-25.73239000",
     "longitude": "-59.10879000",
-    "county_id": 6586,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q2031369",
+    "type": "adm2",
+    "native": "Pirañero",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 19124,
+    "population_year": null
   },
   {
     "id": 1344,
@@ -176,8 +246,13 @@
     "country_code": "AR",
     "latitude": "-24.89682000",
     "longitude": "-60.32359000",
-    "county_id": 6583,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q937642",
+    "type": "city",
+    "native": "Pozo del Tigre",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 3948,
+    "population_year": null
   },
   {
     "id": 1381,
@@ -189,7 +264,12 @@
     "latitude": "-25.36209000",
     "longitude": "-58.27750000",
     "county_id": 6585,
-    "wikiDataId": null
+    "wikiDataId": "Q7322101",
+    "type": "municipality",
+    "native": "Riacho eh-eh",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 3566,
+    "population_year": null
   },
   {
     "id": 1423,
@@ -200,8 +280,13 @@
     "country_code": "AR",
     "latitude": "-26.24262000",
     "longitude": "-58.63039000",
-    "county_id": 6581,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q994886",
+    "type": "adm2",
+    "native": "San Francisco de Laishí",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 4384,
+    "population_year": null
   },
   {
     "id": 1551,
@@ -212,8 +297,13 @@
     "country_code": "AR",
     "latitude": "-26.62209000",
     "longitude": "-58.67134000",
-    "county_id": 6581,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q5854222",
+    "type": "city",
+    "native": "Villa Escolar",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 1261,
+    "population_year": null
   },
   {
     "id": 1553,
@@ -225,6 +315,11 @@
     "latitude": "-24.75530000",
     "longitude": "-59.48940000",
     "county_id": 6583,
-    "wikiDataId": null
+    "wikiDataId": "Q9093795",
+    "type": "municipality",
+    "native": "Villa General Guemes",
+    "timezone": "America/Argentina/Cordoba",
+    "population": 4000,
+    "population_year": null
   }
 ]

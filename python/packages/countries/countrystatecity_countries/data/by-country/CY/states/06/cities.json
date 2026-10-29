@@ -9,7 +9,12 @@
     "latitude": "35.33634000",
     "longitude": "33.31729000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q206760",
+    "type": "adm1",
+    "native": "Κερύνεια",
+    "timezone": "Asia/Famagusta",
+    "population": 33207,
+    "population_year": null
   },
   {
     "id": 22046,
@@ -21,7 +26,12 @@
     "latitude": "35.33672000",
     "longitude": "33.31504000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q56241597",
+    "type": "municipality",
+    "native": "Δήμος Κερύνειας",
+    "timezone": "Asia/Famagusta",
+    "population": 26701,
+    "population_year": null
   },
   {
     "id": 22059,
@@ -33,6 +43,11 @@
     "latitude": "35.33823000",
     "longitude": "33.17368000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Λάπηθος",
+    "timezone": "Asia/Famagusta",
+    "population": 5215,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "34.45597000",
     "longitude": "43.79341000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1029552",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 134475,
@@ -21,7 +26,12 @@
     "latitude": "33.84667000",
     "longitude": "44.23444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q988430",
+    "type": "city",
+    "native": "الدجيل",
+    "timezone": "Asia/Baghdad",
+    "population": 26362,
+    "population_year": null
   },
   {
     "id": 134505,
@@ -33,7 +43,12 @@
     "latitude": "34.01485000",
     "longitude": "44.14574000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1029645",
+    "type": "adm2",
+    "native": "بلد",
+    "timezone": "Asia/Baghdad",
+    "population": 42088,
+    "population_year": null
   },
   {
     "id": 134510,
@@ -45,7 +60,12 @@
     "latitude": "34.92915000",
     "longitude": "43.48878000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q803712",
+    "type": "adm2",
+    "native": "بايجي",
+    "timezone": "Asia/Baghdad",
+    "population": 36454,
+    "population_year": null
   },
   {
     "id": 134540,
@@ -57,7 +77,12 @@
     "latitude": "34.19590000",
     "longitude": "43.88568000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q170047",
+    "type": "city",
+    "native": "سامراء",
+    "timezone": "Asia/Baghdad",
+    "population": 158508,
+    "population_year": null
   },
   {
     "id": 134544,
@@ -69,7 +94,12 @@
     "latitude": "34.61581000",
     "longitude": "43.67861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q165444",
+    "type": "adm1",
+    "native": "تكريت",
+    "timezone": "Asia/Baghdad",
+    "population": 42477,
+    "population_year": null
   },
   {
     "id": 134545,
@@ -81,6 +111,11 @@
     "latitude": "34.88808000",
     "longitude": "44.63256000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "توزخورماتو",
+    "timezone": "Asia/Baghdad",
+    "population": 59886,
+    "population_year": null
   }
 ]

@@ -9,10 +9,15 @@
     "latitude": "54.58333000",
     "longitude": "-1.43333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4918118",
+    "type": "village",
+    "native": "Bishopton",
+    "timezone": "Europe/London",
+    "population": 0,
+    "population_year": null
   },
   {
-    "id": 49236,
+    "id": 166598,
     "name": "Darlington",
     "state_id": 2389,
     "state_code": "DAL",
@@ -21,6 +26,11 @@
     "latitude": "54.53333000",
     "longitude": "-1.53333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Darlington",
+    "timezone": "Europe/London",
+    "population": 93015,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "10.00000000",
     "longitude": "34.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2866757",
+    "type": "adm1",
+    "native": "እሁድ",
+    "timezone": "Africa/Addis_Ababa",
+    "population": 20226,
+    "population_year": null
   },
   {
     "id": 164704,
@@ -21,7 +26,12 @@
     "latitude": "9.75000000",
     "longitude": "34.73333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q805930",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "population": 26300,
+    "population_year": null
   },
   {
     "id": 164708,
@@ -33,7 +43,12 @@
     "latitude": "11.28333000",
     "longitude": "36.21667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q741847",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Addis_Ababa",
+    "population": 24100,
+    "population_year": null
   },
   {
     "id": 38679,
@@ -45,6 +60,11 @@
     "latitude": "10.42673000",
     "longitude": "35.71975000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q742955",
+    "type": "city",
+    "native": "ክምር",
+    "timezone": "Africa/Addis_Ababa",
+    "population": null,
+    "population_year": null
   }
 ]

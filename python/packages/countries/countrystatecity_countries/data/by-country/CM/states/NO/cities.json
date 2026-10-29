@@ -9,7 +9,12 @@
     "latitude": "8.25014000",
     "longitude": "12.87829000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Département de Faro",
+    "timezone": "Africa/Douala",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 19181,
@@ -21,7 +26,12 @@
     "latitude": "9.30143000",
     "longitude": "13.39771000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q157915",
+    "type": "adm1",
+    "native": "Garoua",
+    "timezone": "Africa/Douala",
+    "population": 34957,
+    "population_year": null
   },
   {
     "id": 19183,
@@ -33,7 +43,12 @@
     "latitude": "9.93330000",
     "longitude": "13.94671000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2708439",
+    "type": "city",
+    "native": "Guider",
+    "timezone": "Africa/Douala",
+    "population": 81608,
+    "population_year": null
   },
   {
     "id": 19194,
@@ -45,7 +60,12 @@
     "latitude": "9.05828000",
     "longitude": "13.66605000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Lagdo",
+    "timezone": "Africa/Douala",
+    "population": 28239,
+    "population_year": null
   },
   {
     "id": 19204,
@@ -57,7 +77,12 @@
     "latitude": "9.96577000",
     "longitude": "13.72738000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2443752",
+    "type": "city",
+    "native": "Mayo-louti",
+    "timezone": "Africa/Douala",
+    "population": 334312,
+    "population_year": null
   },
   {
     "id": 19205,
@@ -69,7 +94,12 @@
     "latitude": "8.12630000",
     "longitude": "14.61456000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2443767",
+    "type": "city",
+    "native": "May-Rey",
+    "timezone": "Africa/Douala",
+    "population": 242441,
+    "population_year": null
   },
   {
     "id": 19251,
@@ -81,7 +111,12 @@
     "latitude": "9.38390000",
     "longitude": "13.50231000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Pitoa",
+    "timezone": "Africa/Douala",
+    "population": 33610,
+    "population_year": null
   },
   {
     "id": 19252,
@@ -93,7 +128,12 @@
     "latitude": "8.47560000",
     "longitude": "13.24097000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23665280",
+    "type": "city",
+    "native": "Poli",
+    "timezone": "Africa/Douala",
+    "population": 5727,
+    "population_year": null
   },
   {
     "id": 19253,
@@ -105,7 +145,12 @@
     "latitude": "8.67240000",
     "longitude": "14.17860000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23665342",
+    "type": "city",
+    "native": "Rey Bouba",
+    "timezone": "Africa/Douala",
+    "population": 11454,
+    "population_year": null
   },
   {
     "id": 19257,
@@ -117,7 +162,12 @@
     "latitude": "8.40220000",
     "longitude": "14.16980000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tcholliré",
+    "timezone": "Africa/Douala",
+    "population": 23187,
+    "population_year": null
   },
   {
     "id": 164572,
@@ -129,6 +179,11 @@
     "latitude": "7.77080000",
     "longitude": "15.35680000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7828536",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Douala",
+    "population": 28987,
+    "population_year": null
   }
 ]

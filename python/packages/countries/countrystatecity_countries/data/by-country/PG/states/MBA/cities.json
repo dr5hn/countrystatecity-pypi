@@ -9,7 +9,12 @@
     "latitude": "-10.25000000",
     "longitude": "150.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3710607",
+    "type": "city",
+    "native": "Alotau",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 10025,
+    "population_year": null
   },
   {
     "id": 81038,
@@ -21,7 +26,12 @@
     "latitude": "-9.58333000",
     "longitude": "150.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1775669",
+    "type": "city",
+    "native": "ESA’ALA",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81066,
@@ -33,7 +43,12 @@
     "latitude": "-8.48333000",
     "longitude": "151.06667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711069",
+    "type": "area",
+    "native": "Kiriwina Goodenough",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81105,
@@ -45,7 +60,12 @@
     "latitude": "-10.61038000",
     "longitude": "150.66207000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q938379",
+    "type": "city",
+    "native": "Samarai",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 1638,
+    "population_year": null
   },
   {
     "id": 81106,
@@ -57,6 +77,11 @@
     "latitude": "-10.49636000",
     "longitude": "150.54703000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q938379",
+    "type": "city",
+    "native": "Samarai Murua",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   }
 ]

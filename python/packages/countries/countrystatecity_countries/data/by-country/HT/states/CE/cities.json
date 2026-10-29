@@ -9,7 +9,12 @@
     "latitude": "19.11667000",
     "longitude": "-71.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Arrondissement de Cerca La Source",
+    "timezone": "America/Port-au-Prince",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 55082,
@@ -21,7 +26,12 @@
     "latitude": "19.16696000",
     "longitude": "-71.79015000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2638005",
+    "type": "city",
+    "native": "Cerca la Source",
+    "timezone": "America/Port-au-Prince",
+    "population": 2792,
+    "population_year": null
   },
   {
     "id": 55108,
@@ -33,7 +43,12 @@
     "latitude": "19.15000000",
     "longitude": "-72.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Hinche",
+    "timezone": "America/Port-au-Prince",
+    "population": 120867,
+    "population_year": null
   },
   {
     "id": 55117,
@@ -45,7 +60,12 @@
     "latitude": "18.83047000",
     "longitude": "-71.93563000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1806510",
+    "type": "city",
+    "native": "Lascahobas",
+    "timezone": "America/Port-au-Prince",
+    "population": 7574,
+    "population_year": null
   },
   {
     "id": 55127,
@@ -57,7 +77,12 @@
     "latitude": "19.17607000",
     "longitude": "-72.13958000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1914855",
+    "type": "city",
+    "native": "Mayisad",
+    "timezone": "America/Port-au-Prince",
+    "population": 5204,
+    "population_year": null
   },
   {
     "id": 55130,
@@ -69,7 +94,12 @@
     "latitude": "18.83455000",
     "longitude": "-72.10480000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1707505",
+    "type": "city",
+    "native": "Mirebalais",
+    "timezone": "America/Port-au-Prince",
+    "population": 9082,
+    "population_year": null
   },
   {
     "id": 55158,
@@ -81,7 +111,12 @@
     "latitude": "19.08209000",
     "longitude": "-71.83855000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q662452",
+    "type": "city",
+    "native": "Thomassique",
+    "timezone": "America/Port-au-Prince",
+    "population": 4857,
+    "population_year": null
   },
   {
     "id": 55160,
@@ -93,6 +128,11 @@
     "latitude": "19.01730000",
     "longitude": "-71.96235000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1880895",
+    "type": "city",
+    "native": "Thomonde",
+    "timezone": "America/Port-au-Prince",
+    "population": 3696,
+    "population_year": null
   }
 ]

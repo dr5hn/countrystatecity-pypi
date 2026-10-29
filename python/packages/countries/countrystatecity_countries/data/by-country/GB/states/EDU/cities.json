@@ -9,7 +9,12 @@
     "latitude": "55.91536000",
     "longitude": "-4.33279000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1908426",
+    "type": "section",
+    "native": "Bearsden",
+    "timezone": "Europe/London",
+    "population": 28120,
+    "population_year": null
   },
   {
     "id": 48526,
@@ -21,7 +26,12 @@
     "latitude": "55.90669000",
     "longitude": "-4.21869000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q866347",
+    "type": "section",
+    "native": "Bishopbriggs",
+    "timezone": "Europe/London",
+    "population": 23540,
+    "population_year": null
   },
   {
     "id": 50206,
@@ -33,7 +43,12 @@
     "latitude": "55.93933000",
     "longitude": "-4.15262000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2422689",
+    "type": "town",
+    "native": "Kirkintilloch",
+    "timezone": "Europe/London",
+    "population": 21380,
+    "population_year": null
   },
   {
     "id": 50280,
@@ -45,7 +60,12 @@
     "latitude": "55.97263000",
     "longitude": "-4.20001000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1010313",
+    "type": "town",
+    "native": "Lennoxtown",
+    "timezone": "Europe/London",
+    "population": 4140,
+    "population_year": null
   },
   {
     "id": 50281,
@@ -57,7 +77,12 @@
     "latitude": "55.92762000",
     "longitude": "-4.15399000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Lenzie",
+    "timezone": "Europe/London",
+    "population": 8070,
+    "population_year": null
   },
   {
     "id": 50590,
@@ -69,7 +94,12 @@
     "latitude": "55.94071000",
     "longitude": "-4.32311000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1438673",
+    "type": "section",
+    "native": "Milngavie",
+    "timezone": "Europe/London",
+    "population": 12940,
+    "population_year": null
   },
   {
     "id": 50594,
@@ -81,7 +111,12 @@
     "latitude": "55.96120000",
     "longitude": "-4.16508000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1011562",
+    "type": "town",
+    "native": "Milton of Campsie",
+    "timezone": "Europe/London",
+    "population": 3840,
+    "population_year": null
   },
   {
     "id": 51648,
@@ -93,7 +128,12 @@
     "latitude": "55.93995000",
     "longitude": "-4.21025000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1907087",
+    "type": "village",
+    "native": "Torrance",
+    "timezone": "Europe/London",
+    "population": 2290,
+    "population_year": null
   },
   {
     "id": 51681,
@@ -105,6 +145,11 @@
     "latitude": "55.95415000",
     "longitude": "-4.08219000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "village",
+    "native": "Twechar",
+    "timezone": "Europe/London",
+    "population": 1220,
+    "population_year": null
   }
 ]

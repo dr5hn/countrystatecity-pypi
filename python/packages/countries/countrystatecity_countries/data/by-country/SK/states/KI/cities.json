@@ -8,8 +8,13 @@
     "country_code": "SK",
     "latitude": "48.41704000",
     "longitude": "22.08865000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13742,
+    "wikiDataId": "Q1192851",
+    "type": "city",
+    "native": "Čierna nad Tisou",
+    "timezone": "Europe/Bratislava",
+    "population": 3367,
+    "population_year": null
   },
   {
     "id": 104382,
@@ -20,8 +25,13 @@
     "country_code": "SK",
     "latitude": "48.82073000",
     "longitude": "20.36988000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13739,
+    "wikiDataId": "Q279005",
+    "type": "city",
+    "native": "Dobšiná",
+    "timezone": "Europe/Bratislava",
+    "population": 5169,
+    "population_year": null
   },
   {
     "id": 104392,
@@ -33,7 +43,12 @@
     "latitude": "48.85584000",
     "longitude": "20.93713000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q842028",
+    "type": "adm2",
+    "native": "Gelnica",
+    "timezone": "Europe/Bratislava",
+    "population": 5775,
+    "population_year": null
   },
   {
     "id": 104404,
@@ -44,8 +59,13 @@
     "country_code": "SK",
     "latitude": "48.77592000",
     "longitude": "21.20587000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13733,
+    "wikiDataId": "Q572748",
+    "type": "section",
+    "native": "Kavečany",
+    "timezone": "Europe/Bratislava",
+    "population": 1355,
+    "population_year": null
   },
   {
     "id": 104409,
@@ -57,55 +77,12 @@
     "latitude": "48.71395000",
     "longitude": "21.25808000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104410,
-    "name": "Košice I",
-    "state_id": 4353,
-    "state_code": "KI",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.72914000",
-    "longitude": "21.25004000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104411,
-    "name": "Košice II",
-    "state_id": 4353,
-    "state_code": "KI",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.69753000",
-    "longitude": "21.22273000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104412,
-    "name": "Košice III",
-    "state_id": 4353,
-    "state_code": "KI",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.73242000",
-    "longitude": "21.29047000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104413,
-    "name": "Košice IV",
-    "state_id": 4353,
-    "state_code": "KI",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.68691000",
-    "longitude": "21.26570000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q25409",
+    "type": "adm1",
+    "native": "Košice",
+    "timezone": "Europe/Bratislava",
+    "population": 223678,
+    "population_year": null
   },
   {
     "id": 104416,
@@ -116,8 +93,13 @@
     "country_code": "SK",
     "latitude": "48.91447000",
     "longitude": "20.87514000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13741,
+    "wikiDataId": "Q842018",
+    "type": "city",
+    "native": "Krompachy",
+    "timezone": "Europe/Bratislava",
+    "population": 8587,
+    "population_year": null
   },
   {
     "id": 104431,
@@ -128,8 +110,13 @@
     "country_code": "SK",
     "latitude": "48.70041000",
     "longitude": "20.89367000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13737,
+    "wikiDataId": "Q135727",
+    "type": "city",
+    "native": "Medzev",
+    "timezone": "Europe/Bratislava",
+    "population": 4166,
+    "population_year": null
   },
   {
     "id": 104433,
@@ -141,7 +128,12 @@
     "latitude": "48.75434000",
     "longitude": "21.91950000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q460925",
+    "type": "adm2",
+    "native": "Michalovce",
+    "timezone": "Europe/Bratislava",
+    "population": 35310,
+    "population_year": null
   },
   {
     "id": 104435,
@@ -152,92 +144,13 @@
     "country_code": "SK",
     "latitude": "48.61428000",
     "longitude": "20.99957000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104462,
-    "name": "Okres Gelnica",
-    "state_id": 4353,
-    "state_code": "KI",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.85207000",
-    "longitude": "20.93385000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104468,
-    "name": "Okres Kosice-okolie",
-    "state_id": 4353,
-    "state_code": "KI",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.77897000",
-    "longitude": "21.41373000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104478,
-    "name": "Okres Michalovce",
-    "state_id": 4353,
-    "state_code": "KI",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.75000000",
-    "longitude": "21.93333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104494,
-    "name": "Okres Rožňava",
-    "state_id": 4353,
-    "state_code": "KI",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.66667000",
-    "longitude": "20.53333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104501,
-    "name": "Okres Sobrance",
-    "state_id": 4353,
-    "state_code": "KI",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.74247000",
-    "longitude": "22.18197000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104502,
-    "name": "Okres Spišská Nová Ves",
-    "state_id": 4353,
-    "state_code": "KI",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.95000000",
-    "longitude": "20.56667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104507,
-    "name": "Okres Trebišov",
-    "state_id": 4353,
-    "state_code": "KI",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.63333000",
-    "longitude": "21.71667000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13737,
+    "wikiDataId": "Q846440",
+    "type": "city",
+    "native": "Moldava nad Bodvou",
+    "timezone": "Europe/Bratislava",
+    "population": 10275,
+    "population_year": null
   },
   {
     "id": 104537,
@@ -249,7 +162,12 @@
     "latitude": "48.66009000",
     "longitude": "20.53758000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q267888",
+    "type": "adm2",
+    "native": "Rožňava",
+    "timezone": "Europe/Bratislava",
+    "population": 16857,
+    "population_year": null
   },
   {
     "id": 104542,
@@ -260,8 +178,13 @@
     "country_code": "SK",
     "latitude": "48.70074000",
     "longitude": "21.66104000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13742,
+    "wikiDataId": "Q847336",
+    "type": "city",
+    "native": "Sečovce",
+    "timezone": "Europe/Bratislava",
+    "population": 8538,
+    "population_year": null
   },
   {
     "id": 104547,
@@ -273,7 +196,12 @@
     "latitude": "48.74455000",
     "longitude": "22.18136000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q241125",
+    "type": "adm2",
+    "native": "Sobrance",
+    "timezone": "Europe/Bratislava",
+    "population": 5789,
+    "population_year": null
   },
   {
     "id": 104549,
@@ -285,7 +213,12 @@
     "latitude": "48.94464000",
     "longitude": "20.56153000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q462840",
+    "type": "adm2",
+    "native": "Spišská Nová Ves",
+    "timezone": "Europe/Bratislava",
+    "population": 34255,
+    "population_year": null
   },
   {
     "id": 104554,
@@ -296,8 +229,13 @@
     "country_code": "SK",
     "latitude": "48.87350000",
     "longitude": "21.83668000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13738,
+    "wikiDataId": "Q846434",
+    "type": "city",
+    "native": "Strážske",
+    "timezone": "Europe/Bratislava",
+    "population": 4166,
+    "population_year": null
   },
   {
     "id": 104565,
@@ -309,7 +247,12 @@
     "latitude": "48.62858000",
     "longitude": "21.71954000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q256301",
+    "type": "adm2",
+    "native": "Trebišov",
+    "timezone": "Europe/Bratislava",
+    "population": 22780,
+    "population_year": null
   },
   {
     "id": 104575,
@@ -321,7 +264,12 @@
     "latitude": "48.80965000",
     "longitude": "21.96757000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1187936",
+    "type": "city",
+    "native": "Vinné",
+    "timezone": "Europe/Bratislava",
+    "population": 1608,
+    "population_year": null
   },
   {
     "id": 104599,
@@ -333,6 +281,11 @@
     "latitude": "48.97960000",
     "longitude": "20.79170000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q393479",
+    "type": "adm3",
+    "native": "Žehra",
+    "timezone": "Europe/Bratislava",
+    "population": 2767,
+    "population_year": null
   }
 ]

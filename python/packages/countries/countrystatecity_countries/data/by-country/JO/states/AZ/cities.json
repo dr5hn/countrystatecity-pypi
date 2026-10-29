@@ -9,7 +9,12 @@
     "latitude": "31.88209000",
     "longitude": "36.83017000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الأزرق الشمالي",
+    "timezone": "Asia/Amman",
+    "population": 14800,
+    "population_year": null
   },
   {
     "id": 63181,
@@ -21,7 +26,12 @@
     "latitude": "32.01778000",
     "longitude": "36.04639000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2361176",
+    "type": "city",
+    "native": "الرصيفة",
+    "timezone": "Asia/Amman",
+    "population": 268237,
+    "population_year": null
   },
   {
     "id": 63196,
@@ -33,6 +43,11 @@
     "latitude": "32.07275000",
     "longitude": "36.08796000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q148062",
+    "type": "adm1",
+    "native": "الزرقاء",
+    "timezone": "Asia/Amman",
+    "population": 792665,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "-8.62787000",
     "longitude": "126.65743000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Baguia",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106836,
@@ -21,7 +26,12 @@
     "latitude": "-8.46667000",
     "longitude": "126.45000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Bauau",
+    "timezone": "Asia/Dili",
+    "population": 14961,
+    "population_year": null
   },
   {
     "id": 106837,
@@ -33,7 +43,12 @@
     "latitude": "-8.47572000",
     "longitude": "126.45633000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q811130",
+    "type": "adm1",
+    "native": "Bano",
+    "timezone": "Asia/Dili",
+    "population": 16000,
+    "population_year": null
   },
   {
     "id": 106852,
@@ -45,7 +60,12 @@
     "latitude": "-8.47411000",
     "longitude": "126.59228000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Consideração",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106866,
@@ -57,7 +77,12 @@
     "latitude": "-8.60135000",
     "longitude": "126.55904000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1768027",
+    "type": "adm1",
+    "native": "Quelicai",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106877,
@@ -69,7 +94,12 @@
     "latitude": "-8.51036000",
     "longitude": "126.20823000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Para a cerca",
+    "timezone": "Asia/Dili",
+    "population": 4074,
+    "population_year": null
   },
   {
     "id": 106878,
@@ -81,6 +111,11 @@
     "latitude": "-8.64306000",
     "longitude": "126.37833000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Venila",
+    "timezone": "Asia/Dili",
+    "population": 16000,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "33.33951000",
     "longitude": "69.92041000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q386682",
+    "type": "adm1",
+    "native": "خوست",
+    "timezone": "Asia/Kabul",
+    "population": 96123,
+    "population_year": null
   },
   {
     "id": 164364,
@@ -21,7 +26,12 @@
     "latitude": "33.28744000",
     "longitude": "69.91283000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7447156",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164365,
@@ -33,6 +43,11 @@
     "latitude": "33.20204000",
     "longitude": "69.51520000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7576340",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   }
 ]

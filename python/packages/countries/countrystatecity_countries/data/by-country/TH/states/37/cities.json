@@ -1,6 +1,6 @@
 [
   {
-    "id": 105495,
+    "id": 167062,
     "name": "Amnat",
     "state_id": 3523,
     "state_code": "37",
@@ -9,7 +9,12 @@
     "latitude": "15.69476000",
     "longitude": "104.64846000",
     "county_id": 5724,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "อำนาจ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105179,
@@ -21,10 +26,15 @@
     "latitude": "15.85851000",
     "longitude": "104.62883000",
     "county_id": 5718,
-    "wikiDataId": null
+    "wikiDataId": "Q473674",
+    "type": "city",
+    "native": "อำนาจเจริญ",
+    "timezone": "Asia/Bangkok",
+    "population": 34769,
+    "population_year": null
   },
   {
-    "id": 105286,
+    "id": 166969,
     "name": "Chanuman",
     "state_id": 3523,
     "state_code": "37",
@@ -33,10 +43,15 @@
     "latitude": "16.23356000",
     "longitude": "105.00050000",
     "county_id": 5719,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ชานุมาน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105351,
+    "id": 166998,
     "name": "Hua Taphan",
     "state_id": 3523,
     "state_code": "37",
@@ -45,10 +60,15 @@
     "latitude": "15.69710000",
     "longitude": "104.49160000",
     "county_id": 5723,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "หัวตะพาน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105715,
+    "id": 167137,
     "name": "Pathum Ratchawongsa",
     "state_id": 3523,
     "state_code": "37",
@@ -57,10 +77,15 @@
     "latitude": "15.89476400",
     "longitude": "104.92638200",
     "county_id": 5720,
-    "wikiDataId": null
+    "wikiDataId": "Q15379465",
+    "type": "town",
+    "native": "ปทุมราชวงศา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105722,
+    "id": 167138,
     "name": "Phana",
     "state_id": 3523,
     "state_code": "37",
@@ -69,10 +94,15 @@
     "latitude": "15.68231000",
     "longitude": "104.84603000",
     "county_id": 5721,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "พนา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106208,
+    "id": 167202,
     "name": "Senangkhanikhom",
     "state_id": 3523,
     "state_code": "37",
@@ -81,6 +111,11 @@
     "latitude": "16.03972000",
     "longitude": "104.66939000",
     "county_id": 5722,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "เสนางคนิคม",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

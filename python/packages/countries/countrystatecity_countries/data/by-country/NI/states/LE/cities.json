@@ -9,7 +9,12 @@
     "latitude": "13.05370000",
     "longitude": "-86.59004000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Achuapa",
+    "timezone": "America/Managua",
+    "population": 3299,
+    "population_year": null
   },
   {
     "id": 77184,
@@ -21,7 +26,12 @@
     "latitude": "12.72676000",
     "longitude": "-86.38057000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q369423",
+    "type": "adm2",
+    "native": "El Jicaral",
+    "timezone": "America/Managua",
+    "population": 1446,
+    "population_year": null
   },
   {
     "id": 77188,
@@ -33,7 +43,12 @@
     "latitude": "12.88687000",
     "longitude": "-86.53903000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1647835",
+    "type": "adm2",
+    "native": "El Sauce",
+    "timezone": "America/Managua",
+    "population": 11898,
+    "population_year": null
   },
   {
     "id": 77205,
@@ -45,7 +60,12 @@
     "latitude": "12.34000000",
     "longitude": "-86.67528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21052193",
+    "type": "adm2",
+    "native": "La Paz Centro",
+    "timezone": "America/Managua",
+    "population": 23481,
+    "population_year": null
   },
   {
     "id": 77209,
@@ -57,7 +77,12 @@
     "latitude": "12.67692000",
     "longitude": "-86.57193000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2215577",
+    "type": "city",
+    "native": "Larreynaga",
+    "timezone": "America/Managua",
+    "population": 7703,
+    "population_year": null
   },
   {
     "id": 77212,
@@ -69,7 +94,12 @@
     "latitude": "12.43787000",
     "longitude": "-86.87804000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q208151",
+    "type": "adm1",
+    "native": "León",
+    "timezone": "America/Managua",
+    "population": 144538,
+    "population_year": null
   },
   {
     "id": 165330,
@@ -81,7 +111,12 @@
     "latitude": "12.59374000",
     "longitude": "-86.67952000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22696401",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Managua",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 77239,
@@ -93,7 +128,12 @@
     "latitude": "12.26593000",
     "longitude": "-86.56474000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2604568",
+    "type": "adm2",
+    "native": "Nagarote",
+    "timezone": "America/Managua",
+    "population": 26270,
+    "population_year": null
   },
   {
     "id": 77252,
@@ -105,7 +145,12 @@
     "latitude": "12.50683000",
     "longitude": "-86.90292000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q739841",
+    "type": "adm2",
+    "native": "Quezalguacue",
+    "timezone": "America/Managua",
+    "population": 1974,
+    "population_year": null
   },
   {
     "id": 77274,
@@ -117,7 +162,12 @@
     "latitude": "12.80116000",
     "longitude": "-86.36994000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2215566",
+    "type": "adm2",
+    "native": "Santa Rosa del Peñón",
+    "timezone": "America/Managua",
+    "population": 2913,
+    "population_year": null
   },
   {
     "id": 77282,
@@ -129,6 +179,11 @@
     "latitude": "12.52200000",
     "longitude": "-86.85938000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1647817",
+    "type": "adm2",
+    "native": "Telica",
+    "timezone": "America/Managua",
+    "population": 8776,
+    "population_year": null
   }
 ]

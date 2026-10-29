@@ -9,7 +9,12 @@
     "latitude": "9.62232000",
     "longitude": "-68.91805000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2981942",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Caracas",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 165793,
@@ -21,7 +26,12 @@
     "latitude": "8.96225000",
     "longitude": "-68.29511000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1323899",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Caracas",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 165785,
@@ -33,7 +43,12 @@
     "latitude": "9.63926000",
     "longitude": "-68.12917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q964729",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Caracas",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130141,
@@ -45,7 +60,12 @@
     "latitude": "9.66124000",
     "longitude": "-68.58268000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q995718",
+    "type": "adm1",
+    "native": "San Carlos",
+    "timezone": "America/Caracas",
+    "population": 120000,
+    "population_year": null
   },
   {
     "id": 165748,
@@ -57,7 +77,12 @@
     "latitude": "9.69894000",
     "longitude": "-68.43273000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3529140",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Caracas",
+    "population": 38172,
+    "population_year": null
   },
   {
     "id": 130157,
@@ -69,6 +94,11 @@
     "latitude": "9.91861000",
     "longitude": "-68.30472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1517139",
+    "type": "adm2",
+    "native": "Tinaquillo",
+    "timezone": "America/Caracas",
+    "population": 110000,
+    "population_year": null
   }
 ]

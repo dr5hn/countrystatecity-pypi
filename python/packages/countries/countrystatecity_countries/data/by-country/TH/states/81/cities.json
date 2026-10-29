@@ -9,7 +9,12 @@
     "latitude": "7.71267000",
     "longitude": "99.07813000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475797",
+    "type": "district",
+    "native": "อำเภอเกาะลันตา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106381,
@@ -21,7 +26,12 @@
     "latitude": "8.37803000",
     "longitude": "98.72117000",
     "county_id": 6181,
-    "wikiDataId": null
+    "wikiDataId": "Q18711717",
+    "type": "town",
+    "native": "อ่าวลึกใต้",
+    "timezone": "Asia/Bangkok",
+    "population": 9628,
+    "population_year": null
   },
   {
     "id": 106383,
@@ -33,10 +43,15 @@
     "latitude": "8.04580000",
     "longitude": "98.81035000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "บ้านอ่าวนาง",
+    "timezone": "Asia/Bangkok",
+    "population": 8000,
+    "population_year": null
   },
   {
-    "id": 105396,
+    "id": 167016,
     "name": "Khao Phanom",
     "state_id": 3478,
     "state_code": "81",
@@ -45,7 +60,12 @@
     "latitude": "8.26549000",
     "longitude": "99.05124000",
     "county_id": 6178,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "เขาพนม",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105411,
@@ -57,7 +77,12 @@
     "latitude": "7.91470000",
     "longitude": "99.19935000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475709",
+    "type": "district",
+    "native": "อำเภอคลองท่อม",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106534,
@@ -69,7 +94,12 @@
     "latitude": "7.53027778",
     "longitude": "99.09419444",
     "county_id": 6179,
-    "wikiDataId": null
+    "wikiDataId": "Q28731220",
+    "type": "town",
+    "native": "เกาะลันตาใหญ่",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106540,
@@ -81,10 +111,15 @@
     "latitude": "8.07257000",
     "longitude": "98.91052000",
     "county_id": 6177,
-    "wikiDataId": null
+    "wikiDataId": "Q1000353",
+    "type": "city",
+    "native": "กระบี่",
+    "timezone": "Asia/Bangkok",
+    "population": 30499,
+    "population_year": null
   },
   {
-    "id": 105477,
+    "id": 167055,
     "name": "Lam Thap",
     "state_id": 3478,
     "state_code": "81",
@@ -93,7 +128,12 @@
     "latitude": "8.07228000",
     "longitude": "99.29225000",
     "county_id": 6183,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ลำทับ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106605,
@@ -105,7 +145,12 @@
     "latitude": "8.07143000",
     "longitude": "98.99933000",
     "county_id": 6184,
-    "wikiDataId": null
+    "wikiDataId": "Q28731238",
+    "type": "town",
+    "native": "เหนือคลอง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105789,
@@ -117,7 +162,12 @@
     "latitude": "8.54087000",
     "longitude": "98.83671000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476510",
+    "type": "district",
+    "native": "อำเภอปลายพระยา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106676,
@@ -129,6 +179,11 @@
     "latitude": "7.61342000",
     "longitude": "99.03651000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "ศาลาด่าน",
+    "timezone": "Asia/Bangkok",
+    "population": 7946,
+    "population_year": null
   }
 ]

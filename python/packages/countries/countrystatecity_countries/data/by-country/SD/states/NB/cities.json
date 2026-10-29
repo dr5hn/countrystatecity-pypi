@@ -9,7 +9,12 @@
     "latitude": "11.78910000",
     "longitude": "34.35920000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q311307",
+    "type": "adm1",
+    "native": "الدمازين",
+    "timezone": "Africa/Khartoum",
+    "population": 186051,
+    "population_year": null
   },
   {
     "id": 102934,
@@ -21,7 +26,12 @@
     "latitude": "11.86590000",
     "longitude": "34.38690000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3055933",
+    "type": "city",
+    "native": "أر روسيريس",
+    "timezone": "Africa/Khartoum",
+    "population": 58712,
+    "population_year": null
   },
   {
     "id": 102961,
@@ -33,6 +43,11 @@
     "latitude": "10.55000000",
     "longitude": "34.28333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2329622",
+    "type": "city",
+    "native": "كورموك",
+    "timezone": "Africa/Khartoum",
+    "population": 10375,
+    "population_year": null
   }
 ]

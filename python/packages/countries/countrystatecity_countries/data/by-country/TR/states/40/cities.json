@@ -9,7 +9,12 @@
     "latitude": "39.63184000",
     "longitude": "34.08468000",
     "county_id": 7572,
-    "wikiDataId": null
+    "wikiDataId": "Q13428856",
+    "type": "municipality",
+    "native": "Akçakent",
+    "timezone": "Europe/Istanbul",
+    "population": 757,
+    "population_year": 2025
   },
   {
     "id": 107089,
@@ -21,7 +26,12 @@
     "latitude": "39.45005000",
     "longitude": "33.96484000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q556388",
+    "type": "adm2",
+    "native": "Akpınar",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 107390,
@@ -33,7 +43,12 @@
     "latitude": "39.27979000",
     "longitude": "34.26657000",
     "county_id": 7593,
-    "wikiDataId": null
+    "wikiDataId": "Q4310459",
+    "type": "municipality",
+    "native": "Boztepe",
+    "timezone": "Europe/Istanbul",
+    "population": 2777,
+    "population_year": 2025
   },
   {
     "id": 108838,
@@ -45,7 +60,12 @@
     "latitude": "39.60694000",
     "longitude": "34.40861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1813015",
+    "type": "adm2",
+    "native": "Çiçekdağı",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 107879,
@@ -57,7 +77,12 @@
     "latitude": "39.35750000",
     "longitude": "33.72389000",
     "county_id": 7147,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Kaman",
+    "timezone": "Europe/Istanbul",
+    "population": 21302,
+    "population_year": 2025
   },
   {
     "id": 108110,
@@ -68,8 +93,13 @@
     "country_code": "TR",
     "latitude": "39.14583000",
     "longitude": "34.16389000",
-    "county_id": 7189,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q208005",
+    "type": "city",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 151499,
+    "population_year": 2025
   },
   {
     "id": 108215,
@@ -80,7 +110,12 @@
     "country_code": "TR",
     "latitude": "39.06147000",
     "longitude": "34.38286000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7240,
+    "wikiDataId": "Q1051730",
+    "type": "municipality",
+    "native": "Mucur",
+    "timezone": "Europe/Istanbul",
+    "population": 18763,
+    "population_year": null
   }
 ]

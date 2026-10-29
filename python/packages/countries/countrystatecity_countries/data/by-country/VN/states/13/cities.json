@@ -9,7 +9,12 @@
     "latitude": "21.01004000",
     "longitude": "107.27345000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1031051",
+    "type": "adm2",
+    "native": "Cẩm Phả",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 156000,
+    "population_year": null
   },
   {
     "id": 130193,
@@ -21,7 +26,29 @@
     "latitude": "21.01667000",
     "longitude": "107.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31909451",
+    "type": "city",
+    "native": "Cẩm Phả Mines",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 135477,
+    "population_year": null
+  },
+  {
+    "id": 167956,
+    "name": "Cô Tô",
+    "state_id": 3814,
+    "state_code": "13",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "20.97268000",
+    "longitude": "107.76578000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Cô Tô",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130561,
@@ -33,7 +60,12 @@
     "latitude": "20.95045000",
     "longitude": "107.07336000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q36077",
+    "type": "adm1",
+    "native": "Hạ Long",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 270054,
+    "population_year": null
   },
   {
     "id": 130214,
@@ -45,7 +77,12 @@
     "latitude": "21.29503000",
     "longitude": "107.19298000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Ba Chẽ",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130222,
@@ -57,19 +94,12 @@
     "latitude": "21.54389000",
     "longitude": "107.44047000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130268,
-    "name": "Huyện Cô Tô",
-    "state_id": 3814,
-    "state_code": "13",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "21.05418000",
-    "longitude": "107.80698000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q800057",
+    "type": "city",
+    "native": "Huyện Bình Liêu",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130541,
@@ -81,7 +111,12 @@
     "latitude": "21.39689000",
     "longitude": "107.56175000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Đầm Hà",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130534,
@@ -93,19 +128,12 @@
     "latitude": "21.11043000",
     "longitude": "106.59662000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130314,
-    "name": "Huyện Hải Hà",
-    "state_id": 3814,
-    "state_code": "13",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "21.49537000",
-    "longitude": "107.66790000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Đông Triều",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130299,
@@ -117,7 +145,12 @@
     "latitude": "21.11888000",
     "longitude": "107.03149000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Hoành Bồ",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130458,
@@ -129,7 +162,12 @@
     "latitude": "21.37571000",
     "longitude": "107.37468000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Tiên Yên",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130494,
@@ -141,7 +179,12 @@
     "latitude": "21.04921000",
     "longitude": "107.50971000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Vân Đồn",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130573,
@@ -153,7 +196,29 @@
     "latitude": "21.52471000",
     "longitude": "107.96619000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33204",
+    "type": "adm2",
+    "native": "Móng Cái",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 108553,
+    "population_year": null
+  },
+  {
+    "id": 167985,
+    "name": "Quảng Hà",
+    "state_id": 3814,
+    "state_code": "13",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "21.45060000",
+    "longitude": "107.75592000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Quảng Hà",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130602,
@@ -165,6 +230,11 @@
     "latitude": "21.03433000",
     "longitude": "106.77049000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7897883",
+    "type": "city",
+    "native": "Thành Phố Uông Bí",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 63829,
+    "population_year": null
   }
 ]

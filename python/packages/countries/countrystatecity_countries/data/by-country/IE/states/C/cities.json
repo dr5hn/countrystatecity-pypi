@@ -9,7 +9,12 @@
     "latitude": "53.63333000",
     "longitude": "-9.23333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q805277",
+    "type": "city",
+    "native": "Ballinrobe",
+    "timezone": "Europe/Dublin",
+    "population": 2786,
+    "population_year": null
   },
   {
     "id": 57107,
@@ -21,7 +26,12 @@
     "latitude": "53.76667000",
     "longitude": "-8.76667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q427043",
+    "type": "city",
+    "native": "Ballyhaunis",
+    "timezone": "Europe/Dublin",
+    "population": 2773,
+    "population_year": null
   },
   {
     "id": 57111,
@@ -33,7 +43,12 @@
     "latitude": "54.08333000",
     "longitude": "-8.51667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1899651",
+    "type": "city",
+    "native": "Ballymote",
+    "timezone": "Europe/Dublin",
+    "population": 1549,
+    "population_year": null
   },
   {
     "id": 57187,
@@ -45,7 +60,12 @@
     "latitude": "54.18333000",
     "longitude": "-8.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2436580",
+    "type": "city",
+    "native": "Collooney",
+    "timezone": "Europe/Dublin",
+    "population": 1610,
+    "population_year": null
   },
   {
     "id": 57197,
@@ -57,7 +77,12 @@
     "latitude": "53.33333000",
     "longitude": "-9.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q169923",
+    "type": "city",
+    "native": "County Galway",
+    "timezone": "Europe/Dublin",
+    "population": 258058,
+    "population_year": null
   },
   {
     "id": 57198,
@@ -69,19 +94,12 @@
     "latitude": "54.11667000",
     "longitude": "-8.00000000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 57267,
-    "name": "Inishcrone",
-    "state_id": 1087,
-    "state_code": "C",
-    "country_id": 105,
-    "country_code": "IE",
-    "latitude": "54.21591000",
-    "longitude": "-9.09197000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q107397",
+    "type": "city",
+    "native": "County Leitrim",
+    "timezone": "Europe/Dublin",
+    "population": 31798,
+    "population_year": null
   },
   {
     "id": 57321,
@@ -93,7 +111,12 @@
     "latitude": "53.90000000",
     "longitude": "-9.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q178626",
+    "type": "county",
+    "native": "Mayo",
+    "timezone": "Europe/Dublin",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 57357,
@@ -105,7 +128,12 @@
     "latitude": "53.41667000",
     "longitude": "-9.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1973811",
+    "type": "city",
+    "native": "Oughterard",
+    "timezone": "Europe/Dublin",
+    "population": 1318,
+    "population_year": null
   },
   {
     "id": 57385,
@@ -117,7 +145,12 @@
     "latitude": "53.75000000",
     "longitude": "-8.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q179437",
+    "type": "city",
+    "native": "Roscommon",
+    "timezone": "Europe/Dublin",
+    "population": 5693,
+    "population_year": null
   },
   {
     "id": 57400,
@@ -129,7 +162,12 @@
     "latitude": "54.25000000",
     "longitude": "-8.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q179325",
+    "type": "city",
+    "native": "Sligo",
+    "timezone": "Europe/Dublin",
+    "population": 19199,
+    "population_year": null
   },
   {
     "id": 57404,
@@ -141,7 +179,12 @@
     "latitude": "54.27194000",
     "longitude": "-8.59333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q282407",
+    "type": "city",
+    "native": "Strandhill",
+    "timezone": "Europe/Dublin",
+    "population": 1753,
+    "population_year": null
   },
   {
     "id": 57406,
@@ -153,18 +196,11 @@
     "latitude": "53.95000000",
     "longitude": "-8.95000000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 57416,
-    "name": "Tobercurry",
-    "state_id": 1087,
-    "state_code": "C",
-    "country_id": 105,
-    "country_code": "IE",
-    "latitude": "54.05000000",
-    "longitude": "-8.73333000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2038011",
+    "type": "city",
+    "native": "Swinford",
+    "timezone": "Europe/Dublin",
+    "population": 1502,
+    "population_year": null
   }
 ]

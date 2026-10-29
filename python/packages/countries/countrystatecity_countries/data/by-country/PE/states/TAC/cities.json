@@ -9,7 +9,12 @@
     "latitude": "-17.94167000",
     "longitude": "-70.18694000",
     "county_id": 8356,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Calana",
+    "timezone": "America/Lima",
+    "population": 875,
+    "population_year": null
   },
   {
     "id": 80590,
@@ -21,7 +26,12 @@
     "latitude": "-17.26778000",
     "longitude": "-70.24944000",
     "county_id": 8357,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Candarave",
+    "timezone": "America/Lima",
+    "population": 3415,
+    "population_year": null
   },
   {
     "id": 80618,
@@ -33,7 +43,12 @@
     "latitude": "-17.49790000",
     "longitude": "-70.21714000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q26764442",
+    "type": "city",
+    "native": "Chippaya",
+    "timezone": "America/Lima",
+    "population": 1932,
+    "population_year": null
   },
   {
     "id": 80626,
@@ -45,7 +60,12 @@
     "latitude": "-17.28891000",
     "longitude": "-70.04363000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3344173",
+    "type": "city",
+    "native": "Chuquitira",
+    "timezone": "America/Lima",
+    "population": 4220,
+    "population_year": null
   },
   {
     "id": 80668,
@@ -57,7 +77,12 @@
     "latitude": "-17.42083000",
     "longitude": "-70.51333000",
     "county_id": 8358,
-    "wikiDataId": null
+    "wikiDataId": "Q3824525",
+    "type": "municipality",
+    "native": "Ilabaya",
+    "timezone": "America/Lima",
+    "population": 9492,
+    "population_year": null
   },
   {
     "id": 80680,
@@ -69,7 +94,12 @@
     "latitude": "-17.57919000",
     "longitude": "-70.73083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q589047",
+    "type": "city",
+    "native": "Jorge Basadre",
+    "timezone": "America/Lima",
+    "population": 10773,
+    "population_year": null
   },
   {
     "id": 80901,
@@ -81,7 +111,12 @@
     "latitude": "-17.41667000",
     "longitude": "-70.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1410654",
+    "type": "adm3",
+    "native": "Provincia de Tarata",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80921,
@@ -93,7 +128,12 @@
     "latitude": "-17.15778000",
     "longitude": "-70.35222000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3504032",
+    "type": "city",
+    "native": "Pujocucho",
+    "timezone": "America/Lima",
+    "population": 4120,
+    "population_year": null
   },
   {
     "id": 80929,
@@ -105,19 +145,12 @@
     "latitude": "-17.31778000",
     "longitude": "-70.25806000",
     "county_id": 8357,
-    "wikiDataId": null
-  },
-  {
-    "id": 80897,
-    "name": "Tacna",
-    "state_id": 3696,
-    "state_code": "TAC",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-18.01000000",
-    "longitude": "-70.24777778",
-    "county_id": 8356,
-    "wikiDataId": null
+    "wikiDataId": "Q3824646",
+    "type": "municipality",
+    "native": "Quilahuani",
+    "timezone": "America/Lima",
+    "population": 3176,
+    "population_year": null
   },
   {
     "id": 80982,
@@ -129,7 +162,29 @@
     "latitude": "-18.01465000",
     "longitude": "-70.25362000",
     "county_id": 8356,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tacna",
+    "timezone": "America/Lima",
+    "population": 306363,
+    "population_year": null
+  },
+  {
+    "id": 166910,
+    "name": "Tacna",
+    "state_id": 3696,
+    "state_code": "TAC",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-18.01465000",
+    "longitude": "-70.25362000",
+    "county_id": 8356,
+    "wikiDataId": "Q272795",
+    "type": "city",
+    "native": "Tacna",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80990,
@@ -141,7 +196,12 @@
     "latitude": "-17.47444000",
     "longitude": "-70.03278000",
     "county_id": 8359,
-    "wikiDataId": null
+    "wikiDataId": "Q2588449",
+    "type": "municipality",
+    "native": "Tarata",
+    "timezone": "America/Lima",
+    "population": 3052,
+    "population_year": null
   },
   {
     "id": 80997,
@@ -153,6 +213,11 @@
     "latitude": "-17.40620000",
     "longitude": "-70.36464000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3344048",
+    "type": "adm3",
+    "native": "Totoral",
+    "timezone": "America/Lima",
+    "population": 1976,
+    "population_year": null
   }
 ]

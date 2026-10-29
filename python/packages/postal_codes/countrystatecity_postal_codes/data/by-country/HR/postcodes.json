@@ -1,84 +1,12 @@
 [
   {
-    "code": "10000",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Zagreb",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10010",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Zagreb-Sloboština",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10020",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Zagreb-Novi Zagreb",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10040",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Zagreb-Dubrava",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10090",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Zagreb-Susedgrad",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10110",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Zagreb-Trešnjevka",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
     "code": "10250",
     "countryCode": "HR",
-    "stateCode": "01",
+    "stateCode": "21",
     "localityName": "Lučko",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10251",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Hrvatski Leskovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10253",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Donji Dragonožec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.7611,
+    "longitude": 15.8703
   },
   {
     "code": "10255",
@@ -86,26 +14,26 @@
     "stateCode": "01",
     "localityName": "Gornji Stupnik",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.7526,
+    "longitude": 15.8431
   },
   {
     "code": "10257",
     "countryCode": "HR",
-    "stateCode": "01",
+    "stateCode": "21",
     "localityName": "Brezovica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.7292,
+    "longitude": 15.9107
   },
   {
     "code": "10290",
     "countryCode": "HR",
-    "stateCode": "01",
+    "stateCode": "21",
     "localityName": "Zaprešić",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.9097,
+    "longitude": 15.7778
   },
   {
     "code": "10291",
@@ -113,8 +41,8 @@
     "stateCode": "01",
     "localityName": "Prigorje Brdovečko",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.8794,
+    "longitude": 15.7381
   },
   {
     "code": "10292",
@@ -122,26 +50,8 @@
     "stateCode": "01",
     "localityName": "Šenkovec",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10293",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Dubravica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10294",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Donja Pušća",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.8889,
+    "longitude": 15.7003
   },
   {
     "code": "10295",
@@ -149,17 +59,8 @@
     "stateCode": "01",
     "localityName": "Kupljenovo",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10296",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Luka",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.9292,
+    "longitude": 15.8059
   },
   {
     "code": "10297",
@@ -167,8 +68,8 @@
     "stateCode": "01",
     "localityName": "Jakovlje",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.9361,
+    "longitude": 15.8556
   },
   {
     "code": "10298",
@@ -176,17 +77,8 @@
     "stateCode": "01",
     "localityName": "Donja Bistra",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10299",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Marija Gorica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.9078,
+    "longitude": 15.8544
   },
   {
     "code": "10310",
@@ -194,44 +86,8 @@
     "stateCode": "01",
     "localityName": "Ivanić-Grad",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10311",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Posavski Bregi",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10312",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Kloštar Ivanić",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10313",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Graberje Ivaničko",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10314",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Križ",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.7083,
+    "longitude": 16.3969
   },
   {
     "code": "10315",
@@ -239,17 +95,8 @@
     "stateCode": "01",
     "localityName": "Novoselec",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10316",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Lijevi Dubrovčak",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.6525,
+    "longitude": 16.5364
   },
   {
     "code": "10340",
@@ -257,17 +104,8 @@
     "stateCode": "01",
     "localityName": "Vrbovec",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10341",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Lonjica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.8833,
+    "longitude": 16.4217
   },
   {
     "code": "10342",
@@ -275,89 +113,35 @@
     "stateCode": "01",
     "localityName": "Dubrava",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10343",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Nova Kapela",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10344",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Farkaševac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10345",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Gradec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10346",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Preseka",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10347",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Rakovec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.8378,
+    "longitude": 16.5375
   },
   {
     "code": "10360",
     "countryCode": "HR",
-    "stateCode": "01",
+    "stateCode": "21",
     "localityName": "Sesvete",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10361",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Sesvete-Kraljevec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.8311,
+    "longitude": 16.1164
   },
   {
     "code": "10362",
     "countryCode": "HR",
-    "stateCode": "01",
+    "stateCode": "21",
     "localityName": "Kašina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.9113,
+    "longitude": 16.1244
   },
   {
     "code": "10363",
     "countryCode": "HR",
-    "stateCode": "01",
+    "stateCode": "21",
     "localityName": "Belovar",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.8834,
+    "longitude": 16.1755
   },
   {
     "code": "10370",
@@ -365,26 +149,8 @@
     "stateCode": "01",
     "localityName": "Dugo Selo",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10372",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Oborovo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10373",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Ivanja Reka",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.8061,
+    "longitude": 16.2444
   },
   {
     "code": "10380",
@@ -392,44 +158,8 @@
     "stateCode": "01",
     "localityName": "Sveti Ivan Zelina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10381",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Bedenica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10382",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Donja Zelina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10383",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Komin",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10408",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Velika Mlaka",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.9561,
+    "longitude": 16.2461
   },
   {
     "code": "10410",
@@ -437,26 +167,8 @@
     "stateCode": "01",
     "localityName": "Velika Gorica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10411",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Orle",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10412",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Donja Lomnica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.7125,
+    "longitude": 16.0756
   },
   {
     "code": "10413",
@@ -464,8 +176,8 @@
     "stateCode": "01",
     "localityName": "Kravarsko",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5833,
+    "longitude": 16.05
   },
   {
     "code": "10414",
@@ -473,44 +185,8 @@
     "stateCode": "01",
     "localityName": "Pokupsko",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10415",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Novo Čiče",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10417",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Buševec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10418",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Dubranec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10419",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Vukovina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4872,
+    "longitude": 15.9933
   },
   {
     "code": "10430",
@@ -518,35 +194,8 @@
     "stateCode": "01",
     "localityName": "Samobor",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10431",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Sveta Nedjelja",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10432",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Bregana",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10434",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Strmec Samoborski",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.8031,
+    "longitude": 15.7181
   },
   {
     "code": "10435",
@@ -554,8 +203,8 @@
     "stateCode": "01",
     "localityName": "Sveti Martin pod Okićem",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.75,
+    "longitude": 15.75
   },
   {
     "code": "10436",
@@ -563,17 +212,8 @@
     "stateCode": "01",
     "localityName": "Rakov Potok",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10437",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Bestovje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.7381,
+    "longitude": 15.7972
   },
   {
     "code": "10450",
@@ -581,8 +221,8 @@
     "stateCode": "01",
     "localityName": "Jastrebarsko",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.6683,
+    "longitude": 15.6486
   },
   {
     "code": "10451",
@@ -590,17 +230,8 @@
     "stateCode": "01",
     "localityName": "Pisarovina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10453",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Gorica Svetojanska",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5864,
+    "longitude": 15.8592
   },
   {
     "code": "10454",
@@ -608,35 +239,8 @@
     "stateCode": "01",
     "localityName": "Krašić",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10455",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Kostanjevac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10456",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Kalje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "10457",
-    "countryCode": "HR",
-    "stateCode": "01",
-    "localityName": "Sošice",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.6558,
+    "longitude": 15.5178
   },
   {
     "code": "20000",
@@ -644,17 +248,8 @@
     "stateCode": "19",
     "localityName": "Dubrovnik",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20205",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Topolo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.6481,
+    "longitude": 18.0922
   },
   {
     "code": "20207",
@@ -662,8 +257,8 @@
     "stateCode": "19",
     "localityName": "Mlini",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.6231,
+    "longitude": 18.2072
   },
   {
     "code": "20210",
@@ -671,17 +266,8 @@
     "stateCode": "19",
     "localityName": "Cavtat",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20213",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Čilipi",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.5811,
+    "longitude": 18.2181
   },
   {
     "code": "20215",
@@ -689,35 +275,8 @@
     "stateCode": "19",
     "localityName": "Gruda",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20216",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Dubravka",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20217",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Pridvorje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20218",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Pločice",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.5178,
+    "longitude": 18.3744
   },
   {
     "code": "20221",
@@ -725,8 +284,8 @@
     "stateCode": "19",
     "localityName": "Koločep",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.6761,
+    "longitude": 18.0097
   },
   {
     "code": "20222",
@@ -734,26 +293,8 @@
     "stateCode": "19",
     "localityName": "Lopud",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20223",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Šipanjska Luka",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20224",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Maranovići",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.6928,
+    "longitude": 17.9469
   },
   {
     "code": "20225",
@@ -761,8 +302,8 @@
     "stateCode": "19",
     "localityName": "Babino Polje",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.7333,
+    "longitude": 17.5619
   },
   {
     "code": "20226",
@@ -770,8 +311,8 @@
     "stateCode": "19",
     "localityName": "Goveđari",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.7833,
+    "longitude": 17.3667
   },
   {
     "code": "20230",
@@ -779,17 +320,8 @@
     "stateCode": "19",
     "localityName": "Ston",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20231",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Doli",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.8386,
+    "longitude": 17.6964
   },
   {
     "code": "20232",
@@ -797,35 +329,8 @@
     "stateCode": "19",
     "localityName": "Slano",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20233",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Trsteno",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20234",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Orašac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20235",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Zaton Veliki",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.7861,
+    "longitude": 17.8919
   },
   {
     "code": "20236",
@@ -833,8 +338,8 @@
     "stateCode": "19",
     "localityName": "Mokošica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.6756,
+    "longitude": 18.0903
   },
   {
     "code": "20240",
@@ -842,26 +347,8 @@
     "stateCode": "19",
     "localityName": "Trpanj",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20242",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Oskorušno",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20243",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Kuna",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.0075,
+    "longitude": 17.275
   },
   {
     "code": "20244",
@@ -869,17 +356,8 @@
     "stateCode": "19",
     "localityName": "Potomje",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20245",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Trstenik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.9425,
+    "longitude": 17.3383
   },
   {
     "code": "20246",
@@ -887,26 +365,8 @@
     "stateCode": "19",
     "localityName": "Janjina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20247",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Žuljana",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20248",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Putniković",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.9253,
+    "longitude": 17.4283
   },
   {
     "code": "20250",
@@ -914,8 +374,8 @@
     "stateCode": "19",
     "localityName": "Orebić",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.9856,
+    "longitude": 17.1747
   },
   {
     "code": "20260",
@@ -923,44 +383,8 @@
     "stateCode": "19",
     "localityName": "Korčula",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20263",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Lumbarda",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20264",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Račišće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20267",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Kućište",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20269",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Lovište",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.9604,
+    "longitude": 17.1352
   },
   {
     "code": "20270",
@@ -968,8 +392,8 @@
     "stateCode": "19",
     "localityName": "Vela Luka",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.9633,
+    "longitude": 16.7225
   },
   {
     "code": "20271",
@@ -977,26 +401,8 @@
     "stateCode": "19",
     "localityName": "Blato",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20272",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Smokvica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20273",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Čara",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.9408,
+    "longitude": 16.7917
   },
   {
     "code": "20274",
@@ -1004,26 +410,8 @@
     "stateCode": "19",
     "localityName": "Pupnat",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20275",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Žrnovo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20278",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Nova Sela",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.9536,
+    "longitude": 17.0369
   },
   {
     "code": "20290",
@@ -1031,8 +419,8 @@
     "stateCode": "19",
     "localityName": "Lastovo",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 42.7681,
+    "longitude": 16.9008
   },
   {
     "code": "20340",
@@ -1040,53 +428,8 @@
     "stateCode": "19",
     "localityName": "Ploče",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20341",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Kula Norinska",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20342",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Otrić Seoci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20343",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Rogotin",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20344",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Komin (Dalma)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20345",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Staševica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.0561,
+    "longitude": 17.4328
   },
   {
     "code": "20350",
@@ -1094,26 +437,8 @@
     "stateCode": "19",
     "localityName": "Metković",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20352",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Vid",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20353",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Mlinište",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.0542,
+    "longitude": 17.6483
   },
   {
     "code": "20355",
@@ -1121,26 +446,8 @@
     "stateCode": "19",
     "localityName": "Opuzen",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20356",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Klek",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "20357",
-    "countryCode": "HR",
-    "stateCode": "19",
-    "localityName": "Blace",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.0153,
+    "longitude": 17.5656
   },
   {
     "code": "21000",
@@ -1148,26 +455,8 @@
     "stateCode": "17",
     "localityName": "Split",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21201",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Prgomet",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21202",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Lećevica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.5089,
+    "longitude": 16.4392
   },
   {
     "code": "21203",
@@ -1175,8 +464,8 @@
     "stateCode": "17",
     "localityName": "Donji Muć",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.6944,
+    "longitude": 16.4622
   },
   {
     "code": "21204",
@@ -1184,53 +473,8 @@
     "stateCode": "17",
     "localityName": "Dugopolje",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21205",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Donji Dolac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21206",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Donje Ogorje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21207",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Kostanje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21208",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Kučiće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21209",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Mravince",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.5806,
+    "longitude": 16.6028
   },
   {
     "code": "21210",
@@ -1238,8 +482,8 @@
     "stateCode": "17",
     "localityName": "Solin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.5432,
+    "longitude": 16.4931
   },
   {
     "code": "21212",
@@ -1247,17 +491,8 @@
     "stateCode": "17",
     "localityName": "Kaštel Sućurac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21213",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Kaštel Gomilica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.5503,
+    "longitude": 16.4264
   },
   {
     "code": "21214",
@@ -1265,26 +500,8 @@
     "stateCode": "17",
     "localityName": "Kaštel Kambelovac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21215",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Kaštel Lukšić",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21216",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Kaštel Stari",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.55,
+    "longitude": 16.3833
   },
   {
     "code": "21217",
@@ -1292,8 +509,8 @@
     "stateCode": "17",
     "localityName": "Kaštel Štafilić",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.55,
+    "longitude": 16.3333
   },
   {
     "code": "21220",
@@ -1301,8 +518,8 @@
     "stateCode": "17",
     "localityName": "Trogir",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.5125,
+    "longitude": 16.2517
   },
   {
     "code": "21222",
@@ -1310,26 +527,8 @@
     "stateCode": "17",
     "localityName": "Marina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21223",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Okrug Gornji",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21224",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Slatine",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.5147,
+    "longitude": 16.1064
   },
   {
     "code": "21225",
@@ -1337,44 +536,8 @@
     "stateCode": "17",
     "localityName": "Drvenik Veliki",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21226",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Vinišće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21227",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Primorski Dolac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21228",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Blizna Donja",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21229",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Crivac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.45,
+    "longitude": 16.15
   },
   {
     "code": "21230",
@@ -1382,26 +545,8 @@
     "stateCode": "17",
     "localityName": "Sinj",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21231",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Klis",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21232",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Dicmo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.7036,
+    "longitude": 16.6394
   },
   {
     "code": "21233",
@@ -1409,8 +554,8 @@
     "stateCode": "17",
     "localityName": "Hrvace",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.7633,
+    "longitude": 16.615
   },
   {
     "code": "21236",
@@ -1418,17 +563,17 @@
     "stateCode": "17",
     "localityName": "Vrlika",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.9083,
+    "longitude": 16.3983
   },
   {
     "code": "21238",
     "countryCode": "HR",
     "stateCode": "17",
-    "localityName": "Otok (Dalmacija)",
+    "localityName": "Otok",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.6864,
+    "longitude": 16.7333
   },
   {
     "code": "21240",
@@ -1436,71 +581,8 @@
     "stateCode": "17",
     "localityName": "Trilj",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21241",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Obrovac Sinjski",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21242",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Grab",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21243",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Ugljane",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21244",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Cista Velika",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21245",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Tijarica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21246",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Aržano",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21247",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Neorić",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.6183,
+    "longitude": 16.7242
   },
   {
     "code": "21250",
@@ -1508,53 +590,8 @@
     "stateCode": "17",
     "localityName": "Šestanovac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21251",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Žrnovnica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21252",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Tugare",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21253",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Gata",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21254",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Blato na Cetini",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21255",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Zadvarje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.4544,
+    "longitude": 16.9114
   },
   {
     "code": "21256",
@@ -1562,17 +599,8 @@
     "stateCode": "17",
     "localityName": "Cista Provo",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21257",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Lovreć",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.5033,
+    "longitude": 16.9478
   },
   {
     "code": "21260",
@@ -1580,71 +608,8 @@
     "stateCode": "17",
     "localityName": "Imotski",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21261",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Runović",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21262",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Kamenmost",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21263",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Krivodol",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21264",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Donji Proložac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21265",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Studenci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21266",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Zmijavci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21267",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Ričice",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.4467,
+    "longitude": 17.2167
   },
   {
     "code": "21270",
@@ -1652,44 +617,8 @@
     "stateCode": "17",
     "localityName": "Zagvozd",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21271",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Grabovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21272",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Slivno",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21273",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Župa",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21275",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Dragljane",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.3975,
+    "longitude": 17.0569
   },
   {
     "code": "21276",
@@ -1697,17 +626,8 @@
     "stateCode": "17",
     "localityName": "Vrgorac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21277",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Veliki Prolog",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.2058,
+    "longitude": 17.3711
   },
   {
     "code": "21292",
@@ -1715,8 +635,8 @@
     "stateCode": "17",
     "localityName": "Srinjine",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.4833,
+    "longitude": 16.6
   },
   {
     "code": "21300",
@@ -1724,8 +644,8 @@
     "stateCode": "17",
     "localityName": "Makarska",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.2969,
+    "longitude": 17.0178
   },
   {
     "code": "21310",
@@ -1733,8 +653,8 @@
     "stateCode": "17",
     "localityName": "Omiš",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.4447,
+    "longitude": 16.6886
   },
   {
     "code": "21311",
@@ -1742,26 +662,8 @@
     "stateCode": "17",
     "localityName": "Stobreč",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21312",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Podstrana",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21314",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Jesenice",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.5025,
+    "longitude": 16.5222
   },
   {
     "code": "21315",
@@ -1769,26 +671,8 @@
     "stateCode": "17",
     "localityName": "Dugi Rat",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21317",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Lokva Rogoznica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21318",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Mimice",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.4461,
+    "longitude": 16.6397
   },
   {
     "code": "21320",
@@ -1796,35 +680,8 @@
     "stateCode": "17",
     "localityName": "Baška Voda",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21322",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Brela",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21323",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Promajna",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21325",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Tučepi",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.3569,
+    "longitude": 16.9503
   },
   {
     "code": "21327",
@@ -1832,26 +689,8 @@
     "stateCode": "17",
     "localityName": "Podgora",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21328",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Drašnice",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21329",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Igrane",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.2433,
+    "longitude": 17.0772
   },
   {
     "code": "21330",
@@ -1859,35 +698,8 @@
     "stateCode": "17",
     "localityName": "Gradac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21333",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Drvenik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21334",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Zaostrog",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21335",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Podaca",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.1058,
+    "longitude": 17.3417
   },
   {
     "code": "21400",
@@ -1895,26 +707,8 @@
     "stateCode": "17",
     "localityName": "Supetar",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21403",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Sutivan",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21404",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Ložišća",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.3842,
+    "longitude": 16.5508
   },
   {
     "code": "21405",
@@ -1922,8 +716,8 @@
     "stateCode": "17",
     "localityName": "Milna",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.3267,
+    "longitude": 16.4508
   },
   {
     "code": "21410",
@@ -1931,8 +725,8 @@
     "stateCode": "17",
     "localityName": "Postira",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.3755,
+    "longitude": 16.6309
   },
   {
     "code": "21412",
@@ -1940,17 +734,8 @@
     "stateCode": "17",
     "localityName": "Pučišća",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21413",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Povlja",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.3478,
+    "longitude": 16.7339
   },
   {
     "code": "21420",
@@ -1958,26 +743,8 @@
     "stateCode": "17",
     "localityName": "Bol",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21423",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Nerežišća",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21424",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Pražnica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.2619,
+    "longitude": 16.655
   },
   {
     "code": "21425",
@@ -1985,8 +752,8 @@
     "stateCode": "17",
     "localityName": "Selca",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.2972,
+    "longitude": 16.8508
   },
   {
     "code": "21430",
@@ -1994,17 +761,8 @@
     "stateCode": "17",
     "localityName": "Grohote",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21432",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Stomorska",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.3917,
+    "longitude": 16.2872
   },
   {
     "code": "21450",
@@ -2012,17 +770,8 @@
     "stateCode": "17",
     "localityName": "Hvar",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21454",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Brusje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.1725,
+    "longitude": 16.4428
   },
   {
     "code": "21460",
@@ -2030,26 +779,8 @@
     "stateCode": "17",
     "localityName": "Stari Grad",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21462",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Vrbanj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21463",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Vrboska",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.173,
+    "longitude": 16.6249
   },
   {
     "code": "21465",
@@ -2057,26 +788,8 @@
     "stateCode": "17",
     "localityName": "Jelsa",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21466",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Zastražišće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21467",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Gdinj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.1614,
+    "longitude": 16.6931
   },
   {
     "code": "21469",
@@ -2084,8 +797,8 @@
     "stateCode": "17",
     "localityName": "Sućuraj",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.1253,
+    "longitude": 17.1861
   },
   {
     "code": "21480",
@@ -2093,17 +806,8 @@
     "stateCode": "17",
     "localityName": "Vis",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "21483",
-    "countryCode": "HR",
-    "stateCode": "17",
-    "localityName": "Podšpilje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.0619,
+    "longitude": 16.1831
   },
   {
     "code": "21485",
@@ -2111,8 +815,8 @@
     "stateCode": "17",
     "localityName": "Komiža",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.0431,
+    "longitude": 16.0931
   },
   {
     "code": "22000",
@@ -2120,17 +824,8 @@
     "stateCode": "15",
     "localityName": "Šibenik",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22030",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Šibenik-Zablaće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.7272,
+    "longitude": 15.9058
   },
   {
     "code": "22202",
@@ -2138,44 +833,8 @@
     "stateCode": "15",
     "localityName": "Primošten",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22203",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Rogoznica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22204",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Široke",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22205",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Perković",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22206",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Boraja",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.5863,
+    "longitude": 15.923
   },
   {
     "code": "22211",
@@ -2183,17 +842,8 @@
     "stateCode": "15",
     "localityName": "Vodice",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22212",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Tribunj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.7608,
+    "longitude": 15.7828
   },
   {
     "code": "22213",
@@ -2201,35 +851,8 @@
     "stateCode": "15",
     "localityName": "Pirovac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22214",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Čista Velika",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22215",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Zaton",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22221",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Lozovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.8192,
+    "longitude": 15.6728
   },
   {
     "code": "22222",
@@ -2237,8 +860,8 @@
     "stateCode": "15",
     "localityName": "Skradin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.8203,
+    "longitude": 15.9236
   },
   {
     "code": "22232",
@@ -2246,8 +869,8 @@
     "stateCode": "15",
     "localityName": "Zlarin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.6975,
+    "longitude": 15.8361
   },
   {
     "code": "22233",
@@ -2255,8 +878,8 @@
     "stateCode": "15",
     "localityName": "Prvić Luka",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.7258,
+    "longitude": 15.8007
   },
   {
     "code": "22234",
@@ -2264,8 +887,8 @@
     "stateCode": "15",
     "localityName": "Prvić Šepurine",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.7325,
+    "longitude": 15.7887
   },
   {
     "code": "22235",
@@ -2273,8 +896,8 @@
     "stateCode": "15",
     "localityName": "Kaprije",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.6914,
+    "longitude": 15.7117
   },
   {
     "code": "22236",
@@ -2282,8 +905,8 @@
     "stateCode": "15",
     "localityName": "Žirje",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.6569,
+    "longitude": 15.6526
   },
   {
     "code": "22240",
@@ -2291,17 +914,8 @@
     "stateCode": "15",
     "localityName": "Tisno",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22242",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Jezera",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.8042,
+    "longitude": 15.6433
   },
   {
     "code": "22243",
@@ -2309,17 +923,8 @@
     "stateCode": "15",
     "localityName": "Murter",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22244",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Betina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.8204,
+    "longitude": 15.5899
   },
   {
     "code": "22300",
@@ -2327,44 +932,8 @@
     "stateCode": "15",
     "localityName": "Knin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22301",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Golubić",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22303",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Oklaj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22305",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Kistanje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22310",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Kijevo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.0406,
+    "longitude": 16.1966
   },
   {
     "code": "22320",
@@ -2372,26 +941,8 @@
     "stateCode": "15",
     "localityName": "Drniš",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22321",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Siverić",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22322",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Ružić",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.8625,
+    "longitude": 16.1556
   },
   {
     "code": "22323",
@@ -2399,17 +950,8 @@
     "stateCode": "15",
     "localityName": "Unešić",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "22324",
-    "countryCode": "HR",
-    "stateCode": "15",
-    "localityName": "Drinovci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.7406,
+    "longitude": 16.1897
   },
   {
     "code": "23000",
@@ -2417,8 +959,8 @@
     "stateCode": "13",
     "localityName": "Zadar",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.1197,
+    "longitude": 15.2422
   },
   {
     "code": "23205",
@@ -2426,8 +968,8 @@
     "stateCode": "13",
     "localityName": "Bibinje",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.0729,
+    "longitude": 15.284
   },
   {
     "code": "23206",
@@ -2435,35 +977,17 @@
     "stateCode": "13",
     "localityName": "Sukošan",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23207",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Sveti Filip i Jakov",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.05,
+    "longitude": 15.3167
   },
   {
     "code": "23210",
     "countryCode": "HR",
     "stateCode": "13",
-    "localityName": "Biograd na moru",
+    "localityName": "Biograd na Moru",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23211",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Pakoštane",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.9433,
+    "longitude": 15.4519
   },
   {
     "code": "23212",
@@ -2471,17 +995,8 @@
     "stateCode": "13",
     "localityName": "Tkon",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23222",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Zemunik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.9189,
+    "longitude": 15.42
   },
   {
     "code": "23223",
@@ -2489,26 +1004,8 @@
     "stateCode": "13",
     "localityName": "Škabrnja",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23226",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Pridraga",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23231",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Petrčane",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.0715,
+    "longitude": 15.4788
   },
   {
     "code": "23232",
@@ -2516,17 +1013,17 @@
     "stateCode": "13",
     "localityName": "Nin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.2414,
+    "longitude": 15.1783
   },
   {
     "code": "23233",
     "countryCode": "HR",
     "stateCode": "13",
-    "localityName": "Privlaka (Dalmacija)",
+    "localityName": "Privlaka",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.2667,
+    "longitude": 15.1333
   },
   {
     "code": "23234",
@@ -2534,8 +1031,8 @@
     "stateCode": "13",
     "localityName": "Vir",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.3031,
+    "longitude": 15.0853
   },
   {
     "code": "23235",
@@ -2543,8 +1040,8 @@
     "stateCode": "13",
     "localityName": "Vrsi",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.2647,
+    "longitude": 15.2325
   },
   {
     "code": "23241",
@@ -2552,8 +1049,8 @@
     "stateCode": "13",
     "localityName": "Poličnik",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.1781,
+    "longitude": 15.3756
   },
   {
     "code": "23242",
@@ -2561,44 +1058,8 @@
     "stateCode": "13",
     "localityName": "Posedarje",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23243",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Jasenice",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23244",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Starigrad Paklenica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23245",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Tribanj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23247",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Vinjerac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.2136,
+    "longitude": 15.4767
   },
   {
     "code": "23248",
@@ -2606,17 +1067,8 @@
     "stateCode": "13",
     "localityName": "Ražanac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23249",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Povljana",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.2819,
+    "longitude": 15.3481
   },
   {
     "code": "23250",
@@ -2624,44 +1076,8 @@
     "stateCode": "13",
     "localityName": "Pag",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23251",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Kolan",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23262",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Pašman",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23263",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Ždrelac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23264",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Neviđane",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.445,
+    "longitude": 15.0575
   },
   {
     "code": "23271",
@@ -2669,17 +1085,8 @@
     "stateCode": "13",
     "localityName": "Kukljica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23272",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Kali",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.0347,
+    "longitude": 15.2456
   },
   {
     "code": "23273",
@@ -2687,26 +1094,8 @@
     "stateCode": "13",
     "localityName": "Preko",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23274",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Lukoran",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23275",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Ugljan",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.0811,
+    "longitude": 15.1875
   },
   {
     "code": "23281",
@@ -2714,17 +1103,8 @@
     "stateCode": "13",
     "localityName": "Sali",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23282",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Žman",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.9397,
+    "longitude": 15.1633
   },
   {
     "code": "23283",
@@ -2732,8 +1112,8 @@
     "stateCode": "13",
     "localityName": "Rava",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.0219,
+    "longitude": 15.0667
   },
   {
     "code": "23284",
@@ -2741,17 +1121,8 @@
     "stateCode": "13",
     "localityName": "Veli Iž",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23285",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Brbinj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.0508,
+    "longitude": 15.1067
   },
   {
     "code": "23286",
@@ -2759,8 +1130,8 @@
     "stateCode": "13",
     "localityName": "Božava",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.1411,
+    "longitude": 14.9042
   },
   {
     "code": "23287",
@@ -2768,8 +1139,8 @@
     "stateCode": "13",
     "localityName": "Veli Rat",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.1397,
+    "longitude": 14.8522
   },
   {
     "code": "23291",
@@ -2777,8 +1148,8 @@
     "stateCode": "13",
     "localityName": "Sestrunj",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.1522,
+    "longitude": 15.0011
   },
   {
     "code": "23292",
@@ -2786,8 +1157,8 @@
     "stateCode": "13",
     "localityName": "Molat",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.2144,
+    "longitude": 14.8794
   },
   {
     "code": "23293",
@@ -2795,8 +1166,8 @@
     "stateCode": "13",
     "localityName": "Ist",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.2741,
+    "longitude": 14.7655
   },
   {
     "code": "23294",
@@ -2804,8 +1175,8 @@
     "stateCode": "13",
     "localityName": "Premuda",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.3425,
+    "longitude": 14.6014
   },
   {
     "code": "23295",
@@ -2813,8 +1184,8 @@
     "stateCode": "13",
     "localityName": "Silba",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.3737,
+    "longitude": 14.6964
   },
   {
     "code": "23296",
@@ -2822,17 +1193,17 @@
     "stateCode": "13",
     "localityName": "Olib",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.375,
+    "longitude": 14.7819
   },
   {
     "code": "23312",
     "countryCode": "HR",
     "stateCode": "13",
-    "localityName": "Novigrad (Dalmacija)",
+    "localityName": "Novigrad",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.1839,
+    "longitude": 15.5542
   },
   {
     "code": "23420",
@@ -2840,8 +1211,8 @@
     "stateCode": "13",
     "localityName": "Benkovac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.0344,
+    "longitude": 15.6128
   },
   {
     "code": "23422",
@@ -2849,17 +1220,8 @@
     "stateCode": "13",
     "localityName": "Stankovci",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23423",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Polača",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 43.9097,
+    "longitude": 15.6997
   },
   {
     "code": "23440",
@@ -2867,17 +1229,8 @@
     "stateCode": "13",
     "localityName": "Gračac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23445",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Srb",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.2992,
+    "longitude": 15.8475
   },
   {
     "code": "23450",
@@ -2885,17 +1238,8 @@
     "stateCode": "13",
     "localityName": "Obrovac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "23452",
-    "countryCode": "HR",
-    "stateCode": "13",
-    "localityName": "Karin",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.2006,
+    "longitude": 15.6822
   },
   {
     "code": "31000",
@@ -2903,35 +1247,8 @@
     "stateCode": "14",
     "localityName": "Osijek",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31204",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Bijelo Brdo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31205",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Aljmaš",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31206",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Erdut",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5511,
+    "longitude": 18.6939
   },
   {
     "code": "31207",
@@ -2939,98 +1256,8 @@
     "stateCode": "14",
     "localityName": "Tenja",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31208",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Petrijevci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31214",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Laslovo (Szentlászló)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31215",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Ernestinovo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31216",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Antunovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31220",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Višnjevac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31221",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Josipovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31222",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Bizovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31223",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Brođanci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31224",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Koška",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31225",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Breznica Našička",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4981,
+    "longitude": 18.7472
   },
   {
     "code": "31226",
@@ -3038,17 +1265,8 @@
     "stateCode": "14",
     "localityName": "Dalj",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31227",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Zelčin",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4844,
+    "longitude": 18.9861
   },
   {
     "code": "31300",
@@ -3056,143 +1274,8 @@
     "stateCode": "14",
     "localityName": "Beli Manastir",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31301",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Branjin Vrh",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31302",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Kneževo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31303",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Popovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31304",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Duboševica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31305",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Draž",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31306",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Batina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31307",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Zmajevac (Vörösmart)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31308",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Suza (Csúza)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31309",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Kneževi Vinogradi",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31315",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Karanac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31321",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Petlovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31322",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Baranjsko Petrovo Selo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31323",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Bolman",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31324",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Jagodnjak",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31325",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Čeminac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.77,
+    "longitude": 18.6036
   },
   {
     "code": "31326",
@@ -3200,26 +1283,8 @@
     "stateCode": "14",
     "localityName": "Darda",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31327",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Bilje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31328",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Lug (Laskó)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.6281,
+    "longitude": 18.6997
   },
   {
     "code": "31400",
@@ -3227,134 +1292,8 @@
     "stateCode": "14",
     "localityName": "Đakovo",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31401",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Viškovci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31402",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Semeljci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31403",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Vuka",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31404",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Vladislavci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31410",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Strizivojna",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31411",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Trnava",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31415",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Selci Đakovački",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31416",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Levanjska Varoš",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31417",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Piškorevci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31418",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Drenje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31421",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Satnica Đakovačka",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31422",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Gorjani",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31423",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Bračevci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31424",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Punitovci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3474,
+    "longitude": 18.3265
   },
   {
     "code": "31431",
@@ -3362,26 +1301,8 @@
     "stateCode": "14",
     "localityName": "Čepin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31432",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Budimci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31433",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Podgorač",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5236,
+    "longitude": 18.5633
   },
   {
     "code": "31500",
@@ -3389,8 +1310,8 @@
     "stateCode": "14",
     "localityName": "Našice",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4886,
+    "longitude": 18.0878
   },
   {
     "code": "31511",
@@ -3398,44 +1319,8 @@
     "stateCode": "14",
     "localityName": "Đurđenovac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31512",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Feričanci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31513",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Donja Motičina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31530",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Podravska Moslavina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31531",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Viljevo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5475,
+    "longitude": 18.0286
   },
   {
     "code": "31540",
@@ -3443,26 +1328,8 @@
     "stateCode": "14",
     "localityName": "Donji Miholjac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31542",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Magadenovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31543",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Miholjački Poreč",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.7608,
+    "longitude": 18.1672
   },
   {
     "code": "31550",
@@ -3470,8 +1337,8 @@
     "stateCode": "14",
     "localityName": "Valpovo",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.6608,
+    "longitude": 18.4186
   },
   {
     "code": "31551",
@@ -3479,44 +1346,8 @@
     "stateCode": "14",
     "localityName": "Belišće",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31552",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Podgajci Podravski",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31553",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Črnkovci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31554",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Gat",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "31555",
-    "countryCode": "HR",
-    "stateCode": "14",
-    "localityName": "Marijanci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.6803,
+    "longitude": 18.4058
   },
   {
     "code": "32000",
@@ -3524,17 +1355,8 @@
     "stateCode": "16",
     "localityName": "Vukovar",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32010",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Vukovar - Lipovača",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3516,
+    "longitude": 19.0023
   },
   {
     "code": "32100",
@@ -3542,134 +1364,8 @@
     "stateCode": "16",
     "localityName": "Vinkovci",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32211",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Ostrovo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32212",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Gaboš",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32213",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Markušica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32214",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Tordinci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32221",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Nuštar",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32222",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Bršadin",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32224",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Trpinja",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32225",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Bobota",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32227",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Borovo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32229",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Petrovci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32232",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Sotin",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32233",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Opatovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32234",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Šarengrad",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32235",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Bapska",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2883,
+    "longitude": 18.8047
   },
   {
     "code": "32236",
@@ -3677,44 +1373,8 @@
     "stateCode": "16",
     "localityName": "Ilok",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32237",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Lovas",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32238",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Čakovci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32239",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Negoslavci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32241",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Stari Jankovci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2222,
+    "longitude": 19.3769
   },
   {
     "code": "32242",
@@ -3722,62 +1382,8 @@
     "stateCode": "16",
     "localityName": "Slakovci",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32243",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Orolik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32244",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Đeletovci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32245",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Nijemci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32246",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Lipovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32247",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Banovci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32248",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Ilača",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2247,
+    "longitude": 18.9503
   },
   {
     "code": "32249",
@@ -3785,17 +1391,8 @@
     "stateCode": "16",
     "localityName": "Tovarnik",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32251",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Privlaka",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.165,
+    "longitude": 19.1519
   },
   {
     "code": "32252",
@@ -3803,44 +1400,8 @@
     "stateCode": "16",
     "localityName": "Otok",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32253",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Komletinci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32254",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Vrbanja",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32255",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Soljani",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32256",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Strošinci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1467,
+    "longitude": 18.8839
   },
   {
     "code": "32257",
@@ -3848,53 +1409,8 @@
     "stateCode": "16",
     "localityName": "Drenovci",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32258",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Posavski Podgajci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32260",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Gunja",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32261",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Rajevo Selo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32262",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Račinovci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32263",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Đurići",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.9206,
+    "longitude": 18.9122
   },
   {
     "code": "32270",
@@ -3902,17 +1418,8 @@
     "stateCode": "16",
     "localityName": "Županja",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32271",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Rokovci Andrijaševci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.0775,
+    "longitude": 18.6975
   },
   {
     "code": "32272",
@@ -3920,80 +1427,8 @@
     "stateCode": "16",
     "localityName": "Cerna",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32273",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Gradište",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32274",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Štitar",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32275",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Bošnjaci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32276",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Babina Greda",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32280",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Jarmina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32281",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Ivankovo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32282",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Retkovci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "32283",
-    "countryCode": "HR",
-    "stateCode": "16",
-    "localityName": "Vođinci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1819,
+    "longitude": 18.6894
   },
   {
     "code": "32284",
@@ -4001,8 +1436,8 @@
     "stateCode": "16",
     "localityName": "Stari Mikanovci",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2817,
+    "longitude": 18.5425
   },
   {
     "code": "33000",
@@ -4010,17 +1445,8 @@
     "stateCode": "10",
     "localityName": "Virovitica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33404",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Špišić Bukovica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.8319,
+    "longitude": 17.3839
   },
   {
     "code": "33405",
@@ -4028,26 +1454,8 @@
     "stateCode": "10",
     "localityName": "Pitomača",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33406",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Lukač",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33407",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Gornje Bazje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.9506,
+    "longitude": 17.2294
   },
   {
     "code": "33410",
@@ -4055,53 +1463,8 @@
     "stateCode": "10",
     "localityName": "Suhopolje",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33411",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Gradina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33412",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Cabuna",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33507",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Crnac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33513",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Zdenci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33514",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Čačinci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.7997,
+    "longitude": 17.4992
   },
   {
     "code": "33515",
@@ -4109,26 +1472,8 @@
     "stateCode": "10",
     "localityName": "Orahovica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33517",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Mikleuš",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33518",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Nova Bukovica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.54,
+    "longitude": 17.8847
   },
   {
     "code": "33520",
@@ -4136,44 +1481,8 @@
     "stateCode": "10",
     "localityName": "Slatina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33522",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Voćin",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33523",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Čađavica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33525",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Sopje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "33533",
-    "countryCode": "HR",
-    "stateCode": "10",
-    "localityName": "Pivnica Slavonska",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.7033,
+    "longitude": 17.7028
   },
   {
     "code": "34000",
@@ -4181,17 +1490,8 @@
     "stateCode": "11",
     "localityName": "Požega",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34308",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Jakšić",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3403,
+    "longitude": 17.6853
   },
   {
     "code": "34310",
@@ -4199,71 +1499,8 @@
     "stateCode": "11",
     "localityName": "Pleternica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34311",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Kuzmica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34312",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Sesvete (kod Požege)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34315",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Ratkovica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34322",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Brestovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34330",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Velika",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34334",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Kaptol",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34335",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Vetovo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2886,
+    "longitude": 17.8064
   },
   {
     "code": "34340",
@@ -4271,35 +1508,8 @@
     "stateCode": "11",
     "localityName": "Kutjevo",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34343",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Bektež",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34350",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Čaglin",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34543",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Poljana",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4261,
+    "longitude": 17.8825
   },
   {
     "code": "34550",
@@ -4307,35 +1517,8 @@
     "stateCode": "11",
     "localityName": "Pakrac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34551",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Lipik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34552",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Badljevina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "34553",
-    "countryCode": "HR",
-    "stateCode": "11",
-    "localityName": "Bučje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4364,
+    "longitude": 17.1889
   },
   {
     "code": "35000",
@@ -4343,89 +1526,8 @@
     "stateCode": "12",
     "localityName": "Slavonski Brod",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35105",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Slavonski Brod",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35106",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Slavonski Brod",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35107",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Podvinje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35201",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Podcrkavlje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35207",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Gornja Vrba",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35208",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Ruščica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35209",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Bukovlje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35210",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Vrpolje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35211",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Trnjani",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1603,
+    "longitude": 18.0156
   },
   {
     "code": "35212",
@@ -4433,17 +1535,8 @@
     "stateCode": "12",
     "localityName": "Garčin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35213",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Oprisavci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1828,
+    "longitude": 18.1831
   },
   {
     "code": "35214",
@@ -4451,17 +1544,8 @@
     "stateCode": "12",
     "localityName": "Donji Andrijevci",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35216",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Prnjavor",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1883,
+    "longitude": 18.2997
   },
   {
     "code": "35220",
@@ -4469,17 +1553,8 @@
     "stateCode": "12",
     "localityName": "Slavonski Šamac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35221",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Velika Kopanica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.0667,
+    "longitude": 18.4889
   },
   {
     "code": "35222",
@@ -4487,17 +1562,8 @@
     "stateCode": "12",
     "localityName": "Gundinci",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35224",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Sikirevci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1583,
+    "longitude": 18.4914
   },
   {
     "code": "35250",
@@ -4505,8 +1571,8 @@
     "stateCode": "12",
     "localityName": "Oriovac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1661,
+    "longitude": 17.76
   },
   {
     "code": "35252",
@@ -4514,44 +1580,8 @@
     "stateCode": "12",
     "localityName": "Sibinj",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35253",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Brodski Stupnik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35254",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Bebrina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35255",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Slavonski Kobaš",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35257",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Lužani",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1917,
+    "longitude": 17.9081
   },
   {
     "code": "35400",
@@ -4559,26 +1589,8 @@
     "stateCode": "12",
     "localityName": "Nova Gradiška",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35403",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Rešetari",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35404",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Cernik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.255,
+    "longitude": 17.3831
   },
   {
     "code": "35410",
@@ -4586,17 +1598,8 @@
     "stateCode": "12",
     "localityName": "Nova Kapela",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35414",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Vrbova",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1989,
+    "longitude": 17.6392
   },
   {
     "code": "35420",
@@ -4604,62 +1607,8 @@
     "stateCode": "12",
     "localityName": "Staro Petrovo Selo",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35422",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Zapolje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35423",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Vrbje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35424",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Orubica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35425",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Davor",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35428",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Dragalić",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35429",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Gornji Bogićevci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2308,
+    "longitude": 17.5203
   },
   {
     "code": "35430",
@@ -4667,17 +1616,8 @@
     "stateCode": "12",
     "localityName": "Okučani",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "35435",
-    "countryCode": "HR",
-    "stateCode": "12",
-    "localityName": "Stara Gradiška",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2603,
+    "longitude": 17.1992
   },
   {
     "code": "40000",
@@ -4685,44 +1625,8 @@
     "stateCode": "20",
     "localityName": "Čakovec",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40305",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Nedelišće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40306",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Macinec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40311",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Lopatinec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40312",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Štrigova",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.3844,
+    "longitude": 16.4339
   },
   {
     "code": "40313",
@@ -4730,53 +1634,17 @@
     "stateCode": "20",
     "localityName": "Sveti Martin na Muri",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40314",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Selnica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.5269,
+    "longitude": 16.375
   },
   {
     "code": "40315",
     "countryCode": "HR",
     "stateCode": "20",
-    "localityName": "Mursko Središče",
+    "localityName": "Mursko Središće",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40317",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Podturen",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40318",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Dekanovec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40319",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Belica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.5094,
+    "longitude": 16.4411
   },
   {
     "code": "40320",
@@ -4784,26 +1652,8 @@
     "stateCode": "20",
     "localityName": "Donji Kraljevec",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40321",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Mala Subotica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40322",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Orehovica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.3661,
+    "longitude": 16.6528
   },
   {
     "code": "40323",
@@ -4811,62 +1661,8 @@
     "stateCode": "20",
     "localityName": "Prelog",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40324",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Goričan",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40325",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Draškovec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40326",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Sveta Marija",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40327",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Donji Vidovec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40328",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Donja Dubrava",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "40329",
-    "countryCode": "HR",
-    "stateCode": "20",
-    "localityName": "Kotoriba",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.335,
+    "longitude": 16.6156
   },
   {
     "code": "42000",
@@ -4874,35 +1670,8 @@
     "stateCode": "05",
     "localityName": "Varaždin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42201",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Beretinec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42202",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Trnovec Bartolovečki",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42203",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Jalžabet",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.3044,
+    "longitude": 16.3378
   },
   {
     "code": "42204",
@@ -4910,35 +1679,8 @@
     "stateCode": "05",
     "localityName": "Turčin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42205",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Vidovec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42206",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Petrijanec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42207",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Vinica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.2595,
+    "longitude": 16.3591
   },
   {
     "code": "42208",
@@ -4946,26 +1688,8 @@
     "stateCode": "05",
     "localityName": "Cestica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42209",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Sračinec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42214",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Sveti Ilija",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.3717,
+    "longitude": 16.1253
   },
   {
     "code": "42220",
@@ -4973,17 +1697,8 @@
     "stateCode": "05",
     "localityName": "Novi Marof",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42222",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Ljubeščica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.1619,
+    "longitude": 16.3303
   },
   {
     "code": "42223",
@@ -4991,17 +1706,8 @@
     "stateCode": "05",
     "localityName": "Varaždinske Toplice",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42225",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Breznički Hum",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.2092,
+    "longitude": 16.4192
   },
   {
     "code": "42230",
@@ -5009,35 +1715,8 @@
     "stateCode": "05",
     "localityName": "Ludbreg",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42231",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Mali Bukovec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42232",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Donji Martijanec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42233",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Sveti Đurđ",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.2519,
+    "longitude": 16.6147
   },
   {
     "code": "42240",
@@ -5045,17 +1724,8 @@
     "stateCode": "05",
     "localityName": "Ivanec",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42242",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Radovan",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.2231,
+    "longitude": 16.12
   },
   {
     "code": "42243",
@@ -5063,26 +1733,8 @@
     "stateCode": "05",
     "localityName": "Maruševec",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42244",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Klenovnik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42245",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Donja Voća",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.2889,
+    "longitude": 16.1831
   },
   {
     "code": "42250",
@@ -5090,35 +1742,8 @@
     "stateCode": "05",
     "localityName": "Lepoglava",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42253",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Bednja",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42254",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Trakošćan",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "42255",
-    "countryCode": "HR",
-    "stateCode": "05",
-    "localityName": "Donja Višnjica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.2106,
+    "longitude": 16.0356
   },
   {
     "code": "43000",
@@ -5126,89 +1751,8 @@
     "stateCode": "07",
     "localityName": "Bjelovar",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43202",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Zrinski Topolovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43203",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Kapela",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43211",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Predavac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43212",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Rovišće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43226",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Veliko Trojstvo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43227",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Šandrovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43231",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Ivanska",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43232",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Berek",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43233",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Trnovitički Popovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.8986,
+    "longitude": 16.8489
   },
   {
     "code": "43240",
@@ -5216,44 +1760,8 @@
     "stateCode": "07",
     "localityName": "Čazma",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43246",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Štefanje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43247",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Narta",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43251",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Gudovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43252",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Prgomelje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.7482,
+    "longitude": 16.6139
   },
   {
     "code": "43270",
@@ -5261,35 +1769,8 @@
     "stateCode": "07",
     "localityName": "Veliki Grđevac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43272",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Nova Rača",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43273",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Bulinac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43274",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Severin",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.7503,
+    "longitude": 17.0475
   },
   {
     "code": "43280",
@@ -5297,35 +1778,8 @@
     "stateCode": "07",
     "localityName": "Garešnica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43282",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Veliko Vukovje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43283",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Kaniška Iva",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43284",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Hercegovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5744,
+    "longitude": 16.9414
   },
   {
     "code": "43290",
@@ -5333,17 +1787,8 @@
     "stateCode": "07",
     "localityName": "Grubišno Polje",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43293",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Veliki Zdenci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.7021,
+    "longitude": 17.1727
   },
   {
     "code": "43500",
@@ -5351,62 +1796,8 @@
     "stateCode": "07",
     "localityName": "Daruvar",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43505",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Končanica (Končenice)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43506",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Dežanovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43507",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Uljanik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43531",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Veliki Bastaji",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43532",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Đulovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "43541",
-    "countryCode": "HR",
-    "stateCode": "07",
-    "localityName": "Sirač",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5906,
+    "longitude": 17.225
   },
   {
     "code": "44000",
@@ -5414,53 +1805,8 @@
     "stateCode": "03",
     "localityName": "Sisak",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44010",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Sisak-Caprag",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44201",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Martinska Ves",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44202",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Topolovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44203",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Gušće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44204",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Jabukovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4661,
+    "longitude": 16.3783
   },
   {
     "code": "44210",
@@ -5468,26 +1814,8 @@
     "stateCode": "03",
     "localityName": "Sunja",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44211",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Blinjski Kut",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44213",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Kratečko",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3685,
+    "longitude": 16.567
   },
   {
     "code": "44250",
@@ -5495,44 +1823,8 @@
     "stateCode": "03",
     "localityName": "Petrinja",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44253",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Mošćenica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44272",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Lekenik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44273",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Sela",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44316",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Velika Ludina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4375,
+    "longitude": 16.29
   },
   {
     "code": "44317",
@@ -5540,17 +1832,8 @@
     "stateCode": "03",
     "localityName": "Popovača",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44318",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Voloder",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5697,
+    "longitude": 16.625
   },
   {
     "code": "44320",
@@ -5558,53 +1841,8 @@
     "stateCode": "03",
     "localityName": "Kutina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44321",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Banova Jaruga",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44322",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Lipovljani",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44323",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Rajić",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44324",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Jasenovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44325",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Krapje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.475,
+    "longitude": 16.7819
   },
   {
     "code": "44330",
@@ -5612,8 +1850,8 @@
     "stateCode": "03",
     "localityName": "Novska",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3406,
+    "longitude": 16.9769
   },
   {
     "code": "44400",
@@ -5621,26 +1859,8 @@
     "stateCode": "03",
     "localityName": "Glina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44410",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Gvozd",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44415",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Topusko",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3131,
+    "longitude": 16.0579
   },
   {
     "code": "44430",
@@ -5648,26 +1868,8 @@
     "stateCode": "03",
     "localityName": "Hrvatska Kostajnica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44431",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Donji Kukuruzari",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44435",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Divuša",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2317,
+    "longitude": 16.5392
   },
   {
     "code": "44440",
@@ -5675,17 +1877,8 @@
     "stateCode": "03",
     "localityName": "Dvor",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "44450",
-    "countryCode": "HR",
-    "stateCode": "03",
-    "localityName": "Hrvatska Dubica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.0731,
+    "longitude": 16.3708
   },
   {
     "code": "47000",
@@ -5693,53 +1886,8 @@
     "stateCode": "04",
     "localityName": "Karlovac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47201",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Draganići",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47203",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Rečica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47204",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Šišljavić",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47206",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Lasinja",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47212",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Skakavac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4917,
+    "longitude": 15.55
   },
   {
     "code": "47220",
@@ -5747,17 +1895,8 @@
     "stateCode": "04",
     "localityName": "Vojnić",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47222",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Cetingrad",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3236,
+    "longitude": 15.6986
   },
   {
     "code": "47240",
@@ -5765,44 +1904,8 @@
     "stateCode": "04",
     "localityName": "Slunj",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47241",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Cerovac Vukmanički",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47242",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Krnjak",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47245",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Rakovica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47246",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Drežnik Grad",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1151,
+    "longitude": 15.5846
   },
   {
     "code": "47250",
@@ -5810,80 +1913,8 @@
     "stateCode": "04",
     "localityName": "Duga Resa",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47251",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Bosiljevo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47252",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Barilović",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47261",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Zvečaj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47262",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Generalski Stol",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47264",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Tounj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47271",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Netretić",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47272",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Ribnik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47276",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Žakanje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4286,
+    "longitude": 15.4883
   },
   {
     "code": "47280",
@@ -5891,62 +1922,8 @@
     "stateCode": "04",
     "localityName": "Ozalj",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47281",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Mali Erjavec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47282",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Kamanje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47283",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Vivodina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47284",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Kašt",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47285",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Radatovići",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47286",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Mahično",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.6067,
+    "longitude": 15.4619
   },
   {
     "code": "47300",
@@ -5954,71 +1931,8 @@
     "stateCode": "04",
     "localityName": "Ogulin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47302",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Oštarije",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47303",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Josipdol",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47304",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Plaški",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47306",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Saborsko",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47307",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Gornje Zagorje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47313",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Drežnica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "47314",
-    "countryCode": "HR",
-    "stateCode": "04",
-    "localityName": "Jasenak",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2661,
+    "longitude": 15.2286
   },
   {
     "code": "48000",
@@ -6026,8 +1940,8 @@
     "stateCode": "06",
     "localityName": "Koprivnica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.1628,
+    "longitude": 16.8275
   },
   {
     "code": "48214",
@@ -6035,8 +1949,8 @@
     "stateCode": "06",
     "localityName": "Sveti Ivan Žabno",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.9461,
+    "longitude": 16.6133
   },
   {
     "code": "48260",
@@ -6044,89 +1958,8 @@
     "stateCode": "06",
     "localityName": "Križevci",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48264",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Kloštar Vojakovački",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48265",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Raven",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48267",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Orehovec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48268",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Gornja Rijeka",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48269",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Kalnik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48306",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Sokolovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48311",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Kunovec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48312",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Rasinja",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48314",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Koprivnički Ivanec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.0219,
+    "longitude": 16.5425
   },
   {
     "code": "48316",
@@ -6134,71 +1967,8 @@
     "stateCode": "06",
     "localityName": "Đelekovec",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48317",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Legrad",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48321",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Peteranec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48322",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Drnje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48323",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Hlebine",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48325",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Novigrad Podravski",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48326",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Virje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48327",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Molve",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.2437,
+    "longitude": 16.8564
   },
   {
     "code": "48331",
@@ -6206,17 +1976,8 @@
     "stateCode": "06",
     "localityName": "Gola",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48332",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Ždala",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.1958,
+    "longitude": 17.0581
   },
   {
     "code": "48350",
@@ -6224,53 +1985,8 @@
     "stateCode": "06",
     "localityName": "Đurđevac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48355",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Novo Virje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48356",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Ferdinandovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48361",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Kalinovac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48362",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Kloštar Podravski",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "48363",
-    "countryCode": "HR",
-    "stateCode": "06",
-    "localityName": "Podravske Sesvete",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.0284,
+    "longitude": 17.0554
   },
   {
     "code": "49000",
@@ -6278,8 +1994,8 @@
     "stateCode": "02",
     "localityName": "Krapina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.1608,
+    "longitude": 15.8789
   },
   {
     "code": "49210",
@@ -6287,26 +2003,8 @@
     "stateCode": "02",
     "localityName": "Zabok",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49214",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Veliko Trgovišće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49215",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Tuhelj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.0294,
+    "longitude": 15.915
   },
   {
     "code": "49216",
@@ -6314,8 +2012,8 @@
     "stateCode": "02",
     "localityName": "Desinić",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.1486,
+    "longitude": 15.6686
   },
   {
     "code": "49217",
@@ -6323,8 +2021,8 @@
     "stateCode": "02",
     "localityName": "Krapinske Toplice",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.0933,
+    "longitude": 15.8433
   },
   {
     "code": "49218",
@@ -6332,8 +2030,8 @@
     "stateCode": "02",
     "localityName": "Pregrada",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.1642,
+    "longitude": 15.7508
   },
   {
     "code": "49221",
@@ -6341,17 +2039,8 @@
     "stateCode": "02",
     "localityName": "Bedekovčina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49222",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Poznanovec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.0411,
+    "longitude": 15.9964
   },
   {
     "code": "49223",
@@ -6359,17 +2048,8 @@
     "stateCode": "02",
     "localityName": "Sveti Križ Začretje",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49224",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Lepajci",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.0808,
+    "longitude": 15.9111
   },
   {
     "code": "49225",
@@ -6377,17 +2057,8 @@
     "stateCode": "02",
     "localityName": "Đurmanec",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49228",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Brestovec Orehovički",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.2002,
+    "longitude": 15.8301
   },
   {
     "code": "49231",
@@ -6395,35 +2066,8 @@
     "stateCode": "02",
     "localityName": "Hum na Sutli",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49232",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Radoboj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49233",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Gornje Jesenje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49234",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Petrovsko",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.2114,
+    "longitude": 15.6908
   },
   {
     "code": "49240",
@@ -6431,8 +2075,8 @@
     "stateCode": "02",
     "localityName": "Donja Stubica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.9833,
+    "longitude": 15.9667
   },
   {
     "code": "49243",
@@ -6440,26 +2084,8 @@
     "stateCode": "02",
     "localityName": "Oroslavje",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49244",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Stubičke Toplice",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49245",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Gornja Stubica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.9967,
+    "longitude": 15.9151
   },
   {
     "code": "49246",
@@ -6467,17 +2093,8 @@
     "stateCode": "02",
     "localityName": "Marija Bistrica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49247",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Zlatar Bistrica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.0061,
+    "longitude": 16.1111
   },
   {
     "code": "49250",
@@ -6485,17 +2102,8 @@
     "stateCode": "02",
     "localityName": "Zlatar",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49251",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Mače",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.0942,
+    "longitude": 16.0708
   },
   {
     "code": "49252",
@@ -6503,35 +2111,8 @@
     "stateCode": "02",
     "localityName": "Mihovljan",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49253",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Lobor",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49254",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Belec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49255",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Novi Golubovec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.1331,
+    "longitude": 15.9722
   },
   {
     "code": "49282",
@@ -6539,17 +2120,8 @@
     "stateCode": "02",
     "localityName": "Konjščina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49283",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Hraščina-Trgovišće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.0521,
+    "longitude": 16.1726
   },
   {
     "code": "49284",
@@ -6557,8 +2129,8 @@
     "stateCode": "02",
     "localityName": "Budinšćina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.1289,
+    "longitude": 16.206
   },
   {
     "code": "49290",
@@ -6566,35 +2138,8 @@
     "stateCode": "02",
     "localityName": "Klanjec",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49294",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Kraljevec na Sutli",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49295",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Kumrovec",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "49296",
-    "countryCode": "HR",
-    "stateCode": "02",
-    "localityName": "Zagorska Sela",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 46.0498,
+    "longitude": 15.7442
   },
   {
     "code": "51000",
@@ -6602,8 +2147,8 @@
     "stateCode": "08",
     "localityName": "Rijeka",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3267,
+    "longitude": 14.4424
   },
   {
     "code": "51211",
@@ -6611,35 +2156,8 @@
     "stateCode": "08",
     "localityName": "Matulji",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51212",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Vele Mune",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51213",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Jurdani",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51214",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Šapjane",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3617,
+    "longitude": 14.325
   },
   {
     "code": "51215",
@@ -6647,8 +2165,8 @@
     "stateCode": "08",
     "localityName": "Kastav",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3753,
+    "longitude": 14.3486
   },
   {
     "code": "51216",
@@ -6656,8 +2174,8 @@
     "stateCode": "08",
     "localityName": "Viškovo",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3757,
+    "longitude": 14.384
   },
   {
     "code": "51217",
@@ -6665,8 +2183,8 @@
     "stateCode": "08",
     "localityName": "Klana",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4469,
+    "longitude": 14.3769
   },
   {
     "code": "51218",
@@ -6674,35 +2192,8 @@
     "stateCode": "08",
     "localityName": "Dražice",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51221",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Kostrena",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51222",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Bakar",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51223",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Škrljevo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3908,
+    "longitude": 14.4703
   },
   {
     "code": "51224",
@@ -6710,17 +2201,8 @@
     "stateCode": "08",
     "localityName": "Krasica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51225",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Praputnjak",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3097,
+    "longitude": 14.5556
   },
   {
     "code": "51226",
@@ -6728,53 +2210,8 @@
     "stateCode": "08",
     "localityName": "Hreljin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51227",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Kukuljanovo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51241",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Križišće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51242",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Drivenik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51243",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Tribalj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51244",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Grižane",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2825,
+    "longitude": 14.5992
   },
   {
     "code": "51250",
@@ -6782,35 +2219,8 @@
     "stateCode": "08",
     "localityName": "Novi Vinodolski",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51251",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Ledenice",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51252",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Klenovica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51253",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Bribir",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1281,
+    "longitude": 14.7889
   },
   {
     "code": "51260",
@@ -6818,17 +2228,8 @@
     "stateCode": "08",
     "localityName": "Crikvenica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51261",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Bakarac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1772,
+    "longitude": 14.6928
   },
   {
     "code": "51262",
@@ -6836,44 +2237,8 @@
     "stateCode": "08",
     "localityName": "Kraljevica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51263",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Šmrika",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51264",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Jadranovo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51265",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Dramalj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51266",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Selce",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.274,
+    "longitude": 14.5683
   },
   {
     "code": "51280",
@@ -6881,17 +2246,8 @@
     "stateCode": "08",
     "localityName": "Rab",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51281",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Lopar",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.7569,
+    "longitude": 14.7608
   },
   {
     "code": "51300",
@@ -6899,53 +2255,8 @@
     "stateCode": "08",
     "localityName": "Delnice",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51301",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Brod na Kupi",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51302",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Kuželj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51303",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Plešce",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51304",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Gerovo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51305",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Tršće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4008,
+    "longitude": 14.7997
   },
   {
     "code": "51306",
@@ -6953,116 +2264,8 @@
     "stateCode": "08",
     "localityName": "Čabar",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51307",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Prezid",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51311",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Skrad",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51312",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Brod Moravice",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51313",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Kupjak",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51314",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Ravna Gora",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51315",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Mrkopalj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51316",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Lokve",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51317",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Crni Lug",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51322",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Fužine",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51323",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Lič",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51324",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Zlobin",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51325",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Moravice",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.5957,
+    "longitude": 14.6463
   },
   {
     "code": "51326",
@@ -7070,35 +2273,8 @@
     "stateCode": "08",
     "localityName": "Vrbovsko",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51327",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Gomirje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51328",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Lukovdol",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51329",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Severin na Kupi",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3686,
+    "longitude": 15.0783
   },
   {
     "code": "51410",
@@ -7106,17 +2282,8 @@
     "stateCode": "08",
     "localityName": "Opatija",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51414",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Ičići",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3377,
+    "longitude": 14.3051
   },
   {
     "code": "51415",
@@ -7124,8 +2291,8 @@
     "stateCode": "08",
     "localityName": "Lovran",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2919,
+    "longitude": 14.2742
   },
   {
     "code": "51417",
@@ -7133,17 +2300,8 @@
     "stateCode": "08",
     "localityName": "Mošćenička Draga",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51418",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Brseč",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2378,
+    "longitude": 14.2522
   },
   {
     "code": "51500",
@@ -7151,8 +2309,8 @@
     "stateCode": "08",
     "localityName": "Krk",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.0274,
+    "longitude": 14.5754
   },
   {
     "code": "51511",
@@ -7160,80 +2318,8 @@
     "stateCode": "08",
     "localityName": "Malinska",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51512",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Njivice",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51513",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Omišalj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51514",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Dobrinj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51515",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Šilo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51516",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Vrbnik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51517",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Kornić",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51521",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Punat",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51522",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Draga Bašćanska",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1242,
+    "longitude": 14.5283
   },
   {
     "code": "51523",
@@ -7241,8 +2327,8 @@
     "stateCode": "08",
     "localityName": "Baška",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.9703,
+    "longitude": 14.7533
   },
   {
     "code": "51550",
@@ -7250,17 +2336,8 @@
     "stateCode": "08",
     "localityName": "Mali Lošinj",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51551",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Veli Lošinj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.5306,
+    "longitude": 14.4686
   },
   {
     "code": "51552",
@@ -7268,26 +2345,8 @@
     "stateCode": "08",
     "localityName": "Ilovik",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51554",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Nerezine",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51555",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Belej",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.4597,
+    "longitude": 14.5453
   },
   {
     "code": "51556",
@@ -7295,8 +2354,8 @@
     "stateCode": "08",
     "localityName": "Martinšćica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.8203,
+    "longitude": 14.355
   },
   {
     "code": "51557",
@@ -7304,17 +2363,8 @@
     "stateCode": "08",
     "localityName": "Cres",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51559",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Beli",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.9609,
+    "longitude": 14.4125
   },
   {
     "code": "51561",
@@ -7322,8 +2372,8 @@
     "stateCode": "08",
     "localityName": "Susak",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.51,
+    "longitude": 14.3028
   },
   {
     "code": "51562",
@@ -7331,17 +2381,8 @@
     "stateCode": "08",
     "localityName": "Unije",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "51564",
-    "countryCode": "HR",
-    "stateCode": "08",
-    "localityName": "Ćunski",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.6347,
+    "longitude": 14.2478
   },
   {
     "code": "52000",
@@ -7349,44 +2390,17 @@
     "stateCode": "18",
     "localityName": "Pazin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2403,
+    "longitude": 13.9367
   },
   {
     "code": "52100",
     "countryCode": "HR",
     "stateCode": "18",
-    "localityName": "Pula (Pola)",
+    "localityName": "Pula - Pola",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52203",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Medulin",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52204",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Ližnjan (Lisignano)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52206",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Marčana",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.8768,
+    "longitude": 13.8833
   },
   {
     "code": "52207",
@@ -7394,62 +2408,17 @@
     "stateCode": "18",
     "localityName": "Barban",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52208",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Krnica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.0644,
+    "longitude": 14.0136
   },
   {
     "code": "52210",
     "countryCode": "HR",
     "stateCode": "18",
-    "localityName": "Rovinj (Rovigno)",
+    "localityName": "Rovinj - Rovigno",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52211",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Bale (Valle)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52212",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Fažana (Fasana)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52215",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Vodnjan (Dignano)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52216",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Galižana (Gallesano)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.0774,
+    "longitude": 13.7732
   },
   {
     "code": "52220",
@@ -7457,98 +2426,8 @@
     "stateCode": "18",
     "localityName": "Labin",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52221",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Rabac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52222",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Koromačno",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52223",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Raša",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52224",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Trget",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52231",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Nedešćina",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52232",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Kršan",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52233",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Šušnjevica",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52234",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Plomin",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52332",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Pićan",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52333",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Podpićan",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.095,
+    "longitude": 14.1197
   },
   {
     "code": "52341",
@@ -7556,53 +2435,8 @@
     "stateCode": "18",
     "localityName": "Žminj",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52342",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Svetvinčenat",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52352",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Kanfanar",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52402",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Cerovlje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52403",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Gračišće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52404",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Sveti Petar u šumi",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.1428,
+    "longitude": 13.9089
   },
   {
     "code": "52420",
@@ -7610,251 +2444,44 @@
     "stateCode": "18",
     "localityName": "Buzet",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52422",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Lanišće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52423",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Karojba",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52424",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Motovun (Montana)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52425",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Roč",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52426",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Lupoglav",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52427",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Livade (Levade)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52428",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Oprtalj (Portole)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52429",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Grožnjan (Grisignana)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52434",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Boljun",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.4094,
+    "longitude": 13.9667
   },
   {
     "code": "52440",
     "countryCode": "HR",
     "stateCode": "18",
-    "localityName": "Poreč (Parenzo)",
+    "localityName": "Poreč - Parenzo",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52444",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Tinjan",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52445",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Baderna",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52446",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Nova Vas",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52447",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Vižinada (Visinada)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52448",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Sveti Lovreč",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52449",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Červar Porat",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52450",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Vrsar (Orsera)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52452",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Funtana (Fontane)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.2305,
+    "longitude": 13.7186
   },
   {
     "code": "52460",
     "countryCode": "HR",
     "stateCode": "18",
-    "localityName": "Buje (Buie)",
+    "localityName": "Buje - Buie",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52462",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Momjan (Momiano)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52463",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Višnjan (Visignano)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52464",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Kaštelir (Castelliere)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52465",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Tar (Torre)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.41,
+    "longitude": 13.6619
   },
   {
     "code": "52466",
     "countryCode": "HR",
     "stateCode": "18",
-    "localityName": "Novigrad (Cittanova)",
+    "localityName": "Novigrad - Cittanova",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.3413,
+    "longitude": 13.5716
   },
   {
     "code": "52470",
     "countryCode": "HR",
     "stateCode": "18",
-    "localityName": "Umag (Umago)",
+    "localityName": "Umag - Umago",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52474",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Brtonigla (Verteneglio)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "52475",
-    "countryCode": "HR",
-    "stateCode": "18",
-    "localityName": "Savudrija (Salvore)",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.429,
+    "longitude": 13.5568
   },
   {
     "code": "53000",
@@ -7862,17 +2489,8 @@
     "stateCode": "09",
     "localityName": "Gospić",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53201",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Lički Osik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.5461,
+    "longitude": 15.3747
   },
   {
     "code": "53202",
@@ -7880,53 +2498,8 @@
     "stateCode": "09",
     "localityName": "Perušić",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53203",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Kosinj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53206",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Brušane",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53211",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Smiljan",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53212",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Klanac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53213",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Donje Pazarište",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.6494,
+    "longitude": 15.3833
   },
   {
     "code": "53220",
@@ -7934,26 +2507,8 @@
     "stateCode": "09",
     "localityName": "Otočac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53223",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Vrhovine",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53224",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Ličko Lešće",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.8694,
+    "longitude": 15.2375
   },
   {
     "code": "53230",
@@ -7961,26 +2516,8 @@
     "stateCode": "09",
     "localityName": "Korenica",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53231",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Plitvička Jezera",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53233",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Ličko Petrovo Selo",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.7439,
+    "longitude": 15.7097
   },
   {
     "code": "53234",
@@ -7988,26 +2525,8 @@
     "stateCode": "09",
     "localityName": "Udbina",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53236",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Podlapača",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53244",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Lovinac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.5306,
+    "longitude": 15.7656
   },
   {
     "code": "53250",
@@ -8015,8 +2534,8 @@
     "stateCode": "09",
     "localityName": "Donji Lapac",
     "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.5531,
+    "longitude": 15.9619
   },
   {
     "code": "53260",
@@ -8024,26 +2543,8 @@
     "stateCode": "09",
     "localityName": "Brinje",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53261",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Križpolje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53262",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Jezerane",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 45.0025,
+    "longitude": 15.1339
   },
   {
     "code": "53270",
@@ -8051,53 +2552,8 @@
     "stateCode": "09",
     "localityName": "Senj",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53271",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Krivi Put",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53273",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Vratnik",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53274",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Krasno",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53284",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Sveti Juraj",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53287",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Jablanac",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.9894,
+    "longitude": 14.9058
   },
   {
     "code": "53288",
@@ -8105,17 +2561,8 @@
     "stateCode": "09",
     "localityName": "Karlobag",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53289",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Lukovo Šugarje",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.5275,
+    "longitude": 15.0739
   },
   {
     "code": "53291",
@@ -8123,25 +2570,7 @@
     "stateCode": "09",
     "localityName": "Novalja",
     "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53294",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Lun",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
-  },
-  {
-    "code": "53296",
-    "countryCode": "HR",
-    "stateCode": "09",
-    "localityName": "Zubovići",
-    "type": "full",
-    "latitude": null,
-    "longitude": null
+    "latitude": 44.5578,
+    "longitude": 14.8867
   }
 ]

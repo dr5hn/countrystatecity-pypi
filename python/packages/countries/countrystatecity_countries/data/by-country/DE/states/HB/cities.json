@@ -9,7 +9,12 @@
     "latitude": "53.07516000",
     "longitude": "8.80777000",
     "county_id": 3494,
-    "wikiDataId": null
+    "wikiDataId": "Q24879",
+    "type": "city",
+    "native": "Bremen",
+    "timezone": "Europe/Berlin",
+    "population": 588413,
+    "population_year": 2025
   },
   {
     "id": 24321,
@@ -21,7 +26,12 @@
     "latitude": "53.55021000",
     "longitude": "8.57673000",
     "county_id": 3495,
-    "wikiDataId": null
+    "wikiDataId": "Q2706",
+    "type": "city",
+    "native": "Bremerhaven",
+    "timezone": "Europe/Berlin",
+    "population": 118502,
+    "population_year": 2025
   },
   {
     "id": 24426,
@@ -33,7 +43,12 @@
     "latitude": "53.16532000",
     "longitude": "8.68873000",
     "county_id": 3494,
-    "wikiDataId": null
+    "wikiDataId": "Q882731",
+    "type": "section",
+    "native": "Burglesum",
+    "timezone": "Europe/Berlin",
+    "population": 33000,
+    "population_year": null
   },
   {
     "id": 29819,
@@ -45,6 +60,11 @@
     "latitude": "53.17052490",
     "longitude": "8.62388030",
     "county_id": 3494,
-    "wikiDataId": null
+    "wikiDataId": "Q315005",
+    "type": "section",
+    "native": "Vegesack",
+    "timezone": "Europe/Berlin",
+    "population": 37842,
+    "population_year": null
   }
 ]

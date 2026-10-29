@@ -9,7 +9,12 @@
     "latitude": "16.75000000",
     "longitude": "-14.83333333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6517678",
+    "type": "city",
+    "native": "ليجات",
+    "timezone": "Africa/Nouakchott",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 67753,
@@ -21,7 +26,12 @@
     "latitude": "16.51378000",
     "longitude": "-15.80503000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q861580",
+    "type": "adm1",
+    "native": "روسو",
+    "timezone": "Africa/Nouakchott",
+    "population": 15870,
+    "population_year": null
   },
   {
     "id": 67755,
@@ -33,6 +43,11 @@
     "latitude": "16.60175000",
     "longitude": "-15.34866000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q861580",
+    "type": "city",
+    "native": "تيكاني",
+    "timezone": "Africa/Nouakchott",
+    "population": 22041,
+    "population_year": null
   }
 ]

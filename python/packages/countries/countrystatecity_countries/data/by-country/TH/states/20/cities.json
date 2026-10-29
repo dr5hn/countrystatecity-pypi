@@ -9,7 +9,12 @@
     "latitude": "13.25280000",
     "longitude": "101.18151000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475087",
+    "type": "district",
+    "native": "อำเภอบ้านบึง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106385,
@@ -21,7 +26,12 @@
     "latitude": "13.31100000",
     "longitude": "101.11214000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13025368",
+    "type": "adm2",
+    "native": "บ้านบึง",
+    "timezone": "Asia/Bangkok",
+    "population": 19346,
+    "population_year": null
   },
   {
     "id": 106396,
@@ -33,7 +43,12 @@
     "latitude": "12.92419000",
     "longitude": "100.78794000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "บ้านเกาะล้าน",
+    "timezone": "Asia/Bangkok",
+    "population": 2000,
+    "population_year": null
   },
   {
     "id": 106416,
@@ -45,7 +60,12 @@
     "latitude": "13.07147000",
     "longitude": "101.00314000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "บ้านตลาดบึง",
+    "timezone": "Asia/Bangkok",
+    "population": 26113,
+    "population_year": null
   },
   {
     "id": 106432,
@@ -57,10 +77,15 @@
     "latitude": "13.04704000",
     "longitude": "100.92891000",
     "county_id": 5510,
-    "wikiDataId": null
+    "wikiDataId": "Q1390973",
+    "type": "town",
+    "native": "บางละมุง",
+    "timezone": "Asia/Bangkok",
+    "population": 39620,
+    "population_year": null
   },
   {
-    "id": 105254,
+    "id": 166955,
     "name": "Bo Thong",
     "state_id": 3513,
     "state_code": "20",
@@ -69,7 +94,12 @@
     "latitude": "13.27886000",
     "longitude": "101.44187000",
     "county_id": 5516,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "บ่อทอง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106481,
@@ -81,10 +111,15 @@
     "latitude": "13.36220000",
     "longitude": "100.98345000",
     "county_id": 5507,
-    "wikiDataId": null
+    "wikiDataId": "Q138589",
+    "type": "city",
+    "native": "ชลบุรี",
+    "timezone": "Asia/Bangkok",
+    "population": 219164,
+    "population_year": null
   },
   {
-    "id": 105438,
+    "id": 167037,
     "name": "Ko Chan",
     "state_id": 3513,
     "state_code": "20",
@@ -93,7 +128,12 @@
     "latitude": "13.41595000",
     "longitude": "101.33489000",
     "county_id": 5517,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "เกาะจันทร์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106537,
@@ -105,10 +145,15 @@
     "latitude": "13.16389000",
     "longitude": "100.80547000",
     "county_id": 5514,
-    "wikiDataId": null
+    "wikiDataId": "Q13025301",
+    "type": "town",
+    "native": "เกาะสีชัง",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   },
   {
-    "id": 105686,
+    "id": 167125,
     "name": "Nong Yai",
     "state_id": 3513,
     "state_code": "20",
@@ -117,7 +162,12 @@
     "latitude": "13.15415000",
     "longitude": "101.37206000",
     "county_id": 5509,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "หนองใหญ่",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106617,
@@ -129,7 +179,12 @@
     "latitude": "12.93333000",
     "longitude": "100.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q170919",
+    "type": "city",
+    "native": "พัทยา",
+    "timezone": "Asia/Bangkok",
+    "population": 119532,
+    "population_year": null
   },
   {
     "id": 106620,
@@ -140,8 +195,13 @@
     "country_code": "TH",
     "latitude": "13.46804000",
     "longitude": "101.09532000",
-    "county_id": 5511,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q28736016",
+    "type": "adm2",
+    "native": "พานทอง",
+    "timezone": "Asia/Bangkok",
+    "population": 18708,
+    "population_year": null
   },
   {
     "id": 106621,
@@ -152,8 +212,13 @@
     "country_code": "TH",
     "latitude": "13.44581000",
     "longitude": "101.18445000",
-    "county_id": 5512,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q13025381",
+    "type": "adm2",
+    "native": "พนัสนิคม",
+    "timezone": "Asia/Bangkok",
+    "population": 21924,
+    "population_year": null
   },
   {
     "id": 106690,
@@ -164,8 +229,13 @@
     "country_code": "TH",
     "latitude": "12.66644000",
     "longitude": "100.90073000",
-    "county_id": 5515,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q13025387",
+    "type": "adm2",
+    "native": "สัตหีบ",
+    "timezone": "Asia/Bangkok",
+    "population": 65444,
+    "population_year": null
   },
   {
     "id": 106699,
@@ -176,7 +246,12 @@
     "country_code": "TH",
     "latitude": "13.17372000",
     "longitude": "100.93111000",
-    "county_id": 5513,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q13409879",
+    "type": "adm2",
+    "native": "ศรีราชา",
+    "timezone": "Asia/Bangkok",
+    "population": 178916,
+    "population_year": null
   }
 ]

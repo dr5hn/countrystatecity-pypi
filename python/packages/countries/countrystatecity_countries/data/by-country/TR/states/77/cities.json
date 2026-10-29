@@ -9,7 +9,12 @@
     "latitude": "40.69495000",
     "longitude": "29.50986000",
     "county_id": 7721,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Altınova",
+    "timezone": "Europe/Istanbul",
+    "population": 10908,
+    "population_year": 2025
   },
   {
     "id": 107187,
@@ -21,7 +26,12 @@
     "latitude": "40.52919000",
     "longitude": "28.83871000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q689620",
+    "type": "adm2",
+    "native": "Armutlu",
+    "timezone": "Europe/Istanbul",
+    "population": 9625,
+    "population_year": null
   },
   {
     "id": 108831,
@@ -33,7 +43,12 @@
     "latitude": "40.66028000",
     "longitude": "29.32361000",
     "county_id": 7724,
-    "wikiDataId": null
+    "wikiDataId": "Q2286178",
+    "type": "municipality",
+    "native": "Çiftlikköy",
+    "timezone": "Europe/Istanbul",
+    "population": 50641,
+    "population_year": 2025
   },
   {
     "id": 108856,
@@ -45,7 +60,12 @@
     "latitude": "40.64538000",
     "longitude": "29.12450000",
     "county_id": 7723,
-    "wikiDataId": null
+    "wikiDataId": "Q3104061",
+    "type": "municipality",
+    "native": "Çınarcık",
+    "timezone": "Europe/Istanbul",
+    "population": 20496,
+    "population_year": 2025
   },
   {
     "id": 108572,
@@ -57,7 +77,12 @@
     "latitude": "40.61381000",
     "longitude": "29.18049000",
     "county_id": 7728,
-    "wikiDataId": null
+    "wikiDataId": "Q2670606",
+    "type": "municipality",
+    "native": "Termal",
+    "timezone": "Europe/Istanbul",
+    "population": 3702,
+    "population_year": 2025
   },
   {
     "id": 165613,
@@ -68,7 +93,12 @@
     "country_code": "TR",
     "latitude": "40.65501000",
     "longitude": "29.27693000",
-    "county_id": 7419,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q205942",
+    "type": "adm1",
+    "native": "Yalova",
+    "timezone": "Europe/Istanbul",
+    "population": 130445,
+    "population_year": 2025
   }
 ]

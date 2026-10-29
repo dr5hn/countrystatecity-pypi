@@ -52,16 +52,16 @@
     "timezone": "Africa/Luanda"
   },
   {
-    "id": 226,
-    "name": "Cuando Cubango",
+    "id": 5857,
+    "name": "Cuando",
     "country_id": 7,
     "country_code": "AO",
-    "state_code": "CCU",
+    "state_code": "CUB",
     "type": "province",
-    "latitude": "-16.04576940",
-    "longitude": "19.56215320",
-    "iso3166_2": "AO-CCU",
-    "native": "Quando Cubango",
+    "latitude": "-15.79664000",
+    "longitude": "20.36642000",
+    "iso3166_2": "AO-CUB",
+    "native": "Cuando",
     "timezone": "Africa/Luanda"
   },
   {
@@ -88,6 +88,19 @@
     "longitude": "15.09757120",
     "iso3166_2": "AO-CUS",
     "native": "Quanza",
+    "timezone": "Africa/Luanda"
+  },
+  {
+    "id": 5856,
+    "name": "Cubango",
+    "country_id": 7,
+    "country_code": "AO",
+    "state_code": "CBG",
+    "type": "province",
+    "latitude": "-14.70247000",
+    "longitude": "17.69655000",
+    "iso3166_2": "AO-CBG",
+    "native": "Cubango",
     "timezone": "Africa/Luanda"
   },
   {

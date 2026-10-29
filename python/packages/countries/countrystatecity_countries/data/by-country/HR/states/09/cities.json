@@ -9,7 +9,12 @@
     "latitude": "45.00250000",
     "longitude": "15.13389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q283566",
+    "type": "municipality",
+    "native": "Brinje",
+    "timezone": "Europe/Zagreb",
+    "population": 1250,
+    "population_year": null
   },
   {
     "id": 54501,
@@ -21,7 +26,12 @@
     "latitude": "44.54611000",
     "longitude": "15.37472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q319276",
+    "type": "city",
+    "native": "Gospić",
+    "timezone": "Europe/Zagreb",
+    "population": 6362,
+    "population_year": null
   },
   {
     "id": 54633,
@@ -33,7 +43,12 @@
     "latitude": "44.52750000",
     "longitude": "15.07389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q775393",
+    "type": "municipality",
+    "native": "Karlobag",
+    "timezone": "Europe/Zagreb",
+    "population": 368,
+    "population_year": null
   },
   {
     "id": 164780,
@@ -45,7 +60,12 @@
     "latitude": "44.74389000",
     "longitude": "15.70972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1269156",
+    "type": "locality",
+    "native": null,
+    "timezone": "Europe/Zagreb",
+    "population": 1563,
+    "population_year": null
   },
   {
     "id": 54690,
@@ -57,7 +77,12 @@
     "latitude": "44.60389000",
     "longitude": "15.42472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3443459",
+    "type": "locality",
+    "native": "Lički Osik",
+    "timezone": "Europe/Zagreb",
+    "population": 1438,
+    "population_year": null
   },
   {
     "id": 54758,
@@ -69,7 +94,12 @@
     "latitude": "44.55778000",
     "longitude": "14.88667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q396613",
+    "type": "city",
+    "native": "Novalja",
+    "timezone": "Europe/Zagreb",
+    "population": 2415,
+    "population_year": null
   },
   {
     "id": 54796,
@@ -81,7 +111,12 @@
     "latitude": "44.86944000",
     "longitude": "15.23750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q399109",
+    "type": "city",
+    "native": "Otočac",
+    "timezone": "Europe/Zagreb",
+    "population": 3852,
+    "population_year": null
   },
   {
     "id": 54802,
@@ -93,7 +128,12 @@
     "latitude": "44.64944000",
     "longitude": "15.38333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1008121",
+    "type": "adm2",
+    "native": "Perušić",
+    "timezone": "Europe/Zagreb",
+    "population": 752,
+    "population_year": null
   },
   {
     "id": 54812,
@@ -105,7 +145,12 @@
     "latitude": "44.88053000",
     "longitude": "15.62123000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1277540",
+    "type": "municipality",
+    "native": "Plitvička Jezera",
+    "timezone": "Europe/Zagreb",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 54824,
@@ -117,7 +162,12 @@
     "latitude": "44.63917000",
     "longitude": "15.17917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Popovača",
+    "timezone": "Europe/Zagreb",
+    "population": 10255,
+    "population_year": null
   },
   {
     "id": 54884,
@@ -129,6 +179,11 @@
     "latitude": "44.98944000",
     "longitude": "14.90583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q259466",
+    "type": "city",
+    "native": "Senj",
+    "timezone": "Europe/Zagreb",
+    "population": 4164,
+    "population_year": null
   }
 ]

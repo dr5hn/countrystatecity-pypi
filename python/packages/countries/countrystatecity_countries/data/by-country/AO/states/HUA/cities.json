@@ -9,7 +9,12 @@
     "latitude": "-12.85250000",
     "longitude": "15.56056000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1052090",
+    "type": "city",
+    "native": "Caála",
+    "timezone": "Africa/Luanda",
+    "population": 130000,
+    "population_year": null
   },
   {
     "id": 601,
@@ -21,7 +26,12 @@
     "latitude": "-12.30261000",
     "longitude": "15.43358000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Chela",
+    "timezone": "Africa/Luanda",
+    "population": 5811,
+    "population_year": null
   },
   {
     "id": 609,
@@ -33,7 +43,12 @@
     "latitude": "-12.77611000",
     "longitude": "15.73917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q207322",
+    "type": "adm1",
+    "native": "Huambo",
+    "timezone": "Africa/Luanda",
+    "population": 595304,
+    "population_year": null
   },
   {
     "id": 614,
@@ -45,6 +60,11 @@
     "latitude": "-12.90667000",
     "longitude": "15.25333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2342492",
+    "type": "city",
+    "native": "Longonia",
+    "timezone": "Africa/Luanda",
+    "population": 23000,
+    "population_year": null
   }
 ]

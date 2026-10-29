@@ -9,7 +9,12 @@
     "latitude": "34.61000000",
     "longitude": "-2.57000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q820802",
+    "type": "city",
+    "native": "بركان",
+    "timezone": "Africa/Casablanca",
+    "population": 99069,
+    "population_year": null
   },
   {
     "id": 67087,
@@ -21,7 +26,12 @@
     "latitude": "32.53379000",
     "longitude": "-1.96209000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "بوعرفة",
+    "timezone": "Africa/Casablanca",
+    "population": 30068,
+    "population_year": null
   },
   {
     "id": 67107,
@@ -33,7 +43,12 @@
     "latitude": "34.97670000",
     "longitude": "-3.38842000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "province",
+    "native": "إقليم الدريوش",
+    "timezone": "Africa/Casablanca",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 67108,
@@ -45,7 +60,12 @@
     "latitude": "34.58319000",
     "longitude": "-2.50612000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3049730",
+    "type": "city",
+    "native": "العيون",
+    "timezone": "Africa/Casablanca",
+    "population": 45679,
+    "population_year": null
   },
   {
     "id": 67119,
@@ -57,7 +77,12 @@
     "latitude": "32.83333000",
     "longitude": "-2.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1412034",
+    "type": "city",
+    "native": "فجيج",
+    "timezone": "Africa/Casablanca",
+    "population": 10449,
+    "population_year": null
   },
   {
     "id": 67141,
@@ -69,7 +94,12 @@
     "latitude": "34.23662000",
     "longitude": "-2.04284000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1687516",
+    "type": "city",
+    "native": "جرادة",
+    "timezone": "Africa/Casablanca",
+    "population": 103527,
+    "population_year": null
   },
   {
     "id": 67173,
@@ -81,7 +111,12 @@
     "latitude": "35.00000000",
     "longitude": "-3.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q367864",
+    "type": "city",
+    "native": "الناظور",
+    "timezone": "Africa/Casablanca",
+    "population": 158202,
+    "population_year": null
   },
   {
     "id": 67186,
@@ -93,6 +128,11 @@
     "latitude": "34.23600000",
     "longitude": "-2.29400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1734717",
+    "type": "city",
+    "native": "وجدة أنجاد",
+    "timezone": "Africa/Casablanca",
+    "population": 572454,
+    "population_year": null
   }
 ]

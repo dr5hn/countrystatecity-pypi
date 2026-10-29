@@ -9,7 +9,12 @@
     "latitude": "37.37111000",
     "longitude": "33.69291000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q130022",
+    "type": "adm2",
+    "native": "Ayrancı",
+    "timezone": "Europe/Istanbul",
+    "population": 8338,
+    "population_year": null
   },
   {
     "id": 107320,
@@ -21,7 +26,12 @@
     "latitude": "36.75337000",
     "longitude": "32.68018000",
     "county_id": 7587,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Başyayla",
+    "timezone": "Europe/Istanbul",
+    "population": 2108,
+    "population_year": 2025
   },
   {
     "id": 107596,
@@ -32,8 +42,13 @@
     "country_code": "TR",
     "latitude": "36.64043000",
     "longitude": "32.89179000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7041,
+    "wikiDataId": "Q130207",
+    "type": "municipality",
+    "native": "Ermenek",
+    "timezone": "Europe/Istanbul",
+    "population": 16986,
+    "population_year": null
   },
   {
     "id": 107958,
@@ -44,8 +59,13 @@
     "country_code": "TR",
     "latitude": "37.23028000",
     "longitude": "32.95889000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7565,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Kazımkarabekir",
+    "timezone": "Europe/Istanbul",
+    "population": 4407,
+    "population_year": null
   },
   {
     "id": 107905,
@@ -56,8 +76,13 @@
     "country_code": "TR",
     "latitude": "37.18111000",
     "longitude": "33.21500000",
-    "county_id": 7157,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q262579",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 176985,
+    "population_year": 2025
   },
   {
     "id": 108407,
@@ -68,7 +93,12 @@
     "country_code": "TR",
     "latitude": "36.69705000",
     "longitude": "32.61203000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7686,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Sarıveliler",
+    "timezone": "Europe/Istanbul",
+    "population": 12601,
+    "population_year": null
   }
 ]

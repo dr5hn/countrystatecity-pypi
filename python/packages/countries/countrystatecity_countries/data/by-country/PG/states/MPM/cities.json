@@ -9,7 +9,12 @@
     "latitude": "-4.50000000",
     "longitude": "145.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3710743",
+    "type": "area",
+    "native": "Bogia",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 57104,
+    "population_year": null
   },
   {
     "id": 81078,
@@ -21,7 +26,12 @@
     "latitude": "-5.22152000",
     "longitude": "145.78695000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q586673",
+    "type": "adm1",
+    "native": "Madang",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 27419,
+    "population_year": null
   },
   {
     "id": 81084,
@@ -33,7 +43,12 @@
     "latitude": "-4.91667000",
     "longitude": "144.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711164",
+    "type": "area",
+    "native": "Middle Ramu",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 57879,
+    "population_year": null
   },
   {
     "id": 81103,
@@ -45,7 +60,12 @@
     "latitude": "-5.72303000",
     "longitude": "146.46149000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "area",
+    "native": "Rai Coast",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 56299,
+    "population_year": null
   },
   {
     "id": 81111,
@@ -57,7 +77,12 @@
     "latitude": "-4.80000000",
     "longitude": "145.55000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711497",
+    "type": "area",
+    "native": "Sumkar",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 67052,
+    "population_year": null
   },
   {
     "id": 81119,
@@ -69,6 +94,11 @@
     "latitude": "-5.53333000",
     "longitude": "145.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711569",
+    "type": "area",
+    "native": "Usino Bundi",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 40079,
+    "population_year": null
   }
 ]

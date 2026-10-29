@@ -9,7 +9,12 @@
     "latitude": "46.22587000",
     "longitude": "14.61207000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15883",
+    "type": "city",
+    "native": "Kamnik",
+    "timezone": "Europe/Ljubljana",
+    "population": 13800,
+    "population_year": null
   },
   {
     "id": 104184,
@@ -21,7 +26,12 @@
     "latitude": "46.23333000",
     "longitude": "14.61667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6810577",
+    "type": "locality",
+    "native": "Mekinje",
+    "timezone": "Europe/Ljubljana",
+    "population": 1680,
+    "population_year": null
   },
   {
     "id": 104355,
@@ -33,6 +43,11 @@
     "latitude": "46.19333000",
     "longitude": "14.59667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5101569",
+    "type": "locality",
+    "native": "Smarca",
+    "timezone": "Europe/Ljubljana",
+    "population": 1535,
+    "population_year": null
   }
 ]

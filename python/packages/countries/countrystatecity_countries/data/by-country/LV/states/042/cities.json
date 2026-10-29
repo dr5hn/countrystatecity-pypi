@@ -9,7 +9,12 @@
     "latitude": "56.16152000",
     "longitude": "25.74783000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q420333",
+    "type": "adm2",
+    "native": "Aknīste",
+    "timezone": "Europe/Riga",
+    "population": 2546,
+    "population_year": null
   },
   {
     "id": 66908,
@@ -21,7 +26,12 @@
     "latitude": "56.49903000",
     "longitude": "25.85735000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q191120",
+    "type": "adm1",
+    "native": "Jēkabpils",
+    "timezone": "Europe/Riga",
+    "population": 21014,
+    "population_year": null
   },
   {
     "id": 66914,
@@ -33,7 +43,12 @@
     "latitude": "56.51068000",
     "longitude": "25.86117000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q745661",
+    "type": "city",
+    "native": "Krustpils",
+    "timezone": "Europe/Riga",
+    "population": 6680,
+    "population_year": null
   },
   {
     "id": 66985,
@@ -45,6 +60,11 @@
     "latitude": "56.34751000",
     "longitude": "25.55514000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q641220",
+    "type": "adm2",
+    "native": "Viesīte",
+    "timezone": "Europe/Riga",
+    "population": 1473,
+    "population_year": null
   }
 ]

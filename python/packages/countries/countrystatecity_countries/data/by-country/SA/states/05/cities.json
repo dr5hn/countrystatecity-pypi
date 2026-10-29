@@ -9,7 +9,12 @@
     "latitude": "26.03018040",
     "longitude": "43.15758140",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الذبيحة",
+    "timezone": "Asia/Riyadh",
+    "population": 4630,
+    "population_year": null
   },
   {
     "id": 102817,
@@ -21,7 +26,12 @@
     "latitude": "26.13915000",
     "longitude": "43.65782000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31872259",
+    "type": "town",
+    "native": "البكيرية",
+    "timezone": "Asia/Riyadh",
+    "population": 43229,
+    "population_year": null
   },
   {
     "id": 102818,
@@ -33,7 +43,12 @@
     "latitude": "26.44360000",
     "longitude": "43.25164000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31872595",
+    "type": "town",
+    "native": "الفويلق",
+    "timezone": "Asia/Riyadh",
+    "population": 5205,
+    "population_year": null
   },
   {
     "id": 102830,
@@ -45,7 +60,12 @@
     "latitude": "25.86012000",
     "longitude": "44.22228000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "المذنب",
+    "timezone": "Asia/Riyadh",
+    "population": 33341,
+    "population_year": null
   },
   {
     "id": 102841,
@@ -57,7 +77,12 @@
     "latitude": "25.86944000",
     "longitude": "43.49730000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1878991",
+    "type": "town",
+    "native": "الراس",
+    "timezone": "Asia/Riyadh",
+    "population": 81728,
+    "population_year": null
   },
   {
     "id": 102850,
@@ -69,7 +94,12 @@
     "latitude": "26.32599000",
     "longitude": "43.97497000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q259253",
+    "type": "city",
+    "native": "بريدة",
+    "timezone": "Asia/Riyadh",
+    "population": 745353,
+    "population_year": null
   },
   {
     "id": 148578,
@@ -81,7 +111,12 @@
     "latitude": "25.35621000",
     "longitude": "43.62268000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6768386",
+    "type": "town",
+    "native": "دخنة",
+    "timezone": "Asia/Riyadh",
+    "population": 6354,
+    "population_year": null
   },
   {
     "id": 148580,
@@ -93,7 +128,12 @@
     "latitude": "27.40285000",
     "longitude": "44.32770000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12241875",
+    "type": "town",
+    "native": "قبة",
+    "timezone": "Asia/Riyadh",
+    "population": 9210,
+    "population_year": null
   },
   {
     "id": 102883,
@@ -105,7 +145,12 @@
     "latitude": "27.10000000",
     "longitude": "44.13333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q32189686",
+    "type": "city",
+    "native": "تنومة",
+    "timezone": "Asia/Riyadh",
+    "population": 13594,
+    "population_year": null
   },
   {
     "id": 157032,
@@ -117,7 +162,12 @@
     "latitude": "26.08760000",
     "longitude": "43.99130000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "عنيزة",
+    "timezone": "Asia/Riyadh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 102891,
@@ -129,6 +179,11 @@
     "latitude": "25.42670000",
     "longitude": "42.83430000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Wed Alnkil",
+    "timezone": "Asia/Riyadh",
+    "population": 1500,
+    "population_year": null
   }
 ]

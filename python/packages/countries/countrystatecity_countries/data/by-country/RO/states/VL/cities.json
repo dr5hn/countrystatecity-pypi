@@ -9,7 +9,12 @@
     "latitude": "45.01667000",
     "longitude": "23.81667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2721393",
+    "type": "village",
+    "native": "Alunu",
+    "timezone": "Europe/Bucharest",
+    "population": 687,
+    "population_year": 2021
   },
   {
     "id": 90861,
@@ -21,11 +26,16 @@
     "latitude": "45.00954000",
     "longitude": "23.81760000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5117360",
+    "type": "municipality",
+    "native": "Alunu",
+    "timezone": "Europe/Bucharest",
+    "population": 3733,
+    "population_year": 2021
   },
   {
     "id": 89951,
-    "name": "Amărăşti",
+    "name": "Amărăști",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -33,11 +43,16 @@
     "latitude": "44.76667000",
     "longitude": "24.15000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2268881",
+    "type": "village",
+    "native": "Amărăști",
+    "timezone": "Europe/Bucharest",
+    "population": 480,
+    "population_year": 2021
   },
   {
     "id": 90865,
-    "name": "Amărăşti",
+    "name": "Amărăști",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -45,7 +60,12 @@
     "latitude": "44.76107000",
     "longitude": "24.14382000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3916038",
+    "type": "municipality",
+    "native": "Amărăști",
+    "timezone": "Europe/Bucharest",
+    "population": 1530,
+    "population_year": 2021
   },
   {
     "id": 90470,
@@ -57,11 +77,16 @@
     "latitude": "44.96667000",
     "longitude": "24.23333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16898632",
+    "type": "locality",
+    "native": "Băbeni",
+    "timezone": "Europe/Bucharest",
+    "population": 4088,
+    "population_year": 2021
   },
   {
     "id": 95480,
-    "name": "Bãbeni",
+    "name": "Băbeni",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -69,7 +94,12 @@
     "latitude": "44.97023000",
     "longitude": "24.22555000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q275890",
+    "type": "town",
+    "native": "Băbeni",
+    "timezone": "Europe/Bucharest",
+    "population": 7570,
+    "population_year": 2021
   },
   {
     "id": 90471,
@@ -81,7 +111,12 @@
     "latitude": "44.61404000",
     "longitude": "23.97798000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12081425",
+    "type": "village",
+    "native": "Băbeni-Oltețu",
+    "timezone": "Europe/Bucharest",
+    "population": 831,
+    "population_year": 2021
   },
   {
     "id": 90490,
@@ -93,11 +128,16 @@
     "latitude": "45.08333000",
     "longitude": "24.18333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q855719",
+    "type": "town",
+    "native": "Băile Govora",
+    "timezone": "Europe/Bucharest",
+    "population": 2158,
+    "population_year": 2021
   },
   {
     "id": 90492,
-    "name": "Băile Olăneşti",
+    "name": "Băile Olănești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -105,11 +145,16 @@
     "latitude": "45.20000000",
     "longitude": "24.23333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Băile Olănești",
+    "timezone": "Europe/Bucharest",
+    "population": 3750,
+    "population_year": 2021
   },
   {
     "id": 90505,
-    "name": "Bălceşti",
+    "name": "Bălcești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -117,11 +162,16 @@
     "latitude": "44.61667000",
     "longitude": "23.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16898636",
+    "type": "locality",
+    "native": "Bălcești",
+    "timezone": "Europe/Bucharest",
+    "population": 1796,
+    "population_year": 2021
   },
   {
     "id": 95487,
-    "name": "Bãlceşti",
+    "name": "Bălcești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -129,11 +179,16 @@
     "latitude": "44.62941000",
     "longitude": "23.94052000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q276127",
+    "type": "town",
+    "native": "Bălcești",
+    "timezone": "Europe/Bucharest",
+    "population": 4235,
+    "population_year": 2021
   },
   {
     "id": 90540,
-    "name": "Bărbăteşti",
+    "name": "Bărbătești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -141,11 +196,16 @@
     "latitude": "45.18333000",
     "longitude": "24.11667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1840232",
+    "type": "village",
+    "native": "Bărbătești",
+    "timezone": "Europe/Bucharest",
+    "population": 1314,
+    "population_year": 2021
   },
   {
     "id": 91239,
-    "name": "Bărbăteşti",
+    "name": "Bărbătești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -153,11 +213,16 @@
     "latitude": "45.14154000",
     "longitude": "24.10933000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12081956",
+    "type": "municipality",
+    "native": "Bărbătești",
+    "timezone": "Europe/Bucharest",
+    "population": 2853,
+    "population_year": 2021
   },
   {
     "id": 90070,
-    "name": "Batârăşti",
+    "name": "Batârăști",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -165,11 +230,16 @@
     "latitude": "44.84503940",
     "longitude": "24.13587750",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Batârăști",
+    "timezone": "Europe/Bucharest",
+    "population": 2017,
+    "population_year": null
   },
   {
     "id": 90095,
-    "name": "Berbeşti",
+    "name": "Berbești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -177,11 +247,16 @@
     "latitude": "44.98333000",
     "longitude": "23.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16898639",
+    "type": "locality",
+    "native": "Berbești",
+    "timezone": "Europe/Bucharest",
+    "population": 1744,
+    "population_year": 2021
   },
   {
     "id": 95461,
-    "name": "Berbeşti",
+    "name": "Berbești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -189,11 +264,16 @@
     "latitude": "44.99915000",
     "longitude": "23.88013000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q276156",
+    "type": "town",
+    "native": "Berbești",
+    "timezone": "Europe/Bucharest",
+    "population": 4231,
+    "population_year": 2021
   },
   {
     "id": 90110,
-    "name": "Berislăveşti",
+    "name": "Berislăvești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -201,11 +281,16 @@
     "latitude": "45.25000000",
     "longitude": "24.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q526754",
+    "type": "village",
+    "native": "Berislăvești",
+    "timezone": "Europe/Bucharest",
+    "population": 469,
+    "population_year": 2021
   },
   {
     "id": 90969,
-    "name": "Berislăveşti",
+    "name": "Berislăvești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -213,7 +298,12 @@
     "latitude": "45.26406000",
     "longitude": "24.43785000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724540",
+    "type": "municipality",
+    "native": "Berislăvești",
+    "timezone": "Europe/Bucharest",
+    "population": 2418,
+    "population_year": 2021
   },
   {
     "id": 90150,
@@ -225,7 +315,12 @@
     "latitude": "45.18612000",
     "longitude": "24.04010000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12087029",
+    "type": "village",
+    "native": "Bistrița",
+    "timezone": "Europe/Bucharest",
+    "population": 740,
+    "population_year": 2021
   },
   {
     "id": 90181,
@@ -237,11 +332,16 @@
     "latitude": "45.14167000",
     "longitude": "24.11549000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12083459",
+    "type": "village",
+    "native": "Bodești",
+    "timezone": "Europe/Bucharest",
+    "population": 765,
+    "population_year": 2021
   },
   {
     "id": 90206,
-    "name": "Boişoara",
+    "name": "Boișoara",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -249,11 +349,16 @@
     "latitude": "45.43333000",
     "longitude": "24.38333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2298101",
+    "type": "village",
+    "native": "Boișoara",
+    "timezone": "Europe/Bucharest",
+    "population": 478,
+    "population_year": 2021
   },
   {
     "id": 91035,
-    "name": "Boişoara",
+    "name": "Boișoara",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -261,7 +366,12 @@
     "latitude": "45.44232000",
     "longitude": "24.37462000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724556",
+    "type": "municipality",
+    "native": "Boișoara",
+    "timezone": "Europe/Bucharest",
+    "population": 967,
+    "population_year": 2021
   },
   {
     "id": 90303,
@@ -273,7 +383,12 @@
     "latitude": "45.33797000",
     "longitude": "24.24863000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16898641",
+    "type": "locality",
+    "native": "Brezoi",
+    "timezone": "Europe/Bucharest",
+    "population": 4067,
+    "population_year": 2021
   },
   {
     "id": 95471,
@@ -285,11 +400,16 @@
     "latitude": "45.35088000",
     "longitude": "24.25681000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q526019",
+    "type": "town",
+    "native": "Brezoi",
+    "timezone": "Europe/Bucharest",
+    "population": 5696,
+    "population_year": 2021
   },
   {
     "id": 90380,
-    "name": "Budeşti",
+    "name": "Budești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -297,11 +417,16 @@
     "latitude": "45.05000000",
     "longitude": "24.38333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12085238",
+    "type": "village",
+    "native": "Budești",
+    "timezone": "Europe/Bucharest",
+    "population": 1779,
+    "population_year": 2021
   },
   {
     "id": 91147,
-    "name": "Budeşti",
+    "name": "Budești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -309,7 +434,12 @@
     "latitude": "45.04714000",
     "longitude": "24.36603000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3646461",
+    "type": "municipality",
+    "native": "Budești",
+    "timezone": "Europe/Bucharest",
+    "population": 6652,
+    "population_year": 2021
   },
   {
     "id": 90399,
@@ -321,7 +451,12 @@
     "latitude": "45.13333000",
     "longitude": "24.35000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1889960",
+    "type": "village",
+    "native": "Bujoreni",
+    "timezone": "Europe/Bucharest",
+    "population": 553,
+    "population_year": 2021
   },
   {
     "id": 91155,
@@ -333,11 +468,16 @@
     "latitude": "45.16235000",
     "longitude": "24.36593000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724594",
+    "type": "municipality",
+    "native": "Bujoreni",
+    "timezone": "Europe/Bucharest",
+    "population": 5305,
+    "population_year": 2021
   },
   {
     "id": 90408,
-    "name": "Buneşti",
+    "name": "Bunești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -345,11 +485,16 @@
     "latitude": "45.11667000",
     "longitude": "24.18333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q437181",
+    "type": "village",
+    "native": "Bunești",
+    "timezone": "Europe/Bucharest",
+    "population": 947,
+    "population_year": 2021
   },
   {
     "id": 91163,
-    "name": "Buneşti",
+    "name": "Bunești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -357,7 +502,12 @@
     "latitude": "45.10202000",
     "longitude": "24.21397000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915592",
+    "type": "municipality",
+    "native": "Bunești",
+    "timezone": "Europe/Bucharest",
+    "population": 2438,
+    "population_year": 2021
   },
   {
     "id": 91539,
@@ -369,7 +519,12 @@
     "latitude": "45.49499000",
     "longitude": "24.30885000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2298095",
+    "type": "municipality",
+    "native": "Câineni",
+    "timezone": "Europe/Bucharest",
+    "population": 2484,
+    "population_year": 2021
   },
   {
     "id": 93790,
@@ -381,11 +536,16 @@
     "latitude": "45.48333000",
     "longitude": "24.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12109817",
+    "type": "village",
+    "native": "Câinenii Mici",
+    "timezone": "Europe/Bucharest",
+    "population": 664,
+    "population_year": 2021
   },
   {
     "id": 93835,
-    "name": "Călimăneşti",
+    "name": "Călimănești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -393,11 +553,16 @@
     "latitude": "45.23333000",
     "longitude": "24.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16898643",
+    "type": "locality",
+    "native": "Călimănești",
+    "timezone": "Europe/Bucharest",
+    "population": 3706,
+    "population_year": 2021
   },
   {
     "id": 95505,
-    "name": "Cãlimãneşti",
+    "name": "Călimănești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -405,7 +570,12 @@
     "latitude": "45.24252000",
     "longitude": "24.34375000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q375371",
+    "type": "town",
+    "native": "Călimănești",
+    "timezone": "Europe/Bucharest",
+    "population": 7348,
+    "population_year": 2021
   },
   {
     "id": 93836,
@@ -417,11 +587,16 @@
     "latitude": "44.70205000",
     "longitude": "24.25439000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12109522",
+    "type": "village",
+    "native": "Călina",
+    "timezone": "Europe/Bucharest",
+    "population": 1143,
+    "population_year": 2021
   },
   {
     "id": 90636,
-    "name": "Cernişoara",
+    "name": "Cernișoara",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -429,11 +604,16 @@
     "latitude": "45.03333000",
     "longitude": "23.98333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2627501",
+    "type": "village",
+    "native": "Cernișoara",
+    "timezone": "Europe/Bucharest",
+    "population": 755,
+    "population_year": 2021
   },
   {
     "id": 91294,
-    "name": "Cernişoara",
+    "name": "Cernișoara",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -441,7 +621,12 @@
     "latitude": "45.03432000",
     "longitude": "24.00487000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724627",
+    "type": "municipality",
+    "native": "Cernișoara",
+    "timezone": "Europe/Bucharest",
+    "population": 3298,
+    "population_year": 2021
   },
   {
     "id": 90653,
@@ -453,11 +638,16 @@
     "latitude": "45.18306000",
     "longitude": "24.21666000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12109764",
+    "type": "locality",
+    "native": "Cheia",
+    "timezone": "Europe/Bucharest",
+    "population": 841,
+    "population_year": 2021
   },
   {
     "id": 91791,
-    "name": "Comuna Frânceşti-Mânăstireni",
+    "name": "Comuna Frâncești-Mânăstireni",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -465,7 +655,12 @@
     "latitude": "45.02358000",
     "longitude": "24.16794000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724780",
+    "type": "municipality",
+    "native": "Comuna Frâncești-Mânăstireni",
+    "timezone": "Europe/Bucharest",
+    "population": 4989,
+    "population_year": 2021
   },
   {
     "id": 92381,
@@ -477,7 +672,12 @@
     "latitude": "44.67820000",
     "longitude": "24.10121000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724965",
+    "type": "municipality",
+    "native": "Comuna Mădulari-Beica",
+    "timezone": "Europe/Bucharest",
+    "population": 1197,
+    "population_year": 2021
   },
   {
     "id": 93604,
@@ -489,7 +689,12 @@
     "latitude": "45.06762000",
     "longitude": "24.31161000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12112674",
+    "type": "locality",
+    "native": "Copăcelu",
+    "timezone": "Europe/Bucharest",
+    "population": 1879,
+    "population_year": 2021
   },
   {
     "id": 91419,
@@ -501,7 +706,12 @@
     "latitude": "44.98223000",
     "longitude": "23.98164000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16427867",
+    "type": "municipality",
+    "native": "Copăceni",
+    "timezone": "Europe/Bucharest",
+    "population": 2468,
+    "population_year": 2021
   },
   {
     "id": 93606,
@@ -513,7 +723,12 @@
     "latitude": "45.00000000",
     "longitude": "23.98333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2549153",
+    "type": "village",
+    "native": "Copăceni",
+    "timezone": "Europe/Bucharest",
+    "population": 960,
+    "population_year": 2021
   },
   {
     "id": 93697,
@@ -525,11 +740,16 @@
     "latitude": "45.00788000",
     "longitude": "24.19188000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12113962",
+    "type": "village",
+    "native": "Coșani",
+    "timezone": "Europe/Bucharest",
+    "population": 1341,
+    "population_year": 2021
   },
   {
     "id": 91456,
-    "name": "Costeşti",
+    "name": "Costești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -537,11 +757,16 @@
     "latitude": "45.16936000",
     "longitude": "24.05813000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548677",
+    "type": "municipality",
+    "native": "Costești",
+    "timezone": "Europe/Bucharest",
+    "population": 2738,
+    "population_year": 2021
   },
   {
     "id": 93658,
-    "name": "Costeşti",
+    "name": "Costești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -549,11 +774,16 @@
     "latitude": "45.15000000",
     "longitude": "24.06667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12113565",
+    "type": "village",
+    "native": "Costești",
+    "timezone": "Europe/Bucharest",
+    "population": 1244,
+    "population_year": 2021
   },
   {
     "id": 91492,
-    "name": "Creţeni",
+    "name": "Crețeni",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -561,11 +791,16 @@
     "latitude": "44.70571000",
     "longitude": "24.18009000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16427869",
+    "type": "municipality",
+    "native": "Crețeni",
+    "timezone": "Europe/Bucharest",
+    "population": 1934,
+    "population_year": 2021
   },
   {
     "id": 93713,
-    "name": "Creţeni",
+    "name": "Crețeni",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -573,11 +808,16 @@
     "latitude": "44.68333000",
     "longitude": "24.18333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2298118",
+    "type": "village",
+    "native": "Crețeni",
+    "timezone": "Europe/Bucharest",
+    "population": 418,
+    "population_year": 2021
   },
   {
     "id": 91733,
-    "name": "Dăeşti",
+    "name": "Dăești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -585,11 +825,16 @@
     "latitude": "45.18584000",
     "longitude": "24.39337000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915383",
+    "type": "municipality",
+    "native": "Dăești",
+    "timezone": "Europe/Bucharest",
+    "population": 2966,
+    "population_year": 2021
   },
   {
     "id": 94117,
-    "name": "Dăeşti",
+    "name": "Dăești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -597,7 +842,12 @@
     "latitude": "44.96667000",
     "longitude": "24.13333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12100655",
+    "type": "village",
+    "native": "Dăești",
+    "timezone": "Europe/Bucharest",
+    "population": 535,
+    "population_year": 2021
   },
   {
     "id": 91742,
@@ -609,7 +859,12 @@
     "latitude": "44.91181000",
     "longitude": "24.44503000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2240600",
+    "type": "municipality",
+    "native": "Dănicei",
+    "timezone": "Europe/Bucharest",
+    "population": 1667,
+    "population_year": 2021
   },
   {
     "id": 93901,
@@ -621,7 +876,12 @@
     "latitude": "44.98252000",
     "longitude": "23.86749000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12103051",
+    "type": "locality",
+    "native": "Dealu Aluniș",
+    "timezone": "Europe/Bucharest",
+    "population": 488,
+    "population_year": 2021
   },
   {
     "id": 93902,
@@ -633,11 +893,16 @@
     "latitude": "44.90000000",
     "longitude": "24.43333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Dealu Dănicei",
+    "timezone": "Europe/Bucharest",
+    "population": 2459,
+    "population_year": null
   },
   {
     "id": 91623,
-    "name": "Diculeşti",
+    "name": "Diculești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -645,7 +910,12 @@
     "latitude": "44.60974000",
     "longitude": "23.98795000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915323",
+    "type": "municipality",
+    "native": "Diculești",
+    "timezone": "Europe/Bucharest",
+    "population": 1684,
+    "population_year": 2021
   },
   {
     "id": 93934,
@@ -657,7 +927,12 @@
     "latitude": "44.59351000",
     "longitude": "23.98968000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q968007",
+    "type": "village",
+    "native": "Diculești",
+    "timezone": "Europe/Bucharest",
+    "population": 416,
+    "population_year": 2021
   },
   {
     "id": 93971,
@@ -669,11 +944,16 @@
     "latitude": "44.62642000",
     "longitude": "24.20779000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12101564",
+    "type": "village",
+    "native": "Dobrușa",
+    "timezone": "Europe/Bucharest",
+    "population": 1204,
+    "population_year": 2021
   },
   {
     "id": 94064,
-    "name": "Drăgăşani",
+    "name": "Drăgășani",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -681,11 +961,16 @@
     "latitude": "44.65000000",
     "longitude": "24.26667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16898629",
+    "type": "locality",
+    "native": "Drăgășani",
+    "timezone": "Europe/Bucharest",
+    "population": 14410,
+    "population_year": 2021
   },
   {
     "id": 95139,
-    "name": "Drãgãşani",
+    "name": "Drăgășani",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -693,11 +978,16 @@
     "latitude": "44.64414000",
     "longitude": "24.24632000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q754726",
+    "type": "city",
+    "native": "Drăgășani",
+    "timezone": "Europe/Bucharest",
+    "population": 15617,
+    "population_year": 2021
   },
   {
     "id": 91690,
-    "name": "Drăgoeşti",
+    "name": "Drăgoești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -705,11 +995,16 @@
     "latitude": "44.80393000",
     "longitude": "24.29400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915585",
+    "type": "municipality",
+    "native": "Drăgoești",
+    "timezone": "Europe/Bucharest",
+    "population": 1724,
+    "population_year": 2021
   },
   {
     "id": 94041,
-    "name": "Drăgoeşti",
+    "name": "Drăgoești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -717,11 +1012,16 @@
     "latitude": "44.81667000",
     "longitude": "24.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2180423",
+    "type": "village",
+    "native": "Drăgoești",
+    "timezone": "Europe/Bucharest",
+    "population": 1114,
+    "population_year": 2021
   },
   {
     "id": 91813,
-    "name": "Fârtãţeşti",
+    "name": "Fârtățești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -729,11 +1029,16 @@
     "latitude": "44.77577000",
     "longitude": "23.98080000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915604",
+    "type": "municipality",
+    "native": "Fârtățești",
+    "timezone": "Europe/Bucharest",
+    "population": 3262,
+    "population_year": 2021
   },
   {
     "id": 94267,
-    "name": "Fărtăţeşti",
+    "name": "Fărtățești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -741,11 +1046,16 @@
     "latitude": "44.78333000",
     "longitude": "24.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2297655",
+    "type": "village",
+    "native": "Fărtățești",
+    "timezone": "Europe/Bucharest",
+    "population": 367,
+    "population_year": 2021
   },
   {
     "id": 91826,
-    "name": "Făureşti",
+    "name": "Făurești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -753,11 +1063,16 @@
     "latitude": "44.57351000",
     "longitude": "24.00871000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724793",
+    "type": "municipality",
+    "native": "Făurești",
+    "timezone": "Europe/Bucharest",
+    "population": 1224,
+    "population_year": 2021
   },
   {
     "id": 94271,
-    "name": "Făureşti",
+    "name": "Făurești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -765,7 +1080,12 @@
     "latitude": "44.56667000",
     "longitude": "24.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2341339",
+    "type": "village",
+    "native": "Făurești",
+    "timezone": "Europe/Bucharest",
+    "population": 401,
+    "population_year": 2021
   },
   {
     "id": 91830,
@@ -777,7 +1097,12 @@
     "latitude": "44.94428000",
     "longitude": "24.29633000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724795",
+    "type": "municipality",
+    "native": "Galicea",
+    "timezone": "Europe/Bucharest",
+    "population": 3268,
+    "population_year": 2021
   },
   {
     "id": 94277,
@@ -789,7 +1114,12 @@
     "latitude": "44.91667000",
     "longitude": "24.28333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2109923",
+    "type": "village",
+    "native": "Galicea",
+    "timezone": "Europe/Bucharest",
+    "population": 725,
+    "population_year": 2021
   },
   {
     "id": 91862,
@@ -801,7 +1131,12 @@
     "latitude": "44.67868000",
     "longitude": "23.84740000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16427878",
+    "type": "municipality",
+    "native": "Ghioroiu",
+    "timezone": "Europe/Bucharest",
+    "population": 1344,
+    "population_year": 2021
   },
   {
     "id": 94334,
@@ -813,7 +1148,12 @@
     "latitude": "44.70000000",
     "longitude": "23.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2205585",
+    "type": "village",
+    "native": "Ghioroiu",
+    "timezone": "Europe/Bucharest",
+    "population": 547,
+    "population_year": 2021
   },
   {
     "id": 91885,
@@ -825,7 +1165,12 @@
     "latitude": "44.80423000",
     "longitude": "24.12255000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724804",
+    "type": "municipality",
+    "native": "Glăvile",
+    "timezone": "Europe/Bucharest",
+    "population": 1514,
+    "population_year": 2021
   },
   {
     "id": 94365,
@@ -837,11 +1182,16 @@
     "latitude": "44.82376970",
     "longitude": "24.13638160",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2721408",
+    "type": "village",
+    "native": "Glăvile",
+    "timezone": "Europe/Bucharest",
+    "population": 783,
+    "population_year": 2021
   },
   {
     "id": 91897,
-    "name": "Goleşti",
+    "name": "Golești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -849,7 +1199,12 @@
     "latitude": "45.11370000",
     "longitude": "24.47395000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2098215",
+    "type": "municipality",
+    "native": "Golești",
+    "timezone": "Europe/Bucharest",
+    "population": 2549,
+    "population_year": 2021
   },
   {
     "id": 94381,
@@ -861,11 +1216,16 @@
     "latitude": "45.10523000",
     "longitude": "24.38431000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15931660",
+    "type": "village",
+    "native": "Goranu",
+    "timezone": "Europe/Bucharest",
+    "population": 2220,
+    "population_year": 2021
   },
   {
     "id": 91940,
-    "name": "Grădiştea",
+    "name": "Grădiștea",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -873,11 +1233,16 @@
     "latitude": "44.89929000",
     "longitude": "23.81621000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724824",
+    "type": "municipality",
+    "native": "Grădiștea",
+    "timezone": "Europe/Bucharest",
+    "population": 2332,
+    "population_year": 2021
   },
   {
     "id": 94439,
-    "name": "Grădiştea",
+    "name": "Grădiștea",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -885,7 +1250,12 @@
     "latitude": "44.86667000",
     "longitude": "23.81667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q919424",
+    "type": "village",
+    "native": "Grădiștea",
+    "timezone": "Europe/Bucharest",
+    "population": 376,
+    "population_year": 2021
   },
   {
     "id": 94403,
@@ -897,7 +1267,12 @@
     "latitude": "45.47514000",
     "longitude": "24.31182000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12097547",
+    "type": "village",
+    "native": "Greblești",
+    "timezone": "Europe/Bucharest",
+    "population": 758,
+    "population_year": 2021
   },
   {
     "id": 94460,
@@ -909,11 +1284,16 @@
     "latitude": "45.08803000",
     "longitude": "24.29886000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12098491",
+    "type": "locality",
+    "native": "Gura Suhașului",
+    "timezone": "Europe/Bucharest",
+    "population": 1595,
+    "population_year": 2021
   },
   {
     "id": 91960,
-    "name": "Guşoeni",
+    "name": "Gușoeni",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -921,11 +1301,16 @@
     "latitude": "44.72134000",
     "longitude": "24.12696000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724828",
+    "type": "municipality",
+    "native": "Gușoeni",
+    "timezone": "Europe/Bucharest",
+    "population": 1161,
+    "population_year": 2021
   },
   {
     "id": 94474,
-    "name": "Guşoeni",
+    "name": "Gușoeni",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -933,7 +1318,12 @@
     "latitude": "44.73333000",
     "longitude": "24.11667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2069743",
+    "type": "village",
+    "native": "Gușoeni",
+    "timezone": "Europe/Bucharest",
+    "population": 135,
+    "population_year": 2021
   },
   {
     "id": 94558,
@@ -945,7 +1335,12 @@
     "latitude": "45.15000000",
     "longitude": "24.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16898646",
+    "type": "locality",
+    "native": "Horezu",
+    "timezone": "Europe/Bucharest",
+    "population": 3611,
+    "population_year": 2021
   },
   {
     "id": 95529,
@@ -957,7 +1352,12 @@
     "latitude": "45.16962000",
     "longitude": "23.98448000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q899461",
+    "type": "town",
+    "native": "Horezu",
+    "timezone": "Europe/Bucharest",
+    "population": 6467,
+    "population_year": 2021
   },
   {
     "id": 94651,
@@ -969,11 +1369,16 @@
     "latitude": "45.04824000",
     "longitude": "23.80835000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12073913",
+    "type": "village",
+    "native": "Igoiu",
+    "timezone": "Europe/Bucharest",
+    "population": 853,
+    "population_year": 2021
   },
   {
     "id": 92085,
-    "name": "Ioneşti",
+    "name": "Ionești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -981,11 +1386,16 @@
     "latitude": "44.85429000",
     "longitude": "24.23134000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915641",
+    "type": "municipality",
+    "native": "Ionești",
+    "timezone": "Europe/Bucharest",
+    "population": 3762,
+    "population_year": 2021
   },
   {
     "id": 94678,
-    "name": "Ioneşti",
+    "name": "Ionești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -993,7 +1403,12 @@
     "latitude": "44.85000000",
     "longitude": "24.23333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2297612",
+    "type": "village",
+    "native": "Ionești",
+    "timezone": "Europe/Bucharest",
+    "population": 1300,
+    "population_year": 2021
   },
   {
     "id": 94729,
@@ -1005,7 +1420,12 @@
     "latitude": "45.24360000",
     "longitude": "24.35163000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12104461",
+    "type": "locality",
+    "native": "Jiblea Veche",
+    "timezone": "Europe/Bucharest",
+    "population": 1776,
+    "population_year": 2021
   },
   {
     "id": 92219,
@@ -1017,7 +1437,12 @@
     "latitude": "44.70863000",
     "longitude": "23.89214000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724915",
+    "type": "municipality",
+    "native": "Lăcusteni",
+    "timezone": "Europe/Bucharest",
+    "population": 1196,
+    "population_year": 2021
   },
   {
     "id": 94891,
@@ -1029,11 +1454,16 @@
     "latitude": "44.69544000",
     "longitude": "23.89984000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2040535",
+    "type": "village",
+    "native": "Lăcusteni",
+    "timezone": "Europe/Bucharest",
+    "population": 204,
+    "population_year": 2021
   },
   {
     "id": 92220,
-    "name": "Lădeşti",
+    "name": "Lădești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1041,11 +1471,16 @@
     "latitude": "44.87014000",
     "longitude": "24.04350000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2068040",
+    "type": "municipality",
+    "native": "Lădești",
+    "timezone": "Europe/Bucharest",
+    "population": 1563,
+    "population_year": 2021
   },
   {
     "id": 94892,
-    "name": "Lădeşti",
+    "name": "Lădești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1053,11 +1488,16 @@
     "latitude": "44.88333000",
     "longitude": "24.05000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12117482",
+    "type": "village",
+    "native": "Lădești",
+    "timezone": "Europe/Bucharest",
+    "population": 251,
+    "population_year": 2021
   },
   {
     "id": 92136,
-    "name": "Laloşu",
+    "name": "Laloșu",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1065,11 +1505,16 @@
     "latitude": "44.53046000",
     "longitude": "24.04689000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16440124",
+    "type": "municipality",
+    "native": "Laloșu",
+    "timezone": "Europe/Bucharest",
+    "population": 2164,
+    "population_year": 2021
   },
   {
     "id": 94757,
-    "name": "Laloşu",
+    "name": "Laloșu",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1077,11 +1522,16 @@
     "latitude": "44.55000000",
     "longitude": "24.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2008165",
+    "type": "village",
+    "native": "Laloșu",
+    "timezone": "Europe/Bucharest",
+    "population": 970,
+    "population_year": 2021
   },
   {
     "id": 92222,
-    "name": "Lăpuşata",
+    "name": "Lăpușata",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1089,7 +1539,12 @@
     "latitude": "44.92591000",
     "longitude": "24.00976000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2482160",
+    "type": "municipality",
+    "native": "Lăpușata",
+    "timezone": "Europe/Bucharest",
+    "population": 1859,
+    "population_year": 2021
   },
   {
     "id": 94817,
@@ -1101,7 +1556,12 @@
     "latitude": "45.20546000",
     "longitude": "24.24192000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12119545",
+    "type": "locality",
+    "native": "Livadia",
+    "timezone": "Europe/Bucharest",
+    "population": 1548,
+    "population_year": 2021
   },
   {
     "id": 92174,
@@ -1113,7 +1573,12 @@
     "latitude": "44.83700000",
     "longitude": "23.83209000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q596940",
+    "type": "municipality",
+    "native": "Livezi",
+    "timezone": "Europe/Bucharest",
+    "population": 2014,
+    "population_year": 2021
   },
   {
     "id": 94819,
@@ -1125,11 +1590,16 @@
     "latitude": "44.84029000",
     "longitude": "23.82505000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12119556",
+    "type": "village",
+    "native": "Livezi",
+    "timezone": "Europe/Bucharest",
+    "population": 274,
+    "population_year": 2021
   },
   {
     "id": 92212,
-    "name": "Lungeşti",
+    "name": "Lungești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1137,11 +1607,16 @@
     "latitude": "44.60271000",
     "longitude": "24.17894000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q770195",
+    "type": "municipality",
+    "native": "Lungești",
+    "timezone": "Europe/Bucharest",
+    "population": 3149,
+    "population_year": 2021
   },
   {
     "id": 94881,
-    "name": "Lungeşti",
+    "name": "Lungești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1149,7 +1624,12 @@
     "latitude": "44.56667000",
     "longitude": "24.18333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915152",
+    "type": "village",
+    "native": "Lungești",
+    "timezone": "Europe/Bucharest",
+    "population": 953,
+    "population_year": 2021
   },
   {
     "id": 92380,
@@ -1161,7 +1641,12 @@
     "latitude": "44.75807000",
     "longitude": "24.02408000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2721521",
+    "type": "municipality",
+    "native": "Măciuca",
+    "timezone": "Europe/Bucharest",
+    "population": 1545,
+    "population_year": 2021
   },
   {
     "id": 95231,
@@ -1173,7 +1658,12 @@
     "latitude": "45.03333000",
     "longitude": "24.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12122250",
+    "type": "village",
+    "native": "Mădulari",
+    "timezone": "Europe/Bucharest",
+    "population": 611,
+    "population_year": 2021
   },
   {
     "id": 92231,
@@ -1185,7 +1675,12 @@
     "latitude": "45.36429000",
     "longitude": "24.04456000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2387281",
+    "type": "municipality",
+    "native": "Malaia",
+    "timezone": "Europe/Bucharest",
+    "population": 1639,
+    "population_year": 2021
   },
   {
     "id": 94910,
@@ -1197,11 +1692,16 @@
     "latitude": "45.35000000",
     "longitude": "24.03333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12734752",
+    "type": "village",
+    "native": "Malaia",
+    "timezone": "Europe/Bucharest",
+    "population": 992,
+    "population_year": 2021
   },
   {
     "id": 92397,
-    "name": "Măldăreşti",
+    "name": "Măldărești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1209,11 +1709,16 @@
     "latitude": "45.10258000",
     "longitude": "24.00613000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724974",
+    "type": "municipality",
+    "native": "Măldărești",
+    "timezone": "Europe/Bucharest",
+    "population": 1715,
+    "population_year": 2021
   },
   {
     "id": 95252,
-    "name": "Măldăreşti",
+    "name": "Măldărești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1221,7 +1726,12 @@
     "latitude": "45.11667000",
     "longitude": "24.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2347603",
+    "type": "village",
+    "native": "Măldărești",
+    "timezone": "Europe/Bucharest",
+    "population": 1126,
+    "population_year": 2021
   },
   {
     "id": 95260,
@@ -1233,11 +1743,16 @@
     "latitude": "45.02464000",
     "longitude": "24.12451000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12122597",
+    "type": "village",
+    "native": "Mănăilești",
+    "timezone": "Europe/Bucharest",
+    "population": 804,
+    "population_year": 2021
   },
   {
     "id": 92246,
-    "name": "Mateeşti",
+    "name": "Mateești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1245,11 +1760,16 @@
     "latitude": "45.06784000",
     "longitude": "23.85490000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724926",
+    "type": "municipality",
+    "native": "Mateești",
+    "timezone": "Europe/Bucharest",
+    "population": 2898,
+    "population_year": 2021
   },
   {
     "id": 94935,
-    "name": "Mateeşti",
+    "name": "Mateești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1257,11 +1777,16 @@
     "latitude": "45.06667000",
     "longitude": "23.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2721425",
+    "type": "village",
+    "native": "Mateești",
+    "timezone": "Europe/Bucharest",
+    "population": 1273,
+    "population_year": 2021
   },
   {
     "id": 92280,
-    "name": "Mihăeşti",
+    "name": "Mihăești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1269,11 +1794,16 @@
     "latitude": "45.03282000",
     "longitude": "24.24501000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724936",
+    "type": "municipality",
+    "native": "Mihăești",
+    "timezone": "Europe/Bucharest",
+    "population": 6799,
+    "population_year": 2021
   },
   {
     "id": 94987,
-    "name": "Mihăeşti",
+    "name": "Mihăești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1281,7 +1811,12 @@
     "latitude": "45.03333000",
     "longitude": "24.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2245804",
+    "type": "village",
+    "native": "Mihăești",
+    "timezone": "Europe/Bucharest",
+    "population": 763,
+    "population_year": 2021
   },
   {
     "id": 92288,
@@ -1293,7 +1828,12 @@
     "latitude": "45.04046000",
     "longitude": "24.46786000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5117716",
+    "type": "municipality",
+    "native": "Milcoiu",
+    "timezone": "Europe/Bucharest",
+    "population": 1083,
+    "population_year": 2021
   },
   {
     "id": 95001,
@@ -1305,7 +1845,12 @@
     "latitude": "45.05000000",
     "longitude": "24.46667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2721399",
+    "type": "village",
+    "native": "Milcoiu",
+    "timezone": "Europe/Bucharest",
+    "population": 243,
+    "population_year": 2021
   },
   {
     "id": 92309,
@@ -1317,7 +1862,12 @@
     "latitude": "44.75104000",
     "longitude": "24.20272000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724942",
+    "type": "municipality",
+    "native": "Mitrofani",
+    "timezone": "Europe/Bucharest",
+    "population": 800,
+    "population_year": 2021
   },
   {
     "id": 95033,
@@ -1329,7 +1879,12 @@
     "latitude": "44.73268000",
     "longitude": "24.20910000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2355316",
+    "type": "village",
+    "native": "Mitrofani",
+    "timezone": "Europe/Bucharest",
+    "population": 562,
+    "population_year": 2021
   },
   {
     "id": 95051,
@@ -1341,7 +1896,12 @@
     "latitude": "45.11667000",
     "longitude": "23.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12124070",
+    "type": "village",
+    "native": "Mogești",
+    "timezone": "Europe/Bucharest",
+    "population": 420,
+    "population_year": 2021
   },
   {
     "id": 92354,
@@ -1353,7 +1913,12 @@
     "latitude": "45.20364000",
     "longitude": "24.29726000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12724954",
+    "type": "municipality",
+    "native": "Muereasca",
+    "timezone": "Europe/Bucharest",
+    "population": 2063,
+    "population_year": 2021
   },
   {
     "id": 95098,
@@ -1365,11 +1930,16 @@
     "latitude": "45.18333000",
     "longitude": "24.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2722750",
+    "type": "village",
+    "native": "Muereasca",
+    "timezone": "Europe/Bucharest",
+    "population": 559,
+    "population_year": 2021
   },
   {
     "id": 92439,
-    "name": "Nicolae Bãlcescu",
+    "name": "Nicolae Bălcescu",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1377,7 +1947,12 @@
     "latitude": "44.98760000",
     "longitude": "24.41990000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q940856",
+    "type": "municipality",
+    "native": "Nicolae Bălcescu",
+    "timezone": "Europe/Bucharest",
+    "population": 3253,
+    "population_year": 2021
   },
   {
     "id": 95558,
@@ -1389,7 +1964,12 @@
     "latitude": "45.08904000",
     "longitude": "24.28162000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q585548",
+    "type": "town",
+    "native": "Ocnele Mari",
+    "timezone": "Europe/Bucharest",
+    "population": 614,
+    "population_year": null
   },
   {
     "id": 95435,
@@ -1401,7 +1981,12 @@
     "latitude": "45.18209000",
     "longitude": "24.25990000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12135700",
+    "type": "locality",
+    "native": "Olănești",
+    "timezone": "Europe/Bucharest",
+    "population": 1227,
+    "population_year": 2021
   },
   {
     "id": 92492,
@@ -1413,7 +1998,12 @@
     "latitude": "44.87416000",
     "longitude": "24.29169000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12725003",
+    "type": "municipality",
+    "native": "Olanu",
+    "timezone": "Europe/Bucharest",
+    "population": 2501,
+    "population_year": 2021
   },
   {
     "id": 95422,
@@ -1425,11 +2015,16 @@
     "latitude": "44.86667000",
     "longitude": "24.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q431328",
+    "type": "village",
+    "native": "Olanu",
+    "timezone": "Europe/Bucharest",
+    "population": 468,
+    "population_year": 2021
   },
   {
     "id": 95482,
-    "name": "Oraş Bãile Govora",
+    "name": "Oraș Băile Govora",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1437,11 +2032,16 @@
     "latitude": "45.08174000",
     "longitude": "24.18246000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q855719",
+    "type": "town",
+    "native": "Oraș Băile Govora",
+    "timezone": "Europe/Bucharest",
+    "population": 2158,
+    "population_year": 2021
   },
   {
     "id": 95484,
-    "name": "Oraş Bãile Olãneşti",
+    "name": "Oraș Băile Olănești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1449,11 +2049,16 @@
     "latitude": "45.20059000",
     "longitude": "24.23416000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q855721",
+    "type": "town",
+    "native": "Oraș Băile Olănești",
+    "timezone": "Europe/Bucharest",
+    "population": 3750,
+    "population_year": 2021
   },
   {
     "id": 92510,
-    "name": "Orleşti",
+    "name": "Orlești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1461,11 +2066,16 @@
     "latitude": "44.78125000",
     "longitude": "24.24623000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2201998",
+    "type": "municipality",
+    "native": "Orlești",
+    "timezone": "Europe/Bucharest",
+    "population": 2562,
+    "population_year": 2021
   },
   {
     "id": 95661,
-    "name": "Orleşti",
+    "name": "Orlești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1473,11 +2083,16 @@
     "latitude": "44.80000000",
     "longitude": "24.21667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12136362",
+    "type": "village",
+    "native": "Orlești",
+    "timezone": "Europe/Bucharest",
+    "population": 1365,
+    "population_year": 2021
   },
   {
     "id": 92522,
-    "name": "Oteşani",
+    "name": "Oteșani",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1485,11 +2100,16 @@
     "latitude": "45.04807000",
     "longitude": "24.03989000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12725016",
+    "type": "municipality",
+    "native": "Oteșani",
+    "timezone": "Europe/Bucharest",
+    "population": 2275,
+    "population_year": 2021
   },
   {
     "id": 95683,
-    "name": "Oteşani",
+    "name": "Oteșani",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1497,7 +2117,12 @@
     "latitude": "45.06667000",
     "longitude": "24.03333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1857158",
+    "type": "village",
+    "native": "Oteșani",
+    "timezone": "Europe/Bucharest",
+    "population": 1056,
+    "population_year": 2021
   },
   {
     "id": 95682,
@@ -1509,7 +2134,12 @@
     "latitude": "44.63839000",
     "longitude": "23.95917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12136907",
+    "type": "village",
+    "native": "Otetelișu",
+    "timezone": "Europe/Bucharest",
+    "population": 887,
+    "population_year": 2021
   },
   {
     "id": 95685,
@@ -1521,11 +2151,16 @@
     "latitude": "44.75000000",
     "longitude": "24.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12135076",
+    "type": "village",
+    "native": "Oveselu",
+    "timezone": "Europe/Bucharest",
+    "population": 157,
+    "population_year": 2021
   },
   {
     "id": 92730,
-    "name": "Păuşeşti",
+    "name": "Păușești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1533,11 +2168,16 @@
     "latitude": "45.07341000",
     "longitude": "24.13552000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915644",
+    "type": "municipality",
+    "native": "Păușești",
+    "timezone": "Europe/Bucharest",
+    "population": 2349,
+    "population_year": 2021
   },
   {
     "id": 96034,
-    "name": "Păuşeşti",
+    "name": "Păușești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1545,11 +2185,16 @@
     "latitude": "45.07358000",
     "longitude": "24.13473000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2298088",
+    "type": "village",
+    "native": "Păușești",
+    "timezone": "Europe/Bucharest",
+    "population": 428,
+    "population_year": 2021
   },
   {
     "id": 92731,
-    "name": "Păuşeşti-Măglaşi",
+    "name": "Păușești-Măglași",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1557,11 +2202,16 @@
     "latitude": "45.14165000",
     "longitude": "24.24474000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2298482",
+    "type": "municipality",
+    "native": "Păușești-Măglași",
+    "timezone": "Europe/Bucharest",
+    "population": 3929,
+    "population_year": 2021
   },
   {
     "id": 96035,
-    "name": "Păuşeşti-Măglaşi",
+    "name": "Păușești-Măglași",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1569,11 +2219,16 @@
     "latitude": "45.13333000",
     "longitude": "24.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915603",
+    "type": "village",
+    "native": "Păușești-Măglași",
+    "timezone": "Europe/Bucharest",
+    "population": 856,
+    "population_year": 2021
   },
   {
     "id": 92554,
-    "name": "Perişani",
+    "name": "Perișani",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1581,11 +2236,16 @@
     "latitude": "45.37925000",
     "longitude": "24.40776000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2603579",
+    "type": "municipality",
+    "native": "Perișani",
+    "timezone": "Europe/Bucharest",
+    "population": 1844,
+    "population_year": 2021
   },
   {
     "id": 95736,
-    "name": "Perişani",
+    "name": "Perișani",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1593,7 +2253,12 @@
     "latitude": "45.38333000",
     "longitude": "24.40000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12140051",
+    "type": "village",
+    "native": "Perișani",
+    "timezone": "Europe/Bucharest",
+    "population": 210,
+    "population_year": 2021
   },
   {
     "id": 92560,
@@ -1605,7 +2270,12 @@
     "latitude": "44.88169000",
     "longitude": "24.12797000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16427895",
+    "type": "municipality",
+    "native": "Pesceana",
+    "timezone": "Europe/Bucharest",
+    "population": 1317,
+    "population_year": 2021
   },
   {
     "id": 95744,
@@ -1617,7 +2287,12 @@
     "latitude": "44.88333000",
     "longitude": "24.15000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q523672",
+    "type": "village",
+    "native": "Pesceana",
+    "timezone": "Europe/Bucharest",
+    "population": 233,
+    "population_year": 2021
   },
   {
     "id": 92577,
@@ -1629,7 +2304,12 @@
     "latitude": "45.11586000",
     "longitude": "24.10242000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16427898",
+    "type": "municipality",
+    "native": "Pietrari",
+    "timezone": "Europe/Bucharest",
+    "population": 2647,
+    "population_year": 2021
   },
   {
     "id": 95777,
@@ -1641,7 +2321,12 @@
     "latitude": "45.10000000",
     "longitude": "24.13333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2029422",
+    "type": "village",
+    "native": "Pietrari",
+    "timezone": "Europe/Bucharest",
+    "population": 1426,
+    "population_year": 2021
   },
   {
     "id": 95778,
@@ -1653,11 +2338,16 @@
     "latitude": "45.11697000",
     "longitude": "24.09336000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12137202",
+    "type": "village",
+    "native": "Pietrarii de Sus",
+    "timezone": "Europe/Bucharest",
+    "population": 1221,
+    "population_year": 2021
   },
   {
     "id": 92656,
-    "name": "Popeşti",
+    "name": "Popești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1665,11 +2355,16 @@
     "latitude": "44.97908000",
     "longitude": "24.11014000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915283",
+    "type": "municipality",
+    "native": "Popești",
+    "timezone": "Europe/Bucharest",
+    "population": 2857,
+    "population_year": 2021
   },
   {
     "id": 95910,
-    "name": "Popeşti",
+    "name": "Popești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1677,7 +2372,12 @@
     "latitude": "44.98333000",
     "longitude": "24.10000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2298513",
+    "type": "village",
+    "native": "Popești",
+    "timezone": "Europe/Bucharest",
+    "population": 638,
+    "population_year": 2021
   },
   {
     "id": 95939,
@@ -1689,7 +2389,12 @@
     "latitude": "45.08270000",
     "longitude": "24.16949000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12143305",
+    "type": "locality",
+    "native": "Prajila",
+    "timezone": "Europe/Bucharest",
+    "population": 1792,
+    "population_year": 2021
   },
   {
     "id": 92684,
@@ -1701,7 +2406,12 @@
     "latitude": "44.73460000",
     "longitude": "24.24863000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5117634",
+    "type": "municipality",
+    "native": "Prundeni",
+    "timezone": "Europe/Bucharest",
+    "population": 3277,
+    "population_year": 2021
   },
   {
     "id": 95964,
@@ -1713,11 +2423,16 @@
     "latitude": "44.73333000",
     "longitude": "24.26667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2721534",
+    "type": "village",
+    "native": "Prundeni",
+    "timezone": "Europe/Bucharest",
+    "population": 1240,
+    "population_year": 2021
   },
   {
     "id": 92736,
-    "name": "Racoviţa",
+    "name": "Racovița",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1725,11 +2440,16 @@
     "latitude": "45.41200000",
     "longitude": "24.31792000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12725079",
+    "type": "municipality",
+    "native": "Racovița",
+    "timezone": "Europe/Bucharest",
+    "population": 1684,
+    "population_year": 2021
   },
   {
     "id": 96042,
-    "name": "Racoviţa",
+    "name": "Racovița",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1737,7 +2457,12 @@
     "latitude": "45.41667000",
     "longitude": "24.31667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2332005",
+    "type": "village",
+    "native": "Racovița",
+    "timezone": "Europe/Bucharest",
+    "population": 253,
+    "population_year": 2021
   },
   {
     "id": 96166,
@@ -1749,7 +2474,12 @@
     "latitude": "44.56667000",
     "longitude": "24.10000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12147969",
+    "type": "village",
+    "native": "Râmești",
+    "timezone": "Europe/Bucharest",
+    "population": 995,
+    "population_year": 2021
   },
   {
     "id": 96171,
@@ -1761,7 +2491,12 @@
     "latitude": "45.10000000",
     "longitude": "24.36667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16898625",
+    "type": "locality",
+    "native": "Râmnicu Vâlcea",
+    "timezone": "Europe/Bucharest",
+    "population": 82471,
+    "population_year": 2021
   },
   {
     "id": 95175,
@@ -1773,11 +2508,16 @@
     "latitude": "45.09448000",
     "longitude": "24.35215000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q192758",
+    "type": "city",
+    "native": "Râmnicu Vâlcea",
+    "timezone": "Europe/Bucharest",
+    "population": 93151,
+    "population_year": 2021
   },
   {
     "id": 92778,
-    "name": "Roeşti",
+    "name": "Roești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1785,11 +2525,16 @@
     "latitude": "44.92016000",
     "longitude": "24.07793000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915110",
+    "type": "municipality",
+    "native": "Roești",
+    "timezone": "Europe/Bucharest",
+    "population": 1942,
+    "population_year": 2021
   },
   {
     "id": 96100,
-    "name": "Roeşti",
+    "name": "Roești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1797,7 +2542,12 @@
     "latitude": "44.91667000",
     "longitude": "24.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2298496",
+    "type": "village",
+    "native": "Roești",
+    "timezone": "Europe/Bucharest",
+    "population": 322,
+    "population_year": 2021
   },
   {
     "id": 96114,
@@ -1809,11 +2559,16 @@
     "latitude": "44.97310000",
     "longitude": "24.20513000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12148775",
+    "type": "village",
+    "native": "Români",
+    "timezone": "Europe/Bucharest",
+    "population": 1106,
+    "population_year": 2021
   },
   {
     "id": 92801,
-    "name": "Roşiile",
+    "name": "Roșiile",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1821,11 +2576,16 @@
     "latitude": "44.88537000",
     "longitude": "23.92438000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915394",
+    "type": "municipality",
+    "native": "Roșiile",
+    "timezone": "Europe/Bucharest",
+    "population": 2247,
+    "population_year": 2021
   },
   {
     "id": 96131,
-    "name": "Roşiile",
+    "name": "Roșiile",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1833,7 +2593,12 @@
     "latitude": "44.86667000",
     "longitude": "23.93333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2104955",
+    "type": "village",
+    "native": "Roșiile",
+    "timezone": "Europe/Bucharest",
+    "population": 321,
+    "population_year": 2021
   },
   {
     "id": 92812,
@@ -1845,7 +2610,12 @@
     "latitude": "45.18685000",
     "longitude": "24.45979000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12725100",
+    "type": "municipality",
+    "native": "Runcu",
+    "timezone": "Europe/Bucharest",
+    "population": 860,
+    "population_year": 2021
   },
   {
     "id": 96152,
@@ -1857,7 +2627,12 @@
     "latitude": "45.16667000",
     "longitude": "24.45000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2691175",
+    "type": "village",
+    "native": "Runcu",
+    "timezone": "Europe/Bucharest",
+    "population": 272,
+    "population_year": 2021
   },
   {
     "id": 106022,
@@ -1869,7 +2644,12 @@
     "latitude": "45.25000000",
     "longitude": "24.38333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12151788",
+    "type": "village",
+    "native": "Sălătrucel",
+    "timezone": "Europe/Bucharest",
+    "population": 1341,
+    "population_year": 2021
   },
   {
     "id": 93099,
@@ -1881,7 +2661,12 @@
     "latitude": "45.26684000",
     "longitude": "24.38921000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2486161",
+    "type": "municipality",
+    "native": "Sălătrucel",
+    "timezone": "Europe/Bucharest",
+    "population": 1932,
+    "population_year": 2021
   },
   {
     "id": 92898,
@@ -1893,7 +2678,12 @@
     "latitude": "44.84880000",
     "longitude": "24.17981000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12725123",
+    "type": "municipality",
+    "native": "Scundu",
+    "timezone": "Europe/Bucharest",
+    "population": 1723,
+    "population_year": 2021
   },
   {
     "id": 96286,
@@ -1905,11 +2695,16 @@
     "latitude": "44.83333000",
     "longitude": "24.20000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2602827",
+    "type": "village",
+    "native": "Scundu",
+    "timezone": "Europe/Bucharest",
+    "population": 501,
+    "population_year": 2021
   },
   {
     "id": 96351,
-    "name": "Sineşti",
+    "name": "Sinești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1917,11 +2712,16 @@
     "latitude": "44.95000000",
     "longitude": "23.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2219463",
+    "type": "village",
+    "native": "Sinești",
+    "timezone": "Europe/Bucharest",
+    "population": 735,
+    "population_year": 2021
   },
   {
     "id": 92938,
-    "name": "Sineşti",
+    "name": "Sinești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1929,11 +2729,16 @@
     "latitude": "44.93231000",
     "longitude": "23.83951000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915650",
+    "type": "municipality",
+    "native": "Sinești",
+    "timezone": "Europe/Bucharest",
+    "population": 2181,
+    "population_year": 2021
   },
   {
     "id": 93530,
-    "name": "Şirineasa",
+    "name": "Șirineasa",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1941,11 +2746,16 @@
     "latitude": "44.93871000",
     "longitude": "24.18570000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16427918",
+    "type": "municipality",
+    "native": "Șirineasa",
+    "timezone": "Europe/Bucharest",
+    "population": 2099,
+    "population_year": 2021
   },
   {
     "id": 97059,
-    "name": "Şirineasa",
+    "name": "Șirineasa",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1953,7 +2763,12 @@
     "latitude": "44.93333000",
     "longitude": "24.20000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2722167",
+    "type": "village",
+    "native": "Sirineasa",
+    "timezone": "Europe/Bucharest",
+    "population": 1358,
+    "population_year": 2021
   },
   {
     "id": 92960,
@@ -1965,11 +2780,16 @@
     "latitude": "45.12396000",
     "longitude": "23.88581000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16427911",
+    "type": "municipality",
+    "native": "Slătioara",
+    "timezone": "Europe/Bucharest",
+    "population": 3366,
+    "population_year": 2021
   },
   {
     "id": 93018,
-    "name": "Stăneşti",
+    "name": "Stănești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -1977,7 +2797,12 @@
     "latitude": "44.81359000",
     "longitude": "24.04264000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915317",
+    "type": "municipality",
+    "native": "Stănești",
+    "timezone": "Europe/Bucharest",
+    "population": 989,
+    "population_year": 2021
   },
   {
     "id": 96479,
@@ -1989,11 +2814,16 @@
     "latitude": "44.81667000",
     "longitude": "24.05000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2298467",
+    "type": "village",
+    "native": "Stănești",
+    "timezone": "Europe/Bucharest",
+    "population": 102,
+    "population_year": 2021
   },
   {
     "id": 97085,
-    "name": "Ştefăneşti",
+    "name": "Ștefănești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2001,11 +2831,16 @@
     "latitude": "44.61667000",
     "longitude": "24.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2298923",
+    "type": "village",
+    "native": "Ștefănești",
+    "timezone": "Europe/Bucharest",
+    "population": 782,
+    "population_year": 2021
   },
   {
     "id": 93555,
-    "name": "Ştefăneşti",
+    "name": "Ștefănești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2013,11 +2848,16 @@
     "latitude": "44.60541000",
     "longitude": "24.23338000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915320",
+    "type": "municipality",
+    "native": "Ștefănești",
+    "timezone": "Europe/Bucharest",
+    "population": 3106,
+    "population_year": 2021
   },
   {
     "id": 92993,
-    "name": "Stoeneşti",
+    "name": "Stoenești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2025,11 +2865,16 @@
     "latitude": "45.14715000",
     "longitude": "24.16337000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915596",
+    "type": "municipality",
+    "native": "Stoenești",
+    "timezone": "Europe/Bucharest",
+    "population": 3203,
+    "population_year": 2021
   },
   {
     "id": 96434,
-    "name": "Stoeneşti",
+    "name": "Stoenești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2037,11 +2882,16 @@
     "latitude": "45.11667000",
     "longitude": "24.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2298902",
+    "type": "village",
+    "native": "Stoenești",
+    "timezone": "Europe/Bucharest",
+    "population": 455,
+    "population_year": 2021
   },
   {
     "id": 96439,
-    "name": "Stoileşti",
+    "name": "Stoilești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2049,11 +2899,16 @@
     "latitude": "44.90000000",
     "longitude": "24.38333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2280881",
+    "type": "village",
+    "native": "Stoilești",
+    "timezone": "Europe/Bucharest",
+    "population": 147,
+    "population_year": 2021
   },
   {
     "id": 92996,
-    "name": "Stoileşti",
+    "name": "Stoilești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2061,7 +2916,12 @@
     "latitude": "44.91463000",
     "longitude": "24.35992000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915143",
+    "type": "municipality",
+    "native": "Stoilești",
+    "timezone": "Europe/Bucharest",
+    "population": 3341,
+    "population_year": 2021
   },
   {
     "id": 96441,
@@ -2073,11 +2933,16 @@
     "latitude": "45.03948000",
     "longitude": "24.30640000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12158003",
+    "type": "locality",
+    "native": "Stolniceni",
+    "timezone": "Europe/Bucharest",
+    "population": 1656,
+    "population_year": 2021
   },
   {
     "id": 96454,
-    "name": "Stroeşti",
+    "name": "Stroești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2085,11 +2950,16 @@
     "latitude": "45.08333000",
     "longitude": "23.90000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915150",
+    "type": "village",
+    "native": "Stroești",
+    "timezone": "Europe/Bucharest",
+    "population": 779,
+    "population_year": 2021
   },
   {
     "id": 93004,
-    "name": "Stroeşti",
+    "name": "Stroești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2097,11 +2967,16 @@
     "latitude": "45.07519000",
     "longitude": "23.92645000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2219766",
+    "type": "municipality",
+    "native": "Stroești",
+    "timezone": "Europe/Bucharest",
+    "population": 2336,
+    "population_year": 2021
   },
   {
     "id": 93564,
-    "name": "Şuşani",
+    "name": "Șușani",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2109,11 +2984,16 @@
     "latitude": "44.61009000",
     "longitude": "24.10021000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16427923",
+    "type": "municipality",
+    "native": "Șușani",
+    "timezone": "Europe/Bucharest",
+    "population": 2979,
+    "population_year": 2021
   },
   {
     "id": 97096,
-    "name": "Şuşani",
+    "name": "Șușani",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2121,7 +3001,12 @@
     "latitude": "44.58333000",
     "longitude": "24.10000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548749",
+    "type": "village",
+    "native": "Șușani",
+    "timezone": "Europe/Bucharest",
+    "population": 1123,
+    "population_year": 2021
   },
   {
     "id": 96514,
@@ -2133,11 +3018,16 @@
     "latitude": "44.66851000",
     "longitude": "24.21476000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2298126",
+    "type": "village",
+    "native": "Sutești",
+    "timezone": "Europe/Bucharest",
+    "population": 500,
+    "population_year": 2021
   },
   {
     "id": 93042,
-    "name": "Suteşti",
+    "name": "Sutești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2145,7 +3035,12 @@
     "latitude": "44.67103000",
     "longitude": "24.21893000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915589",
+    "type": "municipality",
+    "native": "Sutești",
+    "timezone": "Europe/Bucharest",
+    "population": 1683,
+    "population_year": 2021
   },
   {
     "id": 93146,
@@ -2157,7 +3052,12 @@
     "latitude": "44.78374000",
     "longitude": "23.91735000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16427926",
+    "type": "municipality",
+    "native": "Tetoiu",
+    "timezone": "Europe/Bucharest",
+    "population": 2206,
+    "population_year": 2021
   },
   {
     "id": 106089,
@@ -2169,7 +3069,12 @@
     "latitude": "44.75000000",
     "longitude": "23.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2285348",
+    "type": "village",
+    "native": "Tetoiu",
+    "timezone": "Europe/Bucharest",
+    "population": 647,
+    "population_year": 2021
   },
   {
     "id": 106109,
@@ -2181,11 +3086,16 @@
     "latitude": "45.41865810",
     "longitude": "24.39005710",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12163256",
+    "type": "village",
+    "native": "Titești",
+    "timezone": "Europe/Bucharest",
+    "population": 406,
+    "population_year": 2021
   },
   {
     "id": 106125,
-    "name": "Tomşani",
+    "name": "Tomșani",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2193,11 +3103,16 @@
     "latitude": "45.11667000",
     "longitude": "24.05000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1909026",
+    "type": "village",
+    "native": "Tomșani",
+    "timezone": "Europe/Bucharest",
+    "population": 663,
+    "population_year": 2021
   },
   {
     "id": 93172,
-    "name": "Tomşani",
+    "name": "Tomșani",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2205,7 +3120,12 @@
     "latitude": "45.09606000",
     "longitude": "24.06020000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16427929",
+    "type": "municipality",
+    "native": "Tomșani",
+    "timezone": "Europe/Bucharest",
+    "population": 3321,
+    "population_year": 2021
   },
   {
     "id": 96554,
@@ -2217,7 +3137,12 @@
     "latitude": "45.04023000",
     "longitude": "23.86574000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12163005",
+    "type": "village",
+    "native": "Turcești",
+    "timezone": "Europe/Bucharest",
+    "population": 1133,
+    "population_year": 2021
   },
   {
     "id": 96690,
@@ -2229,7 +3154,12 @@
     "latitude": "44.99404000",
     "longitude": "24.08895000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12164838",
+    "type": "village",
+    "native": "Urși",
+    "timezone": "Europe/Bucharest",
+    "population": 885,
+    "population_year": 2021
   },
   {
     "id": 96705,
@@ -2241,7 +3171,12 @@
     "latitude": "45.16667000",
     "longitude": "23.93333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1833002",
+    "type": "village",
+    "native": "Vaideeni",
+    "timezone": "Europe/Bucharest",
+    "population": 2502,
+    "population_year": 2021
   },
   {
     "id": 93296,
@@ -2253,7 +3188,12 @@
     "latitude": "45.17322000",
     "longitude": "23.88622000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12725245",
+    "type": "municipality",
+    "native": "Vaideeni",
+    "timezone": "Europe/Bucharest",
+    "population": 3634,
+    "population_year": 2021
   },
   {
     "id": 93314,
@@ -2265,7 +3205,12 @@
     "latitude": "44.67374000",
     "longitude": "24.00055000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12725251",
+    "type": "municipality",
+    "native": "Valea Mare",
+    "timezone": "Europe/Bucharest",
+    "population": 2363,
+    "population_year": 2021
   },
   {
     "id": 96736,
@@ -2277,11 +3222,16 @@
     "latitude": "44.66667000",
     "longitude": "24.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2192326",
+    "type": "village",
+    "native": "Valea Mare",
+    "timezone": "Europe/Bucharest",
+    "population": 628,
+    "population_year": 2021
   },
   {
     "id": 96866,
-    "name": "Vlădeşti",
+    "name": "Vlădești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2289,11 +3239,16 @@
     "latitude": "45.11667000",
     "longitude": "24.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1820060",
+    "type": "village",
+    "native": "Vlădești",
+    "timezone": "Europe/Bucharest",
+    "population": 1785,
+    "population_year": 2021
   },
   {
     "id": 93389,
-    "name": "Vlădeşti",
+    "name": "Vlădești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2301,11 +3256,16 @@
     "latitude": "45.13574000",
     "longitude": "24.30181000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915164",
+    "type": "municipality",
+    "native": "Vlădești",
+    "timezone": "Europe/Bucharest",
+    "population": 3330,
+    "population_year": 2021
   },
   {
     "id": 93394,
-    "name": "Voiceşti",
+    "name": "Voicești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2313,11 +3273,16 @@
     "latitude": "44.59651000",
     "longitude": "24.29980000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2298539",
+    "type": "municipality",
+    "native": "Voicești",
+    "timezone": "Europe/Bucharest",
+    "population": 1416,
+    "population_year": 2021
   },
   {
     "id": 96874,
-    "name": "Voiceşti",
+    "name": "Voicești",
     "state_id": 4757,
     "state_code": "VL",
     "country_id": 181,
@@ -2325,7 +3290,12 @@
     "latitude": "44.60000000",
     "longitude": "24.28333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3915485",
+    "type": "village",
+    "native": "Voicești",
+    "timezone": "Europe/Bucharest",
+    "population": 994,
+    "population_year": 2021
   },
   {
     "id": 96877,
@@ -2337,7 +3307,12 @@
     "latitude": "45.41667000",
     "longitude": "23.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548640",
+    "type": "village",
+    "native": "Voineasa",
+    "timezone": "Europe/Bucharest",
+    "population": 715,
+    "population_year": 2021
   },
   {
     "id": 93397,
@@ -2349,7 +3324,12 @@
     "latitude": "45.41128000",
     "longitude": "23.97611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16427937",
+    "type": "municipality",
+    "native": "Voineasa",
+    "timezone": "Europe/Bucharest",
+    "population": 1224,
+    "population_year": 2021
   },
   {
     "id": 93490,
@@ -2361,7 +3341,12 @@
     "latitude": "44.77069000",
     "longitude": "23.84320000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16427940",
+    "type": "municipality",
+    "native": "Zătreni",
+    "timezone": "Europe/Bucharest",
+    "population": 1934,
+    "population_year": 2021
   },
   {
     "id": 97018,
@@ -2373,7 +3358,12 @@
     "latitude": "44.76667000",
     "longitude": "23.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2721673",
+    "type": "village",
+    "native": "Zătreni",
+    "timezone": "Europe/Bucharest",
+    "population": 172,
+    "population_year": 2021
   },
   {
     "id": 97000,
@@ -2385,6 +3375,11 @@
     "latitude": "44.63057000",
     "longitude": "24.25788000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12106744",
+    "type": "locality",
+    "native": "Zlătărei",
+    "timezone": "Europe/Bucharest",
+    "population": 1064,
+    "population_year": 2021
   }
 ]

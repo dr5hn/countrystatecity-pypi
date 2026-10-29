@@ -9,7 +9,12 @@
     "latitude": "-9.02730000",
     "longitude": "125.78680000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Infelizmente",
+    "timezone": "Asia/Dili",
+    "population": 6463,
+    "population_year": null
   },
   {
     "id": 106842,
@@ -21,7 +26,12 @@
     "latitude": "-8.94790000",
     "longitude": "125.86633000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Fatuberliu",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106869,
@@ -33,7 +43,12 @@
     "latitude": "-9.00000000",
     "longitude": "125.65000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Mesmo",
+    "timezone": "Asia/Dili",
+    "population": 7500,
+    "population_year": null
   },
   {
     "id": 106873,
@@ -45,6 +60,11 @@
     "latitude": "-8.82371000",
     "longitude": "125.70454000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Turiscai",
+    "timezone": "Asia/Dili",
+    "population": 6417,
+    "population_year": null
   }
 ]

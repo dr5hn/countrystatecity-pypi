@@ -9,7 +9,12 @@
     "latitude": "13.36179000",
     "longitude": "103.86056000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q11711",
+    "type": "adm1",
+    "native": "សៀមរាប",
+    "timezone": "Asia/Phnom_Penh",
+    "population": 139458,
+    "population_year": null
   },
   {
     "id": 65031,
@@ -21,7 +26,12 @@
     "latitude": "13.57881000",
     "longitude": "103.85645000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4763330",
+    "type": "area",
+    "native": "ស្រែងគរធំ",
+    "timezone": "Asia/Phnom_Penh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65015,
@@ -33,7 +43,12 @@
     "latitude": "13.21031000",
     "longitude": "103.97689000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4929377",
+    "type": "city",
+    "native": "អ្នកអន្ដេងក្ដោ",
+    "timezone": "Asia/Phnom_Penh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65035,
@@ -45,7 +60,12 @@
     "latitude": "13.69168000",
     "longitude": "104.27446000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4930061",
+    "type": "area",
+    "native": "ស្វាយឡូ",
+    "timezone": "Asia/Phnom_Penh",
+    "population": 12869,
+    "population_year": null
   },
   {
     "id": 65040,
@@ -57,6 +77,11 @@
     "latitude": "13.83574000",
     "longitude": "103.89968000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "ការហរ",
+    "timezone": "Asia/Phnom_Penh",
+    "population": 19818,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "34.38270000",
     "longitude": "8.15549000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الرديف",
+    "timezone": "Africa/Tunis",
+    "population": 26976,
+    "population_year": null
   },
   {
     "id": 106916,
@@ -21,7 +26,12 @@
     "latitude": "34.46280000",
     "longitude": "9.26404000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "السند",
+    "timezone": "Africa/Tunis",
+    "population": 9533,
+    "population_year": null
   },
   {
     "id": 106954,
@@ -33,7 +43,12 @@
     "latitude": "34.42500000",
     "longitude": "8.78417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q466006",
+    "type": "adm1",
+    "native": "قفصة",
+    "timezone": "Africa/Tunis",
+    "population": 95242,
+    "population_year": null
   },
   {
     "id": 106994,
@@ -45,7 +60,12 @@
     "latitude": "34.32081000",
     "longitude": "8.40157000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "المتلوي",
+    "timezone": "Africa/Tunis",
+    "population": 38634,
+    "population_year": null
   },
   {
     "id": 107000,
@@ -57,6 +77,11 @@
     "latitude": "34.40081000",
     "longitude": "8.17057000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "مُعَتَمَدِيَّةُ الرُّضَيْف",
+    "timezone": "Africa/Tunis",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "11.60000000",
     "longitude": "165.40000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q152225",
+    "type": "city",
+    "native": "Bikini",
+    "timezone": "Pacific/Kwajalein",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 160081,
@@ -21,6 +26,11 @@
     "latitude": "5.61666667",
     "longitude": "169.11666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q697832",
+    "type": "adm1",
+    "native": "Kili",
+    "timezone": "Pacific/Majuro",
+    "population": 602,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "15.65970000",
     "longitude": "0.50220000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2620152",
+    "type": "adm2",
+    "native": "Ansongo",
+    "timezone": "Africa/Bamako",
+    "population": 3000,
+    "population_year": null
   },
   {
     "id": 67592,
@@ -21,7 +26,12 @@
     "latitude": "17.71192000",
     "longitude": "-0.34284000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q474936",
+    "type": "city",
+    "native": "Cercle de Bourem",
+    "timezone": "Africa/Bamako",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 67601,
@@ -33,7 +43,12 @@
     "latitude": "16.27167000",
     "longitude": "-0.04472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q188904",
+    "type": "adm1",
+    "native": "Gao",
+    "timezone": "Africa/Bamako",
+    "population": 133110,
+    "population_year": null
   },
   {
     "id": 67602,
@@ -45,7 +60,12 @@
     "latitude": "16.72237000",
     "longitude": "0.43984000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1493783",
+    "type": "city",
+    "native": "Gao Cercle",
+    "timezone": "Africa/Bamako",
+    "population": 239853,
+    "population_year": null
   },
   {
     "id": 67605,
@@ -57,6 +77,11 @@
     "latitude": "15.95944000",
     "longitude": "3.14111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1988973",
+    "type": "city",
+    "native": "Inékar",
+    "timezone": "Africa/Bamako",
+    "population": 8714,
+    "population_year": null
   }
 ]

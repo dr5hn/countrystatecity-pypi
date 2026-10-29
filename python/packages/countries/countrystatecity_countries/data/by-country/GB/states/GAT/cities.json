@@ -9,7 +9,12 @@
     "latitude": "54.96461000",
     "longitude": "-1.71392000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q933113",
+    "type": "city",
+    "native": "Blaydon-on-Tyne",
+    "timezone": "Europe/London",
+    "population": 14974,
+    "population_year": null
   },
   {
     "id": 48983,
@@ -21,7 +26,12 @@
     "latitude": "54.91797000",
     "longitude": "-1.82013000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5104893",
+    "type": "village",
+    "native": "Chopwell",
+    "timezone": "Europe/London",
+    "population": 3096,
+    "population_year": null
   },
   {
     "id": 49539,
@@ -33,19 +43,29 @@
     "latitude": "54.95297000",
     "longitude": "-1.57152000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q931049",
+    "type": "city",
+    "native": "Felling",
+    "timezone": "Europe/London",
+    "population": 34355,
+    "population_year": null
   },
   {
-    "id": 49633,
+    "id": 166600,
     "name": "Gateshead",
     "state_id": 2431,
     "state_code": "GAT",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "54.93333000",
-    "longitude": "-1.66667000",
+    "latitude": "54.95000000",
+    "longitude": "-1.60000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Gateshead",
+    "timezone": "Europe/London",
+    "population": 196151,
+    "population_year": null
   },
   {
     "id": 50231,
@@ -57,7 +77,12 @@
     "latitude": "54.91567000",
     "longitude": "-1.60945000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2095219",
+    "type": "village",
+    "native": "Lamesley",
+    "timezone": "Europe/London",
+    "population": 4089,
+    "population_year": null
   },
   {
     "id": 51126,
@@ -69,7 +94,12 @@
     "latitude": "54.91922000",
     "longitude": "-1.74489000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1615748",
+    "type": "town",
+    "native": "Rowlands Gill",
+    "timezone": "Europe/London",
+    "population": 6096,
+    "population_year": null
   },
   {
     "id": 51864,
@@ -81,6 +111,11 @@
     "latitude": "54.94561000",
     "longitude": "-1.67635000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2573389",
+    "type": "town",
+    "native": "Whickham",
+    "timezone": "Europe/London",
+    "population": 16625,
+    "population_year": null
   }
 ]

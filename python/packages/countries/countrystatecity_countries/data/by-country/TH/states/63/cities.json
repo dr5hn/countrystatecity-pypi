@@ -1,17 +1,5 @@
 [
   {
-    "id": 105218,
-    "name": "Ban Tak",
-    "state_id": 3525,
-    "state_code": "63",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "17.05000000",
-    "longitude": "99.07420000",
-    "county_id": 6043,
-    "wikiDataId": null
-  },
-  {
     "id": 106415,
     "name": "Ban Tak",
     "state_id": 3525,
@@ -21,7 +9,29 @@
     "latitude": "17.04325000",
     "longitude": "99.08128000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "บ้านตาก",
+    "timezone": "Asia/Bangkok",
+    "population": 18384,
+    "population_year": null
+  },
+  {
+    "id": 166945,
+    "name": "Ban Tak",
+    "state_id": 3525,
+    "state_code": "63",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "17.05000000",
+    "longitude": "99.07420000",
+    "county_id": 6043,
+    "wikiDataId": "Q108269079",
+    "type": "town",
+    "native": "บ้านตาก",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106564,
@@ -30,10 +40,15 @@
     "state_code": "63",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.98430000",
-    "longitude": "98.51720000",
-    "county_id": 6045,
-    "wikiDataId": null
+    "latitude": "16.98403000",
+    "longitude": "98.51665000",
+    "county_id": null,
+    "wikiDataId": "Q15383176",
+    "type": "adm2",
+    "native": "แม่ระมาด",
+    "timezone": "Asia/Bangkok",
+    "population": 17316,
+    "population_year": null
   },
   {
     "id": 106566,
@@ -45,10 +60,15 @@
     "latitude": "16.71667000",
     "longitude": "98.56667000",
     "county_id": 6047,
-    "wikiDataId": null
+    "wikiDataId": "Q1015445",
+    "type": "city",
+    "native": "แม่สอด",
+    "timezone": "Asia/Bangkok",
+    "population": 44563,
+    "population_year": null
   },
   {
-    "id": 106285,
+    "id": 167239,
     "name": "Mae Tan",
     "state_id": 3525,
     "state_code": "63",
@@ -57,10 +77,15 @@
     "latitude": "17.22708000",
     "longitude": "98.22572000",
     "county_id": 6046,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "แม่ต้าน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105758,
+    "id": 167155,
     "name": "Phop Phra",
     "state_id": 3525,
     "state_code": "63",
@@ -69,7 +94,12 @@
     "latitude": "16.38650000",
     "longitude": "98.69240000",
     "county_id": 6048,
-    "wikiDataId": null
+    "wikiDataId": "Q108345243",
+    "type": "town",
+    "native": "พบพระ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106713,
@@ -81,10 +111,15 @@
     "latitude": "16.86968000",
     "longitude": "99.12898000",
     "county_id": 6042,
-    "wikiDataId": null
+    "wikiDataId": "Q118901",
+    "type": "city",
+    "native": "ตาก",
+    "timezone": "Asia/Bangkok",
+    "population": 24149,
+    "population_year": null
   },
   {
-    "id": 106326,
+    "id": 167260,
     "name": "Umphang",
     "state_id": 3525,
     "state_code": "63",
@@ -93,10 +128,15 @@
     "latitude": "16.01800000",
     "longitude": "98.86520000",
     "county_id": 6049,
-    "wikiDataId": null
+    "wikiDataId": "Q108319033",
+    "type": "town",
+    "native": "อุ้มผาง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106335,
+    "id": 167267,
     "name": "Wang Chao",
     "state_id": 3525,
     "state_code": "63",
@@ -105,6 +145,11 @@
     "latitude": "16.68600000",
     "longitude": "99.25440000",
     "county_id": 6050,
-    "wikiDataId": null
+    "wikiDataId": "Q108319023",
+    "type": "town",
+    "native": "วังเจ้า",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

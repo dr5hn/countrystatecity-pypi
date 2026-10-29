@@ -9,7 +9,12 @@
     "latitude": "22.71794000",
     "longitude": "-82.28965000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Batabanó",
+    "timezone": "America/Havana",
+    "population": 13832,
+    "population_year": null
   },
   {
     "id": 21816,
@@ -21,7 +26,12 @@
     "latitude": "22.92861000",
     "longitude": "-82.38861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q814979",
+    "type": "adm2",
+    "native": "Bejucal",
+    "timezone": "America/Havana",
+    "population": 18123,
+    "population_year": null
   },
   {
     "id": 21864,
@@ -33,7 +43,12 @@
     "latitude": "22.83727000",
     "longitude": "-82.02641000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Güines",
+    "timezone": "America/Havana",
+    "population": 66892,
+    "population_year": null
   },
   {
     "id": 21871,
@@ -45,7 +60,12 @@
     "latitude": "22.97559000",
     "longitude": "-82.16852000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23795053",
+    "type": "city",
+    "native": "Jamaica",
+    "timezone": "America/Havana",
+    "population": 15000,
+    "population_year": null
   },
   {
     "id": 21872,
@@ -57,7 +77,12 @@
     "latitude": "23.04419000",
     "longitude": "-82.00919000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Jaruk",
+    "timezone": "America/Havana",
+    "population": 20207,
+    "population_year": null
   },
   {
     "id": 21881,
@@ -69,7 +94,12 @@
     "latitude": "22.87199000",
     "longitude": "-82.42328000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23794891",
+    "type": "city",
+    "native": "La Salud",
+    "timezone": "America/Havana",
+    "population": 28796,
+    "population_year": null
   },
   {
     "id": 21888,
@@ -81,7 +111,12 @@
     "latitude": "22.91000000",
     "longitude": "-81.85639000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Madruga",
+    "timezone": "America/Havana",
+    "population": 33798,
+    "population_year": null
   },
   {
     "id": 21917,
@@ -93,7 +128,12 @@
     "latitude": "22.78712000",
     "longitude": "-82.01602000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q270297",
+    "type": "adm2",
+    "native": "Municipio de Güines",
+    "timezone": "America/Havana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21925,
@@ -105,7 +145,12 @@
     "latitude": "22.78821000",
     "longitude": "-82.15113000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Municipio de Melena del Sur",
+    "timezone": "America/Havana",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 21949,
@@ -117,7 +162,12 @@
     "latitude": "22.82313000",
     "longitude": "-82.35558000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Quivicán",
+    "timezone": "America/Havana",
+    "population": 12919,
+    "population_year": null
   },
   {
     "id": 21963,
@@ -129,7 +179,12 @@
     "latitude": "22.96139000",
     "longitude": "-82.15111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23789806",
+    "type": "adm1",
+    "native": "San José de las Lajas",
+    "timezone": "America/Havana",
+    "population": 54847,
+    "population_year": null
   },
   {
     "id": 21967,
@@ -141,7 +196,12 @@
     "latitude": "22.78444000",
     "longitude": "-81.91333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "San Nicolás de Bari",
+    "timezone": "America/Havana",
+    "population": 14914,
+    "population_year": null
   },
   {
     "id": 21970,
@@ -153,6 +213,11 @@
     "latitude": "23.15424000",
     "longitude": "-81.92556000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12896967",
+    "type": "adm2",
+    "native": "Santa Cruz del Norte",
+    "timezone": "America/Havana",
+    "population": 18402,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "6.95990000",
     "longitude": "100.57161000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q166990",
+    "type": "district",
+    "native": "อำเภอนาหม่อม",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106398,
@@ -21,7 +26,12 @@
     "latitude": "7.20411000",
     "longitude": "100.54508000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "บ้านใหม่",
+    "timezone": "Asia/Bangkok",
+    "population": 86899,
+    "population_year": null
   },
   {
     "id": 105228,
@@ -33,7 +43,12 @@
     "latitude": "7.06404000",
     "longitude": "100.40664000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q198666",
+    "type": "district",
+    "native": "อำเภอบางกล่ำ",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 105282,
@@ -45,7 +60,12 @@
     "latitude": "6.89584000",
     "longitude": "100.70126000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q74204",
+    "type": "district",
+    "native": "อำเภอจะนะ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106497,
@@ -57,7 +77,12 @@
     "latitude": "7.00836000",
     "longitude": "100.47668000",
     "county_id": 6238,
-    "wikiDataId": null
+    "wikiDataId": "Q651286",
+    "type": "city",
+    "native": "หาดใหญ่",
+    "timezone": "Asia/Bangkok",
+    "population": 159130,
+    "population_year": null
   },
   {
     "id": 105406,
@@ -69,10 +94,15 @@
     "latitude": "6.86623000",
     "longitude": "100.35353000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q166993",
+    "type": "district",
+    "native": "อำเภอคลองหอยโข่ง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105429,
+    "id": 167031,
     "name": "Khuan Niang",
     "state_id": 3539,
     "state_code": "90",
@@ -81,10 +111,15 @@
     "latitude": "7.19138000",
     "longitude": "100.35355000",
     "county_id": 6240,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ควนเนียง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105453,
+    "id": 167043,
     "name": "Krasae Sin",
     "state_id": 3539,
     "state_code": "90",
@@ -93,7 +128,12 @@
     "latitude": "7.58520000",
     "longitude": "100.31980000",
     "county_id": 6235,
-    "wikiDataId": null
+    "wikiDataId": "Q104713902",
+    "type": "town",
+    "native": "กระแสสินธุ์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106576,
@@ -105,10 +145,15 @@
     "latitude": "6.95856000",
     "longitude": "100.55683000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "นา มัม",
+    "timezone": "Asia/Bangkok",
+    "population": 7537,
+    "population_year": null
   },
   {
-    "id": 105623,
+    "id": 167094,
     "name": "Na Thawi",
     "state_id": 3539,
     "state_code": "90",
@@ -117,7 +162,12 @@
     "latitude": "6.74192000",
     "longitude": "100.69139000",
     "county_id": 6231,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "นาทวี",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106662,
@@ -129,7 +179,12 @@
     "latitude": "7.77768000",
     "longitude": "100.32134000",
     "county_id": 6234,
-    "wikiDataId": null
+    "wikiDataId": "Q28599020",
+    "type": "town",
+    "native": "ระโนด",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105810,
@@ -141,10 +196,15 @@
     "latitude": "7.07488000",
     "longitude": "100.19515000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q195671",
+    "type": "district",
+    "native": "อำเภอรัตภูมิ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105818,
+    "id": 167179,
     "name": "Saba Yoi",
     "state_id": 3539,
     "state_code": "90",
@@ -153,7 +213,12 @@
     "latitude": "6.61750000",
     "longitude": "100.95189000",
     "county_id": 6233,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "สะบ้าย้อย",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106672,
@@ -165,10 +230,15 @@
     "latitude": "6.63883000",
     "longitude": "100.42342000",
     "county_id": 6237,
-    "wikiDataId": null
+    "wikiDataId": "Q13025392",
+    "type": "city",
+    "native": "สะเดา",
+    "timezone": "Asia/Bangkok",
+    "population": 46236,
+    "population_year": null
   },
   {
-    "id": 106196,
+    "id": 167198,
     "name": "Sathing Phra",
     "state_id": 3539,
     "state_code": "90",
@@ -177,10 +247,15 @@
     "latitude": "7.47303000",
     "longitude": "100.43908000",
     "county_id": 6229,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "สทิงพระ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106237,
+    "id": 167218,
     "name": "Singhanakhon",
     "state_id": 3539,
     "state_code": "90",
@@ -189,7 +264,12 @@
     "latitude": "7.23888889",
     "longitude": "100.55055556",
     "county_id": 6242,
-    "wikiDataId": null
+    "wikiDataId": "Q6664229",
+    "type": "city",
+    "native": "สิงหนคร",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106704,
@@ -201,10 +281,15 @@
     "latitude": "7.19882000",
     "longitude": "100.59510000",
     "county_id": 6228,
-    "wikiDataId": null
+    "wikiDataId": "Q795595",
+    "type": "city",
+    "native": "สงขลา",
+    "timezone": "Asia/Bangkok",
+    "population": 63834,
+    "population_year": null
   },
   {
-    "id": 106305,
+    "id": 167250,
     "name": "Thepha",
     "state_id": 3539,
     "state_code": "90",
@@ -213,6 +298,11 @@
     "latitude": "6.82936000",
     "longitude": "100.96431000",
     "county_id": 6232,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "เทพา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,10 +9,15 @@
     "latitude": "19.52331000",
     "longitude": "100.30000000",
     "county_id": 5976,
-    "wikiDataId": null
+    "wikiDataId": "Q16262992",
+    "type": "town",
+    "native": "เชียงคำ",
+    "timezone": "Asia/Bangkok",
+    "population": 14092,
+    "population_year": null
   },
   {
-    "id": 105298,
+    "id": 166975,
     "name": "Chiang Muan",
     "state_id": 3538,
     "state_code": "56",
@@ -21,10 +26,15 @@
     "latitude": "18.89347324",
     "longitude": "100.28791097",
     "county_id": 5977,
-    "wikiDataId": null
+    "wikiDataId": "Q111284819",
+    "type": "town",
+    "native": "เชียงม่วน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105315,
+    "id": 166983,
     "name": "Chun",
     "state_id": 3538,
     "state_code": "56",
@@ -33,7 +43,12 @@
     "latitude": "19.33695000",
     "longitude": "100.13478000",
     "county_id": 5975,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "จุน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106491,
@@ -44,8 +59,13 @@
     "country_code": "TH",
     "latitude": "19.16242000",
     "longitude": "99.99342000",
-    "county_id": 5978,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q15272853",
+    "type": "adm2",
+    "native": "ดอกคำใต้",
+    "timezone": "Asia/Bangkok",
+    "population": 23824,
+    "population_year": null
   },
   {
     "id": 106561,
@@ -57,7 +77,12 @@
     "latitude": "19.34597000",
     "longitude": "99.81400000",
     "county_id": 5980,
-    "wikiDataId": null
+    "wikiDataId": "Q28732664",
+    "type": "town",
+    "native": "แม่ใจ",
+    "timezone": "Asia/Bangkok",
+    "population": 5094,
+    "population_year": null
   },
   {
     "id": 106629,
@@ -69,7 +94,12 @@
     "latitude": "19.19203000",
     "longitude": "99.87883000",
     "county_id": 5974,
-    "wikiDataId": null
+    "wikiDataId": "Q1207122",
+    "type": "city",
+    "native": "พะเยา",
+    "timezone": "Asia/Bangkok",
+    "population": 17467,
+    "population_year": null
   },
   {
     "id": 105774,
@@ -81,7 +111,12 @@
     "latitude": "19.31170000",
     "longitude": "99.96614000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476469",
+    "type": "district",
+    "native": "อำเภอภูกามยาว",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 105781,
@@ -93,7 +128,12 @@
     "latitude": "19.62372000",
     "longitude": "100.37246000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476489",
+    "type": "district",
+    "native": "อำเภอภูซาง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106652,
@@ -105,6 +145,11 @@
     "latitude": "19.14931000",
     "longitude": "100.27522000",
     "county_id": 5979,
-    "wikiDataId": null
+    "wikiDataId": "Q28732665",
+    "type": "town",
+    "native": "ปง",
+    "timezone": "Asia/Bangkok",
+    "population": 14392,
+    "population_year": null
   }
 ]

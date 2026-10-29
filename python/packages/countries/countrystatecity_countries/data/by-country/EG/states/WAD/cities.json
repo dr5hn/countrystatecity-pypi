@@ -9,7 +9,12 @@
     "latitude": "25.45141000",
     "longitude": "30.54635000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4063326",
+    "type": "adm1",
+    "native": "الخرجة",
+    "timezone": "Africa/Cairo",
+    "population": 83108,
+    "population_year": null
   },
   {
     "id": 164666,
@@ -21,7 +26,12 @@
     "latitude": "25.48742000",
     "longitude": "28.97918000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14215956",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "population": 26820,
+    "population_year": null
   },
   {
     "id": 31852,
@@ -33,6 +43,11 @@
     "latitude": "27.05680000",
     "longitude": "27.96979000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14208893",
+    "type": "city",
+    "native": "قصر الفرافرة",
+    "timezone": "Africa/Cairo",
+    "population": 5000,
+    "population_year": null
   }
 ]

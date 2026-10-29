@@ -9,7 +9,12 @@
     "latitude": "-6.20655000",
     "longitude": "149.54744000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4352079",
+    "type": "city",
+    "native": "Kandrian",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 1014,
+    "population_year": null
   },
   {
     "id": 81058,
@@ -21,7 +26,12 @@
     "latitude": "-6.08333000",
     "longitude": "149.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4352079",
+    "type": "city",
+    "native": "Kandrian Goucester",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81065,
@@ -33,7 +43,12 @@
     "latitude": "-5.55085000",
     "longitude": "150.13766000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q59718",
+    "type": "adm1",
+    "native": "Kimbe",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 18847,
+    "population_year": null
   },
   {
     "id": 81112,
@@ -45,6 +60,11 @@
     "latitude": "-5.66667000",
     "longitude": "149.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711507",
+    "type": "area",
+    "native": "Thalassea",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 128792,
+    "population_year": null
   }
 ]

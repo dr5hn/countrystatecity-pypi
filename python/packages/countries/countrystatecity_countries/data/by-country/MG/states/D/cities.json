@@ -9,7 +9,12 @@
     "latitude": "-18.81667000",
     "longitude": "49.06667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Ampasimanolotra",
+    "timezone": "Indian/Antananarivo",
+    "population": 21000,
+    "population_year": null
   },
   {
     "id": 67379,
@@ -21,7 +26,12 @@
     "latitude": "-19.90000000",
     "longitude": "48.80000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mahanoro",
+    "timezone": "Indian/Antananarivo",
+    "population": 40033,
+    "population_year": null
   },
   {
     "id": 67380,
@@ -33,7 +43,12 @@
     "latitude": "-17.68475000",
     "longitude": "49.50869000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3079900",
+    "type": "city",
+    "native": "Mahavelona",
+    "timezone": "Indian/Antananarivo",
+    "population": 7987,
+    "population_year": null
   },
   {
     "id": 67381,
@@ -45,7 +60,12 @@
     "latitude": "-20.05000000",
     "longitude": "48.11667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Marolambo",
+    "timezone": "Indian/Antananarivo",
+    "population": 26160,
+    "population_year": null
   },
   {
     "id": 67383,
@@ -57,7 +77,12 @@
     "latitude": "-18.13863000",
     "longitude": "49.39203000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3031888",
+    "type": "adm1",
+    "native": "Toamasina I",
+    "timezone": "Indian/Antananarivo",
+    "population": 179045,
+    "population_year": null
   },
   {
     "id": 67385,
@@ -69,6 +94,11 @@
     "latitude": "-17.35000000",
     "longitude": "49.03333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Vohibinany",
+    "timezone": "Indian/Antananarivo",
+    "population": 25311,
+    "population_year": null
   }
 ]

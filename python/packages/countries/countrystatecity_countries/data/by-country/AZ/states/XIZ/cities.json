@@ -9,7 +9,12 @@
     "latitude": "40.85785000",
     "longitude": "48.93540000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4737076",
+    "type": "city",
+    "native": "Altıağac",
+    "timezone": "Asia/Baku",
+    "population": 1126,
+    "population_year": null
   },
   {
     "id": 8101,
@@ -21,7 +26,12 @@
     "latitude": "40.90847000",
     "longitude": "49.07481000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2468528",
+    "type": "adm1",
+    "native": "Khizi",
+    "timezone": "Asia/Baku",
+    "population": 1024,
+    "population_year": null
   },
   {
     "id": 8102,
@@ -33,7 +43,12 @@
     "latitude": "40.87392000",
     "longitude": "49.34376000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kinyazi",
+    "timezone": "Asia/Baku",
+    "population": 3277,
+    "population_year": null
   },
   {
     "id": 8213,
@@ -45,6 +60,11 @@
     "latitude": "40.81990000",
     "longitude": "49.46774000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Şuraabad",
+    "timezone": "Asia/Baku",
+    "population": 1945,
+    "population_year": null
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": 50925,
+    "id": 166605,
     "name": "Plymouth",
     "state_id": 2514,
     "state_code": "PLY",
@@ -9,7 +9,12 @@
     "latitude": "50.38333000",
     "longitude": "-4.13333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Plymouth",
+    "timezone": "Europe/London",
+    "population": 267918,
+    "population_year": null
   },
   {
     "id": 50926,
@@ -21,7 +26,12 @@
     "latitude": "50.39074000",
     "longitude": "-4.06022000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7205889",
+    "type": "city",
+    "native": "Plympton",
+    "timezone": "Europe/London",
+    "population": 8892,
+    "population_year": null
   },
   {
     "id": 50927,
@@ -33,6 +43,11 @@
     "latitude": "50.35999000",
     "longitude": "-4.09049000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2099884",
+    "type": "section",
+    "native": "Plymstock",
+    "timezone": "Europe/London",
+    "population": 24103,
+    "population_year": null
   }
 ]

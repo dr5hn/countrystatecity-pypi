@@ -9,7 +9,12 @@
     "latitude": "-8.52074000",
     "longitude": "179.19680000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Alapi Village",
+    "timezone": "Pacific/Funafuti",
+    "population": 1024,
+    "population_year": null
   },
   {
     "id": 108995,
@@ -21,7 +26,12 @@
     "latitude": "-8.51758000",
     "longitude": "179.20094000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Fakaifou Village",
+    "timezone": "Pacific/Funafuti",
+    "population": 1007,
+    "population_year": null
   },
   {
     "id": 108996,
@@ -33,6 +43,11 @@
     "latitude": "-8.52425000",
     "longitude": "179.19417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "capital",
+    "native": "Funfuta",
+    "timezone": "Pacific/Funafuti",
+    "population": 6025,
+    "population_year": null
   }
 ]

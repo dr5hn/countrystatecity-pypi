@@ -9,7 +9,12 @@
     "latitude": "12.37813000",
     "longitude": "17.05876000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2909258",
+    "type": "city",
+    "native": "Bokoro",
+    "timezone": "Africa/Ndjamena",
+    "population": 26095,
+    "population_year": null
   },
   {
     "id": 105146,
@@ -21,7 +26,12 @@
     "latitude": "12.47554000",
     "longitude": "15.43647000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1907375",
+    "type": "city",
+    "native": "Massaguet",
+    "timezone": "Africa/Ndjamena",
+    "population": 28401,
+    "population_year": null
   },
   {
     "id": 105147,
@@ -33,6 +43,11 @@
     "latitude": "12.99600000",
     "longitude": "15.72927000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2498357",
+    "type": "adm1",
+    "native": "Massakory",
+    "timezone": "Africa/Ndjamena",
+    "population": 39944,
+    "population_year": null
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": 105185,
+    "id": 166921,
     "name": "Bacho",
     "state_id": 3553,
     "state_code": "96",
@@ -9,7 +9,12 @@
     "latitude": "6.51678000",
     "longitude": "101.65100000",
     "county_id": 6294,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "บาเจาะ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106414,
@@ -21,7 +26,12 @@
     "latitude": "6.07239000",
     "longitude": "101.87172000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "บ้านสุไหงปาดี",
+    "timezone": "Asia/Bangkok",
+    "population": 14274,
+    "population_year": null
   },
   {
     "id": 105283,
@@ -33,7 +43,12 @@
     "latitude": "6.04591000",
     "longitude": "101.61765000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475359",
+    "type": "district",
+    "native": "อำเภอชะแน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105301,
@@ -45,7 +60,12 @@
     "latitude": "6.23011000",
     "longitude": "101.84721000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475404",
+    "type": "district",
+    "native": "อำเภอเจาะไอร้อง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106590,
@@ -57,10 +77,15 @@
     "latitude": "6.42639000",
     "longitude": "101.82308000",
     "county_id": 6292,
-    "wikiDataId": null
+    "wikiDataId": "Q535747",
+    "type": "city",
+    "native": "นราธิวาส",
+    "timezone": "Asia/Bangkok",
+    "population": 41342,
+    "population_year": null
   },
   {
-    "id": 105815,
+    "id": 167176,
     "name": "Rueso",
     "state_id": 3553,
     "state_code": "96",
@@ -69,10 +94,15 @@
     "latitude": "6.39364000",
     "longitude": "101.51847000",
     "county_id": 6297,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "รือเสาะ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106222,
+    "id": 167210,
     "name": "Si Sakhon",
     "state_id": 3553,
     "state_code": "96",
@@ -81,7 +111,12 @@
     "latitude": "6.22350000",
     "longitude": "101.50330000",
     "county_id": 6298,
-    "wikiDataId": null
+    "wikiDataId": "Q109588369",
+    "type": "town",
+    "native": "ศรีสาคร",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106705,
@@ -93,7 +128,12 @@
     "latitude": "6.02977000",
     "longitude": "101.96586000",
     "county_id": 6301,
-    "wikiDataId": null
+    "wikiDataId": "Q1770801",
+    "type": "city",
+    "native": "สุไหงโก-ลก",
+    "timezone": "Asia/Bangkok",
+    "population": 42776,
+    "population_year": null
   },
   {
     "id": 106252,
@@ -105,10 +145,15 @@
     "latitude": "6.10425000",
     "longitude": "101.89333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476774",
+    "type": "district",
+    "native": "อำเภอสุไหงปาดี",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   },
   {
-    "id": 106255,
+    "id": 167226,
     "name": "Sukhirin",
     "state_id": 3553,
     "state_code": "96",
@@ -117,7 +162,12 @@
     "latitude": "5.94055556",
     "longitude": "101.76880556",
     "county_id": 6300,
-    "wikiDataId": null
+    "wikiDataId": "Q109837766",
+    "type": "town",
+    "native": "สุคิริน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106714,
@@ -129,7 +179,12 @@
     "latitude": "6.25947000",
     "longitude": "102.05461000",
     "county_id": 6293,
-    "wikiDataId": null
+    "wikiDataId": "Q4189383",
+    "type": "city",
+    "native": "ตากใบ",
+    "timezone": "Asia/Bangkok",
+    "population": 17241,
+    "population_year": null
   },
   {
     "id": 106660,
@@ -141,10 +196,15 @@
     "latitude": "6.29678000",
     "longitude": "101.72844000",
     "county_id": 6296,
-    "wikiDataId": null
+    "wikiDataId": "Q28729420",
+    "type": "town",
+    "native": "ตันหยงมัส",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106330,
+    "id": 167262,
     "name": "Waeng",
     "state_id": 3553,
     "state_code": "96",
@@ -153,10 +213,15 @@
     "latitude": "5.92800000",
     "longitude": "101.88382000",
     "county_id": 6299,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "แว้ง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106379,
+    "id": 167290,
     "name": "Yi-ngo",
     "state_id": 3553,
     "state_code": "96",
@@ -165,6 +230,11 @@
     "latitude": "6.40297000",
     "longitude": "101.70625000",
     "county_id": 6295,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ยี่งอ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

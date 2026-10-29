@@ -1,42 +1,6 @@
 [
   {
-    "id": 56329,
-    "name": "Bangka",
-    "state_id": 1820,
-    "state_code": "BB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-1.91667000",
-    "longitude": "105.93333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56350,
-    "name": "Belitung",
-    "state_id": 1820,
-    "state_code": "BB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.86667000",
-    "longitude": "107.70000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56351,
-    "name": "Belitung Timur",
-    "state_id": 1820,
-    "state_code": "BB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.96270000",
-    "longitude": "108.15216000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56332,
+    "id": 166633,
     "name": "Koba",
     "state_id": 1820,
     "state_code": "BB",
@@ -45,7 +9,12 @@
     "latitude": "-2.49313000",
     "longitude": "106.40810000",
     "county_id": 8510,
-    "wikiDataId": null
+    "wikiDataId": "Q138791050",
+    "type": "town",
+    "native": "Koba",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56859,
@@ -57,10 +26,15 @@
     "latitude": "-2.88333000",
     "longitude": "108.26667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Manggar",
+    "timezone": "Asia/Jakarta",
+    "population": 39135,
+    "population_year": null
   },
   {
-    "id": 56330,
+    "id": 166631,
     "name": "Mentok",
     "state_id": 1820,
     "state_code": "BB",
@@ -69,7 +43,12 @@
     "latitude": "-2.06416700",
     "longitude": "105.15972200",
     "county_id": 8511,
-    "wikiDataId": null
+    "wikiDataId": "Q28519583",
+    "type": "town",
+    "native": "Mentok",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56881,
@@ -81,7 +60,12 @@
     "latitude": "-2.06719000",
     "longitude": "105.16228000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Muntok",
+    "timezone": "Asia/Jakarta",
+    "population": 26709,
+    "population_year": null
   },
   {
     "id": 56912,
@@ -93,7 +77,12 @@
     "latitude": "-2.12914000",
     "longitude": "106.11377000",
     "county_id": 8513,
-    "wikiDataId": null
+    "wikiDataId": "Q8179",
+    "type": "city",
+    "native": "Pangkalpinang",
+    "timezone": "Asia/Jakarta",
+    "population": 216893,
+    "population_year": null
   },
   {
     "id": 57009,
@@ -105,7 +94,12 @@
     "latitude": "-1.85442000",
     "longitude": "106.12215000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Sungailiat",
+    "timezone": "Asia/Jakarta",
+    "population": 100750,
+    "population_year": null
   },
   {
     "id": 57017,
@@ -117,10 +111,15 @@
     "latitude": "-2.73353000",
     "longitude": "107.63477000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tanjung Pandan",
+    "timezone": "Asia/Jakarta",
+    "population": 103062,
+    "population_year": null
   },
   {
-    "id": 56331,
+    "id": 166632,
     "name": "Toboali",
     "state_id": 1820,
     "state_code": "BB",
@@ -129,6 +128,11 @@
     "latitude": "-3.00000000",
     "longitude": "106.50000000",
     "county_id": 8509,
-    "wikiDataId": null
+    "wikiDataId": "Q138791049",
+    "type": "town",
+    "native": "Toboali",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   }
 ]

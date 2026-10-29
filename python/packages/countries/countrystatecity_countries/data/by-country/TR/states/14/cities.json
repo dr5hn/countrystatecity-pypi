@@ -8,8 +8,13 @@
     "country_code": "TR",
     "latitude": "40.72052000",
     "longitude": "32.06314000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7619,
+    "wikiDataId": "Q2143455",
+    "type": "municipality",
+    "native": "Dörtdivan",
+    "timezone": "Europe/Istanbul",
+    "population": 3595,
+    "population_year": null
   },
   {
     "id": 107665,
@@ -21,7 +26,12 @@
     "latitude": "40.71364000",
     "longitude": "32.31263000",
     "county_id": 7068,
-    "wikiDataId": null
+    "wikiDataId": "Q49103672",
+    "type": "municipality",
+    "native": "Gerede",
+    "timezone": "Europe/Istanbul",
+    "population": 26652,
+    "population_year": 2025
   },
   {
     "id": 107719,
@@ -32,8 +42,13 @@
     "country_code": "TR",
     "latitude": "40.40028000",
     "longitude": "30.78833000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7086,
+    "wikiDataId": "Q2901109",
+    "type": "municipality",
+    "native": "Göynük",
+    "timezone": "Europe/Istanbul",
+    "population": 5600,
+    "population_year": null
   },
   {
     "id": 108096,
@@ -44,8 +59,13 @@
     "country_code": "TR",
     "latitude": "40.40778000",
     "longitude": "31.85194000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7183,
+    "wikiDataId": "Q2672692",
+    "type": "municipality",
+    "native": "Kıbrıscık",
+    "timezone": "Europe/Istanbul",
+    "population": 3220,
+    "population_year": null
   },
   {
     "id": 108172,
@@ -57,7 +77,12 @@
     "latitude": "40.93877000",
     "longitude": "32.07642000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3123478",
+    "type": "adm2",
+    "native": "Mengen",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 107366,
@@ -68,8 +93,13 @@
     "country_code": "TR",
     "latitude": "40.73583000",
     "longitude": "31.60611000",
-    "county_id": 6928,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q200951",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 189704,
+    "population_year": 2025
   },
   {
     "id": 108218,
@@ -80,8 +110,13 @@
     "country_code": "TR",
     "latitude": "40.47300000",
     "longitude": "31.20755000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7242,
+    "wikiDataId": "Q967446",
+    "type": "municipality",
+    "native": "Mudurnu",
+    "timezone": "Europe/Istanbul",
+    "population": 6267,
+    "population_year": null
   },
   {
     "id": 108421,
@@ -93,7 +128,12 @@
     "latitude": "40.41134000",
     "longitude": "31.57359000",
     "county_id": 7317,
-    "wikiDataId": null
+    "wikiDataId": "Q2671094",
+    "type": "municipality",
+    "native": "Seben",
+    "timezone": "Europe/Istanbul",
+    "population": 2197,
+    "population_year": 2025
   },
   {
     "id": 108709,
@@ -105,6 +145,11 @@
     "latitude": "40.77115000",
     "longitude": "32.03375000",
     "county_id": 7700,
-    "wikiDataId": null
+    "wikiDataId": "Q4456549",
+    "type": "municipality",
+    "native": "Yeniçağa",
+    "timezone": "Europe/Istanbul",
+    "population": 4193,
+    "population_year": 2025
   }
 ]

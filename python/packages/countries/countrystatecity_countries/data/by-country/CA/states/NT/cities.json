@@ -9,7 +9,12 @@
     "latitude": "62.80250000",
     "longitude": "-116.04639000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Behchokǫ̀",
+    "timezone": "America/Edmonton",
+    "population": 1746,
+    "population_year": null
   },
   {
     "id": 16431,
@@ -21,7 +26,12 @@
     "latitude": "67.43863000",
     "longitude": "-134.88543000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1014119",
+    "type": "city",
+    "native": "Fort McPherson",
+    "timezone": "America/Edmonton",
+    "population": 700,
+    "population_year": null
   },
   {
     "id": 16434,
@@ -33,7 +43,12 @@
     "latitude": "60.00439000",
     "longitude": "-111.88871000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q686415",
+    "type": "city",
+    "native": "Fort Smith",
+    "timezone": "America/Edmonton",
+    "population": 2248,
+    "population_year": null
   },
   {
     "id": 16498,
@@ -45,7 +60,12 @@
     "latitude": "60.81555000",
     "longitude": "-115.79993000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1013062",
+    "type": "city",
+    "native": "Hay River",
+    "timezone": "America/Edmonton",
+    "population": 3528,
+    "population_year": null
   },
   {
     "id": 16522,
@@ -57,7 +77,12 @@
     "latitude": "68.34986000",
     "longitude": "-133.72181000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q338686",
+    "type": "city",
+    "native": "Inuvik",
+    "timezone": "America/Toronto",
+    "population": 3137,
+    "population_year": null
   },
   {
     "id": 16753,
@@ -69,7 +94,12 @@
     "latitude": "65.28201000",
     "longitude": "-126.83290000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3343828",
+    "type": "city",
+    "native": "Norman Wells",
+    "timezone": "America/Edmonton",
+    "population": 1027,
+    "population_year": null
   },
   {
     "id": 17221,
@@ -81,6 +111,11 @@
     "latitude": "62.45411000",
     "longitude": "-114.37248000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2061",
+    "type": "adm1",
+    "native": "Yellowknife",
+    "timezone": "America/Edmonton",
+    "population": 20340,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "8.95000000",
     "longitude": "46.41666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4058907",
+    "type": "city",
+    "native": "Caynabo",
+    "timezone": "Africa/Mogadishu",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 160114,
@@ -21,7 +26,12 @@
     "latitude": "9.15416667",
     "longitude": "47.47694444",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3388333",
+    "type": "city",
+    "native": "Xudun",
+    "timezone": "Africa/Mogadishu",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 160112,
@@ -33,6 +43,11 @@
     "latitude": "8.47600000",
     "longitude": "47.35700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1017223",
+    "type": "adm1",
+    "native": "Laascaanood",
+    "timezone": "Africa/Mogadishu",
+    "population": 60100,
+    "population_year": null
   }
 ]

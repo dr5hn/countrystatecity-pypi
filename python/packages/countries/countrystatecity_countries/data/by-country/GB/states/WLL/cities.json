@@ -9,7 +9,12 @@
     "latitude": "52.60549000",
     "longitude": "-1.91715000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1807596",
+    "type": "town",
+    "native": "Aldridge",
+    "timezone": "Europe/London",
+    "population": 16008,
+    "population_year": null
   },
   {
     "id": 48574,
@@ -21,7 +26,12 @@
     "latitude": "52.61806000",
     "longitude": "-2.00431000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2571140",
+    "type": "town",
+    "native": "Bloxwich",
+    "timezone": "Europe/London",
+    "population": 40000,
+    "population_year": null
   },
   {
     "id": 48732,
@@ -33,7 +43,12 @@
     "latitude": "52.63333000",
     "longitude": "-1.93333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q730103",
+    "type": "section",
+    "native": "Brownhills",
+    "timezone": "Europe/London",
+    "population": 21232,
+    "population_year": null
   },
   {
     "id": 49235,
@@ -45,7 +60,12 @@
     "latitude": "52.56667000",
     "longitude": "-2.03333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2571235",
+    "type": "town",
+    "native": "Darlaston",
+    "timezone": "Europe/London",
+    "population": 1001,
+    "population_year": null
   },
   {
     "id": 50869,
@@ -57,7 +77,12 @@
     "latitude": "52.62910000",
     "longitude": "-1.96738000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7161724",
+    "type": "town",
+    "native": "Pelsall",
+    "timezone": "Europe/London",
+    "population": 10758,
+    "population_year": null
   },
   {
     "id": 51497,
@@ -69,10 +94,15 @@
     "latitude": "52.58333000",
     "longitude": "-1.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Streetly",
+    "timezone": "Europe/London",
+    "population": 13251,
+    "population_year": null
   },
   {
-    "id": 51735,
+    "id": 166612,
     "name": "Walsall",
     "state_id": 2292,
     "state_code": "WLL",
@@ -81,7 +111,12 @@
     "latitude": "52.58333000",
     "longitude": "-2.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Walsall",
+    "timezone": "Europe/London",
+    "population": 67594,
+    "population_year": null
   },
   {
     "id": 51906,
@@ -93,6 +128,11 @@
     "latitude": "52.58514000",
     "longitude": "-2.05934000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q617799",
+    "type": "town",
+    "native": "Willenhall",
+    "timezone": "Europe/London",
+    "population": 27500,
+    "population_year": null
   }
 ]

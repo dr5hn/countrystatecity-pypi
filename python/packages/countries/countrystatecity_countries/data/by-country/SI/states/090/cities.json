@@ -9,7 +9,12 @@
     "latitude": "45.50526000",
     "longitude": "13.60240000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q565175",
+    "type": "locality",
+    "native": "Lucia",
+    "timezone": "Europe/Ljubljana",
+    "population": 6062,
+    "population_year": null
   },
   {
     "id": 104221,
@@ -21,7 +26,12 @@
     "latitude": "45.52778000",
     "longitude": "13.57056000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1382",
+    "type": "city",
+    "native": "Piran",
+    "timezone": "Europe/Ljubljana",
+    "population": 3787,
+    "population_year": null
   },
   {
     "id": 104229,
@@ -33,7 +43,12 @@
     "latitude": "45.51429000",
     "longitude": "13.59206000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q564988",
+    "type": "locality",
+    "native": "Portorož",
+    "timezone": "Europe/Ljubljana",
+    "population": 2866,
+    "population_year": null
   },
   {
     "id": 104269,
@@ -45,6 +60,11 @@
     "latitude": "45.49584000",
     "longitude": "13.61466000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q565204",
+    "type": "locality",
+    "native": "Seča",
+    "timezone": "Europe/Ljubljana",
+    "population": 1249,
+    "population_year": null
   }
 ]

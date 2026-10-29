@@ -6,10 +6,15 @@
     "state_code": "57",
     "country_id": 225,
     "country_code": "TR",
-    "latitude": "41.95000000",
-    "longitude": "34.58333300",
+    "latitude": "41.94472000",
+    "longitude": "34.58611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q792769",
+    "type": "adm2",
+    "native": "Ayancık",
+    "timezone": "Europe/Istanbul",
+    "population": 23739,
+    "population_year": null
   },
   {
     "id": 142113,
@@ -21,7 +26,12 @@
     "latitude": "41.46889000",
     "longitude": "34.76667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q895880",
+    "type": "adm2",
+    "native": "Boyabat",
+    "timezone": "Europe/Istanbul",
+    "population": 27717,
+    "population_year": null
   },
   {
     "id": 142115,
@@ -33,7 +43,12 @@
     "latitude": "41.66000000",
     "longitude": "35.27055556",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3027936",
+    "type": "adm2",
+    "native": "Dikmen",
+    "timezone": "Europe/Istanbul",
+    "population": 5492,
+    "population_year": null
   },
   {
     "id": 142116,
@@ -45,7 +60,12 @@
     "latitude": "41.42555556",
     "longitude": "35.05777778",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2670763",
+    "type": "adm2",
+    "native": "Durağan",
+    "timezone": "Europe/Istanbul",
+    "population": 19650,
+    "population_year": null
   },
   {
     "id": 142117,
@@ -57,7 +77,12 @@
     "latitude": "41.87926000",
     "longitude": "34.91838000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3056124",
+    "type": "adm2",
+    "native": "Erfelek",
+    "timezone": "Europe/Istanbul",
+    "population": 3596,
+    "population_year": null
   },
   {
     "id": 142119,
@@ -66,10 +91,15 @@
     "state_code": "57",
     "country_id": 225,
     "country_code": "TR",
-    "latitude": "41.81000000",
-    "longitude": "35.19027778",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "41.76666667",
+    "longitude": "35.16666667",
+    "county_id": 7071,
+    "wikiDataId": "Q2014028",
+    "type": "municipality",
+    "native": "Gerze",
+    "timezone": "Europe/Istanbul",
+    "population": 24946,
+    "population_year": null
   },
   {
     "id": 142121,
@@ -80,8 +110,13 @@
     "country_code": "TR",
     "latitude": "41.33722222",
     "longitude": "34.85361111",
-    "county_id": 7684,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1834901",
+    "type": "adm2",
+    "native": "Saraydüzü",
+    "timezone": "Europe/Istanbul",
+    "population": 1213,
+    "population_year": 2025
   },
   {
     "id": 165616,
@@ -93,7 +128,12 @@
     "latitude": "42.02683000",
     "longitude": "35.16253000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q599416",
+    "type": "adm1",
+    "native": "Sinop",
+    "timezone": "Europe/Istanbul",
+    "population": 34834,
+    "population_year": null
   },
   {
     "id": 142123,
@@ -105,6 +145,11 @@
     "latitude": "41.94777778",
     "longitude": "34.33861111",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q606923",
+    "type": "adm2",
+    "native": "Türkeli",
+    "timezone": "Europe/Istanbul",
+    "population": 8287,
+    "population_year": null
   }
 ]

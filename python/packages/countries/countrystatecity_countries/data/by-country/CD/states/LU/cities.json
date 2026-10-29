@@ -9,7 +9,12 @@
     "latitude": "-10.61771000",
     "longitude": "26.32107000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3090897",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "population": 50100,
+    "population_year": null
   },
   {
     "id": 153949,
@@ -21,7 +26,12 @@
     "latitude": "-10.38342000",
     "longitude": "23.44987000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22536905",
+    "type": "city",
+    "native": "Kasaji",
+    "timezone": "Africa/Lubumbashi",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153948,
@@ -33,6 +43,11 @@
     "latitude": "-10.71666700",
     "longitude": "25.46666700",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q271404",
+    "type": "adm2",
+    "native": "Kolwezi",
+    "timezone": "Africa/Lubumbashi",
+    "population": 790248,
+    "population_year": null
   }
 ]

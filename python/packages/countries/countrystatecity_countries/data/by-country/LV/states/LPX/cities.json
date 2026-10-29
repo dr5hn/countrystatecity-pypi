@@ -9,7 +9,12 @@
     "latitude": "56.55128000",
     "longitude": "21.01287000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Karosta",
+    "timezone": "Europe/Riga",
+    "population": 7500,
+    "population_year": null
   },
   {
     "id": 66919,
@@ -21,6 +26,11 @@
     "latitude": "56.50474000",
     "longitude": "21.01085000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q167668",
+    "type": "adm1",
+    "native": "Liepāja",
+    "timezone": "Europe/Riga",
+    "population": 66680,
+    "population_year": null
   }
 ]

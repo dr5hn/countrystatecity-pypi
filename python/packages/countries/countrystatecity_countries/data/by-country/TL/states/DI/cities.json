@@ -9,7 +9,12 @@
     "latitude": "-8.26785000",
     "longitude": "125.59699000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Ilha Atauro",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106839,
@@ -21,7 +26,12 @@
     "latitude": "-8.52047000",
     "longitude": "125.60837000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1140438",
+    "type": "area",
+    "native": "Cristo Rei",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106840,
@@ -33,7 +43,12 @@
     "latitude": "-8.55861000",
     "longitude": "125.57361000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q9310",
+    "type": "capital",
+    "native": "Dili",
+    "timezone": "Asia/Dili",
+    "population": 150000,
+    "population_year": null
   },
   {
     "id": 106864,
@@ -45,6 +60,11 @@
     "latitude": "-8.53007000",
     "longitude": "125.74163000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18201468",
+    "type": "city",
+    "native": "De um ano -Volto",
+    "timezone": "Asia/Dili",
+    "population": 4000,
+    "population_year": null
   }
 ]

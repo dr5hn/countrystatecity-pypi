@@ -8,8 +8,13 @@
     "country_code": "AR",
     "latitude": "-27.43380000",
     "longitude": "-65.61427000",
-    "county_id": 6822,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q398365",
+    "type": "adm2",
+    "native": "Aguilares",
+    "timezone": "America/Argentina/Tucuman",
+    "population": 32494,
+    "population_year": null
   },
   {
     "id": 646,
@@ -20,20 +25,30 @@
     "country_code": "AR",
     "latitude": "-26.81667000",
     "longitude": "-65.13333000",
-    "county_id": 6813,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q2456137",
+    "type": "section",
+    "native": "Alderetes",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 38466,
+    "population_year": null
   },
   {
-    "id": 870,
+    "id": 166309,
     "name": "Banda del Río Salí",
     "state_id": 3637,
     "state_code": "T",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-26.83416996",
-    "longitude": "-65.16692452",
+    "latitude": "-26.83333333",
+    "longitude": "-65.16666667",
     "county_id": 6813,
-    "wikiDataId": null
+    "wikiDataId": "Q806249",
+    "type": "municipality",
+    "native": "Banda del Río Salí",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 690,
@@ -44,8 +59,13 @@
     "country_code": "AR",
     "latitude": "-27.03424000",
     "longitude": "-65.30196000",
-    "county_id": 6819,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q815781",
+    "type": "adm2",
+    "native": "Bella Vista",
+    "timezone": "America/Argentina/Tucuman",
+    "population": 15126,
+    "population_year": null
   },
   {
     "id": 705,
@@ -57,7 +77,12 @@
     "latitude": "-26.49918000",
     "longitude": "-64.74206000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q386975",
+    "type": "adm2",
+    "native": "Burruyacú",
+    "timezone": "America/Argentina/Tucuman",
+    "population": 2037,
+    "population_year": null
   },
   {
     "id": 840,
@@ -69,7 +94,12 @@
     "latitude": "-26.50000000",
     "longitude": "-64.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "area",
+    "native": "Departamento de Burruyacú",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 45476,
+    "population_year": null
   },
   {
     "id": 933,
@@ -81,7 +111,12 @@
     "latitude": "-26.92886000",
     "longitude": "-65.33848000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q597806",
+    "type": "area",
+    "native": "Departamento de Lules",
+    "timezone": "America/Argentina/Tucuman",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 1074,
@@ -93,7 +128,12 @@
     "latitude": "-27.05413000",
     "longitude": "-65.40329000",
     "county_id": 6815,
-    "wikiDataId": null
+    "wikiDataId": "Q1395079",
+    "type": "locality",
+    "native": "Famaillá",
+    "timezone": "America/Argentina/Tucuman",
+    "population": 30951,
+    "population_year": null
   },
   {
     "id": 1125,
@@ -104,8 +144,13 @@
     "country_code": "AR",
     "latitude": "-27.64934000",
     "longitude": "-65.43830000",
-    "county_id": 6816,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1014652",
+    "type": "adm2",
+    "native": "Graneros",
+    "timezone": "America/Argentina/Tucuman",
+    "population": 5263,
+    "population_year": null
   },
   {
     "id": 1182,
@@ -116,8 +161,13 @@
     "country_code": "AR",
     "latitude": "-27.76927000",
     "longitude": "-65.58711000",
-    "county_id": 6818,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q663822",
+    "type": "adm2",
+    "native": "La Cocha",
+    "timezone": "America/Argentina/Tucuman",
+    "population": 7066,
+    "population_year": null
   },
   {
     "id": 1291,
@@ -128,8 +178,13 @@
     "country_code": "AR",
     "latitude": "-27.16741000",
     "longitude": "-65.49832000",
-    "county_id": 6821,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1616963",
+    "type": "adm2",
+    "native": "Monteros",
+    "timezone": "America/Argentina/Tucuman",
+    "population": 23771,
+    "population_year": null
   },
   {
     "id": 1444,
@@ -140,8 +195,13 @@
     "country_code": "AR",
     "latitude": "-26.82414000",
     "longitude": "-65.22260000",
-    "county_id": 6823,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q44255",
+    "type": "locality",
+    "native": "San Miguel de Tucumán",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 605767,
+    "population_year": null
   },
   {
     "id": 1488,
@@ -152,8 +212,13 @@
     "country_code": "AR",
     "latitude": "-27.26272000",
     "longitude": "-65.35647000",
-    "county_id": 6824,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q367345",
+    "type": "adm2",
+    "native": "Simoca",
+    "timezone": "America/Argentina/Tucuman",
+    "population": 7939,
+    "population_year": null
   },
   {
     "id": 1496,
@@ -164,8 +229,13 @@
     "country_code": "AR",
     "latitude": "-26.85275000",
     "longitude": "-65.70983000",
-    "county_id": 6825,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q948534",
+    "type": "adm2",
+    "native": "Tafí del Valle",
+    "timezone": "America/Argentina/Tucuman",
+    "population": 3403,
+    "population_year": null
   },
   {
     "id": 1495,
@@ -176,8 +246,13 @@
     "country_code": "AR",
     "latitude": "-26.73201000",
     "longitude": "-65.25921000",
-    "county_id": 6826,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q2092448",
+    "type": "adm2",
+    "native": "Tafí Viejo",
+    "timezone": "America/Argentina/Tucuman",
+    "population": 48459,
+    "population_year": null
   },
   {
     "id": 1511,
@@ -189,7 +264,12 @@
     "latitude": "-26.23136000",
     "longitude": "-65.28093000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q976838",
+    "type": "adm2",
+    "native": "Trancas",
+    "timezone": "America/Argentina/Tucuman",
+    "population": 6658,
+    "population_year": null
   },
   {
     "id": 1596,
@@ -201,6 +281,11 @@
     "latitude": "-26.81667000",
     "longitude": "-65.31667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1719036",
+    "type": "adm2",
+    "native": "Yerba Buena",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 50783,
+    "population_year": null
   }
 ]

@@ -1,14 +1,19 @@
 [
   {
-    "id": 31697,
-    "name": "Ruhnu vald",
+    "id": 31696,
+    "name": "Ruhnu",
     "state_id": 5778,
     "state_code": "689",
     "country_id": 69,
     "country_code": "EE",
-    "latitude": "57.80309000",
-    "longitude": "23.24250000",
+    "latitude": "57.80028000",
+    "longitude": "23.24833000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Ruhnu",
+    "timezone": "Europe/Tallinn",
+    "population": 64,
+    "population_year": null
   }
 ]

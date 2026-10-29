@@ -9,7 +9,12 @@
     "latitude": "41.11138000",
     "longitude": "20.08224000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q114257",
+    "type": "adm1",
+    "native": null,
+    "timezone": "Europe/Tirane",
+    "population": 100903,
+    "population_year": null
   },
   {
     "id": 157048,
@@ -21,7 +26,12 @@
     "latitude": "40.86614460",
     "longitude": "20.17637010",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13037411",
+    "type": "adm2",
+    "native": "Gramsh",
+    "timezone": "Europe/Tirane",
+    "population": 8440,
+    "population_year": null
   },
   {
     "id": 157046,
@@ -33,7 +43,12 @@
     "latitude": "41.18323980",
     "longitude": "20.30362480",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13037422",
+    "type": "adm2",
+    "native": "Librazhd",
+    "timezone": "Europe/Tirane",
+    "population": 6937,
+    "population_year": null
   },
   {
     "id": 157047,
@@ -45,6 +60,11 @@
     "latitude": "41.04641030",
     "longitude": "19.74050040",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13037426",
+    "type": "adm2",
+    "native": "Peqini",
+    "timezone": "Europe/Tirane",
+    "population": 6353,
+    "population_year": null
   }
 ]

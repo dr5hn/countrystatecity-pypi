@@ -9,7 +9,12 @@
     "latitude": "47.69763000",
     "longitude": "8.57431000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Beringen",
+    "timezone": "Europe/Zurich",
+    "population": 5396,
+    "population_year": 2025
   },
   {
     "id": 17502,
@@ -21,7 +26,12 @@
     "latitude": "47.69893000",
     "longitude": "8.51774000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q853912",
+    "type": "adm2",
+    "native": "Bezirk Oberklettgau",
+    "timezone": "Europe/Zurich",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 17505,
@@ -33,7 +43,12 @@
     "latitude": "47.74752000",
     "longitude": "8.70821000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q853953",
+    "type": "adm2",
+    "native": "Bezirk Reiat",
+    "timezone": "Europe/Zurich",
+    "population": 4120,
+    "population_year": null
   },
   {
     "id": 17507,
@@ -45,7 +60,12 @@
     "latitude": "47.69440000",
     "longitude": "8.63525000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q853975",
+    "type": "adm1",
+    "native": "Bezirk Schaffhausen",
+    "timezone": "Europe/Zurich",
+    "population": 36587,
+    "population_year": null
   },
   {
     "id": 17508,
@@ -57,7 +77,12 @@
     "latitude": "47.75000000",
     "longitude": "8.51111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q853977",
+    "type": "city",
+    "native": "Bezirk Schleitheim",
+    "timezone": "Europe/Zurich",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 17512,
@@ -69,7 +94,12 @@
     "latitude": "47.66429000",
     "longitude": "8.84683000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q854032",
+    "type": "city",
+    "native": "Bezirk Stein",
+    "timezone": "Europe/Zurich",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 17515,
@@ -81,7 +111,12 @@
     "latitude": "47.68000000",
     "longitude": "8.46333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q854069",
+    "type": "city",
+    "native": "Bezirk Unterklettgau",
+    "timezone": "Europe/Zurich",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 17892,
@@ -93,7 +128,12 @@
     "latitude": "47.69648000",
     "longitude": "8.45827000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22590371",
+    "type": "municipality",
+    "native": "Hallau",
+    "timezone": "Europe/Zurich",
+    "population": 2600,
+    "population_year": 2025
   },
   {
     "id": 18110,
@@ -105,7 +145,12 @@
     "latitude": "47.70121000",
     "longitude": "8.55236000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22614554",
+    "type": "municipality",
+    "native": "Löhningen",
+    "timezone": "Europe/Zurich",
+    "population": 1658,
+    "population_year": 2025
   },
   {
     "id": 18217,
@@ -117,10 +162,15 @@
     "latitude": "47.68579000",
     "longitude": "8.61474000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22597053",
+    "type": "locality",
+    "native": "Neuhausen",
+    "timezone": "Europe/Zurich",
+    "population": 10019,
+    "population_year": null
   },
   {
-    "id": 18218,
+    "id": 167751,
     "name": "Neunkirch",
     "state_id": 1654,
     "state_code": "SH",
@@ -129,7 +179,12 @@
     "latitude": "47.69012000",
     "longitude": "8.49981000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q67114",
+    "type": "municipality",
+    "native": "Neunkirch",
+    "timezone": "Europe/Zurich",
+    "population": 2704,
+    "population_year": 2025
   },
   {
     "id": 18336,
@@ -141,7 +196,12 @@
     "latitude": "47.70797000",
     "longitude": "8.80949000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q69182",
+    "type": "city",
+    "native": "Ramsen",
+    "timezone": "Europe/Zurich",
+    "population": 1697,
+    "population_year": 2025
   },
   {
     "id": 18455,
@@ -153,7 +213,12 @@
     "latitude": "47.69732000",
     "longitude": "8.63493000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q9009",
+    "type": "city",
+    "native": "Schaffhausen",
+    "timezone": "Europe/Zurich",
+    "population": 39228,
+    "population_year": 2025
   },
   {
     "id": 18464,
@@ -165,7 +230,12 @@
     "latitude": "47.74818000",
     "longitude": "8.48213000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q69111",
+    "type": "municipality",
+    "native": "Schleitheim",
+    "timezone": "Europe/Zurich",
+    "population": 1928,
+    "population_year": 2025
   },
   {
     "id": 18552,
@@ -177,7 +247,12 @@
     "latitude": "47.65933000",
     "longitude": "8.85964000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22389728",
+    "type": "city",
+    "native": "Stein am Rhein",
+    "timezone": "Europe/Zurich",
+    "population": 3956,
+    "population_year": 2025
   },
   {
     "id": 18556,
@@ -189,7 +264,12 @@
     "latitude": "47.74025000",
     "longitude": "8.66298000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22390227",
+    "type": "municipality",
+    "native": "Stetten",
+    "timezone": "Europe/Zurich",
+    "population": 1485,
+    "population_year": 2025
   },
   {
     "id": 18588,
@@ -201,7 +281,12 @@
     "latitude": "47.74717000",
     "longitude": "8.70724000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q69152",
+    "type": "municipality",
+    "native": "Thayngen",
+    "timezone": "Europe/Zurich",
+    "population": 5925,
+    "population_year": 2025
   },
   {
     "id": 18751,
@@ -213,6 +298,11 @@
     "latitude": "47.66745000",
     "longitude": "8.46774000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Wilchingen",
+    "timezone": "Europe/Zurich",
+    "population": 1747,
+    "population_year": 2025
   }
 ]

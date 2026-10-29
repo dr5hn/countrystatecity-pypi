@@ -9,7 +9,12 @@
     "latitude": "-3.33984000",
     "longitude": "128.91975000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Amahai",
+    "timezone": "Asia/Jayapura",
+    "population": 47653,
+    "population_year": null
   },
   {
     "id": 56178,
@@ -21,22 +26,15 @@
     "latitude": "-3.69583000",
     "longitude": "128.18333000",
     "county_id": 8821,
-    "wikiDataId": null
+    "wikiDataId": "Q18970",
+    "type": "city",
+    "native": "Ambon",
+    "timezone": "Asia/Jayapura",
+    "population": 372249,
+    "population_year": null
   },
   {
-    "id": 56385,
-    "name": "Buru Selatan",
-    "state_id": 1800,
-    "state_code": "MA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.52187000",
-    "longitude": "126.59271000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56622,
+    "id": 166811,
     "name": "Dataran Hunimoa",
     "state_id": 1800,
     "state_code": "MA",
@@ -45,10 +43,15 @@
     "latitude": "-3.10364224",
     "longitude": "130.48861765",
     "county_id": 8816,
-    "wikiDataId": null
+    "wikiDataId": "Q109436958",
+    "type": "town",
+    "native": "Dataran Hunimoa",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56451,
+    "id": 166705,
     "name": "Dobo",
     "state_id": 1800,
     "state_code": "MA",
@@ -57,10 +60,15 @@
     "latitude": "-5.75866900",
     "longitude": "134.23642700",
     "county_id": 8818,
-    "wikiDataId": null
+    "wikiDataId": "Q12481770",
+    "type": "town",
+    "native": "Dobo",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56515,
+    "id": 166745,
     "name": "Langgur",
     "state_id": 1800,
     "state_code": "MA",
@@ -69,34 +77,32 @@
     "latitude": "-5.68280091",
     "longitude": "132.71698984",
     "county_id": 10671,
-    "wikiDataId": null
+    "wikiDataId": "Q27959826",
+    "type": "town",
+    "native": "Langgur",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56514,
-    "name": "Maluku Tengah",
+    "id": 166744,
+    "name": "Masohi",
     "state_id": 1800,
     "state_code": "MA",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-3.29167000",
-    "longitude": "128.96750000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "-3.29833000",
+    "longitude": "128.96882000",
+    "county_id": 8813,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Masohi",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56516,
-    "name": "Maluku Tenggara Barat",
-    "state_id": 1800,
-    "state_code": "MA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.61186000",
-    "longitude": "131.38000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56384,
+    "id": 166663,
     "name": "Namlea",
     "state_id": 1800,
     "state_code": "MA",
@@ -105,7 +111,46 @@
     "latitude": "-3.25965218",
     "longitude": "127.10292215",
     "county_id": 8815,
-    "wikiDataId": null
+    "wikiDataId": "Q138784440",
+    "type": "town",
+    "native": "Namlea",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166664,
+    "name": "Namrole",
+    "state_id": 1800,
+    "state_code": "MA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.84548000",
+    "longitude": "126.72619000",
+    "county_id": 8820,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Namrole",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166746,
+    "name": "Saumlaki",
+    "state_id": 1800,
+    "state_code": "MA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-7.98618000",
+    "longitude": "131.29675000",
+    "county_id": 8814,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Saumlaki",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56621,
@@ -117,10 +162,15 @@
     "latitude": "-3.10270000",
     "longitude": "128.42996000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18942",
+    "type": "regency",
+    "native": "Kabupaten Seram Bagian Barat",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56513,
+    "id": 166743,
     "name": "Tiakur",
     "state_id": 1800,
     "state_code": "MA",
@@ -129,7 +179,12 @@
     "latitude": "-8.13842600",
     "longitude": "127.78575897",
     "county_id": 8819,
-    "wikiDataId": null
+    "wikiDataId": "Q15060387",
+    "type": "town",
+    "native": "Tiakur",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 57041,
@@ -141,6 +196,11 @@
     "latitude": "-5.62878000",
     "longitude": "132.75229000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18975",
+    "type": "city",
+    "native": "Tual",
+    "timezone": "Asia/Jayapura",
+    "population": 90007,
+    "population_year": null
   }
 ]

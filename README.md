@@ -55,7 +55,7 @@ and anything that must be reproducible.
 | **[countrystatecity-translations](./python/packages/translations/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/) | 4,724 country-name translations in 19 languages |
 | **[countrystatecity-phonecodes](./python/packages/phonecodes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250 countries |
 | **[countrystatecity-regions](./python/packages/regions/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-regions)](https://pypi.org/project/countrystatecity-regions/) | Region and subregion associations for 250 countries |
-| **[countrystatecity-postal-codes](./python/packages/postal_codes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-postal-codes)](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 125 countries |
+| **[countrystatecity-postal-codes](./python/packages/postal_codes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-postal-codes)](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 116 countries |
 
 > **Note:** Install `countrystatecity-api`, then import `countrystatecity`. The
 > offline data packages carry their own suffixes (`-countries`, `-timezones`,
@@ -340,7 +340,7 @@ postcodes = get_postcodes_of_country("AD")
 - ✅ **4,724 translations** in 19 languages
 - ✅ **Phone/dialing codes** for 250 countries
 - ✅ **Regions and subregions** for 250 countries
-- ✅ **844,248 postal/ZIP-code records** across 125 countries, with validation regexes for 189
+- ✅ **725,993 postal/ZIP-code records** across 116 countries, with validation regexes for 184
 - ✅ **Zero external dependencies** (except Pydantic)
 - ✅ **Python 3.8–3.15** CI coverage
 - ✅ **Full test coverage** with pytest

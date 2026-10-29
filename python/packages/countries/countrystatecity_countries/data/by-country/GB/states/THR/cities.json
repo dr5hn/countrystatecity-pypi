@@ -9,19 +9,12 @@
     "latitude": "51.49987000",
     "longitude": "0.25174000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 48608,
-    "name": "Borough of Thurrock",
-    "state_id": 2468,
-    "state_code": "THR",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "51.50000000",
-    "longitude": "0.41667000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2449718",
+    "type": "town",
+    "native": "Aveley",
+    "timezone": "Europe/London",
+    "population": 9801,
+    "population_year": null
   },
   {
     "id": 48759,
@@ -33,7 +26,12 @@
     "latitude": "51.54612000",
     "longitude": "0.36066000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2979077",
+    "type": "village",
+    "native": "Bulphan",
+    "timezone": "Europe/London",
+    "population": 1032,
+    "population_year": null
   },
   {
     "id": 48906,
@@ -45,7 +43,12 @@
     "latitude": "51.48140000",
     "longitude": "0.36343000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2270700",
+    "type": "town",
+    "native": "Chadwell St Mary",
+    "timezone": "Europe/London",
+    "population": 9631,
+    "population_year": null
   },
   {
     "id": 48907,
@@ -57,7 +60,12 @@
     "latitude": "51.48920000",
     "longitude": "0.29440000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Chafford Hundred",
+    "timezone": "Europe/London",
+    "population": 13466,
+    "population_year": null
   },
   {
     "id": 49412,
@@ -69,7 +77,12 @@
     "latitude": "51.48053000",
     "longitude": "0.41714000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2135238",
+    "type": "town",
+    "native": "East Tilbury",
+    "timezone": "Europe/London",
+    "population": 5471,
+    "population_year": null
   },
   {
     "id": 49704,
@@ -81,7 +94,12 @@
     "latitude": "51.47566000",
     "longitude": "0.32521000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q991532",
+    "type": "town",
+    "native": "Grays",
+    "timezone": "Europe/London",
+    "population": 89755,
+    "population_year": null
   },
   {
     "id": 49992,
@@ -93,7 +111,12 @@
     "latitude": "51.52358000",
     "longitude": "0.40491000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2205748",
+    "type": "village",
+    "native": "Horndon on the Hill",
+    "timezone": "Europe/London",
+    "population": 1596,
+    "population_year": null
   },
   {
     "id": 50819,
@@ -105,7 +128,12 @@
     "latitude": "51.51232000",
     "longitude": "0.36753000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1987584",
+    "type": "village",
+    "native": "Orsett",
+    "timezone": "Europe/London",
+    "population": 1267,
+    "population_year": null
   },
   {
     "id": 51004,
@@ -117,7 +145,12 @@
     "latitude": "51.48390000",
     "longitude": "0.24247000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1972020",
+    "type": "city",
+    "native": "Purfleet",
+    "timezone": "Europe/London",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 51363,
@@ -129,7 +162,12 @@
     "latitude": "51.50799000",
     "longitude": "0.28333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q747456",
+    "type": "town",
+    "native": "South Ockendon",
+    "timezone": "Europe/London",
+    "population": 22442,
+    "population_year": null
   },
   {
     "id": 51423,
@@ -141,7 +179,12 @@
     "latitude": "51.52274000",
     "longitude": "0.43422000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2574529",
+    "type": "town",
+    "native": "Stanford-le-Hope",
+    "timezone": "Europe/London",
+    "population": 28725,
+    "population_year": null
   },
   {
     "id": 51623,
@@ -153,7 +196,12 @@
     "latitude": "51.46248000",
     "longitude": "0.35856000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q648432",
+    "type": "town",
+    "native": "Tilbury",
+    "timezone": "Europe/London",
+    "population": 11717,
+    "population_year": null
   },
   {
     "id": 51832,
@@ -165,6 +213,11 @@
     "latitude": "51.47828000",
     "longitude": "0.27672000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q971550",
+    "type": "city",
+    "native": "West Thurrock",
+    "timezone": "Europe/London",
+    "population": 7795,
+    "population_year": null
   }
 ]

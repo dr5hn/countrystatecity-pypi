@@ -9,19 +9,12 @@
     "latitude": "0.83194000",
     "longitude": "109.43589000",
     "county_id": 8684,
-    "wikiDataId": null
-  },
-  {
-    "id": 150091,
-    "name": "Kapuas Hulu",
-    "state_id": 1806,
-    "state_code": "KB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "0.83333000",
-    "longitude": "112.80000000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q138791024",
+    "type": "town",
+    "native": "Bengkayang",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150092,
@@ -33,7 +26,12 @@
     "latitude": "-1.06023000",
     "longitude": "110.10402000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14158",
+    "type": "adm3",
+    "native": "kau begitu",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150093,
@@ -45,7 +43,12 @@
     "latitude": "-1.85000000",
     "longitude": "109.98333333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2625521",
+    "type": "adm2",
+    "native": "Ketapang",
+    "timezone": "Asia/Pontianak",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 150096,
@@ -57,10 +60,15 @@
     "latitude": "-2.46666667",
     "longitude": "111.03333333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24879628",
+    "type": "city",
+    "native": "Manisme",
+    "timezone": "Asia/Pontianak",
+    "population": 18888,
+    "population_year": null
   },
   {
-    "id": 150098,
+    "id": 167607,
     "name": "Mempawah",
     "state_id": 1806,
     "state_code": "KB",
@@ -69,10 +77,15 @@
     "latitude": "0.36666667",
     "longitude": "108.96666667",
     "county_id": 8679,
-    "wikiDataId": null
+    "wikiDataId": "Q3305537",
+    "type": "town",
+    "native": "Mempawah",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 150097,
+    "id": 168150,
     "name": "Nanga Pinoh",
     "state_id": 1806,
     "state_code": "KB",
@@ -81,7 +94,12 @@
     "latitude": "-0.33333000",
     "longitude": "111.73333000",
     "county_id": 8687,
-    "wikiDataId": null
+    "wikiDataId": "Q138791062",
+    "type": "town",
+    "native": "Nanga Pinoh",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150095,
@@ -93,7 +111,12 @@
     "latitude": "0.38333000",
     "longitude": "109.95000000",
     "county_id": 8685,
-    "wikiDataId": null
+    "wikiDataId": "Q138791031",
+    "type": "town",
+    "native": "Ngabang",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150099,
@@ -105,7 +128,12 @@
     "latitude": "1.17680000",
     "longitude": "108.96240000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7161847",
+    "type": "city",
+    "native": "Pemangkat",
+    "timezone": "Asia/Pontianak",
+    "population": 34029,
+    "population_year": null
   },
   {
     "id": 150100,
@@ -117,7 +145,29 @@
     "latitude": "-0.02055556",
     "longitude": "109.34138889",
     "county_id": 8690,
-    "wikiDataId": null
+    "wikiDataId": "Q14168",
+    "type": "city",
+    "native": "Pontianak",
+    "timezone": "Asia/Pontianak",
+    "population": 680880,
+    "population_year": null
+  },
+  {
+    "id": 168149,
+    "name": "Putussibau",
+    "state_id": 1806,
+    "state_code": "KB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.83333000",
+    "longitude": "112.93333000",
+    "county_id": 8683,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Putussibau",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150101,
@@ -129,7 +179,12 @@
     "latitude": "1.36367806",
     "longitude": "109.29991000",
     "county_id": 8678,
-    "wikiDataId": null
+    "wikiDataId": "Q4198288",
+    "type": "town",
+    "native": "Sambas",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150102,
@@ -141,7 +196,12 @@
     "latitude": "0.12337985",
     "longitude": "110.59603095",
     "county_id": 8680,
-    "wikiDataId": null
+    "wikiDataId": "Q13149226",
+    "type": "town",
+    "native": "Sanggau",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150103,
@@ -153,7 +213,12 @@
     "latitude": "0.01667000",
     "longitude": "110.90000000",
     "county_id": 8686,
-    "wikiDataId": null
+    "wikiDataId": "Q138791063",
+    "type": "town",
+    "native": "Sekadau",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150104,
@@ -165,7 +230,12 @@
     "latitude": "0.90000000",
     "longitude": "108.98333333",
     "county_id": 8691,
-    "wikiDataId": null
+    "wikiDataId": "Q14169",
+    "type": "city",
+    "native": "Singkawang",
+    "timezone": "Asia/Pontianak",
+    "population": 230376,
+    "population_year": null
   },
   {
     "id": 150105,
@@ -174,10 +244,15 @@
     "state_code": "KB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "0.06805556",
-    "longitude": "111.49805556",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "0.06667000",
+    "longitude": "111.50000000",
+    "county_id": 8682,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Sintang",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150094,
@@ -189,6 +264,11 @@
     "latitude": "-0.12694000",
     "longitude": "109.40389000",
     "county_id": 8689,
-    "wikiDataId": null
+    "wikiDataId": "Q138791086",
+    "type": "town",
+    "native": "Sungai Raya",
+    "timezone": "Asia/Pontianak",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "12.66747000",
     "longitude": "108.03775000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33469",
+    "type": "adm1",
+    "native": "Buôn Ma Thuột",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 434256,
+    "population_year": null
   },
   {
     "id": 165852,
@@ -21,7 +26,29 @@
     "latitude": "13.20450000",
     "longitude": "108.21029000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10757766",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 20600,
+    "population_year": null
+  },
+  {
+    "id": 167965,
+    "name": "Ea Súp",
+    "state_id": 3829,
+    "state_code": "33",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "13.06616000",
+    "longitude": "107.88546000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Ea Súp",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130217,
@@ -33,55 +60,29 @@
     "latitude": "12.90396000",
     "longitude": "107.73870000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Buôn Đôn",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 130283,
-    "name": "Huyện Ea H'Leo",
+    "id": 168053,
+    "name": "Sơn Hòa",
     "state_id": 3829,
     "state_code": "33",
     "country_id": 240,
     "country_code": "VN",
-    "latitude": "13.31814000",
-    "longitude": "108.07148000",
+    "latitude": "13.04998000",
+    "longitude": "108.97895000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130284,
-    "name": "Huyện Ea Súp",
-    "state_id": 3829,
-    "state_code": "33",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "13.18279000",
-    "longitude": "107.79954000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130425,
-    "name": "Huyện Sơn Hòa",
-    "state_id": 3829,
-    "state_code": "33",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "13.15868000",
-    "longitude": "108.97281000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130421,
-    "name": "Huyện Sông Hinh",
-    "state_id": 3829,
-    "state_code": "33",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "12.91667000",
-    "longitude": "108.91667000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Sơn Hòa",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130593,
@@ -93,7 +94,29 @@
     "latitude": "13.45560000",
     "longitude": "109.22348000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Sông Cầu",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 94066,
+    "population_year": null
+  },
+  {
+    "id": 168050,
+    "name": "Sông Hinh",
+    "state_id": 3829,
+    "state_code": "33",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "12.97908000",
+    "longitude": "108.89732000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Sông Hinh",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130618,
@@ -105,6 +128,11 @@
     "latitude": "13.09546000",
     "longitude": "109.32094000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q35747",
+    "type": "adm1",
+    "native": "Tuy Hòa",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 155921,
+    "population_year": null
   }
 ]

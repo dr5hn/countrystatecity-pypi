@@ -1,6 +1,6 @@
 [
   {
-    "id": 105346,
+    "id": 166996,
     "name": "Hat Samran",
     "state_id": 3541,
     "state_code": "92",
@@ -9,7 +9,12 @@
     "latitude": "7.24034000",
     "longitude": "99.57621000",
     "county_id": 6260,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "หาดสำราญ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106502,
@@ -21,7 +26,12 @@
     "latitude": "7.78937000",
     "longitude": "99.63469000",
     "county_id": 6256,
-    "wikiDataId": null
+    "wikiDataId": "Q15980663",
+    "type": "town",
+    "native": "ห้วยยอด",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106512,
@@ -33,7 +43,12 @@
     "latitude": "7.40542000",
     "longitude": "99.51561000",
     "county_id": 6252,
-    "wikiDataId": null
+    "wikiDataId": "Q13025348",
+    "type": "city",
+    "native": "กันตัง",
+    "timezone": "Asia/Bangkok",
+    "population": 12533,
+    "population_year": null
   },
   {
     "id": 105629,
@@ -45,7 +60,12 @@
     "latitude": "7.56257000",
     "longitude": "99.74791000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476163",
+    "type": "district",
+    "native": "อำเภอนาโยง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105709,
@@ -57,7 +77,12 @@
     "latitude": "7.23340000",
     "longitude": "99.79491000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476344",
+    "type": "district",
+    "native": "อำเภอปะเหลียน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105807,
@@ -69,10 +94,15 @@
     "latitude": "7.93779000",
     "longitude": "99.66771000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476554",
+    "type": "district",
+    "native": "อำเภอรัษฎา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106233,
+    "id": 167217,
     "name": "Sikao",
     "state_id": 3541,
     "state_code": "92",
@@ -81,7 +111,12 @@
     "latitude": "7.57158000",
     "longitude": "99.34494000",
     "county_id": 6255,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "สิเกา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106735,
@@ -93,10 +128,15 @@
     "latitude": "7.55633000",
     "longitude": "99.61141000",
     "county_id": 6251,
-    "wikiDataId": null
+    "wikiDataId": "Q1014322",
+    "type": "city",
+    "native": "ตรัง",
+    "timezone": "Asia/Bangkok",
+    "population": 60591,
+    "population_year": null
   },
   {
-    "id": 106349,
+    "id": 167275,
     "name": "Wang Wiset",
     "state_id": 3541,
     "state_code": "92",
@@ -105,10 +145,15 @@
     "latitude": "7.73631000",
     "longitude": "99.39870000",
     "county_id": 6257,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "วังวิเศษ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106373,
+    "id": 167286,
     "name": "Yan Ta Khao",
     "state_id": 3541,
     "state_code": "92",
@@ -117,6 +162,11 @@
     "latitude": "7.38622000",
     "longitude": "99.66692000",
     "county_id": 6253,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ย่านตาขาว",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

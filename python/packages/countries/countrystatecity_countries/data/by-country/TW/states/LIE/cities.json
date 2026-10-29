@@ -9,7 +9,12 @@
     "latitude": "26.22361111",
     "longitude": "119.98916667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q708075",
+    "type": "municipality",
+    "native": "北竿鄉",
+    "timezone": "Asia/Taipei",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164267,
@@ -21,7 +26,12 @@
     "latitude": "26.37666667",
     "longitude": "120.50666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q262171",
+    "type": "municipality",
+    "native": "東引鄉",
+    "timezone": "Asia/Taipei",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164268,
@@ -33,7 +43,12 @@
     "latitude": "25.96400000",
     "longitude": "119.95900000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q714903",
+    "type": "municipality",
+    "native": "莒光鄉",
+    "timezone": "Asia/Taipei",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 109022,
@@ -45,6 +60,11 @@
     "latitude": "26.15039000",
     "longitude": "119.93284000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q702125",
+    "type": "adm2",
+    "native": "南竿",
+    "timezone": "Asia/Taipei",
+    "population": 7815,
+    "population_year": null
   }
 ]

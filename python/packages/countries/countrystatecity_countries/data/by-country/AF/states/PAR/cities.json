@@ -9,7 +9,12 @@
     "latitude": "34.96694000",
     "longitude": "69.26500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q814388",
+    "type": "city",
+    "native": "بگرام",
+    "timezone": "Asia/Kabul",
+    "population": 113173,
+    "population_year": null
   },
   {
     "id": 61,
@@ -21,7 +26,12 @@
     "latitude": "35.01361000",
     "longitude": "69.17139000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q944395",
+    "type": "adm1",
+    "native": "چاریکار",
+    "timezone": "Asia/Kabul",
+    "population": 53676,
+    "population_year": null
   },
   {
     "id": 76,
@@ -33,6 +43,11 @@
     "latitude": "35.11833000",
     "longitude": "69.23778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21754950",
+    "type": "adm2",
+    "native": "جبل السراج",
+    "timezone": "Asia/Kabul",
+    "population": 15032,
+    "population_year": null
   }
 ]

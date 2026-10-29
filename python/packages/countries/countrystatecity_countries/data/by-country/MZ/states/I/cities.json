@@ -9,7 +9,12 @@
     "latitude": "-23.86500000",
     "longitude": "35.38333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q456577",
+    "type": "adm1",
+    "native": "Inhambane",
+    "timezone": "Africa/Maputo",
+    "population": 82119,
+    "population_year": null
   },
   {
     "id": 76612,
@@ -21,7 +26,12 @@
     "latitude": "-23.85972000",
     "longitude": "35.34722000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q525118",
+    "type": "city",
+    "native": "Maxixe",
+    "timezone": "Africa/Maputo",
+    "population": 155521,
+    "population_year": null
   },
   {
     "id": 165291,
@@ -33,6 +43,11 @@
     "latitude": "-22.00000000",
     "longitude": "35.31667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2006546",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "population": 43183,
+    "population_year": null
   }
 ]

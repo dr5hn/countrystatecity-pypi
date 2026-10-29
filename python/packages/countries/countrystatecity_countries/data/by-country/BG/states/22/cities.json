@@ -9,7 +9,12 @@
     "latitude": "42.76667000",
     "longitude": "23.56667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2597688",
+    "type": "city",
+    "native": "Бухово",
+    "timezone": "Europe/Sofia",
+    "population": 3283,
+    "population_year": null
   },
   {
     "id": 9701,
@@ -21,7 +26,12 @@
     "latitude": "42.69751000",
     "longitude": "23.32415000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q472",
+    "type": "city",
+    "native": "София",
+    "timezone": "Europe/Sofia",
+    "population": 1205548,
+    "population_year": null
   },
   {
     "id": 9707,
@@ -33,6 +43,11 @@
     "latitude": "42.68647000",
     "longitude": "23.30561000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4442915",
+    "type": "municipality",
+    "native": "Столична община",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   }
 ]

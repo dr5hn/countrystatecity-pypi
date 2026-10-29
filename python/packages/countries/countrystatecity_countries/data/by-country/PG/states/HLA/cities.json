@@ -9,7 +9,12 @@
     "latitude": "-6.11667000",
     "longitude": "143.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Komo Margarima",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81072,
@@ -21,7 +26,12 @@
     "latitude": "-5.41667000",
     "longitude": "142.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711085",
+    "type": "area",
+    "native": "Koroba-Lak Kopiago",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81114,
@@ -33,7 +43,12 @@
     "latitude": "-5.84500000",
     "longitude": "142.94667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Tari",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 8186,
+    "population_year": null
   },
   {
     "id": 81115,
@@ -45,6 +60,11 @@
     "latitude": "-6.28333000",
     "longitude": "142.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tari Pori",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   }
 ]

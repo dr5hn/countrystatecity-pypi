@@ -9,7 +9,12 @@
     "latitude": "15.81650000",
     "longitude": "101.00399000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475300",
+    "type": "district",
+    "native": "อำเภอบึงสามพัน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106482,
@@ -18,10 +23,15 @@
     "state_code": "67",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.18944444",
-    "longitude": "100.85972222",
-    "county_id": 6082,
-    "wikiDataId": null
+    "latitude": "16.18953000",
+    "longitude": "100.85958000",
+    "county_id": null,
+    "wikiDataId": "Q28732638",
+    "type": "adm2",
+    "native": "ชนแดน",
+    "timezone": "Asia/Bangkok",
+    "population": 17567,
+    "population_year": null
   },
   {
     "id": 105395,
@@ -33,10 +43,15 @@
     "latitude": "16.66313000",
     "longitude": "100.99450000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475662",
+    "type": "district",
+    "native": "อำเภอเขาค้อ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105492,
+    "id": 167061,
     "name": "Lom Kao",
     "state_id": 3515,
     "state_code": "67",
@@ -45,7 +60,12 @@
     "latitude": "16.88472222",
     "longitude": "101.23361111",
     "county_id": 6084,
-    "wikiDataId": null
+    "wikiDataId": "Q25266028",
+    "type": "town",
+    "native": "หล่มเก่า",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106558,
@@ -57,7 +77,12 @@
     "latitude": "16.77983000",
     "longitude": "101.24225000",
     "county_id": 6083,
-    "wikiDataId": null
+    "wikiDataId": "Q15980695",
+    "type": "city",
+    "native": "หล่มสัก",
+    "timezone": "Asia/Bangkok",
+    "population": 17309,
+    "population_year": null
   },
   {
     "id": 105636,
@@ -69,7 +94,12 @@
     "latitude": "16.84489000",
     "longitude": "101.60080000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476187",
+    "type": "district",
+    "native": "อำเภอน้ำหนาว",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106603,
@@ -78,10 +108,15 @@
     "state_code": "67",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.99720000",
-    "longitude": "101.06520000",
-    "county_id": 6087,
-    "wikiDataId": null
+    "latitude": "15.99025000",
+    "longitude": "101.06183000",
+    "county_id": null,
+    "wikiDataId": "Q20680206",
+    "type": "adm2",
+    "native": "หนองไผ่",
+    "timezone": "Asia/Bangkok",
+    "population": 27756,
+    "population_year": null
   },
   {
     "id": 106631,
@@ -93,7 +128,12 @@
     "latitude": "16.41904000",
     "longitude": "101.16056000",
     "county_id": 6081,
-    "wikiDataId": null
+    "wikiDataId": "Q1211346",
+    "type": "city",
+    "native": "เพชรบูรณ์",
+    "timezone": "Asia/Bangkok",
+    "population": 50656,
+    "population_year": null
   },
   {
     "id": 106229,
@@ -105,10 +145,15 @@
     "latitude": "15.44253000",
     "longitude": "101.14767000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476725",
+    "type": "district",
+    "native": "อำเภอศรีเทพ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106343,
+    "id": 167271,
     "name": "Wang Pong",
     "state_id": 3515,
     "state_code": "67",
@@ -117,7 +162,12 @@
     "latitude": "16.33920000",
     "longitude": "100.79410000",
     "county_id": 6090,
-    "wikiDataId": null
+    "wikiDataId": "Q111095441",
+    "type": "town",
+    "native": "วังโป่ง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106752,
@@ -129,6 +179,11 @@
     "latitude": "15.65778000",
     "longitude": "101.10603000",
     "county_id": 6085,
-    "wikiDataId": null
+    "wikiDataId": "Q13025390",
+    "type": "city",
+    "native": "วิเชียรบุรี",
+    "timezone": "Asia/Bangkok",
+    "population": 39272,
+    "population_year": null
   }
 ]

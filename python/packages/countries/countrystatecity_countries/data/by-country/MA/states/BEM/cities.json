@@ -9,7 +9,12 @@
     "latitude": "32.33725000",
     "longitude": "-6.34983000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q817279",
+    "type": "adm1",
+    "native": "بني ملال",
+    "timezone": "Africa/Casablanca",
+    "population": 209594,
+    "population_year": null
   },
   {
     "id": 67111,
@@ -21,7 +26,12 @@
     "latitude": "32.57286000",
     "longitude": "-6.01947000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3050022",
+    "type": "adm3",
+    "native": "القصيبة",
+    "timezone": "Africa/Casablanca",
+    "population": 19964,
+    "population_year": null
   },
   {
     "id": 67143,
@@ -33,7 +43,12 @@
     "latitude": "32.59770000",
     "longitude": "-6.26844000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1734833",
+    "type": "adm3",
+    "native": "قصبة تادلة",
+    "timezone": "Africa/Casablanca",
+    "population": 48172,
+    "population_year": null
   },
   {
     "id": 67210,
@@ -45,7 +60,12 @@
     "latitude": "32.38952000",
     "longitude": "-6.42095000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3483238",
+    "type": "adm3",
+    "native": "سيدي جابر",
+    "timezone": "Africa/Casablanca",
+    "population": 5100,
+    "population_year": null
   },
   {
     "id": 67266,
@@ -57,6 +77,11 @@
     "latitude": "32.64445000",
     "longitude": "-5.91826000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Zawyat ech Cheïkh",
+    "timezone": "Africa/Casablanca",
+    "population": 27723,
+    "population_year": null
   }
 ]

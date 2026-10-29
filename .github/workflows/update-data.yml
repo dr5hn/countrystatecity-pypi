@@ -7,6 +7,15 @@ on:
   
   # Allow manual trigger
   workflow_dispatch:
+    inputs:
+      source_release:
+        description: 'Published upstream export tag, or latest'
+        type: string
+        default: latest
+      release_november_refresh:
+        description: 'Release the checked v5.1.0 refresh on 1 November 2026 only'
+        type: boolean
+        default: false
 
 jobs:
   update-data:
@@ -15,6 +24,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+      actions: write
     
     steps:
       - name: Checkout code
@@ -33,12 +43,11 @@ jobs:
           pip install -e ".[dev]"
       
       - name: Download latest data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CSC_SOURCE_RELEASE: ${{ inputs.source_release || 'latest' }}
         run: |
-          curl -L "https://github.com/dr5hn/countries-states-cities-database/releases/latest/download/json-countries%2Bstates%2Bcities.json.gz" \
-            -o /tmp/countries-data.json.gz
-          gunzip /tmp/countries-data.json.gz
-          echo "Downloaded data size:"
-          ls -lh /tmp/countries-data.json
+          python python/scripts/fetch-release.py
       
       - name: Backup current data statistics
         run: |
@@ -54,7 +63,7 @@ jobs:
       - name: Generate new data structure
         run: |
           cd python/packages/countries
-          python scripts/generate-data.py /tmp/countries-data.json
+          python scripts/generate-data.py ../../data/source.json
 
       - name: Regenerate derived package data
         run: |
@@ -64,6 +73,8 @@ jobs:
           python python/packages/translations/scripts/generate-data.py
           python python/packages/phonecodes/scripts/generate-data.py
           python python/packages/regions/scripts/generate-data.py
+          python python/packages/postal_codes/scripts/generate-data.py --countries-source python/data/countries.json --postcodes-dir python/data/postcodes
+          python python/scripts/check-release.py
 
       - name: Collect new data statistics
         id: data-stats
@@ -84,7 +95,7 @@ jobs:
 
       - name: Run tests with new data
         run: |
-          for pkg in countries timezones currencies translations phonecodes regions; do
+          for pkg in countries timezones currencies translations phonecodes regions postal_codes; do
             echo "=== Testing $pkg ==="
             pip install -e "python/packages/$pkg/.[dev]" -q
             pytest python/packages/$pkg/tests/ --cov=countrystatecity_$pkg --cov-report=term
@@ -92,7 +103,7 @@ jobs:
 
       - name: Type check
         run: |
-          for pkg in countries timezones currencies translations phonecodes regions; do
+          for pkg in countries timezones currencies translations phonecodes regions postal_codes; do
             echo "=== Type checking $pkg ==="
             mypy python/packages/$pkg/countrystatecity_$pkg/ --strict
           done
@@ -105,13 +116,7 @@ jobs:
       - name: Check for data changes
         id: check-changes
         run: |
-          if git diff --name-only -- \
-            python/packages/countries/countrystatecity_countries/data \
-            python/packages/timezones/countrystatecity_timezones/data \
-            python/packages/currencies/countrystatecity_currencies/data \
-            python/packages/translations/countrystatecity_translations/data \
-            python/packages/phonecodes/countrystatecity_phonecodes/data \
-            python/packages/regions/countrystatecity_regions/data \
+          if git status --porcelain -- python/packages/ \
             | grep -q .; then
             echo "changed=true" >> $GITHUB_OUTPUT
             echo "Data changes detected"
@@ -121,6 +126,7 @@ jobs:
           fi
 
       - name: Create Pull Request
+        id: data-pr
         if: steps.check-changes.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v8
         with:
@@ -159,6 +165,20 @@ jobs:
           labels: |
             automated
             data-update
+
+      - name: Release the requested 1 November refresh
+        if: (github.event_name == 'schedule' || inputs.release_november_refresh) && steps.data-pr.outputs.pull-request-number != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ steps.data-pr.outputs.pull-request-number }}
+          EXPECTED_HEAD_SHA: ${{ steps.data-pr.outputs.pull-request-head-sha }}
+        run: |
+          [ "$(date -u +%F)" = '2026-11-01' ] || exit 0
+          RELEASE=$(python -c "import json; print(json.load(open('python/data/release.json'))['sourceRelease'])")
+          [[ "$RELEASE" =~ ^v5\.1\.0-export\.[0-9]+$ ]] || { echo 'The 1 November v5.1.0 export is not published yet; leaving the PR for review.'; exit 1; }
+          [ -n "$EXPECTED_HEAD_SHA" ] || exit 1
+          gh pr merge "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --merge --delete-branch --match-head-commit "$EXPECTED_HEAD_SHA"
+          gh workflow run release.yml --repo "$GITHUB_REPOSITORY" --ref main -f data_update_pr="$PR_NUMBER"
       
       - name: No changes detected
         if: steps.check-changes.outputs.changed == 'false'

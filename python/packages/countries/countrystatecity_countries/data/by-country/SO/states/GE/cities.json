@@ -9,7 +9,12 @@
     "latitude": "2.34464000",
     "longitude": "42.27644000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Baardheere",
+    "timezone": "Africa/Mogadishu",
+    "population": 42240,
+    "population_year": null
   },
   {
     "id": 165560,
@@ -21,7 +26,12 @@
     "latitude": "3.92840000",
     "longitude": "41.87997000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1994405",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "population": 73000,
+    "population_year": null
   },
   {
     "id": 104797,
@@ -33,7 +43,12 @@
     "latitude": "3.32892000",
     "longitude": "42.22091000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1017167",
+    "type": "adm1",
+    "native": "Garbahaarrey",
+    "timezone": "Africa/Mogadishu",
+    "population": 12652,
+    "population_year": null
   },
   {
     "id": 104807,
@@ -45,6 +60,11 @@
     "latitude": "3.80315000",
     "longitude": "42.54417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1878274",
+    "type": "city",
+    "native": "Luuq",
+    "timezone": "Africa/Mogadishu",
+    "population": 33820,
+    "population_year": null
   }
 ]

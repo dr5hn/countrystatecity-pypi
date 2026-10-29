@@ -9,7 +9,12 @@
     "latitude": "51.48755000",
     "longitude": "-0.16936000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Chelsea",
+    "timezone": "Europe/London",
+    "population": 60000,
+    "population_year": null
   },
   {
     "id": 49738,
@@ -21,6 +26,11 @@
     "latitude": "51.50000000",
     "longitude": "-0.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23306",
+    "type": "section",
+    "native": "Greater London",
+    "timezone": "Europe/London",
+    "population": 12157,
+    "population_year": null
   }
 ]

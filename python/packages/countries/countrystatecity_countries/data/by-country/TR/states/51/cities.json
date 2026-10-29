@@ -9,7 +9,12 @@
     "latitude": "37.99159000",
     "longitude": "34.37334000",
     "county_id": 7579,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Altunhisar",
+    "timezone": "Europe/Istanbul",
+    "population": 3225,
+    "population_year": 2025
   },
   {
     "id": 107369,
@@ -21,7 +26,12 @@
     "latitude": "37.89056000",
     "longitude": "34.55889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q289143",
+    "type": "adm2",
+    "native": "Bor",
+    "timezone": "Europe/Istanbul",
+    "population": 32435,
+    "population_year": null
   },
   {
     "id": 108764,
@@ -33,7 +43,12 @@
     "latitude": "37.84157000",
     "longitude": "34.99005000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q272375",
+    "type": "adm2",
+    "native": "Çamardı",
+    "timezone": "Europe/Istanbul",
+    "population": 48,
+    "population_year": null
   },
   {
     "id": 108829,
@@ -45,7 +60,12 @@
     "latitude": "38.17580000",
     "longitude": "34.48535000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q272835",
+    "type": "adm2",
+    "native": "Çiftlik",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 108252,
@@ -56,8 +76,13 @@
     "country_code": "TR",
     "latitude": "37.96583000",
     "longitude": "34.67935000",
-    "county_id": 7254,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q194146",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 175647,
+    "population_year": 2025
   },
   {
     "id": 108628,
@@ -69,6 +94,11 @@
     "latitude": "37.54592000",
     "longitude": "34.58737000",
     "county_id": 7405,
-    "wikiDataId": null
+    "wikiDataId": "Q3150097",
+    "type": "municipality",
+    "native": "Ulukışla",
+    "timezone": "Europe/Istanbul",
+    "population": 5821,
+    "population_year": 2025
   }
 ]

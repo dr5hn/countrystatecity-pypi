@@ -9,7 +9,12 @@
     "latitude": "53.60000000",
     "longitude": "-2.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q47822",
+    "type": "adm2",
+    "native": "Bury",
+    "timezone": "Europe/London",
+    "population": 61044,
+    "population_year": null
   },
   {
     "id": 50989,
@@ -21,7 +26,12 @@
     "latitude": "53.53333000",
     "longitude": "-2.28333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1003559",
+    "type": "town",
+    "native": "Prestwich",
+    "timezone": "Europe/London",
+    "population": 32125,
+    "population_year": null
   },
   {
     "id": 51016,
@@ -33,7 +43,12 @@
     "latitude": "53.56178000",
     "longitude": "-2.32455000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q968937",
+    "type": "town",
+    "native": "Radcliffe",
+    "timezone": "Europe/London",
+    "population": 34239,
+    "population_year": null
   },
   {
     "id": 51026,
@@ -45,7 +60,12 @@
     "latitude": "53.64789000",
     "longitude": "-2.31683000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2736093",
+    "type": "town",
+    "native": "Ramsbottom",
+    "timezone": "Europe/London",
+    "population": 17738,
+    "population_year": null
   },
   {
     "id": 51111,
@@ -57,7 +77,12 @@
     "latitude": "53.68456000",
     "longitude": "-2.27690000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Rossendale",
+    "timezone": "Europe/London",
+    "population": 71169,
+    "population_year": null
   },
   {
     "id": 51651,
@@ -69,7 +94,12 @@
     "latitude": "53.61326000",
     "longitude": "-2.34071000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tottington",
+    "timezone": "Europe/London",
+    "population": 7713,
+    "population_year": null
   },
   {
     "id": 51872,
@@ -81,6 +111,11 @@
     "latitude": "53.55000000",
     "longitude": "-2.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1615791",
+    "type": "town",
+    "native": "Whitefield",
+    "timezone": "Europe/London",
+    "population": 23545,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "13.41667000",
     "longitude": "34.63333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31876309",
+    "type": "city",
+    "native": "الحواتة",
+    "timezone": "Africa/Khartoum",
+    "population": 30184,
+    "population_year": null
   },
   {
     "id": 102929,
@@ -21,7 +26,12 @@
     "latitude": "14.03493000",
     "longitude": "35.38344000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q311199",
+    "type": "adm1",
+    "native": "القضارف",
+    "timezone": "Africa/Khartoum",
+    "population": 354927,
+    "population_year": null
   },
   {
     "id": 102942,
@@ -33,6 +43,11 @@
     "latitude": "13.51667000",
     "longitude": "35.76667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "دوكا",
+    "timezone": "Africa/Khartoum",
+    "population": 19821,
+    "population_year": null
   }
 ]

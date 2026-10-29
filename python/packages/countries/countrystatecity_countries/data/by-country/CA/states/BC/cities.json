@@ -9,7 +9,12 @@
     "latitude": "49.05798000",
     "longitude": "-122.25257000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q271730",
+    "type": "city",
+    "native": "Abbotsford",
+    "timezone": "America/Vancouver",
+    "population": 153524,
+    "population_year": null
   },
   {
     "id": 16150,
@@ -21,7 +26,12 @@
     "latitude": "49.23298000",
     "longitude": "-121.76926000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2826436",
+    "type": "city",
+    "native": "Agassiz",
+    "timezone": "America/Vancouver",
+    "population": 6300,
+    "population_year": null
   },
   {
     "id": 16155,
@@ -33,7 +43,12 @@
     "latitude": "49.05801000",
     "longitude": "-122.47087000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2832285",
+    "type": "city",
+    "native": "Aldergrove",
+    "timezone": "America/Vancouver",
+    "population": 12363,
+    "population_year": null
   },
   {
     "id": 16156,
@@ -45,7 +60,12 @@
     "latitude": "49.05593000",
     "longitude": "-122.42299000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Aldergrove East",
+    "timezone": "America/Vancouver",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 16169,
@@ -57,7 +77,12 @@
     "latitude": "49.31637000",
     "longitude": "-122.85263000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q557967",
+    "type": "village",
+    "native": "Anmore",
+    "timezone": "America/Vancouver",
+    "population": 2356,
+    "population_year": 2021
   },
   {
     "id": 16172,
@@ -69,7 +94,12 @@
     "latitude": "49.24966000",
     "longitude": "-123.16934000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q3505250",
+    "type": "locality",
+    "native": "Arbutus Ridge",
+    "timezone": "America/Vancouver",
+    "population": 15295,
+    "population_year": null
   },
   {
     "id": 16173,
@@ -81,7 +111,12 @@
     "latitude": "50.44979000",
     "longitude": "-119.20235000",
     "county_id": 7854,
-    "wikiDataId": null
+    "wikiDataId": "Q2745103",
+    "type": "city",
+    "native": "Armstrong",
+    "timezone": "America/Vancouver",
+    "population": 5323,
+    "population_year": 2021
   },
   {
     "id": 16176,
@@ -93,7 +128,12 @@
     "latitude": "50.72372000",
     "longitude": "-121.28207000",
     "county_id": 7852,
-    "wikiDataId": null
+    "wikiDataId": "Q2739451",
+    "type": "village",
+    "native": "Ashcroft",
+    "timezone": "America/Vancouver",
+    "population": 1670,
+    "population_year": 2021
   },
   {
     "id": 16194,
@@ -104,8 +144,13 @@
     "country_code": "CA",
     "latitude": "51.18308000",
     "longitude": "-120.11920000",
-    "county_id": 7852,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q808957",
+    "type": "city",
+    "native": "Barrière",
+    "timezone": "America/Vancouver",
+    "population": 1765,
+    "population_year": null
   },
   {
     "id": 16235,
@@ -117,7 +162,12 @@
     "latitude": "49.38470000",
     "longitude": "-123.33622000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22581866",
+    "type": "city",
+    "native": "Bowen Island",
+    "timezone": "America/Vancouver",
+    "population": 4256,
+    "population_year": null
   },
   {
     "id": 16253,
@@ -129,7 +179,12 @@
     "latitude": "49.26636000",
     "longitude": "-122.95263000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q244025",
+    "type": "city",
+    "native": "Burnaby",
+    "timezone": "America/Vancouver",
+    "population": 249125,
+    "population_year": 2021
   },
   {
     "id": 16254,
@@ -141,7 +196,12 @@
     "latitude": "54.22972000",
     "longitude": "-125.76084000",
     "county_id": 7861,
-    "wikiDataId": null
+    "wikiDataId": "Q954302",
+    "type": "village",
+    "native": "Burns Lake",
+    "timezone": "America/Vancouver",
+    "population": 1779,
+    "population_year": null
   },
   {
     "id": 16257,
@@ -153,7 +213,12 @@
     "latitude": "50.81011000",
     "longitude": "-121.32460000",
     "county_id": 7852,
-    "wikiDataId": null
+    "wikiDataId": "Q986003",
+    "type": "village",
+    "native": "Cache Creek",
+    "timezone": "America/Vancouver",
+    "population": 969,
+    "population_year": 2021
   },
   {
     "id": 16263,
@@ -165,7 +230,12 @@
     "latitude": "50.01634000",
     "longitude": "-125.24459000",
     "county_id": 7847,
-    "wikiDataId": null
+    "wikiDataId": "Q1030509",
+    "type": "city",
+    "native": "Campbell River",
+    "timezone": "America/Vancouver",
+    "population": 35519,
+    "population_year": 2021
   },
   {
     "id": 16286,
@@ -177,7 +247,12 @@
     "latitude": "49.32317000",
     "longitude": "-117.65831000",
     "county_id": 7838,
-    "wikiDataId": null
+    "wikiDataId": "Q1026779",
+    "type": "city",
+    "native": "Castlegar",
+    "timezone": "America/Vancouver",
+    "population": 8338,
+    "population_year": 2021
   },
   {
     "id": 16288,
@@ -189,7 +264,12 @@
     "latitude": "49.11633000",
     "longitude": "-123.85270000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2943770",
+    "type": "city",
+    "native": "Cedar",
+    "timezone": "America/Vancouver",
+    "population": 2836,
+    "population_year": null
   },
   {
     "id": 16289,
@@ -201,7 +281,12 @@
     "latitude": "52.16638000",
     "longitude": "-127.00323000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1053752",
+    "type": "district",
+    "native": "Central Coast Regional",
+    "timezone": "America/Vancouver",
+    "population": 3319,
+    "population_year": null
   },
   {
     "id": 16298,
@@ -213,7 +298,12 @@
     "latitude": "50.81650000",
     "longitude": "-119.68571000",
     "county_id": 7852,
-    "wikiDataId": null
+    "wikiDataId": "Q2957005",
+    "type": "village",
+    "native": "Chase",
+    "timezone": "America/Vancouver",
+    "population": 2399,
+    "population_year": 2021
   },
   {
     "id": 16302,
@@ -225,7 +315,12 @@
     "latitude": "48.91633000",
     "longitude": "-123.71937000",
     "county_id": 7844,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Chemainus",
+    "timezone": "America/Vancouver",
+    "population": 3021,
+    "population_year": null
   },
   {
     "id": 16306,
@@ -236,8 +331,13 @@
     "country_code": "CA",
     "latitude": "55.69988000",
     "longitude": "-121.63627000",
-    "county_id": 7863,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q987459",
+    "type": "city",
+    "native": "Chetwynd",
+    "timezone": "America/Dawson_Creek",
+    "population": 2302,
+    "population_year": 2021
   },
   {
     "id": 16308,
@@ -249,7 +349,12 @@
     "latitude": "49.16638000",
     "longitude": "-121.95257000",
     "county_id": 7841,
-    "wikiDataId": null
+    "wikiDataId": "Q983026",
+    "type": "city",
+    "native": "Chilliwack",
+    "timezone": "America/Vancouver",
+    "population": 83788,
+    "population_year": null
   },
   {
     "id": 16326,
@@ -261,7 +366,12 @@
     "latitude": "48.43293000",
     "longitude": "-123.48591000",
     "county_id": 7843,
-    "wikiDataId": null
+    "wikiDataId": "Q1113057",
+    "type": "city",
+    "native": "Colwood",
+    "timezone": "America/Vancouver",
+    "population": 16859,
+    "population_year": null
   },
   {
     "id": 16334,
@@ -273,7 +383,12 @@
     "latitude": "49.29963000",
     "longitude": "-124.41946000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2996553",
+    "type": "city",
+    "native": "Coombs",
+    "timezone": "America/Vancouver",
+    "population": 1612,
+    "population_year": null
   },
   {
     "id": 16335,
@@ -285,7 +400,12 @@
     "latitude": "49.28460000",
     "longitude": "-122.78217000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q643215",
+    "type": "city",
+    "native": "Coquitlam",
+    "timezone": "America/Vancouver",
+    "population": 148625,
+    "population_year": null
   },
   {
     "id": 16341,
@@ -297,7 +417,12 @@
     "latitude": "49.68657000",
     "longitude": "-124.99360000",
     "county_id": 7848,
-    "wikiDataId": null
+    "wikiDataId": "Q1017477",
+    "type": "city",
+    "native": "Courtenay",
+    "timezone": "America/Vancouver",
+    "population": 25599,
+    "population_year": null
   },
   {
     "id": 16344,
@@ -309,7 +434,12 @@
     "latitude": "48.73366000",
     "longitude": "-123.61739000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Cowichan Bay",
+    "timezone": "America/Vancouver",
+    "population": 2799,
+    "population_year": null
   },
   {
     "id": 16346,
@@ -321,7 +451,12 @@
     "latitude": "49.49991000",
     "longitude": "-115.76879000",
     "county_id": 7837,
-    "wikiDataId": null
+    "wikiDataId": "Q1138837",
+    "type": "city",
+    "native": "Cranbrook",
+    "timezone": "America/Edmonton",
+    "population": 20047,
+    "population_year": null
   },
   {
     "id": 16347,
@@ -333,7 +468,12 @@
     "latitude": "49.09987000",
     "longitude": "-116.50211000",
     "county_id": 7838,
-    "wikiDataId": null
+    "wikiDataId": "Q1139747",
+    "type": "town",
+    "native": "Creston",
+    "timezone": "America/Creston",
+    "population": 5583,
+    "population_year": 2021
   },
   {
     "id": 16350,
@@ -345,7 +485,12 @@
     "latitude": "49.61634000",
     "longitude": "-125.03613000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1143653",
+    "type": "city",
+    "native": "Cumberland",
+    "timezone": "America/Vancouver",
+    "population": 3753,
+    "population_year": null
   },
   {
     "id": 16359,
@@ -357,7 +502,12 @@
     "latitude": "55.75984000",
     "longitude": "-120.24030000",
     "county_id": 7863,
-    "wikiDataId": null
+    "wikiDataId": "Q1012625",
+    "type": "city",
+    "native": "Dawson Creek",
+    "timezone": "America/Dawson_Creek",
+    "population": 12323,
+    "population_year": 2021
   },
   {
     "id": 16366,
@@ -369,7 +519,12 @@
     "latitude": "49.14399000",
     "longitude": "-122.90680000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q851838",
+    "type": "city",
+    "native": "Delta",
+    "timezone": "America/Vancouver",
+    "population": 101668,
+    "population_year": null
   },
   {
     "id": 16367,
@@ -381,7 +536,12 @@
     "latitude": "49.53294000",
     "longitude": "-124.81950000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Denman Island",
+    "timezone": "America/Vancouver",
+    "population": 1020,
+    "population_year": null
   },
   {
     "id": 16368,
@@ -393,7 +553,12 @@
     "latitude": "49.55189000",
     "longitude": "-124.79881000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Denman Island Trust Area",
+    "timezone": "America/Vancouver",
+    "population": 1165,
+    "population_year": null
   },
   {
     "id": 16386,
@@ -405,7 +570,12 @@
     "latitude": "50.00880000",
     "longitude": "-119.39672000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Duck Lake",
+    "timezone": "America/Vancouver",
+    "population": 15817,
+    "population_year": null
   },
   {
     "id": 16387,
@@ -417,7 +587,12 @@
     "latitude": "48.78293000",
     "longitude": "-123.70266000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1265347",
+    "type": "city",
+    "native": "Duncan",
+    "timezone": "America/Vancouver",
+    "population": 22199,
+    "population_year": null
   },
   {
     "id": 16394,
@@ -429,7 +604,12 @@
     "latitude": "49.17385000",
     "longitude": "-124.01745000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q116043042",
+    "type": "city",
+    "native": "East Wellington",
+    "timezone": "America/Vancouver",
+    "population": 1444,
+    "population_year": null
   },
   {
     "id": 16400,
@@ -441,7 +621,12 @@
     "latitude": "50.05007000",
     "longitude": "-114.88540000",
     "county_id": 7837,
-    "wikiDataId": null
+    "wikiDataId": "Q338360",
+    "type": "municipality",
+    "native": "Elkford",
+    "timezone": "America/Edmonton",
+    "population": 2749,
+    "population_year": 2021
   },
   {
     "id": 16402,
@@ -453,7 +638,12 @@
     "latitude": "49.93307000",
     "longitude": "-119.36907000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24191108",
+    "type": "city",
+    "native": "Ellison",
+    "timezone": "America/Vancouver",
+    "population": 3094,
+    "population_year": null
   },
   {
     "id": 16404,
@@ -465,7 +655,12 @@
     "latitude": "50.54980000",
     "longitude": "-119.15234000",
     "county_id": 7854,
-    "wikiDataId": null
+    "wikiDataId": "Q112975",
+    "type": "city",
+    "native": "Enderby",
+    "timezone": "America/Vancouver",
+    "population": 3028,
+    "population_year": 2021
   },
   {
     "id": 16414,
@@ -477,7 +672,12 @@
     "latitude": "49.27588000",
     "longitude": "-124.12782000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Fairwinds",
+    "timezone": "America/Vancouver",
+    "population": 1147,
+    "population_year": null
   },
   {
     "id": 16421,
@@ -489,7 +689,12 @@
     "latitude": "49.49996000",
     "longitude": "-115.06871000",
     "county_id": 7837,
-    "wikiDataId": null
+    "wikiDataId": "Q204442",
+    "type": "city",
+    "native": "Fernie",
+    "timezone": "America/Edmonton",
+    "population": 6320,
+    "population_year": 2021
   },
   {
     "id": 16432,
@@ -501,7 +706,12 @@
     "latitude": "58.80533000",
     "longitude": "-122.70020000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q606045",
+    "type": "city",
+    "native": "Fort Nelson",
+    "timezone": "America/Fort_Nelson",
+    "population": 2611,
+    "population_year": null
   },
   {
     "id": 16435,
@@ -513,7 +723,12 @@
     "latitude": "56.24988000",
     "longitude": "-120.85292000",
     "county_id": 7863,
-    "wikiDataId": null
+    "wikiDataId": "Q23021",
+    "type": "city",
+    "native": "Fort St. John",
+    "timezone": "America/Dawson_Creek",
+    "population": 21465,
+    "population_year": 2021
   },
   {
     "id": 16440,
@@ -525,7 +740,12 @@
     "latitude": "49.58299000",
     "longitude": "-121.83587000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1249798",
+    "type": "district",
+    "native": "Fraser Valley Regional",
+    "timezone": "America/Vancouver",
+    "population": 295934,
+    "population_year": null
   },
   {
     "id": 16442,
@@ -537,7 +757,12 @@
     "latitude": "49.34123000",
     "longitude": "-124.35541000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "French Creek",
+    "timezone": "America/Vancouver",
+    "population": 1024,
+    "population_year": null
   },
   {
     "id": 16443,
@@ -549,7 +774,12 @@
     "latitude": "49.11654000",
     "longitude": "-117.55222000",
     "county_id": 7839,
-    "wikiDataId": null
+    "wikiDataId": "Q2956998",
+    "type": "village",
+    "native": "Fruitvale",
+    "timezone": "America/Vancouver",
+    "population": 1958,
+    "population_year": 2021
   },
   {
     "id": 16451,
@@ -561,7 +791,12 @@
     "latitude": "49.39539000",
     "longitude": "-123.50555000",
     "county_id": 7850,
-    "wikiDataId": null
+    "wikiDataId": "Q11483763",
+    "type": "town",
+    "native": "Gibsons",
+    "timezone": "America/Vancouver",
+    "population": 4758,
+    "population_year": 2021
   },
   {
     "id": 16458,
@@ -573,7 +808,12 @@
     "latitude": "51.29995000",
     "longitude": "-116.96890000",
     "county_id": 7855,
-    "wikiDataId": null
+    "wikiDataId": "Q1020179",
+    "type": "town",
+    "native": "Golden",
+    "timezone": "America/Edmonton",
+    "population": 3986,
+    "population_year": 2021
   },
   {
     "id": 16465,
@@ -585,7 +825,12 @@
     "latitude": "49.03309000",
     "longitude": "-118.43560000",
     "county_id": 7839,
-    "wikiDataId": null
+    "wikiDataId": "Q984028",
+    "type": "city",
+    "native": "Grand Forks",
+    "timezone": "America/Vancouver",
+    "population": 4112,
+    "population_year": 2021
   },
   {
     "id": 16487,
@@ -597,7 +842,12 @@
     "latitude": "51.91922000",
     "longitude": "-123.04458000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5646989",
+    "type": "locality",
+    "native": "Hanceville",
+    "timezone": "America/Vancouver",
+    "population": 10000,
+    "population_year": null
   },
   {
     "id": 16507,
@@ -608,8 +858,13 @@
     "country_code": "CA",
     "latitude": "49.38299000",
     "longitude": "-121.44144000",
-    "county_id": 7841,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1610654",
+    "type": "city",
+    "native": "Hope",
+    "timezone": "America/Vancouver",
+    "population": 6686,
+    "population_year": 2021
   },
   {
     "id": 16508,
@@ -621,7 +876,12 @@
     "latitude": "49.53448000",
     "longitude": "-124.66923000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Hornby Island",
+    "timezone": "America/Vancouver",
+    "population": 1100,
+    "population_year": null
   },
   {
     "id": 16510,
@@ -632,8 +892,13 @@
     "country_code": "CA",
     "latitude": "54.39976000",
     "longitude": "-126.67008000",
-    "county_id": 7861,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1257381",
+    "type": "city",
+    "native": "Houston",
+    "timezone": "America/Vancouver",
+    "population": 3052,
+    "population_year": 2021
   },
   {
     "id": 16523,
@@ -644,8 +909,13 @@
     "country_code": "CA",
     "latitude": "50.51666000",
     "longitude": "-116.03538000",
-    "county_id": 7837,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q282363",
+    "type": "city",
+    "native": "Invermere",
+    "timezone": "America/Edmonton",
+    "population": 3917,
+    "population_year": 2021
   },
   {
     "id": 16531,
@@ -657,7 +927,12 @@
     "latitude": "50.66648000",
     "longitude": "-120.31920000",
     "county_id": 7852,
-    "wikiDataId": null
+    "wikiDataId": "Q473209",
+    "type": "city",
+    "native": "Kamloops",
+    "timezone": "America/Vancouver",
+    "population": 97902,
+    "population_year": 2021
   },
   {
     "id": 16536,
@@ -669,7 +944,12 @@
     "latitude": "49.88307000",
     "longitude": "-119.48568000",
     "county_id": 7853,
-    "wikiDataId": null
+    "wikiDataId": "Q232226",
+    "type": "city",
+    "native": "Kelowna",
+    "timezone": "America/Vancouver",
+    "population": 144576,
+    "population_year": null
   },
   {
     "id": 16545,
@@ -681,7 +961,12 @@
     "latitude": "49.67071000",
     "longitude": "-115.97760000",
     "county_id": 7837,
-    "wikiDataId": null
+    "wikiDataId": "Q1305726",
+    "type": "city",
+    "native": "Kimberley",
+    "timezone": "America/Edmonton",
+    "population": 8115,
+    "population_year": 2021
   },
   {
     "id": 16554,
@@ -692,8 +977,13 @@
     "country_code": "CA",
     "latitude": "54.05244000",
     "longitude": "-128.65342000",
-    "county_id": 7860,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1307936",
+    "type": "city",
+    "native": "Kitimat",
+    "timezone": "America/Vancouver",
+    "population": 8236,
+    "population_year": 2021
   },
   {
     "id": 16586,
@@ -705,7 +995,12 @@
     "latitude": "49.08938000",
     "longitude": "-123.08241000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q14874652",
+    "type": "locality",
+    "native": "Ladner",
+    "timezone": "America/Vancouver",
+    "population": 22193,
+    "population_year": null
   },
   {
     "id": 16587,
@@ -717,7 +1012,12 @@
     "latitude": "48.99016000",
     "longitude": "-123.81699000",
     "county_id": 7844,
-    "wikiDataId": null
+    "wikiDataId": "Q373626",
+    "type": "town",
+    "native": "Ladysmith",
+    "timezone": "America/Vancouver",
+    "population": 8990,
+    "population_year": 2021
   },
   {
     "id": 16588,
@@ -729,7 +1029,12 @@
     "latitude": "48.82495000",
     "longitude": "-124.05461000",
     "county_id": 7844,
-    "wikiDataId": null
+    "wikiDataId": "Q6475523",
+    "type": "town",
+    "native": "Lake Cowichan",
+    "timezone": "America/Vancouver",
+    "population": 3325,
+    "population_year": 2021
   },
   {
     "id": 16595,
@@ -741,7 +1046,12 @@
     "latitude": "48.44963000",
     "longitude": "-123.50261000",
     "county_id": 7843,
-    "wikiDataId": null
+    "wikiDataId": "Q115788",
+    "type": "city",
+    "native": "Langford",
+    "timezone": "America/Vancouver",
+    "population": 46584,
+    "population_year": null
   },
   {
     "id": 16597,
@@ -753,7 +1063,12 @@
     "latitude": "49.10107000",
     "longitude": "-122.65883000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q923243",
+    "type": "city",
+    "native": "Langley",
+    "timezone": "America/Vancouver",
+    "population": 132603,
+    "population_year": null
   },
   {
     "id": 16616,
@@ -764,8 +1079,13 @@
     "country_code": "CA",
     "latitude": "50.68560000",
     "longitude": "-121.94200000",
-    "county_id": 7851,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q355257",
+    "type": "city",
+    "native": "Lillooet",
+    "timezone": "America/Vancouver",
+    "population": 2302,
+    "population_year": null
   },
   {
     "id": 16621,
@@ -777,7 +1097,12 @@
     "latitude": "49.45218000",
     "longitude": "-123.23760000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q1827312",
+    "type": "village",
+    "native": "Lions Bay",
+    "timezone": "America/Vancouver",
+    "population": 1390,
+    "population_year": 2021
   },
   {
     "id": 16626,
@@ -789,7 +1114,12 @@
     "latitude": "50.49976000",
     "longitude": "-120.80253000",
     "county_id": 7852,
-    "wikiDataId": null
+    "wikiDataId": "Q6667078",
+    "type": "municipality",
+    "native": "Logan Lake",
+    "timezone": "America/Vancouver",
+    "population": 2255,
+    "population_year": 2021
   },
   {
     "id": 16635,
@@ -801,7 +1131,12 @@
     "latitude": "50.24979000",
     "longitude": "-118.96904000",
     "county_id": 7854,
-    "wikiDataId": null
+    "wikiDataId": "Q2957128",
+    "type": "village",
+    "native": "Lumby",
+    "timezone": "America/Vancouver",
+    "population": 2063,
+    "population_year": 2021
   },
   {
     "id": 16641,
@@ -813,7 +1148,12 @@
     "latitude": "55.33637000",
     "longitude": "-123.09374000",
     "county_id": 7862,
-    "wikiDataId": null
+    "wikiDataId": "Q6724341",
+    "type": "municipality",
+    "native": "Mackenzie",
+    "timezone": "America/Vancouver",
+    "population": 3281,
+    "population_year": 2021
   },
   {
     "id": 16656,
@@ -825,7 +1165,12 @@
     "latitude": "49.21939000",
     "longitude": "-122.60193000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q16740",
+    "type": "city",
+    "native": "Maple Ridge",
+    "timezone": "America/Vancouver",
+    "population": 90990,
+    "population_year": 2021
   },
   {
     "id": 16681,
@@ -837,7 +1182,12 @@
     "latitude": "50.11225000",
     "longitude": "-120.79420000",
     "county_id": 7852,
-    "wikiDataId": null
+    "wikiDataId": "Q1025990",
+    "type": "city",
+    "native": "Merritt",
+    "timezone": "America/Vancouver",
+    "population": 7051,
+    "population_year": 2021
   },
   {
     "id": 16684,
@@ -848,8 +1198,13 @@
     "country_code": "CA",
     "latitude": "48.38293000",
     "longitude": "-123.53591000",
-    "county_id": 7843,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q6823363",
+    "type": "city",
+    "native": "Metchosin",
+    "timezone": "America/Vancouver",
+    "population": 5067,
+    "population_year": 2021
   },
   {
     "id": 16685,
@@ -861,7 +1216,12 @@
     "latitude": "49.33296000",
     "longitude": "-123.00264000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1061069",
+    "type": "district",
+    "native": "Metro Vancouver Regional",
+    "timezone": "America/Vancouver",
+    "population": 2463431,
+    "population_year": null
   },
   {
     "id": 16696,
@@ -873,7 +1233,12 @@
     "latitude": "49.13298000",
     "longitude": "-122.30258000",
     "county_id": 7841,
-    "wikiDataId": null
+    "wikiDataId": "Q557643",
+    "type": "city",
+    "native": "Mission",
+    "timezone": "America/Vancouver",
+    "population": 41519,
+    "population_year": 2021
   },
   {
     "id": 16727,
@@ -885,7 +1250,12 @@
     "latitude": "50.24987000",
     "longitude": "-117.80226000",
     "county_id": 7838,
-    "wikiDataId": null
+    "wikiDataId": "Q2957435",
+    "type": "village",
+    "native": "Nakusp",
+    "timezone": "America/Vancouver",
+    "population": 1589,
+    "population_year": 2021
   },
   {
     "id": 16728,
@@ -897,7 +1267,12 @@
     "latitude": "49.16638000",
     "longitude": "-123.94003000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16461",
+    "type": "city",
+    "native": "Nanaimo",
+    "timezone": "America/Vancouver",
+    "population": 99863,
+    "population_year": null
   },
   {
     "id": 16735,
@@ -909,7 +1284,12 @@
     "latitude": "49.49985000",
     "longitude": "-117.28553000",
     "county_id": 7838,
-    "wikiDataId": null
+    "wikiDataId": "Q1779015",
+    "type": "city",
+    "native": "Nelson",
+    "timezone": "America/Vancouver",
+    "population": 11106,
+    "population_year": 2021
   },
   {
     "id": 16742,
@@ -921,7 +1301,12 @@
     "latitude": "49.20678000",
     "longitude": "-122.91092000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q876122",
+    "type": "city",
+    "native": "New Westminster",
+    "timezone": "America/Vancouver",
+    "population": 78916,
+    "population_year": 2021
   },
   {
     "id": 16757,
@@ -932,8 +1317,13 @@
     "country_code": "CA",
     "latitude": "48.84133000",
     "longitude": "-123.68596000",
-    "county_id": 7844,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q7054960",
+    "type": "city",
+    "native": "North Cowichan",
+    "timezone": "America/Vancouver",
+    "population": 29676,
+    "population_year": null
   },
   {
     "id": 16758,
@@ -945,7 +1335,12 @@
     "latitude": "49.04807000",
     "longitude": "-123.83395000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "North Oyster/Yellow Point",
+    "timezone": "America/Vancouver",
+    "population": 1320,
+    "population_year": null
   },
   {
     "id": 16760,
@@ -956,8 +1351,13 @@
     "country_code": "CA",
     "latitude": "48.66634000",
     "longitude": "-123.41933000",
-    "county_id": 7843,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q2000769",
+    "type": "city",
+    "native": "North Saanich",
+    "timezone": "America/Vancouver",
+    "population": 12235,
+    "population_year": 2021
   },
   {
     "id": 16761,
@@ -969,7 +1369,12 @@
     "latitude": "49.31636000",
     "longitude": "-123.06934000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q1001626",
+    "type": "city",
+    "native": "North Vancouver",
+    "timezone": "America/Vancouver",
+    "population": 58120,
+    "population_year": 2021
   },
   {
     "id": 16769,
@@ -980,8 +1385,13 @@
     "country_code": "CA",
     "latitude": "48.44964000",
     "longitude": "-123.30260000",
-    "county_id": 7843,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q7073424",
+    "type": "city",
+    "native": "Oak Bay",
+    "timezone": "America/Vancouver",
+    "population": 17990,
+    "population_year": 2021
   },
   {
     "id": 16772,
@@ -993,7 +1403,12 @@
     "latitude": "50.36386000",
     "longitude": "-119.34997000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Okanagan",
+    "timezone": "America/Vancouver",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 16773,
@@ -1005,7 +1420,12 @@
     "latitude": "49.35000000",
     "longitude": "-119.56667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3350012",
+    "type": "city",
+    "native": "Okanagan Falls",
+    "timezone": "America/Vancouver",
+    "population": 2266,
+    "population_year": null
   },
   {
     "id": 16776,
@@ -1017,7 +1437,12 @@
     "latitude": "49.18306000",
     "longitude": "-119.55240000",
     "county_id": 7840,
-    "wikiDataId": null
+    "wikiDataId": "Q3350642",
+    "type": "town",
+    "native": "Oliver",
+    "timezone": "America/Vancouver",
+    "population": 5094,
+    "population_year": null
   },
   {
     "id": 16784,
@@ -1029,7 +1454,12 @@
     "latitude": "49.03306000",
     "longitude": "-119.45237000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q917796",
+    "type": "city",
+    "native": "Osoyoos",
+    "timezone": "America/Vancouver",
+    "population": 5556,
+    "population_year": null
   },
   {
     "id": 16798,
@@ -1041,7 +1471,12 @@
     "latitude": "49.31947000",
     "longitude": "-124.31575000",
     "county_id": 7845,
-    "wikiDataId": null
+    "wikiDataId": "Q1438931",
+    "type": "city",
+    "native": "Parksville",
+    "timezone": "America/Vancouver",
+    "population": 13642,
+    "population_year": 2021
   },
   {
     "id": 16804,
@@ -1053,7 +1488,12 @@
     "latitude": "56.66650000",
     "longitude": "-122.75302000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2065772",
+    "type": "district",
+    "native": "Peace River Regional",
+    "timezone": "America/Dawson_Creek",
+    "population": 62942,
+    "population_year": null
   },
   {
     "id": 16805,
@@ -1065,7 +1505,12 @@
     "latitude": "49.76647000",
     "longitude": "-119.73568000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1718869",
+    "type": "city",
+    "native": "Peachland",
+    "timezone": "America/Vancouver",
+    "population": 5006,
+    "population_year": null
   },
   {
     "id": 16808,
@@ -1077,7 +1522,12 @@
     "latitude": "50.31641000",
     "longitude": "-122.80273000",
     "county_id": 7851,
-    "wikiDataId": null
+    "wikiDataId": "Q1727611",
+    "type": "village",
+    "native": "Pemberton",
+    "timezone": "America/Vancouver",
+    "population": 2574,
+    "population_year": null
   },
   {
     "id": 16811,
@@ -1089,7 +1539,12 @@
     "latitude": "49.48062000",
     "longitude": "-119.58584000",
     "county_id": 7840,
-    "wikiDataId": null
+    "wikiDataId": "Q935519",
+    "type": "city",
+    "native": "Penticton",
+    "timezone": "America/Vancouver",
+    "population": 36885,
+    "population_year": 2021
   },
   {
     "id": 16826,
@@ -1101,7 +1556,12 @@
     "latitude": "49.22119000",
     "longitude": "-122.68965000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q1369892",
+    "type": "city",
+    "native": "Pitt Meadows",
+    "timezone": "America/Vancouver",
+    "population": 19146,
+    "population_year": 2021
   },
   {
     "id": 16837,
@@ -1113,7 +1573,12 @@
     "latitude": "49.24133000",
     "longitude": "-124.80280000",
     "county_id": 7846,
-    "wikiDataId": null
+    "wikiDataId": "Q1022127",
+    "type": "city",
+    "native": "Port Alberni",
+    "timezone": "America/Vancouver",
+    "population": 18259,
+    "population_year": 2021
   },
   {
     "id": 16839,
@@ -1125,7 +1590,12 @@
     "latitude": "49.26637000",
     "longitude": "-122.76932000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q643326",
+    "type": "city",
+    "native": "Port Coquitlam",
+    "timezone": "America/Vancouver",
+    "population": 58000,
+    "population_year": null
   },
   {
     "id": 16842,
@@ -1137,7 +1607,12 @@
     "latitude": "50.58716000",
     "longitude": "-127.08053000",
     "county_id": 7857,
-    "wikiDataId": null
+    "wikiDataId": "Q2104736",
+    "type": "town",
+    "native": "Port McNeill",
+    "timezone": "America/Vancouver",
+    "population": 2356,
+    "population_year": 2021
   },
   {
     "id": 16843,
@@ -1149,7 +1624,12 @@
     "latitude": "49.28124000",
     "longitude": "-122.82457000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q776261",
+    "type": "city",
+    "native": "Port Moody",
+    "timezone": "America/Vancouver",
+    "population": 33535,
+    "population_year": 2021
   },
   {
     "id": 16851,
@@ -1161,7 +1641,12 @@
     "latitude": "49.83278000",
     "longitude": "-124.52368000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q599678",
+    "type": "city",
+    "native": "Powell River",
+    "timezone": "America/Vancouver",
+    "population": 13157,
+    "population_year": null
   },
   {
     "id": 16856,
@@ -1173,7 +1658,12 @@
     "latitude": "53.91660000",
     "longitude": "-122.75301000",
     "county_id": 7862,
-    "wikiDataId": null
+    "wikiDataId": "Q590205",
+    "type": "city",
+    "native": "Prince George",
+    "timezone": "America/Vancouver",
+    "population": 76708,
+    "population_year": 2021
   },
   {
     "id": 16857,
@@ -1185,7 +1675,12 @@
     "latitude": "54.31507000",
     "longitude": "-130.32098000",
     "county_id": 7859,
-    "wikiDataId": null
+    "wikiDataId": "Q1015639",
+    "type": "city",
+    "native": "Prince Rupert",
+    "timezone": "America/Vancouver",
+    "population": 12300,
+    "population_year": 2021
   },
   {
     "id": 16858,
@@ -1197,7 +1692,12 @@
     "latitude": "49.45802000",
     "longitude": "-120.51076000",
     "county_id": 7840,
-    "wikiDataId": null
+    "wikiDataId": "Q1020218",
+    "type": "town",
+    "native": "Princeton",
+    "timezone": "America/Vancouver",
+    "population": 2894,
+    "population_year": 2021
   },
   {
     "id": 16863,
@@ -1209,7 +1709,12 @@
     "latitude": "49.66168000",
     "longitude": "-125.05686000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q116043699",
+    "type": "city",
+    "native": "Puntledge",
+    "timezone": "America/Vancouver",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 16865,
@@ -1221,7 +1726,12 @@
     "latitude": "52.97842000",
     "longitude": "-122.49310000",
     "county_id": 7856,
-    "wikiDataId": null
+    "wikiDataId": "Q2067514",
+    "type": "city",
+    "native": "Quesnel",
+    "timezone": "America/Vancouver",
+    "population": 9889,
+    "population_year": 2021
   },
   {
     "id": 16877,
@@ -1233,7 +1743,12 @@
     "latitude": "49.24962000",
     "longitude": "-125.33615000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1778727",
+    "type": "area",
+    "native": "Regional District of Alberni-Clayoquot",
+    "timezone": "America/Vancouver",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 16878,
@@ -1245,7 +1760,12 @@
     "latitude": "49.99978000",
     "longitude": "-119.41908000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q945201",
+    "type": "city",
+    "native": "Regional District of Central Okanagan",
+    "timezone": "America/Vancouver",
+    "population": 194882,
+    "population_year": null
   },
   {
     "id": 16882,
@@ -1257,7 +1777,12 @@
     "latitude": "50.99712000",
     "longitude": "-118.19530000",
     "county_id": 7855,
-    "wikiDataId": null
+    "wikiDataId": "Q1893229",
+    "type": "city",
+    "native": "Revelstoke",
+    "timezone": "America/Vancouver",
+    "population": 8275,
+    "population_year": 2021
   },
   {
     "id": 16885,
@@ -1269,7 +1794,12 @@
     "latitude": "49.17003000",
     "longitude": "-123.13683000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q236837",
+    "type": "city",
+    "native": "Richmond",
+    "timezone": "America/Vancouver",
+    "population": 209937,
+    "population_year": 2021
   },
   {
     "id": 16904,
@@ -1281,7 +1811,12 @@
     "latitude": "49.08313000",
     "longitude": "-117.80224000",
     "county_id": 7839,
-    "wikiDataId": null
+    "wikiDataId": "Q1973819",
+    "type": "city",
+    "native": "Rossland",
+    "timezone": "America/Vancouver",
+    "population": 4140,
+    "population_year": 2021
   },
   {
     "id": 16908,
@@ -1293,7 +1828,12 @@
     "latitude": "49.64703000",
     "longitude": "-124.94670000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1664593",
+    "type": "city",
+    "native": "Royston",
+    "timezone": "America/Vancouver",
+    "population": 1616,
+    "population_year": null
   },
   {
     "id": 17016,
@@ -1305,7 +1845,12 @@
     "latitude": "49.19986000",
     "longitude": "-117.26890000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2957546",
+    "type": "city",
+    "native": "Salmo",
+    "timezone": "America/Vancouver",
+    "population": 1141,
+    "population_year": null
   },
   {
     "id": 17017,
@@ -1317,7 +1862,12 @@
     "latitude": "50.69980000",
     "longitude": "-119.30237000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Salmon Arm",
+    "timezone": "America/Vancouver",
+    "population": 12875,
+    "population_year": null
   },
   {
     "id": 17018,
@@ -1329,7 +1879,12 @@
     "latitude": "48.81852000",
     "longitude": "-123.49061000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Salt Spring Island",
+    "timezone": "America/Vancouver",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 17019,
@@ -1341,7 +1896,12 @@
     "latitude": "48.94963000",
     "longitude": "-123.76939000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4083284",
+    "type": "city",
+    "native": "Saltair",
+    "timezone": "America/Vancouver",
+    "population": 2069,
+    "population_year": null
   },
   {
     "id": 17025,
@@ -1352,8 +1912,13 @@
     "country_code": "CA",
     "latitude": "49.47512000",
     "longitude": "-123.75903000",
-    "county_id": 7850,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1259274",
+    "type": "city",
+    "native": "Sechelt",
+    "timezone": "America/Vancouver",
+    "population": 8832,
+    "population_year": null
   },
   {
     "id": 17043,
@@ -1364,8 +1929,13 @@
     "country_code": "CA",
     "latitude": "50.83312000",
     "longitude": "-118.98565000",
-    "county_id": 7855,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q7507390",
+    "type": "city",
+    "native": "Sicamous",
+    "timezone": "America/Vancouver",
+    "population": 2613,
+    "population_year": 2021
   },
   {
     "id": 17047,
@@ -1377,7 +1947,12 @@
     "latitude": "48.45767000",
     "longitude": "-123.46088000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Six Mile",
+    "timezone": "America/Vancouver",
+    "population": 1031,
+    "population_year": null
   },
   {
     "id": 17050,
@@ -1389,7 +1964,12 @@
     "latitude": "54.78036000",
     "longitude": "-127.17428000",
     "county_id": 7861,
-    "wikiDataId": null
+    "wikiDataId": "Q1009247",
+    "type": "town",
+    "native": "Smithers",
+    "timezone": "America/Vancouver",
+    "population": 5378,
+    "population_year": 2021
   },
   {
     "id": 17053,
@@ -1400,8 +1980,13 @@
     "country_code": "CA",
     "latitude": "48.37463000",
     "longitude": "-123.72762000",
-    "county_id": 7843,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q993727",
+    "type": "city",
+    "native": "Sooke",
+    "timezone": "America/Vancouver",
+    "population": 15086,
+    "population_year": 2021
   },
   {
     "id": 17058,
@@ -1413,7 +1998,12 @@
     "latitude": "49.62202000",
     "longitude": "-124.02484000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "South Pender Harbour",
+    "timezone": "America/Vancouver",
+    "population": 1187,
+    "population_year": null
   },
   {
     "id": 17060,
@@ -1424,8 +2014,13 @@
     "country_code": "CA",
     "latitude": "49.73332000",
     "longitude": "-114.88532000",
-    "county_id": 7837,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q7573961",
+    "type": "city",
+    "native": "Sparwood",
+    "timezone": "America/Edmonton",
+    "population": 4148,
+    "population_year": 2021
   },
   {
     "id": 17086,
@@ -1436,8 +2031,13 @@
     "country_code": "CA",
     "latitude": "49.59977000",
     "longitude": "-119.66911000",
-    "county_id": 7840,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q984379",
+    "type": "city",
+    "native": "Summerland",
+    "timezone": "America/Vancouver",
+    "population": 12042,
+    "population_year": 2021
   },
   {
     "id": 17089,
@@ -1449,7 +2049,12 @@
     "latitude": "49.10635000",
     "longitude": "-122.82509000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q390583",
+    "type": "city",
+    "native": "Surrey",
+    "timezone": "America/Vancouver",
+    "population": 568322,
+    "population_year": 2021
   },
   {
     "id": 17102,
@@ -1461,7 +2066,12 @@
     "latitude": "54.51634000",
     "longitude": "-128.60345000",
     "county_id": 7860,
-    "wikiDataId": null
+    "wikiDataId": "Q1021037",
+    "type": "city",
+    "native": "Terrace",
+    "timezone": "America/Vancouver",
+    "population": 12017,
+    "population_year": 2021
   },
   {
     "id": 17119,
@@ -1472,8 +2082,13 @@
     "country_code": "CA",
     "latitude": "49.15314000",
     "longitude": "-125.90744000",
-    "county_id": 7846,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q462564",
+    "type": "city",
+    "native": "Tofino",
+    "timezone": "America/Vancouver",
+    "population": 2516,
+    "population_year": 2021
   },
   {
     "id": 17125,
@@ -1485,7 +2100,12 @@
     "latitude": "49.09983000",
     "longitude": "-117.70223000",
     "county_id": 7839,
-    "wikiDataId": null
+    "wikiDataId": "Q1808502",
+    "type": "city",
+    "native": "Trail",
+    "timezone": "America/Vancouver",
+    "population": 7920,
+    "population_year": 2021
   },
   {
     "id": 17128,
@@ -1497,7 +2117,12 @@
     "latitude": "49.01667000",
     "longitude": "-123.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Tsawwassen",
+    "timezone": "America/Vancouver",
+    "population": 21588,
+    "population_year": null
   },
   {
     "id": 17129,
@@ -1508,8 +2133,13 @@
     "country_code": "CA",
     "latitude": "55.13027000",
     "longitude": "-120.99415000",
-    "county_id": 7863,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q7852567",
+    "type": "city",
+    "native": "Tumbler Ridge",
+    "timezone": "America/Dawson_Creek",
+    "population": 2399,
+    "population_year": 2021
   },
   {
     "id": 17133,
@@ -1520,8 +2150,13 @@
     "country_code": "CA",
     "latitude": "48.94153000",
     "longitude": "-125.54635000",
-    "county_id": 7846,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q994047",
+    "type": "city",
+    "native": "Ucluelet",
+    "timezone": "America/Vancouver",
+    "population": 2066,
+    "population_year": 2021
   },
   {
     "id": 17145,
@@ -1533,7 +2168,12 @@
     "latitude": "49.24966000",
     "longitude": "-123.11934000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q24639",
+    "type": "city",
+    "native": "Vancouver",
+    "timezone": "America/Vancouver",
+    "population": 662248,
+    "population_year": null
   },
   {
     "id": 17146,
@@ -1544,8 +2184,13 @@
     "country_code": "CA",
     "latitude": "54.01657000",
     "longitude": "-124.01982000",
-    "county_id": 7861,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q908439",
+    "type": "city",
+    "native": "Vanderhoof",
+    "timezone": "America/Vancouver",
+    "population": 4346,
+    "population_year": 2021
   },
   {
     "id": 17155,
@@ -1557,7 +2202,12 @@
     "latitude": "50.26729000",
     "longitude": "-119.27337000",
     "county_id": 7854,
-    "wikiDataId": null
+    "wikiDataId": "Q985671",
+    "type": "city",
+    "native": "Vernon",
+    "timezone": "America/Vancouver",
+    "population": 44519,
+    "population_year": null
   },
   {
     "id": 17156,
@@ -1569,7 +2219,12 @@
     "latitude": "48.43590000",
     "longitude": "-123.35155000",
     "county_id": 7843,
-    "wikiDataId": null
+    "wikiDataId": "Q2132",
+    "type": "city",
+    "native": "Victoria",
+    "timezone": "America/Vancouver",
+    "population": 91867,
+    "population_year": 2021
   },
   {
     "id": 17168,
@@ -1581,7 +2236,12 @@
     "latitude": "49.16473000",
     "longitude": "-122.64042000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7963585",
+    "type": "city",
+    "native": "Walnut Grove",
+    "timezone": "America/Vancouver",
+    "population": 25683,
+    "population_year": null
   },
   {
     "id": 17183,
@@ -1593,7 +2253,12 @@
     "latitude": "49.47959000",
     "longitude": "-123.89239000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q106669951",
+    "type": "locality",
+    "native": "Welcome Beach",
+    "timezone": "America/Vancouver",
+    "population": 1125,
+    "population_year": null
   },
   {
     "id": 17189,
@@ -1605,7 +2270,12 @@
     "latitude": "49.28333000",
     "longitude": "-123.13333000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q1076122",
+    "type": "locality",
+    "native": "West End",
+    "timezone": "America/Vancouver",
+    "population": 47200,
+    "population_year": null
   },
   {
     "id": 17190,
@@ -1617,7 +2287,12 @@
     "latitude": "49.86250000",
     "longitude": "-119.58333000",
     "county_id": 7853,
-    "wikiDataId": null
+    "wikiDataId": "Q5958093",
+    "type": "city",
+    "native": "West Kelowna",
+    "timezone": "America/Vancouver",
+    "population": 28793,
+    "population_year": null
   },
   {
     "id": 17193,
@@ -1629,7 +2304,12 @@
     "latitude": "49.36672000",
     "longitude": "-123.16652000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q991329",
+    "type": "municipality",
+    "native": "West Vancouver",
+    "timezone": "America/Vancouver",
+    "population": 44122,
+    "population_year": 2021
   },
   {
     "id": 17200,
@@ -1640,8 +2320,13 @@
     "country_code": "CA",
     "latitude": "50.11817000",
     "longitude": "-122.95396000",
-    "county_id": 7851,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q203122",
+    "type": "city",
+    "native": "Whistler",
+    "timezone": "America/Vancouver",
+    "population": 13982,
+    "population_year": 2021
   },
   {
     "id": 17202,
@@ -1653,7 +2338,12 @@
     "latitude": "49.01636000",
     "longitude": "-122.80260000",
     "county_id": 7842,
-    "wikiDataId": null
+    "wikiDataId": "Q629056",
+    "type": "city",
+    "native": "White Rock",
+    "timezone": "America/Vancouver",
+    "population": 21939,
+    "population_year": 2021
   },
   {
     "id": 17207,
@@ -1665,6 +2355,11 @@
     "latitude": "52.14153000",
     "longitude": "-122.14451000",
     "county_id": 7856,
-    "wikiDataId": null
+    "wikiDataId": "Q2039207",
+    "type": "city",
+    "native": "Williams Lake",
+    "timezone": "America/Vancouver",
+    "population": 14168,
+    "population_year": null
   }
 ]

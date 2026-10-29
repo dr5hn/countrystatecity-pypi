@@ -1,6 +1,6 @@
 [
   {
-    "id": 154400,
+    "id": 168156,
     "name": "9 de Julio",
     "state_id": 3656,
     "state_code": "B",
@@ -9,7 +9,12 @@
     "latitude": "-35.45000000",
     "longitude": "-60.88333333",
     "county_id": 6409,
-    "wikiDataId": null
+    "wikiDataId": "Q579199",
+    "type": "locality",
+    "native": "9 de Julio",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154312,
@@ -18,10 +23,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.03339951",
-    "longitude": "-60.10033417",
+    "latitude": "-38.03244444",
+    "longitude": "-60.09941667",
     "county_id": 6321,
-    "wikiDataId": null
+    "wikiDataId": "Q1847701",
+    "type": "locality",
+    "native": "Adolfo Gonzales Chaves",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164426,
@@ -33,7 +43,12 @@
     "latitude": "-34.80041000",
     "longitude": "-58.38384000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q749623",
+    "type": "city",
+    "native": "Adrogué",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 28265,
+    "population_year": null
   },
   {
     "id": 154313,
@@ -45,19 +60,29 @@
     "latitude": "-35.01666667",
     "longitude": "-60.26666667",
     "county_id": 6322,
-    "wikiDataId": null
+    "wikiDataId": "Q940887",
+    "type": "locality",
+    "native": "Alberti",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 154415,
+    "id": 168157,
     "name": "América",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.49002075",
-    "longitude": "-62.97202301",
+    "latitude": "-35.48333333",
+    "longitude": "-62.96666667",
     "county_id": 6424,
-    "wikiDataId": null
+    "wikiDataId": "Q2400442",
+    "type": "locality",
+    "native": "América",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154315,
@@ -66,10 +91,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.06646347",
-    "longitude": "-60.10272217",
+    "latitude": "-34.06306994",
+    "longitude": "-60.10259657",
     "county_id": 6330,
-    "wikiDataId": null
+    "wikiDataId": "Q2706121",
+    "type": "locality",
+    "native": "Arrecifes",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154316,
@@ -81,7 +111,12 @@
     "latitude": "-34.66134140",
     "longitude": "-58.38802660",
     "county_id": 6324,
-    "wikiDataId": null
+    "wikiDataId": "Q753642",
+    "type": "locality",
+    "native": "Avellaneda",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154317,
@@ -90,10 +125,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.14955902",
-    "longitude": "-58.47529983",
+    "latitude": "-37.15246056",
+    "longitude": "-58.48823778",
     "county_id": 6325,
-    "wikiDataId": null
+    "wikiDataId": "Q1962422",
+    "type": "locality",
+    "native": "Ayacucho",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154318,
@@ -102,10 +142,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.78702927",
-    "longitude": "-59.86066818",
+    "latitude": "-36.78333333",
+    "longitude": "-59.85000000",
     "county_id": 6326,
-    "wikiDataId": null
+    "wikiDataId": "Q54118",
+    "type": "locality",
+    "native": "Azul",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154319,
@@ -114,10 +159,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.71467972",
-    "longitude": "-62.27904510",
+    "latitude": "-38.71824314",
+    "longitude": "-62.26733891",
     "county_id": 6327,
-    "wikiDataId": null
+    "wikiDataId": "Q54108",
+    "type": "locality",
+    "native": "Bahía Blanca",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154320,
@@ -126,10 +176,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.85528946",
-    "longitude": "-58.25904465",
+    "latitude": "-37.84641222",
+    "longitude": "-58.25562500",
     "county_id": 6328,
-    "wikiDataId": null
+    "wikiDataId": "Q2365352",
+    "type": "locality",
+    "native": "Balcarce",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164406,
@@ -141,7 +196,12 @@
     "latitude": "-34.74563000",
     "longitude": "-58.39365000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q591791",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 61072,
+    "population_year": null
   },
   {
     "id": 154321,
@@ -150,10 +210,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-33.81264114",
-    "longitude": "-59.50539780",
+    "latitude": "-33.81263758",
+    "longitude": "-59.50460732",
     "county_id": 6329,
-    "wikiDataId": null
+    "wikiDataId": "Q2318528",
+    "type": "locality",
+    "native": "Baradero",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154346,
@@ -165,7 +230,12 @@
     "latitude": "-34.34614795",
     "longitude": "-58.79609545",
     "county_id": 6355,
-    "wikiDataId": null
+    "wikiDataId": "Q816341",
+    "type": "locality",
+    "native": "Belén de Escobar",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164403,
@@ -177,7 +247,12 @@
     "latitude": "-34.56510000",
     "longitude": "-58.69034000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1886737",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 79737,
+    "population_year": null
   },
   {
     "id": 154322,
@@ -189,7 +264,12 @@
     "latitude": "-37.66666667",
     "longitude": "-59.78333333",
     "county_id": 6331,
-    "wikiDataId": null
+    "wikiDataId": "Q2053011",
+    "type": "locality",
+    "native": "Benito Juárez",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154323,
@@ -198,10 +278,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.75953900",
-    "longitude": "-58.20480796",
+    "latitude": "-34.76788889",
+    "longitude": "-58.21327778",
     "county_id": 6332,
-    "wikiDataId": null
+    "wikiDataId": "Q548807",
+    "type": "locality",
+    "native": "Berazategui",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154324,
@@ -213,7 +298,12 @@
     "latitude": "-34.89821320",
     "longitude": "-57.90243650",
     "county_id": 6333,
-    "wikiDataId": null
+    "wikiDataId": "Q668462",
+    "type": "locality",
+    "native": "Berisso",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154326,
@@ -225,7 +315,12 @@
     "latitude": "-35.02574040",
     "longitude": "-61.25370530",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q268491",
+    "type": "city",
+    "native": "Que",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 33222,
+    "population_year": null
   },
   {
     "id": 154327,
@@ -237,7 +332,12 @@
     "latitude": "-35.19510090",
     "longitude": "-58.49818770",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q848995",
+    "type": "city",
+    "native": "Brandsen",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 30026,
+    "population_year": null
   },
   {
     "id": 164400,
@@ -249,7 +349,12 @@
     "latitude": "-34.82584000",
     "longitude": "-58.39502000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1017208",
+    "type": "city",
+    "native": "Burzaco",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 98859,
+    "population_year": null
   },
   {
     "id": 154328,
@@ -258,10 +363,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.17323303",
-    "longitude": "-58.95826721",
+    "latitude": "-34.16327000",
+    "longitude": "-58.95919000",
     "county_id": 6337,
-    "wikiDataId": null
+    "wikiDataId": "Q1030194",
+    "type": "locality",
+    "native": "Campana",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154329,
@@ -270,13 +380,18 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.05360031",
-    "longitude": "-58.76054382",
+    "latitude": "-35.05379000",
+    "longitude": "-58.76205000",
     "county_id": 6338,
-    "wikiDataId": null
+    "wikiDataId": "Q933355",
+    "type": "locality",
+    "native": "Cañuelas",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 154348,
+    "id": 168152,
     "name": "Capilla del Señor",
     "state_id": 3656,
     "state_code": "B",
@@ -285,7 +400,12 @@
     "latitude": "-34.28719400",
     "longitude": "-59.10183300",
     "county_id": 6357,
-    "wikiDataId": null
+    "wikiDataId": "Q2145476",
+    "type": "locality",
+    "native": "Capilla del Señor",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154330,
@@ -294,22 +414,32 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.17471695",
-    "longitude": "-59.79249573",
+    "latitude": "-34.16666667",
+    "longitude": "-59.78333333",
     "county_id": 6339,
-    "wikiDataId": null
+    "wikiDataId": "Q3246516",
+    "type": "locality",
+    "native": "Capitán Sarmiento",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 154311,
+    "id": 168151,
     "name": "Carhué",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.17893219",
-    "longitude": "-62.75990677",
+    "latitude": "-37.17958889",
+    "longitude": "-62.76008056",
     "county_id": 6320,
-    "wikiDataId": null
+    "wikiDataId": "Q54117",
+    "type": "locality",
+    "native": "Carhué",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154331,
@@ -318,10 +448,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.62154388",
-    "longitude": "-61.36374664",
+    "latitude": "-35.61666667",
+    "longitude": "-61.36666667",
     "county_id": 6340,
-    "wikiDataId": null
+    "wikiDataId": "Q3287283",
+    "type": "locality",
+    "native": "Carlos Casares",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154332,
@@ -330,10 +465,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.39120102",
-    "longitude": "-62.41844559",
+    "latitude": "-35.38333333",
+    "longitude": "-62.41666667",
     "county_id": 6341,
-    "wikiDataId": null
+    "wikiDataId": "Q2609993",
+    "type": "locality",
+    "native": "Carlos Tejedor",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154333,
@@ -342,10 +482,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.38088135",
-    "longitude": "-59.82288013",
+    "latitude": "-34.36666667",
+    "longitude": "-59.81666667",
     "county_id": 6342,
-    "wikiDataId": null
+    "wikiDataId": "Q5043625",
+    "type": "locality",
+    "native": "Carmen de Areco",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154402,
@@ -354,10 +499,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-40.79159164",
-    "longitude": "-62.99021149",
+    "latitude": "-40.78333333",
+    "longitude": "-62.96666667",
     "county_id": 6411,
-    "wikiDataId": null
+    "wikiDataId": "Q2342211",
+    "type": "locality",
+    "native": "Carmen de Patagones",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164398,
@@ -369,7 +519,12 @@
     "latitude": "-34.65142000",
     "longitude": "-58.64074000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q371354",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 107786,
+    "population_year": null
   },
   {
     "id": 154334,
@@ -378,10 +533,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.09033585",
-    "longitude": "-57.81335831",
+    "latitude": "-36.09055556",
+    "longitude": "-57.80833333",
     "county_id": 6343,
-    "wikiDataId": null
+    "wikiDataId": "Q5049691",
+    "type": "locality",
+    "native": "Castelli",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154335,
@@ -390,10 +550,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.64027786",
-    "longitude": "-60.47129822",
+    "latitude": "-34.63333333",
+    "longitude": "-60.46666667",
     "county_id": 6349,
-    "wikiDataId": null
+    "wikiDataId": "Q2755081",
+    "type": "locality",
+    "native": "Chacabuco",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154336,
@@ -405,7 +570,12 @@
     "latitude": "-35.57500000",
     "longitude": "-58.00888889",
     "county_id": 6350,
-    "wikiDataId": null
+    "wikiDataId": "Q2677190",
+    "type": "locality",
+    "native": "Chascomús",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154337,
@@ -414,10 +584,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.89602280",
-    "longitude": "-60.01704788",
+    "latitude": "-34.90000000",
+    "longitude": "-60.01666667",
     "county_id": 6351,
-    "wikiDataId": null
+    "wikiDataId": "Q686736",
+    "type": "locality",
+    "native": "Chivilcoy",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154338,
@@ -426,10 +601,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-33.89921570",
-    "longitude": "-61.10155106",
+    "latitude": "-33.88333333",
+    "longitude": "-61.10000000",
     "county_id": 6344,
-    "wikiDataId": null
+    "wikiDataId": "Q2420710",
+    "type": "locality",
+    "native": "Colón",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154339,
@@ -438,10 +618,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.71692657",
-    "longitude": "-61.29127121",
+    "latitude": "-38.71867000",
+    "longitude": "-61.28733000",
     "county_id": 6346,
-    "wikiDataId": null
+    "wikiDataId": "Q2481568",
+    "type": "locality",
+    "native": "Coronel Dorrego",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154340,
@@ -453,7 +638,12 @@
     "latitude": "-37.98511280",
     "longitude": "-61.34997710",
     "county_id": 6347,
-    "wikiDataId": null
+    "wikiDataId": "Q992586",
+    "type": "locality",
+    "native": "Coronel Pringles",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154342,
@@ -462,10 +652,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.45483780",
-    "longitude": "-61.93674850",
+    "latitude": "-37.45467000",
+    "longitude": "-61.93343000",
     "county_id": 6348,
-    "wikiDataId": null
+    "wikiDataId": "Q3693997",
+    "type": "locality",
+    "native": "Coronel Suárez",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164444,
@@ -477,7 +672,12 @@
     "latitude": "-37.44652000",
     "longitude": "-57.72939000",
     "county_id": 6399,
-    "wikiDataId": null
+    "wikiDataId": "Q2078014",
+    "type": "locality",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154343,
@@ -486,10 +686,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.60051346",
-    "longitude": "-61.74769211",
+    "latitude": "-36.60000000",
+    "longitude": "-61.75000000",
     "county_id": 6352,
-    "wikiDataId": null
+    "wikiDataId": "Q1019187",
+    "type": "locality",
+    "native": "Daireaux",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154344,
@@ -498,10 +703,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.31482696",
-    "longitude": "-57.68048859",
+    "latitude": "-36.31321000",
+    "longitude": "-57.67918000",
     "county_id": 6353,
-    "wikiDataId": null
+    "wikiDataId": "Q2024388",
+    "type": "locality",
+    "native": "Dolores",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164404,
@@ -513,7 +723,12 @@
     "latitude": "-34.49459000",
     "longitude": "-58.62729000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2743879",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 71356,
+    "population_year": null
   },
   {
     "id": 154345,
@@ -522,10 +737,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.85908766",
-    "longitude": "-57.91320629",
+    "latitude": "-34.85000000",
+    "longitude": "-57.90000000",
     "county_id": 6354,
-    "wikiDataId": null
+    "wikiDataId": "Q3331353",
+    "type": "locality",
+    "native": "Ensenada",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154347,
@@ -537,7 +757,12 @@
     "latitude": "-34.82406180",
     "longitude": "-58.63358570",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1685960",
+    "type": "city",
+    "native": "Esteban Echeverríar",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154349,
@@ -549,7 +774,12 @@
     "latitude": "-34.83333333",
     "longitude": "-58.51666667",
     "county_id": 6358,
-    "wikiDataId": null
+    "wikiDataId": "Q1385982",
+    "type": "locality",
+    "native": "Ezeiza",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154350,
@@ -558,10 +788,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.79680757",
-    "longitude": "-58.27479752",
+    "latitude": "-34.79750000",
+    "longitude": "-58.27590000",
     "county_id": 6359,
-    "wikiDataId": null
+    "wikiDataId": "Q2359107",
+    "type": "locality",
+    "native": "Florencio Varela",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154351,
@@ -570,10 +805,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.84611893",
-    "longitude": "-62.46739578",
+    "latitude": "-34.84554958",
+    "longitude": "-62.46651123",
     "county_id": 6360,
-    "wikiDataId": null
+    "wikiDataId": "Q5460915",
+    "type": "locality",
+    "native": "Florentino Ameghino",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154353,
@@ -582,10 +822,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.02236557",
-    "longitude": "-60.01255035",
+    "latitude": "-36.03333333",
+    "longitude": "-60.01666667",
     "county_id": 6362,
-    "wikiDataId": null
+    "wikiDataId": "Q3680911",
+    "type": "locality",
+    "native": "General Alvear",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154354,
@@ -594,10 +839,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.30286817",
-    "longitude": "-61.30775050",
+    "latitude": "-34.30337000",
+    "longitude": "-61.30708000",
     "county_id": 6363,
-    "wikiDataId": null
+    "wikiDataId": "Q5531702",
+    "type": "locality",
+    "native": "General Arenales",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154355,
@@ -606,22 +856,32 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.77000238",
-    "longitude": "-58.50115585",
+    "latitude": "-35.76666667",
+    "longitude": "-58.50000000",
     "county_id": 6364,
-    "wikiDataId": null
+    "wikiDataId": "Q5531728",
+    "type": "locality",
+    "native": "General Belgrano",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 154435,
+    "id": 168158,
     "name": "General Conesa",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.51737595",
-    "longitude": "-57.32342911",
+    "latitude": "-36.50000000",
+    "longitude": "-57.31666667",
     "county_id": 6444,
-    "wikiDataId": null
+    "wikiDataId": "Q5531788",
+    "type": "locality",
+    "native": "General Conesa",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154356,
@@ -630,10 +890,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.64743423",
-    "longitude": "-57.79345322",
+    "latitude": "-36.64062740",
+    "longitude": "-57.79207030",
     "county_id": 6365,
-    "wikiDataId": null
+    "wikiDataId": "Q5531935",
+    "type": "locality",
+    "native": "General Guido",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154360,
@@ -642,10 +907,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.00591146",
-    "longitude": "-57.13434415",
+    "latitude": "-37.01666667",
+    "longitude": "-57.13333333",
     "county_id": 6366,
-    "wikiDataId": null
+    "wikiDataId": "Q5531985",
+    "type": "locality",
+    "native": "General Juan Madariaga",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154357,
@@ -654,10 +924,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.24824524",
-    "longitude": "-61.26410675",
+    "latitude": "-37.25000000",
+    "longitude": "-61.25000000",
     "county_id": 6367,
-    "wikiDataId": null
+    "wikiDataId": "Q5531997",
+    "type": "locality",
+    "native": "General La Madrid",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154358,
@@ -669,7 +944,12 @@
     "latitude": "-34.93333333",
     "longitude": "-58.95000000",
     "county_id": 6368,
-    "wikiDataId": null
+    "wikiDataId": "Q2252470",
+    "type": "locality",
+    "native": "General Las Heras",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154359,
@@ -678,10 +958,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.40634918",
-    "longitude": "-56.94319916",
+    "latitude": "-36.40809000",
+    "longitude": "-56.94336000",
     "county_id": 6369,
-    "wikiDataId": null
+    "wikiDataId": "Q1899868",
+    "type": "locality",
+    "native": "General Lavalle",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164410,
@@ -693,7 +978,12 @@
     "latitude": "-34.45256000",
     "longitude": "-58.64312000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5532089",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 43287,
+    "population_year": null
   },
   {
     "id": 154362,
@@ -702,10 +992,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.76459503",
-    "longitude": "-61.89147568",
+    "latitude": "-34.76666667",
+    "longitude": "-61.86666667",
     "county_id": 6371,
-    "wikiDataId": null
+    "wikiDataId": "Q5532104",
+    "type": "locality",
+    "native": "General Pinto",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154364,
@@ -714,10 +1009,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.60828400",
-    "longitude": "-58.95051193",
+    "latitude": "-34.61666667",
+    "longitude": "-58.95000000",
     "county_id": 6373,
-    "wikiDataId": null
+    "wikiDataId": "Q2363248",
+    "type": "locality",
+    "native": "General Rodríguez",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154365,
@@ -729,7 +1029,12 @@
     "latitude": "-34.57717508",
     "longitude": "-58.53764178",
     "county_id": 6374,
-    "wikiDataId": null
+    "wikiDataId": "Q781245",
+    "type": "locality",
+    "native": "General San Martín",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154367,
@@ -741,7 +1046,12 @@
     "latitude": "-35.03333333",
     "longitude": "-63.01666667",
     "county_id": 6376,
-    "wikiDataId": null
+    "wikiDataId": "Q2442236",
+    "type": "locality",
+    "native": "General Villegas",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154368,
@@ -750,22 +1060,32 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.01917267",
-    "longitude": "-62.42125320",
+    "latitude": "-37.01666667",
+    "longitude": "-62.41666667",
     "county_id": 6377,
-    "wikiDataId": null
+    "wikiDataId": "Q1973966",
+    "type": "locality",
+    "native": "Guaminí",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 154369,
+    "id": 168154,
     "name": "Henderson",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.30134582",
-    "longitude": "-61.71709061",
+    "latitude": "-36.28333333",
+    "longitude": "-61.71666667",
     "county_id": 6378,
-    "wikiDataId": null
+    "wikiDataId": "Q3784796",
+    "type": "locality",
+    "native": "Henderson",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154370,
@@ -777,7 +1097,12 @@
     "latitude": "-34.60000000",
     "longitude": "-58.63333333",
     "county_id": 6379,
-    "wikiDataId": null
+    "wikiDataId": "Q2713588",
+    "type": "locality",
+    "native": "Hurlingham",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164413,
@@ -789,7 +1114,12 @@
     "latitude": "-34.47775000",
     "longitude": "-58.70652000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3787050",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 38470,
+    "population_year": null
   },
   {
     "id": 164397,
@@ -801,7 +1131,12 @@
     "latitude": "-34.70000000",
     "longitude": "-58.58745000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2700395",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 131981,
+    "population_year": null
   },
   {
     "id": 154371,
@@ -810,10 +1145,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.64955521",
-    "longitude": "-58.68729401",
+    "latitude": "-34.65822300",
+    "longitude": "-58.66721300",
     "county_id": 6380,
-    "wikiDataId": null
+    "wikiDataId": "Q615244",
+    "type": "locality",
+    "native": "Ituzaingó",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154372,
@@ -825,7 +1165,12 @@
     "latitude": "-34.51666667",
     "longitude": "-58.76666667",
     "county_id": 6381,
-    "wikiDataId": null
+    "wikiDataId": "Q2224587",
+    "type": "locality",
+    "native": "José C. Paz",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154373,
@@ -834,10 +1179,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.58358383",
-    "longitude": "-60.94085312",
+    "latitude": "-34.58333333",
+    "longitude": "-60.95000000",
     "county_id": 6382,
-    "wikiDataId": null
+    "wikiDataId": "Q1020277",
+    "type": "locality",
+    "native": "Junín",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154374,
@@ -849,7 +1199,12 @@
     "latitude": "-36.66068710",
     "longitude": "-57.40162530",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1038912",
+    "type": "city",
+    "native": "La Costa",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154376,
@@ -861,7 +1216,12 @@
     "latitude": "-34.93333333",
     "longitude": "-57.95000000",
     "county_id": 6386,
-    "wikiDataId": null
+    "wikiDataId": "Q44059",
+    "type": "locality",
+    "native": "La Plata",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164434,
@@ -873,7 +1233,12 @@
     "latitude": "-34.87558000",
     "longitude": "-58.54192000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5965407",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 24293,
+    "population_year": null
   },
   {
     "id": 164396,
@@ -885,7 +1250,12 @@
     "latitude": "-34.75049000",
     "longitude": "-58.58464000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2484567",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 248362,
+    "population_year": null
   },
   {
     "id": 154377,
@@ -897,7 +1267,12 @@
     "latitude": "-34.70198040",
     "longitude": "-58.47261230",
     "county_id": 6385,
-    "wikiDataId": null
+    "wikiDataId": "Q730109",
+    "type": "locality",
+    "native": "Lanús",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154378,
@@ -906,10 +1281,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.54743576",
-    "longitude": "-60.79619980",
+    "latitude": "-37.53333333",
+    "longitude": "-60.81666667",
     "county_id": 6387,
-    "wikiDataId": null
+    "wikiDataId": "Q5393050",
+    "type": "locality",
+    "native": "Laprida",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154379,
@@ -918,10 +1298,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.01638794",
-    "longitude": "-59.10038376",
+    "latitude": "-36.01427000",
+    "longitude": "-59.09986000",
     "county_id": 6388,
-    "wikiDataId": null
+    "wikiDataId": "Q2036271",
+    "type": "locality",
+    "native": "Las Flores",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154381,
@@ -933,7 +1318,12 @@
     "latitude": "-35.86369450",
     "longitude": "-58.15662470",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3366881",
+    "type": "adm2",
+    "native": "Lezama",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154382,
@@ -942,10 +1332,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.86692810",
-    "longitude": "-61.52997971",
+    "latitude": "-34.86833333",
+    "longitude": "-61.52944444",
     "county_id": 6391,
-    "wikiDataId": null
+    "wikiDataId": "Q2786965",
+    "type": "locality",
+    "native": "Lincoln",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154383,
@@ -954,10 +1349,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.16338348",
-    "longitude": "-58.78404236",
+    "latitude": "-38.16352778",
+    "longitude": "-58.78230556",
     "county_id": 6392,
-    "wikiDataId": null
+    "wikiDataId": "Q2194021",
+    "type": "locality",
+    "native": "Lobería",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154384,
@@ -966,10 +1366,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.18312454",
-    "longitude": "-59.09842300",
+    "latitude": "-35.18638889",
+    "longitude": "-59.09611111",
     "county_id": 6393,
-    "wikiDataId": null
+    "wikiDataId": "Q1867123",
+    "type": "locality",
+    "native": "Lobos",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154385,
@@ -978,10 +1383,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.75864410",
-    "longitude": "-58.40148926",
+    "latitude": "-34.76666667",
+    "longitude": "-58.40000000",
     "county_id": 6394,
-    "wikiDataId": null
+    "wikiDataId": "Q642057",
+    "type": "locality",
+    "native": "Lomas de Zamora",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164408,
@@ -993,19 +1403,29 @@
     "latitude": "-34.50316000",
     "longitude": "-58.70596000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3723035",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 53354,
+    "population_year": null
   },
   {
-    "id": 154366,
+    "id": 168153,
     "name": "Los Toldos",
     "state_id": 3656,
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.00411606",
-    "longitude": "-61.03776550",
+    "latitude": "-34.99500000",
+    "longitude": "-61.03670000",
     "county_id": 6375,
-    "wikiDataId": null
+    "wikiDataId": "Q521056",
+    "type": "locality",
+    "native": "Los Toldos",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154386,
@@ -1014,10 +1434,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.58003235",
-    "longitude": "-59.10658264",
+    "latitude": "-34.57027778",
+    "longitude": "-59.10500000",
     "county_id": 6395,
-    "wikiDataId": null
+    "wikiDataId": "Q54107",
+    "type": "locality",
+    "native": "Luján",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154387,
@@ -1026,10 +1451,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.07962799",
-    "longitude": "-57.51296616",
+    "latitude": "-35.08333333",
+    "longitude": "-57.51666667",
     "county_id": 6396,
-    "wikiDataId": null
+    "wikiDataId": "Q5787236",
+    "type": "locality",
+    "native": "Magdalena",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154388,
@@ -1038,10 +1468,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.85823822",
-    "longitude": "-57.87769699",
+    "latitude": "-36.86666667",
+    "longitude": "-57.86666667",
     "county_id": 6397,
-    "wikiDataId": null
+    "wikiDataId": "Q1764344",
+    "type": "locality",
+    "native": "Maipú",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164432,
@@ -1053,7 +1488,12 @@
     "latitude": "-36.72881000",
     "longitude": "-56.68265000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q991680",
+    "type": "city",
+    "native": "Mar de Ajó",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 25520,
+    "population_year": null
   },
   {
     "id": 164395,
@@ -1065,7 +1505,12 @@
     "latitude": "-38.00042000",
     "longitude": "-57.55620000",
     "county_id": 6372,
-    "wikiDataId": null
+    "wikiDataId": "Q52607",
+    "type": "locality",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 593337,
+    "population_year": null
   },
   {
     "id": 154391,
@@ -1074,13 +1519,18 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.77608108",
-    "longitude": "-58.83967590",
+    "latitude": "-34.76666667",
+    "longitude": "-58.83333333",
     "county_id": 6400,
-    "wikiDataId": null
+    "wikiDataId": "Q1935137",
+    "type": "locality",
+    "native": "Marcos Paz",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 154444,
+    "id": 168159,
     "name": "Médanos",
     "state_id": 3656,
     "state_code": "B",
@@ -1089,7 +1539,12 @@
     "latitude": "-38.81666667",
     "longitude": "-62.66666667",
     "county_id": 6453,
-    "wikiDataId": null
+    "wikiDataId": "Q2048082",
+    "type": "locality",
+    "native": "Médanos",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154392,
@@ -1098,13 +1553,18 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.65108490",
-    "longitude": "-59.42541504",
+    "latitude": "-34.65000000",
+    "longitude": "-59.43333333",
     "county_id": 6401,
-    "wikiDataId": null
+    "wikiDataId": "Q1027041",
+    "type": "locality",
+    "native": "Mercedes",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 154393,
+    "id": 168155,
     "name": "Merlo",
     "state_id": 3656,
     "state_code": "B",
@@ -1113,7 +1573,12 @@
     "latitude": "-34.66530000",
     "longitude": "-58.72750000",
     "county_id": 6402,
-    "wikiDataId": null
+    "wikiDataId": "Q1017594",
+    "type": "locality",
+    "native": "Merlo",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164421,
@@ -1125,7 +1590,12 @@
     "latitude": "-38.27161000",
     "longitude": "-57.83890000",
     "county_id": 6361,
-    "wikiDataId": null
+    "wikiDataId": "Q2152435",
+    "type": "locality",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 34380,
+    "population_year": null
   },
   {
     "id": 164401,
@@ -1137,7 +1607,12 @@
     "latitude": "-34.72960000",
     "longitude": "-58.35421000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3319094",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 85060,
+    "population_year": null
   },
   {
     "id": 154395,
@@ -1146,10 +1621,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.98323441",
-    "longitude": "-61.30081558",
+    "latitude": "-38.98390000",
+    "longitude": "-61.29810000",
     "county_id": 6404,
-    "wikiDataId": null
+    "wikiDataId": "Q2324275",
+    "type": "locality",
+    "native": "Monte Hermoso",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154396,
@@ -1158,10 +1638,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.64750290",
-    "longitude": "-58.78604889",
+    "latitude": "-34.65761944",
+    "longitude": "-58.78724167",
     "county_id": 6405,
-    "wikiDataId": null
+    "wikiDataId": "Q1496283",
+    "type": "locality",
+    "native": "Moreno",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154397,
@@ -1170,10 +1655,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.63464355",
-    "longitude": "-58.62742615",
+    "latitude": "-34.65000000",
+    "longitude": "-58.61666667",
     "county_id": 6406,
-    "wikiDataId": null
+    "wikiDataId": "Q967746",
+    "type": "locality",
+    "native": "Morón",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164431,
@@ -1185,7 +1675,12 @@
     "latitude": "-34.55622000",
     "longitude": "-58.70739000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q9293647",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 26844,
+    "population_year": null
   },
   {
     "id": 154398,
@@ -1194,10 +1689,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.00374985",
-    "longitude": "-59.27454376",
+    "latitude": "-35.00637902",
+    "longitude": "-59.27899689",
     "county_id": 6407,
-    "wikiDataId": null
+    "wikiDataId": "Q2065753",
+    "type": "locality",
+    "native": "Navarro",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154399,
@@ -1209,7 +1709,12 @@
     "latitude": "-38.17378930",
     "longitude": "-59.80770580",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2622293",
+    "type": "city",
+    "native": "Necochea",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 73557,
+    "population_year": null
   },
   {
     "id": 154401,
@@ -1218,10 +1723,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.89620590",
-    "longitude": "-60.31989670",
+    "latitude": "-36.90000000",
+    "longitude": "-60.33333333",
     "county_id": 6410,
-    "wikiDataId": null
+    "wikiDataId": "Q1004149",
+    "type": "locality",
+    "native": "Olavarría",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154403,
@@ -1230,10 +1740,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.81163406",
-    "longitude": "-61.89644241",
+    "latitude": "-35.80000000",
+    "longitude": "-61.90000000",
     "county_id": 6412,
-    "wikiDataId": null
+    "wikiDataId": "Q3319248",
+    "type": "locality",
+    "native": "Pehuajó",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154404,
@@ -1242,10 +1757,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.26609421",
-    "longitude": "-63.16425705",
+    "latitude": "-36.26666667",
+    "longitude": "-63.13333333",
     "county_id": 6413,
-    "wikiDataId": null
+    "wikiDataId": "Q7161540",
+    "type": "locality",
+    "native": "Pellegrini",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154405,
@@ -1254,10 +1774,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-33.89677429",
-    "longitude": "-60.56956482",
+    "latitude": "-33.88361111",
+    "longitude": "-60.56694444",
     "county_id": 6414,
-    "wikiDataId": null
+    "wikiDataId": "Q921239",
+    "type": "locality",
+    "native": "Pergamino",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164437,
@@ -1269,7 +1794,12 @@
     "latitude": "-37.60255000",
     "longitude": "-62.40836000",
     "county_id": 6427,
-    "wikiDataId": null
+    "wikiDataId": "Q533416",
+    "type": "locality",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154406,
@@ -1281,7 +1811,12 @@
     "latitude": "-36.21422440",
     "longitude": "-59.05999650",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2054697",
+    "type": "city",
+    "native": "póngase en fila",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 154407,
@@ -1290,10 +1825,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.46488190",
-    "longitude": "-58.91223144",
+    "latitude": "-34.45875000",
+    "longitude": "-58.91419444",
     "county_id": 6416,
-    "wikiDataId": null
+    "wikiDataId": "Q1786597",
+    "type": "locality",
+    "native": "Pilar",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154408,
@@ -1302,10 +1842,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.11458969",
-    "longitude": "-56.86851501",
+    "latitude": "-37.10000000",
+    "longitude": "-56.85000000",
     "county_id": 6417,
-    "wikiDataId": null
+    "wikiDataId": "Q517783",
+    "type": "locality",
+    "native": "Pinamar",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164422,
@@ -1317,7 +1862,12 @@
     "latitude": "-34.74947000",
     "longitude": "-58.70158000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2170773",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 33515,
+    "population_year": null
   },
   {
     "id": 154409,
@@ -1329,7 +1879,12 @@
     "latitude": "-34.94225680",
     "longitude": "-58.46566260",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2360669",
+    "type": "section",
+    "native": "Presidente Perón",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154410,
@@ -1338,10 +1893,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.54399490",
-    "longitude": "-62.76833725",
+    "latitude": "-37.54853056",
+    "longitude": "-62.77154167",
     "county_id": 6419,
-    "wikiDataId": null
+    "wikiDataId": "Q3068019",
+    "type": "locality",
+    "native": "Puan",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164405,
@@ -1353,7 +1913,12 @@
     "latitude": "-38.88050000",
     "longitude": "-62.07503000",
     "county_id": 6345,
-    "wikiDataId": null
+    "wikiDataId": "Q603592",
+    "type": "locality",
+    "native": "Punta Alta",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 64244,
+    "population_year": null
   },
   {
     "id": 154412,
@@ -1362,10 +1927,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.72469144",
-    "longitude": "-58.26134074",
+    "latitude": "-34.71666667",
+    "longitude": "-58.26666667",
     "county_id": 6421,
-    "wikiDataId": null
+    "wikiDataId": "Q828782",
+    "type": "locality",
+    "native": "Quilmes",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154413,
@@ -1374,10 +1944,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-33.48543549",
-    "longitude": "-60.00503159",
+    "latitude": "-33.48333333",
+    "longitude": "-60.00000000",
     "county_id": 6422,
-    "wikiDataId": null
+    "wikiDataId": "Q2227170",
+    "type": "locality",
+    "native": "Ramallo",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164455,
@@ -1389,7 +1964,12 @@
     "latitude": "-35.51601000",
     "longitude": "-58.31880000",
     "county_id": 6370,
-    "wikiDataId": null
+    "wikiDataId": "Q7291391",
+    "type": "locality",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154414,
@@ -1398,10 +1978,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.77701569",
-    "longitude": "-59.08996201",
+    "latitude": "-36.77438865",
+    "longitude": "-59.08820164",
     "county_id": 6423,
-    "wikiDataId": null
+    "wikiDataId": "Q2435172",
+    "type": "locality",
+    "native": "Rauch",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164402,
@@ -1413,7 +1998,12 @@
     "latitude": "-34.72589000",
     "longitude": "-58.39663000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2291654",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 81465,
+    "population_year": null
   },
   {
     "id": 154416,
@@ -1422,10 +2012,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.19835281",
-    "longitude": "-60.73389053",
+    "latitude": "-34.18333333",
+    "longitude": "-60.73333333",
     "county_id": 6425,
-    "wikiDataId": null
+    "wikiDataId": "Q2280901",
+    "type": "locality",
+    "native": "Rojas",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154417,
@@ -1434,10 +2029,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.39967425",
-    "longitude": "-59.32868548",
+    "latitude": "-35.41666667",
+    "longitude": "-59.31666667",
     "county_id": 6426,
-    "wikiDataId": null
+    "wikiDataId": "Q2149613",
+    "type": "locality",
+    "native": "Roque Pérez",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154419,
@@ -1446,10 +2046,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.63808823",
-    "longitude": "-59.77879333",
+    "latitude": "-35.63333333",
+    "longitude": "-59.76666667",
     "county_id": 6428,
-    "wikiDataId": null
+    "wikiDataId": "Q2249292",
+    "type": "locality",
+    "native": "Saladillo",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154420,
@@ -1458,10 +2063,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.75359726",
-    "longitude": "-62.96179199",
+    "latitude": "-36.75151000",
+    "longitude": "-62.95913000",
     "county_id": 6430,
-    "wikiDataId": null
+    "wikiDataId": "Q2710208",
+    "type": "locality",
+    "native": "Salliqueló",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154421,
@@ -1470,10 +2080,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.29890060",
-    "longitude": "-60.24642181",
+    "latitude": "-34.28333333",
+    "longitude": "-60.23333333",
     "county_id": 6429,
-    "wikiDataId": null
+    "wikiDataId": "Q1025531",
+    "type": "locality",
+    "native": "Salto",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154422,
@@ -1482,10 +2097,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.44646454",
-    "longitude": "-59.44311523",
+    "latitude": "-34.43333333",
+    "longitude": "-59.43333333",
     "county_id": 6431,
-    "wikiDataId": null
+    "wikiDataId": "Q4383470",
+    "type": "locality",
+    "native": "San Andrés de Giles",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154423,
@@ -1494,10 +2114,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.25044632",
-    "longitude": "-59.47258758",
+    "latitude": "-34.25000000",
+    "longitude": "-59.46666667",
     "county_id": 6432,
-    "wikiDataId": null
+    "wikiDataId": "Q2501423",
+    "type": "locality",
+    "native": "San Antonio de Areco",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164416,
@@ -1509,7 +2134,12 @@
     "latitude": "-34.66267000",
     "longitude": "-58.69819000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1017367",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 37745,
+    "population_year": null
   },
   {
     "id": 154325,
@@ -1521,7 +2151,12 @@
     "latitude": "-36.25000000",
     "longitude": "-61.10000000",
     "county_id": 6334,
-    "wikiDataId": null
+    "wikiDataId": "Q1884316",
+    "type": "locality",
+    "native": "San Carlos de Bolívar",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154424,
@@ -1530,10 +2165,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.34560394",
-    "longitude": "-59.61106873",
+    "latitude": "-38.34677000",
+    "longitude": "-59.60938000",
     "county_id": 6433,
-    "wikiDataId": null
+    "wikiDataId": "Q4448613",
+    "type": "locality",
+    "native": "San Cayetano",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154425,
@@ -1542,10 +2182,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.44762421",
-    "longitude": "-58.55633163",
+    "latitude": "-34.44068790",
+    "longitude": "-58.55748010",
     "county_id": 6434,
-    "wikiDataId": null
+    "wikiDataId": "Q2241864",
+    "type": "locality",
+    "native": "San Fernando",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154426,
@@ -1554,10 +2199,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.47210312",
-    "longitude": "-58.51338959",
+    "latitude": "-34.46666667",
+    "longitude": "-58.51666667",
     "county_id": 6435,
-    "wikiDataId": null
+    "wikiDataId": "Q2164117",
+    "type": "locality",
+    "native": "San Isidro",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164399,
@@ -1569,7 +2219,12 @@
     "latitude": "-34.68107000",
     "longitude": "-58.56379000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2466841",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 105274,
+    "population_year": null
   },
   {
     "id": 154427,
@@ -1578,10 +2233,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.54426575",
-    "longitude": "-58.74044037",
+    "latitude": "-34.54308445",
+    "longitude": "-58.71181653",
     "county_id": 6436,
-    "wikiDataId": null
+    "wikiDataId": "Q1967802",
+    "type": "locality",
+    "native": "San Miguel",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154394,
@@ -1590,10 +2250,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.43900299",
-    "longitude": "-58.80560303",
+    "latitude": "-35.44166667",
+    "longitude": "-58.80833333",
     "county_id": 6403,
-    "wikiDataId": null
+    "wikiDataId": "Q7414997",
+    "type": "locality",
+    "native": "San Miguel del Monte",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154428,
@@ -1602,10 +2267,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-33.34413528",
-    "longitude": "-60.22374344",
+    "latitude": "-33.33333333",
+    "longitude": "-60.21666667",
     "county_id": 6437,
-    "wikiDataId": null
+    "wikiDataId": "Q377965",
+    "type": "locality",
+    "native": "San Nicolás de Los Arroyos",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154429,
@@ -1614,10 +2284,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-33.68278503",
-    "longitude": "-59.67208481",
+    "latitude": "-33.67944444",
+    "longitude": "-59.66694444",
     "county_id": 6438,
-    "wikiDataId": null
+    "wikiDataId": "Q54119",
+    "type": "locality",
+    "native": "San Pedro",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154430,
@@ -1626,10 +2301,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.02632141",
-    "longitude": "-58.42038727",
+    "latitude": "-35.02485440",
+    "longitude": "-58.42411380",
     "county_id": 6439,
-    "wikiDataId": null
+    "wikiDataId": "Q2763109",
+    "type": "locality",
+    "native": "San Vicente",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164438,
@@ -1641,7 +2321,12 @@
     "latitude": "-36.54059000",
     "longitude": "-56.69294000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2223279",
+    "type": "city",
+    "native": "Santa Teresita",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164417,
@@ -1653,7 +2338,12 @@
     "latitude": "-34.60306000",
     "longitude": "-58.54074000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2606380",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 37267,
+    "population_year": null
   },
   {
     "id": 164407,
@@ -1665,7 +2355,12 @@
     "latitude": "-34.68161000",
     "longitude": "-58.34639000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2488555",
+    "type": "city",
+    "native": "Sarandí",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 60752,
+    "population_year": null
   },
   {
     "id": 154431,
@@ -1674,10 +2369,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.77561951",
-    "longitude": "-59.68839264",
+    "latitude": "-34.76666667",
+    "longitude": "-59.68333333",
     "county_id": 6440,
-    "wikiDataId": null
+    "wikiDataId": "Q2201705",
+    "type": "locality",
+    "native": "Suipacha",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154432,
@@ -1686,10 +2386,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-37.31096268",
-    "longitude": "-59.13938522",
+    "latitude": "-37.31666667",
+    "longitude": "-59.13333333",
     "county_id": 6441,
-    "wikiDataId": null
+    "wikiDataId": "Q1000336",
+    "type": "locality",
+    "native": "Tandil",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154433,
@@ -1698,10 +2403,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.35501862",
-    "longitude": "-60.02519607",
+    "latitude": "-36.35000000",
+    "longitude": "-60.01666667",
     "county_id": 6442,
-    "wikiDataId": null
+    "wikiDataId": "Q1846007",
+    "type": "locality",
+    "native": "Tapalqué",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154434,
@@ -1710,10 +2420,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.41580963",
-    "longitude": "-58.59275436",
+    "latitude": "-34.41666667",
+    "longitude": "-58.58333333",
     "county_id": 6443,
-    "wikiDataId": null
+    "wikiDataId": "Q54106",
+    "type": "locality",
+    "native": "Tigre",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154436,
@@ -1722,10 +2437,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.10104370",
-    "longitude": "-62.22893906",
+    "latitude": "-38.10000000",
+    "longitude": "-62.23333333",
     "county_id": 6445,
-    "wikiDataId": null
+    "wikiDataId": "Q992829",
+    "type": "locality",
+    "native": "Tornquist",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164411,
@@ -1737,7 +2457,12 @@
     "latitude": "-34.47513000",
     "longitude": "-58.75367000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3721220",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 41390,
+    "population_year": null
   },
   {
     "id": 154437,
@@ -1746,10 +2471,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-35.97356033",
-    "longitude": "-62.73426056",
+    "latitude": "-35.98333333",
+    "longitude": "-62.73333333",
     "county_id": 6446,
-    "wikiDataId": null
+    "wikiDataId": "Q264679",
+    "type": "locality",
+    "native": "Trenque Lauquen",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154438,
@@ -1758,10 +2488,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-38.38358688",
-    "longitude": "-60.27342987",
+    "latitude": "-38.37717858",
+    "longitude": "-60.27555889",
     "county_id": 6447,
-    "wikiDataId": null
+    "wikiDataId": "Q2077013",
+    "type": "locality",
+    "native": "Tres Arroyos",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154439,
@@ -1773,7 +2508,12 @@
     "latitude": "-34.59999320",
     "longitude": "-58.66706300",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2054829",
+    "type": "city",
+    "native": "Tres de Febrero",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154440,
@@ -1782,10 +2522,15 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-36.46235657",
-    "longitude": "-62.85899353",
+    "latitude": "-36.45000000",
+    "longitude": "-62.85000000",
     "county_id": 6449,
-    "wikiDataId": null
+    "wikiDataId": "Q2319885",
+    "type": "locality",
+    "native": "Tres Lomas",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164428,
@@ -1797,7 +2542,12 @@
     "latitude": "-34.88982000",
     "longitude": "-58.56761000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7844233",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 27746,
+    "population_year": null
   },
   {
     "id": 164412,
@@ -1809,7 +2559,12 @@
     "latitude": "-34.67137000",
     "longitude": "-58.40904000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2129610",
+    "type": "city",
+    "native": "Valentín Alsina",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 41155,
+    "population_year": null
   },
   {
     "id": 164441,
@@ -1821,7 +2576,12 @@
     "latitude": "-34.49791000",
     "longitude": "-61.54231000",
     "county_id": 6389,
-    "wikiDataId": null
+    "wikiDataId": "Q2333239",
+    "type": "locality",
+    "native": "Vedia",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154441,
@@ -1833,7 +2593,12 @@
     "latitude": "-35.55138480",
     "longitude": "-60.84646650",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2109979",
+    "type": "city",
+    "native": "Veinticinco de Mayo",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 30891,
+    "population_year": null
   },
   {
     "id": 164463,
@@ -1845,7 +2610,12 @@
     "latitude": "-35.38732000",
     "longitude": "-57.33839000",
     "county_id": 6420,
-    "wikiDataId": null
+    "wikiDataId": "Q2397551",
+    "type": "locality",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154442,
@@ -1857,7 +2627,12 @@
     "latitude": "-34.52931400",
     "longitude": "-58.58906610",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2099330",
+    "type": "city",
+    "native": "Vicente López",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 24078,
+    "population_year": null
   },
   {
     "id": 164409,
@@ -1869,7 +2644,12 @@
     "latitude": "-34.51080000",
     "longitude": "-58.68059000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3724044",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 43405,
+    "population_year": null
   },
   {
     "id": 154443,
@@ -1881,7 +2661,12 @@
     "latitude": "-37.25563400",
     "longitude": "-56.96809220",
     "county_id": 6452,
-    "wikiDataId": null
+    "wikiDataId": "Q991574",
+    "type": "locality",
+    "native": "Villa Gesell",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164435,
@@ -1893,7 +2678,12 @@
     "latitude": "-34.63364000",
     "longitude": "-58.57047000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q9093903",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": 17481,
+    "population_year": null
   },
   {
     "id": 154445,
@@ -1902,9 +2692,14 @@
     "state_code": "B",
     "country_id": 11,
     "country_code": "AR",
-    "latitude": "-34.09710693",
-    "longitude": "-59.02372360",
+    "latitude": "-34.08333333",
+    "longitude": "-59.03333333",
     "county_id": 6454,
-    "wikiDataId": null
+    "wikiDataId": "Q246956",
+    "type": "locality",
+    "native": "Zárate",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "population": null,
+    "population_year": null
   }
 ]

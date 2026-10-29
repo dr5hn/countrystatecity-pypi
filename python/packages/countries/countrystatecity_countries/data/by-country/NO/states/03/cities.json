@@ -9,7 +9,12 @@
     "latitude": "59.91273000",
     "longitude": "10.74609000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q585",
+    "type": "city",
+    "native": "Oslo",
+    "timezone": "Europe/Oslo",
+    "population": 1082575,
+    "population_year": null
   },
   {
     "id": 79502,
@@ -21,6 +26,11 @@
     "latitude": "59.92105000",
     "longitude": "10.68017000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Sjølyststranda",
+    "timezone": "Europe/Oslo",
+    "population": 1500,
+    "population_year": null
   }
 ]

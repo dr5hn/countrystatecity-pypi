@@ -8,8 +8,13 @@
     "country_code": "ZA",
     "latitude": "-26.26786000",
     "longitude": "28.12225000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13868,
+    "wikiDataId": "Q1637702",
+    "type": "locality",
+    "native": "Alberton",
+    "timezone": "Africa/Johannesburg",
+    "population": 121536,
+    "population_year": null
   },
   {
     "id": 131032,
@@ -20,8 +25,13 @@
     "country_code": "ZA",
     "latitude": "-26.18848000",
     "longitude": "28.32078000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13868,
+    "wikiDataId": "Q818106",
+    "type": "locality",
+    "native": "Benoni",
+    "timezone": "Africa/Johannesburg",
+    "population": 605344,
+    "population_year": null
   },
   {
     "id": 131042,
@@ -32,8 +42,13 @@
     "country_code": "ZA",
     "latitude": "-26.21197000",
     "longitude": "28.25958000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13868,
+    "wikiDataId": "Q891229",
+    "type": "locality",
+    "native": "Boksburg",
+    "timezone": "Africa/Johannesburg",
+    "population": 445168,
+    "population_year": null
   },
   {
     "id": 131045,
@@ -44,8 +59,13 @@
     "country_code": "ZA",
     "latitude": "-26.23656000",
     "longitude": "28.36938000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13868,
+    "wikiDataId": "Q897489",
+    "type": "locality",
+    "native": "Brakpan",
+    "timezone": "Africa/Johannesburg",
+    "population": 305692,
+    "population_year": null
   },
   {
     "id": 131051,
@@ -56,8 +76,13 @@
     "country_code": "ZA",
     "latitude": "-25.81015000",
     "longitude": "28.74248000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13870,
+    "wikiDataId": "Q927671",
+    "type": "locality",
+    "native": "Bronkhorstspruit",
+    "timezone": "Africa/Johannesburg",
+    "population": 41209,
+    "population_year": null
   },
   {
     "id": 131062,
@@ -68,8 +93,13 @@
     "country_code": "ZA",
     "latitude": "-26.36094000",
     "longitude": "27.39767000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13867,
+    "wikiDataId": "Q536114",
+    "type": "locality",
+    "native": "Carletonville",
+    "timezone": "Africa/Johannesburg",
+    "population": 182304,
+    "population_year": null
   },
   {
     "id": 131066,
@@ -80,8 +110,13 @@
     "country_code": "ZA",
     "latitude": "-25.85891000",
     "longitude": "28.18577000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13870,
+    "wikiDataId": "Q1054450",
+    "type": "locality",
+    "native": "Centurion",
+    "timezone": "Africa/Johannesburg",
+    "population": 236580,
+    "population_year": null
   },
   {
     "id": 131071,
@@ -93,7 +128,12 @@
     "latitude": "-26.17673000",
     "longitude": "27.96353000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2346838",
+    "type": "municipality",
+    "native": "City of Johannesburg Metropolitan Municipality",
+    "timezone": "Africa/Johannesburg",
+    "population": 4949347,
+    "population_year": null
   },
   {
     "id": 131072,
@@ -105,7 +145,12 @@
     "latitude": "-25.65985000",
     "longitude": "28.44343000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1094207",
+    "type": "municipality",
+    "native": "City of Tshwane Metropolitan Municipality",
+    "timezone": "Africa/Johannesburg",
+    "population": 3275152,
+    "population_year": null
   },
   {
     "id": 131079,
@@ -116,8 +161,13 @@
     "country_code": "ZA",
     "latitude": "-25.67088000",
     "longitude": "28.52364000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13870,
+    "wikiDataId": "Q2450605",
+    "type": "locality",
+    "native": "Cullinan",
+    "timezone": "Africa/Johannesburg",
+    "population": 34087,
+    "population_year": null
   },
   {
     "id": 131085,
@@ -128,8 +178,13 @@
     "country_code": "ZA",
     "latitude": "-25.93312000",
     "longitude": "28.01213000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13869,
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Diepsloot",
+    "timezone": "Africa/Johannesburg",
+    "population": 350000,
+    "population_year": null
   },
   {
     "id": 131094,
@@ -141,7 +196,12 @@
     "latitude": "-26.12965000",
     "longitude": "28.15541000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Eastleigh",
+    "timezone": "Africa/Johannesburg",
+    "population": 6988,
+    "population_year": null
   },
   {
     "id": 131096,
@@ -153,7 +213,12 @@
     "latitude": "-26.13230000",
     "longitude": "28.16859000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Eden Glen",
+    "timezone": "Africa/Johannesburg",
+    "population": 7345,
+    "population_year": null
   },
   {
     "id": 131097,
@@ -165,7 +230,12 @@
     "latitude": "-26.12593000",
     "longitude": "28.16500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Eden Glen Ext 60",
+    "timezone": "Africa/Johannesburg",
+    "population": 5494,
+    "population_year": null
   },
   {
     "id": 131098,
@@ -176,8 +246,13 @@
     "country_code": "ZA",
     "latitude": "-26.14095000",
     "longitude": "28.15247000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13868,
+    "wikiDataId": "Q3643050",
+    "type": "locality",
+    "native": "Edenvale",
+    "timezone": "Africa/Johannesburg",
+    "population": 49292,
+    "population_year": null
   },
   {
     "id": 131100,
@@ -189,7 +264,12 @@
     "latitude": "-25.69619000",
     "longitude": "28.74918000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31913215",
+    "type": "city",
+    "native": "Ekangala",
+    "timezone": "Africa/Johannesburg",
+    "population": 58099,
+    "population_year": null
   },
   {
     "id": 131101,
@@ -201,7 +281,12 @@
     "latitude": "-26.19890000",
     "longitude": "28.31262000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q326891",
+    "type": "municipality",
+    "native": "Ekurhuleni Metropolitan municipality",
+    "timezone": "Africa/Johannesburg",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 165868,
@@ -212,8 +297,13 @@
     "country_code": "ZA",
     "latitude": "-26.12516000",
     "longitude": "28.45472000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13868,
+    "wikiDataId": "Q5405099",
+    "type": "locality",
+    "native": null,
+    "timezone": "Africa/Johannesburg",
+    "population": 151866,
+    "population_year": null
   },
   {
     "id": 131108,
@@ -224,8 +314,13 @@
     "country_code": "ZA",
     "latitude": "-26.48862000",
     "longitude": "27.49387000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13867,
+    "wikiDataId": "Q2370739",
+    "type": "locality",
+    "native": "Fochville",
+    "timezone": "Africa/Johannesburg",
+    "population": 62416,
+    "population_year": null
   },
   {
     "id": 131114,
@@ -236,8 +331,13 @@
     "country_code": "ZA",
     "latitude": "-25.61692000",
     "longitude": "27.99471000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13870,
+    "wikiDataId": "Q2468130",
+    "type": "locality",
+    "native": "Ga-Rankuwa",
+    "timezone": "Africa/Johannesburg",
+    "population": 90945,
+    "population_year": null
   },
   {
     "id": 165866,
@@ -248,8 +348,13 @@
     "country_code": "ZA",
     "latitude": "-26.21500000",
     "longitude": "28.16400000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13868,
+    "wikiDataId": "Q993721",
+    "type": "locality",
+    "native": null,
+    "timezone": "Africa/Johannesburg",
+    "population": 255863,
+    "population_year": null
   },
   {
     "id": 131125,
@@ -260,8 +365,13 @@
     "country_code": "ZA",
     "latitude": "-26.50476000",
     "longitude": "28.35921000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13866,
+    "wikiDataId": "Q1594009",
+    "type": "locality",
+    "native": "Heidelberg",
+    "timezone": "Africa/Johannesburg",
+    "population": 85858,
+    "population_year": null
   },
   {
     "id": 131136,
@@ -272,8 +382,13 @@
     "country_code": "ZA",
     "latitude": "-26.20227000",
     "longitude": "28.04363000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13869,
+    "wikiDataId": "Q34647",
+    "type": "locality",
+    "native": "Johannesburg",
+    "timezone": "Africa/Johannesburg",
+    "population": 9418183,
+    "population_year": null
   },
   {
     "id": 131151,
@@ -284,8 +399,13 @@
     "country_code": "ZA",
     "latitude": "-26.08577000",
     "longitude": "27.77515000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13867,
+    "wikiDataId": "Q644506",
+    "type": "locality",
+    "native": "Krugersdorp",
+    "timezone": "Africa/Johannesburg",
+    "population": 378821,
+    "population_year": null
   },
   {
     "id": 131166,
@@ -297,7 +417,12 @@
     "latitude": "-25.49768000",
     "longitude": "28.10065000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q747507",
+    "type": "city",
+    "native": "Mabopane",
+    "timezone": "Africa/Johannesburg",
+    "population": 110972,
+    "population_year": null
   },
   {
     "id": 131176,
@@ -309,7 +434,12 @@
     "latitude": "-25.98953000",
     "longitude": "28.12843000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q639518",
+    "type": "city",
+    "native": "Midrand",
+    "timezone": "Africa/Johannesburg",
+    "population": 87387,
+    "population_year": null
   },
   {
     "id": 131177,
@@ -321,7 +451,12 @@
     "latitude": "-25.91849000",
     "longitude": "28.19881000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Midstream",
+    "timezone": "Africa/Johannesburg",
+    "population": 25000,
+    "population_year": null
   },
   {
     "id": 131179,
@@ -333,7 +468,12 @@
     "latitude": "-26.08909000",
     "longitude": "28.16534000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6888071",
+    "type": "city",
+    "native": "Modderfontein",
+    "timezone": "Africa/Johannesburg",
+    "population": 3000,
+    "population_year": null
   },
   {
     "id": 131193,
@@ -345,7 +485,12 @@
     "latitude": "-26.03673000",
     "longitude": "27.83798000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Muldersriseloop",
+    "timezone": "Africa/Johannesburg",
+    "population": 1500,
+    "population_year": null
   },
   {
     "id": 131202,
@@ -356,8 +501,13 @@
     "country_code": "ZA",
     "latitude": "-26.43138000",
     "longitude": "28.47713000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13868,
+    "wikiDataId": "Q1989529",
+    "type": "locality",
+    "native": "Nigel",
+    "timezone": "Africa/Johannesburg",
+    "population": 140644,
+    "population_year": null
   },
   {
     "id": 131207,
@@ -368,8 +518,13 @@
     "country_code": "ZA",
     "latitude": "-26.48333000",
     "longitude": "27.86667000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13869,
+    "wikiDataId": "Q7099614",
+    "type": "locality",
+    "native": "Orange Farm",
+    "timezone": "Africa/Johannesburg",
+    "population": 10000,
+    "population_year": null
   },
   {
     "id": 131230,
@@ -380,8 +535,13 @@
     "country_code": "ZA",
     "latitude": "-25.74486000",
     "longitude": "28.18783000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13870,
+    "wikiDataId": "Q3926",
+    "type": "locality",
+    "native": "Pretoria",
+    "timezone": "Africa/Johannesburg",
+    "population": 2112693,
+    "population_year": null
   },
   {
     "id": 131235,
@@ -392,8 +552,13 @@
     "country_code": "ZA",
     "latitude": "-26.09410000",
     "longitude": "28.00123000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13869,
+    "wikiDataId": "Q2296366",
+    "type": "locality",
+    "native": "Randburg",
+    "timezone": "Africa/Johannesburg",
+    "population": 337053,
+    "population_year": null
   },
   {
     "id": 131236,
@@ -405,7 +570,12 @@
     "latitude": "-26.18440000",
     "longitude": "27.70203000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q744437",
+    "type": "adm2",
+    "native": "Randfontein",
+    "timezone": "Africa/Johannesburg",
+    "population": 133654,
+    "population_year": null
   },
   {
     "id": 131245,
@@ -416,8 +586,13 @@
     "country_code": "ZA",
     "latitude": "-26.16250000",
     "longitude": "27.87250000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13869,
+    "wikiDataId": "Q2166182",
+    "type": "locality",
+    "native": "Roodepoort",
+    "timezone": "Africa/Johannesburg",
+    "population": 326416,
+    "population_year": null
   },
   {
     "id": 131253,
@@ -429,7 +604,12 @@
     "latitude": "-26.56686000",
     "longitude": "28.18277000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2038939",
+    "type": "municipality",
+    "native": "Sedibeng District Municipality",
+    "timezone": "Africa/Johannesburg",
+    "population": 957528,
+    "population_year": null
   },
   {
     "id": 131260,
@@ -440,8 +620,13 @@
     "country_code": "ZA",
     "latitude": "-26.26781000",
     "longitude": "27.85849000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13869,
+    "wikiDataId": "Q217426",
+    "type": "locality",
+    "native": "Soweto",
+    "timezone": "Africa/Johannesburg",
+    "population": 1695047,
+    "population_year": null
   },
   {
     "id": 131262,
@@ -452,8 +637,13 @@
     "country_code": "ZA",
     "latitude": "-26.25000000",
     "longitude": "28.40000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13868,
+    "wikiDataId": "Q761408",
+    "type": "locality",
+    "native": "Springs",
+    "timezone": "Africa/Johannesburg",
+    "population": 186394,
+    "population_year": null
   },
   {
     "id": 131270,
@@ -464,8 +654,13 @@
     "country_code": "ZA",
     "latitude": "-25.99636000",
     "longitude": "28.22680000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13868,
+    "wikiDataId": "Q1580709",
+    "type": "locality",
+    "native": "Thembisa",
+    "timezone": "Africa/Johannesburg",
+    "population": 511655,
+    "population_year": null
   },
   {
     "id": 131284,
@@ -476,8 +671,13 @@
     "country_code": "ZA",
     "latitude": "-26.71171000",
     "longitude": "27.83795000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13866,
+    "wikiDataId": "Q989955",
+    "type": "locality",
+    "native": "Vanderbijlpark",
+    "timezone": "Africa/Johannesburg",
+    "population": 246754,
+    "population_year": null
   },
   {
     "id": 131286,
@@ -488,8 +688,13 @@
     "country_code": "ZA",
     "latitude": "-26.67313000",
     "longitude": "27.92615000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13866,
+    "wikiDataId": "Q503056",
+    "type": "locality",
+    "native": "Vereeniging",
+    "timezone": "Africa/Johannesburg",
+    "population": 474681,
+    "population_year": null
   },
   {
     "id": 131305,
@@ -501,7 +706,12 @@
     "latitude": "-26.24565000",
     "longitude": "27.55538000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1789890",
+    "type": "municipality",
+    "native": "West Rand District Municipality",
+    "timezone": "Africa/Johannesburg",
+    "population": 838594,
+    "population_year": null
   },
   {
     "id": 131306,
@@ -513,6 +723,11 @@
     "latitude": "-26.31905000",
     "longitude": "27.64860000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Westonaria",
+    "timezone": "Africa/Johannesburg",
+    "population": 156831,
+    "population_year": null
   }
 ]

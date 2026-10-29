@@ -9,7 +9,12 @@
     "latitude": "-2.65000000",
     "longitude": "10.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1492877",
+    "type": "city",
+    "native": "Gamba",
+    "timezone": "Africa/Libreville",
+    "population": 10454,
+    "population_year": null
   },
   {
     "id": 48152,
@@ -21,7 +26,12 @@
     "latitude": "-1.57464000",
     "longitude": "9.26184000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2717524",
+    "type": "city",
+    "native": "Omboué",
+    "timezone": "Africa/Libreville",
+    "population": 2362,
+    "population_year": null
   },
   {
     "id": 48154,
@@ -33,6 +43,11 @@
     "latitude": "-0.71933000",
     "longitude": "8.78151000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q501715",
+    "type": "adm1",
+    "native": "Port-Gentil",
+    "timezone": "Africa/Libreville",
+    "population": 136462,
+    "population_year": null
   }
 ]

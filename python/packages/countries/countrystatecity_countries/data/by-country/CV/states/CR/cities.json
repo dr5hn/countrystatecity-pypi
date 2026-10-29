@@ -9,7 +9,12 @@
     "latitude": "15.13750000",
     "longitude": "-23.53083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q490579",
+    "type": "adm1",
+    "native": "Pedra Badejo",
+    "timezone": "Atlantic/Cape_Verde",
+    "population": 9530,
+    "population_year": null
   },
   {
     "id": 22004,
@@ -21,6 +26,11 @@
     "latitude": "15.13333000",
     "longitude": "-23.56667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Santa Cruz",
+    "timezone": "Atlantic/Cape_Verde",
+    "population": 26585,
+    "population_year": null
   }
 ]

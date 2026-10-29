@@ -9,7 +9,12 @@
     "latitude": "48.72130000",
     "longitude": "18.25754000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q549849",
+    "type": "adm2",
+    "native": "Bánovce nad Bebravou",
+    "timezone": "Europe/Bratislava",
+    "population": 16103,
+    "population_year": null
   },
   {
     "id": 104373,
@@ -20,8 +25,13 @@
     "country_code": "SK",
     "latitude": "48.78511000",
     "longitude": "18.58640000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13685,
+    "wikiDataId": "Q788753",
+    "type": "city",
+    "native": "Bojnice",
+    "timezone": "Europe/Bratislava",
+    "population": 5073,
+    "population_year": null
   },
   {
     "id": 104377,
@@ -32,8 +42,13 @@
     "country_code": "SK",
     "latitude": "48.66349000",
     "longitude": "17.53905000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13681,
+    "wikiDataId": "Q135818",
+    "type": "city",
+    "native": "Brezová pod Bradlom",
+    "timezone": "Europe/Bratislava",
+    "population": 4543,
+    "population_year": null
   },
   {
     "id": 104586,
@@ -45,7 +60,12 @@
     "latitude": "48.71226000",
     "longitude": "17.78704000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q337440",
+    "type": "city",
+    "native": "Čachtice",
+    "timezone": "Europe/Bratislava",
+    "population": 3605,
+    "population_year": null
   },
   {
     "id": 104384,
@@ -56,8 +76,13 @@
     "country_code": "SK",
     "latitude": "48.95981000",
     "longitude": "18.16634000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13680,
+    "wikiDataId": "Q481528",
+    "type": "city",
+    "native": "Dubnica nad Váhom",
+    "timezone": "Europe/Bratislava",
+    "population": 21732,
+    "population_year": null
   },
   {
     "id": 104394,
@@ -69,7 +94,12 @@
     "latitude": "48.72760000",
     "longitude": "18.76012000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q842011",
+    "type": "adm3",
+    "native": "Handlová",
+    "timezone": "Europe/Bratislava",
+    "population": 15457,
+    "population_year": null
   },
   {
     "id": 104402,
@@ -81,7 +111,12 @@
     "latitude": "48.99769000",
     "longitude": "18.23530000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q481564",
+    "type": "adm2",
+    "native": "Ilava",
+    "timezone": "Europe/Bratislava",
+    "population": 5522,
+    "population_year": null
   },
   {
     "id": 104419,
@@ -92,8 +127,13 @@
     "country_code": "SK",
     "latitude": "48.69138000",
     "longitude": "18.59944000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13685,
+    "wikiDataId": "Q1070300",
+    "type": "municipality",
+    "native": "Lehota pod Vtáčnikom",
+    "timezone": "Europe/Bratislava",
+    "population": 3751,
+    "population_year": null
   },
   {
     "id": 104436,
@@ -104,8 +144,13 @@
     "country_code": "SK",
     "latitude": "48.75876000",
     "longitude": "17.56866000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13681,
+    "wikiDataId": "Q837460",
+    "type": "city",
+    "native": "Myjava",
+    "timezone": "Europe/Bratislava",
+    "population": 10453,
+    "population_year": null
   },
   {
     "id": 104437,
@@ -117,7 +162,12 @@
     "latitude": "48.96702000",
     "longitude": "18.11892000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q389942",
+    "type": "adm3",
+    "native": "Nemšová",
+    "timezone": "Europe/Bratislava",
+    "population": 6172,
+    "population_year": null
   },
   {
     "id": 104441,
@@ -128,8 +178,13 @@
     "country_code": "SK",
     "latitude": "48.93479000",
     "longitude": "18.14632000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13680,
+    "wikiDataId": "Q249935",
+    "type": "city",
+    "native": "Nová Dubnica",
+    "timezone": "Europe/Bratislava",
+    "population": 10272,
+    "population_year": null
   },
   {
     "id": 104443,
@@ -141,7 +196,12 @@
     "latitude": "48.71106000",
     "longitude": "18.53389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q909301",
+    "type": "adm3",
+    "native": "Nováky",
+    "timezone": "Europe/Bratislava",
+    "population": 4093,
+    "population_year": null
   },
   {
     "id": 104444,
@@ -152,116 +212,13 @@
     "country_code": "SK",
     "latitude": "48.75763000",
     "longitude": "17.83090000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104457,
-    "name": "Okres Bánovce nad Bebravou",
-    "state_id": 4358,
-    "state_code": "TC",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.71908000",
-    "longitude": "18.25773000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104465,
-    "name": "Okres Ilava",
-    "state_id": 4358,
-    "state_code": "TC",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.99641000",
-    "longitude": "18.23374000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104479,
-    "name": "Okres Myjava",
-    "state_id": 4358,
-    "state_code": "TC",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.75000000",
-    "longitude": "17.58333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104482,
-    "name": "Okres Nové Mesto nad Váhom",
-    "state_id": 4358,
-    "state_code": "TC",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.75466000",
-    "longitude": "17.83506000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104484,
-    "name": "Okres Partizánske",
-    "state_id": 4358,
-    "state_code": "TC",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.62613000",
-    "longitude": "18.37957000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104489,
-    "name": "Okres Považská Bystrica",
-    "state_id": 4358,
-    "state_code": "TC",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "49.11667000",
-    "longitude": "18.45000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104491,
-    "name": "Okres Prievidza",
-    "state_id": 4358,
-    "state_code": "TC",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.76667000",
-    "longitude": "18.63333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104492,
-    "name": "Okres Púchov",
-    "state_id": 4358,
-    "state_code": "TC",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "49.12406000",
-    "longitude": "18.32477000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104508,
-    "name": "Okres Trenčín",
-    "state_id": 4358,
-    "state_code": "TC",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.89520000",
-    "longitude": "18.04264000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13682,
+    "wikiDataId": "Q376987",
+    "type": "city",
+    "native": "Nové Mesto nad Váhom",
+    "timezone": "Europe/Bratislava",
+    "population": 19257,
+    "population_year": null
   },
   {
     "id": 104523,
@@ -273,7 +230,12 @@
     "latitude": "48.62861000",
     "longitude": "18.38455000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q754768",
+    "type": "adm2",
+    "native": "Partizánske",
+    "timezone": "Europe/Bratislava",
+    "population": 20338,
+    "population_year": null
   },
   {
     "id": 104529,
@@ -285,7 +247,12 @@
     "latitude": "49.12153000",
     "longitude": "18.42169000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q319787",
+    "type": "adm2",
+    "native": "Považská Bystrica",
+    "timezone": "Europe/Bratislava",
+    "population": 36961,
+    "population_year": null
   },
   {
     "id": 104532,
@@ -297,7 +264,12 @@
     "latitude": "48.77446000",
     "longitude": "18.62750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q208750",
+    "type": "adm2",
+    "native": "Prievidza",
+    "timezone": "Europe/Bratislava",
+    "population": 42429,
+    "population_year": null
   },
   {
     "id": 104533,
@@ -309,7 +281,12 @@
     "latitude": "49.12494000",
     "longitude": "18.32597000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q258481",
+    "type": "adm2",
+    "native": "Púchov",
+    "timezone": "Europe/Bratislava",
+    "population": 16781,
+    "population_year": null
   },
   {
     "id": 104551,
@@ -320,8 +297,13 @@
     "country_code": "SK",
     "latitude": "48.77721000",
     "longitude": "17.69433000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13682,
+    "wikiDataId": "Q512771",
+    "type": "city",
+    "native": "Stará Turá",
+    "timezone": "Europe/Bratislava",
+    "population": 8259,
+    "population_year": null
   },
   {
     "id": 104566,
@@ -332,8 +314,13 @@
     "country_code": "SK",
     "latitude": "48.91063000",
     "longitude": "18.16691000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13687,
+    "wikiDataId": "Q532555",
+    "type": "city",
+    "native": "Trenčianske Teplice",
+    "timezone": "Europe/Bratislava",
+    "population": 3909,
+    "population_year": null
   },
   {
     "id": 104567,
@@ -345,6 +332,11 @@
     "latitude": "48.89452000",
     "longitude": "18.04436000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q145002",
+    "type": "adm1",
+    "native": "Trenčín",
+    "timezone": "Europe/Bratislava",
+    "population": 54130,
+    "population_year": null
   }
 ]

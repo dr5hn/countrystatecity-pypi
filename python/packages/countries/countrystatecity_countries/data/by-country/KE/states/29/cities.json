@@ -9,7 +9,12 @@
     "latitude": "-0.68553000",
     "longitude": "36.96463000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kangema",
+    "timezone": "Africa/Nairobi",
+    "population": 6424,
+    "population_year": null
   },
   {
     "id": 64798,
@@ -21,7 +26,12 @@
     "latitude": "-0.70000000",
     "longitude": "37.18333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6373732",
+    "type": "city",
+    "native": "Karuri",
+    "timezone": "Africa/Nairobi",
+    "population": 194342,
+    "population_year": null
   },
   {
     "id": 64830,
@@ -33,7 +43,12 @@
     "latitude": "-0.79602000",
     "longitude": "37.13292000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1892268",
+    "type": "city",
+    "native": "Maragua",
+    "timezone": "Africa/Nairobi",
+    "population": 8597,
+    "population_year": null
   },
   {
     "id": 64843,
@@ -45,6 +60,11 @@
     "latitude": "-0.72104000",
     "longitude": "37.15259000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q974323",
+    "type": "adm1",
+    "native": "Murang’a",
+    "timezone": "Africa/Nairobi",
+    "population": 43314,
+    "population_year": null
   }
 ]

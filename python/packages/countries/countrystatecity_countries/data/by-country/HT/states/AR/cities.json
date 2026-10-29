@@ -9,7 +9,12 @@
     "latitude": "19.63382000",
     "longitude": "-73.05530000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Anse Rouge",
+    "timezone": "America/Port-au-Prince",
+    "population": 4437,
+    "population_year": null
   },
   {
     "id": 55064,
@@ -21,7 +26,12 @@
     "latitude": "19.00000000",
     "longitude": "-72.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Arrondissement de Saint-Marc",
+    "timezone": "America/Port-au-Prince",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 55094,
@@ -33,7 +43,12 @@
     "latitude": "18.99345000",
     "longitude": "-72.39058000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Désarmes",
+    "timezone": "America/Port-au-Prince",
+    "population": 15594,
+    "population_year": null
   },
   {
     "id": 55091,
@@ -45,7 +60,12 @@
     "latitude": "19.26177000",
     "longitude": "-72.51611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Dessine",
+    "timezone": "America/Port-au-Prince",
+    "population": 12288,
+    "population_year": null
   },
   {
     "id": 55095,
@@ -57,7 +77,12 @@
     "latitude": "19.48342000",
     "longitude": "-72.48537000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2637933",
+    "type": "city",
+    "native": "Ennery",
+    "timezone": "America/Port-au-Prince",
+    "population": 1511,
+    "population_year": null
   },
   {
     "id": 55102,
@@ -69,7 +94,12 @@
     "latitude": "19.44755000",
     "longitude": "-72.68928000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q852550",
+    "type": "adm1",
+    "native": "Gonaïves",
+    "timezone": "America/Port-au-Prince",
+    "population": 84961,
+    "population_year": null
   },
   {
     "id": 55104,
@@ -81,7 +111,12 @@
     "latitude": "19.26513000",
     "longitude": "-72.76897000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2637925",
+    "type": "city",
+    "native": "Grande saline",
+    "timezone": "America/Port-au-Prince",
+    "population": 1787,
+    "population_year": null
   },
   {
     "id": 55107,
@@ -93,7 +128,12 @@
     "latitude": "19.67080000",
     "longitude": "-72.67808000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Gros",
+    "timezone": "America/Port-au-Prince",
+    "population": 7294,
+    "population_year": null
   },
   {
     "id": 55126,
@@ -105,7 +145,12 @@
     "latitude": "19.51736000",
     "longitude": "-72.36133000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q687275",
+    "type": "city",
+    "native": "Marmelade",
+    "timezone": "America/Port-au-Prince",
+    "population": 2184,
+    "population_year": null
   },
   {
     "id": 55155,
@@ -117,7 +162,12 @@
     "latitude": "19.10819000",
     "longitude": "-72.69379000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Saint-Marc",
+    "timezone": "America/Port-au-Prince",
+    "population": 266642,
+    "population_year": null
   },
   {
     "id": 55166,
@@ -129,6 +179,11 @@
     "latitude": "19.05050000",
     "longitude": "-72.46585000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q777676",
+    "type": "city",
+    "native": "Verrettes",
+    "timezone": "America/Port-au-Prince",
+    "population": 48724,
+    "population_year": null
   }
 ]

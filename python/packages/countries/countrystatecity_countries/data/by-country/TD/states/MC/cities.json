@@ -9,7 +9,12 @@
     "latitude": "9.45149000",
     "longitude": "18.94493000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kyabé",
+    "timezone": "Africa/Ndjamena",
+    "population": 22806,
+    "population_year": null
   },
   {
     "id": 105156,
@@ -21,6 +26,11 @@
     "latitude": "9.14290000",
     "longitude": "18.39230000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q337530",
+    "type": "adm1",
+    "native": "sarh",
+    "timezone": "Africa/Ndjamena",
+    "population": 138928,
+    "population_year": null
   }
 ]

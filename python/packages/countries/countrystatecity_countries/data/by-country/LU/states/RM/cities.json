@@ -9,7 +9,12 @@
     "latitude": "49.55389000",
     "longitude": "6.32917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Bous",
+    "timezone": "Europe/Luxembourg",
+    "population": 560,
+    "population_year": null
   },
   {
     "id": 66756,
@@ -21,7 +26,12 @@
     "latitude": "49.54083000",
     "longitude": "6.25972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20969315",
+    "type": "municipality",
+    "native": "Dalheim",
+    "timezone": "Europe/Luxembourg",
+    "population": 1636,
+    "population_year": null
   },
   {
     "id": 66797,
@@ -33,7 +43,12 @@
     "latitude": "49.59861000",
     "longitude": "6.36806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1017410",
+    "type": "adm3",
+    "native": "Lenningen",
+    "timezone": "Europe/Luxembourg",
+    "population": 338,
+    "population_year": null
   },
   {
     "id": 66810,
@@ -45,7 +60,12 @@
     "latitude": "49.50500000",
     "longitude": "6.28111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3917128",
+    "type": "municipality",
+    "native": "Mondorf-les-Bains",
+    "timezone": "Europe/Luxembourg",
+    "population": 3113,
+    "population_year": null
   },
   {
     "id": 66827,
@@ -57,7 +77,12 @@
     "latitude": "49.54500000",
     "longitude": "6.36694000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q734284",
+    "type": "adm2",
+    "native": "Remich",
+    "timezone": "Europe/Luxembourg",
+    "population": 4101,
+    "population_year": null
   },
   {
     "id": 66836,
@@ -69,7 +94,12 @@
     "latitude": "49.47000000",
     "longitude": "6.36200000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3916795",
+    "type": "municipality",
+    "native": "Schengen",
+    "timezone": "Europe/Luxembourg",
+    "population": 5196,
+    "population_year": null
   },
   {
     "id": 66844,
@@ -81,7 +111,12 @@
     "latitude": "49.56278000",
     "longitude": "6.36444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1017400",
+    "type": "municipality",
+    "native": "Stadtbredimus",
+    "timezone": "Europe/Luxembourg",
+    "population": 749,
+    "population_year": null
   },
   {
     "id": 66857,
@@ -93,6 +128,11 @@
     "latitude": "49.55676000",
     "longitude": "6.28789000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3917667",
+    "type": "locality",
+    "native": "Waldbredimus",
+    "timezone": "Europe/Luxembourg",
+    "population": 416,
+    "population_year": null
   }
 ]

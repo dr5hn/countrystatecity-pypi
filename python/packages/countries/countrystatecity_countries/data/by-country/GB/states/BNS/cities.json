@@ -1,15 +1,20 @@
 [
   {
-    "id": 48402,
+    "id": 166593,
     "name": "Barnsley",
     "state_id": 2499,
     "state_code": "BNS",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "53.53333000",
-    "longitude": "-1.50000000",
+    "latitude": "53.55361111",
+    "longitude": "-1.47888889",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Barnsley",
+    "timezone": "Europe/London",
+    "population": 245199,
+    "population_year": null
   },
   {
     "id": 48519,
@@ -21,7 +26,12 @@
     "latitude": "53.51398000",
     "longitude": "-1.47929000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3640308",
+    "type": "village",
+    "native": "Birdwell",
+    "timezone": "Europe/London",
+    "population": 3056,
+    "population_year": null
   },
   {
     "id": 48589,
@@ -33,7 +43,12 @@
     "latitude": "53.51667000",
     "longitude": "-1.31667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4940256",
+    "type": "town",
+    "native": "Bolton upon Dearne",
+    "timezone": "Europe/London",
+    "population": 13236,
+    "population_year": null
   },
   {
     "id": 48899,
@@ -45,7 +60,12 @@
     "latitude": "53.56687000",
     "longitude": "-1.57259000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5055245",
+    "type": "village",
+    "native": "Cawthorne",
+    "timezone": "Europe/London",
+    "population": 893,
+    "population_year": null
   },
   {
     "id": 49195,
@@ -57,7 +77,12 @@
     "latitude": "53.57131000",
     "longitude": "-1.41595000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q954528",
+    "type": "section",
+    "native": "Cudworth",
+    "timezone": "Europe/London",
+    "population": 11903,
+    "population_year": null
   },
   {
     "id": 49234,
@@ -69,7 +94,12 @@
     "latitude": "53.53390000",
     "longitude": "-1.37595000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q676757",
+    "type": "town",
+    "native": "Darfield",
+    "timezone": "Europe/London",
+    "population": 8246,
+    "population_year": null
   },
   {
     "id": 49241,
@@ -81,7 +111,12 @@
     "latitude": "53.58705000",
     "longitude": "-1.52676000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1617106",
+    "type": "town",
+    "native": "Darton",
+    "timezone": "Europe/London",
+    "population": 15259,
+    "population_year": null
   },
   {
     "id": 49299,
@@ -93,7 +128,12 @@
     "latitude": "53.54306000",
     "longitude": "-1.52779000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q959905",
+    "type": "town",
+    "native": "Dodworth",
+    "timezone": "Europe/London",
+    "population": 5870,
+    "population_year": null
   },
   {
     "id": 49725,
@@ -105,7 +145,12 @@
     "latitude": "53.55352000",
     "longitude": "-1.34952000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1617097",
+    "type": "village",
+    "native": "Great Houghton",
+    "timezone": "Europe/London",
+    "population": 2487,
+    "population_year": null
   },
   {
     "id": 49752,
@@ -117,7 +162,12 @@
     "latitude": "53.57650000",
     "longitude": "-1.37688000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1619619",
+    "type": "town",
+    "native": "Grimethorpe",
+    "timezone": "Europe/London",
+    "population": 4672,
+    "population_year": null
   },
   {
     "id": 50016,
@@ -129,7 +179,12 @@
     "latitude": "53.50000000",
     "longitude": "-1.45000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3787287",
+    "type": "city",
+    "native": "Hoyland Nether",
+    "timezone": "Europe/London",
+    "population": 15842,
+    "population_year": null
   },
   {
     "id": 50882,
@@ -141,7 +196,12 @@
     "latitude": "53.52572000",
     "longitude": "-1.63027000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2010576",
+    "type": "adm3",
+    "native": "Penistone",
+    "timezone": "Europe/London",
+    "population": 12674,
+    "population_year": null
   },
   {
     "id": 51305,
@@ -153,7 +213,12 @@
     "latitude": "53.54808000",
     "longitude": "-1.56381000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2307737",
+    "type": "village",
+    "native": "Silkstone",
+    "timezone": "Europe/London",
+    "population": 1764,
+    "population_year": null
   },
   {
     "id": 51966,
@@ -165,6 +230,11 @@
     "latitude": "53.52189000",
     "longitude": "-1.39698000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2096359",
+    "type": "town",
+    "native": "Wombwell",
+    "timezone": "Europe/London",
+    "population": 15518,
+    "population_year": null
   }
 ]

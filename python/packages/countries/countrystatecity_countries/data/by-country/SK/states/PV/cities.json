@@ -8,8 +8,13 @@
     "country_code": "SK",
     "latitude": "49.29175000",
     "longitude": "21.27271000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13719,
+    "wikiDataId": "Q27007",
+    "type": "city",
+    "native": "Bardejov",
+    "timezone": "Europe/Bratislava",
+    "population": 29788,
+    "population_year": null
   },
   {
     "id": 104380,
@@ -21,7 +26,12 @@
     "latitude": "48.88628000",
     "longitude": "21.93930000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1035167",
+    "type": "city",
+    "native": "Chlmec",
+    "timezone": "Europe/Bratislava",
+    "population": 8031,
+    "population_year": null
   },
   {
     "id": 104393,
@@ -32,8 +42,13 @@
     "country_code": "SK",
     "latitude": "49.11398000",
     "longitude": "21.51731000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13730,
+    "wikiDataId": "Q550357",
+    "type": "city",
+    "native": "Giraltovce",
+    "timezone": "Europe/Bratislava",
+    "population": 3958,
+    "population_year": null
   },
   {
     "id": 104399,
@@ -45,7 +60,12 @@
     "latitude": "48.93707000",
     "longitude": "21.91625000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q502264",
+    "type": "adm2",
+    "native": "Humenné",
+    "timezone": "Europe/Bratislava",
+    "population": 29567,
+    "population_year": null
   },
   {
     "id": 104405,
@@ -57,7 +77,12 @@
     "latitude": "49.13571000",
     "longitude": "20.43352000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q327977",
+    "type": "adm2",
+    "native": "Kežmarok",
+    "timezone": "Europe/Bratislava",
+    "population": 15145,
+    "population_year": null
   },
   {
     "id": 104422,
@@ -69,7 +94,12 @@
     "latitude": "49.02173000",
     "longitude": "20.59212000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q242478",
+    "type": "adm2",
+    "native": "Levoča",
+    "timezone": "Europe/Bratislava",
+    "population": 13905,
+    "population_year": null
   },
   {
     "id": 104423,
@@ -80,8 +110,13 @@
     "country_code": "SK",
     "latitude": "49.15376000",
     "longitude": "20.96382000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13726,
+    "wikiDataId": "Q847118",
+    "type": "city",
+    "native": "Lipany",
+    "timezone": "Europe/Bratislava",
+    "population": 6450,
+    "population_year": null
   },
   {
     "id": 104590,
@@ -92,8 +127,13 @@
     "country_code": "SK",
     "latitude": "49.11667000",
     "longitude": "20.45000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13721,
+    "wikiDataId": "Q344678",
+    "type": "municipality",
+    "native": "Ľubica",
+    "timezone": "Europe/Bratislava",
+    "population": 4482,
+    "population_year": null
   },
   {
     "id": 104432,
@@ -104,8 +144,13 @@
     "country_code": "SK",
     "latitude": "49.27195000",
     "longitude": "21.90073000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13723,
+    "wikiDataId": "Q578686",
+    "type": "city",
+    "native": "Medzilaborce",
+    "timezone": "Europe/Bratislava",
+    "population": 5723,
+    "population_year": null
   },
   {
     "id": 104442,
@@ -117,163 +162,12 @@
     "latitude": "49.12253000",
     "longitude": "20.26737000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104449,
-    "name": "Okres Bardejov",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "49.28333000",
-    "longitude": "21.28333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104464,
-    "name": "Okres Humenné",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.93333000",
-    "longitude": "21.91667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104466,
-    "name": "Okres Kežmarok",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "49.13593000",
-    "longitude": "20.42929000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104472,
-    "name": "Okres Levoča",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "49.01986000",
-    "longitude": "20.57688000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104477,
-    "name": "Okres Medzilaborce",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "49.27062000",
-    "longitude": "21.90200000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104488,
-    "name": "Okres Poprad",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "49.05000000",
-    "longitude": "20.30000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104490,
-    "name": "Okres Prešov",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "49.00000000",
-    "longitude": "21.25000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104496,
-    "name": "Okres Sabinov",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "49.10115000",
-    "longitude": "21.09844000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104500,
-    "name": "Okres Snina",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.98579000",
-    "longitude": "22.15059000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104503,
-    "name": "Okres Stará Ĺubovňa",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "49.30000000",
-    "longitude": "20.70000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104504,
-    "name": "Okres Stropkov",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "49.20249000",
-    "longitude": "21.65025000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104505,
-    "name": "Okres Svidník",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "49.30000000",
-    "longitude": "21.56667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 104513,
-    "name": "Okres Vranov nad Topľou",
-    "state_id": 4354,
-    "state_code": "PV",
-    "country_id": 200,
-    "country_code": "SK",
-    "latitude": "48.90000000",
-    "longitude": "21.68333000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q664187",
+    "type": "city",
+    "native": "Nová Lesná",
+    "timezone": "Europe/Bratislava",
+    "population": 1646,
+    "population_year": null
   },
   {
     "id": 104526,
@@ -284,8 +178,13 @@
     "country_code": "SK",
     "latitude": "49.25869000",
     "longitude": "20.53600000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13728,
+    "wikiDataId": "Q852324",
+    "type": "city",
+    "native": "Podolínec",
+    "timezone": "Europe/Bratislava",
+    "population": 3048,
+    "population_year": null
   },
   {
     "id": 104528,
@@ -297,7 +196,12 @@
     "latitude": "49.06144000",
     "longitude": "20.29798000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q26393",
+    "type": "adm2",
+    "native": "Poprad",
+    "timezone": "Europe/Bratislava",
+    "population": 48352,
+    "population_year": null
   },
   {
     "id": 104530,
@@ -309,7 +213,12 @@
     "latitude": "48.99839000",
     "longitude": "21.23393000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q26119",
+    "type": "adm1",
+    "native": "Prešov",
+    "timezone": "Europe/Bratislava",
+    "population": 81702,
+    "population_year": null
   },
   {
     "id": 104539,
@@ -321,7 +230,12 @@
     "latitude": "49.10309000",
     "longitude": "21.09880000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q837478",
+    "type": "adm2",
+    "native": "Sabinov",
+    "timezone": "Europe/Bratislava",
+    "population": 12131,
+    "population_year": null
   },
   {
     "id": 104546,
@@ -333,7 +247,12 @@
     "latitude": "48.98857000",
     "longitude": "22.15099000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q754788",
+    "type": "adm2",
+    "native": "Snina",
+    "timezone": "Europe/Bratislava",
+    "population": 17879,
+    "population_year": null
   },
   {
     "id": 104548,
@@ -344,8 +263,13 @@
     "country_code": "SK",
     "latitude": "49.18725000",
     "longitude": "20.45948000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13721,
+    "wikiDataId": "Q605059",
+    "type": "city",
+    "native": "Spišská Belá",
+    "timezone": "Europe/Bratislava",
+    "population": 6660,
+    "population_year": null
   },
   {
     "id": 104550,
@@ -356,8 +280,13 @@
     "country_code": "SK",
     "latitude": "49.00088000",
     "longitude": "20.75307000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13722,
+    "wikiDataId": "Q537778",
+    "type": "city",
+    "native": "Spišské Podhradie",
+    "timezone": "Europe/Bratislava",
+    "population": 3730,
+    "population_year": null
   },
   {
     "id": 104552,
@@ -369,7 +298,12 @@
     "latitude": "49.29859000",
     "longitude": "20.68620000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q605521",
+    "type": "adm2",
+    "native": "Stará Ľubovňa",
+    "timezone": "Europe/Bratislava",
+    "population": 15599,
+    "population_year": null
   },
   {
     "id": 104594,
@@ -381,7 +315,12 @@
     "latitude": "49.05913000",
     "longitude": "20.07975000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q373739",
+    "type": "city",
+    "native": "Štrba",
+    "timezone": "Europe/Bratislava",
+    "population": 3337,
+    "population_year": null
   },
   {
     "id": 104553,
@@ -393,7 +332,12 @@
     "latitude": "49.20211000",
     "longitude": "21.65216000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q750413",
+    "type": "adm2",
+    "native": "Stropkov",
+    "timezone": "Europe/Bratislava",
+    "population": 9683,
+    "population_year": null
   },
   {
     "id": 104556,
@@ -404,8 +348,13 @@
     "country_code": "SK",
     "latitude": "49.30819000",
     "longitude": "21.57030000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13730,
+    "wikiDataId": "Q833845",
+    "type": "city",
+    "native": "Svidník",
+    "timezone": "Europe/Bratislava",
+    "population": 9647,
+    "population_year": null
   },
   {
     "id": 104557,
@@ -416,8 +365,13 @@
     "country_code": "SK",
     "latitude": "49.06014000",
     "longitude": "20.20695000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13724,
+    "wikiDataId": "Q852318",
+    "type": "city",
+    "native": "SVIT",
+    "timezone": "Europe/Bratislava",
+    "population": 7717,
+    "population_year": null
   },
   {
     "id": 104577,
@@ -429,7 +383,12 @@
     "latitude": "48.88836000",
     "longitude": "21.68479000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q842005",
+    "type": "adm2",
+    "native": "Vranov nad Topľou",
+    "timezone": "Europe/Bratislava",
+    "population": 20262,
+    "population_year": null
   },
   {
     "id": 104578,
@@ -441,7 +400,12 @@
     "latitude": "49.08764000",
     "longitude": "20.42530000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q545706",
+    "type": "city",
+    "native": "Vrbov",
+    "timezone": "Europe/Bratislava",
+    "population": 1525,
+    "population_year": null
   },
   {
     "id": 104583,
@@ -453,7 +417,12 @@
     "latitude": "49.30387000",
     "longitude": "20.56558000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q746119",
+    "type": "city",
+    "native": "Vyšné Ružbachy",
+    "timezone": "Europe/Bratislava",
+    "population": 1443,
+    "population_year": null
   },
   {
     "id": 104582,
@@ -464,8 +433,13 @@
     "country_code": "SK",
     "latitude": "49.13637000",
     "longitude": "20.24386000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13724,
+    "wikiDataId": "Q612516",
+    "type": "city",
+    "native": "Vysoké Tatry",
+    "timezone": "Europe/Bratislava",
+    "population": 3770,
+    "population_year": null
   },
   {
     "id": 104598,
@@ -477,6 +451,11 @@
     "latitude": "49.27100000",
     "longitude": "20.26239000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q393435",
+    "type": "city",
+    "native": "Ždiar",
+    "timezone": "Europe/Bratislava",
+    "population": 1357,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "42.71194000",
     "longitude": "20.36972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "population": 1050,
+    "population_year": null
   },
   {
     "id": 160182,
@@ -21,7 +26,12 @@
     "latitude": "42.78083000",
     "longitude": "20.48750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "population": 40000,
+    "population_year": null
   },
   {
     "id": 160183,
@@ -33,7 +43,12 @@
     "latitude": "42.62167000",
     "longitude": "20.57778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "population": 8050,
+    "population_year": null
   },
   {
     "id": 160184,
@@ -45,7 +60,12 @@
     "latitude": "42.57028000",
     "longitude": "20.46472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "population": 1200,
+    "population_year": null
   },
   {
     "id": 160185,
@@ -57,6 +77,11 @@
     "latitude": "42.65913000",
     "longitude": "20.28828000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": null,
+    "timezone": "Europe/Belgrade",
+    "population": 48962,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "42.03083000",
     "longitude": "21.44667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Бутел",
+    "timezone": "Europe/Skopje",
+    "population": 36154,
+    "population_year": null
   },
   {
     "id": 67512,
@@ -21,6 +26,11 @@
     "latitude": "42.06111000",
     "longitude": "21.44778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20936042",
+    "type": "city",
+    "native": "Радишани",
+    "timezone": "Europe/Skopje",
+    "population": 9123,
+    "population_year": null
   }
 ]

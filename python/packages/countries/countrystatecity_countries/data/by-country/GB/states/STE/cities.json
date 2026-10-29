@@ -9,7 +9,12 @@
     "latitude": "52.98333000",
     "longitude": "-2.13333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1609815",
+    "type": "city",
+    "native": "Longton",
+    "timezone": "Europe/London",
+    "population": 12794,
+    "population_year": null
   },
   {
     "id": 51468,
@@ -21,7 +26,12 @@
     "latitude": "53.00415000",
     "longitude": "-2.18538000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q134902",
+    "type": "city",
+    "native": "Stoke-on-Trent",
+    "timezone": "Europe/London",
+    "population": 249008,
+    "population_year": null
   },
   {
     "id": 51678,
@@ -33,6 +43,11 @@
     "latitude": "53.05830000",
     "longitude": "-2.21140000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tunstall",
+    "timezone": "Europe/London",
+    "population": 6232,
+    "population_year": null
   }
 ]

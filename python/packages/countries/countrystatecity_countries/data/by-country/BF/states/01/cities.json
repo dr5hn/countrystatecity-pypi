@@ -9,7 +9,12 @@
     "latitude": "13.16910000",
     "longitude": "-3.88990000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Barani",
+    "timezone": "Africa/Ouagadougou",
+    "population": 5000,
+    "population_year": null
   },
   {
     "id": 9164,
@@ -21,7 +26,12 @@
     "latitude": "11.74542000",
     "longitude": "-2.93006000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q894055",
+    "type": "adm2",
+    "native": "Boromo",
+    "timezone": "Africa/Ouagadougou",
+    "population": 20193,
+    "population_year": null
   },
   {
     "id": 9172,
@@ -33,7 +43,12 @@
     "latitude": "12.46338000",
     "longitude": "-3.46075000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q934436",
+    "type": "adm1",
+    "native": "Dédougou",
+    "timezone": "Africa/Ouagadougou",
+    "population": 63617,
+    "population_year": null
   },
   {
     "id": 9192,
@@ -45,7 +60,12 @@
     "latitude": "12.72939000",
     "longitude": "-3.86305000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3344855",
+    "type": "adm2",
+    "native": "Nouna",
+    "timezone": "Africa/Ouagadougou",
+    "population": 32428,
+    "population_year": null
   },
   {
     "id": 9203,
@@ -57,7 +77,12 @@
     "latitude": "12.91667000",
     "longitude": "-3.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1074485",
+    "type": "province",
+    "native": "Province de la Kossi",
+    "timezone": "Africa/Ouagadougou",
+    "population": 355655,
+    "population_year": null
   },
   {
     "id": 9208,
@@ -69,7 +94,12 @@
     "latitude": "11.71667000",
     "longitude": "-3.05000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q805913",
+    "type": "city",
+    "native": "Province des Balé",
+    "timezone": "Africa/Ouagadougou",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9209,
@@ -81,7 +111,12 @@
     "latitude": "12.16667000",
     "longitude": "-4.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q674664",
+    "type": "province",
+    "native": "Province",
+    "timezone": "Africa/Ouagadougou",
+    "population": 267934,
+    "population_year": null
   },
   {
     "id": 9221,
@@ -93,7 +128,12 @@
     "latitude": "12.25000000",
     "longitude": "-3.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1142050",
+    "type": "province",
+    "native": "Province du Mouhoun",
+    "timezone": "Africa/Ouagadougou",
+    "population": 359302,
+    "population_year": null
   },
   {
     "id": 9223,
@@ -105,7 +145,12 @@
     "latitude": "12.66667000",
     "longitude": "-3.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1141776",
+    "type": "province",
+    "native": "Province du Nayala",
+    "timezone": "Africa/Ouagadougou",
+    "population": 223090,
+    "population_year": null
   },
   {
     "id": 9230,
@@ -117,7 +162,12 @@
     "latitude": "13.25000000",
     "longitude": "-3.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q558703",
+    "type": "province",
+    "native": "Province du Sourou",
+    "timezone": "Africa/Ouagadougou",
+    "population": 284947,
+    "population_year": null
   },
   {
     "id": 9239,
@@ -129,7 +179,12 @@
     "latitude": "12.17423000",
     "longitude": "-4.08477000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2102129",
+    "type": "city",
+    "native": "Solenzo",
+    "timezone": "Africa/Ouagadougou",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9244,
@@ -141,7 +196,12 @@
     "latitude": "12.75844000",
     "longitude": "-2.89879000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2304523",
+    "type": "adm2",
+    "native": "Toma",
+    "timezone": "Africa/Ouagadougou",
+    "population": 15851,
+    "population_year": null
   },
   {
     "id": 9245,
@@ -153,6 +213,11 @@
     "latitude": "13.07250000",
     "longitude": "-3.06940000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q558346",
+    "type": "adm2",
+    "native": "Tougan",
+    "timezone": "Africa/Ouagadougou",
+    "population": 26347,
+    "population_year": null
   }
 ]

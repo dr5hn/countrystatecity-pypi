@@ -1,5 +1,22 @@
 [
   {
+    "id": 31595,
+    "name": "Anija vald",
+    "state_id": 5737,
+    "state_code": "141",
+    "country_id": 69,
+    "country_code": "EE",
+    "latitude": "59.27644000",
+    "longitude": "25.48168000",
+    "county_id": null,
+    "wikiDataId": "Q546693",
+    "type": "city",
+    "native": "Anija vald",
+    "timezone": "Europe/Tallinn",
+    "population": null,
+    "population_year": null
+  },
+  {
     "id": 31626,
     "name": "Kehra",
     "state_id": 5737,
@@ -9,6 +26,11 @@
     "latitude": "59.33611000",
     "longitude": "25.32111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q985464",
+    "type": "city",
+    "native": "Kehra",
+    "timezone": "Europe/Tallinn",
+    "population": 2873,
+    "population_year": null
   }
 ]

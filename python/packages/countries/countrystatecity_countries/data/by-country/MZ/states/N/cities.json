@@ -9,7 +9,12 @@
     "latitude": "-16.23250000",
     "longitude": "39.90861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q541656",
+    "type": "city",
+    "native": "António Enes",
+    "timezone": "Africa/Maputo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76600,
@@ -21,7 +26,12 @@
     "latitude": "-15.03417000",
     "longitude": "40.73583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q331099",
+    "type": "city",
+    "native": "Ilha de Moçambique",
+    "timezone": "Africa/Maputo",
+    "population": 55829,
+    "population_year": null
   },
   {
     "id": 76616,
@@ -33,7 +43,12 @@
     "latitude": "-14.87056000",
     "longitude": "37.00444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mutuáli",
+    "timezone": "Africa/Maputo",
+    "population": 32921,
+    "population_year": null
   },
   {
     "id": 76617,
@@ -45,7 +60,12 @@
     "latitude": "-14.56257000",
     "longitude": "40.68538000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Nacala",
+    "timezone": "Africa/Maputo",
+    "population": 239808,
+    "population_year": null
   },
   {
     "id": 165293,
@@ -57,7 +77,12 @@
     "latitude": "-14.92056000",
     "longitude": "39.98361000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1135625",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "population": 37226,
+    "population_year": null
   },
   {
     "id": 76619,
@@ -69,6 +94,11 @@
     "latitude": "-15.11646000",
     "longitude": "39.26660000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q323801",
+    "type": "adm1",
+    "native": "Nampula",
+    "timezone": "Africa/Maputo",
+    "population": 743000,
+    "population_year": null
   }
 ]

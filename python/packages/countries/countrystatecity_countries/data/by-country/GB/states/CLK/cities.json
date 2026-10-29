@@ -9,7 +9,12 @@
     "latitude": "56.11586000",
     "longitude": "-3.78997000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1009331",
+    "type": "adm2",
+    "native": "Alloa",
+    "timezone": "Europe/London",
+    "population": 20390,
+    "population_year": null
   },
   {
     "id": 48234,
@@ -21,7 +26,12 @@
     "latitude": "56.15284000",
     "longitude": "-3.80505000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q448127",
+    "type": "town",
+    "native": "Alva",
+    "timezone": "Europe/London",
+    "population": 4600,
+    "population_year": null
   },
   {
     "id": 49014,
@@ -33,7 +43,12 @@
     "latitude": "56.10743000",
     "longitude": "-3.75098000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1010098",
+    "type": "town",
+    "native": "Clackmannan",
+    "timezone": "Europe/London",
+    "population": 3240,
+    "population_year": null
   },
   {
     "id": 49301,
@@ -45,7 +60,12 @@
     "latitude": "56.16245000",
     "longitude": "-3.67135000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1235672",
+    "type": "village",
+    "native": "Dollar",
+    "timezone": "Europe/London",
+    "population": 2800,
+    "population_year": null
   },
   {
     "id": 50548,
@@ -57,7 +77,12 @@
     "latitude": "56.15138000",
     "longitude": "-3.85466000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1010052",
+    "type": "village",
+    "native": "Menstrie",
+    "timezone": "Europe/London",
+    "population": 2870,
+    "population_year": null
   },
   {
     "id": 51624,
@@ -69,7 +94,12 @@
     "latitude": "56.15251000",
     "longitude": "-3.74015000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1021170",
+    "type": "town",
+    "native": "Tillicoultry",
+    "timezone": "Europe/London",
+    "population": 4650,
+    "population_year": null
   },
   {
     "id": 51676,
@@ -81,6 +111,11 @@
     "latitude": "56.13364000",
     "longitude": "-3.83835000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Tullibody",
+    "timezone": "Europe/London",
+    "population": 8580,
+    "population_year": null
   }
 ]

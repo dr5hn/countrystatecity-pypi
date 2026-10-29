@@ -9,7 +9,12 @@
     "latitude": "36.16277000",
     "longitude": "0.97037000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "عين مران",
+    "timezone": "Africa/Algiers",
+    "population": 34413,
+    "population_year": null
   },
   {
     "id": 31226,
@@ -21,7 +26,12 @@
     "latitude": "36.41657000",
     "longitude": "1.19616000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2821729",
+    "type": "municipality",
+    "native": "أبو الحسن",
+    "timezone": "Africa/Algiers",
+    "population": 24022,
+    "population_year": null
   },
   {
     "id": 31291,
@@ -33,7 +43,12 @@
     "latitude": "36.06629000",
     "longitude": "1.12602000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1648911",
+    "type": "municipality",
+    "native": "بوقادير",
+    "timezone": "Africa/Algiers",
+    "population": 28652,
+    "population_year": null
   },
   {
     "id": 31308,
@@ -45,7 +60,12 @@
     "latitude": "36.16525000",
     "longitude": "1.33452000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q849561",
+    "type": "municipality",
+    "native": "الشلف",
+    "timezone": "Africa/Algiers",
+    "population": 155134,
+    "population_year": null
   },
   {
     "id": 31324,
@@ -57,7 +77,12 @@
     "latitude": "36.19591000",
     "longitude": "1.25537000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2962891",
+    "type": "municipality",
+    "native": "إيش تشيتيا",
+    "timezone": "Africa/Algiers",
+    "population": 60170,
+    "population_year": null
   },
   {
     "id": 31397,
@@ -69,7 +94,12 @@
     "latitude": "36.18503000",
     "longitude": "1.53299000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3358021",
+    "type": "municipality",
+    "native": "وادي الفضة",
+    "timezone": "Africa/Algiers",
+    "population": 44523,
+    "population_year": null
   },
   {
     "id": 31399,
@@ -81,7 +111,12 @@
     "latitude": "36.10124000",
     "longitude": "1.19949000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1649555",
+    "type": "municipality",
+    "native": "واد سلاي",
+    "timezone": "Africa/Algiers",
+    "population": 30504,
+    "population_year": null
   },
   {
     "id": 31424,
@@ -93,7 +128,12 @@
     "latitude": "36.46472000",
     "longitude": "1.30258000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1650037",
+    "type": "municipality",
+    "native": "سيدي عكاشة",
+    "timezone": "Africa/Algiers",
+    "population": 26558,
+    "population_year": null
   },
   {
     "id": 164617,
@@ -105,6 +145,11 @@
     "latitude": "36.51076000",
     "longitude": "1.30809000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q860307",
+    "type": "municipality",
+    "native": "تنس",
+    "timezone": "Africa/Algiers",
+    "population": 29220,
+    "population_year": null
   }
 ]

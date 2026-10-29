@@ -1,6 +1,6 @@
 [
   {
-    "id": 105196,
+    "id": 166928,
     "name": "Ban Khok",
     "state_id": 3489,
     "state_code": "53",
@@ -9,10 +9,15 @@
     "latitude": "18.02614000",
     "longitude": "101.06772000",
     "county_id": 5947,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "บ้านโคก",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105339,
+    "id": 166992,
     "name": "Fak Tha",
     "state_id": 3489,
     "state_code": "53",
@@ -21,10 +26,15 @@
     "latitude": "17.99380000",
     "longitude": "100.87710000",
     "county_id": 5946,
-    "wikiDataId": null
+    "wikiDataId": "Q112055650",
+    "type": "town",
+    "native": "ฟากท่า",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105637,
+    "id": 167098,
     "name": "Nam Pat",
     "state_id": 3489,
     "state_code": "53",
@@ -33,7 +43,12 @@
     "latitude": "17.72806000",
     "longitude": "100.68433000",
     "county_id": 5945,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "น้ำปาด",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105740,
@@ -45,10 +60,15 @@
     "latitude": "17.30188000",
     "longitude": "100.11281000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476401",
+    "type": "district",
+    "native": "อำเภอพิชัย",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105486,
+    "id": 167060,
     "name": "Si Phanom Mat",
     "state_id": 3489,
     "state_code": "53",
@@ -57,10 +77,15 @@
     "latitude": "17.65460000",
     "longitude": "100.03630000",
     "county_id": 5949,
-    "wikiDataId": null
+    "wikiDataId": "Q15980716",
+    "type": "town",
+    "native": "ศรีพนมมาศ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106281,
+    "id": 167237,
     "name": "Tha Pla",
     "state_id": 3489,
     "state_code": "53",
@@ -69,10 +94,15 @@
     "latitude": "17.79112000",
     "longitude": "100.37611000",
     "county_id": 5944,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ท่าปลา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106310,
+    "id": 167251,
     "name": "Thong Saen Khan",
     "state_id": 3489,
     "state_code": "53",
@@ -81,7 +111,12 @@
     "latitude": "17.46770000",
     "longitude": "100.33240000",
     "county_id": 5950,
-    "wikiDataId": null
+    "wikiDataId": "Q112055660",
+    "type": "town",
+    "native": "ทองแสนขัน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106323,
@@ -93,7 +128,12 @@
     "latitude": "17.47231000",
     "longitude": "100.13467000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476965",
+    "type": "district",
+    "native": "อำเภอตรอน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106740,
@@ -105,6 +145,11 @@
     "latitude": "17.62557000",
     "longitude": "100.09421000",
     "county_id": 5942,
-    "wikiDataId": null
+    "wikiDataId": "Q1359241",
+    "type": "city",
+    "native": "อุตรดิตถ์",
+    "timezone": "Asia/Bangkok",
+    "population": 58313,
+    "population_year": null
   }
 ]

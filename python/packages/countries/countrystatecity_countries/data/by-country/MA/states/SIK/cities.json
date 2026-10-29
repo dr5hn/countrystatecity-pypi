@@ -9,7 +9,12 @@
     "latitude": "34.57373000",
     "longitude": "-5.95585000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "مشرع بلقصيري",
+    "timezone": "Africa/Casablanca",
+    "population": 34393,
+    "population_year": null
   },
   {
     "id": 67211,
@@ -21,6 +26,11 @@
     "latitude": "34.22149000",
     "longitude": "-5.70775000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2089594",
+    "type": "city",
+    "native": "سيدي قاسم",
+    "timezone": "Africa/Casablanca",
+    "population": 82632,
+    "population_year": null
   }
 ]

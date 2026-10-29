@@ -9,7 +9,12 @@
     "latitude": "10.14525000",
     "longitude": "-61.50740000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Siparia",
+    "timezone": "America/Port_of_Spain",
+    "population": 8568,
+    "population_year": null
   },
   {
     "id": 108992,
@@ -21,6 +26,11 @@
     "latitude": "10.15000000",
     "longitude": "-61.46667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Ward of Siparia",
+    "timezone": "America/Port_of_Spain",
+    "population": null,
+    "population_year": null
   }
 ]

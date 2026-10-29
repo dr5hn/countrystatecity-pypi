@@ -9,7 +9,12 @@
     "latitude": "32.17222000",
     "longitude": "13.02028000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q867102",
+    "type": "adm1",
+    "native": "غريان",
+    "timezone": "Africa/Tripoli",
+    "population": 36110,
+    "population_year": null
   },
   {
     "id": 67016,
@@ -21,7 +26,12 @@
     "latitude": "31.95506000",
     "longitude": "12.02901000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q117712",
+    "type": "city",
+    "native": "جيادو",
+    "timezone": "Africa/Tripoli",
+    "population": 12507,
+    "population_year": null
   },
   {
     "id": 67022,
@@ -33,7 +43,12 @@
     "latitude": "31.44934000",
     "longitude": "12.98530000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "مزدة",
+    "timezone": "Africa/Tripoli",
+    "population": 16735,
+    "population_year": null
   },
   {
     "id": 67036,
@@ -45,7 +60,12 @@
     "latitude": "32.06329000",
     "longitude": "12.52859000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1018215",
+    "type": "city",
+    "native": "يفرن",
+    "timezone": "Africa/Tripoli",
+    "population": 22680,
+    "population_year": null
   },
   {
     "id": 67039,
@@ -57,6 +77,11 @@
     "latitude": "31.93155000",
     "longitude": "12.25291000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الزنتان",
+    "timezone": "Africa/Tripoli",
+    "population": 33000,
+    "population_year": null
   }
 ]

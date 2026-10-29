@@ -9,7 +9,12 @@
     "latitude": "53.26827000",
     "longitude": "-3.50078000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Bodelwyddan",
+    "timezone": "Europe/London",
+    "population": 2092,
+    "population_year": null
   },
   {
     "id": 49259,
@@ -21,7 +26,12 @@
     "latitude": "53.18333000",
     "longitude": "-3.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1186888",
+    "type": "adm3",
+    "native": "Denbigh",
+    "timezone": "Europe/London",
+    "population": 8670,
+    "population_year": null
   },
   {
     "id": 49372,
@@ -33,7 +43,12 @@
     "latitude": "53.30032000",
     "longitude": "-3.41262000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5319397",
+    "type": "village",
+    "native": "Dyserth",
+    "timezone": "Europe/London",
+    "population": 2523,
+    "population_year": null
   },
   {
     "id": 49905,
@@ -45,7 +60,12 @@
     "latitude": "53.20000000",
     "longitude": "-3.46667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13635786",
+    "type": "adm3",
+    "native": "Henllan",
+    "timezone": "Europe/London",
+    "population": 862,
+    "population_year": null
   },
   {
     "id": 50358,
@@ -57,7 +77,12 @@
     "latitude": "52.96829000",
     "longitude": "-3.17127000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1002793",
+    "type": "adm3",
+    "native": "Llangollen",
+    "timezone": "Europe/London",
+    "population": 3603,
+    "population_year": null
   },
   {
     "id": 50984,
@@ -69,7 +94,12 @@
     "latitude": "53.33748000",
     "longitude": "-3.40776000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1813948",
+    "type": "town",
+    "native": "Prestatyn",
+    "timezone": "Europe/London",
+    "population": 18890,
+    "population_year": null
   },
   {
     "id": 51073,
@@ -81,7 +111,12 @@
     "latitude": "53.29203000",
     "longitude": "-3.46996000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1807193",
+    "type": "adm3",
+    "native": "Rhuddlan",
+    "timezone": "Europe/London",
+    "population": 3719,
+    "population_year": null
   },
   {
     "id": 51074,
@@ -93,7 +128,12 @@
     "latitude": "53.31929000",
     "longitude": "-3.49228000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2020203",
+    "type": "town",
+    "native": "Rhyl",
+    "timezone": "Europe/London",
+    "population": 27060,
+    "population_year": null
   },
   {
     "id": 51150,
@@ -105,7 +145,12 @@
     "latitude": "53.11368000",
     "longitude": "-3.31782000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1013633",
+    "type": "adm2",
+    "native": "Ruthin",
+    "timezone": "Europe/London",
+    "population": 5698,
+    "population_year": null
   },
   {
     "id": 51164,
@@ -117,7 +162,12 @@
     "latitude": "53.25815000",
     "longitude": "-3.44524000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q548248",
+    "type": "city",
+    "native": "Saint Asaph",
+    "timezone": "Europe/London",
+    "population": 3355,
+    "population_year": null
   },
   {
     "id": 51663,
@@ -129,6 +179,11 @@
     "latitude": "53.22526000",
     "longitude": "-3.42030000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14477598",
+    "type": "adm3",
+    "native": "Trefnant",
+    "timezone": "Europe/London",
+    "population": 993,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "-27.38662000",
     "longitude": "-56.84724000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Juan de Ayolas",
+    "timezone": "America/Asuncion",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 89825,
@@ -21,7 +26,12 @@
     "latitude": "-26.66944000",
     "longitude": "-57.14583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "San Juan Bautista",
+    "timezone": "America/Asuncion",
+    "population": 16593,
+    "population_year": null
   },
   {
     "id": 89829,
@@ -33,7 +43,12 @@
     "latitude": "-26.50000000",
     "longitude": "-57.05000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "San Miguel",
+    "timezone": "America/Asuncion",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 89830,
@@ -45,7 +60,12 @@
     "latitude": "-26.96667000",
     "longitude": "-56.81667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "San Patricio",
+    "timezone": "America/Asuncion",
+    "population": 1525,
+    "population_year": null
   },
   {
     "id": 89834,
@@ -57,7 +77,12 @@
     "latitude": "-26.78333000",
     "longitude": "-56.93333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Santa María",
+    "timezone": "America/Asuncion",
+    "population": 2095,
+    "population_year": null
   },
   {
     "id": 89836,
@@ -69,7 +94,12 @@
     "latitude": "-26.88730000",
     "longitude": "-56.84905000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Santa Rosa Misiones",
+    "timezone": "America/Asuncion",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 89837,
@@ -81,7 +111,12 @@
     "latitude": "-27.14310000",
     "longitude": "-56.76803000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Santiago",
+    "timezone": "America/Asuncion",
+    "population": 2144,
+    "population_year": null
   },
   {
     "id": 89844,
@@ -93,6 +128,11 @@
     "latitude": "-26.38333000",
     "longitude": "-57.15000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Villa Florida",
+    "timezone": "America/Asuncion",
+    "population": 2305,
+    "population_year": null
   }
 ]

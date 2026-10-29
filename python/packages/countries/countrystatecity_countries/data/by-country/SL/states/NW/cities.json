@@ -9,7 +9,12 @@
     "latitude": "9.49689000",
     "longitude": "-12.24061000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6355344",
+    "type": "city",
+    "native": "Kamakwie",
+    "timezone": "Africa/Freetown",
+    "population": 8098,
+    "population_year": null
   },
   {
     "id": 104636,
@@ -21,7 +26,12 @@
     "latitude": "9.12504000",
     "longitude": "-12.91816000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1722889",
+    "type": "city",
+    "native": "Kambia",
+    "timezone": "Africa/Freetown",
+    "population": 11520,
+    "population_year": null
   },
   {
     "id": 104651,
@@ -33,7 +43,12 @@
     "latitude": "8.68439000",
     "longitude": "-12.53499000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q995392",
+    "type": "city",
+    "native": "Lunsar",
+    "timezone": "Africa/Freetown",
+    "population": 22461,
+    "population_year": null
   },
   {
     "id": 104670,
@@ -45,7 +60,12 @@
     "latitude": "8.58611000",
     "longitude": "-13.05444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3466506",
+    "type": "city",
+    "native": "Pepel",
+    "timezone": "Africa/Freetown",
+    "population": 4462,
+    "population_year": null
   },
   {
     "id": 160111,
@@ -57,7 +77,12 @@
     "latitude": "8.76666667",
     "longitude": "-12.78750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1635196",
+    "type": "adm1",
+    "native": "Port Loko",
+    "timezone": "Africa/Freetown",
+    "population": 21308,
+    "population_year": null
   },
   {
     "id": 104674,
@@ -69,6 +94,11 @@
     "latitude": "8.67121000",
     "longitude": "-12.38497000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Rocupr",
+    "timezone": "Africa/Freetown",
+    "population": 12744,
+    "population_year": null
   }
 ]

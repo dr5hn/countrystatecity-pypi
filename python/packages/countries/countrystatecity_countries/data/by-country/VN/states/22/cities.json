@@ -1,5 +1,39 @@
 [
   {
+    "id": 167962,
+    "name": "Diễn Châu",
+    "state_id": 3780,
+    "state_code": "22",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "18.97652000",
+    "longitude": "105.60034000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Diễn Châu",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 167981,
+    "name": "Hưng Nguyên",
+    "state_id": 3780,
+    "state_code": "22",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "18.67165000",
+    "longitude": "105.62882000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Hưng Nguyên",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
+  },
+  {
     "id": 130212,
     "name": "Huyện Anh Sơn",
     "state_id": 3780,
@@ -9,7 +43,12 @@
     "latitude": "18.92902000",
     "longitude": "105.08294000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Anh Sơn",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130264,
@@ -21,19 +60,12 @@
     "latitude": "19.03898000",
     "longitude": "104.80353000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130279,
-    "name": "Huyện Diễn Châu",
-    "state_id": 3780,
-    "state_code": "22",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "18.98892000",
-    "longitude": "105.57625000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Con Cuông",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130532,
@@ -45,31 +77,12 @@
     "latitude": "18.89259000",
     "longitude": "105.34027000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130310,
-    "name": "Huyện Hưng Nguyên",
-    "state_id": 3780,
-    "state_code": "22",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "18.67811000",
-    "longitude": "105.62523000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130339,
-    "name": "Huyện Kỳ Sơn",
-    "state_id": 3780,
-    "state_code": "22",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "19.42397000",
-    "longitude": "104.22199000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Đô Lương",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130378,
@@ -81,19 +94,12 @@
     "latitude": "18.67041000",
     "longitude": "105.52575000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130381,
-    "name": "Huyện Nghi Lộc",
-    "state_id": 3780,
-    "state_code": "22",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "18.83131000",
-    "longitude": "105.62411000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Nam Đàn",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130385,
@@ -105,19 +111,12 @@
     "latitude": "19.38234000",
     "longitude": "105.44072000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130411,
-    "name": "Huyện Quế Phong",
-    "state_id": 3780,
-    "state_code": "22",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "19.70177000",
-    "longitude": "104.87913000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Nghĩa Đàn",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130413,
@@ -129,31 +128,12 @@
     "latitude": "19.55707000",
     "longitude": "105.09173000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130414,
-    "name": "Huyện Quỳ Hợp",
-    "state_id": 3780,
-    "state_code": "22",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "19.32514000",
-    "longitude": "105.16009000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130415,
-    "name": "Huyện Quỳnh Lưu",
-    "state_id": 3780,
-    "state_code": "22",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "19.22717000",
-    "longitude": "105.64354000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Quỳ Châu",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 130436,
@@ -165,7 +145,12 @@
     "latitude": "18.73929000",
     "longitude": "105.24053000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Thanh Chương",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130492,
@@ -177,7 +162,12 @@
     "latitude": "19.30979000",
     "longitude": "104.57788000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Tương Dương",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130520,
@@ -189,7 +179,97 @@
     "latitude": "19.02724000",
     "longitude": "105.43649000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Yên Thành",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 167999,
+    "name": "Mường Xén",
+    "state_id": 3780,
+    "state_code": "22",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "19.39795000",
+    "longitude": "104.15239000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Mường Xén",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 168026,
+    "name": "Nghi Lộc",
+    "state_id": 3780,
+    "state_code": "22",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "18.77927000",
+    "longitude": "105.64597000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Nghi Lộc",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 168044,
+    "name": "Quế Phong",
+    "state_id": 3780,
+    "state_code": "22",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "19.60409000",
+    "longitude": "104.91903000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Quế Phong",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 168045,
+    "name": "Quỳ Hợp",
+    "state_id": 3780,
+    "state_code": "22",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "19.32546000",
+    "longitude": "105.18251000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Quỳ Hợp",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 168046,
+    "name": "Quỳnh Lưu",
+    "state_id": 3780,
+    "state_code": "22",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "19.14600000",
+    "longitude": "105.63089000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Quỳnh Lưu",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130622,
@@ -201,7 +281,12 @@
     "latitude": "18.67337000",
     "longitude": "105.69232000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33428",
+    "type": "adm1",
+    "native": "VINH",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 790000,
+    "population_year": null
   },
   {
     "id": 130629,
@@ -213,6 +298,11 @@
     "latitude": "18.66667000",
     "longitude": "105.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q49371602",
+    "type": "city",
+    "native": "Yên Vinh",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 107082,
+    "population_year": null
   }
 ]

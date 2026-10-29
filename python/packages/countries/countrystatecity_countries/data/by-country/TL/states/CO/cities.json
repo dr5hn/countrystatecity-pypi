@@ -9,7 +9,12 @@
     "latitude": "-9.22917000",
     "longitude": "125.03583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1295231",
+    "type": "city",
+    "native": "FATUMEAN",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106844,
@@ -21,7 +26,12 @@
     "latitude": "-9.28361000",
     "longitude": "125.08944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1435182",
+    "type": "city",
+    "native": "Fohorem",
+    "timezone": "Asia/Dili",
+    "population": 4086,
+    "population_year": null
   },
   {
     "id": 106863,
@@ -33,7 +43,12 @@
     "latitude": "-9.21772000",
     "longitude": "125.22981000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1718757",
+    "type": "adm1",
+    "native": "Maucatar",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106871,
@@ -45,7 +60,12 @@
     "latitude": "-9.30000000",
     "longitude": "125.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18000293",
+    "type": "adm1",
+    "native": "Repleto",
+    "timezone": "Asia/Dili",
+    "population": 21539,
+    "population_year": null
   },
   {
     "id": 106872,
@@ -57,6 +77,11 @@
     "latitude": "-9.34182000",
     "longitude": "125.10887000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18653443",
+    "type": "city",
+    "native": "Tilomar",
+    "timezone": "Asia/Dili",
+    "population": 7885,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "14.66270000",
     "longitude": "121.03280000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Bagong Pagasa",
+    "timezone": "Asia/Manila",
+    "population": 29389,
+    "population_year": null
   },
   {
     "id": 161629,
@@ -21,7 +26,12 @@
     "latitude": "14.65288000",
     "longitude": "120.96980000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Caloocan",
+    "timezone": "Asia/Manila",
+    "population": 1661584,
+    "population_year": null
   },
   {
     "id": 82407,
@@ -33,7 +43,12 @@
     "latitude": "14.64180000",
     "longitude": "121.01770000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31564579",
+    "type": "section",
+    "native": "Del Monte",
+    "timezone": "Asia/Manila",
+    "population": 11035,
+    "population_year": null
   },
   {
     "id": 161630,
@@ -45,7 +60,12 @@
     "latitude": "14.44970000",
     "longitude": "120.98310000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q205029",
+    "type": "city",
+    "native": "Las Piñas",
+    "timezone": "Asia/Manila",
+    "population": 606293,
+    "population_year": null
   },
   {
     "id": 161631,
@@ -57,7 +77,12 @@
     "latitude": "14.55490000",
     "longitude": "121.01400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q151230",
+    "type": "city",
+    "native": "Makati",
+    "timezone": "Asia/Manila",
+    "population": 582602,
+    "population_year": null
   },
   {
     "id": 161632,
@@ -69,7 +94,12 @@
     "latitude": "14.57970000",
     "longitude": "121.04070000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q205034",
+    "type": "city",
+    "native": "Mandaluyong",
+    "timezone": "Asia/Manila",
+    "population": 386276,
+    "population_year": null
   },
   {
     "id": 161633,
@@ -81,7 +111,12 @@
     "latitude": "14.59950000",
     "longitude": "120.98420000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1461",
+    "type": "city",
+    "native": "Maynila",
+    "timezone": "Asia/Manila",
+    "population": 1846513,
+    "population_year": null
   },
   {
     "id": 161634,
@@ -93,7 +128,12 @@
     "latitude": "14.65040000",
     "longitude": "121.10310000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Marikina",
+    "timezone": "Asia/Manila",
+    "population": 450741,
+    "population_year": null
   },
   {
     "id": 161635,
@@ -105,7 +145,12 @@
     "latitude": "14.40790000",
     "longitude": "121.04140000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q205046",
+    "type": "city",
+    "native": "Muntinlupa",
+    "timezone": "Asia/Manila",
+    "population": 543445,
+    "population_year": null
   },
   {
     "id": 161636,
@@ -117,7 +162,12 @@
     "latitude": "14.47910000",
     "longitude": "121.01980000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q17182",
+    "type": "city",
+    "native": "Parañaque",
+    "timezone": "Asia/Manila",
+    "population": 689992,
+    "population_year": null
   },
   {
     "id": 161637,
@@ -129,7 +179,12 @@
     "latitude": "14.58650000",
     "longitude": "121.06050000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q205053",
+    "type": "city",
+    "native": "Pasig",
+    "timezone": "Asia/Manila",
+    "population": 803159,
+    "population_year": null
   },
   {
     "id": 161638,
@@ -141,7 +196,12 @@
     "latitude": "14.54500000",
     "longitude": "121.06670000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1076289",
+    "type": "municipality",
+    "native": "Pateros",
+    "timezone": "Asia/Manila",
+    "population": 64147,
+    "population_year": null
   },
   {
     "id": 161639,
@@ -153,7 +213,12 @@
     "latitude": "14.67600000",
     "longitude": "121.04370000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Lungsod Quezon",
+    "timezone": "Asia/Manila",
+    "population": 2936116,
+    "population_year": null
   },
   {
     "id": 165441,
@@ -165,7 +230,12 @@
     "latitude": "14.60000000",
     "longitude": "121.03330000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q749283",
+    "type": "city",
+    "native": "Lungsod ng San Juan",
+    "timezone": "Asia/Manila",
+    "population": 134312,
+    "population_year": null
   },
   {
     "id": 161640,
@@ -177,7 +247,12 @@
     "latitude": "14.52430000",
     "longitude": "121.07960000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q205067",
+    "type": "city",
+    "native": "Taguig",
+    "timezone": "Asia/Manila",
+    "population": 886722,
+    "population_year": null
   },
   {
     "id": 161641,
@@ -189,6 +264,11 @@
     "latitude": "14.70000000",
     "longitude": "120.98330000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q205070",
+    "type": "city",
+    "native": "Valenzuela",
+    "timezone": "Asia/Manila",
+    "population": 714978,
+    "population_year": null
   }
 ]

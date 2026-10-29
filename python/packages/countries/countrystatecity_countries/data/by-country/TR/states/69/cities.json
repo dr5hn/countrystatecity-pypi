@@ -9,7 +9,12 @@
     "latitude": "40.38325000",
     "longitude": "40.14272000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q792917",
+    "type": "adm2",
+    "native": "Aydıntepe",
+    "timezone": "Europe/Istanbul",
+    "population": 6984,
+    "population_year": null
   },
   {
     "id": 107466,
@@ -21,7 +26,12 @@
     "latitude": "40.16560000",
     "longitude": "39.89343000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1185714",
+    "type": "adm2",
+    "native": "Demirözü",
+    "timezone": "Europe/Istanbul",
+    "population": 1875,
+    "population_year": null
   },
   {
     "id": 107297,
@@ -32,7 +42,12 @@
     "country_code": "TR",
     "latitude": "40.25631000",
     "longitude": "40.22289000",
-    "county_id": 6905,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q211828",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 47647,
+    "population_year": 2025
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": 105188,
+    "id": 166922,
     "name": "Ban Dan",
     "state_id": 3534,
     "state_code": "31",
@@ -9,10 +9,15 @@
     "latitude": "15.10839000",
     "longitude": "103.17551000",
     "county_id": 5626,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "บ้านด่าน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105197,
+    "id": 166929,
     "name": "Ban Kruat",
     "state_id": 3534,
     "state_code": "31",
@@ -21,10 +26,15 @@
     "latitude": "14.41582190",
     "longitude": "103.10240708",
     "county_id": 5613,
-    "wikiDataId": null
+    "wikiDataId": "Q19823085",
+    "type": "town",
+    "native": "บ้านกรวด",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105202,
+    "id": 166933,
     "name": "Ban Mai Chaiyaphot",
     "state_id": 3534,
     "state_code": "31",
@@ -33,7 +43,12 @@
     "latitude": "15.58150000",
     "longitude": "102.83111111",
     "county_id": 5624,
-    "wikiDataId": null
+    "wikiDataId": "Q30091900",
+    "type": "town",
+    "native": "บ้านใหม่ไชยพจน์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106458,
@@ -45,7 +60,12 @@
     "latitude": "14.99433000",
     "longitude": "103.10392000",
     "county_id": 5606,
-    "wikiDataId": null
+    "wikiDataId": "Q1026460",
+    "type": "city",
+    "native": "บุรีรัมย์",
+    "timezone": "Asia/Bangkok",
+    "population": 27150,
+    "population_year": null
   },
   {
     "id": 105279,
@@ -57,10 +77,15 @@
     "latitude": "14.55725000",
     "longitude": "102.89878000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q426148",
+    "type": "district",
+    "native": "อำเภอเฉลิมพระเกียรติ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105281,
+    "id": 166967,
     "name": "Chamni",
     "state_id": 3534,
     "state_code": "31",
@@ -69,10 +94,15 @@
     "latitude": "14.78629000",
     "longitude": "102.82277000",
     "county_id": 5623,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ชำนิ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105356,
+    "id": 167000,
     "name": "Huai Rat",
     "state_id": 3534,
     "state_code": "31",
@@ -81,10 +111,15 @@
     "latitude": "14.96039000",
     "longitude": "103.18911000",
     "county_id": 5621,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ห้วยราช",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105381,
+    "id": 167008,
     "name": "Khaen Dong",
     "state_id": 3534,
     "state_code": "31",
@@ -93,10 +128,15 @@
     "latitude": "15.32476000",
     "longitude": "103.13343000",
     "county_id": 5627,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "แคนดง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105425,
+    "id": 167027,
     "name": "Khu Mueang",
     "state_id": 3534,
     "state_code": "31",
@@ -105,10 +145,15 @@
     "latitude": "15.27160000",
     "longitude": "103.00167000",
     "county_id": 5607,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "คูเมือง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105454,
+    "id": 167044,
     "name": "Krasang",
     "state_id": 3534,
     "state_code": "31",
@@ -117,10 +162,15 @@
     "latitude": "14.92375000",
     "longitude": "103.30369000",
     "county_id": 5608,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "กระสัง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105472,
+    "id": 167053,
     "name": "Lahan Sai",
     "state_id": 3534,
     "state_code": "31",
@@ -129,10 +179,15 @@
     "latitude": "14.41142000",
     "longitude": "102.85936000",
     "county_id": 5611,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ละหานทราย",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105474,
+    "id": 167054,
     "name": "Lam Plai Mat",
     "state_id": 3534,
     "state_code": "31",
@@ -141,10 +196,15 @@
     "latitude": "15.02520000",
     "longitude": "102.83894000",
     "county_id": 5615,
-    "wikiDataId": null
+    "wikiDataId": "Q13025262",
+    "type": "city",
+    "native": "ลำปลายมาศ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105621,
+    "id": 167092,
     "name": "Na Pho",
     "state_id": 3534,
     "state_code": "31",
@@ -153,7 +213,12 @@
     "latitude": "15.64113000",
     "longitude": "102.95462000",
     "county_id": 5618,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "นาโพธิ์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106589,
@@ -162,13 +227,18 @@
     "state_code": "31",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "14.63633100",
-    "longitude": "102.77464600",
-    "county_id": 5609,
-    "wikiDataId": null
+    "latitude": "14.63770000",
+    "longitude": "102.79138000",
+    "county_id": null,
+    "wikiDataId": "Q6664179",
+    "type": "adm2",
+    "native": "นางรอง",
+    "timezone": "Asia/Bangkok",
+    "population": 21493,
+    "population_year": null
   },
   {
-    "id": 105649,
+    "id": 167104,
     "name": "Non Din Daeng",
     "state_id": 3534,
     "state_code": "31",
@@ -177,10 +247,15 @@
     "latitude": "14.31353000",
     "longitude": "102.74814000",
     "county_id": 5625,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "โนนดินแดง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105656,
+    "id": 167107,
     "name": "Non Suwan",
     "state_id": 3534,
     "state_code": "31",
@@ -189,10 +264,15 @@
     "latitude": "14.58044000",
     "longitude": "102.59689000",
     "county_id": 5622,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "โนนสุวรรณ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105666,
+    "id": 167113,
     "name": "Nong Hong",
     "state_id": 3534,
     "state_code": "31",
@@ -201,7 +281,12 @@
     "latitude": "14.84782000",
     "longitude": "102.68401000",
     "county_id": 5619,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "หนองหงส์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106601,
@@ -213,7 +298,12 @@
     "latitude": "14.68679000",
     "longitude": "102.53800000",
     "county_id": 5610,
-    "wikiDataId": null
+    "wikiDataId": "Q28732029",
+    "type": "town",
+    "native": "หนองกี่",
+    "timezone": "Asia/Bangkok",
+    "population": 13592,
+    "population_year": null
   },
   {
     "id": 105694,
@@ -225,10 +315,15 @@
     "latitude": "14.40000000",
     "longitude": "102.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476341",
+    "type": "district",
+    "native": "อำเภอป่าขาม",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105743,
+    "id": 167149,
     "name": "Phlapphla Chai",
     "state_id": 3534,
     "state_code": "31",
@@ -237,10 +332,15 @@
     "latitude": "14.73011000",
     "longitude": "103.16728000",
     "county_id": 5620,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "พลับพลาชัย",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105785,
+    "id": 167165,
     "name": "Phutthaisong",
     "state_id": 3534,
     "state_code": "31",
@@ -249,7 +349,12 @@
     "latitude": "15.54783000",
     "longitude": "103.02467000",
     "county_id": 5614,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "พุทไธสง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106657,
@@ -261,7 +366,12 @@
     "latitude": "14.60592000",
     "longitude": "103.12081000",
     "county_id": 5612,
-    "wikiDataId": null
+    "wikiDataId": "Q15380573",
+    "type": "city",
+    "native": "ประโคนชัย",
+    "timezone": "Asia/Bangkok",
+    "population": 15564,
+    "population_year": null
   },
   {
     "id": 106691,
@@ -273,6 +383,11 @@
     "latitude": "15.29703000",
     "longitude": "103.29192000",
     "county_id": 5616,
-    "wikiDataId": null
+    "wikiDataId": "Q13025269",
+    "type": "town",
+    "native": "สตึก",
+    "timezone": "Asia/Bangkok",
+    "population": 11444,
+    "population_year": null
   }
 ]

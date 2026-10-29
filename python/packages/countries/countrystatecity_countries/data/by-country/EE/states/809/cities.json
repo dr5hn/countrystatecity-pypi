@@ -9,7 +9,12 @@
     "latitude": "58.42720000",
     "longitude": "24.49496000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3470339",
+    "type": "town",
+    "native": "Sauga",
+    "timezone": "Europe/Tallinn",
+    "population": 1318,
+    "population_year": null
   },
   {
     "id": 31710,
@@ -21,6 +26,28 @@
     "latitude": "58.40056000",
     "longitude": "24.66750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q730707",
+    "type": "city",
+    "native": "Sindi",
+    "timezone": "Europe/Tallinn",
+    "population": 3836,
+    "population_year": null
+  },
+  {
+    "id": 31726,
+    "name": "Tori vald",
+    "state_id": 5789,
+    "state_code": "809",
+    "country_id": 69,
+    "country_code": "EE",
+    "latitude": "58.48663000",
+    "longitude": "24.88961000",
+    "county_id": null,
+    "wikiDataId": "Q1019999",
+    "type": "city",
+    "native": "Tori vald",
+    "timezone": "Europe/Tallinn",
+    "population": null,
+    "population_year": null
   }
 ]

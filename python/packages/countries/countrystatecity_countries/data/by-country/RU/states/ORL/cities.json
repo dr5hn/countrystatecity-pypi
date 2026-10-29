@@ -9,7 +9,12 @@
     "latitude": "53.44295000",
     "longitude": "36.00546000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Болхов",
+    "timezone": "Europe/Moscow",
+    "population": 11904,
+    "population_year": null
   },
   {
     "id": 97992,
@@ -21,7 +26,12 @@
     "latitude": "53.41667000",
     "longitude": "36.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2216474",
+    "type": "city",
+    "native": "Болховский район",
+    "timezone": "Europe/Moscow",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 98286,
@@ -33,7 +43,12 @@
     "latitude": "52.50500000",
     "longitude": "35.14640000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q135358",
+    "type": "city",
+    "native": "Дмитровск-Орловский",
+    "timezone": "Europe/Moscow",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 98496,
@@ -45,7 +60,12 @@
     "latitude": "52.50057000",
     "longitude": "36.31997000",
     "county_id": 9290,
-    "wikiDataId": null
+    "wikiDataId": "Q4119293",
+    "type": "town",
+    "native": "Глазуновка",
+    "timezone": "Europe/Moscow",
+    "population": 6666,
+    "population_year": null
   },
   {
     "id": 99002,
@@ -57,7 +77,12 @@
     "latitude": "52.85386000",
     "longitude": "37.43880000",
     "county_id": 9302,
-    "wikiDataId": null
+    "wikiDataId": "Q4499677",
+    "type": "town",
+    "native": "Хомутово",
+    "timezone": "Europe/Moscow",
+    "population": 3874,
+    "population_year": null
   },
   {
     "id": 99011,
@@ -69,7 +94,12 @@
     "latitude": "53.12860000",
     "longitude": "35.39660000",
     "county_id": 9309,
-    "wikiDataId": null
+    "wikiDataId": "Q4500430",
+    "type": "town",
+    "native": "Хотынец",
+    "timezone": "Europe/Moscow",
+    "population": 3514,
+    "population_year": null
   },
   {
     "id": 99148,
@@ -81,7 +111,12 @@
     "latitude": "52.22823000",
     "longitude": "37.03683000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q35698704",
+    "type": "adm2",
+    "native": "Колпны",
+    "timezone": "Europe/Moscow",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 99219,
@@ -93,7 +128,12 @@
     "latitude": "53.26767000",
     "longitude": "37.35689000",
     "county_id": 9298,
-    "wikiDataId": null
+    "wikiDataId": "Q35699911",
+    "type": "village",
+    "native": "Корсаково",
+    "timezone": "Europe/Moscow",
+    "population": 1452,
+    "population_year": null
   },
   {
     "id": 99287,
@@ -105,7 +145,12 @@
     "latitude": "52.78250000",
     "longitude": "37.68056000",
     "county_id": 9296,
-    "wikiDataId": null
+    "wikiDataId": "Q4237977",
+    "type": "village",
+    "native": "Красная Заря",
+    "timezone": "Europe/Moscow",
+    "population": 1565,
+    "population_year": null
   },
   {
     "id": 99396,
@@ -117,7 +162,12 @@
     "latitude": "52.68762000",
     "longitude": "35.76665000",
     "county_id": 9297,
-    "wikiDataId": null
+    "wikiDataId": "Q35703046",
+    "type": "town",
+    "native": "Кромы",
+    "timezone": "Europe/Moscow",
+    "population": 7017,
+    "population_year": null
   },
   {
     "id": 99644,
@@ -129,7 +179,12 @@
     "latitude": "52.42534000",
     "longitude": "37.60689000",
     "county_id": 10258,
-    "wikiDataId": null
+    "wikiDataId": "Q157576",
+    "type": "city",
+    "native": "Ливны",
+    "timezone": "Europe/Moscow",
+    "population": 42928,
+    "population_year": null
   },
   {
     "id": 99762,
@@ -141,7 +196,12 @@
     "latitude": "52.40024000",
     "longitude": "36.50332000",
     "county_id": 9300,
-    "wikiDataId": null
+    "wikiDataId": "Q157990",
+    "type": "city",
+    "native": "Малоархангельск",
+    "timezone": "Europe/Moscow",
+    "population": 3962,
+    "population_year": null
   },
   {
     "id": 99992,
@@ -153,7 +213,12 @@
     "latitude": "53.27657000",
     "longitude": "36.57334000",
     "county_id": 10259,
-    "wikiDataId": null
+    "wikiDataId": "Q162698",
+    "type": "city",
+    "native": "Мценск",
+    "timezone": "Europe/Moscow",
+    "population": 36070,
+    "population_year": null
   },
   {
     "id": 100063,
@@ -165,7 +230,12 @@
     "latitude": "52.96778000",
     "longitude": "35.72677000",
     "county_id": 9308,
-    "wikiDataId": null
+    "wikiDataId": "Q303020",
+    "type": "town",
+    "native": "Нарышкино",
+    "timezone": "Europe/Moscow",
+    "population": 9336,
+    "population_year": null
   },
   {
     "id": 100305,
@@ -177,7 +247,12 @@
     "latitude": "52.97387000",
     "longitude": "37.04048000",
     "county_id": 9303,
-    "wikiDataId": null
+    "wikiDataId": "Q175258",
+    "type": "city",
+    "native": "Новосиль",
+    "timezone": "Europe/Moscow",
+    "population": 3989,
+    "population_year": null
   },
   {
     "id": 100482,
@@ -189,7 +264,12 @@
     "latitude": "52.96508000",
     "longitude": "36.07849000",
     "county_id": 10257,
-    "wikiDataId": null
+    "wikiDataId": "Q3118",
+    "type": "city",
+    "native": "Орел",
+    "timezone": "Europe/Moscow",
+    "population": 303696,
+    "population_year": null
   },
   {
     "id": 100748,
@@ -201,7 +281,12 @@
     "latitude": "52.60968000",
     "longitude": "36.87124000",
     "county_id": 9304,
-    "wikiDataId": null
+    "wikiDataId": "Q37958951",
+    "type": "town",
+    "native": "Покровское",
+    "timezone": "Europe/Moscow",
+    "population": 3751,
+    "population_year": null
   },
   {
     "id": 101230,
@@ -213,7 +298,12 @@
     "latitude": "52.85661000",
     "longitude": "35.19637000",
     "county_id": 9310,
-    "wikiDataId": null
+    "wikiDataId": "Q4519154",
+    "type": "town",
+    "native": "Шаблыкино",
+    "timezone": "Europe/Moscow",
+    "population": 3848,
+    "population_year": null
   },
   {
     "id": 101483,
@@ -225,7 +315,12 @@
     "latitude": "52.74752000",
     "longitude": "35.38277000",
     "county_id": 9306,
-    "wikiDataId": null
+    "wikiDataId": "Q37957312",
+    "type": "village",
+    "native": "Сосково",
+    "timezone": "Europe/Moscow",
+    "population": 1794,
+    "population_year": null
   },
   {
     "id": 101535,
@@ -237,7 +332,12 @@
     "latitude": "53.37012000",
     "longitude": "36.62297000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23879767",
+    "type": "city",
+    "native": "Спасское-Лутовиново",
+    "timezone": "Europe/Moscow",
+    "population": 1411,
+    "population_year": null
   },
   {
     "id": 101927,
@@ -249,7 +349,12 @@
     "latitude": "52.44460000",
     "longitude": "35.77910000",
     "county_id": 9307,
-    "wikiDataId": null
+    "wikiDataId": "Q6695045",
+    "type": "village",
+    "native": "Тросна",
+    "timezone": "Europe/Moscow",
+    "population": 2530,
+    "population_year": null
   },
   {
     "id": 102280,
@@ -261,7 +366,12 @@
     "latitude": "52.81165000",
     "longitude": "37.24215000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Верховье",
+    "timezone": "Europe/Moscow",
+    "population": 8100,
+    "population_year": null
   },
   {
     "id": 102442,
@@ -273,7 +383,12 @@
     "latitude": "52.06302000",
     "longitude": "37.40518000",
     "county_id": 9292,
-    "wikiDataId": null
+    "wikiDataId": "Q37954918",
+    "type": "village",
+    "native": "Вышнее Долгое",
+    "timezone": "Europe/Moscow",
+    "population": 4953,
+    "population_year": null
   },
   {
     "id": 102637,
@@ -285,7 +400,12 @@
     "latitude": "52.89890000",
     "longitude": "36.89093000",
     "county_id": 9293,
-    "wikiDataId": null
+    "wikiDataId": "Q1965774",
+    "type": "town",
+    "native": "Залегощь",
+    "timezone": "Europe/Moscow",
+    "population": 5925,
+    "population_year": null
   },
   {
     "id": 102755,
@@ -297,7 +417,12 @@
     "latitude": "52.66697000",
     "longitude": "36.37426000",
     "county_id": 9305,
-    "wikiDataId": null
+    "wikiDataId": "Q33528233",
+    "type": "town",
+    "native": "Змиевка",
+    "timezone": "Europe/Moscow",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 102757,
@@ -309,7 +434,12 @@
     "latitude": "52.89789000",
     "longitude": "35.97703000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Знаменка",
+    "timezone": "Europe/Moscow",
+    "population": 9711,
+    "population_year": null
   },
   {
     "id": 102762,
@@ -321,6 +451,11 @@
     "latitude": "53.27869000",
     "longitude": "35.69055000",
     "county_id": 9294,
-    "wikiDataId": null
+    "wikiDataId": "Q4192869",
+    "type": "village",
+    "native": "Знаменское",
+    "timezone": "Europe/Moscow",
+    "population": 5223,
+    "population_year": null
   }
 ]

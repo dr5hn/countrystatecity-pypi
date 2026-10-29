@@ -9,7 +9,12 @@
     "latitude": "12.25610000",
     "longitude": "105.97004000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14206584",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 64958,
@@ -21,7 +26,12 @@
     "latitude": "12.57000000",
     "longitude": "106.20000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4929457",
+    "type": "city",
+    "native": "ការបមបេក",
+    "timezone": "Asia/Phnom_Penh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 64960,
@@ -33,7 +43,12 @@
     "latitude": "12.48811000",
     "longitude": "106.01879000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q261892",
+    "type": "adm1",
+    "native": "ក្រចេះ",
+    "timezone": "Asia/Phnom_Penh",
+    "population": 19975,
+    "population_year": null
   },
   {
     "id": 64983,
@@ -45,6 +60,11 @@
     "latitude": "12.19373000",
     "longitude": "106.47361000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4929275",
+    "type": "city",
+    "native": "ស្រុកស្នួល",
+    "timezone": "Asia/Phnom_Penh",
+    "population": 61603,
+    "population_year": null
   }
 ]

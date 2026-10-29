@@ -9,7 +9,12 @@
     "latitude": "45.95915000",
     "longitude": "15.49167000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15886",
+    "type": "city",
+    "native": "Krško",
+    "timezone": "Europe/Ljubljana",
+    "population": 6852,
+    "population_year": null
   },
   {
     "id": 104164,
@@ -21,7 +26,12 @@
     "latitude": "45.93566000",
     "longitude": "15.47184000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2125054",
+    "type": "locality",
+    "native": "Leskovec pri Krškem",
+    "timezone": "Europe/Ljubljana",
+    "population": 1121,
+    "population_year": null
   },
   {
     "id": 104267,
@@ -33,6 +43,11 @@
     "latitude": "46.02361000",
     "longitude": "15.47694000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2327320",
+    "type": "locality",
+    "native": "Senovo",
+    "timezone": "Europe/Ljubljana",
+    "population": 2254,
+    "population_year": null
   }
 ]

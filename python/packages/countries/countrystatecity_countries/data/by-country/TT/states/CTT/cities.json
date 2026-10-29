@@ -9,7 +9,12 @@
     "latitude": "10.42248000",
     "longitude": "-61.46748000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2602007",
+    "type": "adm1",
+    "native": "Couva",
+    "timezone": "America/Port_of_Spain",
+    "population": 5178,
+    "population_year": null
   },
   {
     "id": 108988,
@@ -21,6 +26,11 @@
     "latitude": "10.38824000",
     "longitude": "-61.29704000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tabaquite",
+    "timezone": "America/Port_of_Spain",
+    "population": 3314,
+    "population_year": null
   }
 ]

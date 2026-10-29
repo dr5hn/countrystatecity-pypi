@@ -9,7 +9,12 @@
     "latitude": "16.97333000",
     "longitude": "7.99111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q320049",
+    "type": "adm1",
+    "native": "Agadez",
+    "timezone": "Africa/Niamey",
+    "population": 149549,
+    "population_year": null
   },
   {
     "id": 76677,
@@ -21,7 +26,12 @@
     "latitude": "17.01870000",
     "longitude": "8.01680000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q320049",
+    "type": "city",
+    "native": "Allaghsas",
+    "timezone": "Africa/Niamey",
+    "population": 88561,
+    "population_year": null
   },
   {
     "id": 76678,
@@ -33,7 +43,12 @@
     "latitude": "18.83409000",
     "longitude": "7.43327000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q675798",
+    "type": "city",
+    "native": "Arlit",
+    "timezone": "Africa/Niamey",
+    "population": 78651,
+    "population_year": null
   },
   {
     "id": 76681,
@@ -45,7 +60,12 @@
     "latitude": "18.68532000",
     "longitude": "12.91643000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Bilma",
+    "timezone": "Africa/Niamey",
+    "population": 5435,
+    "population_year": null
   },
   {
     "id": 76690,
@@ -57,7 +77,12 @@
     "latitude": "20.50000000",
     "longitude": "13.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q863297",
+    "type": "city",
+    "native": "Département de Bilma",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76711,
@@ -69,6 +94,11 @@
     "latitude": "17.43293000",
     "longitude": "7.89321000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1464380",
+    "type": "city",
+    "native": "Département de Tchirozérine",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   }
 ]

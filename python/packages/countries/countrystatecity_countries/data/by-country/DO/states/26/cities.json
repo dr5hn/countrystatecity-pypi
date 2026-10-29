@@ -9,7 +9,12 @@
     "latitude": "19.46667000",
     "longitude": "-71.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3307947",
+    "type": "city",
+    "native": "Monción",
+    "timezone": "America/Santo_Domingo",
+    "population": 11753,
+    "population_year": null
   },
   {
     "id": 31177,
@@ -21,7 +26,12 @@
     "latitude": "19.47793000",
     "longitude": "-71.34125000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Sabaneta",
+    "timezone": "America/Santo_Domingo",
+    "population": 98453,
+    "population_year": null
   },
   {
     "id": 31187,
@@ -33,6 +43,11 @@
     "latitude": "19.38333000",
     "longitude": "-71.35000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2021983",
+    "type": "adm1",
+    "native": "San Ignacio de Sabaneta",
+    "timezone": "America/Santo_Domingo",
+    "population": null,
+    "population_year": null
   }
 ]

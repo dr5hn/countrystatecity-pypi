@@ -8,8 +8,13 @@
     "country_code": "TR",
     "latitude": "37.88738000",
     "longitude": "41.13221000",
-    "county_id": 6903,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q159835",
+    "type": "adm1",
+    "native": "Batman",
+    "timezone": "Europe/Istanbul",
+    "population": 491925,
+    "population_year": 2025
   },
   {
     "id": 107350,
@@ -20,8 +25,13 @@
     "country_code": "TR",
     "latitude": "37.91573000",
     "longitude": "41.28650000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 6913,
+    "wikiDataId": "Q854667",
+    "type": "municipality",
+    "native": "Beşiri",
+    "timezone": "Europe/Istanbul",
+    "population": 9513,
+    "population_year": null
   },
   {
     "id": 107663,
@@ -33,7 +43,12 @@
     "latitude": "37.59139000",
     "longitude": "41.33278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1023286",
+    "type": "city",
+    "native": "Gercüş",
+    "timezone": "Europe/Istanbul",
+    "population": 20484,
+    "population_year": null
   },
   {
     "id": 107800,
@@ -45,7 +60,12 @@
     "latitude": "37.70612000",
     "longitude": "41.40480000",
     "county_id": 7644,
-    "wikiDataId": null
+    "wikiDataId": "Q2125354",
+    "type": "municipality",
+    "native": "Hasankeyf",
+    "timezone": "Europe/Istanbul",
+    "population": 4050,
+    "population_year": 2025
   },
   {
     "id": 108035,
@@ -57,7 +77,12 @@
     "latitude": "38.19249000",
     "longitude": "41.48705000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q477171",
+    "type": "adm2",
+    "native": "Kozluk",
+    "timezone": "Europe/Istanbul",
+    "population": 61437,
+    "population_year": null
   },
   {
     "id": 108415,
@@ -69,6 +94,11 @@
     "latitude": "38.32767000",
     "longitude": "41.41377000",
     "county_id": 7314,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Sason",
+    "timezone": "Europe/Istanbul",
+    "population": 12477,
+    "population_year": 2025
   }
 ]

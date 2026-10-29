@@ -9,7 +9,12 @@
     "latitude": "-16.11528000",
     "longitude": "33.72944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1289776",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "population": 45213,
+    "population_year": null
   },
   {
     "id": 165294,
@@ -21,7 +26,12 @@
     "latitude": "-15.59583000",
     "longitude": "32.76472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10373307",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "population": 31101,
+    "population_year": null
   },
   {
     "id": 76624,
@@ -33,6 +43,11 @@
     "latitude": "-16.15639000",
     "longitude": "33.58667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q388242",
+    "type": "adm1",
+    "native": "Tete",
+    "timezone": "Africa/Maputo",
+    "population": 357000,
+    "population_year": null
   }
 ]

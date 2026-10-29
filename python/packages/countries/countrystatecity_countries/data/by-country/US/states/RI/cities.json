@@ -9,7 +9,12 @@
     "latitude": "41.42343000",
     "longitude": "-71.78562000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q2944887",
+    "type": "locality",
+    "native": "Ashaway",
+    "timezone": "America/New_York",
+    "population": 1485,
+    "population_year": null
   },
   {
     "id": 111848,
@@ -21,7 +26,12 @@
     "latitude": "41.74066000",
     "longitude": "-71.30866000",
     "county_id": 255,
-    "wikiDataId": null
+    "wikiDataId": "Q641871",
+    "type": "town",
+    "native": "Barrington",
+    "timezone": "America/New_York",
+    "population": 17153,
+    "population_year": null
   },
   {
     "id": 112667,
@@ -33,7 +43,12 @@
     "latitude": "41.39899000",
     "longitude": "-71.73701000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q896936",
+    "type": "locality",
+    "native": "Bradford",
+    "timezone": "America/New_York",
+    "population": 1662,
+    "population_year": null
   },
   {
     "id": 112812,
@@ -45,7 +60,29 @@
     "latitude": "41.67705000",
     "longitude": "-71.26616000",
     "county_id": 255,
-    "wikiDataId": null
+    "wikiDataId": "Q917809",
+    "type": "town",
+    "native": "Bristol",
+    "timezone": "America/New_York",
+    "population": 22493,
+    "population_year": null
+  },
+  {
+    "id": 168590,
+    "name": "Burrillville",
+    "state_id": 1461,
+    "state_code": "RI",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.97029100",
+    "longitude": "-71.69866000",
+    "county_id": 2211,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Burrillville",
+    "timezone": "America/New_York",
+    "population": 16158,
+    "population_year": 2020
   },
   {
     "id": 113673,
@@ -57,7 +94,12 @@
     "latitude": "41.89066000",
     "longitude": "-71.39228000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q54273",
+    "type": "city",
+    "native": "Central Falls",
+    "timezone": "America/New_York",
+    "population": 22583,
+    "population_year": null
   },
   {
     "id": 113773,
@@ -69,7 +111,12 @@
     "latitude": "41.38316000",
     "longitude": "-71.64173000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q1066711",
+    "type": "town",
+    "native": "Charlestown",
+    "timezone": "America/New_York",
+    "population": 7997,
+    "population_year": null
   },
   {
     "id": 113843,
@@ -81,7 +128,12 @@
     "latitude": "41.91510000",
     "longitude": "-71.67146000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q2962682",
+    "type": "locality",
+    "native": "Chepachet",
+    "timezone": "America/New_York",
+    "population": 1675,
+    "population_year": null
   },
   {
     "id": 114732,
@@ -93,7 +145,12 @@
     "latitude": "41.70010000",
     "longitude": "-71.68284000",
     "county_id": 1408,
-    "wikiDataId": null
+    "wikiDataId": "Q1016933",
+    "type": "town",
+    "native": "Coventry",
+    "timezone": "America/New_York",
+    "population": 35525,
+    "population_year": null
   },
   {
     "id": 114772,
@@ -105,7 +162,12 @@
     "latitude": "41.77982000",
     "longitude": "-71.43728000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q49197",
+    "type": "city",
+    "native": "Cranston",
+    "timezone": "America/New_York",
+    "population": 81073,
+    "population_year": null
   },
   {
     "id": 114909,
@@ -117,7 +179,12 @@
     "latitude": "41.96677000",
     "longitude": "-71.43284000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q1143667",
+    "type": "town",
+    "native": "Cumberland",
+    "timezone": "America/New_York",
+    "population": 34843,
+    "population_year": null
   },
   {
     "id": 114921,
@@ -129,7 +196,12 @@
     "latitude": "41.97454000",
     "longitude": "-71.46700000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q3476774",
+    "type": "locality",
+    "native": "Cumberland Hill",
+    "timezone": "America/New_York",
+    "population": 7934,
+    "population_year": null
   },
   {
     "id": 115674,
@@ -141,7 +213,12 @@
     "latitude": "41.66038000",
     "longitude": "-71.45589000",
     "county_id": 1408,
-    "wikiDataId": null
+    "wikiDataId": "Q999257",
+    "type": "town",
+    "native": "East Greenwich",
+    "timezone": "America/New_York",
+    "population": 14312,
+    "population_year": null
   },
   {
     "id": 115741,
@@ -153,7 +230,12 @@
     "latitude": "41.81371000",
     "longitude": "-71.37005000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q54268",
+    "type": "city",
+    "native": "East Providence",
+    "timezone": "America/New_York",
+    "population": 47139,
+    "population_year": null
   },
   {
     "id": 116273,
@@ -165,7 +247,12 @@
     "latitude": "41.57760000",
     "longitude": "-71.53756000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q1026412",
+    "type": "town",
+    "native": "Exeter",
+    "timezone": "America/New_York",
+    "population": 6426,
+    "population_year": null
   },
   {
     "id": 116774,
@@ -177,7 +264,29 @@
     "latitude": "41.85371000",
     "longitude": "-71.75812000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q938755",
+    "type": "town",
+    "native": "Foster",
+    "timezone": "America/New_York",
+    "population": 4469,
+    "population_year": null
+  },
+  {
+    "id": 168591,
+    "name": "Glocester",
+    "state_id": 1461,
+    "state_code": "RI",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.89432400",
+    "longitude": "-71.68690500",
+    "county_id": 2211,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Glocester",
+    "timezone": "America/New_York",
+    "population": 9974,
+    "population_year": 2020
   },
   {
     "id": 117695,
@@ -189,7 +298,12 @@
     "latitude": "41.87121000",
     "longitude": "-71.55201000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q3476779",
+    "type": "locality",
+    "native": "Greenville",
+    "timezone": "America/New_York",
+    "population": 8658,
+    "population_year": null
   },
   {
     "id": 118076,
@@ -201,7 +315,12 @@
     "latitude": "41.96565000",
     "longitude": "-71.67451000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q3313480",
+    "type": "locality",
+    "native": "Harrisville",
+    "timezone": "America/New_York",
+    "population": 1605,
+    "population_year": null
   },
   {
     "id": 118646,
@@ -213,7 +332,12 @@
     "latitude": "41.50760000",
     "longitude": "-71.71618000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q1835270",
+    "type": "locality",
+    "native": "Hope Valley",
+    "timezone": "America/New_York",
+    "population": 1612,
+    "population_year": null
   },
   {
     "id": 118658,
@@ -225,7 +349,12 @@
     "latitude": "41.46121000",
     "longitude": "-71.77757000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q1627686",
+    "type": "town",
+    "native": "Hopkinton",
+    "timezone": "America/New_York",
+    "population": 8398,
+    "population_year": null
   },
   {
     "id": 119125,
@@ -237,7 +366,12 @@
     "latitude": "41.49705000",
     "longitude": "-71.36728000",
     "county_id": 1952,
-    "wikiDataId": null
+    "wikiDataId": "Q1378580",
+    "type": "town",
+    "native": "Jamestown",
+    "timezone": "America/New_York",
+    "population": 5755,
+    "population_year": null
   },
   {
     "id": 119279,
@@ -249,7 +383,12 @@
     "latitude": "41.82186000",
     "longitude": "-71.50675000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q368233",
+    "type": "town",
+    "native": "Johnston",
+    "timezone": "America/New_York",
+    "population": 29568,
+    "population_year": null
   },
   {
     "id": 119629,
@@ -261,7 +400,12 @@
     "latitude": "41.48038000",
     "longitude": "-71.52256000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q1742162",
+    "type": "locality",
+    "native": "Kingston",
+    "timezone": "America/New_York",
+    "population": 6974,
+    "population_year": null
   },
   {
     "id": 120513,
@@ -273,7 +417,29 @@
     "latitude": "41.92111000",
     "longitude": "-71.43500000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q1816735",
+    "type": "town",
+    "native": "Lincoln",
+    "timezone": "America/New_York",
+    "population": 21670,
+    "population_year": null
+  },
+  {
+    "id": 168589,
+    "name": "Little Compton",
+    "state_id": 1461,
+    "state_code": "RI",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.50286100",
+    "longitude": "-71.16580800",
+    "county_id": 1952,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Little Compton",
+    "timezone": "America/New_York",
+    "population": 3616,
+    "population_year": 2020
   },
   {
     "id": 121636,
@@ -285,7 +451,12 @@
     "latitude": "41.58705000",
     "longitude": "-71.28338000",
     "county_id": 1952,
-    "wikiDataId": null
+    "wikiDataId": "Q2390068",
+    "type": "locality",
+    "native": "Melville",
+    "timezone": "America/New_York",
+    "population": 1320,
+    "population_year": null
   },
   {
     "id": 121793,
@@ -297,7 +468,12 @@
     "latitude": "41.54566000",
     "longitude": "-71.29144000",
     "county_id": 1952,
-    "wikiDataId": null
+    "wikiDataId": "Q1013038",
+    "type": "town",
+    "native": "Middletown",
+    "timezone": "America/New_York",
+    "population": 17303,
+    "population_year": null
   },
   {
     "id": 122564,
@@ -309,7 +485,12 @@
     "latitude": "41.45010000",
     "longitude": "-71.44950000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q1932484",
+    "type": "town",
+    "native": "Narragansett",
+    "timezone": "America/New_York",
+    "population": 14532,
+    "population_year": null
   },
   {
     "id": 122565,
@@ -321,7 +502,12 @@
     "latitude": "41.43232000",
     "longitude": "-71.45644000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q2650031",
+    "type": "locality",
+    "native": "Narragansett Pier",
+    "timezone": "America/New_York",
+    "population": 3409,
+    "population_year": null
   },
   {
     "id": 122778,
@@ -333,7 +519,12 @@
     "latitude": "41.17233000",
     "longitude": "-71.55783000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q2448480",
+    "type": "town",
+    "native": "New Shoreham",
+    "timezone": "America/New_York",
+    "population": 1047,
+    "population_year": null
   },
   {
     "id": 122849,
@@ -345,7 +536,12 @@
     "latitude": "41.49010000",
     "longitude": "-71.31283000",
     "county_id": 1952,
-    "wikiDataId": null
+    "wikiDataId": "Q54264",
+    "type": "city",
+    "native": "Newport",
+    "timezone": "America/New_York",
+    "population": 24251,
+    "population_year": 2025
   },
   {
     "id": 122855,
@@ -357,7 +553,12 @@
     "latitude": "41.51579000",
     "longitude": "-71.28752000",
     "county_id": 1952,
-    "wikiDataId": null
+    "wikiDataId": "Q4246992",
+    "type": "locality",
+    "native": "Newport East",
+    "timezone": "America/New_York",
+    "population": 11769,
+    "population_year": null
   },
   {
     "id": 123048,
@@ -369,7 +570,12 @@
     "latitude": "41.55010000",
     "longitude": "-71.46617000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q2000741",
+    "type": "town",
+    "native": "North Kingstown",
+    "timezone": "America/New_York",
+    "population": 27732,
+    "population_year": null
   },
   {
     "id": 123089,
@@ -381,7 +587,12 @@
     "latitude": "41.85010000",
     "longitude": "-71.46617000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q1625652",
+    "type": "town",
+    "native": "North Providence",
+    "timezone": "America/New_York",
+    "population": 34114,
+    "population_year": null
   },
   {
     "id": 123102,
@@ -393,7 +604,12 @@
     "latitude": "41.83177000",
     "longitude": "-71.58729000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q7545681",
+    "type": "locality",
+    "native": "North Scituate",
+    "timezone": "America/New_York",
+    "population": 11171,
+    "population_year": null
   },
   {
     "id": 123108,
@@ -405,7 +621,12 @@
     "latitude": "41.96677000",
     "longitude": "-71.54951000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q1816636",
+    "type": "town",
+    "native": "North Smithfield",
+    "timezone": "America/New_York",
+    "population": 12588,
+    "population_year": null
   },
   {
     "id": 123903,
@@ -417,7 +638,12 @@
     "latitude": "41.95565000",
     "longitude": "-71.70229000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q3459860",
+    "type": "locality",
+    "native": "Pascoag",
+    "timezone": "America/New_York",
+    "population": 4577,
+    "population_year": null
   },
   {
     "id": 123939,
@@ -429,7 +655,12 @@
     "latitude": "41.87871000",
     "longitude": "-71.38256000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q49200",
+    "type": "city",
+    "native": "Pawtucket",
+    "timezone": "America/New_York",
+    "population": 75604,
+    "population_year": null
   },
   {
     "id": 124571,
@@ -441,7 +672,12 @@
     "latitude": "41.60232000",
     "longitude": "-71.25033000",
     "county_id": 1952,
-    "wikiDataId": null
+    "wikiDataId": "Q1787188",
+    "type": "town",
+    "native": "Portsmouth",
+    "timezone": "America/New_York",
+    "population": 17871,
+    "population_year": null
   },
   {
     "id": 124716,
@@ -453,7 +689,46 @@
     "latitude": "41.82399000",
     "longitude": "-71.41283000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q18383",
+    "type": "city",
+    "native": "Providence",
+    "timezone": "America/New_York",
+    "population": 195310,
+    "population_year": 2025
+  },
+  {
+    "id": 168593,
+    "name": "Richmond",
+    "state_id": 1461,
+    "state_code": "RI",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.49470700",
+    "longitude": "-71.66930900",
+    "county_id": 2810,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Richmond",
+    "timezone": "America/New_York",
+    "population": 8020,
+    "population_year": 2020
+  },
+  {
+    "id": 168592,
+    "name": "Scituate",
+    "state_id": 1461,
+    "state_code": "RI",
+    "country_id": 233,
+    "country_code": "US",
+    "latitude": "41.81153800",
+    "longitude": "-71.63278000",
+    "county_id": 2211,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Scituate",
+    "timezone": "America/New_York",
+    "population": 10384,
+    "population_year": 2020
   },
   {
     "id": 126520,
@@ -465,7 +740,12 @@
     "latitude": "41.92204000",
     "longitude": "-71.54951000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q1027898",
+    "type": "town",
+    "native": "Smithfield",
+    "timezone": "America/New_York",
+    "population": 21872,
+    "population_year": null
   },
   {
     "id": 126683,
@@ -477,7 +757,12 @@
     "latitude": "41.44718000",
     "longitude": "-71.52494000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q163507",
+    "type": "town",
+    "native": "South Kingstown",
+    "timezone": "America/New_York",
+    "population": 31931,
+    "population_year": null
   },
   {
     "id": 127687,
@@ -489,7 +774,12 @@
     "latitude": "41.62594000",
     "longitude": "-71.21338000",
     "county_id": 1952,
-    "wikiDataId": null
+    "wikiDataId": "Q1027996",
+    "type": "town",
+    "native": "Tiverton",
+    "timezone": "America/New_York",
+    "population": 7557,
+    "population_year": null
   },
   {
     "id": 128108,
@@ -501,7 +791,12 @@
     "latitude": "41.90677000",
     "longitude": "-71.39061000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q3476807",
+    "type": "locality",
+    "native": "Valley Falls",
+    "timezone": "America/New_York",
+    "population": 11547,
+    "population_year": null
   },
   {
     "id": 128364,
@@ -513,7 +808,12 @@
     "latitude": "41.44606000",
     "longitude": "-71.50040000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q774319",
+    "type": "locality",
+    "native": "Wakefield-Peacedale",
+    "timezone": "America/New_York",
+    "population": 8487,
+    "population_year": null
   },
   {
     "id": 128484,
@@ -525,7 +825,12 @@
     "latitude": "41.73038000",
     "longitude": "-71.28255000",
     "county_id": 255,
-    "wikiDataId": null
+    "wikiDataId": "Q1027951",
+    "type": "town",
+    "native": "Warren",
+    "timezone": "America/New_York",
+    "population": 11280,
+    "population_year": null
   },
   {
     "id": 128525,
@@ -537,7 +842,12 @@
     "latitude": "41.70010000",
     "longitude": "-71.41617000",
     "county_id": 1408,
-    "wikiDataId": null
+    "wikiDataId": "Q49195",
+    "type": "city",
+    "native": "Warwick",
+    "timezone": "America/New_York",
+    "population": 82823,
+    "population_year": null
   },
   {
     "id": 128880,
@@ -549,7 +859,12 @@
     "latitude": "41.63700000",
     "longitude": "-71.66004000",
     "county_id": 1408,
-    "wikiDataId": null
+    "wikiDataId": "Q1644523",
+    "type": "town",
+    "native": "West Greenwich",
+    "timezone": "America/New_York",
+    "population": 6528,
+    "population_year": null
   },
   {
     "id": 129002,
@@ -561,7 +876,12 @@
     "latitude": "41.69689000",
     "longitude": "-71.52194000",
     "county_id": 1408,
-    "wikiDataId": null
+    "wikiDataId": "Q1280233",
+    "type": "town",
+    "native": "West Warwick",
+    "timezone": "America/New_York",
+    "population": 31012,
+    "population_year": null
   },
   {
     "id": 129023,
@@ -573,7 +893,12 @@
     "latitude": "41.37760000",
     "longitude": "-71.82729000",
     "county_id": 2810,
-    "wikiDataId": null
+    "wikiDataId": "Q1028023",
+    "type": "locality",
+    "native": "Westerly",
+    "timezone": "America/New_York",
+    "population": 17936,
+    "population_year": null
   },
   {
     "id": 129582,
@@ -585,6 +910,11 @@
     "latitude": "42.00288000",
     "longitude": "-71.51478000",
     "county_id": 2211,
-    "wikiDataId": null
+    "wikiDataId": "Q54276",
+    "type": "city",
+    "native": "Woonsocket",
+    "timezone": "America/New_York",
+    "population": 41475,
+    "population_year": null
   }
 ]

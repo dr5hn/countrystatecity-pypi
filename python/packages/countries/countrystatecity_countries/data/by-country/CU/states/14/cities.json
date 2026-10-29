@@ -9,7 +9,12 @@
     "latitude": "20.34711000",
     "longitude": "-74.49624000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Baracoa",
+    "timezone": "America/Havana",
+    "population": 48362,
+    "population_year": null
   },
   {
     "id": 21860,
@@ -21,7 +26,12 @@
     "latitude": "20.14444000",
     "longitude": "-75.20917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Guantánamo",
+    "timezone": "America/Havana",
+    "population": 228436,
+    "population_year": null
   },
   {
     "id": 21889,
@@ -33,7 +43,12 @@
     "latitude": "20.24673000",
     "longitude": "-74.15181000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q911750",
+    "type": "city",
+    "native": "Maisí",
+    "timezone": "America/Havana",
+    "population": 28276,
+    "population_year": null
   },
   {
     "id": 21916,
@@ -45,7 +60,12 @@
     "latitude": "20.26723000",
     "longitude": "-75.15546000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q185156",
+    "type": "city",
+    "native": "Municipio de Guantánamo",
+    "timezone": "America/Havana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21955,
@@ -57,7 +77,12 @@
     "latitude": "20.36667000",
     "longitude": "-75.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20592832",
+    "type": "locality",
+    "native": "Río Guayabal de Yateras",
+    "timezone": "America/Havana",
+    "population": 25753,
+    "population_year": null
   },
   {
     "id": 21958,
@@ -69,6 +94,11 @@
     "latitude": "20.05564000",
     "longitude": "-74.80750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "San Antonio del Sur",
+    "timezone": "America/Havana",
+    "population": 0,
+    "population_year": null
   }
 ]

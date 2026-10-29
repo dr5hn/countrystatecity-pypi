@@ -9,7 +9,12 @@
     "latitude": "-6.77137000",
     "longitude": "-79.84088000",
     "county_id": 8296,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Chiclayo",
+    "timezone": "America/Lima",
+    "population": 552508,
+    "population_year": null
   },
   {
     "id": 80621,
@@ -21,7 +26,12 @@
     "latitude": "-6.64056000",
     "longitude": "-79.38917000",
     "county_id": 8296,
-    "wikiDataId": null
+    "wikiDataId": "Q5767159",
+    "type": "municipality",
+    "native": "Chongoyape",
+    "timezone": "America/Lima",
+    "population": 16061,
+    "population_year": null
   },
   {
     "id": 80641,
@@ -33,7 +43,12 @@
     "latitude": "-6.90806000",
     "longitude": "-79.86417000",
     "county_id": 8296,
-    "wikiDataId": null
+    "wikiDataId": "Q5405199",
+    "type": "municipality",
+    "native": "Eten",
+    "timezone": "America/Lima",
+    "population": 11993,
+    "population_year": null
   },
   {
     "id": 80642,
@@ -45,7 +60,12 @@
     "latitude": "-6.63889000",
     "longitude": "-79.78889000",
     "county_id": 8297,
-    "wikiDataId": null
+    "wikiDataId": "Q2143690",
+    "type": "municipality",
+    "native": "Ferreña",
+    "timezone": "America/Lima",
+    "population": 31777,
+    "population_year": null
   },
   {
     "id": 80675,
@@ -57,7 +77,12 @@
     "latitude": "-6.39083000",
     "longitude": "-79.82194000",
     "county_id": 8298,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Jayanca",
+    "timezone": "America/Lima",
+    "population": 6126,
+    "population_year": null
   },
   {
     "id": 80694,
@@ -69,7 +94,12 @@
     "latitude": "-6.70111000",
     "longitude": "-79.90611000",
     "county_id": 8298,
-    "wikiDataId": null
+    "wikiDataId": "Q768086",
+    "type": "municipality",
+    "native": "Lambayeque",
+    "timezone": "America/Lima",
+    "population": 43710,
+    "population_year": null
   },
   {
     "id": 80716,
@@ -81,7 +111,12 @@
     "latitude": "-6.54364000",
     "longitude": "-79.86217000",
     "county_id": 8298,
-    "wikiDataId": null
+    "wikiDataId": "Q27194530",
+    "type": "municipality",
+    "native": "Mochumi",
+    "timezone": "America/Lima",
+    "population": 7460,
+    "population_year": null
   },
   {
     "id": 80718,
@@ -93,7 +128,12 @@
     "latitude": "-6.87431000",
     "longitude": "-79.86871000",
     "county_id": 8296,
-    "wikiDataId": null
+    "wikiDataId": "Q10976116",
+    "type": "municipality",
+    "native": "Melsefú",
+    "timezone": "America/Lima",
+    "population": 25707,
+    "population_year": null
   },
   {
     "id": 80728,
@@ -105,7 +145,12 @@
     "latitude": "-6.53536000",
     "longitude": "-80.01104000",
     "county_id": 8298,
-    "wikiDataId": null
+    "wikiDataId": "Q27194532",
+    "type": "municipality",
+    "native": "Mórrope",
+    "timezone": "America/Lima",
+    "population": 6662,
+    "population_year": null
   },
   {
     "id": 80725,
@@ -117,7 +162,12 @@
     "latitude": "-6.15194000",
     "longitude": "-79.71417000",
     "county_id": 8298,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Motupe",
+    "timezone": "America/Lima",
+    "population": 13681,
+    "population_year": null
   },
   {
     "id": 80732,
@@ -129,7 +179,12 @@
     "latitude": "-5.98472000",
     "longitude": "-79.74528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Olmo",
+    "timezone": "America/Lima",
+    "population": 9800,
+    "population_year": null
   },
   {
     "id": 80739,
@@ -141,7 +196,12 @@
     "latitude": "-6.84438000",
     "longitude": "-79.30093000",
     "county_id": 8296,
-    "wikiDataId": null
+    "wikiDataId": "Q27557971",
+    "type": "municipality",
+    "native": "Oyotún",
+    "timezone": "America/Lima",
+    "population": 6330,
+    "population_year": null
   },
   {
     "id": 80760,
@@ -153,7 +213,12 @@
     "latitude": "-6.71778000",
     "longitude": "-79.76972000",
     "county_id": 8296,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Picsi",
+    "timezone": "America/Lima",
+    "population": 43610,
+    "population_year": null
   },
   {
     "id": 80762,
@@ -165,7 +230,12 @@
     "latitude": "-6.83667000",
     "longitude": "-79.93417000",
     "county_id": 8296,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Pimentel",
+    "timezone": "America/Lima",
+    "population": 15552,
+    "population_year": null
   },
   {
     "id": 80804,
@@ -177,7 +247,12 @@
     "latitude": "-6.76667000",
     "longitude": "-79.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q546559",
+    "type": "province",
+    "native": "Provincia de Chiclayo",
+    "timezone": "America/Lima",
+    "population": 552508,
+    "population_year": null
   },
   {
     "id": 80823,
@@ -189,7 +264,12 @@
     "latitude": "-6.33333000",
     "longitude": "-79.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1948067",
+    "type": "province",
+    "native": "Provincia de Ferreñafe",
+    "timezone": "America/Lima",
+    "population": 97415,
+    "population_year": null
   },
   {
     "id": 80853,
@@ -201,7 +281,12 @@
     "latitude": "-6.08333000",
     "longitude": "-80.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q632826",
+    "type": "province",
+    "native": "Provincia de Lambayeque",
+    "timezone": "America/Lima",
+    "population": 300170,
+    "population_year": null
   },
   {
     "id": 80915,
@@ -213,7 +298,12 @@
     "latitude": "-5.71667000",
     "longitude": "-79.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Pueblo Nuevo",
+    "timezone": "America/Lima",
+    "population": 12471,
+    "population_year": null
   },
   {
     "id": 80932,
@@ -225,7 +315,12 @@
     "latitude": "-6.86556000",
     "longitude": "-79.81778000",
     "county_id": 8296,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Reque",
+    "timezone": "America/Lima",
+    "population": 9808,
+    "population_year": null
   },
   {
     "id": 80948,
@@ -237,7 +332,12 @@
     "latitude": "-6.73813000",
     "longitude": "-79.82750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "San José",
+    "timezone": "America/Lima",
+    "population": 7434,
+    "population_year": null
   },
   {
     "id": 80972,
@@ -249,7 +349,12 @@
     "latitude": "-6.91888000",
     "longitude": "-79.58200000",
     "county_id": 8296,
-    "wikiDataId": null
+    "wikiDataId": "Q6171043",
+    "type": "municipality",
+    "native": "Saña",
+    "timezone": "America/Lima",
+    "population": 39200,
+    "population_year": null
   },
   {
     "id": 80963,
@@ -261,7 +366,12 @@
     "latitude": "-6.75772000",
     "longitude": "-79.82747000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Santa Rosa",
+    "timezone": "America/Lima",
+    "population": 10625,
+    "population_year": null
   },
   {
     "id": 81001,
@@ -273,6 +383,11 @@
     "latitude": "-6.50637000",
     "longitude": "-79.85725000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1677131",
+    "type": "city",
+    "native": "Tucume",
+    "timezone": "America/Lima",
+    "population": 7043,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "-24.96667000",
     "longitude": "-57.56667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Benjamin Aceval",
+    "timezone": "America/Asuncion",
+    "population": 7751,
+    "population_year": null
   },
   {
     "id": 89798,
@@ -21,7 +26,12 @@
     "latitude": "-25.27930000",
     "longitude": "-57.70307000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q541522",
+    "type": "city",
+    "native": "Nanawua",
+    "timezone": "America/Asuncion",
+    "population": 5587,
+    "population_year": null
   },
   {
     "id": 89845,
@@ -33,6 +43,11 @@
     "latitude": "-25.09306000",
     "longitude": "-57.52361000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Villa Hayes",
+    "timezone": "America/Asuncion",
+    "population": 49328,
+    "population_year": null
   }
 ]

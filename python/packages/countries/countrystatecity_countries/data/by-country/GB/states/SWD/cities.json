@@ -9,7 +9,12 @@
     "latitude": "51.55130000",
     "longitude": "-1.64701000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Bishopstone",
+    "timezone": "Europe/London",
+    "population": 424,
+    "population_year": null
   },
   {
     "id": 48710,
@@ -21,7 +26,12 @@
     "latitude": "51.61339000",
     "longitude": "-1.77870000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24654406",
+    "type": "city",
+    "native": "Broad Blunsdon",
+    "timezone": "Europe/London",
+    "population": 1803,
+    "population_year": null
   },
   {
     "id": 48978,
@@ -33,7 +43,12 @@
     "latitude": "51.51606000",
     "longitude": "-1.73206000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1922836",
+    "type": "village",
+    "native": "Chiseldon",
+    "timezone": "Europe/London",
+    "population": 2492,
+    "population_year": null
   },
   {
     "id": 49800,
@@ -45,7 +60,12 @@
     "latitude": "51.63333000",
     "longitude": "-1.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2459277",
+    "type": "village",
+    "native": "Hannington",
+    "timezone": "Europe/London",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 49939,
@@ -57,7 +77,12 @@
     "latitude": "51.63051000",
     "longitude": "-1.71100000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q684452",
+    "type": "town",
+    "native": "Highworth",
+    "timezone": "Europe/London",
+    "population": 8256,
+    "population_year": null
   },
   {
     "id": 51537,
@@ -69,7 +94,12 @@
     "latitude": "51.55797000",
     "longitude": "-1.78116000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q200942",
+    "type": "adm2",
+    "native": "Swindon",
+    "timezone": "Europe/London",
+    "population": 222193,
+    "population_year": null
   },
   {
     "id": 51743,
@@ -81,7 +111,12 @@
     "latitude": "51.54263000",
     "longitude": "-1.69837000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2470395",
+    "type": "village",
+    "native": "Wanborough",
+    "timezone": "Europe/London",
+    "population": 1952,
+    "population_year": null
   },
   {
     "id": 52002,
@@ -93,6 +128,11 @@
     "latitude": "51.52411000",
     "longitude": "-1.79559000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1863505",
+    "type": "village",
+    "native": "Wroughton",
+    "timezone": "Europe/London",
+    "population": 6474,
+    "population_year": null
   }
 ]

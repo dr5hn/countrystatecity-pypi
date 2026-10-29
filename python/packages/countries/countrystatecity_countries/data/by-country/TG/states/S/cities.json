@@ -9,7 +9,12 @@
     "latitude": "10.86225000",
     "longitude": "0.20762000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q970904",
+    "type": "adm1",
+    "native": "Dapaong",
+    "timezone": "Africa/Lome",
+    "population": 58071,
+    "population_year": null
   },
   {
     "id": 105172,
@@ -21,7 +26,12 @@
     "latitude": "10.35917000",
     "longitude": "0.47083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1392195",
+    "type": "city",
+    "native": "Mango",
+    "timezone": "Africa/Lome",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 165583,
@@ -33,6 +43,11 @@
     "latitude": "11.10389000",
     "longitude": "0.00944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2972817",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Lome",
+    "population": 26926,
+    "population_year": null
   }
 ]

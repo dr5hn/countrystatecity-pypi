@@ -1,6 +1,6 @@
 [
   {
-    "id": 108195,
+    "id": 167909,
     "name": "Amasya",
     "state_id": 2161,
     "state_code": "05",
@@ -9,7 +9,12 @@
     "latitude": "40.65333000",
     "longitude": "35.83306000",
     "county_id": 6867,
-    "wikiDataId": null
+    "wikiDataId": "Q170532",
+    "type": "municipality",
+    "native": "Amasya",
+    "timezone": "Europe/Istanbul",
+    "population": 119931,
+    "population_year": 2025
   },
   {
     "id": 107716,
@@ -20,8 +25,13 @@
     "country_code": "TR",
     "latitude": "40.39917000",
     "longitude": "35.52500000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7085,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Göynücek",
+    "timezone": "Europe/Istanbul",
+    "population": 2796,
+    "population_year": null
   },
   {
     "id": 107737,
@@ -32,8 +42,13 @@
     "country_code": "TR",
     "latitude": "40.87306000",
     "longitude": "35.21472000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7090,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Gümüşhacıköy",
+    "timezone": "Europe/Istanbul",
+    "population": 14734,
+    "population_year": null
   },
   {
     "id": 107781,
@@ -44,8 +59,13 @@
     "country_code": "TR",
     "latitude": "40.79539000",
     "longitude": "35.03367000",
-    "county_id": 7641,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q2670691",
+    "type": "adm2",
+    "native": "Hamamözü",
+    "timezone": "Europe/Istanbul",
+    "population": 2090,
+    "population_year": 2025
   },
   {
     "id": 108200,
@@ -57,7 +77,12 @@
     "latitude": "40.88348000",
     "longitude": "35.47116000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q958135",
+    "type": "adm2",
+    "native": "Merzifon",
+    "timezone": "Europe/Istanbul",
+    "population": 50658,
+    "population_year": null
   },
   {
     "id": 108500,
@@ -68,8 +93,13 @@
     "country_code": "TR",
     "latitude": "40.83129000",
     "longitude": "35.64788000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7348,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Suluova",
+    "timezone": "Europe/Istanbul",
+    "population": 46608,
+    "population_year": null
   },
   {
     "id": 108554,
@@ -80,7 +110,12 @@
     "country_code": "TR",
     "latitude": "40.75972000",
     "longitude": "36.32250000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7375,
+    "wikiDataId": "Q225506",
+    "type": "municipality",
+    "native": "Taşova",
+    "timezone": "Europe/Istanbul",
+    "population": 19253,
+    "population_year": null
   }
 ]

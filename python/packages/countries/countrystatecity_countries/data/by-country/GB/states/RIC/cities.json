@@ -9,7 +9,12 @@
     "latitude": "51.41334000",
     "longitude": "-0.36701000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q766353",
+    "type": "city",
+    "native": "Hampton",
+    "timezone": "Europe/London",
+    "population": 18000,
+    "population_year": null
   },
   {
     "id": 51567,
@@ -21,7 +26,12 @@
     "latitude": "51.42233000",
     "longitude": "-0.33053000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2281721",
+    "type": "city",
+    "native": "Teddington",
+    "timezone": "Europe/London",
+    "population": 9615,
+    "population_year": null
   },
   {
     "id": 163987,
@@ -33,6 +43,11 @@
     "latitude": "51.44400000",
     "longitude": "-0.33700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q213955",
+    "type": "city",
+    "native": "Twickenham",
+    "timezone": "Europe/London",
+    "population": null,
+    "population_year": null
   }
 ]

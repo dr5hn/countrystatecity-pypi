@@ -9,7 +9,12 @@
     "latitude": "54.94452000",
     "longitude": "-1.42815000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "East Boldon",
+    "timezone": "Europe/London",
+    "population": 5001,
+    "population_year": null
   },
   {
     "id": 49880,
@@ -21,7 +26,12 @@
     "latitude": "54.97302000",
     "longitude": "-1.51546000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q984308",
+    "type": "town",
+    "native": "Hebburn",
+    "timezone": "Europe/London",
+    "population": 18808,
+    "population_year": null
   },
   {
     "id": 50093,
@@ -33,7 +43,12 @@
     "latitude": "54.98036000",
     "longitude": "-1.48423000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q782155",
+    "type": "town",
+    "native": "Jarrow",
+    "timezone": "Europe/London",
+    "population": 27526,
+    "population_year": null
   },
   {
     "id": 51365,
@@ -45,7 +60,12 @@
     "latitude": "54.99859000",
     "longitude": "-1.43230000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q279000",
+    "type": "town",
+    "native": "South Shields",
+    "timezone": "Europe/London",
+    "population": 75337,
+    "population_year": null
   },
   {
     "id": 51588,
@@ -57,7 +77,12 @@
     "latitude": "54.94260000",
     "longitude": "-1.45349000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "The Boldons",
+    "timezone": "Europe/London",
+    "population": 13567,
+    "population_year": null
   },
   {
     "id": 51867,
@@ -69,6 +94,11 @@
     "latitude": "54.95333000",
     "longitude": "-1.36861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7994159",
+    "type": "city",
+    "native": "Whitburn",
+    "timezone": "Europe/London",
+    "population": 5352,
+    "population_year": null
   }
 ]

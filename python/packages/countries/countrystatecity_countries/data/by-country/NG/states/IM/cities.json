@@ -9,7 +9,12 @@
     "latitude": "5.77015000",
     "longitude": "7.15473000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q25105778",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Africa/Lagos",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76925,
@@ -21,7 +26,12 @@
     "latitude": "5.58225000",
     "longitude": "7.09896000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Iho",
+    "timezone": "Africa/Lagos",
+    "population": 7776,
+    "population_year": null
   },
   {
     "id": 77055,
@@ -33,7 +43,12 @@
     "latitude": "5.71044000",
     "longitude": "6.80936000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3510973",
+    "type": "municipality",
+    "native": "Oguta",
+    "timezone": "Africa/Lagos",
+    "population": 21639,
+    "population_year": null
   },
   {
     "id": 77062,
@@ -45,7 +60,12 @@
     "latitude": "5.82917000",
     "longitude": "7.35056000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3509182",
+    "type": "municipality",
+    "native": "Okigwe",
+    "timezone": "Africa/Lagos",
+    "population": 115499,
+    "population_year": null
   },
   {
     "id": 77073,
@@ -57,7 +77,12 @@
     "latitude": "5.79565000",
     "longitude": "7.03513000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3508985",
+    "type": "municipality",
+    "native": "Orleu",
+    "timezone": "Africa/Lagos",
+    "population": 9351,
+    "population_year": null
   },
   {
     "id": 77074,
@@ -69,7 +94,12 @@
     "latitude": "5.61667000",
     "longitude": "7.03333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7103733",
+    "type": "locality",
+    "native": "Orodo",
+    "timezone": "Africa/Lagos",
+    "population": 8527,
+    "population_year": null
   },
   {
     "id": 77078,
@@ -81,7 +111,12 @@
     "latitude": "5.48363000",
     "longitude": "7.03325000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q583619",
+    "type": "city",
+    "native": "Owerri",
+    "timezone": "Africa/Lagos",
+    "population": 545000,
+    "population_year": null
   },
   {
     "id": 165321,
@@ -93,6 +128,11 @@
     "latitude": "5.67597000",
     "longitude": "7.07184000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7881848",
+    "type": "locality",
+    "native": null,
+    "timezone": "Africa/Lagos",
+    "population": null,
+    "population_year": null
   }
 ]

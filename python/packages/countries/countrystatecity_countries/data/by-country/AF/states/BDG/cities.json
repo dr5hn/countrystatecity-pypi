@@ -9,7 +9,12 @@
     "latitude": "35.58408000",
     "longitude": "63.32886000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3633185",
+    "type": "city",
+    "native": "بالا مرغاب",
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 72,
@@ -21,7 +26,12 @@
     "latitude": "35.73062000",
     "longitude": "63.78264000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5556982",
+    "type": "adm2",
+    "native": "غورماچ",
+    "timezone": "Asia/Kabul",
+    "population": 30000,
+    "population_year": null
   },
   {
     "id": 164349,
@@ -33,7 +43,12 @@
     "latitude": "35.06361000",
     "longitude": "64.14917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6166048",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164362,
@@ -45,7 +60,12 @@
     "latitude": "34.80850000",
     "longitude": "63.43003000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7265754",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 108,
@@ -57,6 +77,11 @@
     "latitude": "34.98735000",
     "longitude": "63.12891000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q26396",
+    "type": "adm1",
+    "native": "قلعه نو",
+    "timezone": "Asia/Kabul",
+    "population": 9000,
+    "population_year": null
   }
 ]

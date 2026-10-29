@@ -9,7 +9,12 @@
     "latitude": "10.17711000",
     "longitude": "1.10621000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2269235",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "population": 22386,
+    "population_year": null
   },
   {
     "id": 9797,
@@ -21,7 +26,12 @@
     "latitude": "10.56583000",
     "longitude": "1.72444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Guilmaro",
+    "timezone": "Africa/Porto-Novo",
+    "population": 6516,
+    "population_year": null
   },
   {
     "id": 9804,
@@ -33,7 +43,12 @@
     "latitude": "10.30416000",
     "longitude": "1.37962000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2337446",
+    "type": "adm1",
+    "native": "Natitingou",
+    "timezone": "Africa/Porto-Novo",
+    "population": 53284,
+    "population_year": null
   },
   {
     "id": 164506,
@@ -45,7 +60,12 @@
     "latitude": "10.22746000",
     "longitude": "2.00192000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q371196",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Porto-Novo",
+    "population": 37217,
+    "population_year": null
   },
   {
     "id": 9813,
@@ -57,6 +77,11 @@
     "latitude": "11.03621000",
     "longitude": "1.41757000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2269248",
+    "type": "city",
+    "native": "Taguieta",
+    "timezone": "Africa/Porto-Novo",
+    "population": 54719,
+    "population_year": null
   }
 ]

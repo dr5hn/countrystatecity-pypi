@@ -9,7 +9,12 @@
     "latitude": "13.66667000",
     "longitude": "-88.78333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q617890",
+    "type": "city",
+    "native": "Apastepeque",
+    "timezone": "America/El_Salvador",
+    "population": 5785,
+    "population_year": null
   },
   {
     "id": 104915,
@@ -21,7 +26,12 @@
     "latitude": "13.73333000",
     "longitude": "-88.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q383546",
+    "type": "city",
+    "native": "San Sebastián",
+    "timezone": "America/El_Salvador",
+    "population": 7333,
+    "population_year": null
   },
   {
     "id": 104916,
@@ -33,6 +43,11 @@
     "latitude": "13.63333000",
     "longitude": "-88.80000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1094372",
+    "type": "adm1",
+    "native": "San Vicente",
+    "timezone": "America/El_Salvador",
+    "population": 52461,
+    "population_year": null
   }
 ]

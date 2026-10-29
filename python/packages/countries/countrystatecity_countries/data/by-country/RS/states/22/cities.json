@@ -9,7 +9,12 @@
     "latitude": "43.06573340",
     "longitude": "22.38719690",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15093698",
+    "type": "city",
+    "native": "Бабушница",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 155072,
@@ -21,7 +26,12 @@
     "latitude": "43.21421070",
     "longitude": "22.29898440",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1264591",
+    "type": "adm3",
+    "native": "Бела Паланка",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 155073,
@@ -33,7 +43,12 @@
     "latitude": "43.02140830",
     "longitude": "22.73950980",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4161724",
+    "type": "city",
+    "native": "Димитровград",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97337,
@@ -45,6 +60,11 @@
     "latitude": "43.17528000",
     "longitude": "22.59278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Пирот",
+    "timezone": "Europe/Belgrade",
+    "population": 40678,
+    "population_year": null
   }
 ]

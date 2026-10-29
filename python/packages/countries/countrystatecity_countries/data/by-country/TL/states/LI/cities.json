@@ -9,7 +9,12 @@
     "latitude": "-8.62464000",
     "longitude": "125.38168000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q812658",
+    "type": "city",
+    "native": "Bazarte",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106856,
@@ -21,7 +26,12 @@
     "latitude": "-8.58750000",
     "longitude": "125.34194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Vidente",
+    "timezone": "Asia/Dili",
+    "population": 19000,
+    "population_year": null
   },
   {
     "id": 106862,
@@ -33,6 +43,11 @@
     "latitude": "-8.61194000",
     "longitude": "125.20611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Maubara",
+    "timezone": "Asia/Dili",
+    "population": 16300,
+    "population_year": null
   }
 ]

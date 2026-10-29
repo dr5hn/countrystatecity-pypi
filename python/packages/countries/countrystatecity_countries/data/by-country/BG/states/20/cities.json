@@ -9,7 +9,12 @@
     "latitude": "42.50000000",
     "longitude": "26.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2469089",
+    "type": "city",
+    "native": "Кермен",
+    "timezone": "Europe/Sofia",
+    "population": 2222,
+    "population_year": null
   },
   {
     "id": 9371,
@@ -21,7 +26,12 @@
     "latitude": "42.88737760",
     "longitude": "26.44915980",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q404822",
+    "type": "city",
+    "native": "Котел",
+    "timezone": "Europe/Sofia",
+    "population": 6421,
+    "population_year": null
   },
   {
     "id": 9410,
@@ -33,7 +43,12 @@
     "latitude": "42.48333000",
     "longitude": "26.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405317",
+    "type": "city",
+    "native": "Нова Загора",
+    "timezone": "Europe/Sofia",
+    "population": 23625,
+    "population_year": null
   },
   {
     "id": 9508,
@@ -45,7 +60,12 @@
     "latitude": "42.88333000",
     "longitude": "26.45000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2609479",
+    "type": "municipality",
+    "native": "Община Котел",
+    "timezone": "Europe/Sofia",
+    "population": 18161,
+    "population_year": null
   },
   {
     "id": 9542,
@@ -57,7 +77,12 @@
     "latitude": "42.45000000",
     "longitude": "26.05000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1749545",
+    "type": "city",
+    "native": "Община Нова Загора",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9591,
@@ -69,7 +94,12 @@
     "latitude": "42.66667000",
     "longitude": "26.31667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4423406",
+    "type": "city",
+    "native": "Община Сливен",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9620,
@@ -81,7 +111,12 @@
     "latitude": "42.73333000",
     "longitude": "26.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1749531",
+    "type": "city",
+    "native": "Община Твърдица",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9697,
@@ -93,7 +128,12 @@
     "latitude": "42.68583000",
     "longitude": "26.32917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q178385",
+    "type": "city",
+    "native": "Сливен",
+    "timezone": "Europe/Sofia",
+    "population": 78232,
+    "population_year": null
   },
   {
     "id": 9731,
@@ -105,6 +145,11 @@
     "latitude": "42.70000000",
     "longitude": "25.90000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405445",
+    "type": "city",
+    "native": "Твърдица",
+    "timezone": "Europe/Sofia",
+    "population": 5542,
+    "population_year": null
   }
 ]

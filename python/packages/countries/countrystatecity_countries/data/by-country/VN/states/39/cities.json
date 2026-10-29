@@ -9,7 +9,12 @@
     "latitude": "10.94469000",
     "longitude": "106.82432000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q19316",
+    "type": "adm1",
+    "native": "Biên Hòa",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 1104000,
+    "population_year": null
   },
   {
     "id": 130174,
@@ -21,7 +26,12 @@
     "latitude": "11.64711000",
     "longitude": "106.60586000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Bình Long",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 15000,
+    "population_year": null
   },
   {
     "id": 166303,
@@ -33,7 +43,29 @@
     "latitude": "10.94469000",
     "longitude": "106.82432000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33271",
+    "type": "city",
+    "native": "Đồng Nai",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 4493699,
+    "population_year": 2025
+  },
+  {
+    "id": 168135,
+    "name": "Đồng Phú",
+    "state_id": 3821,
+    "state_code": "39",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "11.45119000",
+    "longitude": "106.86811000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Đồng Phú",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130197,
@@ -45,7 +77,12 @@
     "latitude": "11.53495000",
     "longitude": "106.88324000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q665981",
+    "type": "adm1",
+    "native": "Đồng Xoài",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 168000,
+    "population_year": null
   },
   {
     "id": 130227,
@@ -57,7 +94,12 @@
     "latitude": "12.00374000",
     "longitude": "106.81545000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Bù Đốp",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130256,
@@ -69,7 +111,12 @@
     "latitude": "11.46283000",
     "longitude": "106.66655000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Chơn Thành",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130546,
@@ -81,19 +128,12 @@
     "latitude": "11.21866000",
     "longitude": "107.33959000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130547,
-    "name": "Huyện Đồng Phú",
-    "state_id": 3821,
-    "state_code": "39",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "11.50071000",
-    "longitude": "107.01192000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Định Quán",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130319,
@@ -105,31 +145,12 @@
     "latitude": "11.59718000",
     "longitude": "106.62739000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130344,
-    "name": "Huyện Long Thành",
-    "state_id": 3821,
-    "state_code": "39",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "10.76162000",
-    "longitude": "107.02688000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 130485,
-    "name": "Huyện Tân Phú",
-    "state_id": 3821,
-    "state_code": "39",
-    "country_id": 240,
-    "country_code": "VN",
-    "latitude": "11.39867000",
-    "longitude": "107.39976000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Hớn Quản",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130452,
@@ -141,31 +162,46 @@
     "latitude": "10.97764000",
     "longitude": "107.15909000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Thống Nhất",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 130471,
-    "name": "Huyện Trảng Bom",
+    "id": 168003,
+    "name": "Long Thành",
     "state_id": 3821,
     "state_code": "39",
     "country_id": 240,
     "country_code": "VN",
-    "latitude": "10.96624000",
-    "longitude": "107.03614000",
+    "latitude": "10.78909000",
+    "longitude": "106.95029000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Long Thành",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 130498,
-    "name": "Huyện Vĩnh Cửu",
+    "id": 168096,
+    "name": "Tân Phú",
     "state_id": 3821,
     "state_code": "39",
     "country_id": 240,
     "country_code": "VN",
-    "latitude": "11.25725000",
-    "longitude": "107.02773000",
+    "latitude": "11.27221000",
+    "longitude": "107.43655000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tân Phú",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130614,
@@ -177,6 +213,45 @@
     "latitude": "11.81142000",
     "longitude": "106.99670000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Thị Xã Phước Long",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 168084,
+    "name": "Trảng Bom",
+    "state_id": 3821,
+    "state_code": "39",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "10.95358000",
+    "longitude": "107.00589000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Trảng Bom",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 168104,
+    "name": "Trị An",
+    "state_id": 3821,
+    "state_code": "39",
+    "country_id": 240,
+    "country_code": "VN",
+    "latitude": "11.08901000",
+    "longitude": "107.03516000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Trị An",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   }
 ]

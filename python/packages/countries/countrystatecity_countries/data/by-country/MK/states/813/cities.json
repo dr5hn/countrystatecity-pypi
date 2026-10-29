@@ -9,7 +9,12 @@
     "latitude": "41.91909000",
     "longitude": "21.47978000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2891397",
+    "type": "city",
+    "native": "Батинци",
+    "timezone": "Europe/Skopje",
+    "population": 3239,
+    "population_year": null
   },
   {
     "id": 67419,
@@ -21,7 +26,12 @@
     "latitude": "41.88639000",
     "longitude": "21.48556000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3034212",
+    "type": "city",
+    "native": "Долно Количани",
+    "timezone": "Europe/Skopje",
+    "population": 1276,
+    "population_year": null
   },
   {
     "id": 67487,
@@ -33,7 +43,12 @@
     "latitude": "41.90978000",
     "longitude": "21.54997000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20932450",
+    "type": "city",
+    "native": "Морани",
+    "timezone": "Europe/Skopje",
+    "population": 1099,
+    "population_year": null
   },
   {
     "id": 67539,
@@ -45,6 +60,11 @@
     "latitude": "41.92208000",
     "longitude": "21.53483000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Студеничани",
+    "timezone": "Europe/Skopje",
+    "population": 18219,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "42.03111000",
     "longitude": "45.20750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "ახმეტა",
+    "timezone": "Asia/Tbilisi",
+    "population": 6158,
+    "population_year": null
   },
   {
     "id": 164732,
@@ -21,7 +26,12 @@
     "latitude": "41.46566000",
     "longitude": "46.10385000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1010979",
+    "type": "adm2",
+    "native": "დედოფლისწყარო",
+    "timezone": "Asia/Tbilisi",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 52074,
@@ -33,7 +43,12 @@
     "latitude": "41.74292000",
     "longitude": "45.80111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1011047",
+    "type": "adm2",
+    "native": "გურჯაანი",
+    "timezone": "Asia/Tbilisi",
+    "population": 7426,
+    "population_year": null
   },
   {
     "id": 52112,
@@ -45,7 +60,12 @@
     "latitude": "41.95493000",
     "longitude": "45.81716000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1011016",
+    "type": "adm2",
+    "native": "Qvareli",
+    "timezone": "Asia/Tbilisi",
+    "population": 10177,
+    "population_year": null
   },
   {
     "id": 52090,
@@ -57,7 +77,12 @@
     "latitude": "41.82681000",
     "longitude": "46.27667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q956966",
+    "type": "adm2",
+    "native": "ლაგოდეკი",
+    "timezone": "Asia/Tbilisi",
+    "population": 5700,
+    "population_year": null
   },
   {
     "id": 52115,
@@ -69,7 +94,12 @@
     "latitude": "41.73397000",
     "longitude": "45.33149000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q956932",
+    "type": "adm2",
+    "native": "Sagarejo",
+    "timezone": "Asia/Tbilisi",
+    "population": 10359,
+    "population_year": null
   },
   {
     "id": 52120,
@@ -81,7 +111,12 @@
     "latitude": "41.62046000",
     "longitude": "45.92198000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q946143",
+    "type": "adm2",
+    "native": "სიღნაგი",
+    "timezone": "Asia/Tbilisi",
+    "population": 1446,
+    "population_year": null
   },
   {
     "id": 52127,
@@ -93,7 +128,12 @@
     "latitude": "41.91978000",
     "longitude": "45.47315000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "ტელეკომუნიკაცია",
+    "timezone": "Asia/Tbilisi",
+    "population": 20023,
+    "population_year": null
   },
   {
     "id": 52135,
@@ -105,7 +145,12 @@
     "latitude": "41.89315000",
     "longitude": "45.57129000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q118953",
+    "type": "city",
+    "native": "ცინაალალი",
+    "timezone": "Asia/Tbilisi",
+    "population": 2675,
+    "population_year": null
   },
   {
     "id": 52136,
@@ -117,6 +162,11 @@
     "latitude": "41.62088000",
     "longitude": "45.96943000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q217990",
+    "type": "city",
+    "native": "ცნორი",
+    "timezone": "Asia/Tbilisi",
+    "population": 4796,
+    "population_year": null
   }
 ]

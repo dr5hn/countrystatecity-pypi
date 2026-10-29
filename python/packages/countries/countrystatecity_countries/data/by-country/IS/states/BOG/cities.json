@@ -9,7 +9,12 @@
     "latitude": "65.35505000",
     "longitude": "-18.79572000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q420730",
+    "type": "city",
+    "native": "Akrahreppur",
+    "timezone": "Atlantic/Reykjavik",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 135165,
@@ -21,7 +26,12 @@
     "latitude": "64.71446000",
     "longitude": "-21.23788000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q893528",
+    "type": "city",
+    "native": "Borgarbyggð",
+    "timezone": "Atlantic/Reykjavik",
+    "population": 4102,
+    "population_year": null
   },
   {
     "id": 135166,
@@ -33,7 +43,12 @@
     "latitude": "65.43401000",
     "longitude": "-13.82933000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q893531",
+    "type": "city",
+    "native": "Borgarfjarðarhreppur",
+    "timezone": "Atlantic/Reykjavik",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 135167,
@@ -45,6 +60,11 @@
     "latitude": "64.53834000",
     "longitude": "-21.92064000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q276537",
+    "type": "adm1",
+    "native": "Borgarnes",
+    "timezone": "Atlantic/Reykjavik",
+    "population": 2181,
+    "population_year": null
   }
 ]

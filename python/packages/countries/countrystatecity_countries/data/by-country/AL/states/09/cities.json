@@ -9,7 +9,12 @@
     "latitude": "41.47152000",
     "longitude": "20.33192000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Bulqizë",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 165,
@@ -21,7 +26,12 @@
     "latitude": "41.50826000",
     "longitude": "20.07107000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Klos",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 176,
@@ -33,7 +43,12 @@
     "latitude": "41.63317000",
     "longitude": "20.01228000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Mat",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 193,
@@ -45,7 +60,12 @@
     "latitude": "41.49167000",
     "longitude": "20.22194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q463384",
+    "type": "adm2",
+    "native": "Bulqizë",
+    "timezone": "Europe/Tirane",
+    "population": 26826,
+    "population_year": null
   },
   {
     "id": 194,
@@ -57,7 +77,12 @@
     "latitude": "41.61028000",
     "longitude": "20.00889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q461313",
+    "type": "adm2",
+    "native": "Burrel",
+    "timezone": "Europe/Tirane",
+    "population": 7928,
+    "population_year": null
   },
   {
     "id": 157052,
@@ -69,7 +94,12 @@
     "latitude": "41.73099090",
     "longitude": "20.18908580",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13037427",
+    "type": "adm3",
+    "native": "Dibër",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 209,
@@ -81,7 +111,12 @@
     "latitude": "41.50694000",
     "longitude": "20.08667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q278613",
+    "type": "adm3",
+    "native": "Klos",
+    "timezone": "Europe/Tirane",
+    "population": 7873,
+    "population_year": null
   },
   {
     "id": 157055,
@@ -93,7 +128,12 @@
     "latitude": "41.63648120",
     "longitude": "19.84055600",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q202665",
+    "type": "adm3",
+    "native": "Mat",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 236,
@@ -105,7 +145,12 @@
     "latitude": "41.68500000",
     "longitude": "20.42889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q223154",
+    "type": "adm1",
+    "native": "Peshkopi",
+    "timezone": "Europe/Tirane",
+    "population": 13251,
+    "population_year": null
   },
   {
     "id": 243,
@@ -117,7 +162,12 @@
     "latitude": "41.50000000",
     "longitude": "20.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q191872",
+    "type": "adm3",
+    "native": "Rrethi i Bulqizës",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 246,
@@ -129,7 +179,12 @@
     "latitude": "41.75000000",
     "longitude": "20.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q192123",
+    "type": "area",
+    "native": "Rrethi i Dibrës",
+    "timezone": "Europe/Tirane",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 256,
@@ -141,7 +196,12 @@
     "latitude": "41.58333000",
     "longitude": "20.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q202665",
+    "type": "city",
+    "native": "Rrethi i Matit",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 272,
@@ -153,6 +213,11 @@
     "latitude": "41.68278000",
     "longitude": "19.89333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2542462",
+    "type": "adm3",
+    "native": "Ulëz",
+    "timezone": "Europe/Tirane",
+    "population": 1229,
+    "population_year": null
   }
 ]

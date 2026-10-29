@@ -9,7 +9,12 @@
     "latitude": "53.46667000",
     "longitude": "-3.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q893159",
+    "type": "city",
+    "native": "Bootle",
+    "timezone": "Europe/London",
+    "population": 51394,
+    "population_year": null
   },
   {
     "id": 49171,
@@ -21,7 +26,12 @@
     "latitude": "53.47778000",
     "longitude": "-3.03333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1141046",
+    "type": "adm3",
+    "native": "Crosby",
+    "timezone": "Europe/London",
+    "population": 26,
+    "population_year": null
   },
   {
     "id": 49588,
@@ -33,7 +43,12 @@
     "latitude": "53.55838000",
     "longitude": "-3.06999000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2569221",
+    "type": "adm3",
+    "native": "Formby",
+    "timezone": "Europe/London",
+    "population": 22119,
+    "population_year": null
   },
   {
     "id": 49938,
@@ -45,7 +60,12 @@
     "latitude": "53.52452000",
     "longitude": "-3.06192000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5759735",
+    "type": "village",
+    "native": "Hightown",
+    "timezone": "Europe/London",
+    "population": 2020,
+    "population_year": null
   },
   {
     "id": 50046,
@@ -57,7 +77,12 @@
     "latitude": "53.52429000",
     "longitude": "-3.02733000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2119406",
+    "type": "village",
+    "native": "Ince Blundell",
+    "timezone": "Europe/London",
+    "population": 461,
+    "population_year": null
   },
   {
     "id": 50322,
@@ -69,7 +94,12 @@
     "latitude": "53.46993000",
     "longitude": "-2.99809000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6647845",
+    "type": "town",
+    "native": "Litherland",
+    "timezone": "Europe/London",
+    "population": 22971,
+    "population_year": null
   },
   {
     "id": 50469,
@@ -81,7 +111,12 @@
     "latitude": "53.51619000",
     "longitude": "-2.94117000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1951431",
+    "type": "town",
+    "native": "Maghull",
+    "timezone": "Europe/London",
+    "population": 26997,
+    "population_year": null
   },
   {
     "id": 51378,
@@ -93,7 +128,12 @@
     "latitude": "53.64581000",
     "longitude": "-3.01008000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q868647",
+    "type": "town",
+    "native": "Southport",
+    "timezone": "Europe/London",
+    "population": 91703,
+    "population_year": null
   },
   {
     "id": 51771,
@@ -105,6 +145,11 @@
     "latitude": "53.47454000",
     "longitude": "-3.03017000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Waterloo",
+    "timezone": "Europe/London",
+    "population": 1001,
+    "population_year": null
   }
 ]

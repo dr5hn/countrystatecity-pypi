@@ -9,7 +9,12 @@
     "latitude": "21.68216000",
     "longitude": "-78.62567000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1816192",
+    "type": "adm2",
+    "native": "Baraguá",
+    "timezone": "America/Havana",
+    "population": 15268,
+    "population_year": null
   },
   {
     "id": 21832,
@@ -21,7 +26,12 @@
     "latitude": "22.19534000",
     "longitude": "-78.91230000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1060628",
+    "type": "adm2",
+    "native": "Chamas",
+    "timezone": "America/Havana",
+    "population": 24114,
+    "population_year": null
   },
   {
     "id": 21833,
@@ -33,7 +43,12 @@
     "latitude": "21.84000000",
     "longitude": "-78.76194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Ciego de Ávila",
+    "timezone": "America/Havana",
+    "population": 143449,
+    "population_year": null
   },
   {
     "id": 21836,
@@ -45,7 +60,12 @@
     "latitude": "22.01921000",
     "longitude": "-78.70365000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1020273",
+    "type": "adm2",
+    "native": "Ciro Redondo",
+    "timezone": "America/Havana",
+    "population": 29560,
+    "population_year": null
   },
   {
     "id": 21853,
@@ -57,7 +77,12 @@
     "latitude": "22.14610000",
     "longitude": "-78.97328000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1007702",
+    "type": "adm2",
+    "native": "Florencia",
+    "timezone": "America/Havana",
+    "population": 19811,
+    "population_year": null
   },
   {
     "id": 164609,
@@ -69,7 +94,12 @@
     "latitude": "21.73956000",
     "longitude": "-78.54449000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5526526",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Havana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21902,
@@ -81,7 +111,12 @@
     "latitude": "22.10774000",
     "longitude": "-78.62667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Morón",
+    "timezone": "America/Havana",
+    "population": 59371,
+    "population_year": null
   },
   {
     "id": 21909,
@@ -93,7 +128,12 @@
     "latitude": "21.85000000",
     "longitude": "-78.76667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q115465",
+    "type": "adm1",
+    "native": "Municipio de Ciego de Ávila",
+    "timezone": "America/Havana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21926,
@@ -105,7 +145,12 @@
     "latitude": "22.29980000",
     "longitude": "-78.56875000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q959528",
+    "type": "city",
+    "native": "Municipio de Morón",
+    "timezone": "America/Havana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21945,
@@ -117,7 +162,12 @@
     "latitude": "21.94501000",
     "longitude": "-78.43130000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1020104",
+    "type": "adm2",
+    "native": "Primero de Enero",
+    "timezone": "America/Havana",
+    "population": 17934,
+    "population_year": null
   },
   {
     "id": 21981,
@@ -129,6 +179,11 @@
     "latitude": "21.73748000",
     "longitude": "-78.79336000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q593830",
+    "type": "adm2",
+    "native": "Venezuela",
+    "timezone": "America/Havana",
+    "population": 16601,
+    "population_year": null
   }
 ]

@@ -9,6 +9,45 @@
     "latitude": "54.21110000",
     "longitude": "-8.50865000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "village",
+    "native": "Ballisodare",
+    "timezone": "Europe/Dublin",
+    "population": 1344,
+    "population_year": null
+  },
+  {
+    "id": 57267,
+    "name": "Inishcrone",
+    "state_id": 1070,
+    "state_code": "SO",
+    "country_id": 105,
+    "country_code": "IE",
+    "latitude": "54.21591000",
+    "longitude": "-9.09197000",
+    "county_id": null,
+    "wikiDataId": "Q588364",
+    "type": "city",
+    "native": "Inishcrone",
+    "timezone": "Europe/Dublin",
+    "population": 1156,
+    "population_year": null
+  },
+  {
+    "id": 57416,
+    "name": "Tobercurry",
+    "state_id": 1070,
+    "state_code": "SO",
+    "country_id": 105,
+    "country_code": "IE",
+    "latitude": "54.05000000",
+    "longitude": "-8.73333000",
+    "county_id": null,
+    "wikiDataId": "Q2096512",
+    "type": "city",
+    "native": "Tobercurry",
+    "timezone": "Europe/Dublin",
+    "population": 1986,
+    "population_year": null
   }
 ]

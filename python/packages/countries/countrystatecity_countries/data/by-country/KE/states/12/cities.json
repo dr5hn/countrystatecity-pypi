@@ -9,7 +9,12 @@
     "latitude": "-0.36774000",
     "longitude": "35.28314000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Kericho",
+    "timezone": "Africa/Nairobi",
+    "population": 53804,
+    "population_year": null
   },
   {
     "id": 64809,
@@ -21,7 +26,12 @@
     "latitude": "-0.19982000",
     "longitude": "35.46735000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6703164",
+    "type": "city",
+    "native": "Kipkelion",
+    "timezone": "Africa/Nairobi",
+    "population": 2952,
+    "population_year": null
   },
   {
     "id": 64818,
@@ -33,7 +43,12 @@
     "latitude": "-0.58249000",
     "longitude": "35.18969000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2613483",
+    "type": "city",
+    "native": "Letin",
+    "timezone": "Africa/Nairobi",
+    "population": 13403,
+    "population_year": null
   },
   {
     "id": 64820,
@@ -45,6 +60,11 @@
     "latitude": "-0.16552000",
     "longitude": "35.59359000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6669717",
+    "type": "city",
+    "native": "LONDIANS",
+    "timezone": "Africa/Nairobi",
+    "population": 4758,
+    "population_year": null
   }
 ]

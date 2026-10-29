@@ -9,19 +9,29 @@
     "latitude": "-13.40985000",
     "longitude": "-76.13235000",
     "county_id": 8271,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Chincha Alta",
+    "timezone": "America/Lima",
+    "population": 153076,
+    "population_year": null
   },
   {
-    "id": 80805,
+    "id": 166881,
     "name": "Chincha Alta",
     "state_id": 3700,
     "state_code": "ICA",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-13.42000000",
-    "longitude": "-76.13555556",
+    "latitude": "-13.40985000",
+    "longitude": "-76.13235000",
     "county_id": 8271,
-    "wikiDataId": null
+    "wikiDataId": "Q990685",
+    "type": "city",
+    "native": "Chincha Alta",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80667,
@@ -33,19 +43,29 @@
     "latitude": "-14.06777000",
     "longitude": "-75.72861000",
     "county_id": 8270,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "ICA",
+    "timezone": "America/Lima",
+    "population": 282407,
+    "population_year": null
   },
   {
-    "id": 80843,
+    "id": 166892,
     "name": "Ica",
     "state_id": 3700,
     "state_code": "ICA",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-14.06777778",
-    "longitude": "-75.73194444",
+    "latitude": "-14.06666667",
+    "longitude": "-75.73333333",
     "county_id": 8270,
-    "wikiDataId": null
+    "wikiDataId": "Q840712",
+    "type": "city",
+    "native": "Ica",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80706,
@@ -57,7 +77,12 @@
     "latitude": "-14.09667000",
     "longitude": "-75.69083000",
     "county_id": 8270,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Los Aquijes",
+    "timezone": "America/Lima",
+    "population": 7848,
+    "population_year": null
   },
   {
     "id": 80714,
@@ -69,19 +94,29 @@
     "latitude": "-15.21194000",
     "longitude": "-75.11028000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q580017",
+    "type": "city",
+    "native": "Minas de Marcona",
+    "timezone": "America/Lima",
+    "population": 15478,
+    "population_year": null
   },
   {
-    "id": 80865,
+    "id": 166896,
     "name": "Nasca",
     "state_id": 3700,
     "state_code": "ICA",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-14.83277778",
-    "longitude": "-74.93611111",
+    "latitude": "-14.82888889",
+    "longitude": "-74.94361111",
     "county_id": 8272,
-    "wikiDataId": null
+    "wikiDataId": "Q1711521",
+    "type": "city",
+    "native": "Nasca",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80729,
@@ -93,7 +128,12 @@
     "latitude": "-14.83098000",
     "longitude": "-74.93895000",
     "county_id": 8272,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Nazca",
+    "timezone": "America/Lima",
+    "population": 22859,
+    "population_year": null
   },
   {
     "id": 80747,
@@ -105,19 +145,29 @@
     "latitude": "-14.53361000",
     "longitude": "-75.18556000",
     "county_id": 8273,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Palpa",
+    "timezone": "America/Lima",
+    "population": 5883,
+    "population_year": null
   },
   {
-    "id": 80872,
+    "id": 166899,
     "name": "Palpa",
     "state_id": 3700,
     "state_code": "ICA",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-14.53388889",
-    "longitude": "-75.18388889",
+    "latitude": "-14.53393333",
+    "longitude": "-75.18548333",
     "county_id": 8273,
-    "wikiDataId": null
+    "wikiDataId": "Q2640020",
+    "type": "city",
+    "native": "Palpa",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80752,
@@ -129,7 +179,29 @@
     "latitude": "-13.86667000",
     "longitude": "-76.26667000",
     "county_id": 8274,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Paracas",
+    "timezone": "America/Lima",
+    "population": 1196,
+    "population_year": null
+  },
+  {
+    "id": 166901,
+    "name": "Pisco",
+    "state_id": 3700,
+    "state_code": "ICA",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-13.70998056",
+    "longitude": "-76.20320556",
+    "county_id": 8274,
+    "wikiDataId": "Q290504",
+    "type": "city",
+    "native": "Pisco",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80764,
@@ -141,19 +213,12 @@
     "latitude": "-13.71029000",
     "longitude": "-76.20538000",
     "county_id": 8274,
-    "wikiDataId": null
-  },
-  {
-    "id": 80878,
-    "name": "Pisco",
-    "state_id": 3700,
-    "state_code": "ICA",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-13.70861111",
-    "longitude": "-76.20750000",
-    "county_id": 8274,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Pisco",
+    "timezone": "America/Lima",
+    "population": 61869,
+    "population_year": null
   },
   {
     "id": 80935,
@@ -165,7 +230,12 @@
     "latitude": "-14.51600000",
     "longitude": "-75.19933000",
     "county_id": 8273,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Río Grande",
+    "timezone": "America/Lima",
+    "population": 4689,
+    "population_year": null
   },
   {
     "id": 80943,
@@ -177,7 +247,12 @@
     "latitude": "-13.66667000",
     "longitude": "-76.15000000",
     "county_id": 8274,
-    "wikiDataId": null
+    "wikiDataId": "Q3824063",
+    "type": "municipality",
+    "native": "San Clemente",
+    "timezone": "America/Lima",
+    "population": 15815,
+    "population_year": null
   },
   {
     "id": 80949,
@@ -189,7 +264,12 @@
     "latitude": "-14.01083000",
     "longitude": "-75.73583000",
     "county_id": 8270,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "San Juan Bautista",
+    "timezone": "America/Lima",
+    "population": 6871,
+    "population_year": null
   },
   {
     "id": 80964,
@@ -201,7 +281,12 @@
     "latitude": "-14.18469000",
     "longitude": "-75.71124000",
     "county_id": 8270,
-    "wikiDataId": null
+    "wikiDataId": "Q3825497",
+    "type": "municipality",
+    "native": "Santiago",
+    "timezone": "America/Lima",
+    "population": 10449,
+    "population_year": null
   },
   {
     "id": 80978,
@@ -213,7 +298,12 @@
     "latitude": "-14.01889000",
     "longitude": "-75.75806000",
     "county_id": 8270,
-    "wikiDataId": null
+    "wikiDataId": "Q3825490",
+    "type": "municipality",
+    "native": "Subtanjalla",
+    "timezone": "America/Lima",
+    "population": 9096,
+    "population_year": null
   },
   {
     "id": 81009,
@@ -225,6 +315,11 @@
     "latitude": "-13.71135000",
     "longitude": "-76.14980000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Villa Tupac Amaru",
+    "timezone": "America/Lima",
+    "population": 11159,
+    "population_year": null
   }
 ]

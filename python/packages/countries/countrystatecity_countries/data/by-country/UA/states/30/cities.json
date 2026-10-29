@@ -9,7 +9,12 @@
     "latitude": "50.41333000",
     "longitude": "30.69305000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1970473",
+    "type": "district",
+    "native": "Дарницький район",
+    "timezone": "Europe/Kyiv",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 109541,
@@ -21,7 +26,12 @@
     "latitude": "50.53550000",
     "longitude": "30.60875000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1577772",
+    "type": "section",
+    "native": "Деснянський район",
+    "timezone": "Europe/Kyiv",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 109550,
@@ -33,7 +43,12 @@
     "latitude": "50.46756000",
     "longitude": "30.63194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q606937",
+    "type": "district",
+    "native": "Дніпровський район",
+    "timezone": "Europe/Kyiv",
+    "population": 334000,
+    "population_year": null
   },
   {
     "id": 109637,
@@ -45,7 +60,12 @@
     "latitude": "50.32749000",
     "longitude": "30.56740000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2248375",
+    "type": "district",
+    "native": "Голосіївський район",
+    "timezone": "Europe/Kyiv",
+    "population": 253124,
+    "population_year": null
   },
   {
     "id": 109897,
@@ -57,7 +77,12 @@
     "latitude": "50.45466000",
     "longitude": "30.52380000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Київ",
+    "timezone": "Europe/Kyiv",
+    "population": 2797553,
+    "population_year": null
   },
   {
     "id": 110235,
@@ -69,7 +94,12 @@
     "latitude": "50.41902000",
     "longitude": "30.56602000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1585799",
+    "type": "district",
+    "native": "Печерський район",
+    "timezone": "Europe/Kyiv",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 110286,
@@ -81,7 +111,12 @@
     "latitude": "50.45000000",
     "longitude": "30.53333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q892548",
+    "type": "historical",
+    "native": "Подільський район",
+    "timezone": "Europe/Kyiv",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 110442,
@@ -93,7 +128,12 @@
     "latitude": "50.43333000",
     "longitude": "30.51667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1817299",
+    "type": "city",
+    "native": "Шевченківський район",
+    "timezone": "Europe/Kyiv",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 110507,
@@ -105,7 +145,12 @@
     "latitude": "50.42886000",
     "longitude": "30.45135000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q528868",
+    "type": "city",
+    "native": "Солом'янський район",
+    "timezone": "Europe/Kyiv",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 110580,
@@ -117,6 +162,11 @@
     "latitude": "50.48533000",
     "longitude": "30.38050000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2381039",
+    "type": "city",
+    "native": "Святошинський район",
+    "timezone": "Europe/Kyiv",
+    "population": null,
+    "population_year": null
   }
 ]

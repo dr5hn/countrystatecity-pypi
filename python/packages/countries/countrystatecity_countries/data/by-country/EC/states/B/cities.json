@@ -9,7 +9,12 @@
     "latitude": "-1.94290000",
     "longitude": "-79.06646000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5099017",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164627,
@@ -21,7 +26,12 @@
     "latitude": "-1.43208000",
     "longitude": "-79.28018000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5332366",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 31510,
@@ -33,7 +43,12 @@
     "latitude": "-1.59263000",
     "longitude": "-79.00098000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q264464",
+    "type": "adm1",
+    "native": "Guaranda",
+    "timezone": "America/Guayaquil",
+    "population": 22199,
+    "population_year": null
   },
   {
     "id": 31569,
@@ -45,6 +60,11 @@
     "latitude": "-1.70884000",
     "longitude": "-79.04311000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7414937",
+    "type": "city",
+    "native": "San Miguel",
+    "timezone": "America/Guayaquil",
+    "population": 12575,
+    "population_year": null
   }
 ]

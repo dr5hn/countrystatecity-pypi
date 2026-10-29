@@ -9,7 +9,12 @@
     "latitude": "26.53333000",
     "longitude": "-78.70000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Freeport",
+    "timezone": "America/Nassau",
+    "population": 26910,
+    "population_year": null
   },
   {
     "id": 15698,
@@ -21,6 +26,11 @@
     "latitude": "26.53333000",
     "longitude": "-78.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Lucaya",
+    "timezone": "America/Nassau",
+    "population": 46525,
+    "population_year": null
   }
 ]

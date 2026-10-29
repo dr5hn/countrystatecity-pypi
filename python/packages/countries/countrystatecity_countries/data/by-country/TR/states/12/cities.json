@@ -9,7 +9,12 @@
     "latitude": "39.22870000",
     "longitude": "40.48252000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q347084",
+    "type": "adm2",
+    "native": "Adaklı",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 107661,
@@ -21,7 +26,12 @@
     "latitude": "38.74773000",
     "longitude": "40.55343000",
     "county_id": 7066,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Genç",
+    "timezone": "Europe/Istanbul",
+    "population": 20647,
+    "population_year": 2025
   },
   {
     "id": 107927,
@@ -32,8 +42,13 @@
     "country_code": "TR",
     "latitude": "39.29044000",
     "longitude": "41.00594000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7164,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Karlıova",
+    "timezone": "Europe/Istanbul",
+    "population": 8801,
+    "population_year": null
   },
   {
     "id": 108002,
@@ -45,7 +60,12 @@
     "latitude": "39.30894000",
     "longitude": "40.34995000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1023262",
+    "type": "adm2",
+    "native": "Kiğı",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 108182,
@@ -56,8 +76,13 @@
     "country_code": "TR",
     "latitude": "38.95025000",
     "longitude": "40.52802000",
-    "county_id": 6922,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q1812528",
+    "type": "city",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 139913,
+    "population_year": 2025
   },
   {
     "id": 108483,
@@ -69,7 +94,12 @@
     "latitude": "38.96525000",
     "longitude": "41.05443000",
     "county_id": 7340,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Solhan",
+    "timezone": "Europe/Istanbul",
+    "population": 21086,
+    "population_year": 2025
   },
   {
     "id": 108681,
@@ -81,7 +111,12 @@
     "latitude": "39.22614000",
     "longitude": "40.06950000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q472878",
+    "type": "city",
+    "native": "Yayladere",
+    "timezone": "Europe/Istanbul",
+    "population": 3925,
+    "population_year": null
   },
   {
     "id": 108688,
@@ -92,7 +127,12 @@
     "country_code": "TR",
     "latitude": "39.43277000",
     "longitude": "40.53368000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7699,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Yedisu",
+    "timezone": "Europe/Istanbul",
+    "population": 1771,
+    "population_year": null
   }
 ]

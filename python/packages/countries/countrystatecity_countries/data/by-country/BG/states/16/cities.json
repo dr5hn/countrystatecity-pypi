@@ -9,7 +9,12 @@
     "latitude": "42.01667000",
     "longitude": "24.86667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q191871",
+    "type": "city",
+    "native": "Асеновград",
+    "timezone": "Europe/Sofia",
+    "population": 45362,
+    "population_year": null
   },
   {
     "id": 9289,
@@ -21,7 +26,12 @@
     "latitude": "42.35000000",
     "longitude": "25.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405203",
+    "type": "municipality",
+    "native": "Брезово",
+    "timezone": "Europe/Sofia",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 9345,
@@ -33,7 +43,12 @@
     "latitude": "42.50000000",
     "longitude": "24.70000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q239989",
+    "type": "city",
+    "native": "Хисаря",
+    "timezone": "Europe/Sofia",
+    "population": 7903,
+    "population_year": null
   },
   {
     "id": 9351,
@@ -45,7 +60,12 @@
     "latitude": "42.61667000",
     "longitude": "24.98333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405351",
+    "type": "city",
+    "native": "Калофер",
+    "timezone": "Europe/Sofia",
+    "population": 3248,
+    "population_year": null
   },
   {
     "id": 9352,
@@ -57,7 +77,12 @@
     "latitude": "42.35000000",
     "longitude": "24.73333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1722578",
+    "type": "village",
+    "native": "Калояново",
+    "timezone": "Europe/Sofia",
+    "population": 2782,
+    "population_year": null
   },
   {
     "id": 9355,
@@ -69,7 +94,12 @@
     "latitude": "42.63333000",
     "longitude": "24.80000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q316841",
+    "type": "city",
+    "native": "Карлово",
+    "timezone": "Europe/Sofia",
+    "population": 30340,
+    "population_year": null
   },
   {
     "id": 9365,
@@ -81,7 +111,12 @@
     "latitude": "42.70000000",
     "longitude": "24.45000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405893",
+    "type": "city",
+    "native": "Клисура",
+    "timezone": "Europe/Sofia",
+    "population": 1485,
+    "population_year": null
   },
   {
     "id": 9375,
@@ -93,7 +128,12 @@
     "latitude": "42.05000000",
     "longitude": "24.46667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q406822",
+    "type": "city",
+    "native": "Кричим",
+    "timezone": "Europe/Sofia",
+    "population": 7128,
+    "population_year": null
   },
   {
     "id": 9383,
@@ -105,7 +145,12 @@
     "latitude": "41.85000000",
     "longitude": "24.81667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405602",
+    "type": "city",
+    "native": "Лъки",
+    "timezone": "Europe/Sofia",
+    "population": 3258,
+    "population_year": null
   },
   {
     "id": 9417,
@@ -117,7 +162,12 @@
     "latitude": "41.95000000",
     "longitude": "24.96667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Община Асеновград",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9489,
@@ -129,7 +179,12 @@
     "latitude": "42.50000000",
     "longitude": "24.60000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1750679",
+    "type": "city",
+    "native": "Община Хисаря",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9494,
@@ -141,7 +196,12 @@
     "latitude": "42.38333000",
     "longitude": "24.81667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2561213",
+    "type": "city",
+    "native": "Община Калояново",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9497,
@@ -153,7 +213,12 @@
     "latitude": "42.68333000",
     "longitude": "24.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2015223",
+    "type": "city",
+    "native": "Община Карлово",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9512,
@@ -165,7 +230,12 @@
     "latitude": "42.00439000",
     "longitude": "24.47235000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10632743",
+    "type": "municipality",
+    "native": "Община Кричим",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9516,
@@ -177,7 +247,12 @@
     "latitude": "42.03725000",
     "longitude": "24.77949000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1750685",
+    "type": "city",
+    "native": "Община Куклен",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9519,
@@ -189,7 +264,12 @@
     "latitude": "41.81667000",
     "longitude": "24.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2408601",
+    "type": "city",
+    "native": "Община Лъки",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9530,
@@ -201,7 +281,12 @@
     "latitude": "42.23333000",
     "longitude": "24.80000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q162565",
+    "type": "city",
+    "native": "Община Марица",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9548,
@@ -213,7 +298,12 @@
     "latitude": "42.03333000",
     "longitude": "25.20000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2721288",
+    "type": "city",
+    "native": "Община Първомай",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9553,
@@ -225,7 +315,12 @@
     "latitude": "42.06667000",
     "longitude": "24.55000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15101506",
+    "type": "city",
+    "native": "Община Перущица",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9558,
@@ -237,7 +332,12 @@
     "latitude": "42.15000000",
     "longitude": "24.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4365146",
+    "type": "municipality",
+    "native": "Община Пловдив",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9569,
@@ -249,7 +349,12 @@
     "latitude": "42.26667000",
     "longitude": "24.98333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1750681",
+    "type": "city",
+    "native": "Община Раковски",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9573,
@@ -261,7 +366,12 @@
     "latitude": "42.03333000",
     "longitude": "24.68333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1500386",
+    "type": "city",
+    "native": "Община Родопи",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9578,
@@ -273,7 +383,12 @@
     "latitude": "42.13333000",
     "longitude": "25.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2408574",
+    "type": "city",
+    "native": "Община Садово",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9579,
@@ -285,7 +400,12 @@
     "latitude": "42.31667000",
     "longitude": "24.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q523537",
+    "type": "city",
+    "native": "Община Съединение",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9595,
@@ -297,7 +417,12 @@
     "latitude": "42.65214000",
     "longitude": "24.74310000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2219349",
+    "type": "city",
+    "native": "Община Сопот",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9597,
@@ -309,7 +434,12 @@
     "latitude": "42.11667000",
     "longitude": "24.51667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1750926",
+    "type": "city",
+    "native": "Община Стамболийски",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9645,
@@ -321,7 +451,12 @@
     "latitude": "42.10000000",
     "longitude": "25.21667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405991",
+    "type": "city",
+    "native": "Първомай",
+    "timezone": "Europe/Sofia",
+    "population": 17000,
+    "population_year": null
   },
   {
     "id": 9651,
@@ -333,7 +468,12 @@
     "latitude": "42.05000000",
     "longitude": "24.55000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q407483",
+    "type": "city",
+    "native": "Перущица",
+    "timezone": "Europe/Sofia",
+    "population": 5350,
+    "population_year": null
   },
   {
     "id": 9656,
@@ -345,7 +485,12 @@
     "latitude": "42.14185410",
     "longitude": "24.74992970",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q459",
+    "type": "city",
+    "native": "Пловдив",
+    "timezone": "Europe/Sofia",
+    "population": 329489,
+    "population_year": null
   },
   {
     "id": 9667,
@@ -357,7 +502,12 @@
     "latitude": "42.27408000",
     "longitude": "24.94083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q167953",
+    "type": "city",
+    "native": "Раковски",
+    "timezone": "Europe/Sofia",
+    "population": 14718,
+    "population_year": null
   },
   {
     "id": 9677,
@@ -369,7 +519,12 @@
     "latitude": "42.13178000",
     "longitude": "24.93999000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405215",
+    "type": "city",
+    "native": "Садово",
+    "timezone": "Europe/Sofia",
+    "population": 2339,
+    "population_year": null
   },
   {
     "id": 9678,
@@ -381,7 +536,12 @@
     "latitude": "42.26667000",
     "longitude": "24.55000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405965",
+    "type": "city",
+    "native": "Съединение",
+    "timezone": "Europe/Sofia",
+    "population": 6427,
+    "population_year": null
   },
   {
     "id": 9704,
@@ -393,7 +553,12 @@
     "latitude": "42.13333000",
     "longitude": "24.53333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405708",
+    "type": "city",
+    "native": "Стамболийски",
+    "timezone": "Europe/Sofia",
+    "population": 9723,
+    "population_year": null
   },
   {
     "id": 9723,
@@ -405,6 +570,11 @@
     "latitude": "41.90000000",
     "longitude": "25.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4460770",
+    "type": "village",
+    "native": "Тополово",
+    "timezone": "Europe/Sofia",
+    "population": 2321,
+    "population_year": null
   }
 ]

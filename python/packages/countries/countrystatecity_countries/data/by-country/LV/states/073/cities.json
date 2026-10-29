@@ -9,7 +9,12 @@
     "latitude": "56.13274000",
     "longitude": "27.00682000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q372999",
+    "type": "city",
+    "native": "Aglona",
+    "timezone": "Europe/Riga",
+    "population": 791,
+    "population_year": null
   },
   {
     "id": 66902,
@@ -21,7 +26,12 @@
     "latitude": "56.16066000",
     "longitude": "27.00714000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Godlanglona",
+    "timezone": "Europe/Riga",
+    "population": 1053,
+    "population_year": null
   },
   {
     "id": 66941,
@@ -33,7 +43,12 @@
     "latitude": "56.29444000",
     "longitude": "26.72459000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q858476",
+    "type": "adm1",
+    "native": "Preiļi",
+    "timezone": "Europe/Riga",
+    "population": 9553,
+    "population_year": null
   },
   {
     "id": 66947,
@@ -45,7 +60,12 @@
     "latitude": "56.34280000",
     "longitude": "26.79995000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q942401",
+    "type": "adm2",
+    "native": "Riebiņi",
+    "timezone": "Europe/Riga",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 66983,
@@ -57,6 +77,11 @@
     "latitude": "56.19838000",
     "longitude": "26.50811000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7917870",
+    "type": "city",
+    "native": "Vecvārkava",
+    "timezone": "Europe/Riga",
+    "population": 157,
+    "population_year": null
   }
 ]

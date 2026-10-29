@@ -1,6 +1,6 @@
 [
   {
-    "id": 105184,
+    "id": 166920,
     "name": "At Samat",
     "state_id": 3510,
     "state_code": "45",
@@ -9,7 +9,12 @@
     "latitude": "15.84308000",
     "longitude": "103.87839000",
     "county_id": 5834,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "อาจสามารถ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106413,
@@ -21,10 +26,15 @@
     "latitude": "16.01667000",
     "longitude": "103.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "บ้านเสลภูมิ",
+    "timezone": "Asia/Bangkok",
+    "population": 17412,
+    "population_year": null
   },
   {
-    "id": 105744,
+    "id": 167150,
     "name": "Chai Wari",
     "state_id": 3510,
     "state_code": "45",
@@ -33,10 +43,15 @@
     "latitude": "16.32827000",
     "longitude": "103.77033000",
     "county_id": 5828,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ชัยวารี",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105285,
+    "id": 166968,
     "name": "Changhan",
     "state_id": 3510,
     "state_code": "45",
@@ -45,7 +60,12 @@
     "latitude": "16.13873000",
     "longitude": "103.60388000",
     "county_id": 5837,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "จังหาร",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105289,
@@ -57,10 +77,15 @@
     "latitude": "15.82670000",
     "longitude": "103.54934000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475376",
+    "type": "district",
+    "native": "อำเภอจตุรพักตรพิมาน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105296,
+    "id": 166974,
     "name": "Chiang Khwan",
     "state_id": 3510,
     "state_code": "45",
@@ -69,7 +94,12 @@
     "latitude": "16.16328000",
     "longitude": "103.75359000",
     "county_id": 5838,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "เชียงขวัญ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106515,
@@ -78,10 +108,15 @@
     "state_code": "45",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "15.65555556",
-    "longitude": "103.58361111",
-    "county_id": 5822,
-    "wikiDataId": null
+    "latitude": "15.65558000",
+    "longitude": "103.58361000",
+    "county_id": null,
+    "wikiDataId": "Q28732540",
+    "type": "adm2",
+    "native": "เกษตรวิสัย",
+    "timezone": "Asia/Bangkok",
+    "population": 18569,
+    "population_year": null
   },
   {
     "id": 106570,
@@ -93,10 +128,15 @@
     "latitude": "16.38944000",
     "longitude": "104.15720000",
     "county_id": 5835,
-    "wikiDataId": null
+    "wikiDataId": "Q28732545",
+    "type": "town",
+    "native": "เมยวดี",
+    "timezone": "Asia/Bangkok",
+    "population": 5609,
+    "population_year": null
   },
   {
-    "id": 105592,
+    "id": 167080,
     "name": "Mueang Suang",
     "state_id": 3510,
     "state_code": "45",
@@ -105,10 +145,15 @@
     "latitude": "15.82192000",
     "longitude": "103.72884000",
     "county_id": 5832,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "เมืองสรวง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105664,
+    "id": 167111,
     "name": "Nong Hi",
     "state_id": 3510,
     "state_code": "45",
@@ -117,10 +162,15 @@
     "latitude": "15.61117000",
     "longitude": "103.99484000",
     "county_id": 5839,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "หนองฮี",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105676,
+    "id": 167119,
     "name": "Nong Phok",
     "state_id": 3510,
     "state_code": "45",
@@ -129,10 +179,15 @@
     "latitude": "16.31006000",
     "longitude": "104.20247000",
     "county_id": 5829,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "หนองพอก",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105714,
+    "id": 167136,
     "name": "Pathum Rat",
     "state_id": 3510,
     "state_code": "45",
@@ -141,10 +196,15 @@
     "latitude": "15.63450000",
     "longitude": "103.34325000",
     "county_id": 5823,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ปทุมรัตต์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105728,
+    "id": 167142,
     "name": "Phanom Phrai",
     "state_id": 3510,
     "state_code": "45",
@@ -153,7 +213,12 @@
     "latitude": "15.67783000",
     "longitude": "104.11025000",
     "county_id": 5826,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "พนมไพร",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106637,
@@ -165,10 +230,15 @@
     "latitude": "15.59619997",
     "longitude": "104.09777668",
     "county_id": 5826,
-    "wikiDataId": null
+    "wikiDataId": "Q13025333",
+    "type": "town",
+    "native": "โพธิ์ชัย",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105754,
+    "id": 167154,
     "name": "Phon Sai",
     "state_id": 3510,
     "state_code": "45",
@@ -177,7 +247,12 @@
     "latitude": "15.48797000",
     "longitude": "103.99642000",
     "county_id": 5833,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "โพนทราย",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105756,
@@ -189,7 +264,12 @@
     "latitude": "16.29007000",
     "longitude": "103.96388000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476429",
+    "type": "district",
+    "native": "อำเภอโพนทอง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106668,
@@ -201,10 +281,15 @@
     "latitude": "16.05670000",
     "longitude": "103.65309000",
     "county_id": 5821,
-    "wikiDataId": null
+    "wikiDataId": "Q1017738",
+    "type": "city",
+    "native": "ร้อยเอ็ด",
+    "timezone": "Asia/Bangkok",
+    "population": 35219,
+    "population_year": null
   },
   {
-    "id": 106206,
+    "id": 167201,
     "name": "Selaphum",
     "state_id": 3510,
     "state_code": "45",
@@ -213,10 +298,15 @@
     "latitude": "16.02992000",
     "longitude": "103.93826000",
     "county_id": 5830,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "เสลภูมิ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106226,
+    "id": 167212,
     "name": "Si Somdet",
     "state_id": 3510,
     "state_code": "45",
@@ -225,7 +315,12 @@
     "latitude": "15.99797000",
     "longitude": "103.48789000",
     "county_id": 5836,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ศรีสมเด็จ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106712,
@@ -237,7 +332,12 @@
     "latitude": "15.60348000",
     "longitude": "103.80207000",
     "county_id": 5831,
-    "wikiDataId": null
+    "wikiDataId": "Q28732550",
+    "type": "town",
+    "native": "สุวรรณภูมิ",
+    "timezone": "Asia/Bangkok",
+    "population": 12221,
+    "population_year": null
   },
   {
     "id": 106304,
@@ -249,7 +349,12 @@
     "latitude": "16.02783000",
     "longitude": "103.77833000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476903",
+    "type": "district",
+    "native": "อำเภอธวัชบุรี",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106314,
@@ -261,7 +366,12 @@
     "latitude": "15.98966000",
     "longitude": "103.87086000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476939",
+    "type": "district",
+    "native": "อำเภอทุ่งเขาหลวง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106742,
@@ -273,6 +383,11 @@
     "latitude": "16.30006000",
     "longitude": "103.97786000",
     "county_id": 5827,
-    "wikiDataId": null
+    "wikiDataId": "Q28732551",
+    "type": "town",
+    "native": "แวง",
+    "timezone": "Asia/Bangkok",
+    "population": 13317,
+    "population_year": null
   }
 ]

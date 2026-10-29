@@ -1,6 +1,6 @@
 [
   {
-    "id": 17448,
+    "id": 167617,
     "name": "Beckenried",
     "state_id": 1652,
     "state_code": "NW",
@@ -9,10 +9,15 @@
     "latitude": "46.96653000",
     "longitude": "8.47575000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q69140",
+    "type": "municipality",
+    "native": "Beckenried",
+    "timezone": "Europe/Zurich",
+    "population": 3770,
+    "population_year": 2025
   },
   {
-    "id": 17582,
+    "id": 167632,
     "name": "Buochs",
     "state_id": 1652,
     "state_code": "NW",
@@ -21,10 +26,15 @@
     "latitude": "46.97398000",
     "longitude": "8.42279000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q64567",
+    "type": "municipality",
+    "native": "Buochs",
+    "timezone": "Europe/Zurich",
+    "population": 5607,
+    "population_year": 2025
   },
   {
-    "id": 17675,
+    "id": 167642,
     "name": "Dallenwil",
     "state_id": 1652,
     "state_code": "NW",
@@ -33,10 +43,15 @@
     "latitude": "46.92420000",
     "longitude": "8.38785000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q64575",
+    "type": "municipality",
+    "native": "Dallenwil",
+    "timezone": "Europe/Zurich",
+    "population": 1856,
+    "population_year": 2025
   },
   {
-    "id": 17748,
+    "id": 167658,
     "name": "Emmetten",
     "state_id": 1652,
     "state_code": "NW",
@@ -45,10 +60,15 @@
     "latitude": "46.95658000",
     "longitude": "8.51467000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q69177",
+    "type": "municipality",
+    "native": "Emmetten",
+    "timezone": "Europe/Zurich",
+    "population": 1691,
+    "population_year": 2025
   },
   {
-    "id": 17752,
+    "id": 167659,
     "name": "Ennetbürgen",
     "state_id": 1652,
     "state_code": "NW",
@@ -57,7 +77,12 @@
     "latitude": "46.98423000",
     "longitude": "8.41003000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q64310",
+    "type": "municipality",
+    "native": "Ennetbürgen",
+    "timezone": "Europe/Zurich",
+    "population": 5361,
+    "population_year": 2025
   },
   {
     "id": 17906,
@@ -69,7 +94,12 @@
     "latitude": "46.98429000",
     "longitude": "8.30944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Hergiswil",
+    "timezone": "Europe/Zurich",
+    "population": 6316,
+    "population_year": 2025
   },
   {
     "id": 18546,
@@ -81,10 +111,15 @@
     "latitude": "46.95805000",
     "longitude": "8.36609000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q63931",
+    "type": "municipality",
+    "native": "Stans",
+    "timezone": "Europe/Zurich",
+    "population": 8565,
+    "population_year": 2025
   },
   {
-    "id": 18547,
+    "id": 167812,
     "name": "Stansstad",
     "state_id": 1652,
     "state_code": "NW",
@@ -93,7 +128,12 @@
     "latitude": "46.97680000",
     "longitude": "8.33553000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q64285",
+    "type": "municipality",
+    "native": "Stansstad",
+    "timezone": "Europe/Zurich",
+    "population": 4916,
+    "population_year": 2025
   },
   {
     "id": 18763,
@@ -105,6 +145,11 @@
     "latitude": "46.90322000",
     "longitude": "8.39423000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22632117",
+    "type": "municipality",
+    "native": "Wolfenschiessen",
+    "timezone": "Europe/Zurich",
+    "population": 2174,
+    "population_year": 2025
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "59.35083000",
     "longitude": "24.61418000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q720023",
+    "type": "town",
+    "native": "Laagri",
+    "timezone": "Europe/Tallinn",
+    "population": 6117,
+    "population_year": null
   },
   {
     "id": 31695,
@@ -21,7 +26,12 @@
     "latitude": "59.11417000",
     "longitude": "24.31056000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2006948",
+    "type": "town",
+    "native": "Riisipere",
+    "timezone": "Europe/Tallinn",
+    "population": 868,
+    "population_year": null
   },
   {
     "id": 31706,
@@ -33,6 +43,28 @@
     "latitude": "59.32258000",
     "longitude": "24.54967000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q86206",
+    "type": "city",
+    "native": "Saue",
+    "timezone": "Europe/Tallinn",
+    "population": 6227,
+    "population_year": null
+  },
+  {
+    "id": 31707,
+    "name": "Saue vald",
+    "state_id": 5784,
+    "state_code": "726",
+    "country_id": 69,
+    "country_code": "EE",
+    "latitude": "59.29255000",
+    "longitude": "24.52503000",
+    "county_id": null,
+    "wikiDataId": "Q1755634",
+    "type": "city",
+    "native": "Saue vald",
+    "timezone": "Europe/Tallinn",
+    "population": null,
+    "population_year": null
   }
 ]

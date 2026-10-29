@@ -9,7 +9,12 @@
     "latitude": "-17.63185000",
     "longitude": "-71.34108000",
     "county_id": 8321,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Oilo",
+    "timezone": "America/Lima",
+    "population": 66118,
+    "population_year": null
   },
   {
     "id": 80719,
@@ -21,19 +26,29 @@
     "latitude": "-17.19832000",
     "longitude": "-70.93567000",
     "county_id": 8319,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Moquegua",
+    "timezone": "America/Lima",
+    "population": 69882,
+    "population_year": null
   },
   {
-    "id": 80862,
+    "id": 166894,
     "name": "Moquegua",
     "state_id": 3698,
     "state_code": "MOQ",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-17.19500000",
-    "longitude": "-70.93694444",
+    "latitude": "-17.20000000",
+    "longitude": "-70.93333300",
     "county_id": 8319,
-    "wikiDataId": null
+    "wikiDataId": "Q1000346",
+    "type": "city",
+    "native": "Moquegua",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80743,
@@ -45,7 +60,12 @@
     "latitude": "-17.64604000",
     "longitude": "-71.34481000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1279608",
+    "type": "city",
+    "native": "Pacocha",
+    "timezone": "America/Lima",
+    "population": 7588,
+    "population_year": null
   },
   {
     "id": 80824,
@@ -57,7 +77,12 @@
     "latitude": "-16.50000000",
     "longitude": "-70.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1947893",
+    "type": "province",
+    "native": "Provincia de General Sánchez Cerro",
+    "timezone": "America/Lima",
+    "population": 14865,
+    "population_year": null
   },
   {
     "id": 80844,
@@ -69,7 +94,12 @@
     "latitude": "-17.49694000",
     "longitude": "-71.16722000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1944257",
+    "type": "province",
+    "native": "OIM Provincial",
+    "timezone": "America/Lima",
+    "population": 74649,
+    "population_year": null
   },
   {
     "id": 80996,
@@ -81,6 +111,11 @@
     "latitude": "-17.07694000",
     "longitude": "-70.84333000",
     "county_id": 8319,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Torata",
+    "timezone": "America/Lima",
+    "population": 6198,
+    "population_year": null
   }
 ]

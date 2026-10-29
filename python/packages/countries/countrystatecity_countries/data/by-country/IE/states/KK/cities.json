@@ -9,7 +9,12 @@
     "latitude": "52.78889000",
     "longitude": "-7.33028000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2119844",
+    "type": "town",
+    "native": "Ballyragget",
+    "timezone": "Europe/Dublin",
+    "population": 1082,
+    "population_year": null
   },
   {
     "id": 57142,
@@ -21,7 +26,12 @@
     "latitude": "52.54500000",
     "longitude": "-7.39111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1027150",
+    "type": "town",
+    "native": "Callan",
+    "timezone": "Europe/Dublin",
+    "population": 2475,
+    "population_year": null
   },
   {
     "id": 57157,
@@ -33,7 +43,29 @@
     "latitude": "52.80611000",
     "longitude": "-7.21056000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1954436",
+    "type": "town",
+    "native": "Castlecomer",
+    "timezone": "Europe/Dublin",
+    "population": 1502,
+    "population_year": null
+  },
+  {
+    "id": 57260,
+    "name": "Graiguenamanagh",
+    "state_id": 1090,
+    "state_code": "KK",
+    "country_id": 105,
+    "country_code": "IE",
+    "latitude": "52.54028000",
+    "longitude": "-6.95472000",
+    "county_id": null,
+    "wikiDataId": "Q1114609",
+    "type": "city",
+    "native": "Graiguenamanagh",
+    "timezone": "Europe/Dublin",
+    "population": 1476,
+    "population_year": null
   },
   {
     "id": 57413,
@@ -45,6 +77,11 @@
     "latitude": "52.52667000",
     "longitude": "-7.13722000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1433139",
+    "type": "town",
+    "native": "Thomastown",
+    "timezone": "Europe/Dublin",
+    "population": 2445,
+    "population_year": null
   }
 ]

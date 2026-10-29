@@ -9,7 +9,12 @@
     "latitude": "31.50840000",
     "longitude": "31.84106000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1010823",
+    "type": "city",
+    "native": "عزبة البرج",
+    "timezone": "Africa/Cairo",
+    "population": 37953,
+    "population_year": null
   },
   {
     "id": 31794,
@@ -21,7 +26,12 @@
     "latitude": "31.20864000",
     "longitude": "31.63528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4119153",
+    "type": "city",
+    "native": "الزرقاء",
+    "timezone": "Africa/Cairo",
+    "population": 26955,
+    "population_year": null
   },
   {
     "id": 31805,
@@ -33,7 +43,12 @@
     "latitude": "31.41648000",
     "longitude": "31.81332000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q189383",
+    "type": "adm1",
+    "native": "دمياط",
+    "timezone": "Africa/Cairo",
+    "population": 305920,
+    "population_year": null
   },
   {
     "id": 31815,
@@ -45,7 +60,12 @@
     "latitude": "31.32977000",
     "longitude": "31.71507000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4166604",
+    "type": "city",
+    "native": "فارسكور",
+    "timezone": "Africa/Cairo",
+    "population": 36850,
+    "population_year": null
   },
   {
     "id": 164671,
@@ -57,6 +77,11 @@
     "latitude": "31.28837000",
     "longitude": "31.67719000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12246436",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "population": 20470,
+    "population_year": null
   }
 ]

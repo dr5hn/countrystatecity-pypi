@@ -8,8 +8,13 @@
     "country_code": "TR",
     "latitude": "41.19111000",
     "longitude": "40.98750000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 6877,
+    "wikiDataId": "Q588720",
+    "type": "municipality",
+    "native": "Ardeşen",
+    "timezone": "Europe/Istanbul",
+    "population": 41084,
+    "population_year": null
   },
   {
     "id": 153358,
@@ -21,7 +26,12 @@
     "latitude": "41.04593800",
     "longitude": "41.00527500",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2670821",
+    "type": "adm2",
+    "native": "Çamlıhemşin",
+    "timezone": "Europe/Istanbul",
+    "population": 8121,
+    "population_year": null
   },
   {
     "id": 108800,
@@ -33,7 +43,12 @@
     "latitude": "41.08941000",
     "longitude": "40.73696000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2248873",
+    "type": "adm2",
+    "native": "Çayeli",
+    "timezone": "Europe/Istanbul",
+    "population": 44304,
+    "population_year": null
   },
   {
     "id": 153359,
@@ -45,7 +60,12 @@
     "latitude": "41.02472200",
     "longitude": "40.42555600",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2670684",
+    "type": "adm2",
+    "native": "Derepazarı",
+    "timezone": "Europe/Istanbul",
+    "population": 9365,
+    "population_year": null
   },
   {
     "id": 107644,
@@ -57,7 +77,12 @@
     "latitude": "41.27110000",
     "longitude": "41.14449000",
     "county_id": 7055,
-    "wikiDataId": null
+    "wikiDataId": "Q2712698",
+    "type": "municipality",
+    "native": "Fındıklı",
+    "timezone": "Europe/Istanbul",
+    "population": 11620,
+    "population_year": 2025
   },
   {
     "id": 107743,
@@ -68,8 +93,13 @@
     "country_code": "TR",
     "latitude": "40.98130000",
     "longitude": "40.60465000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7499,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Güneysu",
+    "timezone": "Europe/Istanbul",
+    "population": 5976,
+    "population_year": null
   },
   {
     "id": 107821,
@@ -81,7 +111,12 @@
     "latitude": "41.05922000",
     "longitude": "40.90140000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1025138",
+    "type": "adm2",
+    "native": "Hemşin",
+    "timezone": "Europe/Istanbul",
+    "population": 2817,
+    "population_year": null
   },
   {
     "id": 108889,
@@ -93,7 +128,12 @@
     "latitude": "40.77713000",
     "longitude": "40.56076000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2670748",
+    "type": "adm2",
+    "native": "İkizdere",
+    "timezone": "Europe/Istanbul",
+    "population": 92,
+    "population_year": null
   },
   {
     "id": 108922,
@@ -104,8 +144,13 @@
     "country_code": "TR",
     "latitude": "41.00905000",
     "longitude": "40.37776000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 7652,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "İyidere",
+    "timezone": "Europe/Istanbul",
+    "population": 10018,
+    "population_year": null
   },
   {
     "id": 107877,
@@ -117,7 +162,12 @@
     "latitude": "40.92143000",
     "longitude": "40.43999000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2670776",
+    "type": "adm2",
+    "native": "Kalkandere",
+    "timezone": "Europe/Istanbul",
+    "population": 16768,
+    "population_year": null
   },
   {
     "id": 108371,
@@ -128,8 +178,13 @@
     "country_code": "TR",
     "latitude": "41.02083000",
     "longitude": "40.52194000",
-    "county_id": 7295,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q201101",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 122151,
+    "population_year": 2025
   },
   {
     "id": 108321,
@@ -141,6 +196,11 @@
     "latitude": "41.17917000",
     "longitude": "40.88417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1920516",
+    "type": "adm2",
+    "native": "Pazar",
+    "timezone": "Europe/Istanbul",
+    "population": 14335,
+    "population_year": null
   }
 ]

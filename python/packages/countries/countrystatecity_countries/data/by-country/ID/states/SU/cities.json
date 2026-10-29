@@ -1,6 +1,6 @@
 [
   {
-    "id": 56481,
+    "id": 166723,
     "name": "Aek Kanopan",
     "state_id": 1792,
     "state_code": "SU",
@@ -9,7 +9,12 @@
     "latitude": "2.56666667",
     "longitude": "99.65000000",
     "county_id": 8412,
-    "wikiDataId": null
+    "wikiDataId": "Q12052756",
+    "type": "section",
+    "native": "Aek Kanopan",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56177,
@@ -21,19 +26,12 @@
     "latitude": "2.68140000",
     "longitude": "98.83110000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56320,
-    "name": "Asahan",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "2.78333000",
-    "longitude": "99.55000000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Ambarita",
+    "timezone": "Asia/Jakarta",
+    "population": 2000,
+    "population_year": null
   },
   {
     "id": 56194,
@@ -45,19 +43,12 @@
     "latitude": "2.05000000",
     "longitude": "99.75000000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56348,
-    "name": "Batu Bara",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "3.16166000",
-    "longitude": "99.52652000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24821695",
+    "type": "city",
+    "native": "Bandar",
+    "timezone": "Asia/Jakarta",
+    "population": 31442,
+    "population_year": null
   },
   {
     "id": 56216,
@@ -69,7 +60,12 @@
     "latitude": "3.77550000",
     "longitude": "98.68320000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q682657",
+    "type": "city",
+    "native": "Belawan",
+    "timezone": "Asia/Jakarta",
+    "population": 102707,
+    "population_year": null
   },
   {
     "id": 56218,
@@ -81,7 +77,12 @@
     "latitude": "3.19468000",
     "longitude": "98.50889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Berastagi",
+    "timezone": "Asia/Jakarta",
+    "population": 48244,
+    "population_year": null
   },
   {
     "id": 56222,
@@ -93,19 +94,12 @@
     "latitude": "3.60010000",
     "longitude": "98.48540000",
     "county_id": 8419,
-    "wikiDataId": null
-  },
-  {
-    "id": 56394,
-    "name": "Dairi",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "2.86667000",
-    "longitude": "98.23333000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5954",
+    "type": "city",
+    "native": "Binjai",
+    "timezone": "Asia/Jakarta",
+    "population": 269053,
+    "population_year": null
   },
   {
     "id": 56261,
@@ -117,10 +111,15 @@
     "latitude": "3.50780000",
     "longitude": "98.68390000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24821924",
+    "type": "city",
+    "native": "Deli Tua",
+    "timezone": "Asia/Jakarta",
+    "population": 27940,
+    "population_year": null
   },
   {
-    "id": 56423,
+    "id": 166688,
     "name": "Dolok Sanggul",
     "state_id": 1792,
     "state_code": "SU",
@@ -129,10 +128,32 @@
     "latitude": "2.25880000",
     "longitude": "98.75010000",
     "county_id": 8405,
-    "wikiDataId": null
+    "wikiDataId": "Q138791058",
+    "type": "town",
+    "native": "Dolok Sanggul",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56570,
+    "id": 166773,
+    "name": "Gido",
+    "state_id": 1792,
+    "state_code": "SU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "1.15190000",
+    "longitude": "97.66300000",
+    "county_id": 8393,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Gido",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166781,
     "name": "Gunung Tua",
     "state_id": 1792,
     "state_code": "SU",
@@ -141,7 +162,12 @@
     "latitude": "1.51274000",
     "longitude": "99.62628000",
     "county_id": 8409,
-    "wikiDataId": null
+    "wikiDataId": "Q5619521",
+    "type": "town",
+    "native": "Gunung Tua",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56290,
@@ -153,7 +179,12 @@
     "latitude": "1.28880000",
     "longitude": "97.61430000",
     "county_id": 8422,
-    "wikiDataId": null
+    "wikiDataId": "Q5967",
+    "type": "city",
+    "native": "Gunungsitoli",
+    "timezone": "Asia/Jakarta",
+    "population": 137104,
+    "population_year": null
   },
   {
     "id": 56306,
@@ -165,7 +196,12 @@
     "latitude": "3.10010000",
     "longitude": "98.49080000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q138784438",
+    "type": "adm2",
+    "native": "Kabanjahe",
+    "timezone": "Asia/Jakarta",
+    "population": 73581,
+    "population_year": null
   },
   {
     "id": 56717,
@@ -177,19 +213,29 @@
     "latitude": "2.98450000",
     "longitude": "99.61580000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Kisaran",
+    "timezone": "Asia/Jakarta",
+    "population": 141915,
+    "population_year": null
   },
   {
-    "id": 56480,
-    "name": "Labuhan Batu Selatan",
+    "id": 166722,
+    "name": "Kotapinang",
     "state_id": 1792,
     "state_code": "SU",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "1.98300000",
-    "longitude": "100.09760000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "1.89076000",
+    "longitude": "100.09211000",
+    "county_id": 8411,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Kotapinang",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56832,
@@ -200,20 +246,47 @@
     "country_code": "ID",
     "latitude": "3.72780000",
     "longitude": "98.67380000",
-    "county_id": 8415,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q24822162",
+    "type": "adm1",
+    "native": "Labuhan Deli",
+    "timezone": "Asia/Jakarta",
+    "population": 49668,
+    "population_year": null
   },
   {
-    "id": 56489,
-    "name": "Langkat",
+    "id": 166644,
+    "name": "Lima Puluh",
     "state_id": 1792,
     "state_code": "SU",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "3.71667000",
-    "longitude": "98.21667000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "3.16890000",
+    "longitude": "99.41750000",
+    "county_id": 8408,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Lima Puluh",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166774,
+    "name": "Lotu",
+    "state_id": 1792,
+    "state_code": "SU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "1.42990000",
+    "longitude": "97.35365000",
+    "county_id": 8413,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Lotu",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164818,
@@ -225,7 +298,12 @@
     "latitude": "3.55920000",
     "longitude": "98.87330000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q137766841",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56867,
@@ -237,19 +315,12 @@
     "latitude": "3.58333000",
     "longitude": "98.66667000",
     "county_id": 8415,
-    "wikiDataId": null
-  },
-  {
-    "id": 56559,
-    "name": "Nias",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "1.03333000",
-    "longitude": "97.76667000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5972",
+    "type": "city",
+    "native": "Medan",
+    "timezone": "Asia/Jakarta",
+    "population": 2109330,
+    "population_year": null
   },
   {
     "id": 56560,
@@ -261,19 +332,12 @@
     "latitude": "1.05966000",
     "longitude": "97.58606000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56561,
-    "name": "Nias Utara",
-    "state_id": 1792,
-    "state_code": "SU",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "1.33037000",
-    "longitude": "97.31964000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5909",
+    "type": "regency",
+    "native": "Kabupaten Nias Barat",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56894,
@@ -285,7 +349,12 @@
     "latitude": "1.37952000",
     "longitude": "99.27146000",
     "county_id": 8421,
-    "wikiDataId": null
+    "wikiDataId": "Q5974",
+    "type": "city",
+    "native": "Padangsidempuan",
+    "timezone": "Asia/Jakarta",
+    "population": 236217,
+    "population_year": null
   },
   {
     "id": 56910,
@@ -297,10 +366,15 @@
     "latitude": "4.02380000",
     "longitude": "98.27820000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7130959",
+    "type": "city",
+    "native": "Pangkalan Brandan",
+    "timezone": "Asia/Jakarta",
+    "population": 25542,
+    "population_year": null
   },
   {
-    "id": 56615,
+    "id": 166807,
     "name": "Pangururan",
     "state_id": 1792,
     "state_code": "SU",
@@ -309,10 +383,15 @@
     "latitude": "2.60810000",
     "longitude": "98.69610000",
     "county_id": 8406,
-    "wikiDataId": null
+    "wikiDataId": "Q138791064",
+    "type": "town",
+    "native": "Pangururan",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56523,
+    "id": 166752,
     "name": "Panyabungan",
     "state_id": 1792,
     "state_code": "SU",
@@ -321,7 +400,12 @@
     "latitude": "0.79676271",
     "longitude": "99.57892183",
     "county_id": 8402,
-    "wikiDataId": null
+    "wikiDataId": "Q26758929",
+    "type": "town",
+    "native": "Panyabungan",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56914,
@@ -333,7 +417,12 @@
     "latitude": "2.66300000",
     "longitude": "98.93490000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2271788",
+    "type": "adm3",
+    "native": "Parapat",
+    "timezone": "Asia/Jakarta",
+    "population": 10000,
+    "population_year": null
   },
   {
     "id": 56926,
@@ -345,7 +434,12 @@
     "latitude": "3.11313000",
     "longitude": "99.17352000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Pekan Bahapal",
+    "timezone": "Asia/Jakarta",
+    "population": 40000,
+    "population_year": null
   },
   {
     "id": 56930,
@@ -357,7 +451,12 @@
     "latitude": "2.95950000",
     "longitude": "99.06870000",
     "county_id": 8416,
-    "wikiDataId": null
+    "wikiDataId": "Q5979",
+    "type": "city",
+    "native": "Pematangsiantar",
+    "timezone": "Asia/Jakarta",
+    "population": 278055,
+    "population_year": null
   },
   {
     "id": 56932,
@@ -369,7 +468,12 @@
     "latitude": "3.56790000",
     "longitude": "98.95600000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24819339",
+    "type": "city",
+    "native": "Perbaungan",
+    "timezone": "Asia/Jakarta",
+    "population": 157174,
+    "population_year": null
   },
   {
     "id": 56933,
@@ -381,7 +485,12 @@
     "latitude": "3.62530000",
     "longitude": "98.86400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12504901",
+    "type": "city",
+    "native": "Percut",
+    "timezone": "Asia/Jakarta",
+    "population": 311063,
+    "population_year": null
   },
   {
     "id": 56951,
@@ -393,10 +502,15 @@
     "latitude": "2.10000000",
     "longitude": "99.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4899310",
+    "type": "city",
+    "native": "Rantauprapat",
+    "timezone": "Asia/Jakarta",
+    "population": 103009,
+    "population_year": null
   },
   {
-    "id": 56572,
+    "id": 166783,
     "name": "Salak",
     "state_id": 1792,
     "state_code": "SU",
@@ -405,10 +519,15 @@
     "latitude": "2.55660000",
     "longitude": "98.32350000",
     "county_id": 8404,
-    "wikiDataId": null
+    "wikiDataId": "Q138791057",
+    "type": "town",
+    "native": "Salak",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56624,
+    "id": 166813,
     "name": "Sei Rampah",
     "state_id": 1792,
     "state_code": "SU",
@@ -417,7 +536,12 @@
     "latitude": "3.48450000",
     "longitude": "99.13660000",
     "county_id": 8407,
-    "wikiDataId": null
+    "wikiDataId": "Q138791065",
+    "type": "town",
+    "native": "Sei Rampah",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56973,
@@ -429,7 +553,12 @@
     "latitude": "1.74016000",
     "longitude": "98.78117000",
     "county_id": 8417,
-    "wikiDataId": null
+    "wikiDataId": "Q5984",
+    "type": "city",
+    "native": "Sibolga",
+    "timezone": "Asia/Jakarta",
+    "population": 94971,
+    "population_year": null
   },
   {
     "id": 164822,
@@ -441,7 +570,29 @@
     "latitude": "1.05387000",
     "longitude": "99.73018000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7507306",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166671,
+    "name": "Sidikalang",
+    "state_id": 1792,
+    "state_code": "SU",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "2.74899000",
+    "longitude": "98.31270000",
+    "county_id": 8400,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Sidikalang",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56633,
@@ -453,7 +604,12 @@
     "latitude": "2.90000000",
     "longitude": "99.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5903",
+    "type": "regency",
+    "native": "Kabupaten Simalungun",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 57000,
@@ -465,7 +621,12 @@
     "latitude": "3.73335000",
     "longitude": "98.45025000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Stabat",
+    "timezone": "Asia/Jakarta",
+    "population": 26862,
+    "population_year": null
   },
   {
     "id": 57010,
@@ -477,7 +638,12 @@
     "latitude": "3.57650000",
     "longitude": "98.61510000",
     "county_id": 8415,
-    "wikiDataId": null
+    "wikiDataId": "Q12518013",
+    "type": "section",
+    "native": "Sunggal",
+    "timezone": "Asia/Jakarta",
+    "population": 157914,
+    "population_year": null
   },
   {
     "id": 57021,
@@ -489,7 +655,12 @@
     "latitude": "2.96667000",
     "longitude": "99.80000000",
     "county_id": 8418,
-    "wikiDataId": null
+    "wikiDataId": "Q5987",
+    "type": "city",
+    "native": "Tanjungbalai",
+    "timezone": "Asia/Jakarta",
+    "population": 165763,
+    "population_year": null
   },
   {
     "id": 57022,
@@ -501,7 +672,12 @@
     "latitude": "4.06130000",
     "longitude": "98.36990000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24818428",
+    "type": "city",
+    "native": "Tanjungtiram",
+    "timezone": "Asia/Jakarta",
+    "population": 25118,
+    "population_year": null
   },
   {
     "id": 56670,
@@ -513,7 +689,12 @@
     "latitude": "1.51667000",
     "longitude": "99.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5914",
+    "type": "regency",
+    "native": "Kabupaten Tapanuli Selatan",
+    "timezone": "Asia/Jakarta",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 56671,
@@ -525,7 +706,12 @@
     "latitude": "1.90000000",
     "longitude": "98.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5800",
+    "type": "regency",
+    "native": "Kabupaten Tapanuli Tengah",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164804,
@@ -537,7 +723,12 @@
     "latitude": "2.01467000",
     "longitude": "98.96548000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18715197",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "population": 39500,
+    "population_year": null
   },
   {
     "id": 57027,
@@ -548,8 +739,13 @@
     "country_code": "ID",
     "latitude": "3.32850000",
     "longitude": "99.16250000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 8420,
+    "wikiDataId": "Q24818438",
+    "type": "city",
+    "native": "Tebingtinggi",
+    "timezone": "Asia/Jakarta",
+    "population": 117530,
+    "population_year": null
   },
   {
     "id": 57029,
@@ -561,7 +757,12 @@
     "latitude": "3.00100000",
     "longitude": "99.81640000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24818441",
+    "type": "city",
+    "native": "Teluk Nibung",
+    "timezone": "Asia/Jakarta",
+    "population": 25146,
+    "population_year": null
   },
   {
     "id": 57036,
@@ -573,7 +774,12 @@
     "latitude": "2.65210000",
     "longitude": "98.86080000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tomok Bolon",
+    "timezone": "Asia/Jakarta",
+    "population": 10000,
+    "population_year": null
   },
   {
     "id": 57038,
@@ -585,7 +791,12 @@
     "latitude": "2.89850000",
     "longitude": "98.52310000",
     "county_id": 8395,
-    "wikiDataId": null
+    "wikiDataId": "Q12522046",
+    "type": "village",
+    "native": "Tongging",
+    "timezone": "Asia/Jakarta",
+    "population": 16000,
+    "population_year": null
   },
   {
     "id": 57043,
@@ -597,6 +808,11 @@
     "latitude": "2.66890000",
     "longitude": "98.85760000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q17058459",
+    "type": "city",
+    "native": "Tuktuk Sonak",
+    "timezone": "Asia/Jakarta",
+    "population": 5000,
+    "population_year": null
   }
 ]

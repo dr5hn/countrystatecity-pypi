@@ -9,10 +9,15 @@
     "latitude": "13.69276000",
     "longitude": "102.50128000",
     "county_id": 5570,
-    "wikiDataId": null
+    "wikiDataId": "Q4784166",
+    "type": "city",
+    "native": "อรัญญประเทศ",
+    "timezone": "Asia/Bangkok",
+    "population": 20236,
+    "population_year": null
   },
   {
-    "id": 105392,
+    "id": 167015,
     "name": "Khao Chakan",
     "state_id": 3529,
     "state_code": "27",
@@ -21,10 +26,15 @@
     "latitude": "13.65278000",
     "longitude": "102.08763000",
     "county_id": 5571,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "เขาฉกรรจ์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105405,
+    "id": 167020,
     "name": "Khlong Hat",
     "state_id": 3529,
     "state_code": "27",
@@ -33,10 +43,15 @@
     "latitude": "13.45132000",
     "longitude": "102.29924000",
     "county_id": 5566,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "คลองหาด",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105420,
+    "id": 167025,
     "name": "Khok Sung",
     "state_id": 3529,
     "state_code": "27",
@@ -45,7 +60,12 @@
     "latitude": "13.83851000",
     "longitude": "102.62232000",
     "county_id": 5572,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "โคกสูง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106671,
@@ -54,13 +74,18 @@
     "state_code": "27",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "13.82055556",
-    "longitude": "102.05888889",
-    "county_id": 5565,
-    "wikiDataId": null
+    "latitude": "13.81411000",
+    "longitude": "102.07222000",
+    "county_id": null,
+    "wikiDataId": "Q1367916",
+    "type": "adm1",
+    "native": "สระแก้ว",
+    "timezone": "Asia/Bangkok",
+    "population": 28497,
+    "population_year": null
   },
   {
-    "id": 106260,
+    "id": 167229,
     "name": "Ta Phraya",
     "state_id": 3529,
     "state_code": "27",
@@ -69,7 +94,12 @@
     "latitude": "14.00527000",
     "longitude": "102.80508000",
     "county_id": 5567,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ตาพระยา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106743,
@@ -80,11 +110,16 @@
     "country_code": "TH",
     "latitude": "13.50325000",
     "longitude": "102.18115000",
-    "county_id": 5568,
-    "wikiDataId": null
+    "county_id": null,
+    "wikiDataId": "Q13025388",
+    "type": "adm2",
+    "native": "วังน้ำเย็น",
+    "timezone": "Asia/Bangkok",
+    "population": 16299,
+    "population_year": null
   },
   {
-    "id": 106347,
+    "id": 167273,
     "name": "Wang Sombun",
     "state_id": 3529,
     "state_code": "27",
@@ -93,10 +128,15 @@
     "latitude": "13.35146000",
     "longitude": "102.18329200",
     "county_id": 5573,
-    "wikiDataId": null
+    "wikiDataId": "Q28854803",
+    "type": "town",
+    "native": "วังสมบูรณ์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 106358,
+    "id": 167281,
     "name": "Watthana Nakhon",
     "state_id": 3529,
     "state_code": "27",
@@ -105,6 +145,11 @@
     "latitude": "13.74280000",
     "longitude": "102.31839000",
     "county_id": 5569,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "วัฒนานคร",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

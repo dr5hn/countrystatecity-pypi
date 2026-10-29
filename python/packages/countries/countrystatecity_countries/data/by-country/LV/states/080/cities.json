@@ -9,7 +9,12 @@
     "latitude": "57.04486000",
     "longitude": "24.41951000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1006622",
+    "type": "adm2",
+    "native": "Garkalne",
+    "timezone": "Europe/Riga",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 66950,
@@ -21,7 +26,12 @@
     "latitude": "56.97470000",
     "longitude": "24.63295000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q120761",
+    "type": "city",
+    "native": "Ropaži",
+    "timezone": "Europe/Riga",
+    "population": 1681,
+    "population_year": null
   },
   {
     "id": 66974,
@@ -33,7 +43,12 @@
     "latitude": "56.93630000",
     "longitude": "24.30387000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1027029",
+    "type": "adm1",
+    "native": "Ulbroka",
+    "timezone": "Europe/Riga",
+    "population": 5893,
+    "population_year": null
   },
   {
     "id": 66979,
@@ -45,6 +60,11 @@
     "latitude": "57.09358000",
     "longitude": "24.54468000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q849832",
+    "type": "city",
+    "native": "Vangaži",
+    "timezone": "Europe/Riga",
+    "population": 3168,
+    "population_year": null
   }
 ]

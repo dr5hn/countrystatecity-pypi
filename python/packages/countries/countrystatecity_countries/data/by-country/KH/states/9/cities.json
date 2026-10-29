@@ -9,7 +9,12 @@
     "latitude": "11.61531000",
     "longitude": "102.98380000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1375645",
+    "type": "adm1",
+    "native": "កោះកុង",
+    "timezone": "Asia/Phnom_Penh",
+    "population": 33591,
+    "population_year": null
   },
   {
     "id": 64982,
@@ -21,7 +26,12 @@
     "latitude": "11.54665000",
     "longitude": "103.03569000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "ធុនតូចមានជ័យជ័យ",
+    "timezone": "Asia/Phnom_Penh",
+    "population": 29329,
+    "population_year": null
   },
   {
     "id": 64984,
@@ -33,7 +43,12 @@
     "latitude": "11.10968000",
     "longitude": "103.76226000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4930156",
+    "type": "area",
+    "native": "ស្រអាប់អោងរឹង",
+    "timezone": "Asia/Phnom_Penh",
+    "population": 38435,
+    "population_year": null
   },
   {
     "id": 64991,
@@ -45,7 +60,12 @@
     "latitude": "11.11465000",
     "longitude": "103.38993000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4929301",
+    "type": "area",
+    "native": "srŏk batum sakôr",
+    "timezone": "Asia/Phnom_Penh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65011,
@@ -57,6 +77,11 @@
     "latitude": "11.81292000",
     "longitude": "103.01159000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4929448",
+    "type": "area",
+    "native": "ស្រែម៉ុនសីម៉ា",
+    "timezone": "Asia/Phnom_Penh",
+    "population": null,
+    "population_year": null
   }
 ]

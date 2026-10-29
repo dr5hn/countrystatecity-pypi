@@ -8,8 +8,13 @@
     "country_code": "NZ",
     "latitude": "-37.87822000",
     "longitude": "175.44020000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13751,
+    "wikiDataId": "Q1028261",
+    "type": "town",
+    "native": "Cambridge",
+    "timezone": "Pacific/Auckland",
+    "population": 15192,
+    "population_year": null
   },
   {
     "id": 79786,
@@ -20,8 +25,13 @@
     "country_code": "NZ",
     "latitude": "-36.76110000",
     "longitude": "175.49634000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13746,
+    "wikiDataId": "Q1134464",
+    "type": "town",
+    "native": "Coromandel",
+    "timezone": "Pacific/Auckland",
+    "population": 1860,
+    "population_year": null
   },
   {
     "id": 79799,
@@ -33,7 +43,12 @@
     "latitude": "-37.78333000",
     "longitude": "175.28333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q200028",
+    "type": "adm1",
+    "native": "Hamilton",
+    "timezone": "Pacific/Auckland",
+    "population": 176500,
+    "population_year": null
   },
   {
     "id": 163963,
@@ -44,8 +59,13 @@
     "country_code": "NZ",
     "latitude": "-37.57972700",
     "longitude": "175.15530700",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13748,
+    "wikiDataId": "Q907941",
+    "type": "town",
+    "native": "Huntly",
+    "timezone": "Pacific/Auckland",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 79827,
@@ -56,8 +76,13 @@
     "country_code": "NZ",
     "latitude": "-37.81060000",
     "longitude": "175.76237000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13749,
+    "wikiDataId": "Q691739",
+    "type": "town",
+    "native": "Matamata",
+    "timezone": "Pacific/Auckland",
+    "population": 6306,
+    "population_year": null
   },
   {
     "id": 79840,
@@ -68,8 +93,13 @@
     "country_code": "NZ",
     "latitude": "-37.66738000",
     "longitude": "175.15554000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13748,
+    "wikiDataId": "Q771298",
+    "type": "town",
+    "native": "Ngaruawahia",
+    "timezone": "Pacific/Auckland",
+    "population": 7740,
+    "population_year": null
   },
   {
     "id": 79841,
@@ -80,8 +110,13 @@
     "country_code": "NZ",
     "latitude": "-37.28333000",
     "longitude": "175.50000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13747,
+    "wikiDataId": "Q513626",
+    "type": "town",
+    "native": "Ngatea",
+    "timezone": "Pacific/Auckland",
+    "population": 1151,
+    "population_year": null
   },
   {
     "id": 163964,
@@ -93,7 +128,12 @@
     "latitude": "-37.15085000",
     "longitude": "174.65189930",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Otaua",
+    "timezone": "Pacific/Auckland",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 79848,
@@ -104,8 +144,13 @@
     "country_code": "NZ",
     "latitude": "-38.18333000",
     "longitude": "175.20000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13752,
+    "wikiDataId": "Q1936464",
+    "type": "town",
+    "native": "Otorohanga",
+    "timezone": "Pacific/Auckland",
+    "population": 3240,
+    "population_year": null
   },
   {
     "id": 79850,
@@ -116,8 +161,13 @@
     "country_code": "NZ",
     "latitude": "-37.36667000",
     "longitude": "175.66667000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13747,
+    "wikiDataId": "Q834005",
+    "type": "town",
+    "native": "Paeroa",
+    "timezone": "Pacific/Auckland",
+    "population": 4510,
+    "population_year": null
   },
   {
     "id": 79867,
@@ -128,20 +178,13 @@
     "country_code": "NZ",
     "latitude": "-37.80000000",
     "longitude": "174.88333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 79879,
-    "name": "South Waikato",
-    "state_id": 4061,
-    "state_code": "WKO",
-    "country_id": 158,
-    "country_code": "NZ",
-    "latitude": "-38.16797000",
-    "longitude": "175.88624000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13748,
+    "wikiDataId": "Q984803",
+    "type": "town",
+    "native": "Raglan",
+    "timezone": "Pacific/Auckland",
+    "population": 3590,
+    "population_year": null
   },
   {
     "id": 79883,
@@ -152,8 +195,13 @@
     "country_code": "NZ",
     "latitude": "-37.01667000",
     "longitude": "175.85000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13746,
+    "wikiDataId": "Q2388791",
+    "type": "town",
+    "native": "Tairua",
+    "timezone": "Pacific/Auckland",
+    "population": 1560,
+    "population_year": null
   },
   {
     "id": 79888,
@@ -164,8 +212,13 @@
     "country_code": "NZ",
     "latitude": "-38.68333000",
     "longitude": "176.08333000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 14024,
+    "wikiDataId": "Q2397257",
+    "type": "town",
+    "native": "Taupo",
+    "timezone": "Pacific/Auckland",
+    "population": 25400,
+    "population_year": null
   },
   {
     "id": 79891,
@@ -176,8 +229,13 @@
     "country_code": "NZ",
     "latitude": "-37.40000000",
     "longitude": "175.15000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13748,
+    "wikiDataId": "Q1526617",
+    "type": "town",
+    "native": "Te Kauwhata",
+    "timezone": "Pacific/Auckland",
+    "population": 3740,
+    "population_year": null
   },
   {
     "id": 79892,
@@ -188,8 +246,13 @@
     "country_code": "NZ",
     "latitude": "-37.13832000",
     "longitude": "175.54011000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13746,
+    "wikiDataId": "Q1691479",
+    "type": "town",
+    "native": "Thames",
+    "timezone": "Pacific/Auckland",
+    "population": 7380,
+    "population_year": null
   },
   {
     "id": 79897,
@@ -200,8 +263,13 @@
     "country_code": "NZ",
     "latitude": "-38.23333000",
     "longitude": "175.86667000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13753,
+    "wikiDataId": "Q112685",
+    "type": "town",
+    "native": "Tokoroa",
+    "timezone": "Pacific/Auckland",
+    "population": 14300,
+    "population_year": null
   },
   {
     "id": 79898,
@@ -212,8 +280,13 @@
     "country_code": "NZ",
     "latitude": "-38.99037000",
     "longitude": "175.80837000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 14024,
+    "wikiDataId": "Q1026386",
+    "type": "town",
+    "native": "Turangi",
+    "timezone": "Pacific/Auckland",
+    "population": 3650,
+    "population_year": null
   },
   {
     "id": 79900,
@@ -224,8 +297,13 @@
     "country_code": "NZ",
     "latitude": "-37.38333000",
     "longitude": "175.83333000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13747,
+    "wikiDataId": "Q498833",
+    "type": "town",
+    "native": "Waihi",
+    "timezone": "Pacific/Auckland",
+    "population": 5740,
+    "population_year": null
   },
   {
     "id": 79920,
@@ -236,8 +314,13 @@
     "country_code": "NZ",
     "latitude": "-37.20000000",
     "longitude": "175.86667000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13746,
+    "wikiDataId": "Q917136",
+    "type": "town",
+    "native": "Whangamata",
+    "timezone": "Pacific/Auckland",
+    "population": 4420,
+    "population_year": null
   },
   {
     "id": 79922,
@@ -248,7 +331,12 @@
     "country_code": "NZ",
     "latitude": "-36.83333000",
     "longitude": "175.70000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13746,
+    "wikiDataId": "Q1375183",
+    "type": "town",
+    "native": "WHITIANGA",
+    "timezone": "Pacific/Auckland",
+    "population": 6160,
+    "population_year": null
   }
 ]

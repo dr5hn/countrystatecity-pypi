@@ -1,17 +1,5 @@
 [
   {
-    "id": 56509,
-    "name": "Kabupaten Majene",
-    "state_id": 1817,
-    "state_code": "SR",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.15000000",
-    "longitude": "118.86667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 56854,
     "name": "Majene",
     "state_id": 1817,
@@ -21,10 +9,15 @@
     "latitude": "-3.54030000",
     "longitude": "118.97070000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Majene",
+    "timezone": "Asia/Makassar",
+    "population": 73883,
+    "population_year": null
   },
   {
-    "id": 56517,
+    "id": 166747,
     "name": "Mamasa",
     "state_id": 1817,
     "state_code": "SR",
@@ -33,7 +26,12 @@
     "latitude": "-2.94200000",
     "longitude": "119.37760000",
     "county_id": 8809,
-    "wikiDataId": null
+    "wikiDataId": "Q138791042",
+    "type": "town",
+    "native": "Mamasa",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56857,
@@ -45,22 +43,15 @@
     "latitude": "-2.68056000",
     "longitude": "118.88611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1070920",
+    "type": "adm1",
+    "native": "Mamuju",
+    "timezone": "Asia/Makassar",
+    "population": 15000,
+    "population_year": null
   },
   {
-    "id": 56521,
-    "name": "Mamuju Tengah",
-    "state_id": 1817,
-    "state_code": "SR",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-2.82120000",
-    "longitude": "119.26620000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56522,
+    "id": 166751,
     "name": "Pasangkayu",
     "state_id": 1817,
     "state_code": "SR",
@@ -69,7 +60,12 @@
     "latitude": "-1.17460000",
     "longitude": "119.36080000",
     "county_id": 8807,
-    "wikiDataId": null
+    "wikiDataId": "Q138791055",
+    "type": "town",
+    "native": "Pasangkayu",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56935,
@@ -81,18 +77,28 @@
     "latitude": "-3.43240000",
     "longitude": "119.34350000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Polewali",
+    "timezone": "Asia/Makassar",
+    "population": 65800,
+    "population_year": null
   },
   {
-    "id": 56596,
-    "name": "Polewali Mandar",
+    "id": 166750,
+    "name": "Tobadak",
     "state_id": 1817,
     "state_code": "SR",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-3.30000000",
-    "longitude": "119.16667000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "-2.08944000",
+    "longitude": "119.34722000",
+    "county_id": 8812,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Tobadak",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "30.31840000",
     "longitude": "36.17775000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "الجفر",
+    "timezone": "Asia/Amman",
+    "population": 3557,
+    "population_year": null
   },
   {
     "id": 63139,
@@ -21,7 +26,12 @@
     "latitude": "29.80045000",
     "longitude": "35.31160000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "القويرة",
+    "timezone": "Asia/Amman",
+    "population": 7372,
+    "population_year": null
   },
   {
     "id": 63147,
@@ -33,7 +43,12 @@
     "latitude": "30.52134000",
     "longitude": "35.57135000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3299624",
+    "type": "adm2",
+    "native": "أش الشوبك",
+    "timezone": "Asia/Amman",
+    "population": 50,
+    "population_year": null
   },
   {
     "id": 63150,
@@ -45,7 +60,12 @@
     "latitude": "30.25125000",
     "longitude": "35.46570000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Aţ Ţayyibah",
+    "timezone": "Asia/Amman",
+    "population": 4265,
+    "population_year": null
   },
   {
     "id": 63170,
@@ -57,7 +77,12 @@
     "latitude": "30.19624000",
     "longitude": "35.73405000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31616",
+    "type": "adm1",
+    "native": "معان",
+    "timezone": "Asia/Amman",
+    "population": 50350,
+    "population_year": null
   },
   {
     "id": 63174,
@@ -69,6 +94,11 @@
     "latitude": "30.32096000",
     "longitude": "35.47895000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2739446",
+    "type": "city",
+    "native": "البتراء",
+    "timezone": "Asia/Amman",
+    "population": null,
+    "population_year": null
   }
 ]

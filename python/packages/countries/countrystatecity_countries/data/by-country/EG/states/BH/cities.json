@@ -9,7 +9,12 @@
     "latitude": "30.91018000",
     "longitude": "30.17438000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "أبو المطامير",
+    "timezone": "Africa/Cairo",
+    "population": 66946,
+    "population_year": null
   },
   {
     "id": 164645,
@@ -21,7 +26,12 @@
     "latitude": "31.09311000",
     "longitude": "30.31418000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4165804",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "population": 61388,
+    "population_year": null
   },
   {
     "id": 31760,
@@ -33,7 +43,12 @@
     "latitude": "30.82796000",
     "longitude": "30.53552000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23955761",
+    "type": "city",
+    "native": "أد دلنجات",
+    "timezone": "Africa/Cairo",
+    "population": 68901,
+    "population_year": null
   },
   {
     "id": 164659,
@@ -45,7 +60,12 @@
     "latitude": "31.18352000",
     "longitude": "30.52448000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1938572",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "population": 34660,
+    "population_year": null
   },
   {
     "id": 164652,
@@ -57,7 +77,12 @@
     "latitude": "31.10483000",
     "longitude": "30.64135000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7283492",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "population": 44482,
+    "population_year": null
   },
   {
     "id": 31804,
@@ -69,7 +94,12 @@
     "latitude": "31.03408000",
     "longitude": "30.46823000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q328153",
+    "type": "adm1",
+    "native": "دمنهور",
+    "timezone": "Africa/Cairo",
+    "population": 318207,
+    "population_year": null
   },
   {
     "id": 31879,
@@ -81,7 +111,12 @@
     "latitude": "30.91280000",
     "longitude": "30.29019000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23950194",
+    "type": "city",
+    "native": "حووش عيسى",
+    "timezone": "Africa/Cairo",
+    "population": 82999,
+    "population_year": null
   },
   {
     "id": 31820,
@@ -93,7 +128,12 @@
     "latitude": "31.30730000",
     "longitude": "30.29810000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2988951",
+    "type": "adm2",
+    "native": "إيدكو",
+    "timezone": "Africa/Cairo",
+    "population": 177152,
+    "population_year": null
   },
   {
     "id": 31826,
@@ -105,7 +145,12 @@
     "latitude": "31.13379000",
     "longitude": "30.12969000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31915573",
+    "type": "city",
+    "native": "كفر الدوار",
+    "timezone": "Africa/Cairo",
+    "population": 128539,
+    "population_year": null
   },
   {
     "id": 31830,
@@ -117,7 +162,12 @@
     "latitude": "30.76128000",
     "longitude": "30.69972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23949640",
+    "type": "city",
+    "native": "كوم حمادة",
+    "timezone": "Africa/Cairo",
+    "population": 55652,
+    "population_year": null
   },
   {
     "id": 31857,
@@ -129,7 +179,12 @@
     "latitude": "31.39951000",
     "longitude": "30.41718000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q243699",
+    "type": "city",
+    "native": "روزيتا",
+    "timezone": "Africa/Cairo",
+    "population": 301795,
+    "population_year": null
   },
   {
     "id": 164654,
@@ -141,6 +196,11 @@
     "latitude": "31.02795000",
     "longitude": "30.71493000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5600888",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "population": 41233,
+    "population_year": null
   }
 ]

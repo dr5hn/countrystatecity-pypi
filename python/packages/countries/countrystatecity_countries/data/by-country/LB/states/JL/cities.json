@@ -9,7 +9,12 @@
     "latitude": "33.80528000",
     "longitude": "35.60000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q26338",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Beirut",
+    "population": 130000,
+    "population_year": null
   },
   {
     "id": 65932,
@@ -21,7 +26,12 @@
     "latitude": "33.83389000",
     "longitude": "35.54417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q26454",
+    "type": "adm1",
+    "native": "بعبدا",
+    "timezone": "Asia/Beirut",
+    "population": 9000,
+    "population_year": null
   },
   {
     "id": 165170,
@@ -33,7 +43,12 @@
     "latitude": "33.69417000",
     "longitude": "35.58083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q246163",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Beirut",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65937,
@@ -45,7 +60,12 @@
     "latitude": "33.79500000",
     "longitude": "35.65111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "بحمدون",
+    "timezone": "Asia/Beirut",
+    "population": 1500,
+    "population_year": null
   },
   {
     "id": 65938,
@@ -57,7 +77,12 @@
     "latitude": "33.80861000",
     "longitude": "35.65972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2900650",
+    "type": "city",
+    "native": "بحمدون المحطة",
+    "timezone": "Asia/Beirut",
+    "population": 5000,
+    "population_year": null
   },
   {
     "id": 65947,
@@ -69,7 +94,12 @@
     "latitude": "34.12111000",
     "longitude": "35.64806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q173532",
+    "type": "adm2",
+    "native": "جبيل",
+    "timezone": "Asia/Beirut",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65940,
@@ -81,7 +111,12 @@
     "latitude": "33.84592000",
     "longitude": "35.66791000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q211370",
+    "type": "city",
+    "native": "قضاء بعبدا",
+    "timezone": "Asia/Beirut",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65948,
@@ -93,6 +128,11 @@
     "latitude": "33.98083000",
     "longitude": "35.61778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "جونيه",
+    "timezone": "Asia/Beirut",
+    "population": 96315,
+    "population_year": null
   }
 ]

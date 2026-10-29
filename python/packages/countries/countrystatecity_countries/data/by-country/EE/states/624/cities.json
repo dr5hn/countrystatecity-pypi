@@ -9,7 +9,12 @@
     "latitude": "58.40861000",
     "longitude": "24.37389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2989844",
+    "type": "town",
+    "native": "Audru",
+    "timezone": "Europe/Tallinn",
+    "population": 1480,
+    "population_year": null
   },
   {
     "id": 31674,
@@ -21,7 +26,12 @@
     "latitude": "58.37917000",
     "longitude": "24.63444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2028872",
+    "type": "town",
+    "native": "Paikuse",
+    "timezone": "Europe/Tallinn",
+    "population": 1996,
+    "population_year": null
   },
   {
     "id": 31680,
@@ -33,18 +43,11 @@
     "latitude": "58.38588000",
     "longitude": "24.49711000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 31681,
-    "name": "Pärnu linn",
-    "state_id": 5808,
-    "state_code": "624",
-    "country_id": 69,
-    "country_code": "EE",
-    "latitude": "58.37901000",
-    "longitude": "24.52784000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q102365",
+    "type": "city",
+    "native": "Pärnu",
+    "timezone": "Europe/Tallinn",
+    "population": 41520,
+    "population_year": null
   }
 ]

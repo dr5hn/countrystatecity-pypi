@@ -9,19 +9,29 @@
     "latitude": "11.89532000",
     "longitude": "79.80709000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2861453",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 29808,
+    "population_year": null
   },
   {
-    "id": 132715,
+    "id": 167556,
     "name": "Karaikal",
     "state_id": 4011,
     "state_code": "PY",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "10.92209000",
-    "longitude": "79.83353000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "10.93277778",
+    "longitude": "79.83194444",
+    "county_id": 11109,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "कराईकल",
+    "timezone": "Asia/Kolkata",
+    "population": 86838,
+    "population_year": null
   },
   {
     "id": 132830,
@@ -33,7 +43,12 @@
     "latitude": "11.70000000",
     "longitude": "75.53333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q639279",
+    "type": "city",
+    "native": "माहे",
+    "timezone": "Asia/Kolkata",
+    "population": 36828,
+    "population_year": null
   },
   {
     "id": 133490,
@@ -45,7 +60,12 @@
     "latitude": "11.93381000",
     "longitude": "79.82979000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q639421",
+    "type": "adm1",
+    "native": "पुदुचेरी",
+    "timezone": "Asia/Kolkata",
+    "population": 657209,
+    "population_year": null
   },
   {
     "id": 164902,
@@ -56,8 +76,13 @@
     "country_code": "IN",
     "latitude": "11.91393000",
     "longitude": "79.75568000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11110,
+    "wikiDataId": "Q6163058",
+    "type": "locality",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 34383,
+    "population_year": null
   },
   {
     "id": 134425,
@@ -69,6 +94,11 @@
     "latitude": "16.73463000",
     "longitude": "82.21773000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2126598",
+    "type": "city",
+    "native": "यानम",
+    "timezone": "Asia/Kolkata",
+    "population": 55626,
+    "population_year": null
   }
 ]

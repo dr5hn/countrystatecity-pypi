@@ -9,7 +9,12 @@
     "latitude": "42.35734000",
     "longitude": "20.07679000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18705",
+    "type": "adm2",
+    "native": "Bajram Curri",
+    "timezone": "Europe/Tirane",
+    "population": 4113,
+    "population_year": null
   },
   {
     "id": 215,
@@ -21,7 +26,12 @@
     "latitude": "42.19694000",
     "longitude": "20.41333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q958899",
+    "type": "adm2",
+    "native": "Krumë",
+    "timezone": "Europe/Tirane",
+    "population": 6006,
+    "population_year": null
   },
   {
     "id": 217,
@@ -33,7 +43,12 @@
     "latitude": "42.07694000",
     "longitude": "20.42194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q210197",
+    "type": "adm1",
+    "native": "Kukës",
+    "timezone": "Europe/Tirane",
+    "population": 36125,
+    "population_year": null
   },
   {
     "id": 247,
@@ -45,7 +60,12 @@
     "latitude": "42.16667000",
     "longitude": "20.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q207007",
+    "type": "adm3",
+    "native": "Rrethi i Hasit",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 251,
@@ -57,7 +77,12 @@
     "latitude": "42.00000000",
     "longitude": "20.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q123395",
+    "type": "adm3",
+    "native": "Rrethi i Kukësit",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 157056,
@@ -69,6 +94,11 @@
     "latitude": "42.37624000",
     "longitude": "19.74539290",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16350050",
+    "type": "city",
+    "native": "Tropojë",
+    "timezone": "Europe/Tirane",
+    "population": 0,
+    "population_year": null
   }
 ]

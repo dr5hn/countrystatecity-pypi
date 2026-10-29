@@ -9,10 +9,15 @@
     "latitude": "12.81743000",
     "longitude": "99.78738000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476867",
+    "type": "district",
+    "native": "อำเภอท่ายาง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105198,
+    "id": 166930,
     "name": "Ban Laem",
     "state_id": 3532,
     "state_code": "76",
@@ -21,10 +26,15 @@
     "latitude": "13.21676499",
     "longitude": "99.97674563",
     "county_id": 6144,
-    "wikiDataId": null
+    "wikiDataId": "Q15212108",
+    "type": "town",
+    "native": "บ้านแหลม",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 105199,
+    "id": 166931,
     "name": "Ban Lat",
     "state_id": 3532,
     "state_code": "76",
@@ -33,7 +43,12 @@
     "latitude": "13.04960000",
     "longitude": "99.91880000",
     "county_id": 6143,
-    "wikiDataId": null
+    "wikiDataId": "Q13025243",
+    "type": "town",
+    "native": "บ้านลาด",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106459,
@@ -45,7 +60,12 @@
     "latitude": "12.80000000",
     "longitude": "99.96667000",
     "county_id": 6141,
-    "wikiDataId": null
+    "wikiDataId": "Q927810",
+    "type": "city",
+    "native": "ชะอำ",
+    "timezone": "Asia/Bangkok",
+    "population": 49375,
+    "population_year": null
   },
   {
     "id": 105366,
@@ -57,7 +77,12 @@
     "latitude": "12.85919000",
     "longitude": "99.46339000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475574",
+    "type": "district",
+    "native": "อำเภอแก่งกระจาน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106521,
@@ -69,10 +94,15 @@
     "latitude": "13.24025000",
     "longitude": "99.82428000",
     "county_id": 6139,
-    "wikiDataId": null
+    "wikiDataId": "Q13025313",
+    "type": "town",
+    "native": "เขาย้อย",
+    "timezone": "Asia/Bangkok",
+    "population": 18506,
+    "population_year": null
   },
   {
-    "id": 105685,
+    "id": 167124,
     "name": "Nong Ya Plong",
     "state_id": 3532,
     "state_code": "76",
@@ -81,7 +111,12 @@
     "latitude": "13.16288000",
     "longitude": "99.69723000",
     "county_id": 6140,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "หนองหญ้าปล้อง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106632,
@@ -93,7 +128,12 @@
     "latitude": "13.11189000",
     "longitude": "99.94467000",
     "county_id": 6138,
-    "wikiDataId": null
+    "wikiDataId": "Q641383",
+    "type": "city",
+    "native": "เพชรบุรี",
+    "timezone": "Asia/Bangkok",
+    "population": 46601,
+    "population_year": null
   },
   {
     "id": 106725,
@@ -105,6 +145,11 @@
     "latitude": "12.95772000",
     "longitude": "99.90555000",
     "county_id": 6142,
-    "wikiDataId": null
+    "wikiDataId": "Q15212080",
+    "type": "town",
+    "native": "ท่ายาง",
+    "timezone": "Asia/Bangkok",
+    "population": 42602,
+    "population_year": null
   }
 ]

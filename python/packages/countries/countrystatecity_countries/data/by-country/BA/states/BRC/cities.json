@@ -9,7 +9,12 @@
     "latitude": "44.86995000",
     "longitude": "18.81012000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q322828",
+    "type": "adm1",
+    "native": "Brčko",
+    "timezone": "Europe/Sarajevo",
+    "population": 39893,
+    "population_year": null
   },
   {
     "id": 8230,
@@ -21,6 +26,11 @@
     "latitude": "44.82837000",
     "longitude": "18.72420000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Brka",
+    "timezone": "Europe/Sarajevo",
+    "population": 2800,
+    "population_year": null
   }
 ]

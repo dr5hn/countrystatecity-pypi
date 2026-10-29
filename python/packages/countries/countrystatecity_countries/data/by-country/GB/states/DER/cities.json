@@ -9,7 +9,12 @@
     "latitude": "52.92277000",
     "longitude": "-1.47663000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q43475",
+    "type": "city",
+    "native": "Derby",
+    "timezone": "Europe/London",
+    "population": 255394,
+    "population_year": null
   },
   {
     "id": 51313,
@@ -21,7 +26,12 @@
     "latitude": "52.88157000",
     "longitude": "-1.48681000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Sinfin",
+    "timezone": "Europe/London",
+    "population": 15128,
+    "population_year": null
   },
   {
     "id": 51740,
@@ -33,6 +43,11 @@
     "latitude": "53.22284000",
     "longitude": "-1.46084000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Walton",
+    "timezone": "Europe/London",
+    "population": 2500,
+    "population_year": null
   }
 ]

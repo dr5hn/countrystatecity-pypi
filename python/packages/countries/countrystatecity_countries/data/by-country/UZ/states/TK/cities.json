@@ -9,7 +9,12 @@
     "latitude": "41.20972000",
     "longitude": "69.33417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Bektemir",
+    "timezone": "Asia/Tashkent",
+    "population": 27500,
+    "population_year": null
   },
   {
     "id": 130005,
@@ -21,6 +26,11 @@
     "latitude": "41.26465000",
     "longitude": "69.21627000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q269",
+    "type": "capital",
+    "native": "Toshkent",
+    "timezone": "Asia/Tashkent",
+    "population": 1978028,
+    "population_year": null
   }
 ]

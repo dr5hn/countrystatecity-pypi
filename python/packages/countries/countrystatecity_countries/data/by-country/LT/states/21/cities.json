@@ -9,7 +9,12 @@
     "latitude": "55.70951000",
     "longitude": "21.39441000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Gargždai",
+    "timezone": "Europe/Vilnius",
+    "population": 16433,
+    "population_year": null
   },
   {
     "id": 66644,
@@ -21,7 +26,12 @@
     "latitude": "55.36667000",
     "longitude": "21.06667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q9305847",
+    "type": "locality",
+    "native": "Neringa",
+    "timezone": "Europe/Vilnius",
+    "population": 4022,
+    "population_year": null
   },
   {
     "id": 66645,
@@ -33,7 +43,12 @@
     "latitude": "55.30860000",
     "longitude": "20.99651000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1004306",
+    "type": "adm2",
+    "native": "Nida",
+    "timezone": "Europe/Vilnius",
+    "population": 3530,
+    "population_year": null
   },
   {
     "id": 66660,
@@ -45,7 +60,12 @@
     "latitude": "55.55427000",
     "longitude": "21.31903000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q768416",
+    "type": "city",
+    "native": "Priekulė",
+    "timezone": "Europe/Vilnius",
+    "population": 1710,
+    "population_year": null
   },
   {
     "id": 66670,
@@ -57,7 +77,12 @@
     "latitude": "55.29820000",
     "longitude": "21.37120000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Rusnė",
+    "timezone": "Europe/Vilnius",
+    "population": 2484,
+    "population_year": null
   },
   {
     "id": 66681,
@@ -69,7 +94,12 @@
     "latitude": "56.26667000",
     "longitude": "21.53333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Skuodas",
+    "timezone": "Europe/Vilnius",
+    "population": 5346,
+    "population_year": null
   },
   {
     "id": 66718,
@@ -81,7 +111,12 @@
     "latitude": "56.02610000",
     "longitude": "21.08411000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Šventoji",
+    "timezone": "Europe/Vilnius",
+    "population": 2000,
+    "population_year": null
   },
   {
     "id": 66722,
@@ -93,6 +128,11 @@
     "latitude": "55.35941000",
     "longitude": "21.70364000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q393828",
+    "type": "city",
+    "native": "Žemaičių Naumiestis",
+    "timezone": "Europe/Vilnius",
+    "population": 1373,
+    "population_year": null
   }
 ]

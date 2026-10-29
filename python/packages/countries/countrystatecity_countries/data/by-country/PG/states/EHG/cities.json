@@ -9,7 +9,12 @@
     "latitude": "-5.98333000",
     "longitude": "145.23333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1776162",
+    "type": "area",
+    "native": "Daulo",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 30960,
+    "population_year": null
   },
   {
     "id": 81042,
@@ -21,7 +26,12 @@
     "latitude": "-6.05000000",
     "longitude": "145.38333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3710938",
+    "type": "adm1",
+    "native": "Goroka",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 21507,
+    "population_year": null
   },
   {
     "id": 81045,
@@ -33,7 +43,12 @@
     "latitude": "-6.21667000",
     "longitude": "145.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3710965",
+    "type": "area",
+    "native": "Henganofi",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 55678,
+    "population_year": null
   },
   {
     "id": 81054,
@@ -45,7 +60,12 @@
     "latitude": "-6.41667000",
     "longitude": "145.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711023",
+    "type": "city",
+    "native": "Kainantu",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 8509,
+    "population_year": null
   },
   {
     "id": 81077,
@@ -57,7 +77,12 @@
     "latitude": "-6.45000000",
     "longitude": "145.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q845604",
+    "type": "area",
+    "native": "Lufa",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 45868,
+    "population_year": null
   },
   {
     "id": 81095,
@@ -69,7 +94,12 @@
     "latitude": "-6.55434000",
     "longitude": "145.97328000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Obura Wonenara",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81096,
@@ -81,7 +111,12 @@
     "latitude": "-6.63333000",
     "longitude": "145.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711283",
+    "type": "area",
+    "native": "Okapa",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 62041,
+    "population_year": null
   },
   {
     "id": 81118,
@@ -93,6 +128,11 @@
     "latitude": "-6.11667000",
     "longitude": "145.51667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Unggai Bena",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   }
 ]

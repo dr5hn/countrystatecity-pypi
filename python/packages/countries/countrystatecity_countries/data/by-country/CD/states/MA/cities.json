@@ -9,7 +9,12 @@
     "latitude": "-3.59678000",
     "longitude": "26.66715000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kampene",
+    "timezone": "Africa/Lubumbashi",
+    "population": 37034,
+    "population_year": null
   },
   {
     "id": 17259,
@@ -21,7 +26,12 @@
     "latitude": "-4.42741000",
     "longitude": "26.66656000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q587152",
+    "type": "city",
+    "native": "Kasongo",
+    "timezone": "Africa/Lubumbashi",
+    "population": 81629,
+    "population_year": null
   },
   {
     "id": 17262,
@@ -33,6 +43,11 @@
     "latitude": "-2.94373000",
     "longitude": "25.92237000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q270225",
+    "type": "adm1",
+    "native": "Kindu",
+    "timezone": "Africa/Lubumbashi",
+    "population": 234651,
+    "population_year": null
   }
 ]

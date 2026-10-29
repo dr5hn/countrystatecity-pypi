@@ -23,9 +23,28 @@ from typing import Dict, List, Any
 # Windows reserves these device names as file/directory names; pip fails on Windows
 # when a package ships a directory with one of these names.
 WINDOWS_RESERVED = {
-    "CON", "PRN", "AUX", "NUL",
-    "COM1", "COM2", "COM3", "COM4", "COM5", "COM6", "COM7", "COM8", "COM9",
-    "LPT1", "LPT2", "LPT3", "LPT4", "LPT5", "LPT6", "LPT7", "LPT8", "LPT9",
+    "CON",
+    "PRN",
+    "AUX",
+    "NUL",
+    "COM1",
+    "COM2",
+    "COM3",
+    "COM4",
+    "COM5",
+    "COM6",
+    "COM7",
+    "COM8",
+    "COM9",
+    "LPT1",
+    "LPT2",
+    "LPT3",
+    "LPT4",
+    "LPT5",
+    "LPT6",
+    "LPT7",
+    "LPT8",
+    "LPT9",
 }
 
 
@@ -80,7 +99,7 @@ def create_countries_list(data: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
             "latitude": country.get("latitude"),
             "longitude": country.get("longitude"),
             "emoji": country.get("emoji"),
-            "emojiU": country.get("emojiU")
+            "emojiU": country.get("emojiU"),
         }
         countries.append(country_data)
     return countries
@@ -109,8 +128,10 @@ def save_states_and_cities(data: List[Dict[str, Any]], output_dir: Path) -> None
             raise ValueError(f"Invalid country code: {code!r}")
         for state in country.get("states", []):
             code = state["iso2"]
-            if not isinstance(code, str) or not code or not all(
-                char.isalnum() or char in "-_" for char in code
+            if (
+                not isinstance(code, str)
+                or not code
+                or not all(char.isalnum() or char in "-_" for char in code)
             ):
                 raise ValueError(f"Invalid state code: {code!r}")
 
@@ -125,12 +146,30 @@ def save_states_and_cities(data: List[Dict[str, Any]], output_dir: Path) -> None
             continue
 
         states = country.get("states", [])
-        if not states:
+        country_cities = country.get("cities", [])
+        if not states and not country_cities:
             continue
 
         # Create country directory
         country_dir = output_dir / "by-country" / country_iso2
         country_dir.mkdir(parents=True, exist_ok=True)
+
+        if country_cities:
+            cities_file = country_dir / "cities.json"
+            for city in country_cities:
+                if (
+                    city.get("state_id") is not None
+                    or city.get("state_code") is not None
+                ):
+                    raise ValueError("Country-level cities must have a null state pair")
+            cities_list = [
+                transform_city(city, country_id, country_iso2, None, None)
+                for city in country_cities
+            ]
+            with open(cities_file, "w", encoding="utf-8") as handle:
+                json.dump(cities_list, handle, ensure_ascii=False, indent=2)
+            generated_files.add(cities_file)
+            total_cities += len(cities_list)
 
         # Create states list (without cities) and transform field names
         states_list = []
@@ -147,7 +186,7 @@ def save_states_and_cities(data: List[Dict[str, Any]], output_dir: Path) -> None
                 "longitude": state.get("longitude"),
                 "iso3166_2": state.get("iso3166_2"),
                 "native": state.get("native"),
-                "timezone": state.get("timezone")
+                "timezone": state.get("timezone"),
             }
             states_list.append(state_data)
 
@@ -178,18 +217,9 @@ def save_states_and_cities(data: List[Dict[str, Any]], output_dir: Path) -> None
             # Transform city data to match our model
             cities_list = []
             for city in cities:
-                city_data = {
-                    "id": city.get("id"),
-                    "name": city.get("name"),
-                    "state_id": state_id,
-                    "state_code": state_code,
-                    "country_id": country_id,
-                    "country_code": country_iso2,
-                    "latitude": city.get("latitude", ""),
-                    "longitude": city.get("longitude", ""),
-                    "county_id": city.get("county_id"),
-                    "wikiDataId": None  # Not available in new format
-                }
+                city_data = transform_city(
+                    city, country_id, country_iso2, state_id, state_code
+                )
                 cities_list.append(city_data)
 
             # Save cities.json
@@ -201,13 +231,38 @@ def save_states_and_cities(data: List[Dict[str, Any]], output_dir: Path) -> None
             total_cities += len(cities_list)
 
     # Only remove obsolete generated files after the new snapshot was written.
-    for pattern in ("by-country/*/states.json", "by-country/*/states/*/cities.json"):
+    for pattern in (
+        "by-country/*/states.json",
+        "by-country/*/states/*/cities.json",
+        "by-country/*/cities.json",
+    ):
         for old_file in output_dir.glob(pattern):
             if old_file not in generated_files:
                 old_file.unlink()
 
     print(f"✓ Saved {total_states} states across {len(data)} countries")
     print(f"✓ Saved {total_cities} cities")
+
+
+def transform_city(city, country_id, country_code, state_id, state_code):
+    """Project release city fields without inventing a state or dropping provenance."""
+    return {
+        "id": city["id"],
+        "name": city["name"],
+        "state_id": state_id,
+        "state_code": state_code,
+        "country_id": country_id,
+        "country_code": country_code,
+        "latitude": city.get("latitude", ""),
+        "longitude": city.get("longitude", ""),
+        "county_id": city.get("county_id"),
+        "wikiDataId": city.get("wikiDataId"),
+        "type": city.get("type"),
+        "native": city.get("native"),
+        "timezone": city.get("timezone"),
+        "population": city.get("population"),
+        "population_year": city.get("population_year"),
+    }
 
 
 def main():

@@ -9,7 +9,12 @@
     "latitude": "34.82156000",
     "longitude": "67.82734000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q214495",
+    "type": "adm1",
+    "native": "بامیان",
+    "timezone": "Asia/Kabul",
+    "population": 61863,
+    "population_year": null
   },
   {
     "id": 164344,
@@ -21,7 +26,12 @@
     "latitude": "34.87706000",
     "longitude": "68.08790000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15202865",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104,
@@ -33,6 +43,11 @@
     "latitude": "34.38795000",
     "longitude": "67.02327000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7131225",
+    "type": "adm2",
+    "native": "پنجاب",
+    "timezone": "Asia/Kabul",
+    "population": 13471,
+    "population_year": null
   }
 ]

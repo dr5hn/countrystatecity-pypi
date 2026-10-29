@@ -8,8 +8,13 @@
     "country_code": "IN",
     "latitude": "23.71177000",
     "longitude": "76.01571000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11164,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "अगर",
+    "timezone": "Asia/Kolkata",
+    "population": 37917,
+    "population_year": null
   },
   {
     "id": 57611,
@@ -21,7 +26,12 @@
     "latitude": "24.89879000",
     "longitude": "80.25921000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q583090",
+    "type": "city",
+    "native": "अजयगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 16656,
+    "population_year": null
   },
   {
     "id": 57626,
@@ -33,7 +43,12 @@
     "latitude": "23.38027000",
     "longitude": "76.59875000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q582235",
+    "type": "city",
+    "native": "अकोदिया",
+    "timezone": "Asia/Kolkata",
+    "population": 11652,
+    "population_year": null
   },
   {
     "id": 57631,
@@ -45,19 +60,12 @@
     "latitude": "26.02514000",
     "longitude": "78.79697000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 57639,
-    "name": "Alirajpur",
-    "state_id": 4039,
-    "state_code": "MP",
-    "country_id": 101,
-    "country_code": "IN",
-    "latitude": "22.31384000",
-    "longitude": "74.36452000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14201843",
+    "type": "city",
+    "native": "आलमपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 10686,
+    "population_year": null
   },
   {
     "id": 133595,
@@ -69,7 +77,12 @@
     "latitude": "22.30393000",
     "longitude": "74.35568000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q582800",
+    "type": "city",
+    "native": "आलीराजपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 28498,
+    "population_year": null
   },
   {
     "id": 57646,
@@ -81,7 +94,12 @@
     "latitude": "23.76336000",
     "longitude": "75.55662000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q583826",
+    "type": "city",
+    "native": "आलोट",
+    "timezone": "Asia/Kolkata",
+    "population": 24115,
+    "population_year": null
   },
   {
     "id": 57691,
@@ -93,7 +111,12 @@
     "latitude": "24.42664000",
     "longitude": "80.03579000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q583720",
+    "type": "city",
+    "native": "अमानगंज",
+    "timezone": "Asia/Kolkata",
+    "population": 13886,
+    "population_year": null
   },
   {
     "id": 57659,
@@ -105,7 +128,12 @@
     "latitude": "22.67486000",
     "longitude": "81.75908000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q588826",
+    "type": "city",
+    "native": "अमरकंटक",
+    "timezone": "Asia/Kolkata",
+    "population": 7074,
+    "population_year": null
   },
   {
     "id": 57663,
@@ -117,7 +145,12 @@
     "latitude": "24.31371000",
     "longitude": "80.97703000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q589830",
+    "type": "city",
+    "native": "अमरपाटन",
+    "timezone": "Asia/Kolkata",
+    "population": 19409,
+    "population_year": null
   },
   {
     "id": 57664,
@@ -129,7 +162,12 @@
     "latitude": "22.29780000",
     "longitude": "79.16943000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q585696",
+    "type": "city",
+    "native": "अमरवाड़ा",
+    "timezone": "Asia/Kolkata",
+    "population": 14141,
+    "population_year": null
   },
   {
     "id": 57673,
@@ -141,7 +179,12 @@
     "latitude": "26.70423000",
     "longitude": "78.22678000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q583837",
+    "type": "city",
+    "native": "अंबाह",
+    "timezone": "Asia/Kolkata",
+    "population": 47177,
+    "population_year": null
   },
   {
     "id": 57680,
@@ -153,7 +196,12 @@
     "latitude": "21.92485000",
     "longitude": "78.12786000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q583603",
+    "type": "city",
+    "native": "अमला",
+    "timezone": "Asia/Kolkata",
+    "population": 30215,
+    "population_year": null
   },
   {
     "id": 57706,
@@ -165,7 +213,12 @@
     "latitude": "22.04171000",
     "longitude": "75.05519000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q585729",
+    "type": "city",
+    "native": "अंजाद",
+    "timezone": "Asia/Kolkata",
+    "population": 26289,
+    "population_year": null
   },
   {
     "id": 57719,
@@ -177,19 +230,29 @@
     "latitude": "26.05804000",
     "longitude": "78.21027000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "अंतरी",
+    "timezone": "Asia/Kolkata",
+    "population": 9949,
+    "population_year": null
   },
   {
-    "id": 57721,
+    "id": 167871,
     "name": "Anuppur",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "23.05674000",
-    "longitude": "81.68399000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "23.10000000",
+    "longitude": "81.68000000",
+    "county_id": 10955,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "अनूपपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 19899,
+    "population_year": null
   },
   {
     "id": 134462,
@@ -201,19 +264,29 @@
     "latitude": "24.38109000",
     "longitude": "77.41739000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q581765",
+    "type": "city",
+    "native": "एरन",
+    "timezone": "Asia/Kolkata",
+    "population": 28010,
+    "population_year": null
   },
   {
-    "id": 57750,
+    "id": 166855,
     "name": "Ashoknagar",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "24.58000000",
-    "longitude": "77.73000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "24.57578000",
+    "longitude": "77.73123000",
+    "county_id": 10956,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "अशोकनगर",
+    "timezone": "Asia/Kolkata",
+    "population": 81828,
+    "population_year": null
   },
   {
     "id": 57752,
@@ -225,7 +298,12 @@
     "latitude": "23.01754000",
     "longitude": "76.72208000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q582291",
+    "type": "city",
+    "native": "अष्ट",
+    "timezone": "Asia/Kolkata",
+    "population": 53184,
+    "population_year": null
   },
   {
     "id": 165029,
@@ -237,7 +315,12 @@
     "latitude": "24.56412000",
     "longitude": "79.30712000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q583807",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 57788,
@@ -249,7 +332,12 @@
     "latitude": "24.97516000",
     "longitude": "77.56490000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q583295",
+    "type": "city",
+    "native": "बदरवास",
+    "timezone": "Asia/Kolkata",
+    "population": 13571,
+    "population_year": null
   },
   {
     "id": 165008,
@@ -261,7 +349,12 @@
     "latitude": "23.03667000",
     "longitude": "78.08417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1321053",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 19603,
+    "population_year": null
   },
   {
     "id": 57793,
@@ -273,7 +366,12 @@
     "latitude": "23.02181000",
     "longitude": "75.23268000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q584989",
+    "type": "city",
+    "native": "बदनावर",
+    "timezone": "Asia/Kolkata",
+    "population": 20917,
+    "population_year": null
   },
   {
     "id": 58106,
@@ -284,8 +382,13 @@
     "country_code": "IN",
     "latitude": "22.35905000",
     "longitude": "74.79052000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10962,
+    "wikiDataId": "Q1924964",
+    "type": "locality",
+    "native": "बाग",
+    "timezone": "Asia/Kolkata",
+    "population": 9274,
+    "population_year": null
   },
   {
     "id": 58111,
@@ -297,7 +400,12 @@
     "latitude": "22.64124000",
     "longitude": "76.34877000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2719910",
+    "type": "city",
+    "native": "बागली",
+    "timezone": "Asia/Kolkata",
+    "population": 10764,
+    "population_year": null
   },
   {
     "id": 57811,
@@ -309,7 +417,12 @@
     "latitude": "22.10133000",
     "longitude": "80.54967000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q625392",
+    "type": "city",
+    "native": "बैहर",
+    "timezone": "Asia/Kolkata",
+    "population": 16650,
+    "population_year": null
   },
   {
     "id": 57813,
@@ -320,8 +433,13 @@
     "country_code": "IN",
     "latitude": "24.72768000",
     "longitude": "81.40975000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10977,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "बैकुंठपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 10282,
+    "population_year": null
   },
   {
     "id": 57821,
@@ -333,7 +451,12 @@
     "latitude": "24.25106000",
     "longitude": "79.28618000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "बख्शवाहा",
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 58119,
@@ -345,7 +468,12 @@
     "latitude": "21.96667000",
     "longitude": "80.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q641904",
+    "type": "city",
+    "native": "बालाघाट",
+    "timezone": "Asia/Kolkata",
+    "population": 84261,
+    "population_year": null
   },
   {
     "id": 57824,
@@ -357,7 +485,12 @@
     "latitude": "24.75619000",
     "longitude": "79.06715000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q637094",
+    "type": "city",
+    "native": "बल्देवगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 9079,
+    "population_year": null
   },
   {
     "id": 57838,
@@ -369,7 +502,12 @@
     "latitude": "23.09454000",
     "longitude": "74.76164000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "बामना",
+    "timezone": "Asia/Kolkata",
+    "population": 9034,
+    "population_year": null
   },
   {
     "id": 58122,
@@ -381,7 +519,12 @@
     "latitude": "24.89298000",
     "longitude": "78.15105000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q622611",
+    "type": "city",
+    "native": "बमोर कलां",
+    "timezone": "Asia/Kolkata",
+    "population": 27860,
+    "population_year": null
   },
   {
     "id": 57839,
@@ -392,8 +535,13 @@
     "country_code": "IN",
     "latitude": "24.05539000",
     "longitude": "78.08925000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10978,
+    "wikiDataId": "Q636529",
+    "type": "locality",
+    "native": "बामोरा",
+    "timezone": "Asia/Kolkata",
+    "population": 8493,
+    "population_year": null
   },
   {
     "id": 57842,
@@ -404,8 +552,13 @@
     "country_code": "IN",
     "latitude": "24.04488000",
     "longitude": "78.96094000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10978,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "बाँदा",
+    "timezone": "Asia/Kolkata",
+    "population": 30923,
+    "population_year": null
   },
   {
     "id": 57868,
@@ -417,7 +570,12 @@
     "latitude": "23.09678000",
     "longitude": "80.05084000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q637110",
+    "type": "city",
+    "native": "बरेला",
+    "timezone": "Asia/Kolkata",
+    "population": 12620,
+    "population_year": null
   },
   {
     "id": 57870,
@@ -429,7 +587,12 @@
     "latitude": "22.03065000",
     "longitude": "79.73280000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q613463",
+    "type": "city",
+    "native": "बरघाट",
+    "timezone": "Asia/Kolkata",
+    "population": 12100,
+    "population_year": null
   },
   {
     "id": 57871,
@@ -440,8 +603,13 @@
     "country_code": "IN",
     "latitude": "22.99138000",
     "longitude": "79.87550000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11836,
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "बरगी",
+    "timezone": "Asia/Kolkata",
+    "population": 17588,
+    "population_year": null
   },
   {
     "id": 57872,
@@ -453,7 +621,12 @@
     "latitude": "23.90326000",
     "longitude": "80.81516000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q709090",
+    "type": "city",
+    "native": "बरही",
+    "timezone": "Asia/Kolkata",
+    "population": 13946,
+    "population_year": null
   },
   {
     "id": 164895,
@@ -465,7 +638,12 @@
     "latitude": "23.04890000",
     "longitude": "75.37804000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q590758",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 36438,
+    "population_year": null
   },
   {
     "id": 164938,
@@ -477,7 +655,12 @@
     "latitude": "22.25394000",
     "longitude": "76.03853000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q708880",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 26459,
+    "population_year": null
   },
   {
     "id": 57888,
@@ -489,7 +672,12 @@
     "latitude": "22.02485000",
     "longitude": "74.91805000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2126754",
+    "type": "city",
+    "native": "बड़वानी",
+    "timezone": "Asia/Kolkata",
+    "population": 55504,
+    "population_year": null
   },
   {
     "id": 58148,
@@ -501,7 +689,12 @@
     "latitude": "23.85153000",
     "longitude": "77.93652000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q714617",
+    "type": "city",
+    "native": "बासौदा",
+    "timezone": "Asia/Kolkata",
+    "population": 78289,
+    "population_year": null
   },
   {
     "id": 57913,
@@ -513,7 +706,12 @@
     "latitude": "23.59917000",
     "longitude": "78.34064000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q760167",
+    "type": "city",
+    "native": "बेगमगंज",
+    "timezone": "Asia/Kolkata",
+    "population": 34031,
+    "population_year": null
   },
   {
     "id": 57935,
@@ -525,7 +723,12 @@
     "latitude": "24.02423000",
     "longitude": "81.37831000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2314377",
+    "type": "city",
+    "native": "बेओहारी",
+    "timezone": "Asia/Kolkata",
+    "population": 24545,
+    "population_year": null
   },
   {
     "id": 57936,
@@ -537,7 +740,12 @@
     "latitude": "23.63134000",
     "longitude": "77.43351000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2281620",
+    "type": "city",
+    "native": "बैरसिया",
+    "timezone": "Asia/Kolkata",
+    "population": 30951,
+    "population_year": null
   },
   {
     "id": 57940,
@@ -549,7 +757,12 @@
     "latitude": "22.68653000",
     "longitude": "75.61456000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q757845",
+    "type": "city",
+    "native": "बेटमा",
+    "timezone": "Asia/Kolkata",
+    "population": 15999,
+    "population_year": null
   },
   {
     "id": 57942,
@@ -561,7 +774,12 @@
     "latitude": "21.83333000",
     "longitude": "77.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1815279",
+    "type": "area",
+    "native": "बेतुल",
+    "timezone": "Asia/Kolkata",
+    "population": 1575362,
+    "population_year": null
   },
   {
     "id": 57943,
@@ -573,7 +791,12 @@
     "latitude": "21.85572000",
     "longitude": "77.92913000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2314399",
+    "type": "city",
+    "native": "बैतूल बाजार",
+    "timezone": "Asia/Kolkata",
+    "population": 10630,
+    "population_year": null
   },
   {
     "id": 58006,
@@ -584,8 +807,13 @@
     "country_code": "IN",
     "latitude": "22.53048000",
     "longitude": "74.32846000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11138,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "भाभरा",
+    "timezone": "Asia/Kolkata",
+    "population": 10968,
+    "population_year": null
   },
   {
     "id": 57959,
@@ -597,7 +825,12 @@
     "latitude": "21.64491000",
     "longitude": "77.63023000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q759139",
+    "type": "city",
+    "native": "भैंसदेही",
+    "timezone": "Asia/Kolkata",
+    "population": 16400,
+    "population_year": null
   },
   {
     "id": 58011,
@@ -609,7 +842,12 @@
     "latitude": "25.73581000",
     "longitude": "78.74555000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q759166",
+    "type": "city",
+    "native": "भांडेर",
+    "timezone": "Asia/Kolkata",
+    "population": 25204,
+    "population_year": null
   },
   {
     "id": 58012,
@@ -621,7 +859,12 @@
     "latitude": "24.51300000",
     "longitude": "75.74690000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q674268",
+    "type": "city",
+    "native": "भानपुरा",
+    "timezone": "Asia/Kolkata",
+    "population": 21013,
+    "population_year": null
   },
   {
     "id": 57980,
@@ -633,7 +876,12 @@
     "latitude": "21.86764000",
     "longitude": "75.96391000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2314441",
+    "type": "city",
+    "native": "भीकनगांव",
+    "timezone": "Asia/Kolkata",
+    "population": 16217,
+    "population_year": null
   },
   {
     "id": 57982,
@@ -645,7 +893,12 @@
     "latitude": "26.50000000",
     "longitude": "78.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2341700",
+    "type": "city",
+    "native": "भिंड",
+    "timezone": "Asia/Kolkata",
+    "population": 197585,
+    "population_year": null
   },
   {
     "id": 57985,
@@ -657,7 +910,12 @@
     "latitude": "25.79216000",
     "longitude": "78.11085000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q796805",
+    "type": "city",
+    "native": "भितरवार",
+    "timezone": "Asia/Kolkata",
+    "population": 19096,
+    "population_year": null
   },
   {
     "id": 57995,
@@ -669,7 +927,12 @@
     "latitude": "23.25469000",
     "longitude": "77.40289000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q80989",
+    "type": "adm1",
+    "native": "भोपाल",
+    "timezone": "Asia/Kolkata",
+    "population": 1883381,
+    "population_year": null
   },
   {
     "id": 58025,
@@ -681,7 +944,12 @@
     "latitude": "23.92050000",
     "longitude": "76.91074000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q796769",
+    "type": "city",
+    "native": "ब्यावरा",
+    "timezone": "Asia/Kolkata",
+    "population": 49093,
+    "population_year": null
   },
   {
     "id": 58038,
@@ -693,7 +961,12 @@
     "latitude": "24.62351000",
     "longitude": "79.48994000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q797222",
+    "type": "city",
+    "native": "बिजावर",
+    "timezone": "Asia/Kolkata",
+    "population": 20513,
+    "population_year": null
   },
   {
     "id": 58036,
@@ -705,7 +978,12 @@
     "latitude": "24.93296000",
     "longitude": "77.64352000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1937865",
+    "type": "city",
+    "native": "बिजरौनी",
+    "timezone": "Asia/Kolkata",
+    "population": 5743,
+    "population_year": null
   },
   {
     "id": 58073,
@@ -716,8 +994,13 @@
     "country_code": "IN",
     "latitude": "23.16524000",
     "longitude": "81.43262000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10982,
+    "wikiDataId": "Q858405",
+    "type": "locality",
+    "native": "बोदरी",
+    "timezone": "Asia/Kolkata",
+    "population": 14491,
+    "population_year": null
   },
   {
     "id": 165048,
@@ -729,19 +1012,29 @@
     "latitude": "22.78659000",
     "longitude": "77.68109000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q858521",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 58096,
+    "id": 166859,
     "name": "Burhanpur",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "21.31000000",
-    "longitude": "76.23000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "21.30000000",
+    "longitude": "76.22666700",
+    "county_id": 10958,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "बुरहानपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 210886,
+    "population_year": null
   },
   {
     "id": 58097,
@@ -753,7 +1046,12 @@
     "latitude": "23.21494000",
     "longitude": "81.53204000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q861346",
+    "type": "city",
+    "native": "बुरहार",
+    "timezone": "Asia/Kolkata",
+    "population": 19289,
+    "population_year": null
   },
   {
     "id": 58188,
@@ -765,7 +1063,12 @@
     "latitude": "24.71312000",
     "longitude": "78.13809000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q860192",
+    "type": "city",
+    "native": "चंदेरी",
+    "timezone": "Asia/Kolkata",
+    "population": 33081,
+    "population_year": null
   },
   {
     "id": 58189,
@@ -777,7 +1080,12 @@
     "latitude": "23.65647000",
     "longitude": "80.70911000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2446932",
+    "type": "city",
+    "native": "चंदिया",
+    "timezone": "Asia/Kolkata",
+    "population": 15891,
+    "population_year": null
   },
   {
     "id": 58191,
@@ -789,19 +1097,29 @@
     "latitude": "25.07148000",
     "longitude": "80.19294000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q858413",
+    "type": "city",
+    "native": "चंदला",
+    "timezone": "Asia/Kolkata",
+    "population": 12838,
+    "population_year": null
   },
   {
-    "id": 131532,
+    "id": 167522,
     "name": "Chhatarpur",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "24.75000000",
-    "longitude": "79.75000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "24.91770000",
+    "longitude": "79.58871000",
+    "county_id": 10959,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "छतरपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 142128,
+    "population_year": null
   },
   {
     "id": 131534,
@@ -813,7 +1131,12 @@
     "latitude": "22.05697000",
     "longitude": "78.93958000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q986135",
+    "type": "city",
+    "native": "छिंदवाड़ा",
+    "timezone": "Asia/Kolkata",
+    "population": 190008,
+    "population_year": null
   },
   {
     "id": 131543,
@@ -825,7 +1148,12 @@
     "latitude": "22.83363000",
     "longitude": "78.82611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1104216",
+    "type": "city",
+    "native": "चिचली",
+    "timezone": "Asia/Kolkata",
+    "population": 10225,
+    "population_year": null
   },
   {
     "id": 131581,
@@ -837,7 +1165,12 @@
     "latitude": "24.42743000",
     "longitude": "81.66948000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1191532",
+    "type": "city",
+    "native": "चुरहट",
+    "timezone": "Asia/Kolkata",
+    "population": 14962,
+    "population_year": null
   },
   {
     "id": 131636,
@@ -849,7 +1182,12 @@
     "latitude": "26.00239000",
     "longitude": "78.87658000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q385237",
+    "type": "city",
+    "native": "दाबोह",
+    "timezone": "Asia/Kolkata",
+    "population": 18298,
+    "population_year": null
   },
   {
     "id": 131637,
@@ -861,7 +1199,12 @@
     "latitude": "25.88572000",
     "longitude": "78.33221000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1190879",
+    "type": "city",
+    "native": "डबरा",
+    "timezone": "Asia/Kolkata",
+    "population": 61277,
+    "population_year": null
   },
   {
     "id": 131651,
@@ -873,7 +1216,12 @@
     "latitude": "23.75000000",
     "longitude": "79.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2479331",
+    "type": "city",
+    "native": "दमोह",
+    "timezone": "Asia/Kolkata",
+    "population": 139561,
+    "population_year": null
   },
   {
     "id": 164956,
@@ -885,7 +1233,12 @@
     "latitude": "22.19291000",
     "longitude": "78.46703000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1190652",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 24663,
+    "population_year": null
   },
   {
     "id": 131662,
@@ -897,7 +1250,12 @@
     "latitude": "25.75000000",
     "longitude": "78.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2206266",
+    "type": "area",
+    "native": "दतिया",
+    "timezone": "Asia/Kolkata",
+    "population": 786754,
+    "population_year": null
   },
   {
     "id": 131691,
@@ -909,7 +1267,12 @@
     "latitude": "23.39017000",
     "longitude": "79.01630000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1649811",
+    "type": "city",
+    "native": "देवरी खास",
+    "timezone": "Asia/Kolkata",
+    "population": 25632,
+    "population_year": null
   },
   {
     "id": 131693,
@@ -921,7 +1284,12 @@
     "latitude": "22.85095000",
     "longitude": "75.54224000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2446961",
+    "type": "city",
+    "native": "देपालपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 17474,
+    "population_year": null
   },
   {
     "id": 131707,
@@ -930,10 +1298,15 @@
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "22.96585000",
-    "longitude": "76.05526000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "22.96666667",
+    "longitude": "76.06666667",
+    "county_id": 10961,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "देवास",
+    "timezone": "Asia/Kolkata",
+    "population": 289550,
+    "population_year": null
   },
   {
     "id": 131749,
@@ -945,7 +1318,12 @@
     "latitude": "22.20928000",
     "longitude": "75.47057000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1259705",
+    "type": "city",
+    "native": "धामनोद",
+    "timezone": "Asia/Kolkata",
+    "population": 32093,
+    "population_year": null
   },
   {
     "id": 131751,
@@ -956,8 +1334,13 @@
     "country_code": "IN",
     "latitude": "23.74697000",
     "longitude": "78.86234000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10978,
+    "wikiDataId": "Q1259557",
+    "type": "locality",
+    "native": "धना",
+    "timezone": "Asia/Kolkata",
+    "population": 10641,
+    "population_year": null
   },
   {
     "id": 131753,
@@ -969,7 +1352,12 @@
     "latitude": "22.59373000",
     "longitude": "75.29774000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q617987",
+    "type": "city",
+    "native": "धार",
+    "timezone": "Asia/Kolkata",
+    "population": 93917,
+    "population_year": null
   },
   {
     "id": 131720,
@@ -981,19 +1369,29 @@
     "latitude": "22.14951000",
     "longitude": "75.34439000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1266025",
+    "type": "city",
+    "native": "धरमपुरी",
+    "timezone": "Asia/Kolkata",
+    "population": 16363,
+    "population_year": null
   },
   {
-    "id": 131775,
+    "id": 167529,
     "name": "Dindori",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "22.80000000",
-    "longitude": "81.10000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "22.94141500",
+    "longitude": "81.07974900",
+    "county_id": 10963,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "डिंडोरी",
+    "timezone": "Asia/Kolkata",
+    "population": 21323,
+    "population_year": null
   },
   {
     "id": 131848,
@@ -1005,7 +1403,12 @@
     "latitude": "24.18351000",
     "longitude": "78.20289000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q858501",
+    "type": "city",
+    "native": "इटावा",
+    "timezone": "Asia/Kolkata",
+    "population": 55185,
+    "population_year": null
   },
   {
     "id": 132043,
@@ -1017,7 +1420,12 @@
     "latitude": "22.92350000",
     "longitude": "78.78490000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1525301",
+    "type": "city",
+    "native": "गाडरवारा",
+    "timezone": "Asia/Kolkata",
+    "population": 47604,
+    "population_year": null
   },
   {
     "id": 165032,
@@ -1029,7 +1437,12 @@
     "latitude": "23.41022000",
     "longitude": "78.22082000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1525295",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 131917,
@@ -1040,8 +1453,13 @@
     "country_code": "IN",
     "latitude": "23.86873000",
     "longitude": "77.35731000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10957,
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "गढ़ ब्राह्मण",
+    "timezone": "Asia/Kolkata",
+    "population": 1013,
+    "population_year": null
   },
   {
     "id": 131924,
@@ -1053,7 +1471,12 @@
     "latitude": "23.77910000",
     "longitude": "79.14321000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1655893",
+    "type": "city",
+    "native": "गढ़ाकोटा",
+    "timezone": "Asia/Kolkata",
+    "population": 32726,
+    "population_year": null
   },
   {
     "id": 165075,
@@ -1065,7 +1488,12 @@
     "latitude": "24.32342000",
     "longitude": "75.65204000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q426470",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 131930,
@@ -1077,7 +1505,12 @@
     "latitude": "22.98664000",
     "longitude": "75.51921000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "गौतमपुरा",
+    "timezone": "Asia/Kolkata",
+    "population": 14584,
+    "population_year": null
   },
   {
     "id": 131936,
@@ -1089,7 +1522,12 @@
     "latitude": "22.65976000",
     "longitude": "79.95013000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2313263",
+    "type": "city",
+    "native": "घंसौर",
+    "timezone": "Asia/Kolkata",
+    "population": 7120,
+    "population_year": null
   },
   {
     "id": 131965,
@@ -1100,8 +1538,13 @@
     "country_code": "IN",
     "latitude": "23.55746000",
     "longitude": "75.51665000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10987,
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "गोगापुर",
+    "timezone": "Asia/Kolkata",
+    "population": 7608,
+    "population_year": null
   },
   {
     "id": 131966,
@@ -1113,7 +1556,12 @@
     "latitude": "26.43278000",
     "longitude": "78.44205000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1707618",
+    "type": "city",
+    "native": "गोहादी",
+    "timezone": "Asia/Kolkata",
+    "population": 58939,
+    "population_year": null
   },
   {
     "id": 164989,
@@ -1125,7 +1573,12 @@
     "latitude": "26.60029000",
     "longitude": "78.51188000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q590674",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 20841,
+    "population_year": null
   },
   {
     "id": 132002,
@@ -1137,19 +1590,29 @@
     "latitude": "24.37845000",
     "longitude": "81.29644000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2228620",
+    "type": "city",
+    "native": "गोविन्दगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 10547,
+    "population_year": null
   },
   {
-    "id": 132024,
+    "id": 167537,
     "name": "Guna",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "24.55464000",
-    "longitude": "77.20082000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "24.65000000",
+    "longitude": "77.31666667",
+    "county_id": 10965,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "गुना",
+    "timezone": "Asia/Kolkata",
+    "population": 180935,
+    "population_year": null
   },
   {
     "id": 132033,
@@ -1161,7 +1624,12 @@
     "latitude": "24.50265000",
     "longitude": "81.50037000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1706610",
+    "type": "city",
+    "native": "गुरह",
+    "timezone": "Asia/Kolkata",
+    "population": 14608,
+    "population_year": null
   },
   {
     "id": 132040,
@@ -1173,19 +1641,29 @@
     "latitude": "26.22983000",
     "longitude": "78.17337000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q158467",
+    "type": "city",
+    "native": "ग्वालियर",
+    "timezone": "Asia/Kolkata",
+    "population": 1069276,
+    "population_year": null
   },
   {
-    "id": 132070,
+    "id": 167541,
     "name": "Harda",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "22.23406000",
-    "longitude": "76.96431000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "22.33000000",
+    "longitude": "77.10000000",
+    "county_id": 10967,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "हरदा",
+    "timezone": "Asia/Kolkata",
+    "population": 74268,
+    "population_year": null
   },
   {
     "id": 132071,
@@ -1197,7 +1675,12 @@
     "latitude": "22.34414000",
     "longitude": "77.09536000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1707802",
+    "type": "city",
+    "native": "हरदा खास",
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 132080,
@@ -1209,7 +1692,12 @@
     "latitude": "25.28773000",
     "longitude": "79.33279000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1709670",
+    "type": "city",
+    "native": "हरपालपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 18529,
+    "population_year": null
   },
   {
     "id": 132081,
@@ -1221,7 +1709,12 @@
     "latitude": "22.61428000",
     "longitude": "79.22207000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1706431",
+    "type": "city",
+    "native": "हर्राई",
+    "timezone": "Asia/Kolkata",
+    "population": 11000,
+    "population_year": null
   },
   {
     "id": 132082,
@@ -1233,7 +1726,12 @@
     "latitude": "22.09947000",
     "longitude": "76.73423000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1708353",
+    "type": "abandoned",
+    "native": "हरसूद",
+    "timezone": "Asia/Kolkata",
+    "population": 16736,
+    "population_year": null
   },
   {
     "id": 132145,
@@ -1245,7 +1743,12 @@
     "latitude": "22.79378000",
     "longitude": "75.73928000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1706662",
+    "type": "city",
+    "native": "हातोद",
+    "timezone": "Asia/Kolkata",
+    "population": 10425,
+    "population_year": null
   },
   {
     "id": 132088,
@@ -1256,8 +1759,13 @@
     "country_code": "IN",
     "latitude": "24.13406000",
     "longitude": "79.60119000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11833,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "हट्टा",
+    "timezone": "Asia/Kolkata",
+    "population": 32465,
+    "population_year": null
   },
   {
     "id": 132098,
@@ -1269,7 +1777,12 @@
     "latitude": "23.90345000",
     "longitude": "79.56861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1706686",
+    "type": "city",
+    "native": "हिंडोरिया",
+    "timezone": "Asia/Kolkata",
+    "population": 16001,
+    "population_year": null
   },
   {
     "id": 132120,
@@ -1281,7 +1794,12 @@
     "latitude": "22.58827000",
     "longitude": "77.98887000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q620801",
+    "type": "city",
+    "native": "होशंगाबाद",
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 132180,
@@ -1293,7 +1811,12 @@
     "latitude": "23.00943000",
     "longitude": "76.50070000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "इयावर",
+    "timezone": "Asia/Kolkata",
+    "population": 8206,
+    "population_year": null
   },
   {
     "id": 132152,
@@ -1305,7 +1828,12 @@
     "latitude": "23.02816000",
     "longitude": "77.01729000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1753922",
+    "type": "city",
+    "native": "इछावर",
+    "timezone": "Asia/Kolkata",
+    "population": 15221,
+    "population_year": null
   },
   {
     "id": 132158,
@@ -1317,19 +1845,29 @@
     "latitude": "23.14667000",
     "longitude": "76.39044000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1753642",
+    "type": "city",
+    "native": "इक्लेहरा",
+    "timezone": "Asia/Kolkata",
+    "population": 8969,
+    "population_year": null
   },
   {
-    "id": 132166,
+    "id": 167543,
     "name": "Indore",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "22.66667000",
-    "longitude": "75.75000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "22.71861111",
+    "longitude": "75.85500000",
+    "county_id": 10968,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "इंदौर",
+    "timezone": "Asia/Kolkata",
+    "population": 1994397,
+    "population_year": null
   },
   {
     "id": 132175,
@@ -1341,7 +1879,12 @@
     "latitude": "24.83906000",
     "longitude": "77.88274000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1753790",
+    "type": "city",
+    "native": "ईसागढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 12583,
+    "population_year": null
   },
   {
     "id": 132179,
@@ -1353,7 +1896,12 @@
     "latitude": "22.61477000",
     "longitude": "77.76222000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q928162",
+    "type": "city",
+    "native": "इटारसी",
+    "timezone": "Asia/Kolkata",
+    "population": 100574,
+    "population_year": null
   },
   {
     "id": 132181,
@@ -1365,7 +1913,12 @@
     "latitude": "23.16000000",
     "longitude": "79.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q632093",
+    "type": "city",
+    "native": "जबलपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 1267564,
+    "population_year": null
   },
   {
     "id": 132204,
@@ -1376,8 +1929,13 @@
     "country_code": "IN",
     "latitude": "23.68582000",
     "longitude": "81.39085000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10982,
+    "wikiDataId": "Q26788837",
+    "type": "municipality",
+    "native": "जयसिंहनगर",
+    "timezone": "Asia/Kolkata",
+    "population": 8233,
+    "population_year": null
   },
   {
     "id": 132206,
@@ -1388,8 +1946,13 @@
     "country_code": "IN",
     "latitude": "23.20856000",
     "longitude": "78.61487000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11840,
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "जैथारी",
+    "timezone": "Asia/Kolkata",
+    "population": 8386,
+    "population_year": null
   },
   {
     "id": 132309,
@@ -1401,7 +1964,12 @@
     "latitude": "22.19644000",
     "longitude": "78.59191000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2446421",
+    "type": "city",
+    "native": "जमाई",
+    "timezone": "Asia/Kolkata",
+    "population": 22583,
+    "population_year": null
   },
   {
     "id": 132241,
@@ -1413,7 +1981,12 @@
     "latitude": "23.63783000",
     "longitude": "75.12711000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1287117",
+    "type": "city",
+    "native": "जावरा",
+    "timezone": "Asia/Kolkata",
+    "population": 74907,
+    "population_year": null
   },
   {
     "id": 132251,
@@ -1425,7 +1998,12 @@
     "latitude": "25.00964000",
     "longitude": "79.04869000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2314429",
+    "type": "city",
+    "native": "जतारा",
+    "timezone": "Asia/Kolkata",
+    "population": 17499,
+    "population_year": null
   },
   {
     "id": 132314,
@@ -1437,7 +2015,12 @@
     "latitude": "24.59916000",
     "longitude": "74.86261000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2314365",
+    "type": "city",
+    "native": "जवाद",
+    "timezone": "Asia/Kolkata",
+    "population": 17129,
+    "population_year": null
   },
   {
     "id": 132275,
@@ -1449,7 +2032,12 @@
     "latitude": "22.76772000",
     "longitude": "74.59087000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1922267",
+    "type": "city",
+    "native": "झाबुआ",
+    "timezone": "Asia/Kolkata",
+    "population": 35753,
+    "population_year": null
   },
   {
     "id": 132316,
@@ -1461,7 +2049,12 @@
     "latitude": "24.30871000",
     "longitude": "74.89087000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2552146",
+    "type": "city",
+    "native": "जिरान",
+    "timezone": "Asia/Kolkata",
+    "population": 11518,
+    "population_year": null
   },
   {
     "id": 164980,
@@ -1473,7 +2066,12 @@
     "latitude": "24.02140000",
     "longitude": "76.37640000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2314386",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 21724,
+    "population_year": null
   },
   {
     "id": 132283,
@@ -1485,7 +2083,12 @@
     "latitude": "22.41599000",
     "longitude": "74.56828000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2314355",
+    "type": "city",
+    "native": "जोबट",
+    "timezone": "Asia/Kolkata",
+    "population": 11976,
+    "population_year": null
   },
   {
     "id": 132333,
@@ -1497,7 +2100,12 @@
     "latitude": "26.30498000",
     "longitude": "77.61600000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2313276",
+    "type": "city",
+    "native": "कैलारस",
+    "timezone": "Asia/Kolkata",
+    "population": 25920,
+    "population_year": null
   },
   {
     "id": 132336,
@@ -1508,8 +2116,13 @@
     "country_code": "IN",
     "latitude": "23.38465000",
     "longitude": "79.74420000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11836,
+    "wikiDataId": "Q2234399",
+    "type": "locality",
+    "native": "कैमोरी",
+    "timezone": "Asia/Kolkata",
+    "population": 20154,
+    "population_year": null
   },
   {
     "id": 132382,
@@ -1521,7 +2134,12 @@
     "latitude": "22.66764000",
     "longitude": "76.74286000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2447720",
+    "type": "city",
+    "native": "कन्नोड",
+    "timezone": "Asia/Kolkata",
+    "population": 17744,
+    "population_year": null
   },
   {
     "id": 132397,
@@ -1532,8 +2150,13 @@
     "country_code": "IN",
     "latitude": "22.91533000",
     "longitude": "79.06378000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10973,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "करेली",
+    "timezone": "Asia/Kolkata",
+    "population": 29929,
+    "population_year": null
   },
   {
     "id": 132398,
@@ -1545,7 +2168,12 @@
     "latitude": "25.45815000",
     "longitude": "78.13583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2313234",
+    "type": "city",
+    "native": "करेरा",
+    "timezone": "Asia/Kolkata",
+    "population": 28705,
+    "population_year": null
   },
   {
     "id": 132407,
@@ -1557,7 +2185,12 @@
     "latitude": "23.94891000",
     "longitude": "78.86584000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2447696",
+    "type": "city",
+    "native": "कर्रापुर",
+    "timezone": "Asia/Kolkata",
+    "population": 10647,
+    "population_year": null
   },
   {
     "id": 132419,
@@ -1569,7 +2202,12 @@
     "latitude": "22.12745000",
     "longitude": "75.61101000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2313249",
+    "type": "city",
+    "native": "कसरावद",
+    "timezone": "Asia/Kolkata",
+    "population": 22750,
+    "population_year": null
   },
   {
     "id": 132420,
@@ -1581,7 +2219,12 @@
     "latitude": "21.77369000",
     "longitude": "79.80513000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2311273",
+    "type": "city",
+    "native": "कटंगी",
+    "timezone": "Asia/Kolkata",
+    "population": 15321,
+    "population_year": null
   },
   {
     "id": 132424,
@@ -1593,7 +2236,12 @@
     "latitude": "23.83555000",
     "longitude": "80.39417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q746441",
+    "type": "city",
+    "native": "कटनी",
+    "timezone": "Asia/Kolkata",
+    "population": 221883,
+    "population_year": null
   },
   {
     "id": 132511,
@@ -1605,7 +2253,12 @@
     "latitude": "23.42322000",
     "longitude": "75.28185000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2120413",
+    "type": "city",
+    "native": "खाचरोद",
+    "timezone": "Asia/Kolkata",
+    "population": 34191,
+    "population_year": null
   },
   {
     "id": 132457,
@@ -1617,7 +2270,12 @@
     "latitude": "24.84809000",
     "longitude": "79.93351000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q178948",
+    "type": "city",
+    "native": "खजुराहो स्मारक समूह",
+    "timezone": "Asia/Kolkata",
+    "population": 25662,
+    "population_year": null
   },
   {
     "id": 132460,
@@ -1629,7 +2287,12 @@
     "latitude": "23.22558000",
     "longitude": "79.88007000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "abandoned",
+    "native": "खमरिया",
+    "timezone": "Asia/Kolkata",
+    "population": 15019,
+    "population_year": null
   },
   {
     "id": 132467,
@@ -1641,7 +2304,12 @@
     "latitude": "21.82427000",
     "longitude": "76.35086000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1648551",
+    "type": "city",
+    "native": "खंडवा",
+    "timezone": "Asia/Kolkata",
+    "population": 200738,
+    "population_year": null
   },
   {
     "id": 132476,
@@ -1653,7 +2321,12 @@
     "latitude": "24.82300000",
     "longitude": "79.14400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2120489",
+    "type": "city",
+    "native": "खरगापुर",
+    "timezone": "Asia/Kolkata",
+    "population": 14813,
+    "population_year": null
   },
   {
     "id": 132474,
@@ -1665,7 +2338,12 @@
     "latitude": "21.82306000",
     "longitude": "75.61028000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2273900",
+    "type": "city",
+    "native": "खरगोन",
+    "timezone": "Asia/Kolkata",
+    "population": 116150,
+    "population_year": null
   },
   {
     "id": 132519,
@@ -1677,7 +2355,12 @@
     "latitude": "22.59573000",
     "longitude": "76.91330000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q939294",
+    "type": "city",
+    "native": "खातेगांव",
+    "timezone": "Asia/Kolkata",
+    "population": 25413,
+    "population_year": null
   },
   {
     "id": 132495,
@@ -1689,7 +2372,12 @@
     "latitude": "21.67124000",
     "longitude": "74.58535000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2231812",
+    "type": "city",
+    "native": "खेतिया",
+    "timezone": "Asia/Kolkata",
+    "population": 15744,
+    "population_year": null
   },
   {
     "id": 132497,
@@ -1701,7 +2389,12 @@
     "latitude": "24.03943000",
     "longitude": "76.57800000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2230387",
+    "type": "city",
+    "native": "खिलचीपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 18928,
+    "population_year": null
   },
   {
     "id": 132498,
@@ -1713,7 +2406,12 @@
     "latitude": "22.16732000",
     "longitude": "76.86137000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2233697",
+    "type": "city",
+    "native": "खिरकियाँ",
+    "timezone": "Asia/Kolkata",
+    "population": 22737,
+    "population_year": null
   },
   {
     "id": 132504,
@@ -1725,7 +2423,12 @@
     "latitude": "23.78597000",
     "longitude": "76.61773000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2235923",
+    "type": "city",
+    "native": "खुजनेर",
+    "timezone": "Asia/Kolkata",
+    "population": 10785,
+    "population_year": null
   },
   {
     "id": 132507,
@@ -1737,7 +2440,12 @@
     "latitude": "24.04372000",
     "longitude": "78.33014000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2234625",
+    "type": "city",
+    "native": "खुरई",
+    "timezone": "Asia/Kolkata",
+    "population": 51108,
+    "population_year": null
   },
   {
     "id": 132561,
@@ -1749,7 +2457,12 @@
     "latitude": "25.21928000",
     "longitude": "77.61167000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q509592",
+    "type": "city",
+    "native": "कोलारस",
+    "timezone": "Asia/Kolkata",
+    "population": 19781,
+    "population_year": null
   },
   {
     "id": 132585,
@@ -1760,8 +2473,13 @@
     "country_code": "IN",
     "latitude": "24.11774000",
     "longitude": "78.04007000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10989,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "कोरवाई",
+    "timezone": "Asia/Kolkata",
+    "population": 15136,
+    "population_year": null
   },
   {
     "id": 132613,
@@ -1773,7 +2491,12 @@
     "latitude": "24.69802000",
     "longitude": "80.98073000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1924838",
+    "type": "city",
+    "native": "कोटर",
+    "timezone": "Asia/Kolkata",
+    "population": 7520,
+    "population_year": null
   },
   {
     "id": 132598,
@@ -1785,7 +2508,12 @@
     "latitude": "24.75260000",
     "longitude": "80.77751000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2233986",
+    "type": "city",
+    "native": "कोठी",
+    "timezone": "Asia/Kolkata",
+    "population": 8793,
+    "population_year": null
   },
   {
     "id": 132603,
@@ -1797,7 +2525,12 @@
     "latitude": "23.20383000",
     "longitude": "81.97904000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2240936",
+    "type": "city",
+    "native": "कोतमा",
+    "timezone": "Asia/Kolkata",
+    "population": 31756,
+    "population_year": null
   },
   {
     "id": 132611,
@@ -1808,8 +2541,13 @@
     "country_code": "IN",
     "latitude": "25.03080000",
     "longitude": "81.31908000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10977,
+    "wikiDataId": "Q2231837",
+    "type": "locality",
+    "native": "कोटवा",
+    "timezone": "Asia/Kolkata",
+    "population": 13916,
+    "population_year": null
   },
   {
     "id": 132631,
@@ -1821,7 +2559,12 @@
     "latitude": "22.20677000",
     "longitude": "74.75788000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2241499",
+    "type": "city",
+    "native": "कुक्षी",
+    "timezone": "Asia/Kolkata",
+    "population": 28331,
+    "population_year": null
   },
   {
     "id": 132640,
@@ -1833,7 +2576,12 @@
     "latitude": "24.37338000",
     "longitude": "77.04841000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2239879",
+    "type": "city",
+    "native": "कुम्भराज",
+    "timezone": "Asia/Kolkata",
+    "population": 19707,
+    "population_year": null
   },
   {
     "id": 132741,
@@ -1845,7 +2593,12 @@
     "latitude": "26.19401000",
     "longitude": "78.94137000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "लहर",
+    "timezone": "Asia/Kolkata",
+    "population": 35674,
+    "population_year": null
   },
   {
     "id": 132746,
@@ -1857,7 +2610,12 @@
     "latitude": "22.60049000",
     "longitude": "79.60094000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2234278",
+    "type": "city",
+    "native": "लखनादौन",
+    "timezone": "Asia/Kolkata",
+    "population": 17302,
+    "population_year": null
   },
   {
     "id": 132763,
@@ -1869,7 +2627,12 @@
     "latitude": "24.05979000",
     "longitude": "77.40858000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "लेटेरी",
+    "timezone": "Asia/Kolkata",
+    "population": 15519,
+    "population_year": null
   },
   {
     "id": 132766,
@@ -1881,7 +2644,12 @@
     "latitude": "21.58235000",
     "longitude": "78.85911000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2230836",
+    "type": "city",
+    "native": "लोधिखेदा",
+    "timezone": "Asia/Kolkata",
+    "population": 9994,
+    "population_year": null
   },
   {
     "id": 133054,
@@ -1893,7 +2661,12 @@
     "latitude": "24.12767000",
     "longitude": "76.31672000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2231756",
+    "type": "city",
+    "native": "माचलपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 9476,
+    "population_year": null
   },
   {
     "id": 132814,
@@ -1905,7 +2678,12 @@
     "latitude": "24.56401000",
     "longitude": "80.91126000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1929621",
+    "type": "city",
+    "native": "माधोगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 5249,
+    "population_year": null
   },
   {
     "id": 132833,
@@ -1917,7 +2695,12 @@
     "latitude": "22.17592000",
     "longitude": "75.58715000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1023674",
+    "type": "city",
+    "native": "महेश्वर",
+    "timezone": "Asia/Kolkata",
+    "population": 24411,
+    "population_year": null
   },
   {
     "id": 132835,
@@ -1929,7 +2712,12 @@
     "latitude": "26.49471000",
     "longitude": "78.61593000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2019694",
+    "type": "city",
+    "native": "महगवान",
+    "timezone": "Asia/Kolkata",
+    "population": 21335,
+    "population_year": null
   },
   {
     "id": 132854,
@@ -1941,7 +2729,12 @@
     "latitude": "24.26594000",
     "longitude": "80.76063000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q747140",
+    "type": "city",
+    "native": "मैहर",
+    "timezone": "Asia/Kolkata",
+    "population": 40192,
+    "population_year": null
   },
   {
     "id": 132860,
@@ -1953,7 +2746,12 @@
     "latitude": "23.50114000",
     "longitude": "79.92396000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2552260",
+    "type": "city",
+    "native": "मझोली",
+    "timezone": "Asia/Kolkata",
+    "population": 13210,
+    "population_year": null
   },
   {
     "id": 58103,
@@ -1965,7 +2763,12 @@
     "latitude": "22.70256000",
     "longitude": "77.93494000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q765367",
+    "type": "city",
+    "native": "माखन नगर",
+    "timezone": "Asia/Kolkata",
+    "population": 16741,
+    "population_year": null
   },
   {
     "id": 164963,
@@ -1977,7 +2780,12 @@
     "latitude": "23.84765000",
     "longitude": "78.79903000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2552140",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 23861,
+    "population_year": null
   },
   {
     "id": 132864,
@@ -1989,7 +2797,12 @@
     "latitude": "23.25999000",
     "longitude": "76.14567000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2446473",
+    "type": "city",
+    "native": "मक्सी",
+    "timezone": "Asia/Kolkata",
+    "population": 20094,
+    "population_year": null
   },
   {
     "id": 132869,
@@ -2001,7 +2814,12 @@
     "latitude": "24.28286000",
     "longitude": "74.99024000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548648",
+    "type": "city",
+    "native": "मल्हारगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 8332,
+    "population_year": null
   },
   {
     "id": 132930,
@@ -2012,8 +2830,13 @@
     "country_code": "IN",
     "latitude": "24.47764000",
     "longitude": "75.14095000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10974,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "मनसा",
+    "timezone": "Asia/Kolkata",
+    "population": 26551,
+    "population_year": null
   },
   {
     "id": 132931,
@@ -2025,7 +2848,12 @@
     "latitude": "22.23566000",
     "longitude": "75.08917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2446481",
+    "type": "city",
+    "native": "मनावर",
+    "timezone": "Asia/Kolkata",
+    "population": 30393,
+    "population_year": null
   },
   {
     "id": 132894,
@@ -2037,19 +2865,29 @@
     "latitude": "23.08166000",
     "longitude": "77.53328000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2446436",
+    "type": "city",
+    "native": "मंडीदीप",
+    "timezone": "Asia/Kolkata",
+    "population": 59654,
+    "population_year": null
   },
   {
-    "id": 132895,
+    "id": 167566,
     "name": "Mandla",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "22.64041000",
-    "longitude": "80.51344000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "22.60000000",
+    "longitude": "80.38000000",
+    "county_id": 10970,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "मंडला",
+    "timezone": "Asia/Kolkata",
+    "population": 55133,
+    "population_year": null
   },
   {
     "id": 133075,
@@ -2061,7 +2899,12 @@
     "latitude": "22.17598000",
     "longitude": "75.65995000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2326728",
+    "type": "city",
+    "native": "मंडलेश्वर",
+    "timezone": "Asia/Kolkata",
+    "population": 12343,
+    "population_year": null
   },
   {
     "id": 132897,
@@ -2070,10 +2913,15 @@
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "24.07184000",
-    "longitude": "75.06986000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "24.03000000",
+    "longitude": "75.08000000",
+    "county_id": 10971,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "मन्दसौर",
+    "timezone": "Asia/Kolkata",
+    "population": 141667,
+    "population_year": null
   },
   {
     "id": 132907,
@@ -2085,7 +2933,12 @@
     "latitude": "24.66754000",
     "longitude": "81.54644000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2552252",
+    "type": "city",
+    "native": "मंगावान",
+    "timezone": "Asia/Kolkata",
+    "population": 13700,
+    "population_year": null
   },
   {
     "id": 133080,
@@ -2097,7 +2950,12 @@
     "latitude": "22.43151000",
     "longitude": "75.62107000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1924868",
+    "type": "city",
+    "native": "मानपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 7621,
+    "population_year": null
   },
   {
     "id": 132943,
@@ -2109,7 +2967,12 @@
     "latitude": "26.26584000",
     "longitude": "78.67108000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3852371",
+    "type": "city",
+    "native": "मऊ",
+    "timezone": "Asia/Kolkata",
+    "population": 20147,
+    "population_year": null
   },
   {
     "id": 132947,
@@ -2121,7 +2984,12 @@
     "latitude": "24.66721000",
     "longitude": "81.87339000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q547781",
+    "type": "city",
+    "native": "मऊगंज",
+    "timezone": "Asia/Kolkata",
+    "population": 26420,
+    "population_year": null
   },
   {
     "id": 132973,
@@ -2133,7 +3001,12 @@
     "latitude": "26.28373000",
     "longitude": "78.98048000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548623",
+    "type": "city",
+    "native": "मिहोना",
+    "timezone": "Asia/Kolkata",
+    "population": 16935,
+    "population_year": null
   },
   {
     "id": 132983,
@@ -2145,7 +3018,12 @@
     "latitude": "21.63941000",
     "longitude": "78.73638000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2552172",
+    "type": "city",
+    "native": "मोहगांव",
+    "timezone": "Asia/Kolkata",
+    "population": 10446,
+    "population_year": null
   },
   {
     "id": 133003,
@@ -2156,20 +3034,30 @@
     "country_code": "IN",
     "latitude": "26.22640000",
     "longitude": "78.22482000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10966,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "मोरार",
+    "timezone": "Asia/Kolkata",
+    "population": 48464,
+    "population_year": null
   },
   {
-    "id": 132994,
+    "id": 167569,
     "name": "Morena",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "26.16667000",
-    "longitude": "77.50000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "26.50000000",
+    "longitude": "78.00000000",
+    "county_id": 10972,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "मुरैना",
+    "timezone": "Asia/Kolkata",
+    "population": 200482,
+    "population_year": null
   },
   {
     "id": 133022,
@@ -2181,7 +3069,12 @@
     "latitude": "21.77463000",
     "longitude": "78.25756000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2446460",
+    "type": "city",
+    "native": "मुल्ताई",
+    "timezone": "Asia/Kolkata",
+    "population": 29976,
+    "population_year": null
   },
   {
     "id": 133028,
@@ -2193,7 +3086,12 @@
     "latitude": "22.06693000",
     "longitude": "76.49326000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2552231",
+    "type": "city",
+    "native": "मुंडी",
+    "timezone": "Asia/Kolkata",
+    "population": 12889,
+    "population_year": null
   },
   {
     "id": 133030,
@@ -2205,7 +3103,12 @@
     "latitude": "24.40837000",
     "longitude": "78.09588000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2446412",
+    "type": "city",
+    "native": "मुंगावली",
+    "timezone": "Asia/Kolkata",
+    "population": 26192,
+    "population_year": null
   },
   {
     "id": 133042,
@@ -2217,7 +3120,12 @@
     "latitude": "23.83776000",
     "longitude": "80.39405000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q172581",
+    "type": "city",
+    "native": "मुरवारा",
+    "timezone": "Asia/Kolkata",
+    "population": 221883,
+    "population_year": null
   },
   {
     "id": 133115,
@@ -2229,7 +3137,12 @@
     "latitude": "23.45834000",
     "longitude": "75.41759000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1026190",
+    "type": "city",
+    "native": "नागदा",
+    "timezone": "Asia/Kolkata",
+    "population": 100039,
+    "population_year": null
   },
   {
     "id": 133259,
@@ -2241,7 +3154,12 @@
     "latitude": "24.56924000",
     "longitude": "80.58809000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2007857",
+    "type": "city",
+    "native": "नागोद",
+    "timezone": "Asia/Kolkata",
+    "population": 22568,
+    "population_year": null
   },
   {
     "id": 133197,
@@ -2252,8 +3170,13 @@
     "country_code": "IN",
     "latitude": "24.78686000",
     "longitude": "81.77868000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11257,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "नैगढ़ी",
+    "timezone": "Asia/Kolkata",
+    "population": 10404,
+    "population_year": null
   },
   {
     "id": 133124,
@@ -2264,8 +3187,13 @@
     "country_code": "IN",
     "latitude": "22.42996000",
     "longitude": "80.10561000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10970,
+    "wikiDataId": "Q2446391",
+    "type": "locality",
+    "native": "नैनपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 24914,
+    "population_year": null
   },
   {
     "id": 165050,
@@ -2277,7 +3205,12 @@
     "latitude": "23.83602000",
     "longitude": "76.24316000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2446401",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 133138,
@@ -2289,7 +3222,12 @@
     "latitude": "23.46115000",
     "longitude": "75.06036000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548631",
+    "type": "city",
+    "native": "नामली",
+    "timezone": "Asia/Kolkata",
+    "population": 9774,
+    "population_year": null
   },
   {
     "id": 133276,
@@ -2301,7 +3239,12 @@
     "latitude": "24.27083000",
     "longitude": "75.05007000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1925454",
+    "type": "city",
+    "native": "नारायणगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 10233,
+    "population_year": null
   },
   {
     "id": 133171,
@@ -2312,8 +3255,13 @@
     "country_code": "IN",
     "latitude": "22.91667000",
     "longitude": "79.16667000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10973,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "नरसिंहपुर",
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 133172,
@@ -2325,7 +3273,12 @@
     "latitude": "23.70758000",
     "longitude": "77.09319000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q584544",
+    "type": "city",
+    "native": "नरसिंहगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 32329,
+    "population_year": null
   },
   {
     "id": 133174,
@@ -2336,8 +3289,13 @@
     "country_code": "IN",
     "latitude": "25.64390000",
     "longitude": "77.91290000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10984,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "नरवर",
+    "timezone": "Asia/Kolkata",
+    "population": 19385,
+    "population_year": null
   },
   {
     "id": 133179,
@@ -2349,7 +3307,12 @@
     "latitude": "22.68370000",
     "longitude": "77.27069000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2446380",
+    "type": "city",
+    "native": "नसरुल्लागंज",
+    "timezone": "Asia/Kolkata",
+    "population": 23788,
+    "population_year": null
   },
   {
     "id": 133202,
@@ -2360,8 +3323,13 @@
     "country_code": "IN",
     "latitude": "24.47000000",
     "longitude": "74.87000000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10974,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "नीमच",
+    "timezone": "Asia/Kolkata",
+    "population": 826067,
+    "population_year": null
   },
   {
     "id": 133207,
@@ -2372,8 +3340,13 @@
     "country_code": "IN",
     "latitude": "21.45380000",
     "longitude": "76.39335000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10958,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "नेपानगर",
+    "timezone": "Asia/Kolkata",
+    "population": 32611,
+    "population_year": null
   },
   {
     "id": 164886,
@@ -2385,7 +3358,12 @@
     "latitude": "25.06136000",
     "longitude": "79.44125000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2446450",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 40580,
+    "population_year": null
   },
   {
     "id": 133304,
@@ -2397,7 +3375,12 @@
     "latitude": "25.35192000",
     "longitude": "78.64033000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q201631",
+    "type": "city",
+    "native": "ओरछा",
+    "timezone": "Asia/Kolkata",
+    "population": 11511,
+    "population_year": null
   },
   {
     "id": 133308,
@@ -2409,7 +3392,12 @@
     "latitude": "22.46791000",
     "longitude": "78.43312000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1949041",
+    "type": "city",
+    "native": "पचमढ़ी",
+    "timezone": "Asia/Kolkata",
+    "population": 12062,
+    "population_year": null
   },
   {
     "id": 165023,
@@ -2420,8 +3408,13 @@
     "country_code": "IN",
     "latitude": "22.68004000",
     "longitude": "75.89391000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10968,
+    "wikiDataId": "Q2720771",
+    "type": "locality",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 133325,
@@ -2433,7 +3426,12 @@
     "latitude": "25.02013000",
     "longitude": "79.22818000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548639",
+    "type": "city",
+    "native": "पलेरा",
+    "timezone": "Asia/Kolkata",
+    "population": 17493,
+    "population_year": null
   },
   {
     "id": 133530,
@@ -2445,7 +3443,12 @@
     "latitude": "23.36453000",
     "longitude": "81.04374000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3786790",
+    "type": "city",
+    "native": "पाली",
+    "timezone": "Asia/Kolkata",
+    "population": 22324,
+    "population_year": null
   },
   {
     "id": 133354,
@@ -2457,7 +3460,12 @@
     "latitude": "23.28539000",
     "longitude": "79.99509000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548319",
+    "type": "city",
+    "native": "पनागर",
+    "timezone": "Asia/Kolkata",
+    "population": 27932,
+    "population_year": null
   },
   {
     "id": 133344,
@@ -2469,7 +3477,12 @@
     "latitude": "22.20568000",
     "longitude": "78.55093000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1768640",
+    "type": "city",
+    "native": "पनारा",
+    "timezone": "Asia/Kolkata",
+    "population": 4096,
+    "population_year": null
   },
   {
     "id": 133348,
@@ -2481,7 +3494,12 @@
     "latitude": "21.69816000",
     "longitude": "76.22487000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2720747",
+    "type": "city",
+    "native": "पंधाना",
+    "timezone": "Asia/Kolkata",
+    "population": 13694,
+    "population_year": null
   },
   {
     "id": 133538,
@@ -2493,7 +3511,12 @@
     "latitude": "21.59556000",
     "longitude": "78.52628000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2445471",
+    "type": "city",
+    "native": "पंधुरना",
+    "timezone": "Asia/Kolkata",
+    "population": 45479,
+    "population_year": null
   },
   {
     "id": 133351,
@@ -2505,7 +3528,12 @@
     "latitude": "24.50000000",
     "longitude": "80.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2341630",
+    "type": "city",
+    "native": "पन्ना",
+    "timezone": "Asia/Kolkata",
+    "population": 59091,
+    "population_year": null
   },
   {
     "id": 133542,
@@ -2517,7 +3545,12 @@
     "latitude": "21.65981000",
     "longitude": "74.69937000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2720790",
+    "type": "city",
+    "native": "पानसेमल",
+    "timezone": "Asia/Kolkata",
+    "population": 12166,
+    "population_year": null
   },
   {
     "id": 133371,
@@ -2529,7 +3562,12 @@
     "latitude": "22.19130000",
     "longitude": "78.75904000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1390016",
+    "type": "city",
+    "native": "परासिया",
+    "timezone": "Asia/Kolkata",
+    "population": 42786,
+    "population_year": null
   },
   {
     "id": 133555,
@@ -2541,7 +3579,12 @@
     "latitude": "23.28636000",
     "longitude": "79.68962000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3788531",
+    "type": "city",
+    "native": "पाटन",
+    "timezone": "Asia/Kolkata",
+    "population": 13779,
+    "population_year": null
   },
   {
     "id": 133381,
@@ -2553,7 +3596,12 @@
     "latitude": "23.89921000",
     "longitude": "79.19393000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2443517",
+    "type": "city",
+    "native": "पथरिया",
+    "timezone": "Asia/Kolkata",
+    "population": 21026,
+    "population_year": null
   },
   {
     "id": 133396,
@@ -2565,7 +3613,12 @@
     "latitude": "24.26635000",
     "longitude": "80.16196000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2720731",
+    "type": "city",
+    "native": "पवई",
+    "timezone": "Asia/Kolkata",
+    "population": 14465,
+    "population_year": null
   },
   {
     "id": 133430,
@@ -2577,7 +3630,12 @@
     "latitude": "23.01102000",
     "longitude": "74.79772000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2720761",
+    "type": "city",
+    "native": "पेटलावद",
+    "timezone": "Asia/Kolkata",
+    "population": 15174,
+    "population_year": null
   },
   {
     "id": 133454,
@@ -2589,7 +3647,12 @@
     "latitude": "23.35000000",
     "longitude": "75.43333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2720099",
+    "type": "city",
+    "native": "पिपलोदा",
+    "timezone": "Asia/Kolkata",
+    "population": 7719,
+    "population_year": null
   },
   {
     "id": 133462,
@@ -2601,7 +3664,12 @@
     "latitude": "22.60197000",
     "longitude": "75.69649000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548346",
+    "type": "city",
+    "native": "पीथमपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 126200,
+    "population_year": null
   },
   {
     "id": 133481,
@@ -2613,7 +3681,12 @@
     "latitude": "26.67444000",
     "longitude": "78.37081000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548362",
+    "type": "city",
+    "native": "पोर्सा",
+    "timezone": "Asia/Kolkata",
+    "population": 39669,
+    "population_year": null
   },
   {
     "id": 133508,
@@ -2624,8 +3697,13 @@
     "country_code": "IN",
     "latitude": "22.23507000",
     "longitude": "76.39335000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10964,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "पुनासा",
+    "timezone": "Asia/Kolkata",
+    "population": 350000,
+    "population_year": null
   },
   {
     "id": 133660,
@@ -2637,7 +3715,12 @@
     "latitude": "24.44318000",
     "longitude": "77.19768000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "राघोगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 63873,
+    "population_year": null
   },
   {
     "id": 133661,
@@ -2649,7 +3732,12 @@
     "latitude": "23.78968000",
     "longitude": "78.39473000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q632752",
+    "type": "city",
+    "native": "राहतगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 31537,
+    "population_year": null
   },
   {
     "id": 133591,
@@ -2661,7 +3749,12 @@
     "latitude": "23.25000000",
     "longitude": "78.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1815223",
+    "type": "city",
+    "native": "रायसेन",
+    "timezone": "Asia/Kolkata",
+    "population": 44162,
+    "population_year": null
   },
   {
     "id": 133675,
@@ -2673,7 +3766,12 @@
     "latitude": "22.67821000",
     "longitude": "74.94483000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2468221",
+    "type": "city",
+    "native": "राजगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 17113,
+    "population_year": null
   },
   {
     "id": 133680,
@@ -2684,8 +3782,13 @@
     "country_code": "IN",
     "latitude": "24.88929000",
     "longitude": "79.91178000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10959,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "राजनगर",
+    "timezone": "Asia/Kolkata",
+    "population": 14253,
+    "population_year": null
   },
   {
     "id": 133709,
@@ -2696,8 +3799,13 @@
     "country_code": "IN",
     "latitude": "24.46700000",
     "longitude": "75.43996000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10974,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "रामपुरा",
+    "timezone": "Asia/Kolkata",
+    "population": 18495,
+    "population_year": null
   },
   {
     "id": 133717,
@@ -2709,7 +3817,12 @@
     "latitude": "22.64704000",
     "longitude": "74.52118000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2719656",
+    "type": "city",
+    "native": "राणापुर",
+    "timezone": "Asia/Kolkata",
+    "population": 12371,
+    "population_year": null
   },
   {
     "id": 133615,
@@ -2721,7 +3834,12 @@
     "latitude": "24.81667000",
     "longitude": "75.11667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10357555",
+    "type": "city",
+    "native": "रतनगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 7994,
+    "population_year": null
   },
   {
     "id": 133618,
@@ -2733,7 +3851,12 @@
     "latitude": "23.33033000",
     "longitude": "75.04032000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q652376",
+    "type": "city",
+    "native": "रतलाम",
+    "timezone": "Asia/Kolkata",
+    "population": 264914,
+    "population_year": null
   },
   {
     "id": 133623,
@@ -2745,7 +3868,12 @@
     "latitude": "23.63722000",
     "longitude": "79.06275000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548659",
+    "type": "city",
+    "native": "रेहली",
+    "timezone": "Asia/Kolkata",
+    "population": 30329,
+    "population_year": null
   },
   {
     "id": 133624,
@@ -2757,7 +3885,12 @@
     "latitude": "22.73781000",
     "longitude": "77.43399000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2720270",
+    "type": "city",
+    "native": "रहती",
+    "timezone": "Asia/Kolkata",
+    "population": 11611,
+    "population_year": null
   },
   {
     "id": 133633,
@@ -2769,7 +3902,12 @@
     "latitude": "24.53256000",
     "longitude": "81.29234000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1000495",
+    "type": "city",
+    "native": "रीवा",
+    "timezone": "Asia/Kolkata",
+    "population": 235654,
+    "population_year": null
   },
   {
     "id": 133738,
@@ -2781,7 +3919,12 @@
     "latitude": "26.24918000",
     "longitude": "77.40786000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548310",
+    "type": "city",
+    "native": "सबलगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 40333,
+    "population_year": null
   },
   {
     "id": 134061,
@@ -2793,7 +3936,12 @@
     "latitude": "23.75000000",
     "longitude": "78.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1854670",
+    "type": "city",
+    "native": "सागर",
+    "timezone": "Asia/Kolkata",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 133757,
@@ -2805,7 +3953,12 @@
     "latitude": "23.46219000",
     "longitude": "74.92318000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548299",
+    "type": "city",
+    "native": "सैलाना",
+    "timezone": "Asia/Kolkata",
+    "population": 11989,
+    "population_year": null
   },
   {
     "id": 133796,
@@ -2817,7 +3970,12 @@
     "latitude": "22.17391000",
     "longitude": "76.06993000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2465668",
+    "type": "city",
+    "native": "सनावद",
+    "timezone": "Asia/Kolkata",
+    "population": 38740,
+    "population_year": null
   },
   {
     "id": 134070,
@@ -2829,7 +3987,12 @@
     "latitude": "23.48646000",
     "longitude": "77.73780000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "सांची",
+    "timezone": "Asia/Kolkata",
+    "population": 8401,
+    "population_year": null
   },
   {
     "id": 134075,
@@ -2841,7 +4004,12 @@
     "latitude": "22.97415000",
     "longitude": "75.82710000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "सांवेर",
+    "timezone": "Asia/Kolkata",
+    "population": 16150,
+    "population_year": null
   },
   {
     "id": 134078,
@@ -2852,20 +4020,30 @@
     "country_code": "IN",
     "latitude": "23.56651000",
     "longitude": "76.47306000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10975,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "सारंगपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 37435,
+    "population_year": null
   },
   {
-    "id": 133820,
+    "id": 167586,
     "name": "Satna",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "24.50000000",
-    "longitude": "81.00000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "24.59835119",
+    "longitude": "80.82812528",
+    "county_id": 10979,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "सतना",
+    "timezone": "Asia/Kolkata",
+    "population": 283004,
+    "population_year": null
   },
   {
     "id": 133824,
@@ -2877,7 +4055,12 @@
     "latitude": "22.53628000",
     "longitude": "76.68452000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2720094",
+    "type": "city",
+    "native": "सतवास",
+    "timezone": "Asia/Kolkata",
+    "population": 14108,
+    "population_year": null
   },
   {
     "id": 133826,
@@ -2888,8 +4071,13 @@
     "country_code": "IN",
     "latitude": "23.83877000",
     "longitude": "78.73874000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10978,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "सागर",
+    "timezone": "Asia/Kolkata",
+    "population": 274556,
+    "population_year": null
   },
   {
     "id": 133829,
@@ -2901,7 +4089,12 @@
     "latitude": "21.65576000",
     "longitude": "78.79669000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2546577",
+    "type": "city",
+    "native": "सौसर",
+    "timezone": "Asia/Kolkata",
+    "population": 27459,
+    "population_year": null
   },
   {
     "id": 133835,
@@ -2913,7 +4106,12 @@
     "latitude": "23.20000000",
     "longitude": "77.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2077421",
+    "type": "city",
+    "native": "सीहोर",
+    "timezone": "Asia/Kolkata",
+    "population": 109118,
+    "population_year": null
   },
   {
     "id": 133838,
@@ -2925,7 +4123,12 @@
     "latitude": "21.68562000",
     "longitude": "75.09622000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2624000",
+    "type": "city",
+    "native": "सेंधवा",
+    "timezone": "Asia/Kolkata",
+    "population": 56485,
+    "population_year": null
   },
   {
     "id": 133840,
@@ -2937,7 +4140,12 @@
     "latitude": "26.15422000",
     "longitude": "78.78120000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2546462",
+    "type": "city",
+    "native": "स्योंधा",
+    "timezone": "Asia/Kolkata",
+    "population": 23140,
+    "population_year": null
   },
   {
     "id": 133842,
@@ -2949,7 +4157,12 @@
     "latitude": "22.08503000",
     "longitude": "79.55037000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2287206",
+    "type": "city",
+    "native": "सिवनी",
+    "timezone": "Asia/Kolkata",
+    "population": 102343,
+    "population_year": null
   },
   {
     "id": 133843,
@@ -2961,7 +4174,12 @@
     "latitude": "22.45046000",
     "longitude": "77.46650000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2545959",
+    "type": "city",
+    "native": "सिवनी मालवा",
+    "timezone": "Asia/Kolkata",
+    "population": 30100,
+    "population_year": null
   },
   {
     "id": 133853,
@@ -2973,7 +4191,12 @@
     "latitude": "23.50000000",
     "longitude": "81.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1572231",
+    "type": "city",
+    "native": "शाहडोल",
+    "timezone": "Asia/Kolkata",
+    "population": 86681,
+    "population_year": null
   },
   {
     "id": 133893,
@@ -2985,7 +4208,12 @@
     "latitude": "24.31365000",
     "longitude": "79.11806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2720736",
+    "type": "city",
+    "native": "शाहगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 16300,
+    "population_year": null
   },
   {
     "id": 133899,
@@ -2996,8 +4224,13 @@
     "country_code": "IN",
     "latitude": "21.23742000",
     "longitude": "76.22558000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10958,
+    "wikiDataId": "Q3959001",
+    "type": "locality",
+    "native": "शाहपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 17767,
+    "population_year": null
   },
   {
     "id": 133904,
@@ -3009,7 +4242,12 @@
     "latitude": "23.13663000",
     "longitude": "79.66402000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "शाहपुरा",
+    "timezone": "Asia/Kolkata",
+    "population": 13601,
+    "population_year": null
   },
   {
     "id": 133910,
@@ -3021,7 +4259,12 @@
     "latitude": "23.50000000",
     "longitude": "76.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2449803",
+    "type": "city",
+    "native": "शाजापुर",
+    "timezone": "Asia/Kolkata",
+    "population": 69263,
+    "population_year": null
   },
   {
     "id": 133912,
@@ -3033,19 +4276,29 @@
     "latitude": "24.18817000",
     "longitude": "75.63903000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2546410",
+    "type": "city",
+    "native": "शामगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 24637,
+    "population_year": null
   },
   {
-    "id": 133861,
+    "id": 167588,
     "name": "Sheopur",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "25.80000000",
-    "longitude": "77.00000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "25.67000000",
+    "longitude": "76.70000000",
+    "county_id": 10983,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "श्योपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 71951,
+    "population_year": null
   },
   {
     "id": 133880,
@@ -3057,7 +4310,12 @@
     "latitude": "25.42378000",
     "longitude": "77.66223000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2036966",
+    "type": "city",
+    "native": "शिवपुरी",
+    "timezone": "Asia/Kolkata",
+    "population": 179977,
+    "population_year": null
   },
   {
     "id": 133888,
@@ -3069,19 +4327,29 @@
     "latitude": "23.40673000",
     "longitude": "76.70980000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2720813",
+    "type": "city",
+    "native": "शुजालपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 51225,
+    "population_year": null
   },
   {
-    "id": 133922,
+    "id": 167590,
     "name": "Sidhi",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "24.25000000",
-    "longitude": "82.00000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "24.42000000",
+    "longitude": "81.88000000",
+    "county_id": 10985,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "सीधी",
+    "timezone": "Asia/Kolkata",
+    "population": 67040,
+    "population_year": null
   },
   {
     "id": 133926,
@@ -3093,7 +4361,12 @@
     "latitude": "23.48710000",
     "longitude": "80.10404000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2546438",
+    "type": "city",
+    "native": "सिहोरा",
+    "timezone": "Asia/Kolkata",
+    "population": 44048,
+    "population_year": null
   },
   {
     "id": 133938,
@@ -3105,7 +4378,12 @@
     "latitude": "24.79497000",
     "longitude": "81.15200000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2720724",
+    "type": "city",
+    "native": "सिमरिया",
+    "timezone": "Asia/Kolkata",
+    "population": 14045,
+    "population_year": null
   },
   {
     "id": 133947,
@@ -3117,7 +4395,12 @@
     "latitude": "24.96667000",
     "longitude": "75.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2722287",
+    "type": "city",
+    "native": "सिंगोली",
+    "timezone": "Asia/Kolkata",
+    "population": 9523,
+    "population_year": null
   },
   {
     "id": 133948,
@@ -3129,7 +4412,12 @@
     "latitude": "24.19973000",
     "longitude": "82.67535000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q255780",
+    "type": "city",
+    "native": "सिंगरौली",
+    "timezone": "Asia/Kolkata",
+    "population": 220257,
+    "population_year": null
   },
   {
     "id": 133956,
@@ -3141,7 +4429,12 @@
     "latitude": "24.83648000",
     "longitude": "81.36448000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1928918",
+    "type": "city",
+    "native": "सिरमौर",
+    "timezone": "Asia/Kolkata",
+    "population": 11878,
+    "population_year": null
   },
   {
     "id": 133959,
@@ -3153,7 +4446,12 @@
     "latitude": "24.10313000",
     "longitude": "77.69055000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q720147",
+    "type": "city",
+    "native": "सिरोंज",
+    "timezone": "Asia/Kolkata",
+    "population": 52460,
+    "population_year": null
   },
   {
     "id": 134090,
@@ -3165,7 +4463,12 @@
     "latitude": "24.01473000",
     "longitude": "75.35324000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1815885",
+    "type": "city",
+    "native": "सीतामऊ",
+    "timezone": "Asia/Kolkata",
+    "population": 14056,
+    "population_year": null
   },
   {
     "id": 133981,
@@ -3176,8 +4479,13 @@
     "country_code": "IN",
     "latitude": "24.98181000",
     "longitude": "81.69558000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10977,
+    "wikiDataId": "Q26780000",
+    "type": "locality",
+    "native": "सोहागी",
+    "timezone": "Asia/Kolkata",
+    "population": 9009,
+    "population_year": null
   },
   {
     "id": 133982,
@@ -3189,7 +4497,12 @@
     "latitude": "22.70055000",
     "longitude": "78.19522000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2546550",
+    "type": "city",
+    "native": "सोहागपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 25040,
+    "population_year": null
   },
   {
     "id": 165053,
@@ -3201,7 +4514,12 @@
     "latitude": "22.97166000",
     "longitude": "76.34667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q733265",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 134039,
@@ -3213,7 +4531,12 @@
     "latitude": "23.13812000",
     "longitude": "77.93404000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3976891",
+    "type": "city",
+    "native": "सुल्तानपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 10268,
+    "population_year": null
   },
   {
     "id": 134055,
@@ -3225,7 +4548,12 @@
     "latitude": "23.94667000",
     "longitude": "76.08825000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q426442",
+    "type": "city",
+    "native": "सुसनेर",
+    "timezone": "Asia/Kolkata",
+    "population": 16432,
+    "population_year": null
   },
   {
     "id": 134230,
@@ -3236,8 +4564,13 @@
     "country_code": "IN",
     "latitude": "23.71979000",
     "longitude": "75.38514000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10976,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "ताल",
+    "timezone": "Asia/Kolkata",
+    "population": 14913,
+    "population_year": null
   },
   {
     "id": 134102,
@@ -3249,7 +4582,12 @@
     "latitude": "23.56949000",
     "longitude": "76.72821000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2720317",
+    "type": "city",
+    "native": "तलें",
+    "timezone": "Asia/Kolkata",
+    "population": 10582,
+    "population_year": null
   },
   {
     "id": 134119,
@@ -3261,7 +4599,12 @@
     "latitude": "23.33383000",
     "longitude": "76.04253000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2248410",
+    "type": "city",
+    "native": "तराना",
+    "timezone": "Asia/Kolkata",
+    "population": 24908,
+    "population_year": null
   },
   {
     "id": 134124,
@@ -3272,8 +4615,13 @@
     "country_code": "IN",
     "latitude": "25.99401000",
     "longitude": "78.28322000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10966,
+    "wikiDataId": "Q2552125",
+    "type": "locality",
+    "native": "टेकनपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 13681,
+    "population_year": null
   },
   {
     "id": 134130,
@@ -3285,7 +4633,12 @@
     "latitude": "23.39620000",
     "longitude": "79.53947000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q384228",
+    "type": "city",
+    "native": "तेंदुखेड़ा",
+    "timezone": "Asia/Kolkata",
+    "population": 14399,
+    "population_year": null
   },
   {
     "id": 134132,
@@ -3297,7 +4650,12 @@
     "latitude": "24.98207000",
     "longitude": "81.64194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2546511",
+    "type": "city",
+    "native": "तेओन्थर",
+    "timezone": "Asia/Kolkata",
+    "population": 17039,
+    "population_year": null
   },
   {
     "id": 134137,
@@ -3309,7 +4667,12 @@
     "latitude": "23.00959000",
     "longitude": "74.57747000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q530401",
+    "type": "city",
+    "native": "थांदला",
+    "timezone": "Asia/Kolkata",
+    "population": 15756,
+    "population_year": null
   },
   {
     "id": 134244,
@@ -3321,7 +4684,12 @@
     "latitude": "24.74327000",
     "longitude": "78.83061000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2287213",
+    "type": "city",
+    "native": "टीकमगढ़",
+    "timezone": "Asia/Kolkata",
+    "population": 79106,
+    "population_year": null
   },
   {
     "id": 134177,
@@ -3332,8 +4700,13 @@
     "country_code": "IN",
     "latitude": "21.68522000",
     "longitude": "79.71906000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11829,
+    "wikiDataId": "Q1121279",
+    "type": "locality",
+    "native": "तिरोडी",
+    "timezone": "Asia/Kolkata",
+    "population": 8870,
+    "population_year": null
   },
   {
     "id": 134251,
@@ -3345,19 +4718,29 @@
     "latitude": "23.07434000",
     "longitude": "78.51108000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2546414",
+    "type": "city",
+    "native": "उदयपुरा",
+    "timezone": "Asia/Kolkata",
+    "population": 18236,
+    "population_year": null
   },
   {
-    "id": 134263,
+    "id": 167600,
     "name": "Ujjain",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "23.41667000",
-    "longitude": "75.50000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "23.18277778",
+    "longitude": "75.77722222",
+    "county_id": 10987,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "उज्जैन",
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 134266,
@@ -3368,8 +4751,13 @@
     "country_code": "IN",
     "latitude": "21.97102000",
     "longitude": "80.46625000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11829,
+    "wikiDataId": "Q2720304",
+    "type": "locality",
+    "native": "उक्वा",
+    "timezone": "Asia/Kolkata",
+    "population": 7369,
+    "population_year": null
   },
   {
     "id": 134270,
@@ -3380,8 +4768,13 @@
     "country_code": "IN",
     "latitude": "23.52473000",
     "longitude": "80.83716000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 10988,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "उमरिया",
+    "timezone": "Asia/Kolkata",
+    "population": 33114,
+    "population_year": null
   },
   {
     "id": 134276,
@@ -3392,8 +4785,13 @@
     "country_code": "IN",
     "latitude": "26.51056000",
     "longitude": "78.93667000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 11832,
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "उमरी",
+    "timezone": "Asia/Kolkata",
+    "population": 9364,
+    "population_year": null
   },
   {
     "id": 134282,
@@ -3405,19 +4803,29 @@
     "latitude": "23.33794000",
     "longitude": "75.55931000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2546487",
+    "type": "city",
+    "native": "उन्हेल",
+    "timezone": "Asia/Kolkata",
+    "population": 15837,
+    "population_year": null
   },
   {
-    "id": 134354,
+    "id": 167602,
     "name": "Vidisha",
     "state_id": 4039,
     "state_code": "MP",
     "country_id": 101,
     "country_code": "IN",
-    "latitude": "23.91667000",
-    "longitude": "78.00000000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "23.52390000",
+    "longitude": "77.80610000",
+    "county_id": 10989,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "विदिशा",
+    "timezone": "Asia/Kolkata",
+    "population": 155959,
+    "population_year": null
   },
   {
     "id": 134418,
@@ -3429,6 +4837,11 @@
     "latitude": "21.76184000",
     "longitude": "80.04301000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2449438",
+    "type": "city",
+    "native": "वारासियोनी",
+    "timezone": "Asia/Kolkata",
+    "population": 27494,
+    "population_year": null
   }
 ]

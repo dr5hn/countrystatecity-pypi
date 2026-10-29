@@ -9,7 +9,12 @@
     "latitude": "13.60530000",
     "longitude": "106.35819000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4929005",
+    "type": "area",
+    "native": "ស្រ៊ុនស្រេង",
+    "timezone": "Asia/Phnom_Penh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65033,
@@ -21,7 +26,12 @@
     "latitude": "13.65000000",
     "longitude": "106.07000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4929505",
+    "type": "city",
+    "native": "ស្ទឹងត្រែង",
+    "timezone": "Asia/Phnom_Penh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65034,
@@ -33,6 +43,11 @@
     "latitude": "13.52586000",
     "longitude": "105.96830000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10859501",
+    "type": "adm1",
+    "native": "ត្រូវការស្ទឹង",
+    "timezone": "Asia/Phnom_Penh",
+    "population": 25000,
+    "population_year": null
   }
 ]

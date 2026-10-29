@@ -9,7 +9,12 @@
     "latitude": "54.70879560",
     "longitude": "-7.59312500",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3544113",
+    "type": "village",
+    "native": "Castlederg",
+    "timezone": "Europe/London",
+    "population": 2822,
+    "population_year": null
   },
   {
     "id": 49203,
@@ -21,7 +26,12 @@
     "latitude": "55.05000000",
     "longitude": "-7.26667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q702848",
+    "type": "village",
+    "native": "Culmore",
+    "timezone": "Europe/London",
+    "population": 3645,
+    "population_year": null
   },
   {
     "id": 49272,
@@ -33,19 +43,12 @@
     "latitude": "54.99810000",
     "longitude": "-7.30934000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 49273,
-    "name": "Derry City and Strabane",
-    "state_id": 2446,
-    "state_code": "DRS",
-    "country_id": 232,
-    "country_code": "GB",
-    "latitude": "54.82045000",
-    "longitude": "-7.35958000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Derry",
+    "timezone": "Europe/London",
+    "population": 85016,
+    "population_year": null
   },
   {
     "id": 49446,
@@ -57,7 +60,12 @@
     "latitude": "55.01667000",
     "longitude": "-7.18333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q853298",
+    "type": "city",
+    "native": "Eglinton",
+    "timezone": "Europe/London",
+    "population": 3818,
+    "population_year": null
   },
   {
     "id": 50389,
@@ -69,7 +77,12 @@
     "latitude": "54.99721000",
     "longitude": "-7.30917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Londonderry County Borough",
+    "timezone": "Europe/London",
+    "population": 87153,
+    "population_year": null
   },
   {
     "id": 50741,
@@ -81,7 +94,12 @@
     "latitude": "54.71778000",
     "longitude": "-7.37886000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2779526",
+    "type": "village",
+    "native": "Newtownstewart",
+    "timezone": "Europe/London",
+    "population": 1465,
+    "population_year": null
   },
   {
     "id": 51314,
@@ -93,7 +111,12 @@
     "latitude": "54.78752000",
     "longitude": "-7.47276000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q576454",
+    "type": "village",
+    "native": "Sion Mills",
+    "timezone": "Europe/London",
+    "population": 2212,
+    "population_year": null
   },
   {
     "id": 51486,
@@ -105,6 +128,11 @@
     "latitude": "54.82373000",
     "longitude": "-7.46916000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1027659",
+    "type": "town",
+    "native": "Strabane",
+    "timezone": "Europe/London",
+    "population": 14198,
+    "population_year": null
   }
 ]

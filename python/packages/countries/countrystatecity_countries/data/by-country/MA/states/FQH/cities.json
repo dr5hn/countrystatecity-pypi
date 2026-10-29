@@ -9,7 +9,12 @@
     "latitude": "32.50213000",
     "longitude": "-6.68771000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الفقيه بن جَلاه",
+    "timezone": "Africa/Casablanca",
+    "population": 111402,
+    "population_year": null
   },
   {
     "id": 67103,
@@ -21,6 +26,11 @@
     "latitude": "32.31247000",
     "longitude": "-6.90494000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3015955",
+    "type": "adm3",
+    "native": "دار ولد زيدوه",
+    "timezone": "Africa/Casablanca",
+    "population": 12547,
+    "population_year": null
   }
 ]

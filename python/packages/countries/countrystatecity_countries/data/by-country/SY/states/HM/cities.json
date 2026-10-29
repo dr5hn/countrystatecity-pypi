@@ -9,7 +9,12 @@
     "latitude": "35.14398000",
     "longitude": "37.59235000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4118483",
+    "type": "district",
+    "native": "قضاء السلمية",
+    "timezone": "Asia/Damascus",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104975,
@@ -21,7 +26,12 @@
     "latitude": "35.01127000",
     "longitude": "37.05324000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q75621",
+    "type": "adm2",
+    "native": "السلمية",
+    "timezone": "Asia/Damascus",
+    "population": 94887,
+    "population_year": null
   },
   {
     "id": 104976,
@@ -33,7 +43,12 @@
     "latitude": "35.36674000",
     "longitude": "36.39359000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q986763",
+    "type": "adm2",
+    "native": "السقيلبية",
+    "timezone": "Asia/Damascus",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 105075,
@@ -45,7 +60,12 @@
     "latitude": "35.26014000",
     "longitude": "36.60581000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1704164",
+    "type": "city",
+    "native": "حلفاية",
+    "timezone": "Asia/Damascus",
+    "population": 23403,
+    "population_year": null
   },
   {
     "id": 104998,
@@ -57,7 +77,12 @@
     "latitude": "35.28577000",
     "longitude": "37.12626000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2856152",
+    "type": "district",
+    "native": "منطقة حماة",
+    "timezone": "Asia/Damascus",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105076,
@@ -69,7 +94,12 @@
     "latitude": "35.13179000",
     "longitude": "36.75783000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q173545",
+    "type": "adm1",
+    "native": "حماة",
+    "timezone": "Asia/Damascus",
+    "population": 460602,
+    "population_year": null
   },
   {
     "id": 105018,
@@ -81,7 +111,12 @@
     "latitude": "35.37425000",
     "longitude": "36.60330000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6346221",
+    "type": "adm3",
+    "native": "كفر زيتا",
+    "timezone": "Asia/Damascus",
+    "population": 21845,
+    "population_year": null
   },
   {
     "id": 105030,
@@ -93,7 +128,12 @@
     "latitude": "35.06530000",
     "longitude": "36.34060000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q825818",
+    "type": "adm2",
+    "native": "مصيف",
+    "timezone": "Asia/Damascus",
+    "population": 32262,
+    "population_year": null
   },
   {
     "id": 105029,
@@ -105,7 +145,12 @@
     "latitude": "35.10335000",
     "longitude": "36.33920000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2586299",
+    "type": "district",
+    "native": "قضاء مصياف",
+    "timezone": "Asia/Damascus",
+    "population": 32262,
+    "population_year": null
   },
   {
     "id": 105036,
@@ -117,7 +162,12 @@
     "latitude": "35.37615000",
     "longitude": "36.68970000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "موراك",
+    "timezone": "Asia/Damascus",
+    "population": 14307,
+    "population_year": null
   },
   {
     "id": 105050,
@@ -129,7 +179,12 @@
     "latitude": "35.29193000",
     "longitude": "36.74848000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7645373",
+    "type": "adm3",
+    "native": "سوران",
+    "timezone": "Asia/Damascus",
+    "population": 30716,
+    "population_year": null
   },
   {
     "id": 105057,
@@ -141,7 +196,12 @@
     "latitude": "35.25884000",
     "longitude": "36.38461000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3265279",
+    "type": "adm3",
+    "native": "تل سلهب",
+    "timezone": "Asia/Damascus",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 105074,
@@ -153,7 +213,12 @@
     "latitude": "35.26592000",
     "longitude": "36.71219000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "طيبة الإمام",
+    "timezone": "Asia/Damascus",
+    "population": 29259,
+    "population_year": null
   },
   {
     "id": 105063,
@@ -165,6 +230,11 @@
     "latitude": "35.27181000",
     "longitude": "36.50395000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "تريمسه",
+    "timezone": "Asia/Damascus",
+    "population": 6927,
+    "population_year": null
   }
 ]

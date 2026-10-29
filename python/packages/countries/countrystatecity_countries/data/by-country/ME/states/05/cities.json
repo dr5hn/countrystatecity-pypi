@@ -9,7 +9,12 @@
     "latitude": "42.28639000",
     "longitude": "18.84000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Будва",
+    "timezone": "Europe/Podgorica",
+    "population": 18000,
+    "population_year": null
   },
   {
     "id": 67360,
@@ -21,6 +26,11 @@
     "latitude": "42.20556000",
     "longitude": "18.94250000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q990088",
+    "type": "city",
+    "native": "Петровац на мору",
+    "timezone": "Europe/Podgorica",
+    "population": 1485,
+    "population_year": null
   }
 ]

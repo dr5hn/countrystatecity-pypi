@@ -9,7 +9,12 @@
     "latitude": "52.39186000",
     "longitude": "-1.65040000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3633504",
+    "type": "city",
+    "native": "Balsall Common",
+    "timezone": "Europe/London",
+    "population": 7039,
+    "population_year": null
   },
   {
     "id": 48945,
@@ -21,7 +26,12 @@
     "latitude": "52.47810000",
     "longitude": "-1.73813000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5089980",
+    "type": "town",
+    "native": "Chelmsley Wood",
+    "timezone": "Europe/London",
+    "population": 13738,
+    "population_year": null
   },
   {
     "id": 49280,
@@ -33,7 +43,12 @@
     "latitude": "52.38568000",
     "longitude": "-1.83935000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5273619",
+    "type": "village",
+    "native": "Dickens Heath",
+    "timezone": "Europe/London",
+    "population": 4918,
+    "population_year": null
   },
   {
     "id": 49311,
@@ -45,7 +60,12 @@
     "latitude": "52.37259000",
     "longitude": "-1.75318000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3714394",
+    "type": "city",
+    "native": "Dorridge",
+    "timezone": "Europe/London",
+    "population": 7800,
+    "population_year": null
   },
   {
     "id": 49798,
@@ -57,7 +77,12 @@
     "latitude": "52.42540000",
     "longitude": "-1.70271000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1612062",
+    "type": "village",
+    "native": "Hampton in Arden",
+    "timezone": "Europe/London",
+    "population": 1692,
+    "population_year": null
   },
   {
     "id": 49954,
@@ -69,7 +94,12 @@
     "latitude": "52.35294000",
     "longitude": "-1.77816000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2407843",
+    "type": "village",
+    "native": "Hockley Heath",
+    "timezone": "Europe/London",
+    "population": 1899,
+    "population_year": null
   },
   {
     "id": 50221,
@@ -81,7 +111,12 @@
     "latitude": "52.38333000",
     "longitude": "-1.73333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Knowle",
+    "timezone": "Europe/London",
+    "population": 10823,
+    "population_year": null
   },
   {
     "id": 50552,
@@ -93,7 +128,12 @@
     "latitude": "52.43770000",
     "longitude": "-1.64366000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1747363",
+    "type": "village",
+    "native": "Meriden",
+    "timezone": "Europe/London",
+    "population": 1753,
+    "population_year": null
   },
   {
     "id": 51290,
@@ -105,18 +145,28 @@
     "latitude": "52.41074000",
     "longitude": "-1.81952000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7498670",
+    "type": "section",
+    "native": "Shirley",
+    "timezone": "Europe/London",
+    "population": 32000,
+    "population_year": null
   },
   {
-    "id": 51339,
+    "id": 166609,
     "name": "Solihull",
     "state_id": 2469,
     "state_code": "SOL",
     "country_id": 232,
     "country_code": "GB",
-    "latitude": "52.41667000",
-    "longitude": "-1.75000000",
+    "latitude": "52.41300000",
+    "longitude": "-1.77200000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Solihull",
+    "timezone": "Europe/London",
+    "population": 206674,
+    "population_year": null
   }
 ]

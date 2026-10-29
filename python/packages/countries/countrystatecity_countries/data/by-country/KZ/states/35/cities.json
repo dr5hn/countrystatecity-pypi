@@ -9,7 +9,12 @@
     "latitude": "49.63575000",
     "longitude": "72.86164000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q304827",
+    "type": "city",
+    "native": "Абай",
+    "timezone": "Asia/Almaty",
+    "population": 25550,
+    "population_year": null
   },
   {
     "id": 65595,
@@ -21,7 +26,12 @@
     "latitude": "49.63333000",
     "longitude": "72.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2283566",
+    "type": "city",
+    "native": "Абай қаласы",
+    "timezone": "Asia/Almaty",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 65601,
@@ -32,8 +42,13 @@
     "country_code": "KZ",
     "latitude": "48.76788000",
     "longitude": "73.67272000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13972,
+    "wikiDataId": "Q4059953",
+    "type": "village",
+    "native": "Ақсу-Аюлы",
+    "timezone": "Asia/Almaty",
+    "population": 4587,
+    "population_year": null
   },
   {
     "id": 65602,
@@ -45,7 +60,12 @@
     "latitude": "49.77952000",
     "longitude": "72.96128000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Ақтас",
+    "timezone": "Asia/Almaty",
+    "population": 9888,
+    "population_year": null
   },
   {
     "id": 65603,
@@ -57,7 +77,12 @@
     "latitude": "48.03333000",
     "longitude": "72.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Ақтау",
+    "timezone": "Asia/Almaty",
+    "population": 9977,
+    "population_year": null
   },
   {
     "id": 65606,
@@ -69,7 +94,12 @@
     "latitude": "48.16667000",
     "longitude": "75.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4060136",
+    "type": "village",
+    "native": "Ақтоғай",
+    "timezone": "Asia/Almaty",
+    "population": 3741,
+    "population_year": null
   },
   {
     "id": 65609,
@@ -80,8 +110,13 @@
     "country_code": "KZ",
     "latitude": "48.26014000",
     "longitude": "72.85851000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13972,
+    "wikiDataId": "Q27350591",
+    "type": "town",
+    "native": "Ақадыр",
+    "timezone": "Asia/Almaty",
+    "population": 9710,
+    "population_year": null
   },
   {
     "id": 65612,
@@ -92,8 +127,13 @@
     "country_code": "KZ",
     "latitude": "47.98917000",
     "longitude": "74.05750000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13972,
+    "wikiDataId": "Q622765",
+    "type": "town",
+    "native": "Ақшатау",
+    "timezone": "Asia/Almaty",
+    "population": 4899,
+    "population_year": null
   },
   {
     "id": 65614,
@@ -105,7 +145,12 @@
     "latitude": "48.50000000",
     "longitude": "74.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q612211",
+    "type": "county",
+    "native": "Ақтоғай ауданы",
+    "timezone": "Asia/Almaty",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65623,
@@ -117,7 +162,12 @@
     "latitude": "48.68659000",
     "longitude": "71.64469000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Атасу",
+    "timezone": "Asia/Almaty",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65634,
@@ -129,19 +179,29 @@
     "latitude": "46.84806000",
     "longitude": "74.99500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q805515",
+    "type": "city",
+    "native": "Балқаш",
+    "timezone": "Asia/Almaty",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 65653,
-    "name": "Bukhar-Zhyrau",
+    "id": 166304,
+    "name": "Botakara",
     "state_id": 150,
     "state_code": "35",
     "country_id": 112,
     "country_code": "KZ",
-    "latitude": "49.85658000",
-    "longitude": "73.68118000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "50.06111111",
+    "longitude": "73.71555556",
+    "county_id": 13968,
+    "wikiDataId": "Q12536184",
+    "type": "town",
+    "native": "Ботақара",
+    "timezone": "Asia/Almaty",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65666,
@@ -153,7 +213,12 @@
     "latitude": "49.67685000",
     "longitude": "72.67822000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1235605",
+    "type": "town",
+    "native": "Долинка",
+    "timezone": "Asia/Almaty",
+    "population": 4643,
+    "population_year": null
   },
   {
     "id": 65690,
@@ -165,7 +230,12 @@
     "latitude": "49.80187000",
     "longitude": "73.10211000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q484706",
+    "type": "city",
+    "native": "Қарағанды",
+    "timezone": "Asia/Almaty",
+    "population": 497777,
+    "population_year": null
   },
   {
     "id": 65711,
@@ -177,7 +247,12 @@
     "latitude": "50.26212000",
     "longitude": "71.54839000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Киевка",
+    "timezone": "Asia/Almaty",
+    "population": 7037,
+    "population_year": null
   },
   {
     "id": 65699,
@@ -189,7 +264,12 @@
     "latitude": "49.65000000",
     "longitude": "73.51667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Көктал",
+    "timezone": "Asia/Almaty",
+    "population": 1403,
+    "population_year": null
   },
   {
     "id": 65707,
@@ -200,8 +280,13 @@
     "country_code": "KZ",
     "latitude": "50.23091000",
     "longitude": "73.40146000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13968,
+    "wikiDataId": "Q2123695",
+    "type": "town",
+    "native": "Қушоқы",
+    "timezone": "Asia/Almaty",
+    "population": 3920,
+    "population_year": null
   },
   {
     "id": 65709,
@@ -212,8 +297,13 @@
     "country_code": "KZ",
     "latitude": "49.98197000",
     "longitude": "72.60761000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13968,
+    "wikiDataId": "Q27352124",
+    "type": "village",
+    "native": "Қызылжар",
+    "timezone": "Asia/Almaty",
+    "population": 1514,
+    "population_year": null
   },
   {
     "id": 65731,
@@ -224,8 +314,13 @@
     "country_code": "KZ",
     "latitude": "47.22111000",
     "longitude": "73.36694000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13972,
+    "wikiDataId": "Q1943146",
+    "type": "town",
+    "native": "Мойынты",
+    "timezone": "Asia/Almaty",
+    "population": 1860,
+    "population_year": null
   },
   {
     "id": 65735,
@@ -237,7 +332,12 @@
     "latitude": "49.70650000",
     "longitude": "72.70807000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2003656",
+    "type": "town",
+    "native": "Новодолинский",
+    "timezone": "Asia/Almaty",
+    "population": 5167,
+    "population_year": null
   },
   {
     "id": 65741,
@@ -248,8 +348,13 @@
     "country_code": "KZ",
     "latitude": "50.56219000",
     "longitude": "72.57089000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13971,
+    "wikiDataId": "Q2034590",
+    "type": "town",
+    "native": "Осакаровка",
+    "timezone": "Asia/Almaty",
+    "population": 7305,
+    "population_year": null
   },
   {
     "id": 65748,
@@ -261,7 +366,12 @@
     "latitude": "49.69244000",
     "longitude": "75.58438000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Пригородное",
+    "timezone": "Asia/Almaty",
+    "population": 3563,
+    "population_year": null
   },
   {
     "id": 65750,
@@ -273,7 +383,12 @@
     "latitude": "46.03106000",
     "longitude": "73.70247000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1019405",
+    "type": "city",
+    "native": "Приозерск",
+    "timezone": "Asia/Almaty",
+    "population": 13329,
+    "population_year": null
   },
   {
     "id": 65752,
@@ -285,7 +400,12 @@
     "latitude": "48.00627000",
     "longitude": "70.79607000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27352595",
+    "type": "adm2",
+    "native": "Қаражал",
+    "timezone": "Asia/Almaty",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65754,
@@ -296,8 +416,13 @@
     "country_code": "KZ",
     "latitude": "49.41287000",
     "longitude": "75.47286000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13969,
+    "wikiDataId": "Q1025808",
+    "type": "city",
+    "native": "Қарқаралы",
+    "timezone": "Asia/Almaty",
+    "population": 8195,
+    "population_year": null
   },
   {
     "id": 65768,
@@ -309,7 +434,12 @@
     "latitude": "46.11917000",
     "longitude": "73.61917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q262448",
+    "type": "town",
+    "native": "Сарышаған",
+    "timezone": "Asia/Almaty",
+    "population": 4365,
+    "population_year": null
   },
   {
     "id": 65770,
@@ -321,7 +451,12 @@
     "latitude": "47.00000000",
     "longitude": "77.26667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2213430",
+    "type": "town",
+    "native": "Саяқ",
+    "timezone": "Asia/Almaty",
+    "population": 4500,
+    "population_year": null
   },
   {
     "id": 65776,
@@ -333,7 +468,12 @@
     "latitude": "49.81958000",
     "longitude": "72.65407000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q285377",
+    "type": "town",
+    "native": "Шахан",
+    "timezone": "Asia/Almaty",
+    "population": 13273,
+    "population_year": null
   },
   {
     "id": 65777,
@@ -345,7 +485,12 @@
     "latitude": "49.70885000",
     "longitude": "72.59212000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1019377",
+    "type": "city",
+    "native": "Шахтинск",
+    "timezone": "Asia/Almaty",
+    "population": 41602,
+    "population_year": null
   },
   {
     "id": 65783,
@@ -357,7 +502,12 @@
     "latitude": "46.81694000",
     "longitude": "75.04028000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1416868",
+    "type": "town",
+    "native": "Шашубай",
+    "timezone": "Asia/Almaty",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65789,
@@ -368,8 +518,13 @@
     "country_code": "KZ",
     "latitude": "48.88222000",
     "longitude": "68.80722000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13970,
+    "wikiDataId": "Q4527126",
+    "type": "town",
+    "native": "Шұбаркөл",
+    "timezone": "Asia/Almaty",
+    "population": 1247,
+    "population_year": null
   },
   {
     "id": 65794,
@@ -381,7 +536,12 @@
     "latitude": "49.79080000",
     "longitude": "72.83744000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1703483",
+    "type": "city",
+    "native": "Соран",
+    "timezone": "Asia/Almaty",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65810,
@@ -393,7 +553,12 @@
     "latitude": "50.05494000",
     "longitude": "72.96464000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1001104",
+    "type": "city",
+    "native": "Теміртау",
+    "timezone": "Asia/Almaty",
+    "population": 296523,
+    "population_year": null
   },
   {
     "id": 65814,
@@ -405,7 +570,12 @@
     "latitude": "50.11573000",
     "longitude": "73.16034000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Токаревка",
+    "timezone": "Asia/Almaty",
+    "population": 4098,
+    "population_year": null
   },
   {
     "id": 65825,
@@ -416,8 +586,13 @@
     "country_code": "KZ",
     "latitude": "48.68333000",
     "longitude": "73.28333000",
-    "county_id": null,
-    "wikiDataId": null
+    "county_id": 13972,
+    "wikiDataId": "Q4108583",
+    "type": "village",
+    "native": "Жоғарғы Қайрақты",
+    "timezone": "Asia/Almaty",
+    "population": 1158,
+    "population_year": null
   },
   {
     "id": 65836,
@@ -429,7 +604,12 @@
     "latitude": "47.20694000",
     "longitude": "71.39694000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Жамбыл",
+    "timezone": "Asia/Almaty",
+    "population": 23397,
+    "population_year": null
   },
   {
     "id": 65842,
@@ -441,7 +621,12 @@
     "latitude": "48.85692000",
     "longitude": "72.83598000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Жарық",
+    "timezone": "Asia/Almaty",
+    "population": 2940,
+    "population_year": null
   },
   {
     "id": 65846,
@@ -453,6 +638,11 @@
     "latitude": "47.78333000",
     "longitude": "67.76667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q740832",
+    "type": "city",
+    "native": "Жезқазған",
+    "timezone": "Asia/Almaty",
+    "population": null,
+    "population_year": null
   }
 ]

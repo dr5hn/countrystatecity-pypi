@@ -9,7 +9,12 @@
     "latitude": "32.75221000",
     "longitude": "69.04587000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6596821",
+    "type": "city",
+    "native": "سروبي",
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164367,
@@ -21,7 +26,12 @@
     "latitude": "32.93742000",
     "longitude": "68.64622000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q8046926",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 134,
@@ -33,7 +43,12 @@
     "latitude": "33.14641000",
     "longitude": "68.79213000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2615863",
+    "type": "city",
+    "native": "زرعه شران",
+    "timezone": "Asia/Kabul",
+    "population": 7366,
+    "population_year": null
   },
   {
     "id": 133,
@@ -45,6 +60,11 @@
     "latitude": "32.84734000",
     "longitude": "68.44573000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21737614",
+    "type": "city",
+    "native": "زرغون ښار",
+    "timezone": "Asia/Kabul",
+    "population": 13737,
+    "population_year": null
   }
 ]

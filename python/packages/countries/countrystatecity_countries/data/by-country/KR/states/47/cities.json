@@ -9,7 +9,12 @@
     "latitude": "36.56667000",
     "longitude": "128.71667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42116",
+    "type": "city",
+    "native": "안동시",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65260,
@@ -21,7 +26,12 @@
     "latitude": "36.56636000",
     "longitude": "128.72275000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42116",
+    "type": "adm1",
+    "native": "안동",
+    "timezone": "Asia/Seoul",
+    "population": 153306,
+    "population_year": null
   },
   {
     "id": 65269,
@@ -33,7 +43,12 @@
     "latitude": "36.88951000",
     "longitude": "128.73573000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50245",
+    "type": "county",
+    "native": "봉화군",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65288,
@@ -45,7 +60,12 @@
     "latitude": "35.67166000",
     "longitude": "128.78509000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "청도군",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65290,
@@ -57,7 +77,12 @@
     "latitude": "36.43351000",
     "longitude": "129.05700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "청송군",
+    "timezone": "Asia/Seoul",
+    "population": 31313,
+    "population_year": null
   },
   {
     "id": 65294,
@@ -69,7 +94,12 @@
     "latitude": "36.01512000",
     "longitude": "128.46138000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50334",
+    "type": "adm3",
+    "native": "칠곡군",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65314,
@@ -81,7 +111,12 @@
     "latitude": "36.82167000",
     "longitude": "128.63083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "아이젠",
+    "timezone": "Asia/Seoul",
+    "population": 56006,
+    "population_year": null
   },
   {
     "id": 65335,
@@ -93,7 +128,12 @@
     "latitude": "36.12176000",
     "longitude": "128.11981000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42078",
+    "type": "city",
+    "native": "김천",
+    "timezone": "Asia/Seoul",
+    "population": 137540,
+    "population_year": null
   },
   {
     "id": 65336,
@@ -105,7 +145,12 @@
     "latitude": "36.14481000",
     "longitude": "128.11157000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42078",
+    "type": "city",
+    "native": "김천시",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65346,
@@ -117,7 +162,12 @@
     "latitude": "35.74959000",
     "longitude": "128.29707000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "고령군",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65351,
@@ -129,19 +179,12 @@
     "latitude": "36.21009000",
     "longitude": "128.35442000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 65355,
-    "name": "Gunwi-gun",
-    "state_id": 3855,
-    "state_code": "47",
-    "country_id": 116,
-    "country_code": "KR",
-    "latitude": "36.16995000",
-    "longitude": "128.64705000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42073",
+    "type": "city",
+    "native": "구미시",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65369,
@@ -153,7 +196,12 @@
     "latitude": "35.84278000",
     "longitude": "129.21167000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42097",
+    "type": "city",
+    "native": "경주",
+    "timezone": "Asia/Seoul",
+    "population": 248244,
+    "population_year": null
   },
   {
     "id": 65370,
@@ -165,7 +213,12 @@
     "latitude": "35.83333000",
     "longitude": "128.80000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "경산시",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65381,
@@ -177,7 +230,12 @@
     "latitude": "35.91333000",
     "longitude": "128.82000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "하양",
+    "timezone": "Asia/Seoul",
+    "population": 27236,
+    "population_year": null
   },
   {
     "id": 65382,
@@ -189,7 +247,12 @@
     "latitude": "36.10945000",
     "longitude": "129.34517000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "흥해",
+    "timezone": "Asia/Seoul",
+    "population": 36080,
+    "population_year": null
   },
   {
     "id": 65408,
@@ -201,19 +264,12 @@
     "latitude": "36.24083000",
     "longitude": "128.29750000",
     "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 65431,
-    "name": "Kunwi",
-    "state_id": 3855,
-    "state_code": "47",
-    "country_id": 116,
-    "country_code": "KR",
-    "latitude": "36.23472000",
-    "longitude": "128.57278000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "젠잔",
+    "timezone": "Asia/Seoul",
+    "population": 20673,
+    "population_year": null
   },
   {
     "id": 65446,
@@ -225,7 +281,12 @@
     "latitude": "36.59458000",
     "longitude": "128.19946000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42095",
+    "type": "city",
+    "native": "문경",
+    "timezone": "Asia/Seoul",
+    "population": 71863,
+    "population_year": null
   },
   {
     "id": 65447,
@@ -237,7 +298,12 @@
     "latitude": "36.58755000",
     "longitude": "128.18624000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42095",
+    "type": "city",
+    "native": "문경시",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65469,
@@ -249,7 +315,12 @@
     "latitude": "36.02917000",
     "longitude": "129.36481000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42157",
+    "type": "adm2",
+    "native": "포항",
+    "timezone": "Asia/Seoul",
+    "population": 503780,
+    "population_year": null
   },
   {
     "id": 65470,
@@ -261,7 +332,12 @@
     "latitude": "36.08333000",
     "longitude": "129.36667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42157",
+    "type": "city",
+    "native": "포항시",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65480,
@@ -273,7 +349,12 @@
     "latitude": "36.41528000",
     "longitude": "128.16056000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42163",
+    "type": "city",
+    "native": "상주",
+    "timezone": "Asia/Seoul",
+    "population": 102892,
+    "population_year": null
   },
   {
     "id": 65494,
@@ -285,7 +366,12 @@
     "latitude": "35.91888000",
     "longitude": "128.28838000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "성주군",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65522,
@@ -297,7 +383,12 @@
     "latitude": "36.36122000",
     "longitude": "128.61517000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "의성군",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65524,
@@ -309,7 +400,12 @@
     "latitude": "36.91968000",
     "longitude": "129.31966000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "울진군",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65526,
@@ -321,7 +417,12 @@
     "latitude": "37.50442000",
     "longitude": "130.86084000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q485570",
+    "type": "county",
+    "native": "울릉군",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65530,
@@ -333,7 +434,12 @@
     "latitude": "35.99251000",
     "longitude": "128.39785000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "왜관",
+    "timezone": "Asia/Seoul",
+    "population": 29691,
+    "population_year": null
   },
   {
     "id": 65544,
@@ -345,7 +451,12 @@
     "latitude": "36.65272000",
     "longitude": "128.43007000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50308",
+    "type": "county",
+    "native": "예천군",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65549,
@@ -357,7 +468,12 @@
     "latitude": "36.00000000",
     "longitude": "129.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "영천시",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65550,
@@ -369,7 +485,12 @@
     "latitude": "36.48125000",
     "longitude": "129.31078000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50260",
+    "type": "county",
+    "native": "영덕군",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65557,
@@ -381,7 +502,12 @@
     "latitude": "36.87459000",
     "longitude": "128.58631000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "영주시",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65558,
@@ -393,7 +519,12 @@
     "latitude": "36.69592000",
     "longitude": "129.14196000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50263",
+    "type": "county",
+    "native": "영양군",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65559,
@@ -405,6 +536,11 @@
     "latitude": "35.99526000",
     "longitude": "129.35162000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "연일",
+    "timezone": "Asia/Seoul",
+    "population": 0,
+    "population_year": null
   }
 ]

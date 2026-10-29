@@ -9,10 +9,15 @@
     "latitude": "-5.42917000",
     "longitude": "105.26111000",
     "county_id": 8505,
-    "wikiDataId": null
+    "wikiDataId": "Q8156",
+    "type": "city",
+    "native": "Bandar Lampung",
+    "timezone": "Asia/Jakarta",
+    "population": 1166761,
+    "population_year": null
   },
   {
-    "id": 56691,
+    "id": 166846,
     "name": "Blambangan Umpu",
     "state_id": 1811,
     "state_code": "LA",
@@ -21,10 +26,15 @@
     "latitude": "-4.50263000",
     "longitude": "104.51926000",
     "county_id": 8499,
-    "wikiDataId": null
+    "wikiDataId": "Q138791025",
+    "type": "town",
+    "native": "Blambangan Umpu",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56590,
+    "id": 166796,
     "name": "Gedong Tataan",
     "state_id": 1811,
     "state_code": "LA",
@@ -33,10 +43,49 @@
     "latitude": "-5.38270000",
     "longitude": "105.09550000",
     "county_id": 8500,
-    "wikiDataId": null
+    "wikiDataId": "Q138791084",
+    "type": "town",
+    "native": "Gedong Tataan",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56667,
+    "id": 166726,
+    "name": "Gunung Sugih",
+    "state_id": 1811,
+    "state_code": "LA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-4.97530000",
+    "longitude": "105.21396000",
+    "county_id": 8493,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Gunung Sugih",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166725,
+    "name": "Kalianda",
+    "state_id": 1811,
+    "state_code": "LA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-5.73805000",
+    "longitude": "105.59160000",
+    "county_id": 8492,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Kalianda",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
+  },
+  {
+    "id": 166835,
     "name": "Kota Agung",
     "state_id": 1811,
     "state_code": "LA",
@@ -45,7 +94,12 @@
     "latitude": "-5.48064970",
     "longitude": "104.68240992",
     "county_id": 8497,
-    "wikiDataId": null
+    "wikiDataId": "Q13148790",
+    "type": "town",
+    "native": "Kota Agung",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56817,
@@ -57,10 +111,15 @@
     "latitude": "-4.82505000",
     "longitude": "104.88170000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Kotabumi",
+    "timezone": "Asia/Jakarta",
+    "population": 42366,
+    "population_year": null
   },
   {
-    "id": 56591,
+    "id": 166797,
     "name": "Krui",
     "state_id": 1811,
     "state_code": "LA",
@@ -69,43 +128,12 @@
     "latitude": "-5.18888889",
     "longitude": "103.93611111",
     "county_id": 8504,
-    "wikiDataId": null
-  },
-  {
-    "id": 56485,
-    "name": "Lampung Selatan",
-    "state_id": 1811,
-    "state_code": "LA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-5.45310000",
-    "longitude": "104.98770000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56486,
-    "name": "Lampung Tengah",
-    "state_id": 1811,
-    "state_code": "LA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-4.86667000",
-    "longitude": "105.26667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56488,
-    "name": "Lampung Utara",
-    "state_id": 1811,
-    "state_code": "LA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-4.81667000",
-    "longitude": "104.80000000",
-    "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12492668",
+    "type": "town",
+    "native": "Krui",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164817,
@@ -117,10 +145,15 @@
     "latitude": "-5.03554000",
     "longitude": "104.07595000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12495023",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56687,
+    "id": 166844,
     "name": "Menggala",
     "state_id": 1811,
     "state_code": "LA",
@@ -129,7 +162,12 @@
     "latitude": "-4.49487225",
     "longitude": "105.22010630",
     "county_id": 8496,
-    "wikiDataId": null
+    "wikiDataId": "Q26757786",
+    "type": "town",
+    "native": "Menggala",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56534,
@@ -141,7 +179,12 @@
     "latitude": "-4.04390000",
     "longitude": "105.40130000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q8139",
+    "type": "regency",
+    "native": "Kabupaten Mesuji",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56871,
@@ -153,22 +196,32 @@
     "latitude": "-5.11306000",
     "longitude": "105.30667000",
     "county_id": 8506,
-    "wikiDataId": null
+    "wikiDataId": "Q8158",
+    "type": "city",
+    "native": "Metro",
+    "timezone": "Asia/Jakarta",
+    "population": 161799,
+    "population_year": null
   },
   {
-    "id": 56599,
+    "id": 166800,
     "name": "Pringsewu",
     "state_id": 1811,
     "state_code": "LA",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-5.42211000",
-    "longitude": "104.93454000",
-    "county_id": null,
-    "wikiDataId": null
+    "latitude": "-5.35822000",
+    "longitude": "104.97441000",
+    "county_id": 8501,
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Pringsewu",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
-    "id": 56487,
+    "id": 166727,
     "name": "Sukadana",
     "state_id": 1811,
     "state_code": "LA",
@@ -177,7 +230,12 @@
     "latitude": "-5.06446000",
     "longitude": "105.54869000",
     "county_id": 8498,
-    "wikiDataId": null
+    "wikiDataId": "Q138791026",
+    "type": "town",
+    "native": "Sukadana",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 57031,
@@ -189,6 +247,11 @@
     "latitude": "-4.87898000",
     "longitude": "105.21818000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Terbanggi Besar",
+    "timezone": "Asia/Jakarta",
+    "population": 52566,
+    "population_year": null
   }
 ]

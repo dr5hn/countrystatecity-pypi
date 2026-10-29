@@ -9,7 +9,12 @@
     "latitude": "47.70694000",
     "longitude": "106.95278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q917690",
+    "type": "adm1",
+    "native": "Зуунмод",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 16953,
+    "population_year": null
   },
   {
     "id": 67727,
@@ -21,7 +26,12 @@
     "latitude": "48.19504000",
     "longitude": "108.48295000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3403761",
+    "type": "area",
+    "native": "Мөнхморьт",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 67737,
@@ -33,7 +43,12 @@
     "latitude": "47.33333000",
     "longitude": "104.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Улаанхудаг",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 1500,
+    "population_year": null
   },
   {
     "id": 153783,
@@ -45,7 +60,12 @@
     "latitude": "47.89176240",
     "longitude": "106.73706000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23430",
+    "type": "city",
+    "native": "Улаанбаатар",
+    "timezone": "Asia/Choibalsan",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 67742,
@@ -57,6 +77,11 @@
     "latitude": "47.70693000",
     "longitude": "106.95276000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Зуунмод",
+    "timezone": "Asia/Ulaanbaatar",
+    "population": 16953,
+    "population_year": null
   }
 ]
