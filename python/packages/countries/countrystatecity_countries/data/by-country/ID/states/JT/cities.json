@@ -60,15 +60,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56336,
+    "id": 166635,
     "name": "Banjarnegara",
     "state_id": 1802,
     "state_code": "JT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.35111000",
-    "longitude": "109.58750000",
-    "county_id": null,
+    "latitude": "-7.39611000",
+    "longitude": "109.69611000",
+    "county_id": 8555,
     "wikiDataId": null
   },
   {
@@ -132,15 +132,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56378,
+    "id": 166659,
     "name": "Brebes",
     "state_id": 1802,
     "state_code": "JT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.05000000",
-    "longitude": "108.90000000",
-    "county_id": null,
+    "latitude": "-6.86910000",
+    "longitude": "109.03780000",
+    "county_id": 8580,
     "wikiDataId": null
   },
   {
@@ -204,7 +204,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56392,
+    "id": 166670,
     "name": "Cilacap",
     "state_id": 1802,
     "state_code": "JT",
@@ -312,18 +312,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56413,
-    "name": "Grobogan",
-    "state_id": 1802,
-    "state_code": "JT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.11667000",
-    "longitude": "110.91667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 56288,
     "name": "Grogol",
     "state_id": 1802,
@@ -384,15 +372,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56433,
+    "id": 166694,
     "name": "Jepara",
     "state_id": 1802,
     "state_code": "JT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-6.58333000",
-    "longitude": "110.76667000",
-    "county_id": null,
+    "latitude": "-6.59240000",
+    "longitude": "110.67100000",
+    "county_id": 8571,
     "wikiDataId": null
   },
   {
@@ -432,147 +420,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56364,
-    "name": "Kabupaten Blora",
+    "id": 166792,
+    "name": "Kajen",
     "state_id": 1802,
     "state_code": "JT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.06667000",
-    "longitude": "111.38333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56377,
-    "name": "Kabupaten Boyolali",
-    "state_id": 1802,
-    "state_code": "JT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.50000000",
-    "longitude": "110.70000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56397,
-    "name": "Kabupaten Demak",
-    "state_id": 1802,
-    "state_code": "JT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-6.89930000",
-    "longitude": "110.61220000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56459,
-    "name": "Kabupaten Klaten",
-    "state_id": 1802,
-    "state_code": "JT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.68333000",
-    "longitude": "110.61667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56472,
-    "name": "Kabupaten Kudus",
-    "state_id": 1802,
-    "state_code": "JT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-6.80000000",
-    "longitude": "110.86667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56505,
-    "name": "Kabupaten Magelang",
-    "state_id": 1802,
-    "state_code": "JT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.42750000",
-    "longitude": "110.16194000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56583,
-    "name": "Kabupaten Pati",
-    "state_id": 1802,
-    "state_code": "JT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-6.76667000",
-    "longitude": "111.10000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56585,
-    "name": "Kabupaten Pekalongan",
-    "state_id": 1802,
-    "state_code": "JT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.03190000",
-    "longitude": "109.62400000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56605,
-    "name": "Kabupaten Purbalingga",
-    "state_id": 1802,
-    "state_code": "JT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.28417000",
-    "longitude": "109.35028000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56643,
-    "name": "Kabupaten Sragen",
-    "state_id": 1802,
-    "state_code": "JT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.41278000",
-    "longitude": "110.93500000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56676,
-    "name": "Kabupaten Tegal",
-    "state_id": 1802,
-    "state_code": "JT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.03333000",
-    "longitude": "109.16667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56693,
-    "name": "Kabupaten Wonosobo",
-    "state_id": 1802,
-    "state_code": "JT",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.36139000",
-    "longitude": "109.92667000",
-    "county_id": null,
+    "latitude": "-7.03240000",
+    "longitude": "109.57730000",
+    "county_id": 8577,
     "wikiDataId": null
   },
   {
@@ -588,15 +444,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56439,
+    "id": 166696,
     "name": "Karanganyar",
     "state_id": 1802,
     "state_code": "JT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.62806000",
-    "longitude": "111.06250000",
-    "county_id": null,
+    "latitude": "-7.59833000",
+    "longitude": "110.94444000",
+    "county_id": 8564,
     "wikiDataId": null
   },
   {
@@ -624,15 +480,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56445,
+    "id": 166700,
     "name": "Kebumen",
     "state_id": 1802,
     "state_code": "JT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.63917000",
-    "longitude": "109.66056000",
-    "county_id": null,
+    "latitude": "-7.66861000",
+    "longitude": "109.65361000",
+    "county_id": 8556,
     "wikiDataId": null
   },
   {
@@ -648,15 +504,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56448,
+    "id": 166702,
     "name": "Kendal",
     "state_id": 1802,
     "state_code": "JT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.02560000",
-    "longitude": "110.16850000",
-    "county_id": null,
+    "latitude": "-6.92130000",
+    "longitude": "110.20220000",
+    "county_id": 8575,
     "wikiDataId": null
   },
   {
@@ -816,6 +672,18 @@
     "wikiDataId": null
   },
   {
+    "id": 166740,
+    "name": "Mungkid",
+    "state_id": 1802,
+    "state_code": "JT",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-7.59250000",
+    "longitude": "110.21889000",
+    "county_id": 8559,
+    "wikiDataId": null
+  },
+  {
     "id": 56880,
     "name": "Muntilan",
     "state_id": 1802,
@@ -924,15 +792,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56607,
+    "id": 166803,
     "name": "Purworejo",
     "state_id": 1802,
     "state_code": "JT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.70000000",
-    "longitude": "109.96667000",
-    "county_id": null,
+    "latitude": "-7.71139000",
+    "longitude": "110.01028000",
+    "county_id": 8557,
     "wikiDataId": null
   },
   {
@@ -948,15 +816,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56610,
+    "id": 166805,
     "name": "Rembang",
     "state_id": 1802,
     "state_code": "JT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-6.78333000",
-    "longitude": "111.46667000",
-    "county_id": null,
+    "latitude": "-6.70700000",
+    "longitude": "111.34980000",
+    "county_id": 8568,
     "wikiDataId": null
   },
   {
@@ -980,7 +848,7 @@
     "country_code": "ID",
     "latitude": "-7.33194000",
     "longitude": "110.49278000",
-    "county_id": null,
+    "county_id": 8583,
     "wikiDataId": null
   },
   {
@@ -1056,15 +924,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56647,
+    "id": 166822,
     "name": "Sukoharjo",
     "state_id": 1802,
     "state_code": "JT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.68333000",
-    "longitude": "110.83333000",
-    "county_id": null,
+    "latitude": "-7.67250000",
+    "longitude": "110.83806000",
+    "county_id": 8562,
     "wikiDataId": null
   },
   {
@@ -1116,15 +984,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56679,
+    "id": 166841,
     "name": "Temanggung",
     "state_id": 1802,
     "state_code": "JT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.25000000",
-    "longitude": "110.11667000",
-    "county_id": null,
+    "latitude": "-7.31917000",
+    "longitude": "110.19278000",
+    "county_id": 8574,
     "wikiDataId": null
   },
   {
@@ -1212,15 +1080,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56692,
+    "id": 166847,
     "name": "Wonogiri",
     "state_id": 1802,
     "state_code": "JT",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.91667000",
-    "longitude": "111.00000000",
-    "county_id": null,
+    "latitude": "-7.81444000",
+    "longitude": "110.92056000",
+    "county_id": 8563,
     "wikiDataId": null
   },
   {

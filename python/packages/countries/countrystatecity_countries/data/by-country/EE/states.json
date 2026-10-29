@@ -156,19 +156,6 @@
     "timezone": "Europe/Tallinn"
   },
   {
-    "id": 3566,
-    "name": "Järva",
-    "country_id": 69,
-    "country_code": "EE",
-    "state_code": "52",
-    "type": "county",
-    "latitude": "58.41333570",
-    "longitude": "24.64773500",
-    "iso3166_2": "EE-52",
-    "native": "Järva",
-    "timezone": "Europe/Tallinn"
-  },
-  {
     "id": 5747,
     "name": "Järva",
     "country_id": 69,
@@ -178,6 +165,19 @@
     "latitude": "59.00000000",
     "longitude": "25.86670000",
     "iso3166_2": "EE-255",
+    "native": "Järva",
+    "timezone": "Europe/Tallinn"
+  },
+  {
+    "id": 3566,
+    "name": "Järva",
+    "country_id": 69,
+    "country_code": "EE",
+    "state_code": "52",
+    "type": "county",
+    "latitude": "58.41333570",
+    "longitude": "24.64773500",
+    "iso3166_2": "EE-52",
     "native": "Järva",
     "timezone": "Europe/Tallinn"
   },
@@ -221,16 +221,16 @@
     "timezone": "Europe/Tallinn"
   },
   {
-    "id": 5746,
+    "id": 5855,
     "name": "Jõhvi",
     "country_id": 69,
     "country_code": "EE",
-    "state_code": "251",
+    "state_code": "250",
     "type": "rural municipality",
-    "latitude": "59.35830000",
-    "longitude": "27.42330000",
-    "iso3166_2": "EE-251",
-    "native": "Jõhvi",
+    "latitude": "59.35917000",
+    "longitude": "27.42111000",
+    "iso3166_2": "EE-250",
+    "native": "Jõhvi vald",
     "timezone": "Europe/Tallinn"
   },
   {
@@ -624,19 +624,6 @@
     "timezone": "Europe/Tallinn"
   },
   {
-    "id": 3562,
-    "name": "Pärnu",
-    "country_id": 69,
-    "country_code": "EE",
-    "state_code": "68",
-    "type": "county",
-    "latitude": "58.38708330",
-    "longitude": "24.50283100",
-    "iso3166_2": "EE-68",
-    "native": "Pärnu",
-    "timezone": "Europe/Tallinn"
-  },
-  {
     "id": 5808,
     "name": "Pärnu",
     "country_id": 69,
@@ -646,6 +633,19 @@
     "latitude": "58.38060000",
     "longitude": "24.49890000",
     "iso3166_2": "EE-624",
+    "native": "Pärnu",
+    "timezone": "Europe/Tallinn"
+  },
+  {
+    "id": 3562,
+    "name": "Pärnu",
+    "country_id": 69,
+    "country_code": "EE",
+    "state_code": "68",
+    "type": "county",
+    "latitude": "58.38708330",
+    "longitude": "24.50283100",
+    "iso3166_2": "EE-68",
     "native": "Pärnu",
     "timezone": "Europe/Tallinn"
   },
@@ -793,19 +793,6 @@
     "timezone": "Europe/Tallinn"
   },
   {
-    "id": 5777,
-    "name": "Rapla",
-    "country_id": 69,
-    "country_code": "EE",
-    "state_code": "668",
-    "type": "rural municipality",
-    "latitude": "58.98330000",
-    "longitude": "24.80000000",
-    "iso3166_2": "EE-668",
-    "native": "Rapla",
-    "timezone": "Europe/Tallinn"
-  },
-  {
     "id": 3559,
     "name": "Rapla",
     "country_id": 69,
@@ -815,6 +802,19 @@
     "latitude": "58.94197810",
     "longitude": "24.69840420",
     "iso3166_2": "EE-71",
+    "native": "Rapla",
+    "timezone": "Europe/Tallinn"
+  },
+  {
+    "id": 5777,
+    "name": "Rapla",
+    "country_id": 69,
+    "country_code": "EE",
+    "state_code": "668",
+    "type": "rural municipality",
+    "latitude": "58.98330000",
+    "longitude": "24.80000000",
+    "iso3166_2": "EE-668",
     "native": "Rapla",
     "timezone": "Europe/Tallinn"
   },
@@ -962,19 +962,6 @@
     "timezone": "Europe/Tallinn"
   },
   {
-    "id": 5812,
-    "name": "Tartu",
-    "country_id": 69,
-    "country_code": "EE",
-    "state_code": "793",
-    "type": "urban municipality",
-    "latitude": "58.37800000",
-    "longitude": "26.72900000",
-    "iso3166_2": "EE-793",
-    "native": "Tartu",
-    "timezone": "Europe/Tallinn"
-  },
-  {
     "id": 3557,
     "name": "Tartu",
     "country_id": 69,
@@ -984,6 +971,19 @@
     "latitude": "58.38012070",
     "longitude": "26.72245000",
     "iso3166_2": "EE-79",
+    "native": "Tartu",
+    "timezone": "Europe/Tallinn"
+  },
+  {
+    "id": 5812,
+    "name": "Tartu",
+    "country_id": 69,
+    "country_code": "EE",
+    "state_code": "793",
+    "type": "urban municipality",
+    "latitude": "58.37800000",
+    "longitude": "26.72900000",
+    "iso3166_2": "EE-793",
     "native": "Tartu",
     "timezone": "Europe/Tallinn"
   },
@@ -998,19 +998,6 @@
     "longitude": "26.72900000",
     "iso3166_2": "EE-796",
     "native": "Tartu",
-    "timezone": "Europe/Tallinn"
-  },
-  {
-    "id": 5788,
-    "name": "Toila",
-    "country_id": 69,
-    "country_code": "EE",
-    "state_code": "803",
-    "type": "rural municipality",
-    "latitude": "59.41670000",
-    "longitude": "27.51670000",
-    "iso3166_2": "EE-803",
-    "native": "Toila",
     "timezone": "Europe/Tallinn"
   },
   {
@@ -1105,6 +1092,19 @@
     "timezone": "Europe/Tallinn"
   },
   {
+    "id": 5794,
+    "name": "Viljandi",
+    "country_id": 69,
+    "country_code": "EE",
+    "state_code": "899",
+    "type": "rural municipality",
+    "latitude": "58.36390000",
+    "longitude": "25.59000000",
+    "iso3166_2": "EE-899",
+    "native": "Viljandi",
+    "timezone": "Europe/Tallinn"
+  },
+  {
     "id": 5813,
     "name": "Viljandi",
     "country_id": 69,
@@ -1127,19 +1127,6 @@
     "latitude": "58.36454000",
     "longitude": "25.58780740",
     "iso3166_2": "EE-84",
-    "native": "Viljandi",
-    "timezone": "Europe/Tallinn"
-  },
-  {
-    "id": 5794,
-    "name": "Viljandi",
-    "country_id": 69,
-    "country_code": "EE",
-    "state_code": "899",
-    "type": "rural municipality",
-    "latitude": "58.36390000",
-    "longitude": "25.59000000",
-    "iso3166_2": "EE-899",
     "native": "Viljandi",
     "timezone": "Europe/Tallinn"
   },
@@ -1183,19 +1170,6 @@
     "timezone": "Europe/Tallinn"
   },
   {
-    "id": 5798,
-    "name": "Võru",
-    "country_id": 69,
-    "country_code": "EE",
-    "state_code": "917",
-    "type": "rural municipality",
-    "latitude": "57.84310000",
-    "longitude": "27.01420000",
-    "iso3166_2": "EE-917",
-    "native": "Võru",
-    "timezone": "Europe/Tallinn"
-  },
-  {
     "id": 3560,
     "name": "Võru",
     "country_id": 69,
@@ -1205,6 +1179,19 @@
     "latitude": "57.81326070",
     "longitude": "26.98475760",
     "iso3166_2": "EE-87",
+    "native": "Võru",
+    "timezone": "Europe/Tallinn"
+  },
+  {
+    "id": 5798,
+    "name": "Võru",
+    "country_id": 69,
+    "country_code": "EE",
+    "state_code": "917",
+    "type": "rural municipality",
+    "latitude": "57.84310000",
+    "longitude": "27.01420000",
+    "iso3166_2": "EE-917",
     "native": "Võru",
     "timezone": "Europe/Tallinn"
   },

@@ -1,77 +1,5 @@
 [
   {
-    "id": 56308,
-    "name": "Aceh Barat Daya",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "3.83333000",
-    "longitude": "96.88333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56309,
-    "name": "Aceh Besar",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "5.38333000",
-    "longitude": "95.51667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56312,
-    "name": "Aceh Singkil",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "2.41667000",
-    "longitude": "97.91667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56313,
-    "name": "Aceh Tamiang",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.25000000",
-    "longitude": "97.96667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56314,
-    "name": "Aceh Tengah",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.51000000",
-    "longitude": "96.85500000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56316,
-    "name": "Aceh Timur",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.63333000",
-    "longitude": "97.63333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 56193,
     "name": "Banda Aceh",
     "state_id": 1822,
@@ -81,18 +9,6 @@
     "latitude": "5.54167000",
     "longitude": "95.33333000",
     "county_id": 8385,
-    "wikiDataId": null
-  },
-  {
-    "id": 56362,
-    "name": "Bireuen",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "5.08333000",
-    "longitude": "96.58333000",
-    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -108,6 +24,30 @@
     "wikiDataId": null
   },
   {
+    "id": 166680,
+    "name": "Blangkejeren",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "3.99710000",
+    "longitude": "97.33840000",
+    "county_id": 8379,
+    "wikiDataId": null
+  },
+  {
+    "id": 166617,
+    "name": "Blangpidie",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "3.73956000",
+    "longitude": "96.83608000",
+    "county_id": 8378,
+    "wikiDataId": null
+  },
+  {
     "id": 164815,
     "name": "Calang",
     "state_id": 1822,
@@ -120,19 +60,43 @@
     "wikiDataId": null
   },
   {
-    "id": 56408,
-    "name": "Gayo Lues",
+    "id": 166623,
+    "name": "Idi Rayeuk",
     "state_id": 1822,
     "state_code": "AC",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "3.95000000",
-    "longitude": "97.39000000",
-    "county_id": null,
+    "latitude": "4.94952000",
+    "longitude": "97.77267000",
+    "county_id": 8369,
     "wikiDataId": null
   },
   {
-    "id": 56315,
+    "id": 166618,
+    "name": "Jantho",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "5.29680000",
+    "longitude": "95.63580000",
+    "county_id": 8372,
+    "wikiDataId": null
+  },
+  {
+    "id": 166620,
+    "name": "Karang Baru",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "4.30563000",
+    "longitude": "98.02709000",
+    "county_id": 8382,
+    "wikiDataId": null
+  },
+  {
+    "id": 166622,
     "name": "Kutacane",
     "state_id": 1822,
     "state_code": "AC",
@@ -168,7 +132,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56317,
+    "id": 166624,
     "name": "Lhoksukon",
     "state_id": 1822,
     "state_code": "AC",
@@ -188,30 +152,6 @@
     "country_code": "ID",
     "latitude": "4.14402000",
     "longitude": "96.12664000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56552,
-    "name": "Nagan Raya",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "4.16667000",
-    "longitude": "96.51667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56593,
-    "name": "Pidie",
-    "state_id": 1822,
-    "state_code": "AC",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "5.08000000",
-    "longitude": "96.11000000",
     "county_id": null,
     "wikiDataId": null
   },
@@ -288,7 +228,31 @@
     "wikiDataId": null
   },
   {
-    "id": 56311,
+    "id": 166769,
+    "name": "Suka Makmue",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "4.00312000",
+    "longitude": "96.61762000",
+    "county_id": 8381,
+    "wikiDataId": null
+  },
+  {
+    "id": 166621,
+    "name": "Takengon",
+    "state_id": 1822,
+    "state_code": "AC",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "4.62120000",
+    "longitude": "96.84670000",
+    "county_id": 8370,
+    "wikiDataId": null
+  },
+  {
+    "id": 166619,
     "name": "Tapaktuan",
     "state_id": 1822,
     "state_code": "AC",

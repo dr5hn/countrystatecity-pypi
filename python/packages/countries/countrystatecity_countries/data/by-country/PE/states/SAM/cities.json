@@ -72,27 +72,15 @@
     "wikiDataId": null
   },
   {
-    "id": 80852,
+    "id": 166893,
     "name": "Lamas",
     "state_id": 3694,
     "state_code": "SAM",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-6.42166667",
-    "longitude": "-76.52111111",
+    "latitude": "-6.42184700",
+    "longitude": "-76.51619700",
     "county_id": 8350,
-    "wikiDataId": null
-  },
-  {
-    "id": 80864,
-    "name": "Moyobamba",
-    "state_id": 3694,
-    "state_code": "SAM",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-6.02833333",
-    "longitude": "-76.97194444",
-    "county_id": 8346,
     "wikiDataId": null
   },
   {
@@ -104,6 +92,18 @@
     "country_code": "PE",
     "latitude": "-6.03416000",
     "longitude": "-76.97168000",
+    "county_id": 8346,
+    "wikiDataId": null
+  },
+  {
+    "id": 166895,
+    "name": "Moyobamba",
+    "state_id": 3694,
+    "state_code": "SAM",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-6.03333333",
+    "longitude": "-76.96666667",
     "county_id": 8346,
     "wikiDataId": null
   },
@@ -216,18 +216,6 @@
     "wikiDataId": null
   },
   {
-    "id": 80887,
-    "name": "Tarapoto",
-    "state_id": 3694,
-    "state_code": "SAM",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-6.49694444",
-    "longitude": "-76.36638889",
-    "county_id": 8354,
-    "wikiDataId": null
-  },
-  {
     "id": 80989,
     "name": "Tarapoto",
     "state_id": 3694,
@@ -236,6 +224,18 @@
     "country_code": "PE",
     "latitude": "-6.50139000",
     "longitude": "-76.36556000",
+    "county_id": 8354,
+    "wikiDataId": null
+  },
+  {
+    "id": 166905,
+    "name": "Tarapoto",
+    "state_id": 3694,
+    "state_code": "SAM",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-6.48333333",
+    "longitude": "-76.36666667",
     "county_id": 8354,
     "wikiDataId": null
   },

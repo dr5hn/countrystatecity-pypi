@@ -1,17 +1,5 @@
 [
   {
-    "id": 80826,
-    "name": "Bambamarca",
-    "state_id": 3688,
-    "state_code": "CAJ",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-6.68000000",
-    "longitude": "-78.53000000",
-    "county_id": 8232,
-    "wikiDataId": null
-  },
-  {
     "id": 80573,
     "name": "Bambamarca",
     "state_id": 3688,
@@ -20,6 +8,18 @@
     "country_code": "PE",
     "latitude": "-6.68333000",
     "longitude": "-78.53333000",
+    "county_id": 8232,
+    "wikiDataId": null
+  },
+  {
+    "id": 166885,
+    "name": "Bambamarca",
+    "state_id": 3688,
+    "state_code": "CAJ",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-6.68000000",
+    "longitude": "-78.53000000",
     "county_id": 8232,
     "wikiDataId": null
   },
@@ -36,14 +36,14 @@
     "wikiDataId": null
   },
   {
-    "id": 80785,
+    "id": 166876,
     "name": "Cajabamba",
     "state_id": 3688,
     "state_code": "CAJ",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-7.62222222",
-    "longitude": "-78.04722222",
+    "latitude": "-7.62372222",
+    "longitude": "-78.04603056",
     "county_id": 8227,
     "wikiDataId": null
   },
@@ -72,27 +72,15 @@
     "wikiDataId": null
   },
   {
-    "id": 80802,
+    "id": 166879,
     "name": "Celendín",
     "state_id": 3688,
     "state_code": "CAJ",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-6.86805556",
-    "longitude": "-78.14888889",
+    "latitude": "-6.86590556",
+    "longitude": "-78.14489167",
     "county_id": 8228,
-    "wikiDataId": null
-  },
-  {
-    "id": 80806,
-    "name": "Chota",
-    "state_id": 3688,
-    "state_code": "CAJ",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-6.56305556",
-    "longitude": "-78.65083333",
-    "county_id": 8229,
     "wikiDataId": null
   },
   {
@@ -108,15 +96,15 @@
     "wikiDataId": null
   },
   {
-    "id": 80814,
-    "name": "Contumazá",
+    "id": 166882,
+    "name": "Chota",
     "state_id": 3688,
     "state_code": "CAJ",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-7.36527778",
-    "longitude": "-78.80638889",
-    "county_id": 8230,
+    "latitude": "-6.56138889",
+    "longitude": "-78.64861111",
+    "county_id": 8229,
     "wikiDataId": null
   },
   {
@@ -128,6 +116,18 @@
     "country_code": "PE",
     "latitude": "-7.36633000",
     "longitude": "-78.80505000",
+    "county_id": 8230,
+    "wikiDataId": null
+  },
+  {
+    "id": 166884,
+    "name": "Contumazá",
+    "state_id": 3688,
+    "state_code": "CAJ",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-7.36651667",
+    "longitude": "-78.80511667",
     "county_id": 8230,
     "wikiDataId": null
   },
@@ -204,7 +204,7 @@
     "wikiDataId": null
   },
   {
-    "id": 80944,
+    "id": 167883,
     "name": "San Ignacio",
     "state_id": 3688,
     "state_code": "CAJ",

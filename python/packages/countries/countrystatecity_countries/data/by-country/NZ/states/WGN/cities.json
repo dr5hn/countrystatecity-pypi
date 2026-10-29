@@ -8,7 +8,7 @@
     "country_code": "NZ",
     "latitude": "-41.30586000",
     "longitude": "174.76257000",
-    "county_id": null,
+    "county_id": 13774,
     "wikiDataId": null
   },
   {
@@ -20,19 +20,7 @@
     "country_code": "NZ",
     "latitude": "-40.90000000",
     "longitude": "176.21667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 79808,
-    "name": "Kapiti Coast",
-    "state_id": 4065,
-    "state_code": "WGN",
-    "country_id": 158,
-    "country_code": "NZ",
-    "latitude": "-40.85682000",
-    "longitude": "175.14690000",
-    "county_id": null,
+    "county_id": 13775,
     "wikiDataId": null
   },
   {
@@ -44,7 +32,7 @@
     "country_code": "NZ",
     "latitude": "-41.28333000",
     "longitude": "174.76667000",
-    "county_id": null,
+    "county_id": 13774,
     "wikiDataId": null
   },
   {
@@ -56,7 +44,7 @@
     "country_code": "NZ",
     "latitude": "-41.24500000",
     "longitude": "174.79422000",
-    "county_id": null,
+    "county_id": 13774,
     "wikiDataId": null
   },
   {
@@ -68,7 +56,19 @@
     "country_code": "NZ",
     "latitude": "-41.21667000",
     "longitude": "174.91667000",
-    "county_id": null,
+    "county_id": 13773,
+    "wikiDataId": null
+  },
+  {
+    "id": 166866,
+    "name": "Martinborough",
+    "state_id": 4065,
+    "state_code": "WGN",
+    "country_id": 158,
+    "country_code": "NZ",
+    "latitude": "-41.21883889",
+    "longitude": "175.45906944",
+    "county_id": 13777,
     "wikiDataId": null
   },
   {
@@ -80,7 +80,7 @@
     "country_code": "NZ",
     "latitude": "-40.95972000",
     "longitude": "175.65750000",
-    "county_id": null,
+    "county_id": 13775,
     "wikiDataId": null
   },
   {
@@ -92,7 +92,7 @@
     "country_code": "NZ",
     "latitude": "-40.75833000",
     "longitude": "175.15000000",
-    "county_id": null,
+    "county_id": 13770,
     "wikiDataId": null
   },
   {
@@ -104,7 +104,7 @@
     "country_code": "NZ",
     "latitude": "-40.91667000",
     "longitude": "175.01667000",
-    "county_id": null,
+    "county_id": 13770,
     "wikiDataId": null
   },
   {
@@ -128,19 +128,7 @@
     "country_code": "NZ",
     "latitude": "-41.13333000",
     "longitude": "174.85000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 79880,
-    "name": "South Wairarapa",
-    "state_id": 4065,
-    "state_code": "WGN",
-    "country_id": 158,
-    "country_code": "NZ",
-    "latitude": "-41.26731000",
-    "longitude": "175.38442000",
-    "county_id": null,
+    "county_id": 13771,
     "wikiDataId": null
   },
   {
@@ -152,7 +140,7 @@
     "country_code": "NZ",
     "latitude": "-41.13827000",
     "longitude": "175.05020000",
-    "county_id": null,
+    "county_id": 13772,
     "wikiDataId": null
   },
   {
@@ -176,7 +164,7 @@
     "country_code": "NZ",
     "latitude": "-41.28664000",
     "longitude": "174.77557000",
-    "county_id": null,
+    "county_id": 13774,
     "wikiDataId": null
   }
 ]

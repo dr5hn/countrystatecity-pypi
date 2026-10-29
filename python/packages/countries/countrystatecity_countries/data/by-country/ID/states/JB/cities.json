@@ -36,27 +36,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56325,
-    "name": "Bandung Barat",
-    "state_id": 1825,
-    "state_code": "JB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-6.83333000",
-    "longitude": "107.48333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 56199,
     "name": "Banjar",
     "state_id": 1825,
     "state_code": "JB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.19550000",
-    "longitude": "107.43130000",
-    "county_id": null,
+    "latitude": "-7.36666667",
+    "longitude": "108.53333333",
+    "county_id": 8551,
     "wikiDataId": null
   },
   {
@@ -132,15 +120,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56391,
+    "id": 166669,
     "name": "Cianjur",
     "state_id": 1825,
     "state_code": "JB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-6.77250000",
-    "longitude": "107.08306000",
-    "county_id": null,
+    "latitude": "-6.82222000",
+    "longitude": "107.13944000",
+    "county_id": 8527,
     "wikiDataId": null
   },
   {
@@ -236,7 +224,7 @@
     "country_code": "ID",
     "latitude": "-6.87222000",
     "longitude": "107.54250000",
-    "county_id": null,
+    "county_id": 8549,
     "wikiDataId": null
   },
   {
@@ -296,19 +284,19 @@
     "country_code": "ID",
     "latitude": "-6.40000000",
     "longitude": "106.81861000",
-    "county_id": null,
+    "county_id": 8548,
     "wikiDataId": null
   },
   {
-    "id": 56407,
+    "id": 166679,
     "name": "Garut",
     "state_id": 1825,
     "state_code": "JB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.38333000",
-    "longitude": "107.76667000",
-    "county_id": null,
+    "latitude": "-7.24500000",
+    "longitude": "107.92100000",
+    "county_id": 8529,
     "wikiDataId": null
   },
   {
@@ -348,138 +336,6 @@
     "wikiDataId": null
   },
   {
-    "id": 56324,
-    "name": "Kabupaten Bandung",
-    "state_id": 1825,
-    "state_code": "JB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.10000000",
-    "longitude": "107.60000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56349,
-    "name": "Kabupaten Bekasi",
-    "state_id": 1825,
-    "state_code": "JB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-6.24667000",
-    "longitude": "107.10833000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56366,
-    "name": "Kabupaten Bogor",
-    "state_id": 1825,
-    "state_code": "JB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-6.58333000",
-    "longitude": "106.71667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56390,
-    "name": "Kabupaten Ciamis",
-    "state_id": 1825,
-    "state_code": "JB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.28333000",
-    "longitude": "108.41667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56393,
-    "name": "Kabupaten Cirebon",
-    "state_id": 1825,
-    "state_code": "JB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-6.80000000",
-    "longitude": "108.56667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56426,
-    "name": "Kabupaten Indramayu",
-    "state_id": 1825,
-    "state_code": "JB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-6.45000000",
-    "longitude": "108.16667000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56474,
-    "name": "Kabupaten Kuningan",
-    "state_id": 1825,
-    "state_code": "JB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.00000000",
-    "longitude": "108.55000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56508,
-    "name": "Kabupaten Majalengka",
-    "state_id": 1825,
-    "state_code": "JB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-6.81667000",
-    "longitude": "108.28333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56606,
-    "name": "Kabupaten Purwakarta",
-    "state_id": 1825,
-    "state_code": "JB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-6.58333000",
-    "longitude": "107.45000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56645,
-    "name": "Kabupaten Sukabumi",
-    "state_id": 1825,
-    "state_code": "JB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.06667000",
-    "longitude": "106.70000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56674,
-    "name": "Kabupaten Tasikmalaya",
-    "state_id": 1825,
-    "state_code": "JB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.50000000",
-    "longitude": "108.13333000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 56698,
     "name": "Karangampel",
     "state_id": 1825,
@@ -504,7 +360,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56440,
+    "id": 166697,
     "name": "Karawang",
     "state_id": 1825,
     "state_code": "JB",
@@ -570,9 +426,9 @@
     "state_code": "JB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-6.81167000",
-    "longitude": "107.61750000",
-    "county_id": null,
+    "latitude": "-6.81861111",
+    "longitude": "107.62027778",
+    "county_id": 8541,
     "wikiDataId": null
   },
   {
@@ -597,6 +453,18 @@
     "latitude": "-6.97083000",
     "longitude": "107.56750000",
     "county_id": null,
+    "wikiDataId": null
+  },
+  {
+    "id": 166629,
+    "name": "Ngamprah",
+    "state_id": 1825,
+    "state_code": "JB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-6.82889000",
+    "longitude": "107.49667000",
+    "county_id": 8541,
     "wikiDataId": null
   },
   {
@@ -648,15 +516,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56575,
-    "name": "Pangandaran",
+    "id": 166785,
+    "name": "Parigi",
     "state_id": 1825,
     "state_code": "JB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-7.66730000",
-    "longitude": "108.64037000",
-    "county_id": null,
+    "latitude": "-7.70150000",
+    "longitude": "108.49600000",
+    "county_id": 8542,
     "wikiDataId": null
   },
   {
@@ -804,15 +672,15 @@
     "wikiDataId": null
   },
   {
-    "id": 56644,
+    "id": 166821,
     "name": "Subang",
     "state_id": 1825,
     "state_code": "JB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-6.50833000",
-    "longitude": "107.70250000",
-    "county_id": null,
+    "latitude": "-6.57000000",
+    "longitude": "107.75667000",
+    "county_id": 8537,
     "wikiDataId": null
   },
   {

@@ -108,15 +108,27 @@
     "wikiDataId": null
   },
   {
-    "id": 80807,
+    "id": 166883,
     "name": "Juli",
     "state_id": 3682,
     "state_code": "PUN",
     "country_id": 173,
     "country_code": "PE",
-    "latitude": "-16.21500000",
-    "longitude": "-69.46194444",
+    "latitude": "-16.21250000",
+    "longitude": "-69.46027778",
     "county_id": 8336,
+    "wikiDataId": null
+  },
+  {
+    "id": 167884,
+    "name": "Juliaca",
+    "state_id": 3682,
+    "state_code": "PUN",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-15.49083333",
+    "longitude": "-70.12694444",
+    "county_id": 8343,
     "wikiDataId": null
   },
   {
@@ -128,18 +140,6 @@
     "country_code": "PE",
     "latitude": "-15.50000000",
     "longitude": "-70.13333000",
-    "county_id": 8343,
-    "wikiDataId": null
-  },
-  {
-    "id": 80957,
-    "name": "Juliaca",
-    "state_id": 3682,
-    "state_code": "PUN",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-15.49388889",
-    "longitude": "-70.13555556",
     "county_id": 8343,
     "wikiDataId": null
   },
@@ -264,18 +264,6 @@
     "wikiDataId": null
   },
   {
-    "id": 80881,
-    "name": "Puno",
-    "state_id": 3682,
-    "state_code": "PUN",
-    "country_id": 173,
-    "country_code": "PE",
-    "latitude": "-15.84055556",
-    "longitude": "-70.02777778",
-    "county_id": 8333,
-    "wikiDataId": null
-  },
-  {
     "id": 80922,
     "name": "Puno",
     "state_id": 3682,
@@ -284,6 +272,18 @@
     "country_code": "PE",
     "latitude": "-15.84220000",
     "longitude": "-70.01990000",
+    "county_id": 8333,
+    "wikiDataId": null
+  },
+  {
+    "id": 166904,
+    "name": "Puno",
+    "state_id": 3682,
+    "state_code": "PUN",
+    "country_id": 173,
+    "country_code": "PE",
+    "latitude": "-15.84333333",
+    "longitude": "-70.02361111",
     "county_id": 8333,
     "wikiDataId": null
   },

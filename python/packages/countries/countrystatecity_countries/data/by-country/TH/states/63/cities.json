@@ -1,17 +1,5 @@
 [
   {
-    "id": 105218,
-    "name": "Ban Tak",
-    "state_id": 3525,
-    "state_code": "63",
-    "country_id": 219,
-    "country_code": "TH",
-    "latitude": "17.05000000",
-    "longitude": "99.07420000",
-    "county_id": 6043,
-    "wikiDataId": null
-  },
-  {
     "id": 106415,
     "name": "Ban Tak",
     "state_id": 3525,
@@ -24,15 +12,27 @@
     "wikiDataId": null
   },
   {
+    "id": 166945,
+    "name": "Ban Tak",
+    "state_id": 3525,
+    "state_code": "63",
+    "country_id": 219,
+    "country_code": "TH",
+    "latitude": "17.05000000",
+    "longitude": "99.07420000",
+    "county_id": 6043,
+    "wikiDataId": null
+  },
+  {
     "id": 106564,
     "name": "Mae Ramat",
     "state_id": 3525,
     "state_code": "63",
     "country_id": 219,
     "country_code": "TH",
-    "latitude": "16.98430000",
-    "longitude": "98.51720000",
-    "county_id": 6045,
+    "latitude": "16.98403000",
+    "longitude": "98.51665000",
+    "county_id": null,
     "wikiDataId": null
   },
   {
@@ -48,7 +48,7 @@
     "wikiDataId": null
   },
   {
-    "id": 106285,
+    "id": 167239,
     "name": "Mae Tan",
     "state_id": 3525,
     "state_code": "63",
@@ -60,7 +60,7 @@
     "wikiDataId": null
   },
   {
-    "id": 105758,
+    "id": 167155,
     "name": "Phop Phra",
     "state_id": 3525,
     "state_code": "63",
@@ -84,7 +84,7 @@
     "wikiDataId": null
   },
   {
-    "id": 106326,
+    "id": 167260,
     "name": "Umphang",
     "state_id": 3525,
     "state_code": "63",
@@ -96,7 +96,7 @@
     "wikiDataId": null
   },
   {
-    "id": 106335,
+    "id": 167267,
     "name": "Wang Chao",
     "state_id": 3525,
     "state_code": "63",

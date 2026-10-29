@@ -12,18 +12,6 @@
     "wikiDataId": null
   },
   {
-    "id": 150091,
-    "name": "Kapuas Hulu",
-    "state_id": 1806,
-    "state_code": "KB",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "0.83333000",
-    "longitude": "112.80000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
     "id": 150092,
     "name": "Kayong Utara",
     "state_id": 1806,
@@ -60,7 +48,7 @@
     "wikiDataId": null
   },
   {
-    "id": 150098,
+    "id": 167607,
     "name": "Mempawah",
     "state_id": 1806,
     "state_code": "KB",
@@ -72,7 +60,7 @@
     "wikiDataId": null
   },
   {
-    "id": 150097,
+    "id": 168150,
     "name": "Nanga Pinoh",
     "state_id": 1806,
     "state_code": "KB",
@@ -117,6 +105,18 @@
     "latitude": "-0.02055556",
     "longitude": "109.34138889",
     "county_id": 8690,
+    "wikiDataId": null
+  },
+  {
+    "id": 168149,
+    "name": "Putussibau",
+    "state_id": 1806,
+    "state_code": "KB",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "0.83333000",
+    "longitude": "112.93333000",
+    "county_id": 8683,
     "wikiDataId": null
   },
   {
@@ -174,9 +174,9 @@
     "state_code": "KB",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "0.06805556",
-    "longitude": "111.49805556",
-    "county_id": null,
+    "latitude": "0.06667000",
+    "longitude": "111.50000000",
+    "county_id": 8682,
     "wikiDataId": null
   },
   {

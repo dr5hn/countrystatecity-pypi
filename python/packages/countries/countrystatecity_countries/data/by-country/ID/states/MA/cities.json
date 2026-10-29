@@ -24,19 +24,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56385,
-    "name": "Buru Selatan",
-    "state_id": 1800,
-    "state_code": "MA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-3.52187000",
-    "longitude": "126.59271000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56622,
+    "id": 166811,
     "name": "Dataran Hunimoa",
     "state_id": 1800,
     "state_code": "MA",
@@ -48,7 +36,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56451,
+    "id": 166705,
     "name": "Dobo",
     "state_id": 1800,
     "state_code": "MA",
@@ -60,7 +48,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56515,
+    "id": 166745,
     "name": "Langgur",
     "state_id": 1800,
     "state_code": "MA",
@@ -72,31 +60,19 @@
     "wikiDataId": null
   },
   {
-    "id": 56514,
-    "name": "Maluku Tengah",
+    "id": 166744,
+    "name": "Masohi",
     "state_id": 1800,
     "state_code": "MA",
     "country_id": 102,
     "country_code": "ID",
-    "latitude": "-3.29167000",
-    "longitude": "128.96750000",
-    "county_id": null,
+    "latitude": "-3.29833000",
+    "longitude": "128.96882000",
+    "county_id": 8813,
     "wikiDataId": null
   },
   {
-    "id": 56516,
-    "name": "Maluku Tenggara Barat",
-    "state_id": 1800,
-    "state_code": "MA",
-    "country_id": 102,
-    "country_code": "ID",
-    "latitude": "-7.61186000",
-    "longitude": "131.38000000",
-    "county_id": null,
-    "wikiDataId": null
-  },
-  {
-    "id": 56384,
+    "id": 166663,
     "name": "Namlea",
     "state_id": 1800,
     "state_code": "MA",
@@ -105,6 +81,30 @@
     "latitude": "-3.25965218",
     "longitude": "127.10292215",
     "county_id": 8815,
+    "wikiDataId": null
+  },
+  {
+    "id": 166664,
+    "name": "Namrole",
+    "state_id": 1800,
+    "state_code": "MA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-3.84548000",
+    "longitude": "126.72619000",
+    "county_id": 8820,
+    "wikiDataId": null
+  },
+  {
+    "id": 166746,
+    "name": "Saumlaki",
+    "state_id": 1800,
+    "state_code": "MA",
+    "country_id": 102,
+    "country_code": "ID",
+    "latitude": "-7.98618000",
+    "longitude": "131.29675000",
+    "county_id": 8814,
     "wikiDataId": null
   },
   {
@@ -120,7 +120,7 @@
     "wikiDataId": null
   },
   {
-    "id": 56513,
+    "id": 166743,
     "name": "Tiakur",
     "state_id": 1800,
     "state_code": "MA",
