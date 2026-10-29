@@ -21,22 +21,21 @@ def test_countries_load_time():
 
 
 def test_caching_works():
-    """Test that caching improves performance."""
+    """The second country lookup reuses cached input without another disk read."""
     # Clear cache first
     DataLoader.clear_cache()
 
     # First load
-    start1 = time.time()
     countries1 = get_countries()
-    elapsed1 = time.time() - start1
+    first = DataLoader.load_countries.cache_info()
 
     # Second load (should be cached)
-    start2 = time.time()
     countries2 = get_countries()
-    elapsed2 = time.time() - start2
+    second = DataLoader.load_countries.cache_info()
 
-    # Cached load should be much faster
-    assert elapsed2 < elapsed1
+    assert first.misses == 1
+    assert second.misses == first.misses
+    assert second.hits == first.hits + 1
     assert len(countries1) == len(countries2)
 
 
