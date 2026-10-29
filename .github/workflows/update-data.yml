@@ -8,6 +8,10 @@ on:
   # Allow manual trigger
   workflow_dispatch:
     inputs:
+      source_release:
+        description: 'Published upstream export tag, or latest'
+        type: string
+        default: latest
       release_november_refresh:
         description: 'Release the checked v5.1.0 refresh on 1 November 2026 only'
         type: boolean
@@ -41,6 +45,7 @@ jobs:
       - name: Download latest data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CSC_SOURCE_RELEASE: ${{ inputs.source_release || 'latest' }}
         run: |
           python python/scripts/fetch-release.py
       
@@ -111,14 +116,7 @@ jobs:
       - name: Check for data changes
         id: check-changes
         run: |
-          if git diff --name-only -- \
-            python/packages/countries/countrystatecity_countries/data \
-            python/packages/timezones/countrystatecity_timezones/data \
-            python/packages/currencies/countrystatecity_currencies/data \
-            python/packages/translations/countrystatecity_translations/data \
-            python/packages/phonecodes/countrystatecity_phonecodes/data \
-            python/packages/regions/countrystatecity_regions/data \
-            python/packages/postal_codes/countrystatecity_postal_codes/data \
+          if git status --porcelain -- python/packages/ \
             | grep -q .; then
             echo "changed=true" >> $GITHUB_OUTPUT
             echo "Data changes detected"
@@ -173,11 +171,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ steps.data-pr.outputs.pull-request-number }}
+          EXPECTED_HEAD_SHA: ${{ steps.data-pr.outputs.pull-request-head-sha }}
         run: |
           [ "$(date -u +%F)" = '2026-11-01' ] || exit 0
           RELEASE=$(python -c "import json; print(json.load(open('python/data/release.json'))['sourceRelease'])")
           [[ "$RELEASE" =~ ^v5\.1\.0-export\.[0-9]+$ ]] || { echo 'The 1 November v5.1.0 export is not published yet; leaving the PR for review.'; exit 1; }
-          gh pr merge "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --merge --delete-branch
+          [ -n "$EXPECTED_HEAD_SHA" ] || exit 1
+          gh pr merge "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --merge --delete-branch --match-head-commit "$EXPECTED_HEAD_SHA"
           gh workflow run release.yml --repo "$GITHUB_REPOSITORY" --ref main -f data_update_pr="$PR_NUMBER"
       
       - name: No changes detected

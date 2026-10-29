@@ -25,3 +25,9 @@ class ReleaseInputsTests(unittest.TestCase):
         """A missing row in the combined export cannot become an incomplete package."""
         with self.assertRaisesRegex(ValueError, "coverage mismatch"):
             JOIN([{"id": 1, "states": []}], [{"id": 7, "country_id": 1}])
+
+    def test_city_in_the_wrong_state_rejects_the_export(self):
+        """A complete city set must also preserve its actual state associations."""
+        countries = [{"id": 1, "states": [{"id": 2, "cities": [{"id": 7}]}]}]
+        with self.assertRaisesRegex(ValueError, "State mismatch"):
+            JOIN(countries, [{"id": 7, "country_id": 1, "state_id": 3}])

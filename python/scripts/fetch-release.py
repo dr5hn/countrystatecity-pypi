@@ -41,10 +41,11 @@ def join_cities(countries, full_cities):
     by_id = {city["id"]: city for city in full_cities}
     seen = set()
     for country in countries:
-        groups = [country.get("cities", [])] + [
-            state.get("cities", []) for state in country.get("states", [])
+        groups = [(None, country.get("cities", []))] + [
+            (state["id"], state.get("cities", []))
+            for state in country.get("states", [])
         ]
-        for cities in groups:
+        for state_id, cities in groups:
             for city in cities:
                 city_id = city["id"]
                 if city_id in seen or city_id not in by_id:
@@ -53,6 +54,8 @@ def join_cities(countries, full_cities):
                 full = by_id[city_id]
                 if full["country_id"] != country["id"]:
                     raise ValueError(f"Country mismatch for city {city_id}")
+                if full.get("state_id") != state_id:
+                    raise ValueError(f"State mismatch for city {city_id}")
                 for field in (
                     "type",
                     "native",
@@ -70,9 +73,21 @@ def join_cities(countries, full_cities):
 def main():
     """Stage all release inputs before exposing them to the package generators."""
     token = os.environ.get("GITHUB_TOKEN")
+    requested = os.environ.get("CSC_SOURCE_RELEASE") or "latest"
+    if requested != "latest" and not re.fullmatch(
+        r"v\d+(?:\.\d+)*(?:-export\.\d+)?", requested
+    ):
+        raise ValueError(f"Unexpected export tag: {requested}")
+    endpoint = "latest" if requested == "latest" else f"tags/{requested}"
     release = json.loads(
-        fetch_bytes(f"https://api.github.com/repos/{REPO}/releases/latest", token)
+        fetch_bytes(f"https://api.github.com/repos/{REPO}/releases/{endpoint}", token)
     )
+    if (
+        release.get("draft")
+        or release.get("prerelease")
+        or not release.get("published_at")
+    ):
+        raise ValueError("Only a published stable export can supply package data")
     tag = release["tag_name"]
     if not re.fullmatch(r"v\d+(?:\.\d+)*(?:-export\.\d+)?", tag):
         raise ValueError(f"Unexpected export tag: {tag}")
