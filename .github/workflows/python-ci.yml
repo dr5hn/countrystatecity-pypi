@@ -25,7 +25,8 @@ jobs:
         run: python -m unittest discover -s .github/tests -v
 
   test:
-    runs-on: ubuntu-latest
+    # 2026-10-29: No 3.8/3.9 builds on 26.04; remove pin when support is dropped.
+    runs-on: ${{ (matrix.python-version == '3.8' || matrix.python-version == '3.9') && 'ubuntu-24.04' || 'ubuntu-latest' }}
     strategy:
       fail-fast: false
       matrix:
