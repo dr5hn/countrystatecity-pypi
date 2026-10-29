@@ -9,7 +9,12 @@
     "latitude": "13.36502000",
     "longitude": "-86.39846000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1012589",
+    "type": "adm2",
+    "native": "Condega",
+    "timezone": "America/Managua",
+    "population": 11000,
+    "population_year": null
   },
   {
     "id": 77191,
@@ -21,7 +26,12 @@
     "latitude": "13.09185000",
     "longitude": "-86.35384000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1007634",
+    "type": "adm1",
+    "native": "Estelí",
+    "timezone": "America/Managua",
+    "population": 105709,
+    "population_year": null
   },
   {
     "id": 77207,
@@ -33,7 +43,12 @@
     "latitude": "12.96881000",
     "longitude": "-86.23534000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q993829",
+    "type": "adm2",
+    "native": "La Trinidad",
+    "timezone": "America/Managua",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 77249,
@@ -45,7 +60,12 @@
     "latitude": "13.37984000",
     "longitude": "-86.48075000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1647679",
+    "type": "adm2",
+    "native": "Pueblo Nuevo",
+    "timezone": "America/Managua",
+    "population": 4608,
+    "population_year": null
   },
   {
     "id": 77261,
@@ -57,7 +77,12 @@
     "latitude": "13.17603000",
     "longitude": "-86.61234000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2215462",
+    "type": "adm2",
+    "native": "San Juan de Limay",
+    "timezone": "America/Managua",
+    "population": 4997,
+    "population_year": null
   },
   {
     "id": 165333,
@@ -69,6 +94,11 @@
     "latitude": "12.93236000",
     "longitude": "-86.34805000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22237659",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Managua",
+    "population": null,
+    "population_year": null
   }
 ]

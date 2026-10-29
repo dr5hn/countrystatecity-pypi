@@ -9,7 +9,12 @@
     "latitude": "48.14816000",
     "longitude": "17.10674000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1780",
+    "type": "city",
+    "native": "Bratislava",
+    "timezone": "Europe/Bratislava",
+    "population": 479389,
+    "population_year": null
   },
   {
     "id": 104375,
@@ -21,7 +26,12 @@
     "latitude": "48.20563000",
     "longitude": "17.20759000",
     "county_id": 13666,
-    "wikiDataId": null
+    "wikiDataId": "Q1091778",
+    "type": "section",
+    "native": "Bratislava - Vajnory",
+    "timezone": "Europe/Bratislava",
+    "population": 5484,
+    "population_year": null
   },
   {
     "id": 104386,
@@ -33,7 +43,12 @@
     "latitude": "48.08347000",
     "longitude": "17.26072000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q911359",
+    "type": "city",
+    "native": "Dunajská Lužná",
+    "timezone": "Europe/Bratislava",
+    "population": 8096,
+    "population_year": null
   },
   {
     "id": 104403,
@@ -45,7 +60,12 @@
     "latitude": "48.18675000",
     "longitude": "17.25540000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q302787",
+    "type": "city",
+    "native": "Ivanka pri Dunaji",
+    "timezone": "Europe/Bratislava",
+    "population": 7247,
+    "population_year": null
   },
   {
     "id": 104428,
@@ -57,7 +77,12 @@
     "latitude": "48.43604000",
     "longitude": "17.02188000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q837464",
+    "type": "adm2",
+    "native": "Malacky",
+    "timezone": "Europe/Bratislava",
+    "population": 18810,
+    "population_year": null
   },
   {
     "id": 104429,
@@ -69,7 +94,12 @@
     "latitude": "48.24903000",
     "longitude": "17.06400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q266939",
+    "type": "city",
+    "native": "Marianka",
+    "timezone": "Europe/Bratislava",
+    "population": 2341,
+    "population_year": null
   },
   {
     "id": 104434,
@@ -81,7 +111,12 @@
     "latitude": "48.33397000",
     "longitude": "17.30711000",
     "county_id": 13670,
-    "wikiDataId": null
+    "wikiDataId": "Q596044",
+    "type": "city",
+    "native": "Modra",
+    "timezone": "Europe/Bratislava",
+    "population": 9160,
+    "population_year": null
   },
   {
     "id": 104524,
@@ -93,7 +128,12 @@
     "latitude": "48.28986000",
     "longitude": "17.26664000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q659424",
+    "type": "adm2",
+    "native": "Pezinok",
+    "timezone": "Europe/Bratislava",
+    "population": 24375,
+    "population_year": null
   },
   {
     "id": 104540,
@@ -105,7 +145,12 @@
     "latitude": "48.21951000",
     "longitude": "17.40043000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q754790",
+    "type": "adm2",
+    "native": "Senec",
+    "timezone": "Europe/Bratislava",
+    "population": 20234,
+    "population_year": null
   },
   {
     "id": 104555,
@@ -117,7 +162,12 @@
     "latitude": "48.27474000",
     "longitude": "17.03173000",
     "county_id": 13669,
-    "wikiDataId": null
+    "wikiDataId": "Q782928",
+    "type": "city",
+    "native": "Stupava",
+    "timezone": "Europe/Bratislava",
+    "population": 12850,
+    "population_year": null
   },
   {
     "id": 104560,
@@ -129,7 +179,12 @@
     "latitude": "48.25216000",
     "longitude": "17.21539000",
     "county_id": 13670,
-    "wikiDataId": null
+    "wikiDataId": "Q247240",
+    "type": "city",
+    "native": "Svätý Jur",
+    "timezone": "Europe/Bratislava",
+    "population": 6010,
+    "population_year": null
   },
   {
     "id": 104576,
@@ -141,6 +196,11 @@
     "latitude": "48.31142000",
     "longitude": "17.29042000",
     "county_id": 13670,
-    "wikiDataId": null
+    "wikiDataId": "Q604664",
+    "type": "municipality",
+    "native": "Vinosady",
+    "timezone": "Europe/Bratislava",
+    "population": 1300,
+    "population_year": null
   }
 ]

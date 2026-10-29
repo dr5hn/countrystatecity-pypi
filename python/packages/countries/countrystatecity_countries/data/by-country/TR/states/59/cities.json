@@ -9,7 +9,12 @@
     "latitude": "41.28616000",
     "longitude": "27.99969000",
     "county_id": 6978,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Çerkezköy",
+    "timezone": "Europe/Istanbul",
+    "population": 84234,
+    "population_year": null
   },
   {
     "id": 108842,
@@ -21,7 +26,12 @@
     "latitude": "41.15917000",
     "longitude": "27.80000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q214655",
+    "type": "adm2",
+    "native": "Çorlu",
+    "timezone": "Europe/Istanbul",
+    "population": 202578,
+    "population_year": null
   },
   {
     "id": 107594,
@@ -33,7 +43,12 @@
     "latitude": "41.18773550",
     "longitude": "27.76777960",
     "county_id": 7795,
-    "wikiDataId": null
+    "wikiDataId": "Q16957420",
+    "type": "municipality",
+    "native": "Ergene",
+    "timezone": "Europe/Istanbul",
+    "population": 68695,
+    "population_year": null
   },
   {
     "id": 107813,
@@ -45,7 +60,12 @@
     "latitude": "41.21311000",
     "longitude": "27.10688000",
     "county_id": 7109,
-    "wikiDataId": null
+    "wikiDataId": "Q2924221",
+    "type": "municipality",
+    "native": "Hayrabolu",
+    "timezone": "Europe/Istanbul",
+    "population": 29706,
+    "population_year": 2025
   },
   {
     "id": 107885,
@@ -57,7 +77,12 @@
     "latitude": "41.32912000",
     "longitude": "27.98064000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5247279",
+    "type": "adm2",
+    "native": "Kapaklı",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 108144,
@@ -69,7 +94,12 @@
     "latitude": "40.89000000",
     "longitude": "26.90111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q937499",
+    "type": "adm2",
+    "native": "Malkara",
+    "timezone": "Europe/Istanbul",
+    "population": 27427,
+    "population_year": null
   },
   {
     "id": 108156,
@@ -81,7 +111,12 @@
     "latitude": "40.97003000",
     "longitude": "27.95528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q985638",
+    "type": "adm2",
+    "native": "Marmaraereğlisi",
+    "timezone": "Europe/Istanbul",
+    "population": 10956,
+    "population_year": null
   },
   {
     "id": 108223,
@@ -93,7 +128,12 @@
     "latitude": "41.18345000",
     "longitude": "27.51454000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2581023",
+    "type": "adm2",
+    "native": "Muratlı",
+    "timezone": "Europe/Istanbul",
+    "population": 30410,
+    "population_year": 2025
   },
   {
     "id": 108388,
@@ -105,7 +145,12 @@
     "latitude": "41.44431000",
     "longitude": "27.92194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1011256",
+    "type": "adm2",
+    "native": "Saray",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 108937,
@@ -117,7 +162,12 @@
     "latitude": "40.62513000",
     "longitude": "27.10069000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q388544",
+    "type": "adm2",
+    "native": "Şarköy",
+    "timezone": "Europe/Istanbul",
+    "population": 34458,
+    "population_year": 2025
   },
   {
     "id": 108522,
@@ -129,7 +179,12 @@
     "latitude": "40.97990000",
     "longitude": "27.30377000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16897309",
+    "type": "city",
+    "native": "Süleymanpaşa",
+    "timezone": "Europe/Istanbul",
+    "population": 226582,
+    "population_year": 2025
   },
   {
     "id": 165610,
@@ -141,6 +196,11 @@
     "latitude": "40.97810000",
     "longitude": "27.51101000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q182009",
+    "type": "adm1",
+    "native": "Tekirdağ",
+    "timezone": "Europe/Istanbul",
+    "population": 122287,
+    "population_year": null
   }
 ]

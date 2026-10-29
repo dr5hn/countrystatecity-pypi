@@ -9,7 +9,12 @@
     "latitude": "41.16951000",
     "longitude": "75.80099000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2349598",
+    "type": "adm2",
+    "native": "Ат-Башы",
+    "timezone": "Asia/Bishkek",
+    "population": 14655,
+    "population_year": null
   },
   {
     "id": 165138,
@@ -21,7 +26,12 @@
     "latitude": "41.26668000",
     "longitude": "74.95698000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3538635",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Bishkek",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 165140,
@@ -33,7 +43,12 @@
     "latitude": "41.92768000",
     "longitude": "74.51699000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3541520",
+    "type": "adm2",
+    "native": "Чаек",
+    "timezone": "Asia/Bishkek",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 64900,
@@ -45,7 +60,12 @@
     "latitude": "41.94924000",
     "longitude": "74.40566000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q879090",
+    "type": "city",
+    "native": "Жумгал",
+    "timezone": "Asia/Bishkek",
+    "population": 40718,
+    "population_year": null
   },
   {
     "id": 64918,
@@ -57,6 +77,11 @@
     "latitude": "41.42866000",
     "longitude": "75.99111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q311946",
+    "type": "adm1",
+    "native": "Нарын",
+    "timezone": "Asia/Bishkek",
+    "population": 41419,
+    "population_year": null
   }
 ]

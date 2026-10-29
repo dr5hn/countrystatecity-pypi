@@ -9,7 +9,12 @@
     "latitude": "42.55384000",
     "longitude": "19.14608000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Даниловград",
+    "timezone": "Europe/Podgorica",
+    "population": 5156,
+    "population_year": null
   },
   {
     "id": 67368,
@@ -21,6 +26,11 @@
     "latitude": "42.51500000",
     "longitude": "19.19500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3123315",
+    "type": "city",
+    "native": "Спуж",
+    "timezone": "Europe/Podgorica",
+    "population": 1241,
+    "population_year": null
   }
 ]

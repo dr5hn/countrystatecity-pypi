@@ -9,7 +9,12 @@
     "latitude": "43.92750000",
     "longitude": "21.37000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1475280",
+    "type": "adm3",
+    "native": "Ћуприја",
+    "timezone": "Europe/Belgrade",
+    "population": 19471,
+    "population_year": null
   },
   {
     "id": 155075,
@@ -21,7 +26,12 @@
     "latitude": "44.09472620",
     "longitude": "21.39913490",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1250081",
+    "type": "city",
+    "native": "Деспотовац",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97202,
@@ -33,7 +43,12 @@
     "latitude": "44.52223000",
     "longitude": "21.76030000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Дубока",
+    "timezone": "Europe/Belgrade",
+    "population": 1804,
+    "population_year": null
   },
   {
     "id": 97228,
@@ -45,7 +60,12 @@
     "latitude": "43.97713000",
     "longitude": "21.26121000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q390358",
+    "type": "city",
+    "native": "Јагодина",
+    "timezone": "Europe/Belgrade",
+    "population": 34892,
+    "population_year": null
   },
   {
     "id": 97331,
@@ -57,7 +77,12 @@
     "latitude": "43.86083000",
     "longitude": "21.40778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3503630",
+    "type": "adm3",
+    "native": "Параћин",
+    "timezone": "Europe/Belgrade",
+    "population": 6000,
+    "population_year": null
   },
   {
     "id": 155076,
@@ -69,7 +94,12 @@
     "latitude": "43.86577250",
     "longitude": "21.02877540",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q441278",
+    "type": "city",
+    "native": "Рековац",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 155077,
@@ -81,6 +111,11 @@
     "latitude": "44.24526320",
     "longitude": "21.15803640",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q737497",
+    "type": "city",
+    "native": "Свилајнац",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   }
 ]

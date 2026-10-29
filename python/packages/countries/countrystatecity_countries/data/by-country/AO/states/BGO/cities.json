@@ -9,7 +9,12 @@
     "latitude": "-7.85740000",
     "longitude": "13.12510000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Ambriz",
+    "timezone": "Africa/Luanda",
+    "population": 17000,
+    "population_year": null
   },
   {
     "id": 153646,
@@ -21,7 +26,12 @@
     "latitude": "-7.31170000",
     "longitude": "14.31470000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Prepare o Awenta",
+    "timezone": "Africa/Luanda",
+    "population": 13454,
+    "population_year": null
   },
   {
     "id": 164392,
@@ -33,7 +43,12 @@
     "latitude": "-8.16263000",
     "longitude": "14.11663000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6360177",
+    "type": "adm3",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "population": 20913,
+    "population_year": null
   },
   {
     "id": 598,
@@ -45,7 +60,12 @@
     "latitude": "-8.57848000",
     "longitude": "13.66425000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q956745",
+    "type": "adm1",
+    "native": "Caxon",
+    "timezone": "Africa/Luanda",
+    "population": 55000,
+    "population_year": null
   },
   {
     "id": 153647,
@@ -57,7 +77,12 @@
     "latitude": "-8.11330000",
     "longitude": "13.76520000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Dão",
+    "timezone": "Africa/Luanda",
+    "population": 222528,
+    "population_year": null
   },
   {
     "id": 153648,
@@ -69,7 +94,12 @@
     "latitude": "-9.58790000",
     "longitude": "13.52510000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Adeus",
+    "timezone": "Africa/Luanda",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153649,
@@ -81,7 +111,12 @@
     "latitude": "-8.56560000",
     "longitude": "13.65720000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3837",
+    "type": "adm1",
+    "native": "Eu sou uma piada",
+    "timezone": "Africa/Luanda",
+    "population": 60883,
+    "population_year": null
   },
   {
     "id": 153650,
@@ -93,7 +128,12 @@
     "latitude": "-8.55440000",
     "longitude": "13.58150000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Cave Aluquém",
+    "timezone": "Africa/Luanda",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 164391,
@@ -105,7 +145,12 @@
     "latitude": "-8.53412000",
     "longitude": "14.43555000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7197977",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Africa/Luanda",
+    "population": 26265,
+    "population_year": null
   },
   {
     "id": 153651,
@@ -117,6 +162,11 @@
     "latitude": "-8.67240000",
     "longitude": "13.68290000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Úcua",
+    "timezone": "Africa/Luanda",
+    "population": null,
+    "population_year": null
   }
 ]

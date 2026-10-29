@@ -9,7 +9,12 @@
     "latitude": "-1.10148000",
     "longitude": "37.01320000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13123165",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "population": 156041,
+    "population_year": null
   },
   {
     "id": 64802,
@@ -21,7 +26,12 @@
     "latitude": "-1.17139000",
     "longitude": "36.83556000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3242959",
+    "type": "adm1",
+    "native": "Kiambu",
+    "timezone": "Africa/Nairobi",
+    "population": 147870,
+    "population_year": null
   },
   {
     "id": 64805,
@@ -33,7 +43,12 @@
     "latitude": "-1.24627000",
     "longitude": "36.66291000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1026079",
+    "type": "city",
+    "native": "Kikuyu",
+    "timezone": "Africa/Nairobi",
+    "population": 323881,
+    "population_year": null
   },
   {
     "id": 64817,
@@ -45,7 +60,12 @@
     "latitude": "-1.11360000",
     "longitude": "36.64205000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1825607",
+    "type": "city",
+    "native": "Limuro",
+    "timezone": "Africa/Nairobi",
+    "population": 159314,
+    "population_year": null
   },
   {
     "id": 64874,
@@ -57,6 +77,11 @@
     "latitude": "-1.03326000",
     "longitude": "37.06933000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q589616",
+    "type": "city",
+    "native": "Thika",
+    "timezone": "Africa/Nairobi",
+    "population": 251407,
+    "population_year": null
   }
 ]

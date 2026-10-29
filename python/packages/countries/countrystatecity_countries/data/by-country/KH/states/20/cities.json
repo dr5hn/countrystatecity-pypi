@@ -9,7 +9,12 @@
     "latitude": "11.06317000",
     "longitude": "106.13557000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1385809",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Phnom_Penh",
+    "population": 43783,
+    "population_year": null
   },
   {
     "id": 65021,
@@ -21,7 +26,12 @@
     "latitude": "11.11160000",
     "longitude": "105.69814000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4928995",
+    "type": "area",
+    "native": "ស្រះស្វាយជ្រុំ",
+    "timezone": "Asia/Phnom_Penh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65036,
@@ -33,6 +43,11 @@
     "latitude": "11.08785000",
     "longitude": "105.79935000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10861438",
+    "type": "adm1",
+    "native": "ស្វាយរៀង",
+    "timezone": "Asia/Phnom_Penh",
+    "population": 23956,
+    "population_year": null
   }
 ]

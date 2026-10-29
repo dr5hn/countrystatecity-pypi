@@ -9,7 +9,12 @@
     "latitude": "42.44778000",
     "longitude": "18.65972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q808104",
+    "type": "city",
+    "native": "Бијела",
+    "timezone": "Europe/Podgorica",
+    "population": 1200,
+    "population_year": null
   },
   {
     "id": 160064,
@@ -21,7 +26,12 @@
     "latitude": "42.45306000",
     "longitude": "18.53722000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q160115",
+    "type": "adm1",
+    "native": "Херцег Нови",
+    "timezone": "Europe/Podgorica",
+    "population": 19536,
+    "population_year": null
   },
   {
     "id": 160065,
@@ -33,7 +43,12 @@
     "latitude": "42.45583000",
     "longitude": "18.51667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Игало",
+    "timezone": "Europe/Podgorica",
+    "population": 3355,
+    "population_year": null
   },
   {
     "id": 160066,
@@ -45,6 +60,11 @@
     "latitude": "42.46167000",
     "longitude": "18.68806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Каменари",
+    "timezone": "Europe/Podgorica",
+    "population": 148,
+    "population_year": null
   }
 ]

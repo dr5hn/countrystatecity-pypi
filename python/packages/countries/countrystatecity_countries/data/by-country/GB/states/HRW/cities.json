@@ -9,7 +9,12 @@
     "latitude": "51.58342000",
     "longitude": "-0.33860000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Greenhill",
+    "timezone": "Europe/London",
+    "population": 9324,
+    "population_year": null
   },
   {
     "id": 49818,
@@ -21,7 +26,12 @@
     "latitude": "51.57142000",
     "longitude": "-0.33371000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Harrow on the Hill",
+    "timezone": "Europe/London",
+    "population": 10632,
+    "population_year": null
   },
   {
     "id": 50914,
@@ -33,7 +43,12 @@
     "latitude": "51.59384000",
     "longitude": "-0.38216000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2453742",
+    "type": "city",
+    "native": "Pinner",
+    "timezone": "Europe/London",
+    "population": 19158,
+    "population_year": null
   },
   {
     "id": 51427,
@@ -45,6 +60,11 @@
     "latitude": "51.61667000",
     "longitude": "-0.31667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2279685",
+    "type": "city",
+    "native": "Stanmore",
+    "timezone": "Europe/London",
+    "population": 4179,
+    "population_year": null
   }
 ]

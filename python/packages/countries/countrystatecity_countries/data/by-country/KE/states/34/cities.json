@@ -9,7 +9,12 @@
     "latitude": "-0.77612000",
     "longitude": "34.94678000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Keroka",
+    "timezone": "Africa/Nairobi",
+    "population": 10881,
+    "population_year": null
   },
   {
     "id": 64855,
@@ -21,6 +26,11 @@
     "latitude": "-0.56333000",
     "longitude": "34.93583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q657924",
+    "type": "adm1",
+    "native": "Nyamira",
+    "timezone": "Africa/Nairobi",
+    "population": 24483,
+    "population_year": null
   }
 ]

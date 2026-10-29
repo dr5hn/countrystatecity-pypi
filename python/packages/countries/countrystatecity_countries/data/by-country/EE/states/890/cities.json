@@ -9,7 +9,12 @@
     "latitude": "59.51358000",
     "longitude": "24.82225000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3125242",
+    "type": "town",
+    "native": "Haabneeme",
+    "timezone": "Europe/Tallinn",
+    "population": 2077,
+    "population_year": null
   },
   {
     "id": 31678,
@@ -21,7 +26,12 @@
     "latitude": "59.53459000",
     "longitude": "24.79726000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3451465",
+    "type": "village",
+    "native": "Pringi",
+    "timezone": "Europe/Tallinn",
+    "population": 603,
+    "population_year": null
   },
   {
     "id": 31737,
@@ -33,6 +43,11 @@
     "latitude": "59.50502000",
     "longitude": "24.84807000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3044100",
+    "type": "adm2",
+    "native": "Viimsi",
+    "timezone": "Europe/Tallinn",
+    "population": 1740,
+    "population_year": null
   }
 ]

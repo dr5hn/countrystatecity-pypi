@@ -9,7 +9,12 @@
     "latitude": "-9.03778000",
     "longitude": "-75.50906000",
     "county_id": 8365,
-    "wikiDataId": null
+    "wikiDataId": "Q2723604",
+    "type": "town",
+    "native": null,
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80565,
@@ -21,7 +26,12 @@
     "latitude": "-10.38980000",
     "longitude": "-73.21977000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1920509",
+    "type": "city",
+    "native": "Atalaya",
+    "timezone": "America/Lima",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 80589,
@@ -33,7 +43,12 @@
     "latitude": "-8.47533000",
     "longitude": "-74.80709000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q34789572",
+    "type": "city",
+    "native": "Campoverde",
+    "timezone": "America/Lima",
+    "population": 8945,
+    "population_year": null
   },
   {
     "id": 80913,
@@ -45,7 +60,12 @@
     "latitude": "-8.37915000",
     "longitude": "-74.55387000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q217071",
+    "type": "adm1",
+    "native": "Pucallpa",
+    "timezone": "America/Lima",
+    "population": 326040,
+    "population_year": null
   },
   {
     "id": 80925,
@@ -57,6 +77,11 @@
     "latitude": "-10.37331000",
     "longitude": "-71.58231000",
     "county_id": 8366,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Purus",
+    "timezone": "America/Lima",
+    "population": 2860,
+    "population_year": null
   }
 ]

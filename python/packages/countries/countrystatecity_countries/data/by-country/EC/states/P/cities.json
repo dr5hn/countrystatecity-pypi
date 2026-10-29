@@ -9,7 +9,12 @@
     "latitude": "0.04084000",
     "longitude": "-78.14524000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1051957",
+    "type": "adm2",
+    "native": "Cayambe",
+    "timezone": "America/Guayaquil",
+    "population": 26582,
+    "population_year": null
   },
   {
     "id": 31525,
@@ -21,7 +26,12 @@
     "latitude": "-0.51011000",
     "longitude": "-78.56712000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6723341",
+    "type": "adm2",
+    "native": "Machachi",
+    "timezone": "America/Guayaquil",
+    "population": 24188,
+    "population_year": null
   },
   {
     "id": 31560,
@@ -33,7 +43,12 @@
     "latitude": "-0.22985000",
     "longitude": "-78.52495000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2900",
+    "type": "capital",
+    "native": "Quito",
+    "timezone": "America/Guayaquil",
+    "population": 2781641,
+    "population_year": null
   },
   {
     "id": 31572,
@@ -45,6 +60,11 @@
     "latitude": "-0.33405000",
     "longitude": "-78.45217000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2361658",
+    "type": "city",
+    "native": "Sangolquí",
+    "timezone": "America/Guayaquil",
+    "population": 5114,
+    "population_year": null
   }
 ]

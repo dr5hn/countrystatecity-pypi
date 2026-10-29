@@ -9,7 +9,12 @@
     "latitude": "57.14369000",
     "longitude": "-2.09814000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q36405",
+    "type": "city",
+    "native": "Aberdeen",
+    "timezone": "Europe/London",
+    "population": 200680,
+    "population_year": null
   },
   {
     "id": 49125,
@@ -21,7 +26,12 @@
     "latitude": "57.10000000",
     "longitude": "-2.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Cove",
+    "timezone": "Europe/London",
+    "population": 7060,
+    "population_year": null
   },
   {
     "id": 49204,
@@ -33,7 +43,12 @@
     "latitude": "57.11667000",
     "longitude": "-2.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1143533",
+    "type": "city",
+    "native": "Cults",
+    "timezone": "Europe/London",
+    "population": 3500,
+    "population_year": null
   },
   {
     "id": 49369,
@@ -45,7 +60,12 @@
     "latitude": "57.20522000",
     "longitude": "-2.17676000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2374318",
+    "type": "section",
+    "native": "Dyce",
+    "timezone": "Europe/London",
+    "population": 6190,
+    "population_year": null
   },
   {
     "id": 50181,
@@ -57,7 +77,12 @@
     "latitude": "57.15798000",
     "longitude": "-2.22426000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Kingswells",
+    "timezone": "Europe/London",
+    "population": 4740,
+    "population_year": null
   },
   {
     "id": 50588,
@@ -69,7 +94,12 @@
     "latitude": "57.10424000",
     "longitude": "-2.24099000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1755428",
+    "type": "section",
+    "native": "Milltimber",
+    "timezone": "Europe/London",
+    "population": 2780,
+    "population_year": null
   },
   {
     "id": 50716,
@@ -81,7 +111,12 @@
     "latitude": "57.26667000",
     "longitude": "-2.18333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1009979",
+    "type": "city",
+    "native": "Newmacher",
+    "timezone": "Europe/London",
+    "population": 2510,
+    "population_year": null
   },
   {
     "id": 50901,
@@ -93,7 +128,12 @@
     "latitude": "57.09929000",
     "longitude": "-2.26588000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q29833",
+    "type": "section",
+    "native": "Peterculter",
+    "timezone": "Europe/London",
+    "population": 4570,
+    "population_year": null
   },
   {
     "id": 50953,
@@ -105,6 +145,11 @@
     "latitude": "57.41427000",
     "longitude": "-1.84596000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Port Erroll",
+    "timezone": "Europe/London",
+    "population": 1620,
+    "population_year": null
   }
 ]

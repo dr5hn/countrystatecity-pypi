@@ -9,7 +9,12 @@
     "latitude": "42.01896000",
     "longitude": "42.23945000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2304503",
+    "type": "adm2",
+    "native": "ჩოხატაური",
+    "timezone": "Asia/Tbilisi",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 52091,
@@ -21,7 +26,12 @@
     "latitude": "42.09027000",
     "longitude": "42.03239000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q956922",
+    "type": "adm2",
+    "native": "ლანჩხუთი",
+    "timezone": "Asia/Tbilisi",
+    "population": 6237,
+    "population_year": null
   },
   {
     "id": 52102,
@@ -33,7 +43,12 @@
     "latitude": "41.90694000",
     "longitude": "41.95417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1898132",
+    "type": "city",
+    "native": "ნარუჯა",
+    "timezone": "Asia/Tbilisi",
+    "population": 1516,
+    "population_year": null
   },
   {
     "id": 52108,
@@ -45,7 +60,12 @@
     "latitude": "41.92442000",
     "longitude": "42.00682000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q317145",
+    "type": "adm1",
+    "native": "ოზურჯეტი",
+    "timezone": "Asia/Tbilisi",
+    "population": 14211,
+    "population_year": null
   },
   {
     "id": 52141,
@@ -57,6 +77,11 @@
     "latitude": "41.99556000",
     "longitude": "41.77861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3651285",
+    "type": "city",
+    "native": "Urek'i",
+    "timezone": "Asia/Tbilisi",
+    "population": 1591,
+    "population_year": null
   }
 ]

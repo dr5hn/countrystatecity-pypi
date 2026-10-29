@@ -9,7 +9,12 @@
     "latitude": "37.20105000",
     "longitude": "36.57687000",
     "county_id": 6895,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bahçe",
+    "timezone": "Europe/Istanbul",
+    "population": 16329,
+    "population_year": 2025
   },
   {
     "id": 107543,
@@ -21,7 +26,12 @@
     "latitude": "37.25062000",
     "longitude": "36.47051000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1012858",
+    "type": "adm2",
+    "native": "Düziçi",
+    "timezone": "Europe/Istanbul",
+    "population": 79450,
+    "population_year": null
   },
   {
     "id": 107798,
@@ -33,7 +43,12 @@
     "latitude": "37.12838000",
     "longitude": "36.54608000",
     "county_id": 7729,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Hasanbeyli",
+    "timezone": "Europe/Istanbul",
+    "population": 6315,
+    "population_year": null
   },
   {
     "id": 107860,
@@ -45,7 +60,12 @@
     "latitude": "37.37389000",
     "longitude": "36.09611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1012824",
+    "type": "adm2",
+    "native": "Kadirli",
+    "timezone": "Europe/Istanbul",
+    "population": 70248,
+    "population_year": null
   },
   {
     "id": 108294,
@@ -57,7 +77,12 @@
     "latitude": "37.07417000",
     "longitude": "36.24778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q181379",
+    "type": "adm2",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 253250,
+    "population_year": 2025
   },
   {
     "id": 108504,
@@ -69,7 +94,12 @@
     "latitude": "37.46169000",
     "longitude": "36.02914000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1015401",
+    "type": "adm2",
+    "native": "Sumbas",
+    "timezone": "Europe/Istanbul",
+    "population": 14308,
+    "population_year": null
   },
   {
     "id": 108585,
@@ -81,6 +111,11 @@
     "latitude": "37.06855000",
     "longitude": "36.14661000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q609713",
+    "type": "adm2",
+    "native": "Toprakkale",
+    "timezone": "Europe/Istanbul",
+    "population": 8577,
+    "population_year": null
   }
 ]

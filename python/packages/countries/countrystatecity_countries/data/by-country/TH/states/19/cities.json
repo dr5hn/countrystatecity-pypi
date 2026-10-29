@@ -9,7 +9,12 @@
     "latitude": "14.61544000",
     "longitude": "100.72731000",
     "county_id": 5499,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "บ้านหมอ",
+    "timezone": "Asia/Bangkok",
+    "population": 15959,
+    "population_year": null
   },
   {
     "id": 105277,
@@ -21,7 +26,12 @@
     "latitude": "14.65671000",
     "longitude": "100.90838000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475351",
+    "type": "district",
+    "native": "อำเภอเฉลิมพระเกียรติ",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 166988,
@@ -33,7 +43,12 @@
     "latitude": "14.58891330",
     "longitude": "100.63026062",
     "county_id": 5500,
-    "wikiDataId": null
+    "wikiDataId": "Q106962672",
+    "type": "town",
+    "native": "ดอนพุด",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106505,
@@ -45,7 +60,12 @@
     "latitude": "14.58617000",
     "longitude": "100.99758000",
     "county_id": 5495,
-    "wikiDataId": null
+    "wikiDataId": "Q15225134",
+    "type": "city",
+    "native": "แก่งคอย",
+    "timezone": "Asia/Bangkok",
+    "population": 30332,
+    "population_year": null
   },
   {
     "id": 167076,
@@ -57,7 +77,12 @@
     "latitude": "14.65293000",
     "longitude": "101.20037000",
     "county_id": 5504,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "มวกเหล็ก",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 167109,
@@ -69,7 +94,12 @@
     "latitude": "14.68082681",
     "longitude": "100.70816854",
     "county_id": 5501,
-    "wikiDataId": null
+    "wikiDataId": "Q106994867",
+    "type": "town",
+    "native": "หนองโดน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106598,
@@ -81,7 +111,12 @@
     "latitude": "14.34062000",
     "longitude": "100.86733000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13025286",
+    "type": "adm2",
+    "native": "หนองแค",
+    "timezone": "Asia/Bangkok",
+    "population": 41067,
+    "population_year": null
   },
   {
     "id": 167122,
@@ -93,7 +128,12 @@
     "latitude": "14.49116000",
     "longitude": "100.78492000",
     "county_id": 5498,
-    "wikiDataId": null
+    "wikiDataId": "Q17297862",
+    "type": "town",
+    "native": "หนองแซง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106645,
@@ -105,7 +145,12 @@
     "latitude": "14.72526000",
     "longitude": "100.79536000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15310499",
+    "type": "adm2",
+    "native": "พระพุทธบาท",
+    "timezone": "Asia/Bangkok",
+    "population": 57008,
+    "population_year": null
   },
   {
     "id": 167195,
@@ -117,7 +162,12 @@
     "latitude": "14.55010000",
     "longitude": "100.84440000",
     "county_id": 5503,
-    "wikiDataId": null
+    "wikiDataId": "Q13025325",
+    "type": "town",
+    "native": "เสาไห้",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106688,
@@ -129,7 +179,12 @@
     "latitude": "14.53333000",
     "longitude": "100.91667000",
     "county_id": 5494,
-    "wikiDataId": null
+    "wikiDataId": "Q686387",
+    "type": "city",
+    "native": "สระบุรี",
+    "timezone": "Asia/Bangkok",
+    "population": 61750,
+    "population_year": null
   },
   {
     "id": 167269,
@@ -141,7 +196,12 @@
     "latitude": "14.84177000",
     "longitude": "101.12541000",
     "county_id": 5505,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "วังม่วง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106369,
@@ -153,6 +213,11 @@
     "latitude": "14.33435000",
     "longitude": "100.96458000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q477091",
+    "type": "district",
+    "native": "อำเภอวิหารแดง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

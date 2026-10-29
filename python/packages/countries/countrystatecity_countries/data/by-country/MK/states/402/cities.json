@@ -9,7 +9,12 @@
     "latitude": "41.44056000",
     "longitude": "22.72778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2740543",
+    "type": "adm1",
+    "native": "Босилово",
+    "timezone": "Europe/Skopje",
+    "population": 12447,
+    "population_year": null
   },
   {
     "id": 67441,
@@ -21,7 +26,12 @@
     "latitude": "41.47224000",
     "longitude": "22.80480000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20932180",
+    "type": "city",
+    "native": "Иловица",
+    "timezone": "Europe/Skopje",
+    "population": 2042,
+    "population_year": null
   },
   {
     "id": 67523,
@@ -33,6 +43,11 @@
     "latitude": "41.43999000",
     "longitude": "22.79536000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q667351",
+    "type": "city",
+    "native": "Секирник",
+    "timezone": "Europe/Skopje",
+    "population": 1222,
+    "population_year": null
   }
 ]

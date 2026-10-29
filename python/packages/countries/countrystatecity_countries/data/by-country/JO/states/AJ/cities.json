@@ -9,7 +9,12 @@
     "latitude": "32.33326000",
     "longitude": "35.75279000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "عجلون",
+    "timezone": "Asia/Amman",
+    "population": 125557,
+    "population_year": null
   },
   {
     "id": 63207,
@@ -21,7 +26,12 @@
     "latitude": "32.30630000",
     "longitude": "35.75653000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "عنجرة",
+    "timezone": "Asia/Amman",
+    "population": 17634,
+    "population_year": null
   },
   {
     "id": 63208,
@@ -33,7 +43,12 @@
     "latitude": "32.33466000",
     "longitude": "35.76370000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2828134",
+    "type": "city",
+    "native": "عين الجنة",
+    "timezone": "Asia/Amman",
+    "population": 9586,
+    "population_year": null
   },
   {
     "id": 63202,
@@ -45,7 +60,12 @@
     "latitude": "32.38433000",
     "longitude": "35.66167000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15222591",
+    "type": "city",
+    "native": "حلاوة",
+    "timezone": "Asia/Amman",
+    "population": 5376,
+    "population_year": null
   },
   {
     "id": 63199,
@@ -57,6 +77,11 @@
     "latitude": "32.37087000",
     "longitude": "35.84267000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "شاخرة",
+    "timezone": "Asia/Amman",
+    "population": 10616,
+    "population_year": null
   }
 ]

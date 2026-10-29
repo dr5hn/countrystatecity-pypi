@@ -9,7 +9,12 @@
     "latitude": "25.58580000",
     "longitude": "56.24792000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3696182",
+    "type": "municipality",
+    "native": "دبا الفجيرة",
+    "timezone": "Asia/Dubai",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 30,
@@ -21,7 +26,12 @@
     "latitude": "25.59246000",
     "longitude": "56.26176000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3696182",
+    "type": "city",
+    "native": "دبا الفجيرة",
+    "timezone": "Asia/Dubai",
+    "population": 30000,
+    "population_year": null
   },
   {
     "id": 20,
@@ -33,6 +43,11 @@
     "latitude": "25.11641000",
     "longitude": "56.34141000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4045",
+    "type": "adm1",
+    "native": "الفجيرة",
+    "timezone": "Asia/Dubai",
+    "population": 118933,
+    "population_year": null
   }
 ]

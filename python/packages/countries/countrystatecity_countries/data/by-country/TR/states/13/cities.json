@@ -9,7 +9,12 @@
     "latitude": "38.79911000",
     "longitude": "42.73159000",
     "county_id": 6839,
-    "wikiDataId": null
+    "wikiDataId": "Q49100380",
+    "type": "municipality",
+    "native": "Adilcevaz",
+    "timezone": "Europe/Istanbul",
+    "population": 15220,
+    "population_year": 2025
   },
   {
     "id": 107071,
@@ -21,7 +26,12 @@
     "latitude": "38.74890000",
     "longitude": "42.48007000",
     "county_id": 6845,
-    "wikiDataId": null
+    "wikiDataId": "Q15981193",
+    "type": "municipality",
+    "native": "Ahlat",
+    "timezone": "Europe/Istanbul",
+    "population": 32769,
+    "population_year": 2025
   },
   {
     "id": 167906,
@@ -33,7 +43,12 @@
     "latitude": "38.40115000",
     "longitude": "42.10784000",
     "county_id": 6925,
-    "wikiDataId": null
+    "wikiDataId": "Q83531",
+    "type": "municipality",
+    "native": "Bitlis",
+    "timezone": "Europe/Istanbul",
+    "population": 58567,
+    "population_year": 2025
   },
   {
     "id": 107751,
@@ -45,7 +60,12 @@
     "latitude": "38.57580000",
     "longitude": "42.01558000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1023310",
+    "type": "adm2",
+    "native": "Güroymak",
+    "timezone": "Europe/Istanbul",
+    "population": 25826,
+    "population_year": null
   },
   {
     "id": 107829,
@@ -57,7 +77,12 @@
     "latitude": "38.22498000",
     "longitude": "42.41830000",
     "county_id": 7115,
-    "wikiDataId": null
+    "wikiDataId": "Q2186592",
+    "type": "municipality",
+    "native": "Hizan",
+    "timezone": "Europe/Istanbul",
+    "population": 13822,
+    "population_year": 2025
   },
   {
     "id": 108233,
@@ -69,7 +94,12 @@
     "latitude": "38.40624000",
     "longitude": "41.92018000",
     "county_id": 7247,
-    "wikiDataId": null
+    "wikiDataId": "Q1860747",
+    "type": "municipality",
+    "native": "Mutki",
+    "timezone": "Europe/Istanbul",
+    "population": 4330,
+    "population_year": 2025
   },
   {
     "id": 108538,
@@ -81,6 +111,11 @@
     "latitude": "38.49221000",
     "longitude": "42.28269000",
     "county_id": 7376,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tatvan",
+    "timezone": "Europe/Istanbul",
+    "population": 89111,
+    "population_year": 2025
   }
 ]

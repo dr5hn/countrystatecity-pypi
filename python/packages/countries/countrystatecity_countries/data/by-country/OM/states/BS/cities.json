@@ -9,7 +9,12 @@
     "latitude": "23.97144000",
     "longitude": "57.09313000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الخابورة",
+    "timezone": "Asia/Muscat",
+    "population": 50223,
+    "population_year": null
   },
   {
     "id": 79929,
@@ -21,7 +26,12 @@
     "latitude": "23.84944000",
     "longitude": "57.43861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "As Suwayq",
+    "timezone": "Asia/Muscat",
+    "population": 107143,
+    "population_year": null
   },
   {
     "id": 79939,
@@ -33,7 +43,12 @@
     "latitude": "24.53077000",
     "longitude": "56.56300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Liwá",
+    "timezone": "Asia/Muscat",
+    "population": 26372,
+    "population_year": null
   },
   {
     "id": 79952,
@@ -45,7 +60,12 @@
     "latitude": "24.17222000",
     "longitude": "56.88861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "شايام",
+    "timezone": "Asia/Muscat",
+    "population": 140000,
+    "population_year": null
   },
   {
     "id": 79946,
@@ -57,7 +77,12 @@
     "latitude": "24.74260000",
     "longitude": "56.46698000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Shināş",
+    "timezone": "Asia/Muscat",
+    "population": 48009,
+    "population_year": null
   },
   {
     "id": 79947,
@@ -69,6 +94,11 @@
     "latitude": "24.34745000",
     "longitude": "56.70937000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q943270",
+    "type": "adm1",
+    "native": "ولاية صحار",
+    "timezone": "Asia/Muscat",
+    "population": 108274,
+    "population_year": null
   }
 ]

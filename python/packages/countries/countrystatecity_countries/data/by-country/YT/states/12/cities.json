@@ -9,7 +9,12 @@
     "latitude": "-12.78867000",
     "longitude": "45.14113000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "population": 3364,
+    "population_year": null
   },
   {
     "id": 160321,
@@ -21,6 +26,11 @@
     "latitude": "-12.78722000",
     "longitude": "45.10278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": null,
+    "timezone": "Indian/Mayotte",
+    "population": 7602,
+    "population_year": null
   }
 ]

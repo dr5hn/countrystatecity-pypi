@@ -9,7 +9,12 @@
     "latitude": "8.48714000",
     "longitude": "-13.23560000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3780",
+    "type": "capital",
+    "native": "Freetown",
+    "timezone": "Africa/Freetown",
+    "population": 802639,
+    "population_year": null
   },
   {
     "id": 104630,
@@ -21,7 +26,12 @@
     "latitude": "8.37994000",
     "longitude": "-13.13693000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Hastings",
+    "timezone": "Africa/Freetown",
+    "population": 5121,
+    "population_year": null
   },
   {
     "id": 104641,
@@ -33,7 +43,12 @@
     "latitude": "8.33333000",
     "longitude": "-13.06667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kent",
+    "timezone": "Africa/Freetown",
+    "population": 1804,
+    "population_year": null
   },
   {
     "id": 104688,
@@ -45,6 +60,11 @@
     "latitude": "8.33890000",
     "longitude": "-13.07091000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q623241",
+    "type": "city",
+    "native": "Waterloo",
+    "timezone": "Africa/Freetown",
+    "population": 55000,
+    "population_year": null
   }
 ]

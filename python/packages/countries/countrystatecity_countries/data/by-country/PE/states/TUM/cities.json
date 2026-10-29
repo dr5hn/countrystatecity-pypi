@@ -9,7 +9,12 @@
     "latitude": "-3.48139000",
     "longitude": "-80.24500000",
     "county_id": 8362,
-    "wikiDataId": null
+    "wikiDataId": "Q4694508",
+    "type": "municipality",
+    "native": "Aguas Verdes",
+    "timezone": "America/Lima",
+    "population": 9106,
+    "population_year": null
   },
   {
     "id": 80751,
@@ -21,7 +26,12 @@
     "latitude": "-4.07771000",
     "longitude": "-80.73690000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Papayal",
+    "timezone": "America/Lima",
+    "population": 5484,
+    "population_year": null
   },
   {
     "id": 80813,
@@ -33,7 +43,12 @@
     "latitude": "-4.00000000",
     "longitude": "-80.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1422590",
+    "type": "city",
+    "native": "Provincia de Contralmirante Villar",
+    "timezone": "America/Lima",
+    "population": 5484,
+    "population_year": null
   },
   {
     "id": 80912,
@@ -45,7 +60,12 @@
     "latitude": "-3.66667000",
     "longitude": "-80.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1477797",
+    "type": "province",
+    "native": "Provincia de Zarumilla",
+    "timezone": "America/Lima",
+    "population": 48844,
+    "population_year": null
   },
   {
     "id": 80999,
@@ -57,7 +77,12 @@
     "latitude": "-3.56694000",
     "longitude": "-80.45153000",
     "county_id": 8360,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tumbes",
+    "timezone": "America/Lima",
+    "population": 96946,
+    "population_year": null
   },
   {
     "id": 166912,
@@ -69,7 +94,12 @@
     "latitude": "-3.57083333",
     "longitude": "-80.45972222",
     "county_id": 8360,
-    "wikiDataId": null
+    "wikiDataId": "Q827640",
+    "type": "city",
+    "native": "Tumbes",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81021,
@@ -81,7 +111,12 @@
     "latitude": "-3.50306000",
     "longitude": "-80.27306000",
     "county_id": 8362,
-    "wikiDataId": null
+    "wikiDataId": "Q2877763",
+    "type": "municipality",
+    "native": "Zarumilla",
+    "timezone": "America/Lima",
+    "population": 16907,
+    "population_year": null
   },
   {
     "id": 81022,
@@ -93,6 +128,11 @@
     "latitude": "-3.68046000",
     "longitude": "-80.67819000",
     "county_id": 8361,
-    "wikiDataId": null
+    "wikiDataId": "Q3317432",
+    "type": "municipality",
+    "native": "Zorritos",
+    "timezone": "America/Lima",
+    "population": 12261,
+    "population_year": null
   }
 ]

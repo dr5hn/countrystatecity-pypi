@@ -9,7 +9,12 @@
     "latitude": "46.03333000",
     "longitude": "14.40000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2127005",
+    "type": "locality",
+    "native": "Brezovica pri Ljubljani",
+    "timezone": "Europe/Ljubljana",
+    "population": 1950,
+    "population_year": null
   },
   {
     "id": 104205,
@@ -21,7 +26,12 @@
     "latitude": "45.98750000",
     "longitude": "14.39889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2316241",
+    "type": "locality",
+    "native": "Notranje Gorice",
+    "timezone": "Europe/Ljubljana",
+    "population": 1950,
+    "population_year": null
   },
   {
     "id": 104214,
@@ -33,7 +43,12 @@
     "latitude": "46.03333000",
     "longitude": "14.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2000244",
+    "type": "city",
+    "native": "Opština Ljubljana-Vič-Rudnik",
+    "timezone": "Europe/Ljubljana",
+    "population": 13558,
+    "population_year": null
   },
   {
     "id": 104316,
@@ -45,6 +60,11 @@
     "latitude": "46.00722000",
     "longitude": "14.42194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1860460",
+    "type": "locality",
+    "native": "Vnanje Gorice",
+    "timezone": "Europe/Ljubljana",
+    "population": 2605,
+    "population_year": null
   }
 ]

@@ -1,0 +1,18 @@
+name: 1 November export follow-up
+
+on:
+  schedule:
+    - cron: '0 6,12 1 11 *'
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - name: Recheck after the upstream release cut
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          [ "$(date -u +%F)" = '2026-11-01' ] || exit 0
+          gh workflow run update-data.yml --repo "$GITHUB_REPOSITORY" --ref main -f release_november_refresh=true

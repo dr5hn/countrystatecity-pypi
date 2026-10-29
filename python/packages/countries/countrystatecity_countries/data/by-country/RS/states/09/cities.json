@@ -9,7 +9,12 @@
     "latitude": "44.33987000",
     "longitude": "19.81368000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Горња Буковица",
+    "timezone": "Europe/Belgrade",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 155051,
@@ -21,7 +26,12 @@
     "latitude": "44.36809950",
     "longitude": "20.14110360",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2048243",
+    "type": "city",
+    "native": "Лајковац",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97276,
@@ -33,7 +43,12 @@
     "latitude": "44.22281040",
     "longitude": "20.21389960",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2360583",
+    "type": "adm3",
+    "native": "Љиг",
+    "timezone": "Europe/Belgrade",
+    "population": 10711,
+    "population_year": null
   },
   {
     "id": 155052,
@@ -45,7 +60,12 @@
     "latitude": "44.25595280",
     "longitude": "20.05966170",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2047412",
+    "type": "adm3",
+    "native": "Мионица",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97323,
@@ -57,7 +77,12 @@
     "latitude": "44.37202670",
     "longitude": "19.57926740",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15629061",
+    "type": "city",
+    "native": "Осечина",
+    "timezone": "Europe/Belgrade",
+    "population": 3422,
+    "population_year": null
   },
   {
     "id": 155053,
@@ -69,7 +94,12 @@
     "latitude": "44.45594110",
     "longitude": "20.04489880",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12756688",
+    "type": "city",
+    "native": "Уб",
+    "timezone": "Europe/Belgrade",
+    "population": 6191,
+    "population_year": null
   },
   {
     "id": 97425,
@@ -81,6 +111,11 @@
     "latitude": "44.27513000",
     "longitude": "19.89821000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q208015",
+    "type": "city",
+    "native": "Ваљево",
+    "timezone": "Europe/Belgrade",
+    "population": 61035,
+    "population_year": null
   }
 ]

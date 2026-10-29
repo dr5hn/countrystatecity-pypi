@@ -9,7 +9,12 @@
     "latitude": "43.89139000",
     "longitude": "20.34972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q208038",
+    "type": "city",
+    "native": "Чачак",
+    "timezone": "Europe/Belgrade",
+    "population": 117072,
+    "population_year": null
   },
   {
     "id": 97214,
@@ -21,7 +26,12 @@
     "latitude": "44.02603000",
     "longitude": "20.46152000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4856130",
+    "type": "adm3",
+    "native": "Горњи Милановац",
+    "timezone": "Europe/Belgrade",
+    "population": 23982,
+    "population_year": null
   },
   {
     "id": 155055,
@@ -33,7 +43,12 @@
     "latitude": "43.58366500",
     "longitude": "20.21556940",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4195757",
+    "type": "adm3",
+    "native": "Ивањица",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 155056,
@@ -45,7 +60,12 @@
     "latitude": "43.85854930",
     "longitude": "20.11661750",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1252566",
+    "type": "city",
+    "native": "Лучани",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97347,
@@ -57,6 +77,11 @@
     "latitude": "43.95223000",
     "longitude": "20.43521000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2723458",
+    "type": "locality",
+    "native": "Прислоница",
+    "timezone": "Europe/Belgrade",
+    "population": 1735,
+    "population_year": null
   }
 ]

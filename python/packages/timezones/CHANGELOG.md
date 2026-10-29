@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.0.0] - 2026-10-29
+
+### Changed
+
+- Update the offline package set to pinned upstream v5.0.0-export.1, with source notices and release provenance.
+- This is a major data migration: upstream removes or repairs IDs. Review the upstream v5 migration files before updating stored references.
+- Countries supports cities with null state links and retains population reference years. Postal codes are refreshed from the same export.
+
 All notable changes to `countrystatecity-timezones` will be documented in this file.
 
 ## [2.0.1] - 2026-10-12

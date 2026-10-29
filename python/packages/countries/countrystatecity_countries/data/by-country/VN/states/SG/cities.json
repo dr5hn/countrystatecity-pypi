@@ -9,7 +9,12 @@
     "latitude": "10.41115000",
     "longitude": "106.95474000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Cần Giờ",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 55137,
+    "population_year": null
   },
   {
     "id": 130189,
@@ -21,7 +26,12 @@
     "latitude": "8.68641000",
     "longitude": "106.60824000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Côn Sơn",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 6800,
+    "population_year": null
   },
   {
     "id": 130194,
@@ -33,7 +43,12 @@
     "latitude": "10.97333000",
     "longitude": "106.49325000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q55963184",
+    "type": "adm2",
+    "native": "Củ Chi",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 75000,
+    "population_year": null
   },
   {
     "id": 130198,
@@ -45,7 +60,12 @@
     "latitude": "10.90682000",
     "longitude": "106.76940000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1320364",
+    "type": "adm2",
+    "native": "Dĩ An",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 463023,
+    "population_year": null
   },
   {
     "id": 168133,
@@ -57,7 +77,12 @@
     "latitude": "10.49093000",
     "longitude": "107.27014000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Đất Đỏ",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130202,
@@ -69,7 +94,12 @@
     "latitude": "10.82302000",
     "longitude": "106.62965000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1854",
+    "type": "city",
+    "native": "Ho Chi Minh City",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 14002598,
+    "population_year": null
   },
   {
     "id": 168115,
@@ -81,7 +111,12 @@
     "latitude": "10.53472000",
     "longitude": "107.40202000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Hồ Tràm",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130255,
@@ -93,7 +128,12 @@
     "latitude": "10.65805000",
     "longitude": "107.25098000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1319826",
+    "type": "adm2",
+    "native": "Huyện Châu Đức",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 130487,
@@ -105,7 +145,12 @@
     "latitude": "10.57381000",
     "longitude": "107.10189000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Tân Thành",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130613,
@@ -117,7 +162,12 @@
     "latitude": "10.56815000",
     "longitude": "107.12999000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1320204",
+    "type": "city",
+    "native": "Thị Xã Phú Mỹ",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130616,
@@ -129,7 +179,12 @@
     "latitude": "10.98040000",
     "longitude": "106.65190000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Thủ Dầu Một",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 373105,
+    "population_year": null
   },
   {
     "id": 130626,
@@ -141,6 +196,11 @@
     "latitude": "10.34599000",
     "longitude": "107.08426000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Vũng Tàu",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 464860,
+    "population_year": null
   }
 ]

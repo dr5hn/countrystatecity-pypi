@@ -9,7 +9,12 @@
     "latitude": "33.97861000",
     "longitude": "44.93694000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2353893",
+    "type": "adm2",
+    "native": "المقدادية",
+    "timezone": "Asia/Baghdad",
+    "population": 50698,
+    "population_year": null
   },
   {
     "id": 134506,
@@ -21,7 +26,12 @@
     "latitude": "33.69631000",
     "longitude": "45.07782000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q804598",
+    "type": "adm2",
+    "native": "بالادروز",
+    "timezone": "Asia/Baghdad",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 134507,
@@ -33,7 +43,12 @@
     "latitude": "33.75403000",
     "longitude": "44.60518000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q270821",
+    "type": "adm1",
+    "native": "بعقوبة",
+    "timezone": "Asia/Baghdad",
+    "population": 152550,
+    "population_year": null
   },
   {
     "id": 165092,
@@ -45,7 +60,12 @@
     "latitude": "33.78406000",
     "longitude": "44.50659000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5750762",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "population": 21373,
+    "population_year": null
   },
   {
     "id": 134519,
@@ -57,7 +77,12 @@
     "latitude": "33.80809000",
     "longitude": "44.53343000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "خاليش",
+    "timezone": "Asia/Baghdad",
+    "population": 70046,
+    "population_year": null
   },
   {
     "id": 165924,
@@ -69,7 +94,12 @@
     "latitude": "34.34820000",
     "longitude": "45.39065000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1004283",
+    "type": "city",
+    "native": "خانقين",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 134520,
@@ -81,7 +111,12 @@
     "latitude": "34.68963000",
     "longitude": "44.96057000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2626532",
+    "type": "adm2",
+    "native": "كفري",
+    "timezone": "Asia/Baghdad",
+    "population": 30143,
+    "population_year": null
   },
   {
     "id": 134524,
@@ -93,7 +128,12 @@
     "latitude": "33.74810000",
     "longitude": "45.55503000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1382440",
+    "type": "city",
+    "native": "مندلي",
+    "timezone": "Asia/Baghdad",
+    "population": 29785,
+    "population_year": null
   },
   {
     "id": 134532,
@@ -105,6 +145,11 @@
     "latitude": "34.52289000",
     "longitude": "44.85821000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "قضاء كفري",
+    "timezone": "Asia/Baghdad",
+    "population": null,
+    "population_year": null
   }
 ]

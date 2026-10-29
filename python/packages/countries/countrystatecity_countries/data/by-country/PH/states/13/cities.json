@@ -9,7 +9,12 @@
     "latitude": "9.49056000",
     "longitude": "125.43639000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31532558",
+    "type": "city",
+    "native": "Cantapoy",
+    "timezone": "Asia/Manila",
+    "population": 2259,
+    "population_year": null
   },
   {
     "id": 82405,
@@ -21,7 +26,12 @@
     "latitude": "9.86944000",
     "longitude": "125.96972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q28735",
+    "type": "adm3",
+    "native": "Del Carmen Surigao del Norte",
+    "timezone": "Asia/Manila",
+    "population": 4276,
+    "population_year": null
   },
   {
     "id": 82434,
@@ -33,7 +43,12 @@
     "latitude": "10.12301000",
     "longitude": "125.55725000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13807",
+    "type": "adm2",
+    "native": "Dinagat Islands",
+    "timezone": "Asia/Manila",
+    "population": 120533,
+    "population_year": null
   },
   {
     "id": 83164,
@@ -45,7 +60,12 @@
     "latitude": "9.00767000",
     "longitude": "125.50558000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Lombocan",
+    "timezone": "Asia/Manila",
+    "population": 4521,
+    "population_year": null
   },
   {
     "id": 84882,
@@ -57,7 +77,12 @@
     "latitude": "9.78900000",
     "longitude": "125.49500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Surigao",
+    "timezone": "Asia/Manila",
+    "population": 87832,
+    "population_year": null
   },
   {
     "id": 84975,
@@ -69,6 +94,11 @@
     "latitude": "8.90444000",
     "longitude": "125.65583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31543623",
+    "type": "city",
+    "native": "Taligaman",
+    "timezone": "Asia/Manila",
+    "population": 7430,
+    "population_year": null
   }
 ]

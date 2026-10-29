@@ -9,7 +9,12 @@
     "latitude": "1.95960000",
     "longitude": "-72.65315000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23696198",
+    "type": "adm2",
+    "native": "Calamar",
+    "timezone": "America/Bogota",
+    "population": 3745,
+    "population_year": null
   },
   {
     "id": 20823,
@@ -21,7 +26,12 @@
     "latitude": "2.33022000",
     "longitude": "-72.62765000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1526156",
+    "type": "municipality",
+    "native": "El Retorno",
+    "timezone": "America/Bogota",
+    "population": 11340,
+    "population_year": null
   },
   {
     "id": 21083,
@@ -33,7 +43,12 @@
     "latitude": "1.33667000",
     "longitude": "-71.95111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q980001",
+    "type": "municipality",
+    "native": "Miraflores",
+    "timezone": "America/Bogota",
+    "population": 5007,
+    "population_year": null
   },
   {
     "id": 21370,
@@ -45,6 +60,11 @@
     "latitude": "2.57286000",
     "longitude": "-72.64591000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q864675",
+    "type": "municipality",
+    "native": "San José del Guaviare",
+    "timezone": "America/Bogota",
+    "population": 53994,
+    "population_year": null
   }
 ]

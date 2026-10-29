@@ -9,7 +9,12 @@
     "latitude": "16.04072000",
     "longitude": "97.91773000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Dellok",
+    "timezone": "Asia/Yangon",
+    "population": 2000,
+    "population_year": null
   },
   {
     "id": 67640,
@@ -21,7 +26,12 @@
     "latitude": "16.88953000",
     "longitude": "97.63482000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1209404",
+    "type": "adm1",
+    "native": "ဘားအံ",
+    "timezone": "Asia/Yangon",
+    "population": 50000,
+    "population_year": null
   },
   {
     "id": 165208,
@@ -33,7 +43,12 @@
     "latitude": "16.55543000",
     "longitude": "98.23710000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6380013",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "population": 48468,
+    "population_year": null
   },
   {
     "id": 67644,
@@ -45,7 +60,12 @@
     "latitude": "15.95411000",
     "longitude": "98.43250000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Klonhtoug",
+    "timezone": "Asia/Yangon",
+    "population": 2001,
+    "population_year": null
   },
   {
     "id": 67648,
@@ -57,7 +77,12 @@
     "latitude": "15.82288000",
     "longitude": "98.25257000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "cities",
+    "native": "ကြာအင်းဆိပ်ကြီးမြို့နယ်",
+    "timezone": "Asia/Yangon",
+    "population": 246065,
+    "population_year": null
   },
   {
     "id": 67661,
@@ -69,7 +94,12 @@
     "latitude": "15.95846000",
     "longitude": "98.42721000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mikenaungea",
+    "timezone": "Asia/Yangon",
+    "population": 2005,
+    "population_year": null
   },
   {
     "id": 67667,
@@ -81,7 +111,12 @@
     "latitude": "16.68911000",
     "longitude": "98.50893000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q615821",
+    "type": "city",
+    "native": "မြဝတီမြို့",
+    "timezone": "Asia/Yangon",
+    "population": 45000,
+    "population_year": null
   },
   {
     "id": 165222,
@@ -93,7 +128,12 @@
     "latitude": "15.31771000",
     "longitude": "98.38836000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4385006",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Yangon",
+    "population": 27311,
+    "population_year": null
   },
   {
     "id": 67679,
@@ -105,7 +145,12 @@
     "latitude": "16.06243000",
     "longitude": "97.88280000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "ပူလီ",
+    "timezone": "Asia/Yangon",
+    "population": 2001,
+    "population_year": null
   },
   {
     "id": 67690,
@@ -117,7 +162,12 @@
     "latitude": "16.06750000",
     "longitude": "97.90694000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q30016638",
+    "type": "city",
+    "native": "တန်ဂွန်",
+    "timezone": "Asia/Yangon",
+    "population": 4994,
+    "population_year": null
   },
   {
     "id": 67691,
@@ -129,6 +179,11 @@
     "latitude": "16.03447000",
     "longitude": "97.91458000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tamoowoug",
+    "timezone": "Asia/Yangon",
+    "population": 2005,
+    "population_year": null
   }
 ]

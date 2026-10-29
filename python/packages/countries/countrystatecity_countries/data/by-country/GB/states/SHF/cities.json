@@ -9,7 +9,12 @@
     "latitude": "53.33333000",
     "longitude": "-1.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q56660379",
+    "type": "city",
+    "native": "Beighton",
+    "timezone": "Europe/London",
+    "population": 10914,
+    "population_year": null
   },
   {
     "id": 48774,
@@ -21,7 +26,12 @@
     "latitude": "53.39302000",
     "longitude": "-1.45789000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Burngreave",
+    "timezone": "Europe/London",
+    "population": 27481,
+    "population_year": null
   },
   {
     "id": 48918,
@@ -33,7 +43,12 @@
     "latitude": "53.46506000",
     "longitude": "-1.47217000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3666269",
+    "type": "section",
+    "native": "Chapeltown",
+    "timezone": "Europe/London",
+    "population": 23056,
+    "population_year": null
   },
   {
     "id": 49984,
@@ -45,7 +60,12 @@
     "latitude": "53.34819000",
     "longitude": "-1.74485000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Hope Valley",
+    "timezone": "Europe/London",
+    "population": 1001,
+    "population_year": null
   },
   {
     "id": 50829,
@@ -57,7 +77,12 @@
     "latitude": "53.43612000",
     "longitude": "-1.53902000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3887410",
+    "type": "city",
+    "native": "Oughtibridge",
+    "timezone": "Europe/London",
+    "population": 4939,
+    "population_year": null
   },
   {
     "id": 51255,
@@ -69,7 +94,12 @@
     "latitude": "53.38297000",
     "longitude": "-1.46590000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42448",
+    "type": "city",
+    "native": "Sheffield",
+    "timezone": "Europe/London",
+    "population": 577800,
+    "population_year": null
   },
   {
     "id": 51456,
@@ -81,6 +111,11 @@
     "latitude": "53.48249000",
     "longitude": "-1.59373000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1813994",
+    "type": "town",
+    "native": "Stocksbridge",
+    "timezone": "Europe/London",
+    "population": 13301,
+    "population_year": null
   }
 ]

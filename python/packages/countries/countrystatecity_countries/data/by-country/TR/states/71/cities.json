@@ -9,7 +9,12 @@
     "latitude": "39.80979000",
     "longitude": "33.44080000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2671055",
+    "type": "adm2",
+    "native": "Bahşılı",
+    "timezone": "Europe/Istanbul",
+    "population": 190,
+    "population_year": null
   },
   {
     "id": 107279,
@@ -21,7 +26,12 @@
     "latitude": "39.91411000",
     "longitude": "33.72333000",
     "county_id": 7585,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Balışeyh",
+    "timezone": "Europe/Istanbul",
+    "population": 2058,
+    "population_year": 2025
   },
   {
     "id": 108813,
@@ -33,7 +43,12 @@
     "latitude": "39.47470000",
     "longitude": "33.52895000",
     "county_id": 7604,
-    "wikiDataId": null
+    "wikiDataId": "Q2424608",
+    "type": "municipality",
+    "native": "Çelebi",
+    "timezone": "Europe/Istanbul",
+    "population": 934,
+    "population_year": 2025
   },
   {
     "id": 107459,
@@ -45,7 +60,12 @@
     "latitude": "39.95371000",
     "longitude": "34.02587000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2674006",
+    "type": "adm2",
+    "native": "Delice",
+    "timezone": "Europe/Istanbul",
+    "population": 10017,
+    "population_year": null
   },
   {
     "id": 107897,
@@ -57,7 +77,12 @@
     "latitude": "39.59417000",
     "longitude": "33.37778000",
     "county_id": 7657,
-    "wikiDataId": null
+    "wikiDataId": "Q1916491",
+    "type": "municipality",
+    "native": "Karakeçili",
+    "timezone": "Europe/Istanbul",
+    "population": 2796,
+    "population_year": 2025
   },
   {
     "id": 107985,
@@ -69,7 +94,12 @@
     "latitude": "39.67306000",
     "longitude": "33.61361000",
     "county_id": 7180,
-    "wikiDataId": null
+    "wikiDataId": "Q596731",
+    "type": "municipality",
+    "native": "Keskin",
+    "timezone": "Europe/Istanbul",
+    "population": 49679,
+    "population_year": null
   },
   {
     "id": 108109,
@@ -81,7 +111,12 @@
     "latitude": "39.84528000",
     "longitude": "33.50639000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q206891",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 185756,
+    "population_year": 2025
   },
   {
     "id": 108490,
@@ -93,7 +128,12 @@
     "latitude": "40.15733000",
     "longitude": "33.71600000",
     "county_id": 7345,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Sulakyurt",
+    "timezone": "Europe/Istanbul",
+    "population": 6592,
+    "population_year": null
   },
   {
     "id": 108659,
@@ -105,6 +145,11 @@
     "latitude": "39.85992000",
     "longitude": "33.45615000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1980493",
+    "type": "adm2",
+    "native": "Yahşihan",
+    "timezone": "Europe/Istanbul",
+    "population": 143,
+    "population_year": null
   }
 ]

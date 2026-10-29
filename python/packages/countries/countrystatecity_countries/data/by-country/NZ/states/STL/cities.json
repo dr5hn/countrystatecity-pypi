@@ -9,7 +9,12 @@
     "latitude": "-46.60000000",
     "longitude": "168.33333000",
     "county_id": 13796,
-    "wikiDataId": null
+    "wikiDataId": "Q152028",
+    "type": "town",
+    "native": "Bluff",
+    "timezone": "Pacific/Auckland",
+    "population": 1850,
+    "population_year": null
   },
   {
     "id": 79797,
@@ -21,7 +26,12 @@
     "latitude": "-46.10282000",
     "longitude": "168.94357000",
     "county_id": 13795,
-    "wikiDataId": null
+    "wikiDataId": "Q597409",
+    "type": "town",
+    "native": "Gore",
+    "timezone": "Pacific/Auckland",
+    "population": 13050,
+    "population_year": null
   },
   {
     "id": 79804,
@@ -33,7 +43,12 @@
     "latitude": "-46.40000000",
     "longitude": "168.35000000",
     "county_id": 13796,
-    "wikiDataId": null
+    "wikiDataId": "Q31805",
+    "type": "city",
+    "native": "Invercargill",
+    "timezone": "Pacific/Auckland",
+    "population": 50200,
+    "population_year": null
   },
   {
     "id": 79871,
@@ -45,7 +60,12 @@
     "latitude": "-46.35000000",
     "longitude": "168.01667000",
     "county_id": 13794,
-    "wikiDataId": null
+    "wikiDataId": "Q152152",
+    "type": "town",
+    "native": "Riverton",
+    "timezone": "Pacific/Auckland",
+    "population": 1680,
+    "population_year": null
   },
   {
     "id": 79890,
@@ -57,7 +77,12 @@
     "latitude": "-45.41667000",
     "longitude": "167.71667000",
     "county_id": 13794,
-    "wikiDataId": null
+    "wikiDataId": "Q1154973",
+    "type": "town",
+    "native": "Te Anau",
+    "timezone": "Pacific/Auckland",
+    "population": 2940,
+    "population_year": null
   },
   {
     "id": 79923,
@@ -69,6 +94,11 @@
     "latitude": "-46.15000000",
     "longitude": "168.33333000",
     "county_id": 13794,
-    "wikiDataId": null
+    "wikiDataId": "Q1721802",
+    "type": "town",
+    "native": "Winton",
+    "timezone": "Pacific/Auckland",
+    "population": 2470,
+    "population_year": null
   }
 ]

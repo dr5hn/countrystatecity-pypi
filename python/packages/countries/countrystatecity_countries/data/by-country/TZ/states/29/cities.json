@@ -9,7 +9,12 @@
     "latitude": "-8.90000000",
     "longitude": "34.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Ilembula",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 18870,
+    "population_year": null
   },
   {
     "id": 109165,
@@ -21,7 +26,12 @@
     "latitude": "-8.85000000",
     "longitude": "34.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6272925",
+    "type": "city",
+    "native": "Makumbako",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 116232,
+    "population_year": null
   },
   {
     "id": 109172,
@@ -33,7 +43,12 @@
     "latitude": "-10.46667000",
     "longitude": "34.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Manda",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 8393,
+    "population_year": null
   },
   {
     "id": 109181,
@@ -45,7 +60,12 @@
     "latitude": "-8.98333000",
     "longitude": "33.96667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Matamba",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 10642,
+    "population_year": null
   },
   {
     "id": 109205,
@@ -57,7 +77,12 @@
     "latitude": "-9.78333000",
     "longitude": "34.51667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mlangali",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 15168,
+    "population_year": null
   },
   {
     "id": 109219,
@@ -69,7 +94,12 @@
     "latitude": "-9.01667000",
     "longitude": "34.80000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mtwango",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 19040,
+    "population_year": null
   },
   {
     "id": 109256,
@@ -81,6 +111,11 @@
     "latitude": "-9.34917000",
     "longitude": "34.77167000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Njombe",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 109311,
+    "population_year": null
   }
 ]

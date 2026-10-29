@@ -9,7 +9,12 @@
     "latitude": "57.28333000",
     "longitude": "13.63333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Anderstorp",
+    "timezone": "Europe/Stockholm",
+    "population": 4987,
+    "population_year": null
   },
   {
     "id": 103001,
@@ -21,7 +26,12 @@
     "latitude": "57.83895000",
     "longitude": "14.81016000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Aneby",
+    "timezone": "Europe/Stockholm",
+    "population": 3653,
+    "population_year": null
   },
   {
     "id": 103026,
@@ -33,7 +43,12 @@
     "latitude": "57.86021000",
     "longitude": "14.12400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2391850",
+    "type": "city",
+    "native": "Bankeryd",
+    "timezone": "Europe/Stockholm",
+    "population": 8506,
+    "population_year": null
   },
   {
     "id": 103060,
@@ -45,7 +60,12 @@
     "latitude": "57.50000000",
     "longitude": "14.70000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1821030",
+    "type": "locality",
+    "native": "Bodafors",
+    "timezone": "Europe/Stockholm",
+    "population": 1794,
+    "population_year": 2025
   },
   {
     "id": 103071,
@@ -57,7 +77,12 @@
     "latitude": "57.11667000",
     "longitude": "14.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3283825",
+    "type": "locality",
+    "native": "Bar",
+    "timezone": "Europe/Stockholm",
+    "population": 1289,
+    "population_year": 2025
   },
   {
     "id": 103083,
@@ -69,7 +94,12 @@
     "latitude": "57.17343000",
     "longitude": "13.73789000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3283889",
+    "type": "locality",
+    "native": "Bredaryd",
+    "timezone": "Europe/Stockholm",
+    "population": 1440,
+    "population_year": 2025
   },
   {
     "id": 103132,
@@ -81,7 +111,12 @@
     "latitude": "57.49175000",
     "longitude": "15.02226000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1839613",
+    "type": "locality",
+    "native": "Ekenässjön",
+    "timezone": "Europe/Stockholm",
+    "population": 1556,
+    "population_year": 2025
   },
   {
     "id": 103136,
@@ -93,7 +128,12 @@
     "latitude": "57.66643000",
     "longitude": "14.97205000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Eksjö",
+    "timezone": "Europe/Stockholm",
+    "population": 11077,
+    "population_year": null
   },
   {
     "id": 103178,
@@ -105,7 +145,12 @@
     "latitude": "57.70000000",
     "longitude": "14.46667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2854566",
+    "type": "locality",
+    "native": "Forserum",
+    "timezone": "Europe/Stockholm",
+    "population": 2189,
+    "population_year": 2025
   },
   {
     "id": 103181,
@@ -117,7 +162,12 @@
     "latitude": "57.16415000",
     "longitude": "13.83016000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2199905",
+    "type": "locality",
+    "native": "Forsheda",
+    "timezone": "Europe/Stockholm",
+    "population": 1408,
+    "population_year": 2025
   },
   {
     "id": 103209,
@@ -129,7 +179,12 @@
     "latitude": "57.30440000",
     "longitude": "13.54078000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Gislaved",
+    "timezone": "Europe/Stockholm",
+    "population": 10029,
+    "population_year": null
   },
   {
     "id": 103217,
@@ -141,7 +196,12 @@
     "latitude": "57.35850000",
     "longitude": "13.73686000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1533298",
+    "type": "locality",
+    "native": "Gnosjö",
+    "timezone": "Europe/Stockholm",
+    "population": 4136,
+    "population_year": 2025
   },
   {
     "id": 103227,
@@ -153,7 +213,12 @@
     "latitude": "58.01667000",
     "longitude": "14.46667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q194353",
+    "type": "locality",
+    "native": "Gränna",
+    "timezone": "Europe/Stockholm",
+    "population": 2668,
+    "population_year": 2025
   },
   {
     "id": 103249,
@@ -165,7 +230,12 @@
     "latitude": "57.91185000",
     "longitude": "14.07444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1566951",
+    "type": "adm2",
+    "native": "Habo",
+    "timezone": "Europe/Stockholm",
+    "population": 9499,
+    "population_year": null
   },
   {
     "id": 103284,
@@ -177,7 +247,12 @@
     "latitude": "57.44232000",
     "longitude": "13.59575000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q254251",
+    "type": "locality",
+    "native": "Hestra",
+    "timezone": "Europe/Stockholm",
+    "population": 1340,
+    "population_year": 2025
   },
   {
     "id": 103285,
@@ -189,7 +264,12 @@
     "latitude": "57.31293000",
     "longitude": "13.88437000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1016846",
+    "type": "locality",
+    "native": "Hillerstorp",
+    "timezone": "Europe/Stockholm",
+    "population": 1621,
+    "population_year": 2025
   },
   {
     "id": 103310,
@@ -201,7 +281,12 @@
     "latitude": "57.78596000",
     "longitude": "14.30214000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q263877",
+    "type": "city",
+    "native": "Huskvarna",
+    "timezone": "Europe/Stockholm",
+    "population": 21500,
+    "population_year": null
   },
   {
     "id": 103366,
@@ -213,7 +298,12 @@
     "latitude": "57.78145000",
     "longitude": "14.15618000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q25415",
+    "type": "locality",
+    "native": "Jönköping",
+    "timezone": "Europe/Stockholm",
+    "population": 104112,
+    "population_year": 2025
   },
   {
     "id": 103387,
@@ -225,7 +315,12 @@
     "latitude": "57.85345000",
     "longitude": "14.30457000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q675213",
+    "type": "locality",
+    "native": "Kaxholm",
+    "timezone": "Europe/Stockholm",
+    "population": 1910,
+    "population_year": 2025
   },
   {
     "id": 103450,
@@ -237,7 +332,12 @@
     "latitude": "57.36667000",
     "longitude": "14.90000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3354232",
+    "type": "locality",
+    "native": "Landsbro",
+    "timezone": "Europe/Stockholm",
+    "population": 1401,
+    "population_year": 2025
   },
   {
     "id": 103514,
@@ -249,7 +349,12 @@
     "latitude": "57.57667000",
     "longitude": "14.46170000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2292693",
+    "type": "locality",
+    "native": "Malmbäck",
+    "timezone": "Europe/Stockholm",
+    "population": 1060,
+    "population_year": 2025
   },
   {
     "id": 103523,
@@ -261,7 +366,12 @@
     "latitude": "57.61667000",
     "longitude": "15.56667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2384321",
+    "type": "locality",
+    "native": "Mariannelund",
+    "timezone": "Europe/Stockholm",
+    "population": 1455,
+    "population_year": 2025
   },
   {
     "id": 103526,
@@ -273,7 +383,12 @@
     "latitude": "57.38333000",
     "longitude": "13.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1904713",
+    "type": "city",
+    "native": "Marieholm",
+    "timezone": "Europe/Stockholm",
+    "population": 1578,
+    "population_year": null
   },
   {
     "id": 103550,
@@ -285,7 +400,12 @@
     "latitude": "57.91710000",
     "longitude": "13.87831000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q508108",
+    "type": "adm2",
+    "native": "Mullsjö",
+    "timezone": "Europe/Stockholm",
+    "population": 5584,
+    "population_year": null
   },
   {
     "id": 103602,
@@ -297,7 +417,12 @@
     "latitude": "57.65307000",
     "longitude": "14.69676000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q654299",
+    "type": "locality",
+    "native": "Nässjö",
+    "timezone": "Europe/Stockholm",
+    "population": 18554,
+    "population_year": 2025
   },
   {
     "id": 103610,
@@ -309,7 +434,12 @@
     "latitude": "57.71667000",
     "longitude": "14.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2161782",
+    "type": "city",
+    "native": "Odensjö",
+    "timezone": "Europe/Stockholm",
+    "population": 2919,
+    "population_year": null
   },
   {
     "id": 103644,
@@ -321,7 +451,12 @@
     "latitude": "57.17467000",
     "longitude": "13.59498000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q784287",
+    "type": "locality",
+    "native": "Reftele",
+    "timezone": "Europe/Stockholm",
+    "population": 1229,
+    "population_year": 2025
   },
   {
     "id": 103662,
@@ -333,7 +468,12 @@
     "latitude": "56.98388000",
     "longitude": "14.30849000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2577791",
+    "type": "locality",
+    "native": "Rydaholm",
+    "timezone": "Europe/Stockholm",
+    "population": 1430,
+    "population_year": 2025
   },
   {
     "id": 103814,
@@ -345,7 +485,12 @@
     "latitude": "57.40327000",
     "longitude": "14.66244000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q985616",
+    "type": "locality",
+    "native": "Sävsjö",
+    "timezone": "Europe/Stockholm",
+    "population": 5576,
+    "population_year": 2025
   },
   {
     "id": 103704,
@@ -357,7 +502,12 @@
     "latitude": "57.43044000",
     "longitude": "14.09383000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1565387",
+    "type": "locality",
+    "native": "Skillingaryd",
+    "timezone": "Europe/Stockholm",
+    "population": 4258,
+    "population_year": 2025
   },
   {
     "id": 103732,
@@ -369,7 +519,12 @@
     "latitude": "57.16241000",
     "longitude": "13.41212000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2338168",
+    "type": "locality",
+    "native": "Smålandsstenar",
+    "timezone": "Europe/Stockholm",
+    "population": 4534,
+    "population_year": 2025
   },
   {
     "id": 103757,
@@ -381,7 +536,12 @@
     "latitude": "57.31737000",
     "longitude": "14.59341000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1016852",
+    "type": "locality",
+    "native": "Stockaryd",
+    "timezone": "Europe/Stockholm",
+    "population": 1009,
+    "population_year": 2025
   },
   {
     "id": 103835,
@@ -393,7 +553,12 @@
     "latitude": "57.67722000",
     "longitude": "14.08876000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2745396",
+    "type": "locality",
+    "native": "Taberg",
+    "timezone": "Europe/Stockholm",
+    "population": 5260,
+    "population_year": 2025
   },
   {
     "id": 103840,
@@ -405,7 +570,12 @@
     "latitude": "57.70761000",
     "longitude": "14.32205000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2264128",
+    "type": "locality",
+    "native": "Tenhult",
+    "timezone": "Europe/Stockholm",
+    "population": 3052,
+    "population_year": 2025
   },
   {
     "id": 103871,
@@ -417,7 +587,12 @@
     "latitude": "58.03717000",
     "longitude": "14.97820000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q988403",
+    "type": "locality",
+    "native": "Tranås",
+    "timezone": "Europe/Stockholm",
+    "population": 14387,
+    "population_year": 2025
   },
   {
     "id": 103909,
@@ -429,7 +604,12 @@
     "latitude": "57.49807000",
     "longitude": "14.14842000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q339905",
+    "type": "locality",
+    "native": "Vaggeryd",
+    "timezone": "Europe/Stockholm",
+    "population": 5833,
+    "population_year": 2025
   },
   {
     "id": 103968,
@@ -441,7 +621,12 @@
     "latitude": "57.18604000",
     "longitude": "14.04001000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q54771",
+    "type": "locality",
+    "native": "Värnamo",
+    "timezone": "Europe/Stockholm",
+    "population": 20275,
+    "population_year": 2025
   },
   {
     "id": 103937,
@@ -453,7 +638,12 @@
     "latitude": "57.42887000",
     "longitude": "15.07762000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q611013",
+    "type": "locality",
+    "native": "Vetlanda",
+    "timezone": "Europe/Stockholm",
+    "population": 13847,
+    "population_year": 2025
   },
   {
     "id": 103961,
@@ -465,6 +655,11 @@
     "latitude": "57.35000000",
     "longitude": "14.46667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1016856",
+    "type": "city",
+    "native": "Vrigstad",
+    "timezone": "Europe/Stockholm",
+    "population": 1477,
+    "population_year": null
   }
 ]

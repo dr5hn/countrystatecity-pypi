@@ -9,7 +9,12 @@
     "latitude": "31.76000000",
     "longitude": "25.07500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q141687",
+    "type": "city",
+    "native": "البردية",
+    "timezone": "Africa/Tripoli",
+    "population": 9149,
+    "population_year": null
   },
   {
     "id": 160045,
@@ -21,7 +26,12 @@
     "latitude": "29.74250000",
     "longitude": "24.51694444",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q284251",
+    "type": "city",
+    "native": "الجغبوب",
+    "timezone": "Africa/Tripoli",
+    "population": 2768,
+    "population_year": null
   },
   {
     "id": 160043,
@@ -33,6 +43,11 @@
     "latitude": "32.07611111",
     "longitude": "23.96138889",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q182092",
+    "type": "adm1",
+    "native": "طبرق",
+    "timezone": "Africa/Tripoli",
+    "population": 135832,
+    "population_year": null
   }
 ]

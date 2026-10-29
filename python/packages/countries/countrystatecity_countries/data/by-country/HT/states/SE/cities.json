@@ -9,7 +9,12 @@
     "latitude": "18.05000000",
     "longitude": "-71.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2258426",
+    "type": "city",
+    "native": "Anse-à-Pitre",
+    "timezone": "America/Port-au-Prince",
+    "population": 1736,
+    "population_year": null
   },
   {
     "id": 55053,
@@ -21,7 +26,12 @@
     "latitude": "18.25000000",
     "longitude": "-72.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Arrondissement de Bainet",
+    "timezone": "America/Port-au-Prince",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 55057,
@@ -33,7 +43,12 @@
     "latitude": "18.33333000",
     "longitude": "-72.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Arrondissement de Jacmel",
+    "timezone": "America/Port-au-Prince",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 55073,
@@ -45,7 +60,12 @@
     "latitude": "18.23768000",
     "longitude": "-72.06638000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1888075",
+    "type": "city",
+    "native": "Belle-Anse",
+    "timezone": "America/Port-au-Prince",
+    "population": 2611,
+    "population_year": null
   },
   {
     "id": 55081,
@@ -57,7 +77,12 @@
     "latitude": "18.23110000",
     "longitude": "-72.39545000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Cayes-Jacmel",
+    "timezone": "America/Port-au-Prince",
+    "population": 1609,
+    "population_year": null
   },
   {
     "id": 55109,
@@ -69,7 +94,12 @@
     "latitude": "18.23427000",
     "longitude": "-72.53539000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q923362",
+    "type": "adm1",
+    "native": "Jacmel",
+    "timezone": "America/Port-au-Prince",
+    "population": 137966,
+    "population_year": null
   },
   {
     "id": 55114,
@@ -81,7 +111,12 @@
     "latitude": "18.18872000",
     "longitude": "-73.00287000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2256742",
+    "type": "city",
+    "native": "Kotdefè",
+    "timezone": "America/Port-au-Prince",
+    "population": 2393,
+    "population_year": null
   },
   {
     "id": 55125,
@@ -93,7 +128,12 @@
     "latitude": "18.23167000",
     "longitude": "-72.32289000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1504977",
+    "type": "city",
+    "native": "Marigot",
+    "timezone": "America/Port-au-Prince",
+    "population": 1698,
+    "population_year": null
   },
   {
     "id": 55157,
@@ -105,6 +145,11 @@
     "latitude": "18.24384000",
     "longitude": "-71.84157000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2241009",
+    "type": "city",
+    "native": "Thiotte",
+    "timezone": "America/Port-au-Prince",
+    "population": 2461,
+    "population_year": null
   }
 ]

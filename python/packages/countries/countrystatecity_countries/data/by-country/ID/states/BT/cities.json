@@ -9,7 +9,12 @@
     "latitude": "-6.12500000",
     "longitude": "106.23278000",
     "county_id": 8633,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Ciruas",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56257,
@@ -21,7 +26,12 @@
     "latitude": "-6.01666667",
     "longitude": "106.01666667",
     "county_id": 8635,
-    "wikiDataId": null
+    "wikiDataId": "Q10124",
+    "type": "city",
+    "native": "Kota Cilegon",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56969,
@@ -33,7 +43,12 @@
     "latitude": "-6.11528000",
     "longitude": "106.15417000",
     "county_id": 8636,
-    "wikiDataId": null
+    "wikiDataId": "Q10126",
+    "type": "city",
+    "native": "Kota Serang",
+    "timezone": "Asia/Jakarta",
+    "population": 692101,
+    "population_year": null
   },
   {
     "id": 56996,
@@ -45,7 +60,12 @@
     "latitude": "-6.28862000",
     "longitude": "106.71789000",
     "county_id": 8637,
-    "wikiDataId": null
+    "wikiDataId": "Q10128",
+    "type": "city",
+    "native": "Kota Tangerang Selatan",
+    "timezone": "Asia/Jakarta",
+    "population": 1404785,
+    "population_year": null
   },
   {
     "id": 56905,
@@ -57,7 +77,12 @@
     "latitude": "-6.34278000",
     "longitude": "106.73833000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24849733",
+    "type": "city",
+    "native": "Pamulang",
+    "timezone": "Asia/Jakarta",
+    "population": 174557,
+    "population_year": null
   },
   {
     "id": 166784,
@@ -69,7 +94,12 @@
     "latitude": "-6.30840000",
     "longitude": "106.10670000",
     "county_id": 8630,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Pandeglang",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166729,
@@ -81,7 +111,12 @@
     "latitude": "-6.35910000",
     "longitude": "106.24940000",
     "county_id": 8631,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Rangkasbitung",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56971,
@@ -93,7 +128,12 @@
     "latitude": "-6.31694000",
     "longitude": "106.66417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24838071",
+    "type": "city",
+    "native": "Serpong",
+    "timezone": "Asia/Jakarta",
+    "population": 80193,
+    "population_year": null
   },
   {
     "id": 57014,
@@ -105,7 +145,12 @@
     "latitude": "-6.17806000",
     "longitude": "106.63000000",
     "county_id": 8634,
-    "wikiDataId": null
+    "wikiDataId": "Q10127",
+    "type": "city",
+    "native": "Kota Tangerang",
+    "timezone": "Asia/Jakarta",
+    "population": 1912679,
+    "population_year": null
   },
   {
     "id": 166834,
@@ -117,6 +162,11 @@
     "latitude": "-6.22806000",
     "longitude": "106.51389000",
     "county_id": 8632,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Tigaraksa",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   }
 ]

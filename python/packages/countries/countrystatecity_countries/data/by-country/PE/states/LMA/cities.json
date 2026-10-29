@@ -9,7 +9,12 @@
     "latitude": "-12.14540000",
     "longitude": "-77.02070000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Barranco",
+    "timezone": "America/Lima",
+    "population": 34378,
+    "population_year": null
   },
   {
     "id": 160106,
@@ -21,7 +26,12 @@
     "latitude": "-12.07290000",
     "longitude": "-77.04160000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2711638",
+    "type": "city",
+    "native": "Jesús María",
+    "timezone": "America/Lima",
+    "population": 75359,
+    "population_year": null
   },
   {
     "id": 160103,
@@ -33,7 +43,12 @@
     "latitude": "-12.08070000",
     "longitude": "-76.93510000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1016388",
+    "type": "adm3",
+    "native": "La Molina",
+    "timezone": "America/Lima",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 80701,
@@ -45,7 +60,12 @@
     "latitude": "-12.04318000",
     "longitude": "-77.02824000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2868",
+    "type": "capital",
+    "native": "Lima",
+    "timezone": "America/Lima",
+    "population": 7737002,
+    "population_year": null
   },
   {
     "id": 160108,
@@ -57,7 +77,12 @@
     "latitude": "-12.08210000",
     "longitude": "-77.03030000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2711642",
+    "type": "capital",
+    "native": "Lince",
+    "timezone": "America/Lima",
+    "population": 7737002,
+    "population_year": null
   },
   {
     "id": 160107,
@@ -69,7 +94,12 @@
     "latitude": "-12.09160000",
     "longitude": "-77.07320000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Magdalena del Mar",
+    "timezone": "America/Lima",
+    "population": 60290,
+    "population_year": null
   },
   {
     "id": 160101,
@@ -81,7 +111,12 @@
     "latitude": "-12.11940000",
     "longitude": "-77.02820000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Miraflores",
+    "timezone": "America/Lima",
+    "population": 187401,
+    "population_year": null
   },
   {
     "id": 160105,
@@ -93,7 +128,12 @@
     "latitude": "-12.07570000",
     "longitude": "-77.06340000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2711629",
+    "type": "adm3",
+    "native": "Pueblo Libre",
+    "timezone": "America/Lima",
+    "population": 6371,
+    "population_year": null
   },
   {
     "id": 160104,
@@ -105,7 +145,12 @@
     "latitude": "-12.10150000",
     "longitude": "-76.99670000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "San Borja",
+    "timezone": "America/Lima",
+    "population": 113247,
+    "population_year": null
   },
   {
     "id": 80945,
@@ -117,7 +162,12 @@
     "latitude": "-12.09560000",
     "longitude": "-77.03490000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "San Isidro",
+    "timezone": "America/Lima",
+    "population": 60735,
+    "population_year": null
   },
   {
     "id": 80967,
@@ -129,6 +179,11 @@
     "latitude": "-12.14780000",
     "longitude": "-76.99370000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q427011",
+    "type": "municipality",
+    "native": "Santiago de Surco",
+    "timezone": "America/Lima",
+    "population": 105076,
+    "population_year": null
   }
 ]

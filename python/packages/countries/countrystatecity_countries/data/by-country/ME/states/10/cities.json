@@ -9,7 +9,12 @@
     "latitude": "42.45417000",
     "longitude": "18.76833000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1008132",
+    "type": "locality",
+    "native": "Доброта",
+    "timezone": "Europe/Podgorica",
+    "population": 5435,
+    "population_year": null
   },
   {
     "id": 67355,
@@ -21,7 +26,12 @@
     "latitude": "42.42067000",
     "longitude": "18.76825000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q171080",
+    "type": "adm1",
+    "native": "Котор",
+    "timezone": "Europe/Podgorica",
+    "population": 5345,
+    "population_year": null
   },
   {
     "id": 67365,
@@ -33,7 +43,12 @@
     "latitude": "42.45750000",
     "longitude": "18.74222000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2158623",
+    "type": "city",
+    "native": "Прчањ",
+    "timezone": "Europe/Podgorica",
+    "population": 1244,
+    "population_year": null
   },
   {
     "id": 67366,
@@ -45,6 +60,11 @@
     "latitude": "42.51500000",
     "longitude": "18.69556000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q994211",
+    "type": "city",
+    "native": "Рисан",
+    "timezone": "Europe/Podgorica",
+    "population": 2083,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "50.39431000",
     "longitude": "-3.51585000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q921326",
+    "type": "town",
+    "native": "Brixham",
+    "timezone": "Europe/London",
+    "population": 16831,
+    "population_year": null
   },
   {
     "id": 49054,
@@ -21,7 +26,12 @@
     "latitude": "50.46335000",
     "longitude": "-3.55691000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5139618",
+    "type": "city",
+    "native": "Cockington",
+    "timezone": "Europe/London",
+    "population": 10000,
+    "population_year": null
   },
   {
     "id": 50846,
@@ -33,7 +43,12 @@
     "latitude": "50.43565000",
     "longitude": "-3.56789000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q776662",
+    "type": "town",
+    "native": "Paignton",
+    "timezone": "Europe/London",
+    "population": 49886,
+    "population_year": null
   },
   {
     "id": 51647,
@@ -45,6 +60,11 @@
     "latitude": "50.46198000",
     "longitude": "-3.52522000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q209055",
+    "type": "town",
+    "native": "Torquay",
+    "timezone": "Europe/London",
+    "population": 65388,
+    "population_year": null
   }
 ]

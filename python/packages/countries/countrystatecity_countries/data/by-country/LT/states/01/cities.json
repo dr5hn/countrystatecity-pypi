@@ -9,7 +9,12 @@
     "latitude": "56.25000000",
     "longitude": "22.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27485851",
+    "type": "adm2",
+    "native": "Akmenė",
+    "timezone": "Europe/Vilnius",
+    "population": 3026,
+    "population_year": null
   },
   {
     "id": 66642,
@@ -21,7 +26,12 @@
     "latitude": "56.31667000",
     "longitude": "22.90000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q835848",
+    "type": "city",
+    "native": "Naujoji Akmene",
+    "timezone": "Europe/Vilnius",
+    "population": 11922,
+    "population_year": null
   },
   {
     "id": 66696,
@@ -33,6 +43,11 @@
     "latitude": "56.19162000",
     "longitude": "22.69528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1104010",
+    "type": "city",
+    "native": "Venta",
+    "timezone": "Europe/Vilnius",
+    "population": 3270,
+    "population_year": null
   }
 ]

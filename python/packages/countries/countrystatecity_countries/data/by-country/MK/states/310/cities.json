@@ -9,7 +9,12 @@
     "latitude": "41.17444000",
     "longitude": "20.83556000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3136230",
+    "type": "city",
+    "native": "Косел",
+    "timezone": "Europe/Skopje",
+    "population": 1281,
+    "population_year": null
   },
   {
     "id": 67496,
@@ -21,7 +26,12 @@
     "latitude": "41.11722000",
     "longitude": "20.80194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1223508",
+    "type": "adm1",
+    "native": "Охрид",
+    "timezone": "Europe/Skopje",
+    "population": 38818,
+    "population_year": null
   },
   {
     "id": 67497,
@@ -33,6 +43,11 @@
     "latitude": "41.16667000",
     "longitude": "20.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1125333",
+    "type": "city",
+    "native": "Охридска општина",
+    "timezone": "Europe/Skopje",
+    "population": null,
+    "population_year": null
   }
 ]

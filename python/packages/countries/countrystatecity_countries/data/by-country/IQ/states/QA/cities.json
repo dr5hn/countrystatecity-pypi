@@ -9,7 +9,12 @@
     "latitude": "32.06430000",
     "longitude": "45.24743000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1029650",
+    "type": "adm2",
+    "native": "عفاك",
+    "timezone": "Asia/Baghdad",
+    "population": 21888,
+    "population_year": null
   },
   {
     "id": 134476,
@@ -21,7 +26,12 @@
     "latitude": "31.99289000",
     "longitude": "44.92552000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q694939",
+    "type": "adm1",
+    "native": "الديوانية",
+    "timezone": "Asia/Baghdad",
+    "population": 318801,
+    "population_year": null
   },
   {
     "id": 134501,
@@ -33,7 +43,12 @@
     "latitude": "31.96257000",
     "longitude": "44.60075000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "الشامية",
+    "timezone": "Asia/Baghdad",
+    "population": 57661,
+    "population_year": null
   },
   {
     "id": 134530,
@@ -45,7 +60,12 @@
     "latitude": "31.58376000",
     "longitude": "44.64675000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "ناحيت الشنافية",
+    "timezone": "Asia/Baghdad",
+    "population": 22643,
+    "population_year": null
   },
   {
     "id": 134526,
@@ -57,6 +77,11 @@
     "latitude": "31.74311000",
     "longitude": "44.61960000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4133105",
+    "type": "city",
+    "native": "ناحية غماس",
+    "timezone": "Asia/Baghdad",
+    "population": 30909,
+    "population_year": null
   }
 ]

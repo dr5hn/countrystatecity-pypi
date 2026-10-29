@@ -1,0 +1,20 @@
+{
+  "sourceRelease": "v5.0.0-export.1",
+  "sourceCommit": "4a3485f6ed720e72a47fd235f25f0835d56ce1a4",
+  "sourceUrl": "https://github.com/dr5hn/countries-states-cities-database/releases/tag/v5.0.0-export.1",
+  "checksums": {
+    "json-countries+states+cities.json.gz": "sha256:72cbb838c2004ccedc97fb18b10b2d8916fd9275bf227e9a4d26e814adc16eb8",
+    "json-cities.json.gz": "sha256:8323681e20c584fa63398b401ba36f879741bac2caef520b373fe823fdc67a20",
+    "json-postcodes.json.gz": "sha256:c29f0b40aa866983873997dfd3d08e55c13b4ad97cea963db77ae1b511f80b7a",
+    "NOTICE-4-72-Clausula-Licencia-Abierta.txt": "sha256:6d94032c8a4acd9da801682a96118192d0a2a309f785dfb5498085c8558a9f4d",
+    "NOTICE-pc_rebuild_7-distribution-notices.txt": "sha256:26253aea0cb5d917d9cd44f70fe41551fe0db28e54d18ace6982e9428e99bb8b",
+    "NOTICE-Posti-postal-code-terms.txt": "sha256:ac57a024e144a0a1a2cd4b49be645d186b61e008087ab8264bc52edbcbcd0708",
+    "NOTICE-SOURCES.txt": "sha256:b894f4bd60cf65e22377a78a26ea2264ed47eb4768a41b483955163adea3b08f",
+    "NOTICE-Unicode-3.0.txt": "sha256:220ba0e1c43b99530d2d5bdb892a99dca0989414f51ab695ecd90163eaa1ec3b"
+  },
+  "counts": {
+    "countries": 250,
+    "cities": 152378,
+    "postcodes": 725993
+  }
+}

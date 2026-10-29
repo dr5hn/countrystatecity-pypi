@@ -9,7 +9,12 @@
     "latitude": "29.31167000",
     "longitude": "48.07417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "الرميثية",
+    "timezone": "Asia/Kuwait",
+    "population": 58135,
+    "population_year": null
   },
   {
     "id": 65585,
@@ -21,7 +26,12 @@
     "latitude": "29.33389000",
     "longitude": "48.07611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3505782",
+    "type": "section",
+    "native": "السالمية",
+    "timezone": "Asia/Kuwait",
+    "population": 147649,
+    "population_year": null
   },
   {
     "id": 65588,
@@ -33,7 +43,12 @@
     "latitude": "29.30320000",
     "longitude": "48.04881000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3505782",
+    "type": "section",
+    "native": "بيان",
+    "timezone": "Asia/Kuwait",
+    "population": 30635,
+    "population_year": null
   },
   {
     "id": 65593,
@@ -45,7 +60,12 @@
     "latitude": "29.33278000",
     "longitude": "48.02861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3235220",
+    "type": "adm1",
+    "native": "حولي",
+    "timezone": "Asia/Kuwait",
+    "population": 164212,
+    "population_year": null
   },
   {
     "id": 65591,
@@ -57,6 +77,11 @@
     "latitude": "29.29583000",
     "longitude": "48.07861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1179881",
+    "type": "section",
+    "native": "سلوى",
+    "timezone": "Asia/Kuwait",
+    "population": 40945,
+    "population_year": null
   }
 ]

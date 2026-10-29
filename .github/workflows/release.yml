@@ -1,6 +1,12 @@
 name: Release
 
 on:
+  workflow_dispatch:
+    inputs:
+      data_update_pr:
+        description: 'Merged and validated data-update PR to release'
+        type: string
+        required: true
   pull_request:
     types: [closed]
     branches: [main, master]
@@ -15,10 +21,11 @@ on:
 jobs:
   release:
     name: Bump Version & Update Changelog
-    if: github.event.pull_request.merged == true && contains(github.event.pull_request.labels.*.name, 'data-update')
+    if: github.event_name == 'workflow_dispatch' || (github.event.pull_request.merged == true && contains(github.event.pull_request.labels.*.name, 'data-update'))
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: read
     outputs:
       ref: ${{ steps.commit.outputs.ref }}
 
@@ -27,6 +34,20 @@ jobs:
         uses: actions/checkout@v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+          fetch-depth: 0
+
+      - name: Verify dispatched data PR
+        id: target
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ inputs.data_update_pr }}
+        run: |
+          [[ "$PR_NUMBER" =~ ^[0-9]+$ ]] || exit 1
+          gh api "repos/$GITHUB_REPOSITORY/pulls/$PR_NUMBER" > "$RUNNER_TEMP/release-pr.json"
+          jq -e '.merged == true and .base.ref == "main" and (.labels | any(.name == "data-update"))' "$RUNNER_TEMP/release-pr.json"
+          echo "merge_sha=$(jq -r .merge_commit_sha "$RUNNER_TEMP/release-pr.json")" >> "$GITHUB_OUTPUT"
 
       - name: Setup Python
         uses: actions/setup-python@v7
@@ -41,9 +62,11 @@ jobs:
 
       - name: Bump patch version for all packages
         id: bump
+        env:
+          MERGE_SHA: ${{ steps.target.outputs.merge_sha || github.event.pull_request.merge_commit_sha }}
         run: |
           python -c "
-          import re, pathlib
+          import re, pathlib, subprocess, os
 
           # Compute new version once from countries (source of truth)
           pyproject = pathlib.Path('python/packages/countries/pyproject.toml')
@@ -51,6 +74,12 @@ jobs:
           match = re.search(r'version = \"(\d+)\.(\d+)\.(\d+)\"', content)
           major, minor, patch = int(match.group(1)), int(match.group(2)), int(match.group(3))
           new_version = f'{major}.{minor}.{patch + 1}'
+          previous = subprocess.check_output(['git', 'show', os.environ['MERGE_SHA'] + '^1:python/packages/countries/pyproject.toml'], text=True)
+          previous_version = re.search(r'version = \"(\d+\.\d+\.\d+)\"', previous).group(1)
+          if previous_version != f'{major}.{minor}.{patch}':
+              if (major, minor, patch) <= tuple(map(int, previous_version.split('.'))):
+                  raise ValueError('Release version must increase')
+              new_version = f'{major}.{minor}.{patch}'
 
           # Apply same version to all packages
           for pkg in ['countries', 'timezones', 'currencies', 'translations', 'phonecodes', 'regions', 'postal_codes']:
@@ -78,6 +107,7 @@ jobs:
           DATE=$(date +%Y-%m-%d)
           for pkg in countries timezones currencies translations phonecodes regions postal_codes; do
             CHANGELOG="python/packages/$pkg/CHANGELOG.md"
+            if grep -Fq "## [${NEW_VERSION#v}]" "$CHANGELOG"; then continue; fi
             ENTRY="## [${NEW_VERSION#v}] - $DATE\n\n### Changed\n- Updated data from upstream database (PR #$PR_NUMBER)\n"
             if [ -f "$CHANGELOG" ]; then
               if grep -q "^## \[" "$CHANGELOG"; then
@@ -109,8 +139,10 @@ jobs:
             python/packages/phonecodes/pyproject.toml python/packages/phonecodes/countrystatecity_phonecodes/__init__.py python/packages/phonecodes/CHANGELOG.md \
             python/packages/regions/pyproject.toml python/packages/regions/countrystatecity_regions/__init__.py python/packages/regions/CHANGELOG.md \
             python/packages/postal_codes/pyproject.toml python/packages/postal_codes/countrystatecity_postal_codes/__init__.py python/packages/postal_codes/CHANGELOG.md
-          git commit -m "chore: release ${NEW_VERSION} for all packages"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: release ${NEW_VERSION} for all packages"
+            git push
+          fi
           echo "ref=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
   publish:

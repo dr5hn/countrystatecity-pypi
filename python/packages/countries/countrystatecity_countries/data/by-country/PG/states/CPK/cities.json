@@ -9,7 +9,12 @@
     "latitude": "-6.16667000",
     "longitude": "145.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3710825",
+    "type": "area",
+    "native": "Chuave",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 36074,
+    "population_year": null
   },
   {
     "id": 81043,
@@ -21,7 +26,12 @@
     "latitude": "-6.25000000",
     "longitude": "144.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3710948",
+    "type": "area",
+    "native": "Gumine",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 35976,
+    "population_year": null
   },
   {
     "id": 81059,
@@ -33,7 +43,12 @@
     "latitude": "-6.58333000",
     "longitude": "144.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Karimui Nomane",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81062,
@@ -45,7 +60,12 @@
     "latitude": "-5.93333000",
     "longitude": "144.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1777041",
+    "type": "adm1",
+    "native": "Kerowagi",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 34850,
+    "population_year": null
   },
   {
     "id": 81073,
@@ -57,7 +77,12 @@
     "latitude": "-5.91667000",
     "longitude": "145.05000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711091",
+    "type": "adm1",
+    "native": "Kundiawa",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 9383,
+    "population_year": null
   },
   {
     "id": 81107,
@@ -69,6 +94,11 @@
     "latitude": "-6.08333000",
     "longitude": "145.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Sinasina yonggamugl",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "51.48000000",
     "longitude": "-3.18000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10690",
+    "type": "city",
+    "native": "Cardiff",
+    "timezone": "Europe/London",
+    "population": 383536,
+    "population_year": null
   },
   {
     "id": 50891,
@@ -21,7 +26,12 @@
     "latitude": "51.52889000",
     "longitude": "-3.29500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7165336",
+    "type": "adm3",
+    "native": "Pentyrch",
+    "timezone": "Europe/London",
+    "population": 2287,
+    "population_year": null
   },
   {
     "id": 51021,
@@ -33,6 +43,11 @@
     "latitude": "51.51864000",
     "longitude": "-3.25829000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Radyr",
+    "timezone": "Europe/London",
+    "population": 4710,
+    "population_year": null
   }
 ]

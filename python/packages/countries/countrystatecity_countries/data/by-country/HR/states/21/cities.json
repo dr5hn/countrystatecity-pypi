@@ -9,7 +9,12 @@
     "latitude": "45.72919000",
     "longitude": "15.91069000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Brezovica",
+    "timezone": "Europe/Zagreb",
+    "population": 642,
+    "population_year": null
   },
   {
     "id": 54438,
@@ -21,7 +26,12 @@
     "latitude": "45.81313000",
     "longitude": "15.97753000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Centar",
+    "timezone": "Europe/Zagreb",
+    "population": 37000,
+    "population_year": null
   },
   {
     "id": 54579,
@@ -33,7 +43,12 @@
     "latitude": "45.80834000",
     "longitude": "15.96949000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1241602",
+    "type": "city",
+    "native": "Gradska četvrt Donji grad",
+    "timezone": "Europe/Zagreb",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 54580,
@@ -45,7 +60,12 @@
     "latitude": "45.82820000",
     "longitude": "15.97938000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q128957",
+    "type": "city",
+    "native": "Gradska četvrt Gornji Grad - Medvescak",
+    "timezone": "Europe/Zagreb",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 54581,
@@ -57,7 +77,12 @@
     "latitude": "45.86097000",
     "longitude": "15.97996000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q718103",
+    "type": "city",
+    "native": "Gradska četvrt Podsljeme",
+    "timezone": "Europe/Zagreb",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 54596,
@@ -69,7 +94,12 @@
     "latitude": "45.70000000",
     "longitude": "15.81667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3442392",
+    "type": "locality",
+    "native": "Horvati",
+    "timezone": "Europe/Zagreb",
+    "population": 1401,
+    "population_year": null
   },
   {
     "id": 54615,
@@ -81,7 +111,12 @@
     "latitude": "45.79167000",
     "longitude": "15.90000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Jankomir",
+    "timezone": "Europe/Zagreb",
+    "population": 5000,
+    "population_year": null
   },
   {
     "id": 54623,
@@ -93,7 +128,12 @@
     "latitude": "45.78333000",
     "longitude": "15.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1936120",
+    "type": "locality",
+    "native": "Ježdovec",
+    "timezone": "Europe/Zagreb",
+    "population": 1844,
+    "population_year": null
   },
   {
     "id": 54636,
@@ -105,7 +145,12 @@
     "latitude": "45.91134000",
     "longitude": "16.12436000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3444750",
+    "type": "locality",
+    "native": "Kašina",
+    "timezone": "Europe/Zagreb",
+    "population": 1402,
+    "population_year": null
   },
   {
     "id": 54707,
@@ -117,7 +162,12 @@
     "latitude": "45.76111000",
     "longitude": "15.87028000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1290060",
+    "type": "locality",
+    "native": "Lučko",
+    "timezone": "Europe/Zagreb",
+    "population": 2987,
+    "population_year": null
   },
   {
     "id": 54760,
@@ -129,7 +179,12 @@
     "latitude": "45.78333000",
     "longitude": "15.98333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1024104",
+    "type": "section",
+    "native": "Novi Zagreb",
+    "timezone": "Europe/Zagreb",
+    "population": 5000,
+    "population_year": null
   },
   {
     "id": 54771,
@@ -141,7 +196,12 @@
     "latitude": "45.72979000",
     "longitude": "15.99240000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2564347",
+    "type": "locality",
+    "native": "Odra",
+    "timezone": "Europe/Zagreb",
+    "population": 2630,
+    "population_year": null
   },
   {
     "id": 54885,
@@ -153,7 +213,12 @@
     "latitude": "45.83333000",
     "longitude": "16.13333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1017892",
+    "type": "city",
+    "native": "Sesvete",
+    "timezone": "Europe/Zagreb",
+    "population": 55313,
+    "population_year": null
   },
   {
     "id": 54912,
@@ -165,7 +230,12 @@
     "latitude": "45.80846000",
     "longitude": "15.88245000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Stenjevec",
+    "timezone": "Europe/Zagreb",
+    "population": 51390,
+    "population_year": null
   },
   {
     "id": 54917,
@@ -177,7 +247,12 @@
     "latitude": "45.70843000",
     "longitude": "15.91674000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1904608",
+    "type": "locality",
+    "native": "Strmec",
+    "timezone": "Europe/Zagreb",
+    "population": 585,
+    "population_year": null
   },
   {
     "id": 55003,
@@ -189,7 +264,12 @@
     "latitude": "45.71978000",
     "longitude": "15.90880000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2236873",
+    "type": "locality",
+    "native": "Zadvorsko",
+    "timezone": "Europe/Zagreb",
+    "population": 1260,
+    "population_year": null
   },
   {
     "id": 55004,
@@ -201,6 +281,11 @@
     "latitude": "45.81444000",
     "longitude": "15.97798000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1435",
+    "type": "city",
+    "native": "Zagreb",
+    "timezone": "Europe/Zagreb",
+    "population": 767131,
+    "population_year": null
   }
 ]

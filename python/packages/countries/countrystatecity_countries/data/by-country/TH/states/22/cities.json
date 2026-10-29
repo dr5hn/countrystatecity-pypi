@@ -9,7 +9,12 @@
     "latitude": "12.45689000",
     "longitude": "102.14262000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475865",
+    "type": "district",
+    "native": "อำเภอแหลมสิงห์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106467,
@@ -21,7 +26,12 @@
     "latitude": "12.60961000",
     "longitude": "102.10447000",
     "county_id": 5526,
-    "wikiDataId": null
+    "wikiDataId": "Q1015899",
+    "type": "city",
+    "native": "จันทบุรี",
+    "timezone": "Asia/Bangkok",
+    "population": 99819,
+    "population_year": null
   },
   {
     "id": 105364,
@@ -33,7 +43,12 @@
     "latitude": "13.09690000",
     "longitude": "101.88543000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q204647",
+    "type": "district",
+    "native": "อำเภอแก่งหางแมว",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105394,
@@ -45,7 +60,12 @@
     "latitude": "12.93726000",
     "longitude": "102.09762000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475657",
+    "type": "district",
+    "native": "อำเภอเขาคิชฌกูฏ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106529,
@@ -57,7 +77,12 @@
     "latitude": "12.45467000",
     "longitude": "102.22142000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15980680",
+    "type": "adm2",
+    "native": "ขลุง",
+    "timezone": "Asia/Bangkok",
+    "population": 10835,
+    "population_year": null
   },
   {
     "id": 106547,
@@ -69,7 +94,12 @@
     "latitude": "12.48164000",
     "longitude": "102.07375000",
     "county_id": 5531,
-    "wikiDataId": null
+    "wikiDataId": "Q28732570",
+    "type": "town",
+    "native": "แหลมสิงห์",
+    "timezone": "Asia/Bangkok",
+    "population": 16066,
+    "population_year": null
   },
   {
     "id": 167073,
@@ -81,7 +111,12 @@
     "latitude": "12.67300000",
     "longitude": "102.19617000",
     "county_id": 5530,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "มะขาม",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 167095,
@@ -93,7 +128,12 @@
     "latitude": "12.78165000",
     "longitude": "101.82239000",
     "county_id": 5534,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "นายายอาม",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106653,
@@ -105,7 +145,12 @@
     "latitude": "12.90460000",
     "longitude": "102.26397000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q28732576",
+    "type": "adm2",
+    "native": "โป่งน้ำร้อน",
+    "timezone": "Asia/Bangkok",
+    "population": 8878,
+    "population_year": null
   },
   {
     "id": 106242,
@@ -117,7 +162,12 @@
     "latitude": "13.17034000",
     "longitude": "102.22796000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476749",
+    "type": "district",
+    "native": "อำเภอสอยดาว",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106721,
@@ -129,6 +179,11 @@
     "latitude": "12.62137000",
     "longitude": "102.00481000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15980679",
+    "type": "adm2",
+    "native": "ท่าไม้",
+    "timezone": "Asia/Bangkok",
+    "population": 22445,
+    "population_year": null
   }
 ]

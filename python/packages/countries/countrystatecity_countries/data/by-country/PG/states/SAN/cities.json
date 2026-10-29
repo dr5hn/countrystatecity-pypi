@@ -9,7 +9,12 @@
     "latitude": "-3.13697000",
     "longitude": "142.34913000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1771821",
+    "type": "city",
+    "native": "Aitape",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 6931,
+    "population_year": null
   },
   {
     "id": 81026,
@@ -21,7 +26,12 @@
     "latitude": "-3.25000000",
     "longitude": "142.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3710592",
+    "type": "city",
+    "native": "Aitape Lumi",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81094,
@@ -33,7 +43,12 @@
     "latitude": "-3.66667000",
     "longitude": "142.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711268",
+    "type": "area",
+    "native": "Nuku",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 46021,
+    "population_year": null
   },
   {
     "id": 81116,
@@ -45,7 +60,12 @@
     "latitude": "-4.91667000",
     "longitude": "141.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711525",
+    "type": "city",
+    "native": "Telephomine",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 81120,
@@ -57,7 +77,12 @@
     "latitude": "-2.68372000",
     "longitude": "141.30195000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Vanimo",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 11204,
+    "population_year": null
   },
   {
     "id": 81121,
@@ -69,6 +94,11 @@
     "latitude": "-3.36667000",
     "longitude": "141.35000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711580",
+    "type": "city",
+    "native": "Vanimo Green",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "52.83333000",
     "longitude": "-9.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q181862",
+    "type": "city",
+    "native": "An Clár",
+    "timezone": "Europe/Dublin",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 57172,
@@ -21,7 +26,12 @@
     "latitude": "52.16667000",
     "longitude": "-9.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q184469",
+    "type": "county",
+    "native": "Kerry",
+    "timezone": "Europe/Dublin",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 57180,
@@ -33,7 +43,12 @@
     "latitude": "51.62306000",
     "longitude": "-8.87056000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q996703",
+    "type": "city",
+    "native": "Clonakilty",
+    "timezone": "Europe/Dublin",
+    "population": 4592,
+    "population_year": null
   },
   {
     "id": 57195,
@@ -45,7 +60,12 @@
     "latitude": "51.96667000",
     "longitude": "-8.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q162475",
+    "type": "city",
+    "native": "County Cork",
+    "timezone": "Europe/Dublin",
+    "population": 18621,
+    "population_year": null
   },
   {
     "id": 57200,
@@ -57,7 +77,12 @@
     "latitude": "52.66667000",
     "longitude": "-7.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q184618",
+    "type": "area",
+    "native": "County Tipperary",
+    "timezone": "Europe/Dublin",
+    "population": 158652,
+    "population_year": null
   },
   {
     "id": 57203,
@@ -69,7 +94,12 @@
     "latitude": "51.79833000",
     "longitude": "-8.30083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2668847",
+    "type": "city",
+    "native": "Crosshaven",
+    "timezone": "Europe/Dublin",
+    "population": 2577,
+    "population_year": null
   },
   {
     "id": 57210,
@@ -81,7 +111,12 @@
     "latitude": "51.58666000",
     "longitude": "-9.05026000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Derry",
+    "timezone": "Europe/Dublin",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 57270,
@@ -93,7 +128,12 @@
     "latitude": "52.16667000",
     "longitude": "-8.90000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q287965",
+    "type": "city",
+    "native": "Kanturk",
+    "timezone": "Europe/Dublin",
+    "population": 2350,
+    "population_year": null
   },
   {
     "id": 57287,
@@ -105,7 +145,12 @@
     "latitude": "52.40000000",
     "longitude": "-8.57722000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2566838",
+    "type": "city",
+    "native": "Kilmallock",
+    "timezone": "Europe/Dublin",
+    "population": 1688,
+    "population_year": null
   },
   {
     "id": 57338,
@@ -117,7 +162,12 @@
     "latitude": "52.68198000",
     "longitude": "-8.63955000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Moyross",
+    "timezone": "Europe/Dublin",
+    "population": 4448,
+    "population_year": null
   },
   {
     "id": 57344,
@@ -129,7 +179,12 @@
     "latitude": "52.88167000",
     "longitude": "-8.19583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Nenagh Bridge",
+    "timezone": "Europe/Dublin",
+    "population": 6672,
+    "population_year": null
   },
   {
     "id": 57431,
@@ -141,6 +196,11 @@
     "latitude": "51.83056000",
     "longitude": "-8.22972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4468449",
+    "type": "city",
+    "native": "Whitegate",
+    "timezone": "Europe/Dublin",
+    "population": 1154,
+    "population_year": null
   }
 ]

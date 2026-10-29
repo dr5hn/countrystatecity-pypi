@@ -9,7 +9,12 @@
     "latitude": "32.74932000",
     "longitude": "36.30994000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "الحراك",
+    "timezone": "Asia/Damascus",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104949,
@@ -21,7 +26,12 @@
     "latitude": "32.71084000",
     "longitude": "36.02751000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6944401",
+    "type": "adm3",
+    "native": "المزيريب",
+    "timezone": "Asia/Damascus",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 104963,
@@ -33,7 +43,12 @@
     "latitude": "33.12559000",
     "longitude": "36.27540000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4115585",
+    "type": "district",
+    "native": "منطقة الصنمين",
+    "timezone": "Asia/Damascus",
+    "population": 167993,
+    "population_year": null
   },
   {
     "id": 104984,
@@ -45,7 +60,12 @@
     "latitude": "33.07186000",
     "longitude": "36.18316000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2561767",
+    "type": "adm2",
+    "native": "آش شانماين",
+    "timezone": "Asia/Damascus",
+    "population": 25702,
+    "population_year": null
   },
   {
     "id": 104979,
@@ -57,7 +77,12 @@
     "latitude": "32.82944000",
     "longitude": "36.15933000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الشيخ مسكين",
+    "timezone": "Asia/Damascus",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104986,
@@ -69,7 +94,12 @@
     "latitude": "32.52013000",
     "longitude": "36.48256000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q272680",
+    "type": "adm3",
+    "native": "بشرى الشام",
+    "timezone": "Asia/Damascus",
+    "population": 1000,
+    "population_year": null
   },
   {
     "id": 165578,
@@ -81,7 +111,12 @@
     "latitude": "32.75355000",
     "longitude": "36.13076000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1026328",
+    "type": "adm3",
+    "native": "داعل",
+    "timezone": "Asia/Damascus",
+    "population": 29408,
+    "population_year": null
   },
   {
     "id": 104990,
@@ -93,7 +128,12 @@
     "latitude": "32.61889000",
     "longitude": "36.10213000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q238217",
+    "type": "adm1",
+    "native": "درعا",
+    "timezone": "Asia/Damascus",
+    "population": 97969,
+    "population_year": null
   },
   {
     "id": 104996,
@@ -105,7 +145,12 @@
     "latitude": "33.18235000",
     "longitude": "36.22534000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5555136",
+    "type": "adm3",
+    "native": "غباغب",
+    "timezone": "Asia/Damascus",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 105003,
@@ -117,7 +162,12 @@
     "latitude": "33.01809000",
     "longitude": "36.12828000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4119742",
+    "type": "city",
+    "native": "إنخيل",
+    "timezone": "Asia/Damascus",
+    "population": 29076,
+    "population_year": null
   },
   {
     "id": 105004,
@@ -129,7 +179,12 @@
     "latitude": "32.90121000",
     "longitude": "36.16144000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3235210",
+    "type": "district",
+    "native": "منطقة إزرع",
+    "timezone": "Asia/Damascus",
+    "population": 246804,
+    "population_year": null
   },
   {
     "id": 105005,
@@ -141,7 +196,12 @@
     "latitude": "32.87060000",
     "longitude": "36.25453000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3235210",
+    "type": "adm2",
+    "native": "إزرع",
+    "timezone": "Asia/Damascus",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105014,
@@ -153,7 +213,12 @@
     "latitude": "32.99233000",
     "longitude": "36.06018000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4116040",
+    "type": "adm3",
+    "native": "جاسم",
+    "timezone": "Asia/Damascus",
+    "population": 31683,
+    "population_year": null
   },
   {
     "id": 105037,
@@ -165,7 +230,12 @@
     "latitude": "32.89044000",
     "longitude": "36.03990000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1758024",
+    "type": "adm3",
+    "native": "نوا",
+    "timezone": "Asia/Damascus",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 105073,
@@ -177,7 +247,12 @@
     "latitude": "32.73709000",
     "longitude": "36.06654000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4120104",
+    "type": "city",
+    "native": "طفس",
+    "timezone": "Asia/Damascus",
+    "population": 32236,
+    "population_year": null
   },
   {
     "id": 105061,
@@ -189,6 +264,11 @@
     "latitude": "32.83395000",
     "longitude": "35.96973000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7687248",
+    "type": "adm3",
+    "native": "تاسيل",
+    "timezone": "Asia/Damascus",
+    "population": 0,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "8.85488000",
     "longitude": "0.05922000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4913712",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Accra",
+    "population": 34262,
+    "population_year": null
   },
   {
     "id": 52186,
@@ -21,7 +26,12 @@
     "latitude": "8.46885000",
     "longitude": "-0.01127000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Kpandae",
+    "timezone": "Africa/Accra",
+    "population": 8652,
+    "population_year": null
   },
   {
     "id": 52200,
@@ -33,7 +43,12 @@
     "latitude": "9.62441000",
     "longitude": "-0.82530000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2228059",
+    "type": "city",
+    "native": "Scaugu",
+    "timezone": "Africa/Accra",
+    "population": 40654,
+    "population_year": null
   },
   {
     "id": 52208,
@@ -45,7 +60,12 @@
     "latitude": "9.40079000",
     "longitude": "-0.83930000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Tamale",
+    "timezone": "Africa/Accra",
+    "population": 464316,
+    "population_year": null
   },
   {
     "id": 52216,
@@ -57,6 +77,11 @@
     "latitude": "9.44272000",
     "longitude": "-0.00991000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q639066",
+    "type": "city",
+    "native": "Yendi",
+    "timezone": "Africa/Accra",
+    "population": 64676,
+    "population_year": null
   }
 ]

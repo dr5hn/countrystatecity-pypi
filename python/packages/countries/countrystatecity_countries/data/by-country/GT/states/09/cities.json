@@ -9,7 +9,12 @@
     "latitude": "14.81591000",
     "longitude": "-91.49464000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Almolonga",
+    "timezone": "America/Guatemala",
+    "population": 12299,
+    "population_year": null
   },
   {
     "id": 53436,
@@ -21,7 +26,12 @@
     "latitude": "15.07485000",
     "longitude": "-91.64800000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Cabricán",
+    "timezone": "America/Guatemala",
+    "population": 28124,
+    "population_year": null
   },
   {
     "id": 53438,
@@ -33,7 +43,12 @@
     "latitude": "14.92205000",
     "longitude": "-91.61478000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q388686",
+    "type": "adm2",
+    "native": "Cajolá",
+    "timezone": "America/Guatemala",
+    "population": 2927,
+    "population_year": null
   },
   {
     "id": 53441,
@@ -45,7 +60,12 @@
     "latitude": "14.81154000",
     "longitude": "-91.45536000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Cantel",
+    "timezone": "America/Guatemala",
+    "population": 47087,
+    "population_year": null
   },
   {
     "id": 53461,
@@ -57,7 +77,12 @@
     "latitude": "14.70413000",
     "longitude": "-91.86426000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Coatepeque",
+    "timezone": "America/Guatemala",
+    "population": 120737,
+    "population_year": null
   },
   {
     "id": 53463,
@@ -69,7 +94,12 @@
     "latitude": "14.70730000",
     "longitude": "-91.73167000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Colomba",
+    "timezone": "America/Guatemala",
+    "population": 56487,
+    "population_year": null
   },
   {
     "id": 53469,
@@ -81,7 +111,12 @@
     "latitude": "14.85510000",
     "longitude": "-91.62360000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Concepción Chiquirichapa",
+    "timezone": "America/Guatemala",
+    "population": 8080,
+    "population_year": null
   },
   {
     "id": 53485,
@@ -93,7 +128,12 @@
     "latitude": "14.65083000",
     "longitude": "-91.57800000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2717583",
+    "type": "adm2",
+    "native": "El Palmar",
+    "timezone": "America/Guatemala",
+    "population": 15167,
+    "population_year": null
   },
   {
     "id": 53495,
@@ -105,7 +145,12 @@
     "latitude": "14.65606050",
     "longitude": "-91.82562770",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Flores Costa Cuca",
+    "timezone": "America/Guatemala",
+    "population": 24888,
+    "population_year": null
   },
   {
     "id": 53502,
@@ -117,7 +162,12 @@
     "latitude": "14.61667000",
     "longitude": "-91.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3123016",
+    "type": "adm2",
+    "native": "Génova",
+    "timezone": "America/Guatemala",
+    "population": 3744,
+    "population_year": null
   },
   {
     "id": 53504,
@@ -129,7 +179,12 @@
     "latitude": "15.04920000",
     "longitude": "-91.63944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1748611",
+    "type": "adm2",
+    "native": "Huitán",
+    "timezone": "America/Guatemala",
+    "population": 9958,
+    "population_year": null
   },
   {
     "id": 53518,
@@ -141,7 +196,12 @@
     "latitude": "14.87169000",
     "longitude": "-91.56140000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2608447",
+    "type": "adm2",
+    "native": "La Esperanza",
+    "timezone": "America/Guatemala",
+    "population": 16461,
+    "population_year": null
   },
   {
     "id": 53540,
@@ -153,7 +213,12 @@
     "latitude": "14.81118000",
     "longitude": "-91.48354000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q284830",
+    "type": "municipality",
+    "native": "Municipio de Almolonga",
+    "timezone": "America/Guatemala",
+    "population": 14118,
+    "population_year": null
   },
   {
     "id": 53544,
@@ -165,7 +230,12 @@
     "latitude": "15.10305000",
     "longitude": "-91.64918000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2403031",
+    "type": "municipality",
+    "native": "Municipio de Cabricán",
+    "timezone": "America/Guatemala",
+    "population": 23033,
+    "population_year": null
   },
   {
     "id": 53546,
@@ -177,7 +247,12 @@
     "latitude": "14.81659000",
     "longitude": "-91.43781000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548726",
+    "type": "municipality",
+    "native": "Municipio de Cantel",
+    "timezone": "America/Guatemala",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 53555,
@@ -189,7 +264,12 @@
     "latitude": "14.64309000",
     "longitude": "-91.97926000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Municipio de Coatepeque",
+    "timezone": "America/Guatemala",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 53556,
@@ -201,7 +281,12 @@
     "latitude": "14.71002000",
     "longitude": "-91.74691000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Municipio de Colomba",
+    "timezone": "America/Guatemala",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 53557,
@@ -213,7 +298,12 @@
     "latitude": "14.84624000",
     "longitude": "-91.61854000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2401883",
+    "type": "municipality",
+    "native": "Municipio de Concepción Chiquirichapa",
+    "timezone": "America/Guatemala",
+    "population": 8080,
+    "population_year": null
   },
   {
     "id": 53561,
@@ -225,7 +315,12 @@
     "latitude": "14.63238000",
     "longitude": "-91.86341000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1981317",
+    "type": "municipality",
+    "native": "Municipio de Flores Costa Cuca",
+    "timezone": "America/Guatemala",
+    "population": 11984,
+    "population_year": null
   },
   {
     "id": 53586,
@@ -237,7 +332,12 @@
     "latitude": "14.87477000",
     "longitude": "-91.68842000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Municipio de San Juan Ostuncalco",
+    "timezone": "America/Guatemala",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 53610,
@@ -249,7 +349,12 @@
     "latitude": "14.88605000",
     "longitude": "-91.51472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2608428",
+    "type": "adm2",
+    "native": "Oltepeque",
+    "timezone": "America/Guatemala",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 53613,
@@ -261,7 +366,12 @@
     "latitude": "14.86899000",
     "longitude": "-91.62137000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Ostuncalco",
+    "timezone": "America/Guatemala",
+    "population": 51828,
+    "population_year": null
   },
   {
     "id": 53617,
@@ -273,7 +383,12 @@
     "latitude": "14.93338000",
     "longitude": "-91.69403000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2402624",
+    "type": "adm2",
+    "native": "Palestina de los Altos",
+    "timezone": "America/Guatemala",
+    "population": 1691,
+    "population_year": null
   },
   {
     "id": 53638,
@@ -285,7 +400,12 @@
     "latitude": "14.83472000",
     "longitude": "-91.51806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q334577",
+    "type": "adm1",
+    "native": "Quetzaltenango",
+    "timezone": "America/Guatemala",
+    "population": 207620,
+    "population_year": null
   },
   {
     "id": 53646,
@@ -297,7 +417,12 @@
     "latitude": "14.87964000",
     "longitude": "-91.45699000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2717997",
+    "type": "adm2",
+    "native": "Salcajá",
+    "timezone": "America/Guatemala",
+    "population": 21577,
+    "population_year": null
   },
   {
     "id": 53667,
@@ -309,7 +434,12 @@
     "latitude": "14.98436000",
     "longitude": "-91.54912000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2609256",
+    "type": "adm2",
+    "native": "San Carlos Sija",
+    "timezone": "America/Guatemala",
+    "population": 6831,
+    "population_year": null
   },
   {
     "id": 53676,
@@ -321,7 +451,12 @@
     "latitude": "14.92350000",
     "longitude": "-91.54157000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2402566",
+    "type": "adm2",
+    "native": "San Francisco la Unión",
+    "timezone": "America/Guatemala",
+    "population": 1170,
+    "population_year": null
   },
   {
     "id": 53711,
@@ -333,7 +468,12 @@
     "latitude": "14.82443000",
     "longitude": "-91.64192000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2402153",
+    "type": "adm2",
+    "native": "San Martín Sacatepéquez",
+    "timezone": "America/Guatemala",
+    "population": 3658,
+    "population_year": null
   },
   {
     "id": 53713,
@@ -345,7 +485,12 @@
     "latitude": "14.85800000",
     "longitude": "-91.59004000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q938168",
+    "type": "adm2",
+    "native": "San Mateo",
+    "timezone": "America/Guatemala",
+    "population": 5534,
+    "population_year": null
   },
   {
     "id": 53720,
@@ -357,7 +502,12 @@
     "latitude": "14.89547000",
     "longitude": "-91.61457000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2401933",
+    "type": "adm2",
+    "native": "San Miguel Sigüilá",
+    "timezone": "America/Guatemala",
+    "population": 7551,
+    "population_year": null
   },
   {
     "id": 53778,
@@ -369,7 +519,12 @@
     "latitude": "14.99391000",
     "longitude": "-91.62371000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2402599",
+    "type": "adm2",
+    "native": "Sibilia",
+    "timezone": "America/Guatemala",
+    "population": 1180,
+    "population_year": null
   },
   {
     "id": 53805,
@@ -381,6 +536,11 @@
     "latitude": "14.78463000",
     "longitude": "-91.48345000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q230166",
+    "type": "adm2",
+    "native": "Zunil",
+    "timezone": "America/Guatemala",
+    "population": 15893,
+    "population_year": null
   }
 ]

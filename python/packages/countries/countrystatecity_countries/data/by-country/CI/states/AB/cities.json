@@ -9,7 +9,12 @@
     "latitude": "5.30966000",
     "longitude": "-4.01266000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1515",
+    "type": "adm1",
+    "native": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "population": 6321017,
+    "population_year": null
   },
   {
     "id": 18861,
@@ -21,7 +26,12 @@
     "latitude": "5.41613000",
     "longitude": "-4.01590000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q322624",
+    "type": "city",
+    "native": "Abobo",
+    "timezone": "Africa/Abidjan",
+    "population": 1340083,
+    "population_year": null
   },
   {
     "id": 18870,
@@ -33,7 +43,12 @@
     "latitude": "5.49462000",
     "longitude": "-4.05183000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm4",
+    "native": "Anyama",
+    "timezone": "Africa/Abidjan",
+    "population": 133905,
+    "population_year": null
   },
   {
     "id": 18876,
@@ -45,6 +60,11 @@
     "latitude": "5.35581000",
     "longitude": "-3.88537000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q863795",
+    "type": "adm4",
+    "native": "Bingerville",
+    "timezone": "Africa/Abidjan",
+    "population": 82983,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "-1.16640000",
     "longitude": "132.50150000",
     "county_id": 8870,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Aifat",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166829,
@@ -21,7 +26,12 @@
     "latitude": "-0.80889000",
     "longitude": "132.43222000",
     "county_id": 8869,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Fef",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56641,
@@ -33,7 +43,12 @@
     "latitude": "-1.16667000",
     "longitude": "131.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q26792",
+    "type": "regency",
+    "native": "Kabupaten Sorong",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56995,
@@ -45,7 +60,12 @@
     "latitude": "-0.87956000",
     "longitude": "131.26104000",
     "county_id": 8871,
-    "wikiDataId": null
+    "wikiDataId": "Q26837",
+    "type": "city",
+    "native": "Sorong",
+    "timezone": "Asia/Jayapura",
+    "population": 254294,
+    "population_year": null
   },
   {
     "id": 166820,
@@ -57,7 +77,12 @@
     "latitude": "-1.44160000",
     "longitude": "132.01428000",
     "county_id": 8867,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Teminabuan",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166804,
@@ -69,6 +94,11 @@
     "latitude": "-0.23790000",
     "longitude": "130.50720000",
     "county_id": 8868,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Waisai",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   }
 ]

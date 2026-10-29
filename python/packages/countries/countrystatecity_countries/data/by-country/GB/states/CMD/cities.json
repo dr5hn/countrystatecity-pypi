@@ -9,7 +9,12 @@
     "latitude": "51.54767000",
     "longitude": "-0.17228000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Belsize Park",
+    "timezone": "Europe/London",
+    "population": 11600,
+    "population_year": null
   },
   {
     "id": 48837,
@@ -21,6 +26,11 @@
     "latitude": "51.54057000",
     "longitude": "-0.14334000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Camden Town",
+    "timezone": "Europe/London",
+    "population": 26122,
+    "population_year": null
   }
 ]

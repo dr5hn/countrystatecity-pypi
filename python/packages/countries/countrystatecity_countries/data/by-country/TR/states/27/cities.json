@@ -9,7 +9,12 @@
     "latitude": "37.42559000",
     "longitude": "37.78175000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q623678",
+    "type": "city",
+    "native": "Araban",
+    "timezone": "Europe/Istanbul",
+    "population": 32540,
+    "population_year": 2025
   },
   {
     "id": 165601,
@@ -21,7 +26,12 @@
     "latitude": "37.05944000",
     "longitude": "37.38250000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q93338",
+    "type": "adm1",
+    "native": "Gaziantep",
+    "timezone": "Europe/Istanbul",
+    "population": 2222415,
+    "population_year": null
   },
   {
     "id": 108917,
@@ -33,7 +43,12 @@
     "latitude": "36.96528000",
     "longitude": "36.70972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q344115",
+    "type": "city",
+    "native": "İslahiye",
+    "timezone": "Europe/Istanbul",
+    "population": 67674,
+    "population_year": null
   },
   {
     "id": 107925,
@@ -45,7 +60,12 @@
     "latitude": "36.83452000",
     "longitude": "37.99830000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1018531",
+    "type": "adm2",
+    "native": "Karkamış",
+    "timezone": "Europe/Istanbul",
+    "population": 9087,
+    "population_year": 2025
   },
   {
     "id": 108250,
@@ -57,7 +77,12 @@
     "latitude": "37.00972000",
     "longitude": "37.79417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1012831",
+    "type": "adm2",
+    "native": "Nizip",
+    "timezone": "Europe/Istanbul",
+    "population": 82308,
+    "population_year": null
   },
   {
     "id": 108253,
@@ -69,7 +94,12 @@
     "latitude": "37.16821000",
     "longitude": "36.73623000",
     "county_id": 7677,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Nurdağı",
+    "timezone": "Europe/Istanbul",
+    "population": 12827,
+    "population_year": null
   },
   {
     "id": 108303,
@@ -81,7 +111,12 @@
     "latitude": "36.96572000",
     "longitude": "37.51339000",
     "county_id": 7259,
-    "wikiDataId": null
+    "wikiDataId": "Q1022230",
+    "type": "municipality",
+    "native": "Oğuzeli",
+    "timezone": "Europe/Istanbul",
+    "population": 36644,
+    "population_year": 2025
   },
   {
     "id": 108929,
@@ -93,7 +128,12 @@
     "latitude": "37.03741000",
     "longitude": "37.37822000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2195037",
+    "type": "adm2",
+    "native": "Şahinbey",
+    "timezone": "Europe/Istanbul",
+    "population": 957792,
+    "population_year": 2025
   },
   {
     "id": 108946,
@@ -105,7 +145,12 @@
     "latitude": "37.17217000",
     "longitude": "37.36974000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q388703",
+    "type": "city",
+    "native": "Şehitkamil",
+    "timezone": "Europe/Istanbul",
+    "population": 905880,
+    "population_year": 2025
   },
   {
     "id": 108677,
@@ -117,6 +162,11 @@
     "latitude": "37.31772000",
     "longitude": "37.56824000",
     "county_id": 7423,
-    "wikiDataId": null
+    "wikiDataId": "Q1027149",
+    "type": "municipality",
+    "native": "Yavuzeli",
+    "timezone": "Europe/Istanbul",
+    "population": 8170,
+    "population_year": null
   }
 ]

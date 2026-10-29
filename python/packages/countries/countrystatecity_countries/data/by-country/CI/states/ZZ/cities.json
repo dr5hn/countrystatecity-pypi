@@ -9,7 +9,12 @@
     "latitude": "8.04020000",
     "longitude": "-2.80003000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q892276",
+    "type": "adm1",
+    "native": "Bondoukou",
+    "timezone": "Africa/Abidjan",
+    "population": 141568,
+    "population_year": null
   },
   {
     "id": 18884,
@@ -21,7 +26,12 @@
     "latitude": "9.26927000",
     "longitude": "-2.99510000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2922170",
+    "type": "adm2",
+    "native": "Bouna",
+    "timezone": "Africa/Abidjan",
+    "population": 24312,
+    "population_year": null
   },
   {
     "id": 18885,
@@ -33,7 +43,12 @@
     "latitude": "9.47841000",
     "longitude": "-3.31238000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Bounkani",
+    "timezone": "Africa/Abidjan",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 18902,
@@ -45,7 +60,12 @@
     "latitude": "7.87132000",
     "longitude": "-3.07068000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Gontougo",
+    "timezone": "Africa/Abidjan",
+    "population": 1381,
+    "population_year": null
   },
   {
     "id": 18930,
@@ -57,7 +77,12 @@
     "latitude": "6.62103000",
     "longitude": "-5.91144000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Sinfra",
+    "timezone": "Africa/Abidjan",
+    "population": 245226,
+    "population_year": null
   },
   {
     "id": 18934,
@@ -69,6 +94,11 @@
     "latitude": "7.80335000",
     "longitude": "-3.16832000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Tanda",
+    "timezone": "Africa/Abidjan",
+    "population": 35854,
+    "population_year": null
   }
 ]

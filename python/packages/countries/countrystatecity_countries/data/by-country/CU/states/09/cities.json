@@ -9,7 +9,12 @@
     "latitude": "21.38083000",
     "longitude": "-77.91694000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q115329",
+    "type": "adm1",
+    "native": "Camagüey",
+    "timezone": "America/Havana",
+    "population": 321992,
+    "population_year": null
   },
   {
     "id": 21848,
@@ -21,7 +26,12 @@
     "latitude": "21.30000000",
     "longitude": "-78.48333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "El Caney",
+    "timezone": "America/Havana",
+    "population": 4597,
+    "population_year": null
   },
   {
     "id": 21851,
@@ -33,7 +43,12 @@
     "latitude": "21.85139000",
     "longitude": "-78.11725000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Esmeralda",
+    "timezone": "America/Havana",
+    "population": 20274,
+    "population_year": null
   },
   {
     "id": 21854,
@@ -45,7 +60,12 @@
     "latitude": "21.52536000",
     "longitude": "-78.22579000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Florida",
+    "timezone": "America/Havana",
+    "population": 71676,
+    "population_year": null
   },
   {
     "id": 21863,
@@ -57,7 +77,12 @@
     "latitude": "21.05222000",
     "longitude": "-77.34990000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Guáimaro",
+    "timezone": "America/Havana",
+    "population": 39358,
+    "population_year": null
   },
   {
     "id": 21876,
@@ -69,7 +94,12 @@
     "latitude": "21.24224000",
     "longitude": "-77.82625000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q179701",
+    "type": "adm2",
+    "native": "Jimaguayú",
+    "timezone": "America/Havana",
+    "population": 21169,
+    "population_year": null
   },
   {
     "id": 21899,
@@ -81,7 +111,12 @@
     "latitude": "21.48802000",
     "longitude": "-77.61033000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q643025",
+    "type": "adm2",
+    "native": "Minas",
+    "timezone": "America/Havana",
+    "population": 20863,
+    "population_year": null
   },
   {
     "id": 21913,
@@ -93,7 +128,12 @@
     "latitude": "21.46582000",
     "longitude": "-78.34848000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q643617",
+    "type": "city",
+    "native": "Municipio de Florida",
+    "timezone": "America/Havana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21928,
@@ -105,7 +145,12 @@
     "latitude": "21.55000000",
     "longitude": "-77.26667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q643081",
+    "type": "city",
+    "native": "Municipio de Nuevitas",
+    "timezone": "America/Havana",
+    "population": 54022,
+    "population_year": null
   },
   {
     "id": 21938,
@@ -117,7 +162,12 @@
     "latitude": "21.54585000",
     "longitude": "-77.26504000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23792936",
+    "type": "city",
+    "native": "Nuevitas",
+    "timezone": "America/Havana",
+    "population": 54022,
+    "population_year": null
   },
   {
     "id": 21971,
@@ -129,7 +179,12 @@
     "latitude": "20.71633000",
     "longitude": "-77.99816000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Santa Cruz del Sur",
+    "timezone": "America/Havana",
+    "population": 34601,
+    "population_year": null
   },
   {
     "id": 21975,
@@ -141,7 +196,12 @@
     "latitude": "21.23631000",
     "longitude": "-77.52561000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q537161",
+    "type": "adm2",
+    "native": "Sibanúc",
+    "timezone": "America/Havana",
+    "population": 16856,
+    "population_year": null
   },
   {
     "id": 21982,
@@ -153,6 +213,11 @@
     "latitude": "21.25817000",
     "longitude": "-78.14979000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q643047",
+    "type": "adm2",
+    "native": "Vertientes",
+    "timezone": "America/Havana",
+    "population": 29704,
+    "population_year": null
   }
 ]

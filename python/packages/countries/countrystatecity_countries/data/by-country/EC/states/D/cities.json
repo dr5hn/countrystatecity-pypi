@@ -9,7 +9,12 @@
     "latitude": "-0.69832000",
     "longitude": "-77.14083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23885707",
+    "type": "city",
+    "native": "Boca Suno",
+    "timezone": "America/Guayaquil",
+    "population": 20313,
+    "population_year": null
   },
   {
     "id": 31506,
@@ -21,7 +26,12 @@
     "latitude": "-0.46667000",
     "longitude": "-76.96667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1992935",
+    "type": "adm1",
+    "native": "Francisco de Orellana Canton",
+    "timezone": "America/Guayaquil",
+    "population": 48144,
+    "population_year": null
   },
   {
     "id": 31523,
@@ -33,7 +43,12 @@
     "latitude": "-0.69487000",
     "longitude": "-77.30255000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Loreto Cantón",
+    "timezone": "America/Guayaquil",
+    "population": 27720,
+    "population_year": null
   },
   {
     "id": 31554,
@@ -45,6 +60,11 @@
     "latitude": "-0.46645000",
     "longitude": "-76.98719000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1014564",
+    "type": "adm1",
+    "native": "Puerto Francisco de Orellana",
+    "timezone": "America/Guayaquil",
+    "population": 48144,
+    "population_year": null
   }
 ]

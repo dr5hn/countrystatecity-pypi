@@ -9,7 +9,12 @@
     "latitude": "20.28333000",
     "longitude": "73.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q367624",
+    "type": "city",
+    "native": "अमली",
+    "timezone": "Asia/Kolkata",
+    "population": 33369,
+    "population_year": null
   },
   {
     "id": 131639,
@@ -21,7 +26,12 @@
     "latitude": "20.32504000",
     "longitude": "72.96618000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "दादर",
+    "timezone": "Asia/Kolkata",
+    "population": 13039,
+    "population_year": null
   },
   {
     "id": 131640,
@@ -33,7 +43,12 @@
     "latitude": "20.20651000",
     "longitude": "73.00811000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10752928",
+    "type": "city",
+    "native": "दादरा और नगर हवेली",
+    "timezone": "Asia/Kolkata",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 131649,
@@ -45,7 +60,12 @@
     "latitude": "20.41431000",
     "longitude": "72.83236000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q463252",
+    "type": "adm1",
+    "native": "दमन",
+    "timezone": "Asia/Kolkata",
+    "population": 44282,
+    "population_year": null
   },
   {
     "id": 167530,
@@ -57,7 +77,12 @@
     "latitude": "20.71499722",
     "longitude": "70.98435833",
     "county_id": 11012,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "दीव",
+    "timezone": "Asia/Kolkata",
+    "population": 23991,
+    "population_year": null
   },
   {
     "id": 133937,
@@ -69,6 +94,11 @@
     "latitude": "20.27386000",
     "longitude": "72.99673000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q318404",
+    "type": "adm2",
+    "native": "सिल्वासा",
+    "timezone": "Asia/Kolkata",
+    "population": 98265,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "51.36240000",
     "longitude": "-0.30427000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Chessington",
+    "timezone": "Europe/London",
+    "population": 19433,
+    "population_year": null
   },
   {
     "id": 49295,
@@ -21,7 +26,12 @@
     "latitude": "51.37947000",
     "longitude": "-0.31281000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Ditton Hill",
+    "timezone": "Europe/London",
+    "population": 3024,
+    "population_year": null
   },
   {
     "id": 49979,
@@ -33,7 +43,12 @@
     "latitude": "51.36803000",
     "longitude": "-0.30650000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15224991",
+    "type": "city",
+    "native": "Hook",
+    "timezone": "Europe/London",
+    "population": 18973,
+    "population_year": null
   },
   {
     "id": 50180,
@@ -45,7 +60,12 @@
     "latitude": "51.41259000",
     "longitude": "-0.29740000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2321706",
+    "type": "adm3",
+    "native": "Kingston upon Thames",
+    "timezone": "Europe/London",
+    "population": 10001,
+    "population_year": null
   },
   {
     "id": 50689,
@@ -57,7 +77,12 @@
     "latitude": "51.40065000",
     "longitude": "-0.26170000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3054629",
+    "type": "section",
+    "native": "New Malden",
+    "timezone": "Europe/London",
+    "population": 23818,
+    "population_year": null
   },
   {
     "id": 51514,
@@ -69,7 +94,12 @@
     "latitude": "51.39148000",
     "longitude": "-0.29825000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Surbiton",
+    "timezone": "Europe/London",
+    "population": 45132,
+    "population_year": null
   },
   {
     "id": 51985,
@@ -81,6 +111,11 @@
     "latitude": "51.37992000",
     "longitude": "-0.24445000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Worcester Park",
+    "timezone": "Europe/London",
+    "population": 16031,
+    "population_year": null
   }
 ]

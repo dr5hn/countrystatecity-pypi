@@ -9,7 +9,12 @@
     "latitude": "40.72472000",
     "longitude": "26.08250000",
     "county_id": 7032,
-    "wikiDataId": null
+    "wikiDataId": "Q610751",
+    "type": "municipality",
+    "native": "Enez",
+    "timezone": "Europe/Istanbul",
+    "population": 4119,
+    "population_year": null
   },
   {
     "id": 107807,
@@ -21,7 +26,12 @@
     "latitude": "41.54898000",
     "longitude": "26.82207000",
     "county_id": 7106,
-    "wikiDataId": null
+    "wikiDataId": "Q655279",
+    "type": "municipality",
+    "native": "Havsa",
+    "timezone": "Europe/Istanbul",
+    "population": 7510,
+    "population_year": null
   },
   {
     "id": 108909,
@@ -33,7 +43,12 @@
     "latitude": "40.92115000",
     "longitude": "26.38273000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q344021",
+    "type": "adm2",
+    "native": "İpsala",
+    "timezone": "Europe/Istanbul",
+    "population": 8485,
+    "population_year": 2025
   },
   {
     "id": 107992,
@@ -45,7 +60,12 @@
     "latitude": "40.85583000",
     "longitude": "26.63028000",
     "county_id": 7181,
-    "wikiDataId": null
+    "wikiDataId": "Q951495",
+    "type": "municipality",
+    "native": "Keşan",
+    "timezone": "Europe/Istanbul",
+    "population": 84442,
+    "population_year": null
   },
   {
     "id": 108133,
@@ -57,7 +77,12 @@
     "latitude": "41.83951000",
     "longitude": "26.73561000",
     "county_id": 7217,
-    "wikiDataId": null
+    "wikiDataId": "Q1015437",
+    "type": "municipality",
+    "native": "Lalapaşa",
+    "timezone": "Europe/Istanbul",
+    "population": 2771,
+    "population_year": null
   },
   {
     "id": 108176,
@@ -69,7 +94,12 @@
     "latitude": "41.19183000",
     "longitude": "26.42097000",
     "county_id": 7234,
-    "wikiDataId": null
+    "wikiDataId": "Q1015330",
+    "type": "municipality",
+    "native": "Meriç",
+    "timezone": "Europe/Istanbul",
+    "population": 2921,
+    "population_year": null
   },
   {
     "id": 107549,
@@ -81,7 +111,12 @@
     "latitude": "41.67719000",
     "longitude": "26.55597000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q43387",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 189673,
+    "population_year": 2025
   },
   {
     "id": 108523,
@@ -93,7 +128,12 @@
     "latitude": "41.77956000",
     "longitude": "26.92602000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1019897",
+    "type": "adm2",
+    "native": "Süloğlu",
+    "timezone": "Europe/Istanbul",
+    "population": 7062,
+    "population_year": null
   },
   {
     "id": 108640,
@@ -105,6 +145,11 @@
     "latitude": "41.26597000",
     "longitude": "26.68850000",
     "county_id": 7409,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Uzunköprü",
+    "timezone": "Europe/Istanbul",
+    "population": 61485,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "18.33568380",
     "longitude": "-64.79470780",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q65041148",
+    "type": "adm1",
+    "native": "Central",
+    "timezone": "America/St_Thomas",
+    "population": 2743,
+    "population_year": null
   },
   {
     "id": 149569,
@@ -21,7 +26,12 @@
     "latitude": "18.34800890",
     "longitude": "-64.72196820",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31908423",
+    "type": "city",
+    "native": "Coral Bay",
+    "timezone": "America/St_Thomas",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149570,
@@ -33,7 +43,12 @@
     "latitude": "18.31820370",
     "longitude": "-64.80242110",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31908720",
+    "type": "adm1",
+    "native": "Cruz Bay",
+    "timezone": "America/St_Thomas",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 149571,
@@ -45,6 +60,11 @@
     "latitude": "18.34036470",
     "longitude": "-64.68062660",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31912957",
+    "type": "city",
+    "native": "East End",
+    "timezone": "America/St_Thomas",
+    "population": null,
+    "population_year": null
   }
 ]

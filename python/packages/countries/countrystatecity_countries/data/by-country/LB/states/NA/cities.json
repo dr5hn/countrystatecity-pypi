@@ -9,7 +9,12 @@
     "latitude": "33.11023000",
     "longitude": "35.40251000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2828135",
+    "type": "city",
+    "native": "عين إبل",
+    "timezone": "Asia/Beirut",
+    "population": 2000,
+    "population_year": null
   },
   {
     "id": 65942,
@@ -21,7 +26,12 @@
     "latitude": "33.15964000",
     "longitude": "35.41137000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q145355",
+    "type": "city",
+    "native": "قضاء بنت جبيل",
+    "timezone": "Asia/Beirut",
+    "population": 5000,
+    "population_year": null
   },
   {
     "id": 65943,
@@ -33,7 +43,12 @@
     "latitude": "33.39435000",
     "longitude": "35.44483000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q680602",
+    "type": "adm2",
+    "native": "قضاء النبطية",
+    "timezone": "Asia/Beirut",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65946,
@@ -45,7 +60,12 @@
     "latitude": "33.40729000",
     "longitude": "35.48169000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "حبوش",
+    "timezone": "Asia/Beirut",
+    "population": 98433,
+    "population_year": null
   },
   {
     "id": 165171,
@@ -57,7 +77,12 @@
     "latitude": "33.39778000",
     "longitude": "35.68500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q594026",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Beirut",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65949,
@@ -69,7 +94,12 @@
     "latitude": "33.36028000",
     "longitude": "35.59111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q25659",
+    "type": "adm2",
+    "native": "مرجعيون",
+    "timezone": "Asia/Beirut",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 65950,
@@ -81,6 +111,11 @@
     "latitude": "33.37889000",
     "longitude": "35.48389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q26134",
+    "type": "adm1",
+    "native": "النبطية التحتا",
+    "timezone": "Asia/Beirut",
+    "population": 120000,
+    "population_year": null
   }
 ]

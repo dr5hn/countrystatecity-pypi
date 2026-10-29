@@ -9,7 +9,12 @@
     "latitude": "42.35518000",
     "longitude": "21.74781000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31916016",
+    "type": "locality",
+    "native": "Биљача",
+    "timezone": "Europe/Belgrade",
+    "population": 2349,
+    "population_year": null
   },
   {
     "id": 155065,
@@ -21,7 +26,12 @@
     "latitude": "42.50233740",
     "longitude": "22.41940440",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2986161",
+    "type": "city",
+    "native": "Босилеград",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 155066,
@@ -33,7 +43,12 @@
     "latitude": "42.45675480",
     "longitude": "21.74726470",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2500642",
+    "type": "adm3",
+    "native": "Бујановац",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97295,
@@ -45,7 +60,12 @@
     "latitude": "42.25846000",
     "longitude": "21.66456000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q386397",
+    "type": "locality",
+    "native": "Миратовац",
+    "timezone": "Europe/Belgrade",
+    "population": 2872,
+    "population_year": null
   },
   {
     "id": 155068,
@@ -57,7 +77,12 @@
     "latitude": "42.31581340",
     "longitude": "21.57144860",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q157363",
+    "type": "city",
+    "native": "Прешево",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97355,
@@ -69,7 +94,12 @@
     "latitude": "42.43364000",
     "longitude": "22.22861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2738418",
+    "type": "locality",
+    "native": "Радовница",
+    "timezone": "Europe/Belgrade",
+    "population": 1062,
+    "population_year": null
   },
   {
     "id": 97356,
@@ -81,7 +111,12 @@
     "latitude": "42.37870000",
     "longitude": "21.69591000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3104619",
+    "type": "locality",
+    "native": "Рајинце",
+    "timezone": "Europe/Belgrade",
+    "population": 2020,
+    "population_year": null
   },
   {
     "id": 97373,
@@ -93,7 +128,12 @@
     "latitude": "42.38445000",
     "longitude": "21.73708000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3104463",
+    "type": "locality",
+    "native": "Самољица",
+    "timezone": "Europe/Belgrade",
+    "population": 2852,
+    "population_year": null
   },
   {
     "id": 97402,
@@ -105,7 +145,12 @@
     "latitude": "42.38682000",
     "longitude": "21.73400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Шумулица",
+    "timezone": "Europe/Belgrade",
+    "population": 2350,
+    "population_year": null
   },
   {
     "id": 155069,
@@ -117,7 +162,12 @@
     "latitude": "42.69008190",
     "longitude": "22.15599050",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1264710",
+    "type": "adm3",
+    "native": "Сурдулица",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 155070,
@@ -129,7 +179,12 @@
     "latitude": "42.35659850",
     "longitude": "22.02351020",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1551657",
+    "type": "city",
+    "native": "Трговиште",
+    "timezone": "Europe/Belgrade",
+    "population": 4316,
+    "population_year": null
   },
   {
     "id": 155067,
@@ -141,7 +196,12 @@
     "latitude": "42.70738320",
     "longitude": "22.04413920",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2500669",
+    "type": "adm3",
+    "native": "Владичин Хан",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97440,
@@ -153,7 +213,12 @@
     "latitude": "42.55139000",
     "longitude": "21.90028000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q211645",
+    "type": "city",
+    "native": "Врање",
+    "timezone": "Europe/Belgrade",
+    "population": 55214,
+    "population_year": null
   },
   {
     "id": 97475,
@@ -165,6 +230,11 @@
     "latitude": "42.31568000",
     "longitude": "21.70212000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3104551",
+    "type": "locality",
+    "native": "Жујинце",
+    "timezone": "Europe/Belgrade",
+    "population": 1284,
+    "population_year": null
   }
 ]

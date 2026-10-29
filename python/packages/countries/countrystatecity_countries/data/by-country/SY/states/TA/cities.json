@@ -9,7 +9,12 @@
     "latitude": "34.89514000",
     "longitude": "36.14303000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4120566",
+    "type": "adm2",
+    "native": "أد دورايكيش",
+    "timezone": "Asia/Damascus",
+    "population": 11918,
+    "population_year": null
   },
   {
     "id": 165580,
@@ -21,7 +26,12 @@
     "latitude": "34.99174000",
     "longitude": "36.08350000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2132653",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Damascus",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104987,
@@ -33,7 +43,12 @@
     "latitude": "35.18188000",
     "longitude": "35.94871000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q263922",
+    "type": "adm2",
+    "native": "بانياس",
+    "timezone": "Asia/Damascus",
+    "population": 43151,
+    "population_year": null
   },
   {
     "id": 105015,
@@ -45,7 +60,12 @@
     "latitude": "35.08638000",
     "longitude": "36.20605000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1721023",
+    "type": "city",
+    "native": "كف الجاء",
+    "timezone": "Asia/Damascus",
+    "population": 3500,
+    "population_year": null
   },
   {
     "id": 105042,
@@ -57,7 +77,12 @@
     "latitude": "34.80419000",
     "longitude": "36.12293000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4120580",
+    "type": "district",
+    "native": "قضاء صافيتا",
+    "timezone": "Asia/Damascus",
+    "population": 129632,
+    "population_year": null
   },
   {
     "id": 105047,
@@ -69,7 +94,12 @@
     "latitude": "34.82099000",
     "longitude": "36.11773000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1002557",
+    "type": "adm2",
+    "native": "ساتيتا",
+    "timezone": "Asia/Damascus",
+    "population": 27815,
+    "population_year": null
   },
   {
     "id": 105060,
@@ -81,6 +111,11 @@
     "latitude": "34.88902000",
     "longitude": "35.88659000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q174916",
+    "type": "city",
+    "native": "طرطوس",
+    "timezone": "Asia/Damascus",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "57.09867000",
     "longitude": "24.68630000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q987170",
+    "type": "city",
+    "native": "Inčukalns",
+    "timezone": "Europe/Riga",
+    "population": 2179,
+    "population_year": null
   },
   {
     "id": 66929,
@@ -21,7 +26,12 @@
     "latitude": "57.01010000",
     "longitude": "24.95783000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1023743",
+    "type": "city",
+    "native": "Mālpils",
+    "timezone": "Europe/Riga",
+    "population": 1807,
+    "population_year": null
   },
   {
     "id": 66961,
@@ -33,6 +43,11 @@
     "latitude": "57.15375000",
     "longitude": "24.85953000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q465698",
+    "type": "adm1",
+    "native": "Sigulda",
+    "timezone": "Europe/Riga",
+    "population": 14757,
+    "population_year": null
   }
 ]

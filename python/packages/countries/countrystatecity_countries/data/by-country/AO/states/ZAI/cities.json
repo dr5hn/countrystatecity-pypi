@@ -9,7 +9,12 @@
     "latitude": "-6.26703000",
     "longitude": "14.24010000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q500189",
+    "type": "adm1",
+    "native": "Mbanza Congo",
+    "timezone": "Africa/Luanda",
+    "population": 148000,
+    "population_year": null
   },
   {
     "id": 626,
@@ -21,7 +26,12 @@
     "latitude": "-7.23116000",
     "longitude": "12.86660000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2351452",
+    "type": "city",
+    "native": "N'Zeto",
+    "timezone": "Africa/Luanda",
+    "population": 28840,
+    "population_year": null
   },
   {
     "id": 633,
@@ -33,6 +43,11 @@
     "latitude": "-6.13490000",
     "longitude": "12.36894000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1015108",
+    "type": "city",
+    "native": "Soyo",
+    "timezone": "Africa/Luanda",
+    "population": 200920,
+    "population_year": null
   }
 ]

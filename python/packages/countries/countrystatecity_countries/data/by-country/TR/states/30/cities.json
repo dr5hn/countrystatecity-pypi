@@ -9,7 +9,12 @@
     "latitude": "37.24806000",
     "longitude": "43.61361000",
     "county_id": 6989,
-    "wikiDataId": null
+    "wikiDataId": "Q272939",
+    "type": "municipality",
+    "native": "Çukurca",
+    "timezone": "Europe/Istanbul",
+    "population": 8843,
+    "population_year": null
   },
   {
     "id": 153355,
@@ -21,7 +26,12 @@
     "latitude": "37.07242300",
     "longitude": "44.32434800",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1199986",
+    "type": "city",
+    "native": "Derecik",
+    "timezone": "Europe/Istanbul",
+    "population": 57,
+    "population_year": null
   },
   {
     "id": 107774,
@@ -33,7 +43,12 @@
     "latitude": "37.57444000",
     "longitude": "43.74083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q206895",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 59813,
+    "population_year": 2025
   },
   {
     "id": 108948,
@@ -45,7 +60,12 @@
     "latitude": "37.30514000",
     "longitude": "44.57420000",
     "county_id": 7363,
-    "wikiDataId": null
+    "wikiDataId": "Q4444751",
+    "type": "municipality",
+    "native": "Şemdinli",
+    "timezone": "Europe/Istanbul",
+    "population": 17363,
+    "population_year": 2025
   },
   {
     "id": 108744,
@@ -57,6 +77,11 @@
     "latitude": "37.54627000",
     "longitude": "44.25827000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2176882",
+    "type": "city",
+    "native": "Yüksekova",
+    "timezone": "Europe/Istanbul",
+    "population": 88638,
+    "population_year": 2025
   }
 ]

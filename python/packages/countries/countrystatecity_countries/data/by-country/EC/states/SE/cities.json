@@ -9,7 +9,12 @@
     "latitude": "-2.23300000",
     "longitude": "-80.91039000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1798895",
+    "type": "city",
+    "native": "La Libertad",
+    "timezone": "America/Guayaquil",
+    "population": 75881,
+    "population_year": null
   },
   {
     "id": 31565,
@@ -21,7 +26,12 @@
     "latitude": "-2.21452000",
     "longitude": "-80.95151000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1026284",
+    "type": "city",
+    "native": "Salinas",
+    "timezone": "America/Guayaquil",
+    "population": 43862,
+    "population_year": null
   },
   {
     "id": 31574,
@@ -33,6 +43,11 @@
     "latitude": "-2.22622000",
     "longitude": "-80.85873000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q135864",
+    "type": "adm1",
+    "native": "Santa Elena",
+    "timezone": "America/Guayaquil",
+    "population": 42214,
+    "population_year": null
   }
 ]

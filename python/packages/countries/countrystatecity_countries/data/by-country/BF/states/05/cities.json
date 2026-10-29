@@ -9,7 +9,12 @@
     "latitude": "12.66664000",
     "longitude": "-0.57469000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q895110",
+    "type": "adm2",
+    "native": "Boule",
+    "timezone": "Africa/Ouagadougou",
+    "population": 24200,
+    "population_year": null
   },
   {
     "id": 9182,
@@ -21,7 +26,12 @@
     "latitude": "13.09167000",
     "longitude": "-1.08444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q766464",
+    "type": "adm1",
+    "native": "Kaya",
+    "timezone": "Africa/Ouagadougou",
+    "population": 122949,
+    "population_year": null
   },
   {
     "id": 9185,
@@ -33,7 +43,12 @@
     "latitude": "13.32583000",
     "longitude": "-1.53472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q163352",
+    "type": "adm2",
+    "native": "Kongoussi",
+    "timezone": "Africa/Ouagadougou",
+    "population": 53641,
+    "population_year": null
   },
   {
     "id": 9210,
@@ -45,7 +60,12 @@
     "latitude": "13.46667000",
     "longitude": "-1.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q620710",
+    "type": "province",
+    "native": "Province du Bam",
+    "timezone": "Africa/Ouagadougou",
+    "population": 277092,
+    "population_year": null
   },
   {
     "id": 9222,
@@ -57,7 +77,12 @@
     "latitude": "13.25000000",
     "longitude": "-0.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1142044",
+    "type": "province",
+    "native": "Province du Nontennga",
+    "timezone": "Africa/Ouagadougou",
+    "population": 402214,
+    "population_year": null
   },
   {
     "id": 9228,
@@ -69,6 +94,11 @@
     "latitude": "13.25000000",
     "longitude": "-1.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1142039",
+    "type": "province",
+    "native": "Province du Sanatenga",
+    "timezone": "Africa/Ouagadougou",
+    "population": 885642,
+    "population_year": null
   }
 ]

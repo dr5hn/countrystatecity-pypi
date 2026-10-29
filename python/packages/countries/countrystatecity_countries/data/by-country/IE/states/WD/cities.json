@@ -9,7 +9,12 @@
     "latitude": "52.08806000",
     "longitude": "-7.62528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q581790",
+    "type": "town",
+    "native": "Dungarvan",
+    "timezone": "Europe/Dublin",
+    "population": 7991,
+    "population_year": null
   },
   {
     "id": 57234,
@@ -21,7 +26,12 @@
     "latitude": "52.15108000",
     "longitude": "-6.99872000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1013935",
+    "type": "town",
+    "native": "Dunmore East",
+    "timezone": "Europe/Dublin",
+    "population": 1808,
+    "population_year": null
   },
   {
     "id": 57363,
@@ -33,7 +43,12 @@
     "latitude": "52.28833000",
     "longitude": "-7.32056000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2082363",
+    "type": "town",
+    "native": "Portlaw",
+    "timezone": "Europe/Dublin",
+    "population": 1696,
+    "population_year": null
   },
   {
     "id": 57420,
@@ -45,7 +60,12 @@
     "latitude": "52.16235000",
     "longitude": "-7.15244000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q507924",
+    "type": "town",
+    "native": "Trá Mhór",
+    "timezone": "Europe/Dublin",
+    "population": 10381,
+    "population_year": null
   },
   {
     "id": 57428,
@@ -57,6 +77,11 @@
     "latitude": "52.25833000",
     "longitude": "-7.11194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q183551",
+    "type": "city",
+    "native": "Waterford",
+    "timezone": "Europe/Dublin",
+    "population": 48369,
+    "population_year": null
   }
 ]

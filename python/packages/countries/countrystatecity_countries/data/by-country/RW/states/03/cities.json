@@ -9,7 +9,12 @@
     "latitude": "-1.55840000",
     "longitude": "29.54340000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5002007",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Kigali",
+    "population": 28264,
+    "population_year": null
   },
   {
     "id": 102793,
@@ -21,7 +26,12 @@
     "latitude": "-1.57630000",
     "longitude": "30.06750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q391747",
+    "type": "adm1",
+    "native": "Byumba",
+    "timezone": "Africa/Kigali",
+    "population": 43134,
+    "population_year": null
   },
   {
     "id": 102801,
@@ -33,7 +43,12 @@
     "latitude": "-1.49984000",
     "longitude": "29.63497000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q246145",
+    "type": "city",
+    "native": "Musanze",
+    "timezone": "Africa/Kigali",
+    "population": 153368,
+    "population_year": null
   },
   {
     "id": 165517,
@@ -45,6 +60,11 @@
     "latitude": "-1.85439000",
     "longitude": "29.96238000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7506026",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Kigali",
+    "population": null,
+    "population_year": null
   }
 ]

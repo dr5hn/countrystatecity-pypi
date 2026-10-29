@@ -9,7 +9,12 @@
     "latitude": "58.79000000",
     "longitude": "25.42806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3468713",
+    "type": "town",
+    "native": "Särevere",
+    "timezone": "Europe/Tallinn",
+    "population": 1035,
+    "population_year": null
   },
   {
     "id": 31729,
@@ -21,7 +26,12 @@
     "latitude": "58.80861000",
     "longitude": "25.43250000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q141796",
+    "type": "city",
+    "native": "Türi",
+    "timezone": "Europe/Tallinn",
+    "population": 5186,
+    "population_year": null
   },
   {
     "id": 31730,
@@ -33,6 +43,11 @@
     "latitude": "58.74143000",
     "longitude": "25.46443000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q719969",
+    "type": "city",
+    "native": "Türi vald",
+    "timezone": "Europe/Tallinn",
+    "population": null,
+    "population_year": null
   }
 ]

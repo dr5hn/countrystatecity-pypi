@@ -9,7 +9,12 @@
     "latitude": "7.23087000",
     "longitude": "10.62444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Baissa",
+    "timezone": "Africa/Lagos",
+    "population": 8911,
+    "population_year": null
   },
   {
     "id": 76797,
@@ -21,7 +26,12 @@
     "latitude": "7.85868000",
     "longitude": "10.97187000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33424252",
+    "type": "locality",
+    "native": "Beli",
+    "timezone": "Africa/Lagos",
+    "population": 17467,
+    "population_year": null
   },
   {
     "id": 76879,
@@ -33,7 +43,12 @@
     "latitude": "8.53535000",
     "longitude": "10.44615000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33437942",
+    "type": "locality",
+    "native": "Gassol",
+    "timezone": "Africa/Lagos",
+    "population": 14326,
+    "population_year": null
   },
   {
     "id": 76883,
@@ -45,7 +60,12 @@
     "latitude": "6.72556000",
     "longitude": "11.25652000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5530585",
+    "type": "locality",
+    "native": "GEMBU",
+    "timezone": "Africa/Lagos",
+    "population": 19881,
+    "population_year": null
   },
   {
     "id": 76908,
@@ -57,7 +77,12 @@
     "latitude": "8.18122000",
     "longitude": "9.74431000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Ibi",
+    "timezone": "Africa/Lagos",
+    "population": 22757,
+    "population_year": null
   },
   {
     "id": 76957,
@@ -69,7 +94,12 @@
     "latitude": "8.89367000",
     "longitude": "11.35960000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1023720",
+    "type": "municipality",
+    "native": "Jalingo",
+    "timezone": "Africa/Lagos",
+    "population": 117757,
+    "population_year": null
   },
   {
     "id": 77008,
@@ -81,7 +111,12 @@
     "latitude": "9.20827000",
     "longitude": "11.27541000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6497586",
+    "type": "municipality",
+    "native": "Lau",
+    "timezone": "Africa/Lagos",
+    "population": 12657,
+    "population_year": null
   },
   {
     "id": 77036,
@@ -93,7 +128,12 @@
     "latitude": "8.64138000",
     "longitude": "10.77355000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Mutum Biyu",
+    "timezone": "Africa/Lagos",
+    "population": 11702,
+    "population_year": null
   },
   {
     "id": 77092,
@@ -105,7 +145,12 @@
     "latitude": "7.90844000",
     "longitude": "9.61688000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33475697",
+    "type": "locality",
+    "native": "Rites",
+    "timezone": "Africa/Lagos",
+    "population": 6875,
+    "population_year": null
   },
   {
     "id": 77136,
@@ -117,6 +162,11 @@
     "latitude": "7.87139000",
     "longitude": "9.77786000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3509190",
+    "type": "municipality",
+    "native": "Wukari",
+    "timezone": "Africa/Lagos",
+    "population": 92933,
+    "population_year": null
   }
 ]

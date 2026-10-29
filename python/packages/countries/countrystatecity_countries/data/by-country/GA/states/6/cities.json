@@ -9,7 +9,12 @@
     "latitude": "-0.09207000",
     "longitude": "11.93846000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1052014",
+    "type": "city",
+    "native": "Booué",
+    "timezone": "Africa/Libreville",
+    "population": 6040,
+    "population_year": null
   },
   {
     "id": 48140,
@@ -21,7 +26,12 @@
     "latitude": "0.57381000",
     "longitude": "12.86419000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1002583",
+    "type": "adm1",
+    "native": "Makokou",
+    "timezone": "Africa/Libreville",
+    "population": 20653,
+    "population_year": null
   },
   {
     "id": 48156,
@@ -33,6 +43,11 @@
     "latitude": "0.92582000",
     "longitude": "13.90813000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Zadie",
+    "timezone": "Africa/Libreville",
+    "population": null,
+    "population_year": null
   }
 ]

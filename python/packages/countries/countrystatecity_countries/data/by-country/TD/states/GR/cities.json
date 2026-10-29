@@ -9,7 +9,12 @@
     "latitude": "11.98010000",
     "longitude": "18.21380000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2594463",
+    "type": "city",
+    "native": "Bitkine",
+    "timezone": "Africa/Ndjamena",
+    "population": 41871,
+    "population_year": null
   },
   {
     "id": 105149,
@@ -21,7 +26,12 @@
     "latitude": "11.05980000",
     "longitude": "17.93550000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3305032",
+    "type": "city",
+    "native": "Melfi",
+    "timezone": "Africa/Ndjamena",
+    "population": 12924,
+    "population_year": null
   },
   {
     "id": 105150,
@@ -33,6 +43,11 @@
     "latitude": "12.18441000",
     "longitude": "18.69303000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q540895",
+    "type": "adm1",
+    "native": "Mongo",
+    "timezone": "Africa/Ndjamena",
+    "population": 53768,
+    "population_year": null
   }
 ]

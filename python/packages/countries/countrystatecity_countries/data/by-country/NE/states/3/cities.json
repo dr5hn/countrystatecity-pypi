@@ -9,7 +9,12 @@
     "latitude": "13.08167000",
     "longitude": "2.91083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q888839",
+    "type": "area",
+    "native": "Département de Boboye",
+    "timezone": "Africa/Niamey",
+    "population": 19529,
+    "population_year": null
   },
   {
     "id": 76695,
@@ -21,7 +26,12 @@
     "latitude": "13.50000000",
     "longitude": "4.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q912641",
+    "type": "adm2",
+    "native": "Département de Dogondoutchi",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76696,
@@ -33,7 +43,12 @@
     "latitude": "12.83333000",
     "longitude": "3.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1251043",
+    "type": "city",
+    "native": "Département de Dosso",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76698,
@@ -45,7 +60,12 @@
     "latitude": "11.95970000",
     "longitude": "3.46045000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q912246",
+    "type": "adm2",
+    "native": "Département de Gaya",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76702,
@@ -57,7 +77,12 @@
     "latitude": "13.63333000",
     "longitude": "3.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1540086",
+    "type": "city",
+    "native": "Département de Loga",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76687,
@@ -69,7 +94,12 @@
     "latitude": "13.64030000",
     "longitude": "4.02649000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Longoutchi",
+    "timezone": "Africa/Niamey",
+    "population": 50037,
+    "population_year": null
   },
   {
     "id": 76688,
@@ -81,7 +111,12 @@
     "latitude": "13.04900000",
     "longitude": "3.19370000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Dosso",
+    "timezone": "Africa/Niamey",
+    "population": 79406,
+    "population_year": null
   },
   {
     "id": 76716,
@@ -93,6 +128,11 @@
     "latitude": "11.88435000",
     "longitude": "3.44919000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q766896",
+    "type": "adm2",
+    "native": "Gaya",
+    "timezone": "Africa/Niamey",
+    "population": 61533,
+    "population_year": null
   }
 ]

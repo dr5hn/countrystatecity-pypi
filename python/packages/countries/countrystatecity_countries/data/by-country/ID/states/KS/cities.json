@@ -9,7 +9,12 @@
     "latitude": "-2.41773000",
     "longitude": "115.24941000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Amuntai",
+    "timezone": "Asia/Makassar",
+    "population": 55560,
+    "population_year": null
   },
   {
     "id": 164797,
@@ -21,7 +26,12 @@
     "latitude": "-3.44060000",
     "longitude": "114.83650000",
     "county_id": 8718,
-    "wikiDataId": null
+    "wikiDataId": "Q14181",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Makassar",
+    "population": 293332,
+    "population_year": null
   },
   {
     "id": 56203,
@@ -33,7 +43,12 @@
     "latitude": "-3.31987000",
     "longitude": "114.59075000",
     "county_id": 8717,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Banjarmasin",
+    "timezone": "Asia/Makassar",
+    "population": 662230,
+    "population_year": null
   },
   {
     "id": 56207,
@@ -45,7 +60,12 @@
     "latitude": "-2.58333000",
     "longitude": "115.38333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Barabai",
+    "timezone": "Asia/Makassar",
+    "population": 55687,
+    "population_year": null
   },
   {
     "id": 166832,
@@ -57,7 +77,12 @@
     "latitude": "-3.42022000",
     "longitude": "116.00611000",
     "county_id": 8715,
-    "wikiDataId": null
+    "wikiDataId": "Q138791047",
+    "type": "town",
+    "native": "Batulicin",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56421,
@@ -69,7 +94,12 @@
     "latitude": "-2.61667000",
     "longitude": "115.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14173",
+    "type": "regency",
+    "native": "Kabupaten Hulu Sungai Tengah",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166687,
@@ -81,7 +111,12 @@
     "latitude": "-2.78685427",
     "longitude": "115.26574935",
     "county_id": 8711,
-    "wikiDataId": null
+    "wikiDataId": "Q138784437",
+    "type": "town",
+    "native": "Kandangan",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166716,
@@ -93,7 +128,12 @@
     "latitude": "-3.24120000",
     "longitude": "116.22590000",
     "county_id": 8707,
-    "wikiDataId": null
+    "wikiDataId": "Q4235910",
+    "type": "town",
+    "native": "Kotabaru",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166638,
@@ -105,7 +145,12 @@
     "latitude": "-3.01360000",
     "longitude": "114.76870000",
     "county_id": 8709,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Marabahan",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56864,
@@ -117,7 +162,12 @@
     "latitude": "-3.41090000",
     "longitude": "114.86420000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Martapura",
+    "timezone": "Asia/Makassar",
+    "population": 131449,
+    "population_year": null
   },
   {
     "id": 166628,
@@ -129,7 +179,12 @@
     "latitude": "-2.33570000",
     "longitude": "115.47490000",
     "county_id": 8716,
-    "wikiDataId": null
+    "wikiDataId": "Q138791048",
+    "type": "town",
+    "native": "Paringin",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166833,
@@ -141,7 +196,12 @@
     "latitude": "-3.79870000",
     "longitude": "114.77880000",
     "county_id": 8706,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Pelaihari",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166837,
@@ -153,7 +213,12 @@
     "latitude": "-2.93270000",
     "longitude": "115.15460000",
     "county_id": 8710,
-    "wikiDataId": null
+    "wikiDataId": "Q12507990",
+    "type": "town",
+    "native": "Rantau",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166827,
@@ -165,6 +230,11 @@
     "latitude": "-2.17090000",
     "longitude": "115.40770000",
     "county_id": 8714,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Tanjung",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   }
 ]

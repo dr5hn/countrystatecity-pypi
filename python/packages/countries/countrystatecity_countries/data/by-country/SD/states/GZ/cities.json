@@ -9,7 +9,12 @@
     "latitude": "14.75264000",
     "longitude": "33.29836000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الحصاحيصا",
+    "timezone": "Africa/Khartoum",
+    "population": 47408,
+    "population_year": null
   },
   {
     "id": 102922,
@@ -21,7 +26,12 @@
     "latitude": "14.93980000",
     "longitude": "33.23400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31872977",
+    "type": "city",
+    "native": "الهلالية",
+    "timezone": "Africa/Khartoum",
+    "population": 17345,
+    "population_year": null
   },
   {
     "id": 102924,
@@ -33,7 +43,12 @@
     "latitude": "14.34760000",
     "longitude": "32.94370000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31874191",
+    "type": "city",
+    "native": "Al Kiremit al ‘Arakiyyīn",
+    "timezone": "Africa/Khartoum",
+    "population": 9775,
+    "population_year": null
   },
   {
     "id": 102926,
@@ -45,7 +60,12 @@
     "latitude": "14.24590000",
     "longitude": "32.98910000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31874596",
+    "type": "city",
+    "native": "المناقيل",
+    "timezone": "Africa/Khartoum",
+    "population": 128297,
+    "population_year": null
   },
   {
     "id": 102927,
@@ -57,7 +77,12 @@
     "latitude": "14.57480000",
     "longitude": "33.33730000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31874774",
+    "type": "city",
+    "native": "المسلمية",
+    "timezone": "Africa/Khartoum",
+    "population": 9373,
+    "population_year": null
   },
   {
     "id": 102980,
@@ -69,7 +94,12 @@
     "latitude": "14.40118000",
     "longitude": "33.51989000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q852528",
+    "type": "adm1",
+    "native": "ود مدني",
+    "timezone": "Africa/Khartoum",
+    "population": 332714,
+    "population_year": null
   },
   {
     "id": 102981,
@@ -81,6 +111,11 @@
     "latitude": "15.16028000",
     "longitude": "33.13972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "ود راوة",
+    "timezone": "Africa/Khartoum",
+    "population": 10348,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "31.13159000",
     "longitude": "33.79844000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q238452",
+    "type": "adm1",
+    "native": "العريش",
+    "timezone": "Africa/Cairo",
+    "population": 164830,
+    "population_year": null
   },
   {
     "id": 164668,
@@ -21,6 +26,11 @@
     "latitude": "31.21630000",
     "longitude": "34.11074000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3481736",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "population": 26713,
+    "population_year": null
   }
 ]

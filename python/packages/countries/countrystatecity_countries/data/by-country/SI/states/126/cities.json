@@ -9,7 +9,12 @@
     "latitude": "46.41413000",
     "longitude": "15.06087000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2528962",
+    "type": "locality",
+    "native": "Ravne",
+    "timezone": "Europe/Ljubljana",
+    "population": 1099,
+    "population_year": null
   },
   {
     "id": 104362,
@@ -21,7 +26,12 @@
     "latitude": "46.38000000",
     "longitude": "15.04861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2766344",
+    "type": "city",
+    "native": "Šoštanj",
+    "timezone": "Europe/Ljubljana",
+    "population": 2918,
+    "population_year": null
   },
   {
     "id": 104296,
@@ -33,6 +43,11 @@
     "latitude": "46.40028000",
     "longitude": "15.02157000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2078772",
+    "type": "locality",
+    "native": "Topolšica",
+    "timezone": "Europe/Ljubljana",
+    "population": 1301,
+    "population_year": null
   }
 ]

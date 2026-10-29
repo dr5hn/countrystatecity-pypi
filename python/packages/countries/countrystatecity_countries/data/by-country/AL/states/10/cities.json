@@ -9,7 +9,12 @@
     "latitude": "42.36798000",
     "longitude": "19.58977000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Malësi e Madhe",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 181,
@@ -21,7 +26,12 @@
     "latitude": "42.02997000",
     "longitude": "19.92778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Pukë",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 188,
@@ -33,7 +43,12 @@
     "latitude": "42.04834000",
     "longitude": "19.69999000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Vau i Dejës",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 202,
@@ -45,7 +60,12 @@
     "latitude": "42.06222000",
     "longitude": "20.01667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22005048",
+    "type": "adm3",
+    "native": "Fushë-Arrëz",
+    "timezone": "Europe/Tirane",
+    "population": 2438,
+    "population_year": null
   },
   {
     "id": 211,
@@ -57,7 +77,12 @@
     "latitude": "42.21361000",
     "longitude": "19.43639000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q991288",
+    "type": "adm2",
+    "native": "Koplik",
+    "timezone": "Europe/Tirane",
+    "population": 3734,
+    "population_year": null
   },
   {
     "id": 157053,
@@ -69,7 +94,12 @@
     "latitude": "42.39016310",
     "longitude": "19.19918420",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20821805",
+    "type": "city",
+    "native": "Malësi e Madhe",
+    "timezone": "Europe/Tirane",
+    "population": 30823,
+    "population_year": null
   },
   {
     "id": 239,
@@ -81,7 +111,12 @@
     "latitude": "42.04444000",
     "longitude": "19.89972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q19310",
+    "type": "adm2",
+    "native": "Pukë",
+    "timezone": "Europe/Tirane",
+    "population": 6495,
+    "population_year": null
   },
   {
     "id": 255,
@@ -93,7 +128,12 @@
     "latitude": "42.33333000",
     "longitude": "19.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q236845",
+    "type": "city",
+    "native": "Rrethi i Malësia e Madhe",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 257,
@@ -105,7 +145,12 @@
     "latitude": "42.06917000",
     "longitude": "19.53506000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q194176",
+    "type": "city",
+    "native": "Rrethi i Shkodrës",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 266,
@@ -117,7 +162,12 @@
     "latitude": "42.06828000",
     "longitude": "19.51258000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q131638",
+    "type": "adm1",
+    "native": "Shkodër",
+    "timezone": "Europe/Tirane",
+    "population": 95553,
+    "population_year": null
   },
   {
     "id": 274,
@@ -129,7 +179,12 @@
     "latitude": "42.01000000",
     "longitude": "19.62472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1787536",
+    "type": "adm3",
+    "native": "Vau i Dejës",
+    "timezone": "Europe/Tirane",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 279,
@@ -141,6 +196,11 @@
     "latitude": "42.02806000",
     "longitude": "19.54778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Vukatanë",
+    "timezone": "Europe/Tirane",
+    "population": 1113,
+    "population_year": null
   }
 ]

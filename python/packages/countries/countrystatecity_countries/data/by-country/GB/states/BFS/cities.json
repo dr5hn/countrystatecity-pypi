@@ -9,7 +9,12 @@
     "latitude": "54.59682000",
     "longitude": "-5.92541000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10686",
+    "type": "city",
+    "native": "Belfast",
+    "timezone": "Europe/London",
+    "population": 345006,
+    "population_year": null
   },
   {
     "id": 48867,
@@ -21,7 +26,12 @@
     "latitude": "54.68333000",
     "longitude": "-5.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Carnmoney",
+    "timezone": "Europe/London",
+    "population": 2775,
+    "population_year": null
   },
   {
     "id": 48884,
@@ -33,7 +43,12 @@
     "latitude": "54.57350000",
     "longitude": "-5.88472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Castlereagh",
+    "timezone": "Europe/London",
+    "population": 56679,
+    "population_year": null
   },
   {
     "id": 50097,
@@ -45,6 +60,11 @@
     "latitude": "54.68333000",
     "longitude": "-5.90000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Jordanstown",
+    "timezone": "Europe/London",
+    "population": 5494,
+    "population_year": null
   }
 ]

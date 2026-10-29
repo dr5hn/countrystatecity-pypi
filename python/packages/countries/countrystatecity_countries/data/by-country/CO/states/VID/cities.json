@@ -9,7 +9,12 @@
     "latitude": "4.44552000",
     "longitude": "-69.79897000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23694039",
+    "type": "adm2",
+    "native": "Cumaribo",
+    "timezone": "America/Bogota",
+    "population": 23990,
+    "population_year": null
   },
   {
     "id": 21002,
@@ -21,7 +26,12 @@
     "latitude": "5.49056000",
     "longitude": "-70.40917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q941906",
+    "type": "municipality",
+    "native": "La Primavera",
+    "timezone": "America/Bogota",
+    "population": 10616,
+    "population_year": null
   },
   {
     "id": 21237,
@@ -33,7 +43,12 @@
     "latitude": "6.18903000",
     "longitude": "-67.48588000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q130304",
+    "type": "municipality",
+    "native": "Puerto Carreño",
+    "timezone": "America/Bogota",
+    "population": 16763,
+    "population_year": null
   },
   {
     "id": 21428,
@@ -45,6 +60,11 @@
     "latitude": "5.13356000",
     "longitude": "-70.86233000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1655146",
+    "type": "municipality",
+    "native": "Santa Rosalia",
+    "timezone": "America/Bogota",
+    "population": 1363,
+    "population_year": null
   }
 ]

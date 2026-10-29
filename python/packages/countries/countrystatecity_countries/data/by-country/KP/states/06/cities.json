@@ -9,7 +9,12 @@
     "latitude": "38.51083000",
     "longitude": "125.49417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "아낙",
+    "timezone": "Asia/Pyongyang",
+    "population": 19995,
+    "population_year": null
   },
   {
     "id": 65203,
@@ -21,7 +26,12 @@
     "latitude": "38.79861000",
     "longitude": "125.79194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "흑교리",
+    "timezone": "Asia/Pyongyang",
+    "population": 25437,
+    "population_year": null
   },
   {
     "id": 65200,
@@ -33,7 +43,12 @@
     "latitude": "38.67028000",
     "longitude": "125.77611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "황주읍",
+    "timezone": "Asia/Pyongyang",
+    "population": 35641,
+    "population_year": null
   },
   {
     "id": 65212,
@@ -45,7 +60,12 @@
     "latitude": "38.78194000",
     "longitude": "126.66639000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "곡산",
+    "timezone": "Asia/Pyongyang",
+    "population": 12923,
+    "population_year": null
   },
   {
     "id": 65237,
@@ -57,7 +77,12 @@
     "latitude": "38.50722000",
     "longitude": "125.75583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q505807",
+    "type": "city",
+    "native": "사리원",
+    "timezone": "Asia/Pyongyang",
+    "population": 307764,
+    "population_year": null
   },
   {
     "id": 65240,
@@ -69,7 +94,12 @@
     "latitude": "38.41667000",
     "longitude": "126.23333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "신막",
+    "timezone": "Asia/Pyongyang",
+    "population": 18669,
+    "population_year": null
   },
   {
     "id": 65243,
@@ -81,6 +111,11 @@
     "latitude": "38.75417000",
     "longitude": "125.64500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q505930",
+    "type": "city",
+    "native": "송님",
+    "timezone": "Asia/Pyongyang",
+    "population": null,
+    "population_year": null
   }
 ]

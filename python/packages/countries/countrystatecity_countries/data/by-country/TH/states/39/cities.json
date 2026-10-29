@@ -9,7 +9,12 @@
     "latitude": "17.30720000",
     "longitude": "102.18886000",
     "county_id": 5734,
-    "wikiDataId": null
+    "wikiDataId": "Q11990772",
+    "type": "town",
+    "native": "นากลาง",
+    "timezone": "Asia/Bangkok",
+    "population": 31024,
+    "population_year": null
   },
   {
     "id": 105626,
@@ -21,7 +26,12 @@
     "latitude": "17.34290000",
     "longitude": "102.07157000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476156",
+    "type": "district",
+    "native": "อำเภอนาวัง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106591,
@@ -33,7 +43,12 @@
     "latitude": "16.86870000",
     "longitude": "102.56642000",
     "county_id": 5735,
-    "wikiDataId": null
+    "wikiDataId": "Q28729607",
+    "type": "town",
+    "native": "โนนสัง",
+    "timezone": "Asia/Bangkok",
+    "population": 11819,
+    "population_year": null
   },
   {
     "id": 106697,
@@ -45,7 +60,12 @@
     "latitude": "16.96705000",
     "longitude": "102.27607000",
     "county_id": 5736,
-    "wikiDataId": null
+    "wikiDataId": "Q28729596",
+    "type": "town",
+    "native": "โนนสูงเปลือย",
+    "timezone": "Asia/Bangkok",
+    "population": 12842,
+    "population_year": null
   },
   {
     "id": 106595,
@@ -57,7 +77,12 @@
     "latitude": "17.20406000",
     "longitude": "102.44068000",
     "county_id": 5733,
-    "wikiDataId": null
+    "wikiDataId": "Q1207017",
+    "type": "city",
+    "native": "หนองบัวลำภู",
+    "timezone": "Asia/Bangkok",
+    "population": 34401,
+    "population_year": null
   },
   {
     "id": 167228,
@@ -69,6 +94,11 @@
     "latitude": "17.56450000",
     "longitude": "102.28070000",
     "county_id": 5737,
-    "wikiDataId": null
+    "wikiDataId": "Q112133881",
+    "type": "town",
+    "native": "สุวรรณคูหา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

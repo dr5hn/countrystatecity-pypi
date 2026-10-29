@@ -9,7 +9,12 @@
     "latitude": "13.92641000",
     "longitude": "100.39360000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475194",
+    "type": "district",
+    "native": "อำเภอบางบัวทอง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105246,
@@ -21,7 +26,12 @@
     "latitude": "13.85385000",
     "longitude": "100.37318000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475263",
+    "type": "district",
+    "native": "อำเภอบางใหญ่",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106423,
@@ -33,7 +43,12 @@
     "latitude": "13.91783000",
     "longitude": "100.42403000",
     "county_id": 5436,
-    "wikiDataId": null
+    "wikiDataId": "Q15199201",
+    "type": "city",
+    "native": "บางบัวทอง",
+    "timezone": "Asia/Bangkok",
+    "population": 50141,
+    "population_year": null
   },
   {
     "id": 106431,
@@ -45,7 +60,12 @@
     "latitude": "13.80500000",
     "longitude": "100.47283000",
     "county_id": 5434,
-    "wikiDataId": null
+    "wikiDataId": "Q15199204",
+    "type": "city",
+    "native": "บางกรวย",
+    "timezone": "Asia/Bangkok",
+    "population": 78305,
+    "population_year": null
   },
   {
     "id": 106447,
@@ -57,7 +77,12 @@
     "latitude": "13.84341000",
     "longitude": "100.36251000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13025232",
+    "type": "city",
+    "native": "บางใหญ่",
+    "timezone": "Asia/Bangkok",
+    "population": 14012,
+    "population_year": null
   },
   {
     "id": 106573,
@@ -69,7 +94,12 @@
     "latitude": "13.86666667",
     "longitude": "100.51666667",
     "county_id": 5433,
-    "wikiDataId": null
+    "wikiDataId": "Q768864",
+    "type": "city",
+    "native": "นนทบุรี",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106610,
@@ -81,7 +111,12 @@
     "latitude": "13.91301000",
     "longitude": "100.49883000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3360716",
+    "type": "adm2",
+    "native": "ปากเกร็ด",
+    "timezone": "Asia/Bangkok",
+    "population": 184501,
+    "population_year": null
   },
   {
     "id": 105824,
@@ -93,6 +128,11 @@
     "latitude": "14.00627000",
     "longitude": "100.31072000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476588",
+    "type": "district",
+    "native": "อำเภอไทรน้อย",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   }
 ]

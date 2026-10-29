@@ -9,7 +9,12 @@
     "latitude": "-15.64932000",
     "longitude": "37.66384000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4736799",
+    "type": "area",
+    "native": "Alto Molócuè",
+    "timezone": "Africa/Maputo",
+    "population": 278064,
+    "population_year": null
   },
   {
     "id": 76594,
@@ -21,7 +26,12 @@
     "latitude": "-18.58111000",
     "longitude": "36.45861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2261361",
+    "type": "city",
+    "native": "Chinde",
+    "timezone": "Africa/Maputo",
+    "population": 16500,
+    "population_year": null
   },
   {
     "id": 165288,
@@ -33,7 +43,12 @@
     "latitude": "-15.46694000",
     "longitude": "36.97778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1027188",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "population": 168971,
+    "population_year": null
   },
   {
     "id": 165287,
@@ -45,7 +60,12 @@
     "latitude": "-16.83750000",
     "longitude": "36.98556000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q520687",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "population": 196001,
+    "population_year": null
   },
   {
     "id": 165296,
@@ -57,7 +77,12 @@
     "latitude": "-17.49194000",
     "longitude": "37.02889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10335418",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Maputo",
+    "population": 22647,
+    "population_year": null
   },
   {
     "id": 76622,
@@ -69,6 +94,11 @@
     "latitude": "-17.87861000",
     "longitude": "36.88833000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q318306",
+    "type": "adm1",
+    "native": "Quelimane",
+    "timezone": "Africa/Maputo",
+    "population": 349842,
+    "population_year": null
   }
 ]

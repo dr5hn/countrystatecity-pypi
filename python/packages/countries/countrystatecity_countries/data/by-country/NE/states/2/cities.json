@@ -9,7 +9,12 @@
     "latitude": "13.66667000",
     "longitude": "12.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q749567",
+    "type": "city",
+    "native": "Département de Diffa",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76705,
@@ -21,7 +26,12 @@
     "latitude": "13.31206000",
     "longitude": "12.08321000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1538108",
+    "type": "adm2",
+    "native": "Département de Maine-Soroa",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76706,
@@ -33,7 +43,12 @@
     "latitude": "14.20753000",
     "longitude": "13.12177000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1422302",
+    "type": "area",
+    "native": "Département de Nguigmi",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76686,
@@ -45,7 +60,12 @@
     "latitude": "13.31536000",
     "longitude": "12.61135000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Diffa",
+    "timezone": "Africa/Niamey",
+    "population": 54082,
+    "population_year": null
   },
   {
     "id": 76729,
@@ -57,7 +77,12 @@
     "latitude": "13.21139000",
     "longitude": "12.02410000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Maïné Soroa",
+    "timezone": "Africa/Niamey",
+    "population": 17778,
+    "population_year": null
   },
   {
     "id": 76731,
@@ -69,6 +94,11 @@
     "latitude": "14.24953000",
     "longitude": "13.10921000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Nuigmi",
+    "timezone": "Africa/Niamey",
+    "population": 32035,
+    "population_year": null
   }
 ]

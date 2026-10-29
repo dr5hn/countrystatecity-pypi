@@ -9,7 +9,12 @@
     "latitude": "-2.08033000",
     "longitude": "37.47202000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5368848",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 165134,
@@ -21,7 +26,12 @@
     "latitude": "-2.27808000",
     "longitude": "37.81867000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6739546",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 64825,
@@ -33,7 +43,12 @@
     "latitude": "-1.80388000",
     "longitude": "37.62405000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Makueni Boma",
+    "timezone": "Africa/Nairobi",
+    "population": 20681,
+    "population_year": null
   },
   {
     "id": 64840,
@@ -45,7 +60,12 @@
     "latitude": "-2.68987000",
     "longitude": "38.16687000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6930477",
+    "type": "city",
+    "native": "Mtito Andei",
+    "timezone": "Africa/Nairobi",
+    "population": 5626,
+    "population_year": null
   },
   {
     "id": 64879,
@@ -57,6 +77,11 @@
     "latitude": "-1.78079000",
     "longitude": "37.62882000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7193508",
+    "type": "adm1",
+    "native": "Wote",
+    "timezone": "Africa/Nairobi",
+    "population": 19725,
+    "population_year": null
   }
 ]

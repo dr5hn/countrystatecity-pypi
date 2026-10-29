@@ -9,7 +9,12 @@
     "latitude": "1.02081000",
     "longitude": "-71.33788000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1655130",
+    "type": "municipality",
+    "native": "Caruru",
+    "timezone": "America/Bogota",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 21088,
@@ -21,7 +26,12 @@
     "latitude": "1.25778000",
     "longitude": "-70.23472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q130242",
+    "type": "municipality",
+    "native": "Mitú",
+    "timezone": "America/Bogota",
+    "population": 29850,
+    "population_year": null
   },
   {
     "id": 21160,
@@ -33,7 +43,12 @@
     "latitude": "0.15636000",
     "longitude": "-70.89274000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1654444",
+    "type": "city",
+    "native": "Pacoa",
+    "timezone": "America/Bogota",
+    "population": 4459,
+    "population_year": null
   },
   {
     "id": 21181,
@@ -45,7 +60,12 @@
     "latitude": "1.68335000",
     "longitude": "-70.70968000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q962671",
+    "type": "city",
+    "native": "Papunaua",
+    "timezone": "America/Bogota",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21511,
@@ -57,7 +77,12 @@
     "latitude": "-0.74835000",
     "longitude": "-69.89662000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Taraira",
+    "timezone": "America/Bogota",
+    "population": 1048,
+    "population_year": null
   },
   {
     "id": 21623,
@@ -69,6 +94,11 @@
     "latitude": "0.82828000",
     "longitude": "-69.62959000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1655686",
+    "type": "city",
+    "native": "Yavaraté",
+    "timezone": "America/Bogota",
+    "population": 1269,
+    "population_year": null
   }
 ]

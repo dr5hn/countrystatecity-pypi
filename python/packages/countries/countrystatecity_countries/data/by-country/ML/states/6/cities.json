@@ -9,7 +9,12 @@
     "latitude": "18.90476000",
     "longitude": "-3.52649000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q626121",
+    "type": "city",
+    "native": "Araouane",
+    "timezone": "Africa/Bamako",
+    "population": 4026,
+    "population_year": null
   },
   {
     "id": 67593,
@@ -21,7 +26,12 @@
     "latitude": "18.60035000",
     "longitude": "-4.99306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1499253",
+    "type": "city",
+    "native": "Cercle de Goundam",
+    "timezone": "Africa/Bamako",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 67596,
@@ -33,7 +43,12 @@
     "latitude": "16.28017000",
     "longitude": "-3.31302000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Dire",
+    "timezone": "Africa/Bamako",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 67603,
@@ -45,7 +60,12 @@
     "latitude": "16.41453000",
     "longitude": "-3.67075000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q976923",
+    "type": "adm2",
+    "native": "Goundam",
+    "timezone": "Africa/Bamako",
+    "population": 19400,
+    "population_year": null
   },
   {
     "id": 67604,
@@ -57,7 +77,12 @@
     "latitude": "16.07979000",
     "longitude": "-1.76981000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1540214",
+    "type": "area",
+    "native": "Gourma-Rharous Cercle",
+    "timezone": "Africa/Bamako",
+    "population": 111386,
+    "population_year": null
   },
   {
     "id": 67621,
@@ -69,7 +94,12 @@
     "latitude": "15.93220000",
     "longitude": "-3.99060000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3100146",
+    "type": "adm2",
+    "native": "Niafunké",
+    "timezone": "Africa/Bamako",
+    "population": 6901,
+    "population_year": null
   },
   {
     "id": 67628,
@@ -81,6 +111,11 @@
     "latitude": "16.77348000",
     "longitude": "-3.00742000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q9427",
+    "type": "adm1",
+    "native": "Timbuktu",
+    "timezone": "Africa/Bamako",
+    "population": 84208,
+    "population_year": null
   }
 ]

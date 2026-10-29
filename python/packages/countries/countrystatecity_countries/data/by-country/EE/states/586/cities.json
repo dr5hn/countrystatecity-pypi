@@ -9,7 +9,12 @@
     "latitude": "58.59806000",
     "longitude": "27.13361000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q122317",
+    "type": "town",
+    "native": "Alatskivi",
+    "timezone": "Europe/Tallinn",
+    "population": 380,
+    "population_year": null
   },
   {
     "id": 31621,
@@ -21,7 +26,12 @@
     "latitude": "58.66312000",
     "longitude": "27.16164000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q613714",
+    "type": "city",
+    "native": "Kallaste",
+    "timezone": "Europe/Tallinn",
+    "population": 651,
+    "population_year": null
   },
   {
     "id": 31677,
@@ -33,6 +43,11 @@
     "latitude": "58.51559000",
     "longitude": "27.18444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1753141",
+    "type": "city",
+    "native": "Peipsiääre vald",
+    "timezone": "Europe/Tallinn",
+    "population": null,
+    "population_year": null
   }
 ]

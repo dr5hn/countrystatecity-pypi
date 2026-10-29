@@ -9,7 +9,12 @@
     "latitude": "40.11581000",
     "longitude": "19.81389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Himarë",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 167,
@@ -21,7 +26,12 @@
     "latitude": "39.70064000",
     "longitude": "20.13353000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Konispol",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 184,
@@ -33,7 +43,12 @@
     "latitude": "40.39503000",
     "longitude": "19.65958000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Selenicë",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 189,
@@ -45,7 +60,12 @@
     "latitude": "40.41340000",
     "longitude": "19.49792000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Vlorë",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 195,
@@ -57,7 +77,12 @@
     "latitude": "39.95111000",
     "longitude": "20.09778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q372872",
+    "type": "adm2",
+    "native": "Delvinë",
+    "timezone": "Europe/Tirane",
+    "population": 5754,
+    "population_year": null
   },
   {
     "id": 161,
@@ -69,7 +94,12 @@
     "latitude": "39.84393000",
     "longitude": "20.16659000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Finiq",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 206,
@@ -81,7 +111,12 @@
     "latitude": "40.10167000",
     "longitude": "19.74472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5765138",
+    "type": "adm3",
+    "native": "Himarë",
+    "timezone": "Europe/Tirane",
+    "population": 4596,
+    "population_year": null
   },
   {
     "id": 210,
@@ -93,7 +128,12 @@
     "latitude": "39.65889000",
     "longitude": "20.18139000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18731",
+    "type": "adm3",
+    "native": "Konispol",
+    "timezone": "Europe/Tirane",
+    "population": 1349,
+    "population_year": null
   },
   {
     "id": 216,
@@ -105,7 +145,12 @@
     "latitude": "39.76889000",
     "longitude": "19.99972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1790776",
+    "type": "city",
+    "native": "Ksamil",
+    "timezone": "Europe/Tirane",
+    "population": 2731,
+    "population_year": null
   },
   {
     "id": 233,
@@ -117,7 +162,12 @@
     "latitude": "40.32528000",
     "longitude": "19.47139000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22009845",
+    "type": "adm3",
+    "native": "Orikum",
+    "timezone": "Europe/Tirane",
+    "population": 2604,
+    "population_year": null
   },
   {
     "id": 244,
@@ -129,7 +179,12 @@
     "latitude": "39.91667000",
     "longitude": "20.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q166959",
+    "type": "adm3",
+    "native": "Rrethi i Delvinës",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 263,
@@ -141,7 +196,12 @@
     "latitude": "39.87534000",
     "longitude": "20.00477000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q193226",
+    "type": "adm2",
+    "native": "Sarandë",
+    "timezone": "Europe/Tirane",
+    "population": 22613,
+    "population_year": null
   },
   {
     "id": 264,
@@ -153,7 +213,12 @@
     "latitude": "40.53056000",
     "longitude": "19.63583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q134613",
+    "type": "adm3",
+    "native": "Selenicë",
+    "timezone": "Europe/Tirane",
+    "population": 6912,
+    "population_year": null
   },
   {
     "id": 276,
@@ -165,6 +230,11 @@
     "latitude": "40.46860000",
     "longitude": "19.48318000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q159610",
+    "type": "adm1",
+    "native": "Vlorë",
+    "timezone": "Europe/Tirane",
+    "population": 130827,
+    "population_year": null
   }
 ]

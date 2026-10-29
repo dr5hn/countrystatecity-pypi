@@ -9,7 +9,12 @@
     "latitude": "48.00556000",
     "longitude": "91.64194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q731256",
+    "type": "adm1",
+    "native": "Ховд",
+    "timezone": "Asia/Hovd",
+    "population": 26023,
+    "population_year": null
   },
   {
     "id": 67728,
@@ -21,7 +26,12 @@
     "latitude": "46.67712000",
     "longitude": "92.78521000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10950043",
+    "type": "city",
+    "native": "Möst",
+    "timezone": "Asia/Hovd",
+    "population": 3289,
+    "population_year": null
   },
   {
     "id": 67741,
@@ -33,6 +43,11 @@
     "latitude": "46.04786000",
     "longitude": "92.02612000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3404181",
+    "type": "adm2",
+    "native": "Өөнч",
+    "timezone": "Asia/Hovd",
+    "population": null,
+    "population_year": null
   }
 ]

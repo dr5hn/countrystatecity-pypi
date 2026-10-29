@@ -9,7 +9,12 @@
     "latitude": "-5.54505000",
     "longitude": "138.13522000",
     "county_id": 8849,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Agats",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166755,
@@ -21,7 +26,12 @@
     "latitude": "-6.53333333",
     "longitude": "139.31666667",
     "county_id": 8848,
-    "wikiDataId": null
+    "wikiDataId": "Q85774103",
+    "type": "town",
+    "native": "Kepi",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166758,
@@ -33,7 +43,12 @@
     "latitude": "-8.49958000",
     "longitude": "140.40613000",
     "county_id": 8846,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Merauke",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164825,
@@ -45,6 +60,11 @@
     "latitude": "-6.09756000",
     "longitude": "140.30649000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7682227",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   }
 ]

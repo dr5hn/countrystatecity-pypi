@@ -9,7 +9,12 @@
     "latitude": "29.61972000",
     "longitude": "31.25750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23955572",
+    "type": "city",
+    "native": "العياط",
+    "timezone": "Africa/Cairo",
+    "population": 45793,
+    "population_year": null
   },
   {
     "id": 31766,
@@ -21,7 +26,12 @@
     "latitude": "28.34919000",
     "longitude": "28.86591000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4116186",
+    "type": "city",
+    "native": "البويط",
+    "timezone": "Africa/Cairo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 31783,
@@ -33,7 +43,12 @@
     "latitude": "29.90000000",
     "longitude": "31.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23955406",
+    "type": "city",
+    "native": "الحوامدية",
+    "timezone": "Africa/Cairo",
+    "population": 155055,
+    "population_year": null
   },
   {
     "id": 31795,
@@ -45,7 +60,12 @@
     "latitude": "29.56472000",
     "longitude": "31.28111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23955229",
+    "type": "city",
+    "native": "آش ساف",
+    "timezone": "Africa/Cairo",
+    "population": 61531,
+    "population_year": null
   },
   {
     "id": 31793,
@@ -57,7 +77,12 @@
     "latitude": "30.12303000",
     "longitude": "31.13571000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10423667",
+    "type": "city",
+    "native": "أوسيم",
+    "timezone": "Africa/Cairo",
+    "population": 94174,
+    "population_year": null
   },
   {
     "id": 31816,
@@ -69,7 +94,12 @@
     "latitude": "30.00808000",
     "longitude": "31.21093000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q81788",
+    "type": "adm1",
+    "native": "الجيزة",
+    "timezone": "Africa/Cairo",
+    "population": 4367343,
+    "population_year": null
   },
   {
     "id": 31833,
@@ -81,6 +111,11 @@
     "latitude": "29.81667000",
     "longitude": "31.05000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Madīnat Sittah Uktūbar",
+    "timezone": "Africa/Cairo",
+    "population": null,
+    "population_year": null
   }
 ]

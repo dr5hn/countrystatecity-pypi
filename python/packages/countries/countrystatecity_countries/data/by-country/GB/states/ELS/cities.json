@@ -9,7 +9,12 @@
     "latitude": "56.98035000",
     "longitude": "-7.45731000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Barra",
+    "timezone": "Europe/London",
+    "population": 1078,
+    "population_year": null
   },
   {
     "id": 48471,
@@ -21,7 +26,12 @@
     "latitude": "57.44737000",
     "longitude": "-7.34273000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Benbecula",
+    "timezone": "Europe/London",
+    "population": 1219,
+    "population_year": null
   },
   {
     "id": 50079,
@@ -33,7 +43,12 @@
     "latitude": "58.21901000",
     "longitude": "-6.38803000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Isle of Lewis",
+    "timezone": "Europe/London",
+    "population": 18500,
+    "population_year": null
   },
   {
     "id": 50080,
@@ -45,7 +60,12 @@
     "latitude": "57.60581000",
     "longitude": "-7.34024000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Isle of North Uist",
+    "timezone": "Europe/London",
+    "population": 1271,
+    "population_year": null
   },
   {
     "id": 50081,
@@ -57,7 +77,12 @@
     "latitude": "57.24562000",
     "longitude": "-7.33337000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Isle of South Uist",
+    "timezone": "Europe/London",
+    "population": 1818,
+    "population_year": null
   },
   {
     "id": 51479,
@@ -69,6 +94,11 @@
     "latitude": "58.20925000",
     "longitude": "-6.38649000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q165845",
+    "type": "town",
+    "native": "Stornoway",
+    "timezone": "Europe/London",
+    "population": 7500,
+    "population_year": null
   }
 ]

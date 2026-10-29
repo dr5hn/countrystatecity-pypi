@@ -9,7 +9,12 @@
     "latitude": "-12.63247000",
     "longitude": "28.05367000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Chambishi",
+    "timezone": "Africa/Lusaka",
+    "population": 34888,
+    "population_year": null
   },
   {
     "id": 131334,
@@ -21,7 +26,12 @@
     "latitude": "-12.36475000",
     "longitude": "27.82286000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q993200",
+    "type": "city",
+    "native": "Chisabomwe",
+    "timezone": "Africa/Lusaka",
+    "population": 141899,
+    "population_year": null
   },
   {
     "id": 131335,
@@ -33,7 +43,12 @@
     "latitude": "-12.52897000",
     "longitude": "27.88382000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q431533",
+    "type": "adm2",
+    "native": "Chingola",
+    "timezone": "Africa/Lusaka",
+    "population": 255000,
+    "population_year": null
   },
   {
     "id": 131336,
@@ -45,7 +60,12 @@
     "latitude": "-12.48478000",
     "longitude": "27.66313000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3031128",
+    "type": "district",
+    "native": "Chingola District",
+    "timezone": "Africa/Lusaka",
+    "population": 299936,
+    "population_year": null
   },
   {
     "id": 131349,
@@ -57,7 +77,12 @@
     "latitude": "-12.84151000",
     "longitude": "28.09479000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1014130",
+    "type": "city",
+    "native": "Kalulushi",
+    "timezone": "Africa/Lusaka",
+    "population": 104046,
+    "population_year": null
   },
   {
     "id": 131356,
@@ -69,7 +94,12 @@
     "latitude": "-11.88333000",
     "longitude": "29.78333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1584887",
+    "type": "city",
+    "native": "Kataba",
+    "timezone": "Africa/Lusaka",
+    "population": 14000,
+    "population_year": null
   },
   {
     "id": 131358,
@@ -81,7 +111,12 @@
     "latitude": "-12.80243000",
     "longitude": "28.21323000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q239580",
+    "type": "city",
+    "native": "Kitwe",
+    "timezone": "Africa/Lusaka",
+    "population": 625000,
+    "population_year": null
   },
   {
     "id": 131362,
@@ -93,7 +128,12 @@
     "latitude": "-13.13667000",
     "longitude": "28.41661000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q854109",
+    "type": "city",
+    "native": "Luanshya",
+    "timezone": "Africa/Lusaka",
+    "population": 193293,
+    "population_year": null
   },
   {
     "id": 131375,
@@ -105,7 +145,12 @@
     "latitude": "-13.50914000",
     "longitude": "28.15504000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31959439",
+    "type": "city",
+    "native": "Mpongwe",
+    "timezone": "Africa/Lusaka",
+    "population": 25388,
+    "population_year": null
   },
   {
     "id": 131378,
@@ -117,7 +162,12 @@
     "latitude": "-12.54982000",
     "longitude": "28.24071000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q636209",
+    "type": "city",
+    "native": "Mufulira",
+    "timezone": "Africa/Lusaka",
+    "population": 182400,
+    "population_year": null
   },
   {
     "id": 131388,
@@ -129,6 +179,11 @@
     "latitude": "-12.95867000",
     "longitude": "28.63659000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q219671",
+    "type": "adm1",
+    "native": "Ndola",
+    "timezone": "Africa/Lusaka",
+    "population": 624579,
+    "population_year": null
   }
 ]

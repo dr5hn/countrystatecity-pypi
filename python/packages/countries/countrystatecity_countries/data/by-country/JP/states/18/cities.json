@@ -9,7 +9,12 @@
     "latitude": "35.97259000",
     "longitude": "136.12455000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "朝日",
+    "timezone": "Asia/Tokyo",
+    "population": 10852,
+    "population_year": null
   },
   {
     "id": 63276,
@@ -21,7 +26,12 @@
     "latitude": "36.22777000",
     "longitude": "136.25154000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q538623",
+    "type": "city",
+    "native": "あわら市",
+    "timezone": "Asia/Tokyo",
+    "population": 27524,
+    "population_year": 2020
   },
   {
     "id": 63329,
@@ -33,7 +43,12 @@
     "latitude": "35.88946000",
     "longitude": "136.17723000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q877941",
+    "type": "city",
+    "native": "越前市",
+    "timezone": "Asia/Tokyo",
+    "population": 80611,
+    "population_year": 2020
   },
   {
     "id": 63363,
@@ -45,7 +60,12 @@
     "latitude": "36.06667000",
     "longitude": "136.21667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q201618",
+    "type": "city",
+    "native": "福井市",
+    "timezone": "Asia/Tokyo",
+    "population": 262328,
+    "population_year": 2020
   },
   {
     "id": 63763,
@@ -57,7 +77,12 @@
     "latitude": "36.06173000",
     "longitude": "136.50101000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q847543",
+    "type": "city",
+    "native": "勝山",
+    "timezone": "Asia/Tokyo",
+    "population": 22150,
+    "population_year": 2020
   },
   {
     "id": 63924,
@@ -69,7 +94,12 @@
     "latitude": "36.15340000",
     "longitude": "136.27029000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q177273",
+    "type": "city",
+    "native": "丸岡",
+    "timezone": "Asia/Tokyo",
+    "population": 33563,
+    "population_year": null
   },
   {
     "id": 63955,
@@ -81,7 +111,12 @@
     "latitude": "36.21706000",
     "longitude": "136.15185000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "三国",
+    "timezone": "Asia/Tokyo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 64176,
@@ -93,7 +128,12 @@
     "latitude": "35.49576000",
     "longitude": "135.74604000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "オバマ",
+    "timezone": "Asia/Tokyo",
+    "population": 28142,
+    "population_year": null
   },
   {
     "id": 64177,
@@ -105,7 +145,12 @@
     "latitude": "35.45000000",
     "longitude": "135.70000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q41773",
+    "type": "city",
+    "native": "小浜市",
+    "timezone": "Asia/Tokyo",
+    "population": 28991,
+    "population_year": 2020
   },
   {
     "id": 64726,
@@ -117,7 +162,12 @@
     "latitude": "35.49238000",
     "longitude": "135.49311000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q384971",
+    "type": "adm2",
+    "native": "大飯郡",
+    "timezone": "Asia/Tokyo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 64209,
@@ -129,7 +179,12 @@
     "latitude": "35.98106000",
     "longitude": "136.48727000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q385684",
+    "type": "city",
+    "native": "大野市",
+    "timezone": "Asia/Tokyo",
+    "population": 31286,
+    "population_year": 2020
   },
   {
     "id": 64236,
@@ -141,7 +196,12 @@
     "latitude": "35.94647000",
     "longitude": "136.18498000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q847598",
+    "type": "city",
+    "native": "鯖江",
+    "timezone": "Asia/Tokyo",
+    "population": 68302,
+    "population_year": 2020
   },
   {
     "id": 64259,
@@ -153,7 +213,12 @@
     "latitude": "36.16406000",
     "longitude": "136.25544000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q990342",
+    "type": "city",
+    "native": "堺市",
+    "timezone": "Asia/Tokyo",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 64444,
@@ -165,7 +230,12 @@
     "latitude": "35.90393000",
     "longitude": "136.16687000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "武生",
+    "timezone": "Asia/Tokyo",
+    "population": 75753,
+    "population_year": null
   },
   {
     "id": 64553,
@@ -177,6 +247,11 @@
     "latitude": "35.64547000",
     "longitude": "136.05580000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q847581",
+    "type": "city",
+    "native": "敦賀市",
+    "timezone": "Asia/Tokyo",
+    "population": 64264,
+    "population_year": 2020
   }
 ]

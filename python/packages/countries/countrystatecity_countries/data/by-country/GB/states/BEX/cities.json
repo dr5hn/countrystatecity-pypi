@@ -9,7 +9,12 @@
     "latitude": "51.49114000",
     "longitude": "0.15136000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Belvedere",
+    "timezone": "Europe/London",
+    "population": 11000,
+    "population_year": null
   },
   {
     "id": 48490,
@@ -21,7 +26,12 @@
     "latitude": "51.44162000",
     "longitude": "0.14866000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Bexley",
+    "timezone": "Europe/London",
+    "population": 228000,
+    "population_year": null
   },
   {
     "id": 49481,
@@ -33,7 +43,12 @@
     "latitude": "51.48315000",
     "longitude": "0.17484000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Erith",
+    "timezone": "Europe/London",
+    "population": 9811,
+    "population_year": null
   },
   {
     "id": 51302,
@@ -45,7 +60,12 @@
     "latitude": "51.42619000",
     "longitude": "0.10360000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q146705",
+    "type": "city",
+    "native": "Sidcup",
+    "timezone": "Europe/London",
+    "population": 10400,
+    "population_year": null
   },
   {
     "id": 51788,
@@ -57,6 +77,11 @@
     "latitude": "51.46246000",
     "longitude": "0.10759000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q146779",
+    "type": "city",
+    "native": "Welling",
+    "timezone": "Europe/London",
+    "population": 42500,
+    "population_year": null
   }
 ]

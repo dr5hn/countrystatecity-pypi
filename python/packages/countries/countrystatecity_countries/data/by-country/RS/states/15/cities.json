@@ -9,7 +9,12 @@
     "latitude": "43.83114320",
     "longitude": "21.92158620",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2047431",
+    "type": "city",
+    "native": "Бољевац",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97247,
@@ -21,7 +26,12 @@
     "latitude": "43.56634000",
     "longitude": "22.25701000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1348256",
+    "type": "adm3",
+    "native": "Књажевац",
+    "timezone": "Europe/Belgrade",
+    "population": 25000,
+    "population_year": null
   },
   {
     "id": 155096,
@@ -33,7 +43,12 @@
     "latitude": "43.63431460",
     "longitude": "21.82442590",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q838616",
+    "type": "city",
+    "native": "Сокобања",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97445,
@@ -45,6 +60,11 @@
     "latitude": "43.69917000",
     "longitude": "21.98778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Зајечар",
+    "timezone": "Europe/Belgrade",
+    "population": 49800,
+    "population_year": null
   }
 ]

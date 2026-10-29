@@ -57,11 +57,16 @@ class City(BaseModel):
 
     id: int
     name: str
-    state_id: int
-    state_code: str
+    state_id: Optional[int]
+    state_code: Optional[str]
     country_id: int
     country_code: str = Field(..., min_length=2, max_length=2)
     latitude: str
     longitude: str
     county_id: Optional[int] = None
     wikiDataId: Optional[str] = None
+    type: Optional[str] = None
+    native: Optional[str] = None
+    timezone: Optional[str] = None
+    population: Optional[int] = None
+    population_year: Optional[int] = None

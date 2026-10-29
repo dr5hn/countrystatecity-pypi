@@ -9,7 +9,12 @@
     "latitude": "7.96817000",
     "longitude": "-78.21648000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Bayamón",
+    "timezone": "America/Panama",
+    "population": 457,
+    "population_year": null
   },
   {
     "id": 80081,
@@ -21,7 +26,12 @@
     "latitude": "8.08285000",
     "longitude": "-77.54210000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Cémaco",
+    "timezone": "America/Panama",
+    "population": 7715,
+    "population_year": null
   },
   {
     "id": 80470,
@@ -33,7 +43,12 @@
     "latitude": "7.82013000",
     "longitude": "-78.11005000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Sambú",
+    "timezone": "America/Panama",
+    "population": 653,
+    "population_year": null
   },
   {
     "id": 80531,
@@ -45,7 +60,12 @@
     "latitude": "8.08404000",
     "longitude": "-77.53507000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4845142",
+    "type": "adm1",
+    "native": "Unión Chocó",
+    "timezone": "America/Panama",
+    "population": 9497,
+    "population_year": null
   },
   {
     "id": 80551,
@@ -57,6 +77,11 @@
     "latitude": "8.09839000",
     "longitude": "-77.59817000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Yape",
+    "timezone": "America/Panama",
+    "population": 170,
+    "population_year": null
   }
 ]

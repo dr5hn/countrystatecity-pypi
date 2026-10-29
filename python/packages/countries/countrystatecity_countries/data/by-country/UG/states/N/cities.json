@@ -9,7 +9,12 @@
     "latitude": "1.95000000",
     "longitude": "34.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4748920",
+    "type": "adm2",
+    "native": "Amudat",
+    "timezone": "Africa/Kampala",
+    "population": 15000,
+    "population_year": null
   },
   {
     "id": 110876,
@@ -21,7 +26,12 @@
     "latitude": "1.97556000",
     "longitude": "32.53861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2041227",
+    "type": "adm2",
+    "native": "Apac",
+    "timezone": "Africa/Kampala",
+    "population": 67700,
+    "population_year": null
   },
   {
     "id": 110877,
@@ -33,7 +43,12 @@
     "latitude": "3.02013000",
     "longitude": "30.91105000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q500111",
+    "type": "adm2",
+    "native": "Arua",
+    "timezone": "Africa/Kampala",
+    "population": 72400,
+    "population_year": null
   },
   {
     "id": 110894,
@@ -45,7 +60,12 @@
     "latitude": "2.77457000",
     "longitude": "32.29899000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q581379",
+    "type": "adm1",
+    "native": "Gulu",
+    "timezone": "Africa/Kampala",
+    "population": 177400,
+    "population_year": null
   },
   {
     "id": 110920,
@@ -57,7 +77,12 @@
     "latitude": "3.27833000",
     "longitude": "32.88667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Kitgum",
+    "timezone": "Africa/Kampala",
+    "population": 56891,
+    "population_year": null
   },
   {
     "id": 110921,
@@ -69,7 +94,12 @@
     "latitude": "2.98056000",
     "longitude": "34.13306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2505963",
+    "type": "adm2",
+    "native": "Cotido",
+    "timezone": "Africa/Kampala",
+    "population": 75700,
+    "population_year": null
   },
   {
     "id": 110925,
@@ -81,7 +111,12 @@
     "latitude": "2.24990000",
     "longitude": "32.89985000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Lira",
+    "timezone": "Africa/Kampala",
+    "population": 116500,
+    "population_year": null
   },
   {
     "id": 110937,
@@ -93,7 +128,12 @@
     "latitude": "2.53453000",
     "longitude": "34.66659000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2193389",
+    "type": "adm2",
+    "native": "Moroto",
+    "timezone": "Africa/Kampala",
+    "population": 16300,
+    "population_year": null
   },
   {
     "id": 110938,
@@ -105,7 +145,12 @@
     "latitude": "3.66088000",
     "longitude": "31.72474000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q992016",
+    "type": "adm2",
+    "native": "Moyo",
+    "timezone": "Africa/Kampala",
+    "population": 18800,
+    "population_year": null
   },
   {
     "id": 110946,
@@ -117,7 +162,12 @@
     "latitude": "2.47826000",
     "longitude": "31.08893000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2174978",
+    "type": "adm2",
+    "native": "Nebbi",
+    "timezone": "Africa/Kampala",
+    "population": 41400,
+    "population_year": null
   },
   {
     "id": 110950,
@@ -129,7 +179,12 @@
     "latitude": "2.48372000",
     "longitude": "33.34201000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3539602",
+    "type": "district",
+    "native": "Otuke District",
+    "timezone": "Africa/Kampala",
+    "population": 161069,
+    "population_year": null
   },
   {
     "id": 110952,
@@ -141,7 +196,12 @@
     "latitude": "3.05000000",
     "longitude": "33.21667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Pader",
+    "timezone": "Africa/Kampala",
+    "population": 11600,
+    "population_year": null
   },
   {
     "id": 110953,
@@ -153,7 +213,12 @@
     "latitude": "2.80056000",
     "longitude": "33.13500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Pader Palwo",
+    "timezone": "Africa/Kampala",
+    "population": 11152,
+    "population_year": null
   },
   {
     "id": 110954,
@@ -165,6 +230,11 @@
     "latitude": "2.41669000",
     "longitude": "30.98551000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7124680",
+    "type": "city",
+    "native": "Paidha",
+    "timezone": "Africa/Kampala",
+    "population": 37500,
+    "population_year": null
   }
 ]

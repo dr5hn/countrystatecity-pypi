@@ -9,7 +9,12 @@
     "latitude": "57.53928000",
     "longitude": "26.69291000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q618119",
+    "type": "adm2",
+    "native": "Ape",
+    "timezone": "Europe/Riga",
+    "population": 773,
+    "population_year": null
   },
   {
     "id": 66946,
@@ -21,7 +26,12 @@
     "latitude": "57.33173000",
     "longitude": "25.60947000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1493534",
+    "type": "adm2",
+    "native": "Rauna",
+    "timezone": "Europe/Riga",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 66964,
@@ -33,6 +43,11 @@
     "latitude": "57.42444000",
     "longitude": "25.90164000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q840806",
+    "type": "adm1",
+    "native": "Smiltene",
+    "timezone": "Europe/Riga",
+    "population": 5073,
+    "population_year": null
   }
 ]

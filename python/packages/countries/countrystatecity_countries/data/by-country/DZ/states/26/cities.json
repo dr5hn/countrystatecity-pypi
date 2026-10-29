@@ -9,7 +9,12 @@
     "latitude": "35.89123000",
     "longitude": "3.15850000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "عين بوسيف",
+    "timezone": "Africa/Algiers",
+    "population": 11989,
+    "population_year": null
   },
   {
     "id": 31269,
@@ -21,7 +26,12 @@
     "latitude": "36.13516000",
     "longitude": "2.91085000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2214965",
+    "type": "municipality",
+    "native": "برواقية",
+    "timezone": "Africa/Algiers",
+    "population": 55775,
+    "population_year": null
   },
   {
     "id": 31366,
@@ -33,7 +43,12 @@
     "latitude": "35.88889000",
     "longitude": "2.74905000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3200144",
+    "type": "city",
+    "native": "قصر البخاري",
+    "timezone": "Africa/Algiers",
+    "population": 59634,
+    "population_year": null
   },
   {
     "id": 31390,
@@ -45,6 +60,11 @@
     "latitude": "36.26417000",
     "longitude": "2.75393000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1982137",
+    "type": "adm1",
+    "native": "ميديا",
+    "timezone": "Africa/Algiers",
+    "population": 138355,
+    "population_year": null
   }
 ]

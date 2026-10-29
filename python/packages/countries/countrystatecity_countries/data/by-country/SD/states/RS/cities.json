@@ -9,7 +9,12 @@
     "latitude": "21.06667000",
     "longitude": "36.31667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "جيبيت",
+    "timezone": "Africa/Khartoum",
+    "population": 11095,
+    "population_year": null
   },
   {
     "id": 102968,
@@ -21,7 +26,12 @@
     "latitude": "19.61745000",
     "longitude": "37.21644000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "بورتسودان",
+    "timezone": "Africa/Khartoum",
+    "population": 489725,
+    "population_year": null
   },
   {
     "id": 165528,
@@ -33,7 +43,12 @@
     "latitude": "18.84050000",
     "longitude": "36.83510000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7524554",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Khartoum",
+    "population": 35617,
+    "population_year": null
   },
   {
     "id": 102970,
@@ -45,7 +60,12 @@
     "latitude": "19.10590000",
     "longitude": "37.33210000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q571215",
+    "type": "city",
+    "native": "سواكن",
+    "timezone": "Africa/Khartoum",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 102976,
@@ -57,6 +77,11 @@
     "latitude": "18.42540000",
     "longitude": "37.72900000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1010754",
+    "type": "city",
+    "native": "توكار",
+    "timezone": "Africa/Khartoum",
+    "population": 37051,
+    "population_year": null
   }
 ]

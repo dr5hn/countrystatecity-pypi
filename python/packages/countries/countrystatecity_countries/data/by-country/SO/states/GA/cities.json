@@ -9,7 +9,12 @@
     "latitude": "6.13603000",
     "longitude": "46.62761000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4678352",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104790,
@@ -21,7 +26,12 @@
     "latitude": "4.68501000",
     "longitude": "46.61760000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2737496",
+    "type": "city",
+    "native": "Ceelbuur",
+    "timezone": "Africa/Mogadishu",
+    "population": 9031,
+    "population_year": null
   },
   {
     "id": 104791,
@@ -33,7 +43,12 @@
     "latitude": "3.84878000",
     "longitude": "47.18064000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1325602",
+    "type": "city",
+    "native": "Ceeldheer",
+    "timezone": "Africa/Mogadishu",
+    "population": 26562,
+    "population_year": null
   },
   {
     "id": 104793,
@@ -45,6 +60,11 @@
     "latitude": "5.53597000",
     "longitude": "46.38666000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q634063",
+    "type": "adm1",
+    "native": "Dhuusamarreeb",
+    "timezone": "Africa/Mogadishu",
+    "population": 9000,
+    "population_year": null
   }
 ]

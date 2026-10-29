@@ -9,7 +9,12 @@
     "latitude": "15.08000000",
     "longitude": "-23.64000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Achada Leitão",
+    "timezone": "Atlantic/Cape_Verde",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 160038,
@@ -21,7 +26,12 @@
     "latitude": "15.07500000",
     "longitude": "-23.64500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Leitão Grande",
+    "timezone": "Atlantic/Cape_Verde",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 160035,
@@ -33,7 +43,12 @@
     "latitude": "15.08300000",
     "longitude": "-23.63200000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q736200",
+    "type": "adm1",
+    "native": "Picos",
+    "timezone": "Atlantic/Cape_Verde",
+    "population": 2040,
+    "population_year": null
   },
   {
     "id": 160037,
@@ -45,6 +60,11 @@
     "latitude": "15.09000000",
     "longitude": "-23.63000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Picos Acima",
+    "timezone": "Atlantic/Cape_Verde",
+    "population": 2040,
+    "population_year": null
   }
 ]

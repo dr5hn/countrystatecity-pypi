@@ -9,7 +9,12 @@
     "latitude": "-2.49077000",
     "longitude": "28.84281000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Bukavu",
+    "timezone": "Africa/Lubumbashi",
+    "population": 707053,
+    "population_year": null
   },
   {
     "id": 17252,
@@ -21,7 +26,12 @@
     "latitude": "-2.49682000",
     "longitude": "28.79081000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kabare",
+    "timezone": "Africa/Lubumbashi",
+    "population": 37034,
+    "population_year": null
   },
   {
     "id": 17290,
@@ -33,6 +43,11 @@
     "latitude": "-3.39534000",
     "longitude": "29.13779000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Uvira",
+    "timezone": "Africa/Lubumbashi",
+    "population": 407092,
+    "population_year": null
   }
 ]

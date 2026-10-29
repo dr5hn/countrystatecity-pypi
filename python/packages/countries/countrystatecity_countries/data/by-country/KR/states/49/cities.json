@@ -9,7 +9,12 @@
     "latitude": "33.46444000",
     "longitude": "126.31833000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "가이게투리",
+    "timezone": "Asia/Seoul",
+    "population": 23717,
+    "population_year": null
   },
   {
     "id": 65406,
@@ -21,7 +26,12 @@
     "latitude": "33.50972000",
     "longitude": "126.52194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42142",
+    "type": "adm1",
+    "native": "제주시",
+    "timezone": "Asia/Seoul",
+    "population": 488844,
+    "population_year": null
   },
   {
     "id": 65407,
@@ -33,7 +43,12 @@
     "latitude": "33.45578000",
     "longitude": "126.53928000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42142",
+    "type": "city",
+    "native": "제주시",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65490,
@@ -45,6 +60,11 @@
     "latitude": "33.25333000",
     "longitude": "126.56181000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q42103",
+    "type": "city",
+    "native": "서귀포",
+    "timezone": "Asia/Seoul",
+    "population": 183858,
+    "population_year": null
   }
 ]

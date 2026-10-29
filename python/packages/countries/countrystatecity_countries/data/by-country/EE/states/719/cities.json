@@ -9,7 +9,12 @@
     "latitude": "59.30354000",
     "longitude": "24.66382000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Saku",
+    "timezone": "Europe/Tallinn",
+    "population": 4548,
+    "population_year": null
   },
   {
     "id": 31705,
@@ -21,6 +26,11 @@
     "latitude": "59.28069000",
     "longitude": "24.71649000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Saku vald",
+    "timezone": "Europe/Tallinn",
+    "population": null,
+    "population_year": null
   }
 ]

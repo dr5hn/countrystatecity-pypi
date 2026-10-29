@@ -9,7 +9,12 @@
     "latitude": "5.02667000",
     "longitude": "21.20876000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q153512",
+    "type": "city",
+    "native": "Alindao",
+    "timezone": "Africa/Bangui",
+    "population": 32588,
+    "population_year": null
   },
   {
     "id": 17323,
@@ -21,7 +26,12 @@
     "latitude": "4.62275000",
     "longitude": "21.88645000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2428213",
+    "type": "city",
+    "native": "Kembé",
+    "timezone": "Africa/Bangui",
+    "population": 7317,
+    "population_year": null
   },
   {
     "id": 17327,
@@ -33,6 +43,11 @@
     "latitude": "4.31902000",
     "longitude": "21.17861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1025621",
+    "type": "adm1",
+    "native": "Mobaye",
+    "timezone": "Africa/Bangui",
+    "population": 7179,
+    "population_year": null
   }
 ]

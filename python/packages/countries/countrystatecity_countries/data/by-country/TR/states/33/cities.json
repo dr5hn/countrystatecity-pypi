@@ -9,7 +9,12 @@
     "latitude": "36.86424000",
     "longitude": "34.67731000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q417000",
+    "type": "city",
+    "native": "Akdeniz",
+    "timezone": "Europe/Istanbul",
+    "population": 264618,
+    "population_year": null
   },
   {
     "id": 107160,
@@ -21,7 +26,12 @@
     "latitude": "36.07508000",
     "longitude": "32.83691000",
     "county_id": 6868,
-    "wikiDataId": null
+    "wikiDataId": "Q485575",
+    "type": "municipality",
+    "native": "Anamur",
+    "timezone": "Europe/Istanbul",
+    "population": 66952,
+    "population_year": 2025
   },
   {
     "id": 107221,
@@ -33,7 +43,12 @@
     "latitude": "36.14370000",
     "longitude": "33.32016000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q583185",
+    "type": "city",
+    "native": "Aydıncık",
+    "timezone": "Europe/Istanbul",
+    "population": 10407,
+    "population_year": null
   },
   {
     "id": 107391,
@@ -45,7 +60,12 @@
     "latitude": "36.10820000",
     "longitude": "32.96113000",
     "county_id": 7482,
-    "wikiDataId": null
+    "wikiDataId": "Q896218",
+    "type": "municipality",
+    "native": "Bozyazı",
+    "timezone": "Europe/Istanbul",
+    "population": 26832,
+    "population_year": 2025
   },
   {
     "id": 108771,
@@ -57,7 +77,12 @@
     "latitude": "37.18000000",
     "longitude": "34.60678000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q94603",
+    "type": "adm2",
+    "native": "Çamlıyayla",
+    "timezone": "Europe/Istanbul",
+    "population": 8383,
+    "population_year": 2025
   },
   {
     "id": 107586,
@@ -69,7 +94,12 @@
     "latitude": "36.60498000",
     "longitude": "34.30836000",
     "county_id": 7036,
-    "wikiDataId": null
+    "wikiDataId": "Q988315",
+    "type": "municipality",
+    "native": "Erdemli",
+    "timezone": "Europe/Istanbul",
+    "population": 157566,
+    "population_year": 2025
   },
   {
     "id": 107730,
@@ -81,7 +111,12 @@
     "latitude": "36.34148000",
     "longitude": "33.39921000",
     "county_id": 7088,
-    "wikiDataId": null
+    "wikiDataId": "Q1003894",
+    "type": "municipality",
+    "native": "Gülnar",
+    "timezone": "Europe/Istanbul",
+    "population": 12385,
+    "population_year": null
   },
   {
     "id": 153789,
@@ -93,7 +128,12 @@
     "latitude": "36.74287670",
     "longitude": "34.36409150",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q134291",
+    "type": "city",
+    "native": "Mersin",
+    "timezone": "Europe/Istanbul",
+    "population": 10964,
+    "population_year": null
   },
   {
     "id": 108204,
@@ -105,7 +145,12 @@
     "latitude": "36.89400000",
     "longitude": "34.42987000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1367930",
+    "type": "city",
+    "native": "Mezitli",
+    "timezone": "Europe/Istanbul",
+    "population": 233140,
+    "population_year": 2025
   },
   {
     "id": 108232,
@@ -117,7 +162,12 @@
     "latitude": "36.71842000",
     "longitude": "33.38718000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q94637",
+    "type": "adm2",
+    "native": "Mut",
+    "timezone": "Europe/Istanbul",
+    "population": 62853,
+    "population_year": null
   },
   {
     "id": 108458,
@@ -129,7 +179,12 @@
     "latitude": "36.37778000",
     "longitude": "33.93444000",
     "county_id": 7328,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Silifke",
+    "timezone": "Europe/Istanbul",
+    "population": 75315,
+    "population_year": null
   },
   {
     "id": 108536,
@@ -141,7 +196,12 @@
     "latitude": "36.91766000",
     "longitude": "34.89277000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q134287",
+    "type": "adm2",
+    "native": "Tarsus",
+    "timezone": "Europe/Istanbul",
+    "population": 358510,
+    "population_year": 2025
   },
   {
     "id": 108588,
@@ -153,7 +213,12 @@
     "latitude": "36.87083000",
     "longitude": "34.60299000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2306513",
+    "type": "city",
+    "native": "Toroslar",
+    "timezone": "Europe/Istanbul",
+    "population": 322971,
+    "population_year": 2025
   },
   {
     "id": 108715,
@@ -165,6 +230,11 @@
     "latitude": "36.81602000",
     "longitude": "34.57621000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1652751",
+    "type": "city",
+    "native": "Yenişehir",
+    "timezone": "Europe/Istanbul",
+    "population": 53704,
+    "population_year": null
   }
 ]

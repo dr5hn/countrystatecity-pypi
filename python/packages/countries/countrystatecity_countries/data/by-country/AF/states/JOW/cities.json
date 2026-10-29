@@ -9,7 +9,12 @@
     "latitude": "36.90500000",
     "longitude": "66.18341000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2246526",
+    "type": "adm2",
+    "native": "آقچه",
+    "timezone": "Asia/Kabul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 63,
@@ -21,7 +26,12 @@
     "latitude": "35.97744000",
     "longitude": "65.37828000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5196429",
+    "type": "adm2",
+    "native": "درزاب",
+    "timezone": "Asia/Kabul",
+    "population": 9642,
+    "population_year": null
   },
   {
     "id": 164352,
@@ -33,7 +43,12 @@
     "latitude": "36.82881000",
     "longitude": "65.62432000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6403443",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164355,
@@ -45,7 +60,12 @@
     "latitude": "37.02790000",
     "longitude": "66.12817000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6864685",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 113,
@@ -57,7 +77,12 @@
     "latitude": "37.41853000",
     "longitude": "66.04358000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5199398",
+    "type": "adm2",
+    "native": "قرقين",
+    "timezone": "Asia/Kabul",
+    "population": 15018,
+    "population_year": null
   },
   {
     "id": 122,
@@ -69,6 +94,11 @@
     "latitude": "36.66757000",
     "longitude": "65.75290000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q838954",
+    "type": "adm1",
+    "native": "شبرغان",
+    "timezone": "Asia/Kabul",
+    "population": 55641,
+    "population_year": null
   }
 ]

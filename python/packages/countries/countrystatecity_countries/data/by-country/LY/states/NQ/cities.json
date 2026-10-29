@@ -9,7 +9,12 @@
     "latitude": "32.75718000",
     "longitude": "12.37633000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "العجيلات",
+    "timezone": "Africa/Tripoli",
+    "population": 130546,
+    "population_year": null
   },
   {
     "id": 67037,
@@ -21,7 +26,12 @@
     "latitude": "32.94699000",
     "longitude": "11.86668000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3123958",
+    "type": "city",
+    "native": "زالتان",
+    "timezone": "Africa/Tripoli",
+    "population": 14131,
+    "population_year": null
   },
   {
     "id": 67041,
@@ -33,6 +43,11 @@
     "latitude": "32.93120000",
     "longitude": "12.08199000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q231167",
+    "type": "adm1",
+    "native": "زوارة",
+    "timezone": "Africa/Tripoli",
+    "population": 33887,
+    "population_year": null
   }
 ]

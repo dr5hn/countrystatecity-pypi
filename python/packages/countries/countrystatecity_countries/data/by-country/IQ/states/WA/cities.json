@@ -9,7 +9,12 @@
     "latitude": "32.90941000",
     "longitude": "45.06359000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "العزيزية",
+    "timezone": "Asia/Baghdad",
+    "population": 44751,
+    "population_year": null
   },
   {
     "id": 134487,
@@ -21,7 +26,12 @@
     "latitude": "32.17419000",
     "longitude": "46.04345000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "الحي",
+    "timezone": "Asia/Baghdad",
+    "population": 78272,
+    "population_year": null
   },
   {
     "id": 134482,
@@ -33,7 +43,12 @@
     "latitude": "32.51280000",
     "longitude": "45.81817000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q328030",
+    "type": "adm1",
+    "native": "الكوت",
+    "timezone": "Asia/Baghdad",
+    "population": 315162,
+    "population_year": null
   },
   {
     "id": 165087,
@@ -45,7 +60,12 @@
     "latitude": "32.55621000",
     "longitude": "45.41293000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2349664",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Baghdad",
+    "population": 110000,
+    "population_year": null
   },
   {
     "id": 134503,
@@ -57,6 +77,11 @@
     "latitude": "32.92556000",
     "longitude": "44.77583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "الصويرة",
+    "timezone": "Asia/Baghdad",
+    "population": 42354,
+    "population_year": null
   }
 ]

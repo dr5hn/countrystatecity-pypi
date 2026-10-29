@@ -9,7 +9,12 @@
     "latitude": "34.84218000",
     "longitude": "1.54697000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "عين الذهب",
+    "timezone": "Africa/Algiers",
+    "population": 36146,
+    "population_year": null
   },
   {
     "id": 31317,
@@ -21,7 +26,12 @@
     "latitude": "34.86375000",
     "longitude": "0.83496000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1649054",
+    "type": "municipality",
+    "native": "جبيلة روزفا",
+    "timezone": "Africa/Algiers",
+    "population": 4930,
+    "population_year": null
   },
   {
     "id": 31346,
@@ -33,7 +43,12 @@
     "latitude": "35.06544000",
     "longitude": "1.04945000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2215495",
+    "type": "municipality",
+    "native": "فريندا",
+    "timezone": "Africa/Algiers",
+    "population": 49376,
+    "population_year": null
   },
   {
     "id": 31365,
@@ -45,7 +60,12 @@
     "latitude": "35.21222000",
     "longitude": "2.31889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1648944",
+    "type": "city",
+    "native": "قصر شلالة",
+    "timezone": "Africa/Algiers",
+    "population": 51451,
+    "population_year": null
   },
   {
     "id": 31379,
@@ -57,7 +77,12 @@
     "latitude": "35.43058000",
     "longitude": "1.75714000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3277676",
+    "type": "municipality",
+    "native": "Mehdia daira de meghila",
+    "timezone": "Africa/Algiers",
+    "population": 31396,
+    "population_year": null
   },
   {
     "id": 31436,
@@ -69,7 +94,12 @@
     "latitude": "35.18568000",
     "longitude": "1.49612000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1483423",
+    "type": "municipality",
+    "native": "سوجور",
+    "timezone": "Africa/Algiers",
+    "population": 71036,
+    "population_year": null
   },
   {
     "id": 31449,
@@ -81,6 +111,11 @@
     "latitude": "35.37103000",
     "longitude": "1.31699000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q565568",
+    "type": "municipality",
+    "native": "تيارت",
+    "timezone": "Africa/Algiers",
+    "population": 178915,
+    "population_year": null
   }
 ]

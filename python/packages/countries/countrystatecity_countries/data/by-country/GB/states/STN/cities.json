@@ -9,7 +9,12 @@
     "latitude": "51.36829000",
     "longitude": "-0.16755000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Carshalton",
+    "timezone": "Europe/London",
+    "population": 45525,
+    "population_year": null
   },
   {
     "id": 48938,
@@ -21,7 +26,12 @@
     "latitude": "51.36179000",
     "longitude": "-0.21977000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Cheam",
+    "timezone": "Europe/London",
+    "population": 11286,
+    "population_year": null
   },
   {
     "id": 49118,
@@ -33,7 +43,12 @@
     "latitude": "51.32002000",
     "longitude": "-0.14088000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Coulsdon",
+    "timezone": "Europe/London",
+    "population": 25695,
+    "population_year": null
   },
   {
     "id": 51517,
@@ -45,6 +60,11 @@
     "latitude": "51.35000000",
     "longitude": "-0.20000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3139238",
+    "type": "adm3",
+    "native": "Sutton",
+    "timezone": "Europe/London",
+    "population": 187600,
+    "population_year": null
   }
 ]

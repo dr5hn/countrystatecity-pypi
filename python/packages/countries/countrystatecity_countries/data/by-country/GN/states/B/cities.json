@@ -9,7 +9,12 @@
     "latitude": "10.33333000",
     "longitude": "-14.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q890340",
+    "type": "city",
+    "native": "Boffa",
+    "timezone": "Africa/Conakry",
+    "population": 27047,
+    "population_year": null
   },
   {
     "id": 52325,
@@ -21,7 +26,12 @@
     "latitude": "10.93217000",
     "longitude": "-14.29055000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q891240",
+    "type": "adm1",
+    "native": "Boké",
+    "timezone": "Africa/Conakry",
+    "population": 63736,
+    "population_year": null
   },
   {
     "id": 52324,
@@ -33,7 +43,12 @@
     "latitude": "11.08333000",
     "longitude": "-14.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q891238",
+    "type": "prefecture",
+    "native": "Préfecture de boke",
+    "timezone": "Africa/Conakry",
+    "population": 450278,
+    "population_year": null
   },
   {
     "id": 52332,
@@ -45,7 +60,12 @@
     "latitude": "10.41667000",
     "longitude": "-13.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1456055",
+    "type": "adm2",
+    "native": "Fria",
+    "timezone": "Africa/Conakry",
+    "population": 64169,
+    "population_year": null
   },
   {
     "id": 52333,
@@ -57,7 +77,12 @@
     "latitude": "11.75409600",
     "longitude": "-13.20033300",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Gaoual",
+    "timezone": "Africa/Conakry",
+    "population": 7461,
+    "population_year": null
   },
   {
     "id": 52334,
@@ -69,7 +94,12 @@
     "latitude": "11.72434350",
     "longitude": "-13.24778750",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q614669",
+    "type": "prefecture",
+    "native": "Préfecture gaoual",
+    "timezone": "Africa/Conakry",
+    "population": 193612,
+    "population_year": null
   },
   {
     "id": 52339,
@@ -81,7 +111,12 @@
     "latitude": "10.40000000",
     "longitude": "-13.55000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kimbo",
+    "timezone": "Africa/Conakry",
+    "population": 9326,
+    "population_year": null
   },
   {
     "id": 52342,
@@ -93,7 +128,12 @@
     "latitude": "12.48333000",
     "longitude": "-13.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q985374",
+    "type": "adm2",
+    "native": "Koundara",
+    "timezone": "Africa/Conakry",
+    "population": 27246,
+    "population_year": null
   },
   {
     "id": 52343,
@@ -105,7 +145,12 @@
     "latitude": "12.41667000",
     "longitude": "-13.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1781312",
+    "type": "prefecture",
+    "native": "Préfecture de Koundara",
+    "timezone": "Africa/Conakry",
+    "population": 129974,
+    "population_year": null
   },
   {
     "id": 52364,
@@ -117,7 +162,12 @@
     "latitude": "10.70000000",
     "longitude": "-14.36667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Sanguéya",
+    "timezone": "Africa/Conakry",
+    "population": 6117,
+    "population_year": null
   },
   {
     "id": 52374,
@@ -129,6 +179,11 @@
     "latitude": "12.53110000",
     "longitude": "-13.12240000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Youkumounk",
+    "timezone": "Africa/Conakry",
+    "population": 7952,
+    "population_year": null
   }
 ]

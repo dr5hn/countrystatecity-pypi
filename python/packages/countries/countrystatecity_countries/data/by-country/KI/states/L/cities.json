@@ -9,7 +9,12 @@
     "latitude": "1.98329000",
     "longitude": "-157.36526000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Banana Village",
+    "timezone": "Pacific/Kiritimati",
+    "population": 1170,
+    "population_year": null
   },
   {
     "id": 65058,
@@ -21,7 +26,12 @@
     "latitude": "1.94000000",
     "longitude": "-157.47500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kiritimati",
+    "timezone": "Pacific/Kiritimati",
+    "population": 1829,
+    "population_year": null
   },
   {
     "id": 65060,
@@ -33,7 +43,12 @@
     "latitude": "1.98487000",
     "longitude": "-157.47502000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2477346",
+    "type": "city",
+    "native": "London Village",
+    "timezone": "Pacific/Kiritimati",
+    "population": 1829,
+    "population_year": null
   },
   {
     "id": 65065,
@@ -45,7 +60,12 @@
     "latitude": "3.90806000",
     "longitude": "-159.38832000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Napari Village",
+    "timezone": "Pacific/Kiritimati",
+    "population": 194,
+    "population_year": null
   },
   {
     "id": 65072,
@@ -57,7 +77,12 @@
     "latitude": "3.86667000",
     "longitude": "-159.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Tabuaan",
+    "timezone": "Pacific/Kiritimati",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65073,
@@ -69,7 +94,12 @@
     "latitude": "2.01643000",
     "longitude": "-157.48773000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tabwakea Village",
+    "timezone": "Pacific/Kiritimati",
+    "population": 1881,
+    "population_year": null
   },
   {
     "id": 65078,
@@ -81,6 +111,11 @@
     "latitude": "4.68764000",
     "longitude": "-160.38803000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Teraina",
+    "timezone": "Pacific/Kiritimati",
+    "population": null,
+    "population_year": null
   }
 ]

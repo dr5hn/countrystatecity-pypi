@@ -9,7 +9,12 @@
     "latitude": "26.19778000",
     "longitude": "56.25778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Dib Dibba",
+    "timezone": "Asia/Muscat",
+    "population": 5000,
+    "population_year": null
   },
   {
     "id": 79938,
@@ -21,7 +26,12 @@
     "latitude": "26.17993000",
     "longitude": "56.24774000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q426646",
+    "type": "adm1",
+    "native": "ولاية خصب",
+    "timezone": "Asia/Muscat",
+    "population": 17904,
+    "population_year": null
   },
   {
     "id": 79940,
@@ -33,6 +43,11 @@
     "latitude": "25.28345000",
     "longitude": "56.33280000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1883385",
+    "type": "city",
+    "native": "Madḩā’ al Jadīdah",
+    "timezone": "Asia/Muscat",
+    "population": 2260,
+    "population_year": null
   }
 ]

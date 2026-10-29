@@ -9,7 +9,12 @@
     "latitude": "20.29879000",
     "longitude": "-76.24511000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1129122",
+    "type": "adm2",
+    "native": "Contramaestre",
+    "timezone": "America/Havana",
+    "population": 70438,
+    "population_year": null
   },
   {
     "id": 21849,
@@ -21,7 +26,12 @@
     "latitude": "20.04850000",
     "longitude": "-75.94579000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23797650",
+    "type": "city",
+    "native": "El Cobre",
+    "timezone": "America/Havana",
+    "population": 4768,
+    "population_year": null
   },
   {
     "id": 21929,
@@ -33,7 +43,12 @@
     "latitude": "20.20897000",
     "longitude": "-76.05776000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q742835",
+    "type": "city",
+    "native": "Municipio de Palma Soriano",
+    "timezone": "America/Havana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21934,
@@ -45,7 +60,12 @@
     "latitude": "20.00617000",
     "longitude": "-75.70816000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q117040",
+    "type": "city",
+    "native": "Municipio de Santiago de Cuba",
+    "timezone": "America/Havana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21939,
@@ -57,7 +77,12 @@
     "latitude": "20.21130000",
     "longitude": "-75.99362000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12895071",
+    "type": "adm2",
+    "native": "Palma Soriano",
+    "timezone": "America/Havana",
+    "population": 102826,
+    "population_year": null
   },
   {
     "id": 21964,
@@ -69,7 +94,12 @@
     "latitude": "20.18809000",
     "longitude": "-75.85031000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q555956",
+    "type": "adm2",
+    "native": "San Luis",
+    "timezone": "America/Havana",
+    "population": 67293,
+    "population_year": null
   },
   {
     "id": 21972,
@@ -81,6 +111,11 @@
     "latitude": "20.02083000",
     "longitude": "-75.82667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Santiago de Cuba",
+    "timezone": "America/Havana",
+    "population": 444851,
+    "population_year": null
   }
 ]

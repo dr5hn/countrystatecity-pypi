@@ -9,7 +9,12 @@
     "latitude": "1.08719700",
     "longitude": "104.50218350",
     "county_id": 8514,
-    "wikiDataId": null
+    "wikiDataId": "Q136394089",
+    "type": "town",
+    "native": "Bandar Seri Bentan",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56208,
@@ -21,7 +26,12 @@
     "latitude": "1.14937000",
     "longitude": "104.02491000",
     "county_id": 8518,
-    "wikiDataId": null
+    "wikiDataId": "Q10103",
+    "type": "city",
+    "native": "Batam",
+    "timezone": "Asia/Jakarta",
+    "population": 1196396,
+    "population_year": null
   },
   {
     "id": 166733,
@@ -33,7 +43,12 @@
     "latitude": "-0.21451000",
     "longitude": "104.61824000",
     "county_id": 8517,
-    "wikiDataId": null
+    "wikiDataId": "Q138791060",
+    "type": "town",
+    "native": "Daik Lingga",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56716,
@@ -45,7 +60,12 @@
     "latitude": "0.90000000",
     "longitude": "104.63333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24884538",
+    "type": "adm2",
+    "native": "Kijang",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166771,
@@ -57,7 +77,12 @@
     "latitude": "3.93840000",
     "longitude": "108.38401000",
     "county_id": 8516,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Ranai",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164803,
@@ -69,7 +94,12 @@
     "latitude": "1.00005000",
     "longitude": "103.42186000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4271751",
+    "type": "city",
+    "native": "Tanjung Balai Karimun",
+    "timezone": "Asia/Jakarta",
+    "population": 48953,
+    "population_year": null
   },
   {
     "id": 57018,
@@ -81,7 +111,12 @@
     "latitude": "0.91667000",
     "longitude": "104.45833000",
     "county_id": 8519,
-    "wikiDataId": null
+    "wikiDataId": "Q10104",
+    "type": "city",
+    "native": "Tanjung Pinang",
+    "timezone": "Asia/Jakarta",
+    "population": 227663,
+    "population_year": null
   },
   {
     "id": 166704,
@@ -93,6 +128,11 @@
     "latitude": "3.21583000",
     "longitude": "106.21722000",
     "county_id": 10670,
-    "wikiDataId": null
+    "wikiDataId": "Q12519958",
+    "type": "section",
+    "native": "Tarempa",
+    "timezone": "Asia/Jakarta",
+    "population": null,
+    "population_year": null
   }
 ]

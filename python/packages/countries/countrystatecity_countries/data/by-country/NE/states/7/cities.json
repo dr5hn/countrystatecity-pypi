@@ -9,7 +9,12 @@
     "latitude": "14.01618000",
     "longitude": "10.14722000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1538708",
+    "type": "city",
+    "native": "Département de Gouré",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76700,
@@ -21,7 +26,12 @@
     "latitude": "13.40000000",
     "longitude": "8.60000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q913147",
+    "type": "city",
+    "native": "Département de Kantché",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76713,
@@ -33,7 +43,12 @@
     "latitude": "14.75000000",
     "longitude": "8.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q913289",
+    "type": "city",
+    "native": "Département de Tânout",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76717,
@@ -45,7 +60,12 @@
     "latitude": "13.98350000",
     "longitude": "10.27035000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Gouré",
+    "timezone": "Africa/Niamey",
+    "population": 24752,
+    "population_year": null
   },
   {
     "id": 76725,
@@ -57,7 +77,12 @@
     "latitude": "12.99826000",
     "longitude": "8.90991000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "MAGARIE",
+    "timezone": "Africa/Niamey",
+    "population": 35091,
+    "population_year": null
   },
   {
     "id": 76727,
@@ -69,7 +94,12 @@
     "latitude": "13.42309000",
     "longitude": "8.47485000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Matamey",
+    "timezone": "Africa/Niamey",
+    "population": 37374,
+    "population_year": null
   },
   {
     "id": 76730,
@@ -81,7 +111,12 @@
     "latitude": "13.70727000",
     "longitude": "9.15013000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Mirrie",
+    "timezone": "Africa/Niamey",
+    "population": 38446,
+    "population_year": null
   },
   {
     "id": 76735,
@@ -93,7 +128,12 @@
     "latitude": "14.97089000",
     "longitude": "8.88786000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Tanout",
+    "timezone": "Africa/Niamey",
+    "population": 27527,
+    "population_year": null
   },
   {
     "id": 76743,
@@ -105,6 +145,11 @@
     "latitude": "13.80716000",
     "longitude": "8.98810000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q204365",
+    "type": "adm1",
+    "native": "Zinder",
+    "timezone": "Africa/Niamey",
+    "population": 318874,
+    "population_year": null
   }
 ]

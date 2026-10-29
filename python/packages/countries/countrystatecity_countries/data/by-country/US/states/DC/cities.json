@@ -9,7 +9,12 @@
     "latitude": "38.92150000",
     "longitude": "-77.04220000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2057409",
+    "type": "city",
+    "native": "Adams Morgan",
+    "timezone": "America/New_York",
+    "population": 15830,
+    "population_year": null
   },
   {
     "id": 112444,
@@ -21,7 +26,12 @@
     "latitude": "38.91678000",
     "longitude": "-77.01137000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4928307",
+    "type": "city",
+    "native": "Bloomingdale",
+    "timezone": "America/New_York",
+    "population": 4980,
+    "population_year": null
   },
   {
     "id": 113920,
@@ -33,7 +43,12 @@
     "latitude": "38.96400000",
     "longitude": "-77.06776000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4404091",
+    "type": "city",
+    "native": "Chevy Chase",
+    "timezone": "America/New_York",
+    "population": 9545,
+    "population_year": null
   },
   {
     "id": 128587,
@@ -45,6 +60,11 @@
     "latitude": "38.89511000",
     "longitude": "-77.03637000",
     "county_id": 14047,
-    "wikiDataId": null
+    "wikiDataId": "Q61",
+    "type": "capital",
+    "native": "Washington D.C.",
+    "timezone": "America/New_York",
+    "population": 689545,
+    "population_year": null
   }
 ]

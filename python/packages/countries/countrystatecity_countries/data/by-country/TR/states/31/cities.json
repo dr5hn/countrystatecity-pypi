@@ -9,7 +9,12 @@
     "latitude": "36.11244000",
     "longitude": "36.24488000",
     "county_id": 6864,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Altınözü",
+    "timezone": "Europe/Istanbul",
+    "population": 69834,
+    "population_year": 2025
   },
   {
     "id": 107167,
@@ -21,7 +26,12 @@
     "latitude": "36.20655000",
     "longitude": "36.15722000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q80561",
+    "type": "adm1",
+    "native": "Antakya",
+    "timezone": "Europe/Istanbul",
+    "population": 210000,
+    "population_year": null
   },
   {
     "id": 107192,
@@ -33,7 +43,12 @@
     "latitude": "36.41305000",
     "longitude": "35.89033000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q705180",
+    "type": "adm2",
+    "native": "Arsuz",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 107328,
@@ -45,7 +60,12 @@
     "latitude": "36.48866000",
     "longitude": "36.19489000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q815399",
+    "type": "adm2",
+    "native": "Belen",
+    "timezone": "Europe/Istanbul",
+    "population": 20113,
+    "population_year": null
   },
   {
     "id": 107458,
@@ -57,7 +77,12 @@
     "latitude": "36.19518530",
     "longitude": "36.14766390",
     "county_id": 7783,
-    "wikiDataId": null
+    "wikiDataId": "Q16834782",
+    "type": "municipality",
+    "native": "Defne",
+    "timezone": "Europe/Istanbul",
+    "population": 151017,
+    "population_year": null
   },
   {
     "id": 107539,
@@ -69,7 +94,12 @@
     "latitude": "36.83917000",
     "longitude": "36.23025000",
     "county_id": 7015,
-    "wikiDataId": null
+    "wikiDataId": "Q2451734",
+    "type": "municipality",
+    "native": "Dörtyol",
+    "timezone": "Europe/Istanbul",
+    "population": 132987,
+    "population_year": 2025
   },
   {
     "id": 107600,
@@ -81,7 +111,12 @@
     "latitude": "36.95348000",
     "longitude": "36.19839000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1012929",
+    "type": "adm2",
+    "native": "Erzin",
+    "timezone": "Europe/Istanbul",
+    "population": 26316,
+    "population_year": null
   },
   {
     "id": 107804,
@@ -93,7 +128,12 @@
     "latitude": "36.79944000",
     "longitude": "36.51778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1003903",
+    "type": "adm2",
+    "native": "Hassa",
+    "timezone": "Europe/Istanbul",
+    "population": 9719,
+    "population_year": null
   },
   {
     "id": 108913,
@@ -105,7 +145,12 @@
     "latitude": "36.58718000",
     "longitude": "36.17347000",
     "county_id": 7133,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "İskenderun",
+    "timezone": "Europe/Istanbul",
+    "population": 251682,
+    "population_year": null
   },
   {
     "id": 108107,
@@ -117,7 +162,12 @@
     "latitude": "36.49939000",
     "longitude": "36.35755000",
     "county_id": 7185,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Kırıkhan",
+    "timezone": "Europe/Istanbul",
+    "population": 108200,
+    "population_year": 2025
   },
   {
     "id": 108050,
@@ -129,7 +179,12 @@
     "latitude": "36.36508000",
     "longitude": "36.45526000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1015322",
+    "type": "adm2",
+    "native": "Kumlu",
+    "timezone": "Europe/Istanbul",
+    "population": 16242,
+    "population_year": 2025
   },
   {
     "id": 108320,
@@ -141,7 +196,12 @@
     "latitude": "36.75600000",
     "longitude": "36.21432000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2674278",
+    "type": "adm2",
+    "native": "Payas",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 108368,
@@ -153,7 +213,12 @@
     "latitude": "36.26791000",
     "longitude": "36.56747000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q945375",
+    "type": "adm2",
+    "native": "Reyhanlı",
+    "timezone": "Europe/Istanbul",
+    "population": 56995,
+    "population_year": null
   },
   {
     "id": 153356,
@@ -165,7 +230,12 @@
     "latitude": "36.08500000",
     "longitude": "35.98055600",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q840957",
+    "type": "adm2",
+    "native": "Samandağ",
+    "timezone": "Europe/Istanbul",
+    "population": 121109,
+    "population_year": null
   },
   {
     "id": 108679,
@@ -177,6 +247,11 @@
     "latitude": "35.90250000",
     "longitude": "36.06272000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1003948",
+    "type": "adm2",
+    "native": "Yayladağı",
+    "timezone": "Europe/Istanbul",
+    "population": 8308,
+    "population_year": null
   }
 ]

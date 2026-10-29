@@ -9,7 +9,12 @@
     "latitude": "13.32374000",
     "longitude": "99.37323000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475107",
+    "type": "district",
+    "native": "อำเภอบ้านคา",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106410,
@@ -21,7 +26,12 @@
     "latitude": "13.81629000",
     "longitude": "99.87739000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "บ้านโป่ง",
+    "timezone": "Asia/Bangkok",
+    "population": 57559,
+    "population_year": null
   },
   {
     "id": 166942,
@@ -33,7 +43,12 @@
     "latitude": "13.81740000",
     "longitude": "99.88300000",
     "county_id": 6096,
-    "wikiDataId": null
+    "wikiDataId": "Q4853694",
+    "type": "city",
+    "native": "บ้านโป่ง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106440,
@@ -45,7 +60,12 @@
     "latitude": "13.69157000",
     "longitude": "99.92982000",
     "county_id": 6097,
-    "wikiDataId": null
+    "wikiDataId": "Q28574210",
+    "type": "town",
+    "native": "บางแพ",
+    "timezone": "Asia/Bangkok",
+    "population": 29548,
+    "population_year": null
   },
   {
     "id": 106478,
@@ -57,7 +77,12 @@
     "latitude": "13.62000000",
     "longitude": "99.59169000",
     "county_id": 6093,
-    "wikiDataId": null
+    "wikiDataId": "Q28574152",
+    "type": "town",
+    "native": "จอมบึง",
+    "timezone": "Asia/Bangkok",
+    "population": 15143,
+    "population_year": null
   },
   {
     "id": 106485,
@@ -69,7 +94,12 @@
     "latitude": "13.51825000",
     "longitude": "99.95469000",
     "county_id": 6095,
-    "wikiDataId": null
+    "wikiDataId": "Q16022987",
+    "type": "town",
+    "native": "ดำเนินสะดวก",
+    "timezone": "Asia/Bangkok",
+    "population": 23296,
+    "population_year": null
   },
   {
     "id": 167134,
@@ -81,7 +111,12 @@
     "latitude": "13.37263000",
     "longitude": "99.83938000",
     "county_id": 6099,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ปากท่อ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106641,
@@ -93,7 +128,12 @@
     "latitude": "13.69234000",
     "longitude": "99.84969000",
     "county_id": 6098,
-    "wikiDataId": null
+    "wikiDataId": "Q13025414",
+    "type": "city",
+    "native": "โพธาราม",
+    "timezone": "Asia/Bangkok",
+    "population": 36248,
+    "population_year": null
   },
   {
     "id": 106664,
@@ -105,7 +145,12 @@
     "latitude": "13.53671000",
     "longitude": "99.81712000",
     "county_id": 6092,
-    "wikiDataId": null
+    "wikiDataId": "Q1207138",
+    "type": "city",
+    "native": "ราชบุรี",
+    "timezone": "Asia/Bangkok",
+    "population": 92448,
+    "population_year": null
   },
   {
     "id": 106253,
@@ -117,7 +162,12 @@
     "latitude": "13.56361000",
     "longitude": "99.31133000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476778",
+    "type": "district",
+    "native": "อำเภอสวนผึ้ง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 167279,
@@ -129,6 +179,11 @@
     "latitude": "13.45220000",
     "longitude": "99.88520000",
     "county_id": 6100,
-    "wikiDataId": null
+    "wikiDataId": "Q42310111",
+    "type": "town",
+    "native": "วัดเพลง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

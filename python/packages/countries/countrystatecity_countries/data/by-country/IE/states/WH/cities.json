@@ -9,7 +9,12 @@
     "latitude": "53.53333000",
     "longitude": "-7.35000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q55308",
+    "type": "adm2",
+    "native": "Mullingar",
+    "timezone": "Europe/Dublin",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 57084,
@@ -21,7 +26,12 @@
     "latitude": "53.43333000",
     "longitude": "-7.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Athlone",
+    "timezone": "Europe/Dublin",
+    "population": 21351,
+    "population_year": null
   },
   {
     "id": 57163,
@@ -33,7 +43,12 @@
     "latitude": "53.67935000",
     "longitude": "-7.29736000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1049648",
+    "type": "town",
+    "native": "Castlepollard",
+    "timezone": "Europe/Dublin",
+    "population": 1163,
+    "population_year": null
   },
   {
     "id": 57274,
@@ -45,7 +60,12 @@
     "latitude": "53.36944000",
     "longitude": "-7.50333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q68364",
+    "type": "town",
+    "native": "Kilbeggan",
+    "timezone": "Europe/Dublin",
+    "population": 1288,
+    "population_year": null
   },
   {
     "id": 57326,
@@ -57,7 +77,12 @@
     "latitude": "53.39389000",
     "longitude": "-7.71722000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1972395",
+    "type": "town",
+    "native": "Moate",
+    "timezone": "Europe/Dublin",
+    "population": 2763,
+    "population_year": null
   },
   {
     "id": 57380,
@@ -69,7 +94,12 @@
     "latitude": "53.50767000",
     "longitude": "-7.13510000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Rathwire",
+    "timezone": "Europe/Dublin",
+    "population": 1226,
+    "population_year": null
   },
   {
     "id": 57384,
@@ -81,6 +111,11 @@
     "latitude": "53.41417000",
     "longitude": "-7.29611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2084537",
+    "type": "town",
+    "native": "Rochfortbridge",
+    "timezone": "Europe/Dublin",
+    "population": 1494,
+    "population_year": null
   }
 ]

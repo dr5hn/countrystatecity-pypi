@@ -9,7 +9,12 @@
     "latitude": "11.06160000",
     "longitude": "-0.24169000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q812036",
+    "type": "city",
+    "native": "Bawku",
+    "timezone": "Africa/Accra",
+    "population": 76459,
+    "population_year": null
   },
   {
     "id": 52167,
@@ -21,7 +26,12 @@
     "latitude": "10.78556000",
     "longitude": "-0.85139000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q166513",
+    "type": "adm1",
+    "native": "Bolgath",
+    "timezone": "Africa/Accra",
+    "population": 66685,
+    "population_year": null
   },
   {
     "id": 52193,
@@ -33,6 +43,11 @@
     "latitude": "10.89557000",
     "longitude": "-1.09210000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q995548",
+    "type": "city",
+    "native": "Navroo",
+    "timezone": "Africa/Accra",
+    "population": 25470,
+    "population_year": null
   }
 ]

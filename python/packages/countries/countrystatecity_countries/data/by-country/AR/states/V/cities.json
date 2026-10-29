@@ -9,7 +9,12 @@
     "latitude": "-53.78769000",
     "longitude": "-67.70946000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1005221",
+    "type": "adm2",
+    "native": "Río Grande",
+    "timezone": "America/Argentina/Ushuaia",
+    "population": 52681,
+    "population_year": null
   },
   {
     "id": 1508,
@@ -21,7 +26,12 @@
     "latitude": "-54.51083000",
     "longitude": "-67.19550000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Tolhuin",
+    "timezone": "America/Argentina/Ushuaia",
+    "population": 3000,
+    "population_year": null
   },
   {
     "id": 1524,
@@ -33,6 +43,11 @@
     "latitude": "-54.81084000",
     "longitude": "-68.31591000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q44254",
+    "type": "adm1",
+    "native": "Ushuaia",
+    "timezone": "America/Argentina/Ushuaia",
+    "population": 56825,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "26.24551000",
     "longitude": "36.45249000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27251",
+    "type": "adm2",
+    "native": "الوجه",
+    "timezone": "Asia/Riyadh",
+    "population": 26636,
+    "population_year": null
   },
   {
     "id": 102853,
@@ -21,7 +26,12 @@
     "latitude": "27.35134000",
     "longitude": "35.69014000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "دوبا",
+    "timezone": "Asia/Riyadh",
+    "population": 22000,
+    "population_year": null
   },
   {
     "id": 102881,
@@ -33,7 +43,12 @@
     "latitude": "28.39980000",
     "longitude": "36.57151000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q244232",
+    "type": "city",
+    "native": "تبوك",
+    "timezone": "Asia/Riyadh",
+    "population": 667000,
+    "population_year": null
   },
   {
     "id": 165526,
@@ -45,7 +60,12 @@
     "latitude": "27.62233000",
     "longitude": "38.53882000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27365",
+    "type": "town",
+    "native": "تيماء",
+    "timezone": "Asia/Riyadh",
+    "population": 37579,
+    "population_year": null
   },
   {
     "id": 102889,
@@ -57,6 +77,11 @@
     "latitude": "25.02126000",
     "longitude": "37.26850000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q32190969",
+    "type": "town",
+    "native": "أم لاج",
+    "timezone": "Asia/Riyadh",
+    "population": 33874,
+    "population_year": null
   }
 ]

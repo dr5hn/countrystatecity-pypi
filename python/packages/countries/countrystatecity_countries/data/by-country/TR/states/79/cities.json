@@ -9,7 +9,12 @@
     "latitude": "36.67417000",
     "longitude": "37.46667000",
     "county_id": 7725,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Elbeyli",
+    "timezone": "Europe/Istanbul",
+    "population": 2274,
+    "population_year": null
   },
   {
     "id": 107997,
@@ -21,7 +26,12 @@
     "latitude": "36.71611000",
     "longitude": "37.11500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q206881",
+    "type": "city",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 121609,
+    "population_year": 2025
   },
   {
     "id": 108228,
@@ -33,7 +43,12 @@
     "latitude": "36.88639000",
     "longitude": "36.91861000",
     "county_id": 7726,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Musabeyli",
+    "timezone": "Europe/Istanbul",
+    "population": 1938,
+    "population_year": null
   },
   {
     "id": 108345,
@@ -45,6 +60,11 @@
     "latitude": "36.83694000",
     "longitude": "37.15083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1018509",
+    "type": "adm2",
+    "native": "Polateli",
+    "timezone": "Europe/Istanbul",
+    "population": 5361,
+    "population_year": null
   }
 ]

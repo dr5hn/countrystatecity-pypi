@@ -9,7 +9,12 @@
     "latitude": "42.33222000",
     "longitude": "19.21194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1190698",
+    "type": "city",
+    "native": "Горизијци",
+    "timezone": "Europe/Podgorica",
+    "population": 1205,
+    "population_year": null
   },
   {
     "id": 67357,
@@ -21,7 +26,12 @@
     "latitude": "42.34167000",
     "longitude": "19.22139000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3182910",
+    "type": "city",
+    "native": "Мојановић",
+    "timezone": "Europe/Podgorica",
+    "population": 1800,
+    "population_year": null
   },
   {
     "id": 67364,
@@ -33,6 +43,11 @@
     "latitude": "42.44111000",
     "longitude": "19.26361000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23564",
+    "type": "capital",
+    "native": "Подгорица",
+    "timezone": "Europe/Podgorica",
+    "population": 236852,
+    "population_year": null
   }
 ]

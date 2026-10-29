@@ -9,7 +9,12 @@
     "latitude": "0.00624000",
     "longitude": "37.07398000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q123160",
+    "type": "city",
+    "native": "Nanyuki",
+    "timezone": "Africa/Nairobi",
+    "population": 72813,
+    "population_year": null
   },
   {
     "id": 64854,
@@ -21,7 +26,12 @@
     "latitude": "0.03813000",
     "longitude": "36.36339000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q948344",
+    "type": "city",
+    "native": "Nyahururu",
+    "timezone": "Africa/Nairobi",
+    "population": 37650,
+    "population_year": null
   },
   {
     "id": 64865,
@@ -33,6 +43,11 @@
     "latitude": "0.27250000",
     "longitude": "36.53806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7379442",
+    "type": "adm1",
+    "native": "Rumuruti",
+    "timezone": "Africa/Nairobi",
+    "population": 13056,
+    "population_year": null
   }
 ]

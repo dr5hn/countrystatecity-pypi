@@ -10,6 +10,14 @@ from countrystatecity_countries import (
 from countrystatecity_countries.models import City
 
 
+def test_country_cities_with_no_state():
+    """Keep v5's Western Sahara cities in their country, without a fake state."""
+    cities = get_cities_of_country("EH")
+    assert {city.id for city in cities} == {67127, 67134, 67220}
+    assert all(city.state_id is None and city.state_code is None for city in cities)
+    assert any(city.name == "Smara" for city in search_cities("eh", None, "smara"))
+
+
 def test_get_cities_of_state():
     """Test getting cities of a state."""
     cities = get_cities_of_state("US", "CA")

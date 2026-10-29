@@ -9,7 +9,12 @@
     "latitude": "25.61068000",
     "longitude": "51.09108000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1147593",
+    "type": "city",
+    "native": "الجميلية",
+    "timezone": "Asia/Qatar",
+    "population": 1788,
+    "population_year": null
   },
   {
     "id": 89863,
@@ -21,7 +26,12 @@
     "latitude": "25.37088000",
     "longitude": "51.22264000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "آش شيحانية",
+    "timezone": "Asia/Qatar",
+    "population": 8380,
+    "population_year": null
   },
   {
     "id": 89865,
@@ -33,6 +43,11 @@
     "latitude": "25.42485000",
     "longitude": "50.78227000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3296633",
+    "type": "city",
+    "native": "دخان",
+    "timezone": "Asia/Qatar",
+    "population": 7250,
+    "population_year": null
   }
 ]

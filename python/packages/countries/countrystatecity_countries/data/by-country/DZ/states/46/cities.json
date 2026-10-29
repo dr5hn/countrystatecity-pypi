@@ -9,7 +9,12 @@
     "latitude": "35.29749000",
     "longitude": "-1.14037000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "عين تموشنت",
+    "timezone": "Africa/Algiers",
+    "population": 70810,
+    "population_year": null
   },
   {
     "id": 31265,
@@ -21,7 +26,12 @@
     "latitude": "35.30099000",
     "longitude": "-1.38226000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q80408",
+    "type": "municipality",
+    "native": "بني صاف",
+    "timezone": "Africa/Algiers",
+    "population": 39749,
+    "population_year": null
   },
   {
     "id": 31329,
@@ -33,7 +43,12 @@
     "latitude": "35.52439000",
     "longitude": "-1.01577000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1657351",
+    "type": "municipality",
+    "native": "العامرية",
+    "timezone": "Africa/Algiers",
+    "population": 26407,
+    "population_year": null
   },
   {
     "id": 31340,
@@ -45,7 +60,12 @@
     "latitude": "35.39137000",
     "longitude": "-1.09238000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1649298",
+    "type": "municipality",
+    "native": "الملاح",
+    "timezone": "Africa/Algiers",
+    "population": 19415,
+    "population_year": null
   },
   {
     "id": 31351,
@@ -57,6 +77,11 @@
     "latitude": "35.37889000",
     "longitude": "-0.96778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q887319",
+    "type": "municipality",
+    "native": "حمام بو حجر",
+    "timezone": "Africa/Algiers",
+    "population": 25912,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "-23.65236000",
     "longitude": "-70.39540000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3612",
+    "type": "adm1",
+    "native": "Antofagasta",
+    "timezone": "America/Santiago",
+    "population": 348517,
+    "population_year": null
   },
   {
     "id": 18952,
@@ -21,7 +26,12 @@
     "latitude": "-22.45667000",
     "longitude": "-68.92371000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3685",
+    "type": "adm2",
+    "native": "Calama",
+    "timezone": "America/Santiago",
+    "population": 157575,
+    "population_year": null
   },
   {
     "id": 148326,
@@ -33,7 +43,12 @@
     "latitude": "-22.35000000",
     "longitude": "-69.66666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16923",
+    "type": "city",
+    "native": "María Elena",
+    "timezone": "America/Santiago",
+    "population": 6457,
+    "population_year": null
   },
   {
     "id": 19033,
@@ -45,7 +60,12 @@
     "latitude": "-23.10000000",
     "longitude": "-70.45000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16928",
+    "type": "city",
+    "native": "Mejillones",
+    "timezone": "America/Santiago",
+    "population": 14084,
+    "population_year": null
   },
   {
     "id": 19074,
@@ -57,7 +77,12 @@
     "latitude": "-21.22496000",
     "longitude": "-68.25352000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q51055",
+    "type": "city",
+    "native": "Ollagüe",
+    "timezone": "America/Santiago",
+    "population": 199,
+    "population_year": null
   },
   {
     "id": 19107,
@@ -69,7 +94,12 @@
     "latitude": "-22.91110000",
     "longitude": "-68.20113000",
     "county_id": 13800,
-    "wikiDataId": null
+    "wikiDataId": "Q187893",
+    "type": "municipality",
+    "native": "San Pedro de Atacama",
+    "timezone": "America/Santiago",
+    "population": 10960,
+    "population_year": null
   },
   {
     "id": 19051,
@@ -81,7 +111,12 @@
     "latitude": "-22.88333333",
     "longitude": "-69.31666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q188027",
+    "type": "city",
+    "native": "Sierra Gorda",
+    "timezone": "America/Santiago",
+    "population": 1069,
+    "population_year": null
   },
   {
     "id": 19115,
@@ -93,7 +128,12 @@
     "latitude": "-25.40713000",
     "longitude": "-70.48554000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q188049",
+    "type": "city",
+    "native": "Taltal",
+    "timezone": "America/Santiago",
+    "population": 11132,
+    "population_year": null
   },
   {
     "id": 19118,
@@ -105,6 +145,11 @@
     "latitude": "-22.09198000",
     "longitude": "-70.19792000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q188192",
+    "type": "adm2",
+    "native": "Tocopilla",
+    "timezone": "America/Santiago",
+    "population": 25400,
+    "population_year": null
   }
 ]

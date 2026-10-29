@@ -9,7 +9,12 @@
     "latitude": "0.46005000",
     "longitude": "34.11169000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1111957",
+    "type": "adm1",
+    "native": "Busia",
+    "timezone": "Africa/Nairobi",
+    "population": 71886,
+    "population_year": null
   },
   {
     "id": 64821,
@@ -21,7 +26,12 @@
     "latitude": "0.31354000",
     "longitude": "34.07146000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Luanda",
+    "timezone": "Africa/Nairobi",
+    "population": 10053,
+    "population_year": null
   },
   {
     "id": 64822,
@@ -33,7 +43,12 @@
     "latitude": "0.39337000",
     "longitude": "34.30399000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Lugulu",
+    "timezone": "Africa/Nairobi",
+    "population": 40894,
+    "population_year": null
   },
   {
     "id": 64826,
@@ -45,7 +60,12 @@
     "latitude": "0.63513000",
     "longitude": "34.28165000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6740728",
+    "type": "city",
+    "native": "Malaba",
+    "timezone": "Africa/Nairobi",
+    "population": 15581,
+    "population_year": null
   },
   {
     "id": 64848,
@@ -57,7 +77,12 @@
     "latitude": "0.45813000",
     "longitude": "34.25353000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Nambare",
+    "timezone": "Africa/Nairobi",
+    "population": 3993,
+    "population_year": null
   },
   {
     "id": 64861,
@@ -69,6 +94,11 @@
     "latitude": "0.09809000",
     "longitude": "33.97248000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Port Victoria",
+    "timezone": "Africa/Nairobi",
+    "population": 12194,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "16.25575000",
     "longitude": "-14.10165000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Goléré",
+    "timezone": "Africa/Dakar",
+    "population": 6373,
+    "population_year": null
   },
   {
     "id": 104740,
@@ -21,7 +26,12 @@
     "latitude": "16.51293000",
     "longitude": "-14.64706000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3337485",
+    "type": "city",
+    "native": "Ndioum",
+    "timezone": "Africa/Dakar",
+    "population": 20270,
+    "population_year": null
   },
   {
     "id": 104750,
@@ -33,7 +43,12 @@
     "latitude": "15.26667000",
     "longitude": "-13.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Polel Diaoubé",
+    "timezone": "Africa/Dakar",
+    "population": 3000,
+    "population_year": null
   },
   {
     "id": 104754,
@@ -45,7 +60,12 @@
     "latitude": "16.46250000",
     "longitude": "-15.70083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1153061",
+    "type": "city",
+    "native": "Richard-Toll",
+    "timezone": "Africa/Dakar",
+    "population": 73147,
+    "population_year": null
   },
   {
     "id": 104755,
@@ -57,7 +77,12 @@
     "latitude": "16.42028000",
     "longitude": "-15.79834000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Rosso",
+    "timezone": "Africa/Dakar",
+    "population": 9923,
+    "population_year": null
   },
   {
     "id": 104757,
@@ -69,6 +94,11 @@
     "latitude": "16.01793000",
     "longitude": "-16.48962000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q273779",
+    "type": "adm1",
+    "native": "Saint-Louis",
+    "timezone": "Africa/Dakar",
+    "population": 258592,
+    "population_year": null
   }
 ]

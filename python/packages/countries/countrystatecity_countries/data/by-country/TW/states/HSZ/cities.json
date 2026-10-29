@@ -9,7 +9,12 @@
     "latitude": "24.79590000",
     "longitude": "120.99300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q700818",
+    "type": "district",
+    "native": "東區",
+    "timezone": "Asia/Taipei",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 109010,
@@ -21,7 +26,12 @@
     "latitude": "24.80361000",
     "longitude": "120.96861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q249994",
+    "type": "adm2",
+    "native": "新竹",
+    "timezone": "Asia/Taipei",
+    "population": 455275,
+    "population_year": null
   },
   {
     "id": 164115,
@@ -33,7 +43,12 @@
     "latitude": "24.82800000",
     "longitude": "120.94800000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q698046",
+    "type": "district",
+    "native": "北區",
+    "timezone": "Asia/Taipei",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 164117,
@@ -45,6 +60,11 @@
     "latitude": "24.77460000",
     "longitude": "120.92600000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q707798",
+    "type": "district",
+    "native": "香山區",
+    "timezone": "Asia/Taipei",
+    "population": null,
+    "population_year": null
   }
 ]

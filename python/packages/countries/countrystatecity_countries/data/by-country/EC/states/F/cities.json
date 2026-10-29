@@ -9,7 +9,12 @@
     "latitude": "-2.73969000",
     "longitude": "-78.84860000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q786758",
+    "type": "adm1",
+    "native": "Azogues",
+    "timezone": "America/Guayaquil",
+    "population": 35763,
+    "population_year": null
   },
   {
     "id": 31496,
@@ -21,7 +26,12 @@
     "latitude": "-2.56062000",
     "longitude": "-78.93940000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23885206",
+    "type": "adm2",
+    "native": "Cañar",
+    "timezone": "America/Guayaquil",
+    "population": 9900,
+    "population_year": null
   },
   {
     "id": 31518,
@@ -33,6 +43,11 @@
     "latitude": "-2.42355000",
     "longitude": "-79.33977000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6465543",
+    "type": "adm2",
+    "native": "La Troncal",
+    "timezone": "America/Guayaquil",
+    "population": 39600,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "34.51952000",
     "longitude": "65.25093000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q958621",
+    "type": "adm1",
+    "native": "فایروز کوه",
+    "timezone": "Asia/Kabul",
+    "population": 15000,
+    "population_year": null
   },
   {
     "id": 164354,
@@ -21,7 +26,12 @@
     "latitude": "34.50141000",
     "longitude": "66.27997000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3826237",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 121,
@@ -33,6 +43,11 @@
     "latitude": "34.10737000",
     "longitude": "64.30520000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7461922",
+    "type": "adm2",
+    "native": "شهرک",
+    "timezone": "Asia/Kabul",
+    "population": 15967,
+    "population_year": null
   }
 ]

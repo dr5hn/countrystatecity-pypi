@@ -9,7 +9,12 @@
     "latitude": "16.06778000",
     "longitude": "108.22083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Da Nang",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 1276000,
+    "population_year": null
   },
   {
     "id": 168132,
@@ -21,7 +26,12 @@
     "latitude": "15.88214000",
     "longitude": "108.12092000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Đại Lộc",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130563,
@@ -33,7 +43,12 @@
     "latitude": "15.87944000",
     "longitude": "108.33500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q36160",
+    "type": "city",
+    "native": "Hội An",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 32757,
+    "population_year": null
   },
   {
     "id": 130529,
@@ -45,7 +60,12 @@
     "latitude": "15.89917000",
     "longitude": "108.22470000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Điện Bàn",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130296,
@@ -57,7 +77,12 @@
     "latitude": "15.53857000",
     "longitude": "108.09539000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Hiệp Đức",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130375,
@@ -69,7 +94,12 @@
     "latitude": "15.63201000",
     "longitude": "107.60267000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Nam Giang",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130467,
@@ -81,7 +111,12 @@
     "latitude": "15.25000000",
     "longitude": "108.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Trà My",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 168040,
@@ -93,7 +128,12 @@
     "latitude": "15.44508000",
     "longitude": "107.79337000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Khâm Đức",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 167963,
@@ -105,7 +145,12 @@
     "latitude": "15.82898000",
     "longitude": "108.25956000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Nam Phước",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 168036,
@@ -117,7 +162,12 @@
     "latitude": "15.43194000",
     "longitude": "108.65946000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Núi Thành",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130596,
@@ -129,7 +179,12 @@
     "latitude": "15.57364000",
     "longitude": "108.47403000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Tam Kỳ",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 165240,
+    "population_year": null
   },
   {
     "id": 168074,
@@ -141,6 +196,11 @@
     "latitude": "15.48819000",
     "longitude": "108.30736000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tiên Phước",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   }
 ]

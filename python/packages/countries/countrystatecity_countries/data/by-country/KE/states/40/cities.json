@@ -9,7 +9,12 @@
     "latitude": "-1.48256000",
     "longitude": "40.03341000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2738432",
+    "type": "adm1",
+    "native": "Hola",
+    "timezone": "Africa/Nairobi",
+    "population": 20912,
+    "population_year": null
   },
   {
     "id": 64808,
@@ -21,6 +26,11 @@
     "latitude": "-2.52565000",
     "longitude": "40.52620000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Pinni",
+    "timezone": "Africa/Nairobi",
+    "population": 4114,
+    "population_year": null
   }
 ]

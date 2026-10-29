@@ -9,7 +9,12 @@
     "latitude": "33.89927000",
     "longitude": "9.78496000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "بو عطوش",
+    "timezone": "Africa/Tunis",
+    "population": 2700,
+    "population_year": null
   },
   {
     "id": 106945,
@@ -21,7 +26,12 @@
     "latitude": "33.89152000",
     "longitude": "9.79629000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1324239",
+    "type": "city",
+    "native": "الحامة",
+    "timezone": "Africa/Tunis",
+    "population": 73512,
+    "population_year": null
   },
   {
     "id": 106952,
@@ -33,7 +43,12 @@
     "latitude": "33.88146000",
     "longitude": "10.09820000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "قابس",
+    "timezone": "Africa/Tunis",
+    "population": 116323,
+    "population_year": null
   },
   {
     "id": 106984,
@@ -45,6 +60,11 @@
     "latitude": "33.54445000",
     "longitude": "9.97157000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q338512",
+    "type": "city",
+    "native": "مطماطة",
+    "timezone": "Africa/Tunis",
+    "population": 2406,
+    "population_year": null
   }
 ]

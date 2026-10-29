@@ -9,7 +9,12 @@
     "latitude": "31.94809930",
     "longitude": "35.45056430",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2895271",
+    "type": "adm1",
+    "native": "العوجا",
+    "timezone": "Asia/Hebron",
+    "population": 19783,
+    "population_year": null
   },
   {
     "id": 154001,
@@ -21,7 +26,12 @@
     "latitude": "32.14143230",
     "longitude": "35.44660250",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2895719",
+    "type": "adm1",
+    "native": "الجفتلك",
+    "timezone": "Asia/Gaza",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153999,
@@ -33,6 +43,11 @@
     "latitude": "31.85950700",
     "longitude": "35.44390820",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5687",
+    "type": "adm1",
+    "native": "أريحا",
+    "timezone": "Asia/Gaza",
+    "population": null,
+    "population_year": null
   }
 ]

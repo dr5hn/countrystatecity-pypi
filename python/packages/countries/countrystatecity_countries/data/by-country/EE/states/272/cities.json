@@ -9,7 +9,12 @@
     "latitude": "59.33472000",
     "longitude": "26.14500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3043378",
+    "type": "town",
+    "native": "Kadrina",
+    "timezone": "Europe/Tallinn",
+    "population": 2208,
+    "population_year": null
   },
   {
     "id": 31733,
@@ -21,6 +26,11 @@
     "latitude": "59.35556000",
     "longitude": "25.99528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Vaiatu",
+    "timezone": "Europe/Tallinn",
+    "population": 102,
+    "population_year": null
   }
 ]

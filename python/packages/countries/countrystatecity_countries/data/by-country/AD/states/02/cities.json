@@ -9,7 +9,12 @@
     "latitude": "42.56760000",
     "longitude": "1.59756000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q386802",
+    "type": "adm1",
+    "native": "Canillo",
+    "timezone": "Europe/Andorra",
+    "population": 3292,
+    "population_year": null
   },
   {
     "id": 4,
@@ -21,6 +26,11 @@
     "latitude": "42.57952000",
     "longitude": "1.65362000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24413",
+    "type": "city",
+    "native": "El Tarter",
+    "timezone": "Europe/Andorra",
+    "population": 1052,
+    "population_year": null
   }
 ]

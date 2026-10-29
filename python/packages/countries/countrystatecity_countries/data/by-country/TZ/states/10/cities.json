@@ -9,7 +9,12 @@
     "latitude": "-5.24586000",
     "longitude": "39.76659000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q993159",
+    "type": "adm1",
+    "native": "Chake Chake",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 52047,
+    "population_year": null
   },
   {
     "id": 165624,
@@ -21,7 +26,12 @@
     "latitude": "-5.36667000",
     "longitude": "39.65000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1681898",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 23719,
+    "population_year": null
   },
   {
     "id": 109215,
@@ -33,7 +43,12 @@
     "latitude": "-5.38333000",
     "longitude": "39.70000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mtambile",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 6797,
+    "population_year": null
   },
   {
     "id": 109300,
@@ -45,6 +60,11 @@
     "latitude": "-5.40000000",
     "longitude": "39.68333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Uwelini",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 2472,
+    "population_year": null
   }
 ]

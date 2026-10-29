@@ -9,7 +9,12 @@
     "latitude": "37.79889000",
     "longitude": "31.07111000",
     "county_id": 7458,
-    "wikiDataId": null
+    "wikiDataId": "Q15995616",
+    "type": "municipality",
+    "native": "Aksu",
+    "timezone": "Europe/Istanbul",
+    "population": 1970,
+    "population_year": 2025
   },
   {
     "id": 107204,
@@ -21,7 +26,12 @@
     "latitude": "37.95083000",
     "longitude": "30.63861000",
     "county_id": 6885,
-    "wikiDataId": null
+    "wikiDataId": "Q753057",
+    "type": "municipality",
+    "native": "Atabey",
+    "timezone": "Europe/Istanbul",
+    "population": 12658,
+    "population_year": null
   },
   {
     "id": 107627,
@@ -33,7 +43,12 @@
     "latitude": "37.87462000",
     "longitude": "30.85042000",
     "county_id": 7023,
-    "wikiDataId": null
+    "wikiDataId": "Q1911174",
+    "type": "municipality",
+    "native": "Eğirdir",
+    "timezone": "Europe/Istanbul",
+    "population": 15832,
+    "population_year": 2025
   },
   {
     "id": 107653,
@@ -45,7 +60,12 @@
     "latitude": "38.12083000",
     "longitude": "31.01528000",
     "county_id": 7063,
-    "wikiDataId": null
+    "wikiDataId": "Q2623010",
+    "type": "municipality",
+    "native": "Gelendost",
+    "timezone": "Europe/Istanbul",
+    "population": 5172,
+    "population_year": 2025
   },
   {
     "id": 107707,
@@ -57,7 +77,12 @@
     "latitude": "37.95639000",
     "longitude": "30.51140000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1559368",
+    "type": "adm2",
+    "native": "Gönen",
+    "timezone": "Europe/Istanbul",
+    "population": 14137,
+    "population_year": null
   },
   {
     "id": 107989,
@@ -69,7 +94,12 @@
     "latitude": "37.94250000",
     "longitude": "30.30222000",
     "county_id": 7173,
-    "wikiDataId": null
+    "wikiDataId": "Q1004516",
+    "type": "municipality",
+    "native": "Keçiborlu",
+    "timezone": "Europe/Istanbul",
+    "population": 11083,
+    "population_year": null
   },
   {
     "id": 107850,
@@ -81,7 +111,12 @@
     "latitude": "37.76444000",
     "longitude": "30.55222000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q171031",
+    "type": "city",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 252677,
+    "population_year": 2025
   },
   {
     "id": 108935,
@@ -93,7 +128,12 @@
     "latitude": "38.07944000",
     "longitude": "31.36639000",
     "county_id": 7358,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Şarkikaraağaç",
+    "timezone": "Europe/Istanbul",
+    "population": 10270,
+    "population_year": 2025
   },
   {
     "id": 108436,
@@ -105,7 +145,12 @@
     "latitude": "38.10444000",
     "longitude": "30.54861000",
     "county_id": 7322,
-    "wikiDataId": null
+    "wikiDataId": "Q1937212",
+    "type": "municipality",
+    "native": "Senirkent",
+    "timezone": "Europe/Istanbul",
+    "population": 4240,
+    "population_year": 2025
   },
   {
     "id": 108526,
@@ -117,7 +162,12 @@
     "latitude": "37.51120000",
     "longitude": "30.95661000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1783527",
+    "type": "adm2",
+    "native": "Sütçüler",
+    "timezone": "Europe/Istanbul",
+    "population": 10707,
+    "population_year": null
   },
   {
     "id": 108624,
@@ -129,7 +179,12 @@
     "latitude": "38.07825000",
     "longitude": "30.45019000",
     "county_id": 7404,
-    "wikiDataId": null
+    "wikiDataId": "Q1952991",
+    "type": "municipality",
+    "native": "Uluborlu",
+    "timezone": "Europe/Istanbul",
+    "population": 5401,
+    "population_year": 2025
   },
   {
     "id": 108666,
@@ -141,7 +196,12 @@
     "latitude": "38.29556000",
     "longitude": "31.17778000",
     "county_id": 7420,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Yalvaç",
+    "timezone": "Europe/Istanbul",
+    "population": 46646,
+    "population_year": null
   },
   {
     "id": 108712,
@@ -153,6 +213,11 @@
     "latitude": "37.70778000",
     "longitude": "31.38639000",
     "county_id": 7703,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Yenişarbademli",
+    "timezone": "Europe/Istanbul",
+    "population": 2110,
+    "population_year": 2025
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "-10.13083000",
     "longitude": "-76.20472000",
     "county_id": 8260,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Ambos",
+    "timezone": "America/Lima",
+    "population": 6865,
+    "population_year": null
   },
   {
     "id": 166873,
@@ -21,7 +26,12 @@
     "latitude": "-10.13083000",
     "longitude": "-76.20472000",
     "county_id": 8260,
-    "wikiDataId": null
+    "wikiDataId": "Q3317423",
+    "type": "city",
+    "native": "Ambo",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80646,
@@ -33,7 +43,12 @@
     "latitude": "-8.99480000",
     "longitude": "-76.81027000",
     "county_id": 8262,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Huacaybamba",
+    "timezone": "America/Lima",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 80665,
@@ -45,7 +60,12 @@
     "latitude": "-9.93062000",
     "longitude": "-76.24223000",
     "county_id": 8259,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Huánuco",
+    "timezone": "America/Lima",
+    "population": 196627,
+    "population_year": null
   },
   {
     "id": 80699,
@@ -57,7 +77,12 @@
     "latitude": "-10.20055000",
     "longitude": "-76.70359000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q188098",
+    "type": "city",
+    "native": "Lauricocha",
+    "timezone": "America/Lima",
+    "population": 93,
+    "population_year": null
   },
   {
     "id": 80703,
@@ -69,7 +94,12 @@
     "latitude": "-9.41667000",
     "longitude": "-76.78333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3344864",
+    "type": "city",
+    "native": "Llata",
+    "timezone": "America/Lima",
+    "population": 4585,
+    "population_year": null
   },
   {
     "id": 80821,
@@ -81,7 +111,12 @@
     "latitude": "-9.91667000",
     "longitude": "-76.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2088810",
+    "type": "province",
+    "native": "Provincia de Dos de Mayo",
+    "timezone": "America/Lima",
+    "population": 33258,
+    "population_year": null
   },
   {
     "id": 80828,
@@ -93,7 +128,12 @@
     "latitude": "-9.25000000",
     "longitude": "-76.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1819840",
+    "type": "province",
+    "native": "Provincia de Huamalíes",
+    "timezone": "America/Lima",
+    "population": 52039,
+    "population_year": null
   },
   {
     "id": 80842,
@@ -105,7 +145,12 @@
     "latitude": "-9.66667000",
     "longitude": "-76.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2100624",
+    "type": "province",
+    "native": "Provincia de Huánuco",
+    "timezone": "America/Lima",
+    "population": 293397,
+    "population_year": null
   },
   {
     "id": 80859,
@@ -117,7 +162,12 @@
     "latitude": "-8.75000000",
     "longitude": "-76.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q764487",
+    "type": "province",
+    "native": "Provincia de Marañón",
+    "timezone": "America/Lima",
+    "population": 26622,
+    "population_year": null
   },
   {
     "id": 80869,
@@ -129,7 +179,12 @@
     "latitude": "-9.95262000",
     "longitude": "-75.81390000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2084641",
+    "type": "province",
+    "native": "Provincia de Pachítea",
+    "timezone": "America/Lima",
+    "population": 49159,
+    "population_year": null
   },
   {
     "id": 80917,
@@ -141,7 +196,12 @@
     "latitude": "-9.36696000",
     "longitude": "-75.08958000",
     "county_id": 8267,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Puerto Inca",
+    "timezone": "America/Lima",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 80952,
@@ -153,7 +213,12 @@
     "latitude": "-10.13818000",
     "longitude": "-76.62288000",
     "county_id": 8268,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "San Miguel de Cauri",
+    "timezone": "America/Lima",
+    "population": 5326,
+    "population_year": null
   },
   {
     "id": 80992,
@@ -165,7 +230,12 @@
     "latitude": "-9.29532000",
     "longitude": "-75.99574000",
     "county_id": 8264,
-    "wikiDataId": null
+    "wikiDataId": "Q1974467",
+    "type": "city",
+    "native": "Tingo María",
+    "timezone": "America/Lima",
+    "population": 46191,
+    "population_year": null
   },
   {
     "id": 81014,
@@ -177,7 +247,12 @@
     "latitude": "-10.24111000",
     "longitude": "-76.64556000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Yanacancha",
+    "timezone": "America/Lima",
+    "population": 23175,
+    "population_year": null
   },
   {
     "id": 81016,
@@ -189,6 +264,11 @@
     "latitude": "-9.80263000",
     "longitude": "-76.59516000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2088849",
+    "type": "province",
+    "native": "Yarowilca",
+    "timezone": "America/Lima",
+    "population": 19897,
+    "population_year": null
   }
 ]

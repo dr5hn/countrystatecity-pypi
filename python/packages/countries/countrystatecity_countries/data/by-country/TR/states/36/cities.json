@@ -9,7 +9,12 @@
     "latitude": "40.74093000",
     "longitude": "43.61432000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q424414",
+    "type": "adm2",
+    "native": "Akyaka",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 107189,
@@ -21,7 +26,12 @@
     "latitude": "40.84522000",
     "longitude": "43.32747000",
     "county_id": 6880,
-    "wikiDataId": null
+    "wikiDataId": "Q49100846",
+    "type": "municipality",
+    "native": "Arpaçay",
+    "timezone": "Europe/Istanbul",
+    "population": 2264,
+    "population_year": 2025
   },
   {
     "id": 107494,
@@ -33,7 +43,12 @@
     "latitude": "40.37515000",
     "longitude": "43.41361000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1027545",
+    "type": "adm2",
+    "native": "Digor",
+    "timezone": "Europe/Istanbul",
+    "population": 22282,
+    "population_year": null
   },
   {
     "id": 107960,
@@ -45,7 +60,12 @@
     "latitude": "40.15669000",
     "longitude": "43.13424000",
     "county_id": 7142,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Kağızman",
+    "timezone": "Europe/Istanbul",
+    "population": 21666,
+    "population_year": 2025
   },
   {
     "id": 107931,
@@ -57,7 +77,12 @@
     "latitude": "40.59825000",
     "longitude": "43.08548000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q127063",
+    "type": "city",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 96915,
+    "population_year": 2025
   },
   {
     "id": 108401,
@@ -69,7 +94,12 @@
     "latitude": "40.32769000",
     "longitude": "42.58705000",
     "county_id": 7308,
-    "wikiDataId": null
+    "wikiDataId": "Q2151715",
+    "type": "municipality",
+    "native": "Sarıkamış",
+    "timezone": "Europe/Istanbul",
+    "population": 15433,
+    "population_year": 2025
   },
   {
     "id": 108430,
@@ -81,7 +111,12 @@
     "latitude": "40.45772000",
     "longitude": "42.78287000",
     "county_id": 7321,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Selim",
+    "timezone": "Europe/Istanbul",
+    "population": 4557,
+    "population_year": null
   },
   {
     "id": 108511,
@@ -93,6 +128,11 @@
     "latitude": "40.77910000",
     "longitude": "43.12769000",
     "county_id": 7352,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Susuz",
+    "timezone": "Europe/Istanbul",
+    "population": 4230,
+    "population_year": null
   }
 ]

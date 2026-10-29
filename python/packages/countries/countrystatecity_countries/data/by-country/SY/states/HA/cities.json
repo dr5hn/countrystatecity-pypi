@@ -9,7 +9,12 @@
     "latitude": "37.07279000",
     "longitude": "40.65199000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "الدرباسية",
+    "timezone": "Asia/Damascus",
+    "population": 21481,
+    "population_year": null
   },
   {
     "id": 104957,
@@ -21,7 +26,12 @@
     "latitude": "36.50237000",
     "longitude": "40.74772000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q311321",
+    "type": "adm1",
+    "native": "الحسكة",
+    "timezone": "Asia/Damascus",
+    "population": 422445,
+    "population_year": null
   },
   {
     "id": 104950,
@@ -33,7 +43,12 @@
     "latitude": "37.17701000",
     "longitude": "42.14006000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2603127",
+    "type": "adm2",
+    "native": "المالكية",
+    "timezone": "Asia/Damascus",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 104955,
@@ -45,7 +60,12 @@
     "latitude": "37.05215000",
     "longitude": "41.23142000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q212757",
+    "type": "adm2",
+    "native": "القامشلي",
+    "timezone": "Asia/Damascus",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 104960,
@@ -57,7 +77,12 @@
     "latitude": "36.94113000",
     "longitude": "41.90157000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4702792",
+    "type": "district",
+    "native": "منطقة المالكية",
+    "timezone": "Asia/Damascus",
+    "population": 191994,
+    "population_year": null
   },
   {
     "id": 104967,
@@ -69,6 +94,11 @@
     "latitude": "37.10417000",
     "longitude": "40.93000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q481427",
+    "type": "adm3",
+    "native": "أمود",
+    "timezone": "Asia/Damascus",
+    "population": 26821,
+    "population_year": null
   }
 ]

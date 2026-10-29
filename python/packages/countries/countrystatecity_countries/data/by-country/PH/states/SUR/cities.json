@@ -9,7 +9,12 @@
     "latitude": "9.40972000",
     "longitude": "125.89750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Adlay",
+    "timezone": "Asia/Manila",
+    "population": 2548,
+    "population_year": null
   },
   {
     "id": 81240,
@@ -21,7 +26,12 @@
     "latitude": "8.53083000",
     "longitude": "126.07028000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31465217",
+    "type": "section",
+    "native": "Amaga",
+    "timezone": "Asia/Manila",
+    "population": 2230,
+    "population_year": null
   },
   {
     "id": 81308,
@@ -33,7 +43,12 @@
     "latitude": "8.88781000",
     "longitude": "126.31120000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31468241",
+    "type": "section",
+    "native": "Aras-asan",
+    "timezone": "Asia/Manila",
+    "population": 5099,
+    "population_year": null
   },
   {
     "id": 144379,
@@ -45,7 +60,12 @@
     "latitude": "8.93166667",
     "longitude": "126.28944444",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31473676",
+    "type": "city",
+    "native": "Bacolod",
+    "timezone": "Asia/Manila",
+    "population": 2171,
+    "population_year": null
   },
   {
     "id": 144386,
@@ -57,7 +77,12 @@
     "latitude": "8.55000000",
     "longitude": "126.20000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155471",
+    "type": "city",
+    "native": "Barobo",
+    "timezone": "Asia/Manila",
+    "population": 53729,
+    "population_year": null
   },
   {
     "id": 144389,
@@ -69,7 +94,12 @@
     "latitude": "8.96666667",
     "longitude": "126.26666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155499",
+    "type": "adm3",
+    "native": "Bayabas",
+    "timezone": "Asia/Manila",
+    "population": 9016,
+    "population_year": null
   },
   {
     "id": 81652,
@@ -81,7 +111,12 @@
     "latitude": "8.97600390",
     "longitude": "126.22479810",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155499",
+    "type": "adm3",
+    "native": "Bayabas",
+    "timezone": "Asia/Manila",
+    "population": 9016,
+    "population_year": null
   },
   {
     "id": 81695,
@@ -93,7 +128,12 @@
     "latitude": "8.31722000",
     "longitude": "126.28111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31500778",
+    "type": "section",
+    "native": "Bigaan",
+    "timezone": "Asia/Manila",
+    "population": 2744,
+    "population_year": null
   },
   {
     "id": 81737,
@@ -105,7 +145,12 @@
     "latitude": "8.20949370",
     "longitude": "126.17006570",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q866414",
+    "type": "city",
+    "native": "BISLIG",
+    "timezone": "Asia/Manila",
+    "population": 99872,
+    "population_year": null
   },
   {
     "id": 144420,
@@ -117,7 +162,12 @@
     "latitude": "8.20996000",
     "longitude": "126.30947000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31559049",
+    "type": "city",
+    "native": "City of Bislig",
+    "timezone": "Asia/Manila",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 82000,
@@ -129,7 +179,12 @@
     "latitude": "8.91805556",
     "longitude": "126.30166667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155524",
+    "type": "city",
+    "native": "Cagwait",
+    "timezone": "Asia/Manila",
+    "population": 22305,
+    "population_year": null
   },
   {
     "id": 82128,
@@ -141,7 +196,12 @@
     "latitude": "9.33555556",
     "longitude": "125.97694444",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155536",
+    "type": "municipality",
+    "native": "Cantilan",
+    "timezone": "Asia/Manila",
+    "population": 34233,
+    "population_year": null
   },
   {
     "id": 154830,
@@ -153,7 +213,12 @@
     "latitude": "9.22888889",
     "longitude": "126.01666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155548",
+    "type": "municipality",
+    "native": "Carmen",
+    "timezone": "Asia/Manila",
+    "population": 79741,
+    "population_year": null
   },
   {
     "id": 82181,
@@ -165,7 +230,12 @@
     "latitude": "9.36833333",
     "longitude": "125.94944444",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155558",
+    "type": "city",
+    "native": "Carrascal",
+    "timezone": "Asia/Manila",
+    "population": 25672,
+    "population_year": null
   },
   {
     "id": 82299,
@@ -177,7 +247,12 @@
     "latitude": "9.27527778",
     "longitude": "126.19111111",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155568",
+    "type": "city",
+    "native": "Cortes",
+    "timezone": "Asia/Manila",
+    "population": 18023,
+    "population_year": null
   },
   {
     "id": 82560,
@@ -189,7 +264,12 @@
     "latitude": "8.53153000",
     "longitude": "126.24117000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Gamut",
+    "timezone": "Asia/Manila",
+    "population": 3388,
+    "population_year": 2024
   },
   {
     "id": 82693,
@@ -201,7 +281,12 @@
     "latitude": "8.41820630",
     "longitude": "126.25166010",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155576",
+    "type": "adm3",
+    "native": "Hinatuan",
+    "timezone": "Asia/Manila",
+    "population": 44475,
+    "population_year": null
   },
   {
     "id": 83025,
@@ -213,7 +298,12 @@
     "latitude": "9.23222222",
     "longitude": "126.05916667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155582",
+    "type": "city",
+    "native": "Lanuza",
+    "timezone": "Asia/Manila",
+    "population": 13750,
+    "population_year": null
   },
   {
     "id": 83074,
@@ -225,7 +315,12 @@
     "latitude": "8.63295833",
     "longitude": "126.09321667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155590",
+    "type": "adm3",
+    "native": "Lianga",
+    "timezone": "Asia/Manila",
+    "population": 34213,
+    "population_year": null
   },
   {
     "id": 83140,
@@ -237,7 +332,12 @@
     "latitude": "8.03805278",
     "longitude": "126.41266389",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155598",
+    "type": "city",
+    "native": "Lingig",
+    "timezone": "Asia/Manila",
+    "population": 35203,
+    "population_year": null
   },
   {
     "id": 83189,
@@ -249,7 +349,12 @@
     "latitude": "8.33492000",
     "longitude": "126.33366000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31811962",
+    "type": "section",
+    "native": "Loyola",
+    "timezone": "Asia/Manila",
+    "population": 2673,
+    "population_year": null
   },
   {
     "id": 83265,
@@ -261,7 +366,12 @@
     "latitude": "9.18556000",
     "longitude": "126.17056000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31812034",
+    "type": "section",
+    "native": "Mabahin",
+    "timezone": "Asia/Manila",
+    "population": 2327,
+    "population_year": null
   },
   {
     "id": 83313,
@@ -273,7 +383,12 @@
     "latitude": "9.26194444",
     "longitude": "125.96472222",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155605",
+    "type": "city",
+    "native": "Madrid",
+    "timezone": "Asia/Manila",
+    "population": 16872,
+    "population_year": null
   },
   {
     "id": 83582,
@@ -285,7 +400,12 @@
     "latitude": "8.80083333",
     "longitude": "126.29833333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155611",
+    "type": "city",
+    "native": "Marihatag",
+    "timezone": "Asia/Manila",
+    "population": 19730,
+    "population_year": null
   },
   {
     "id": 83986,
@@ -297,7 +417,12 @@
     "latitude": "9.32935000",
     "longitude": "125.93380000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31462171",
+    "type": "section",
+    "native": "Panikian",
+    "timezone": "Asia/Manila",
+    "population": 2103,
+    "population_year": null
   },
   {
     "id": 144485,
@@ -309,7 +434,12 @@
     "latitude": "8.74366389",
     "longitude": "126.22143333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155618",
+    "type": "city",
+    "native": "San Agustin",
+    "timezone": "Asia/Manila",
+    "population": 23698,
+    "population_year": null
   },
   {
     "id": 144495,
@@ -321,7 +451,12 @@
     "latitude": "8.88333333",
     "longitude": "126.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155625",
+    "type": "city",
+    "native": "San Miguel",
+    "timezone": "Asia/Manila",
+    "population": 15992,
+    "population_year": null
   },
   {
     "id": 154832,
@@ -333,7 +468,12 @@
     "latitude": "8.92630000",
     "longitude": "126.03380000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155625",
+    "type": "city",
+    "native": "San Miguel",
+    "timezone": "Asia/Manila",
+    "population": 15992,
+    "population_year": null
   },
   {
     "id": 84936,
@@ -345,7 +485,12 @@
     "latitude": "8.45777778",
     "longitude": "126.15777778",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155633",
+    "type": "city",
+    "native": "Tagbina",
+    "timezone": "Asia/Manila",
+    "population": 41157,
+    "population_year": null
   },
   {
     "id": 84944,
@@ -357,7 +502,12 @@
     "latitude": "9.01916667",
     "longitude": "126.23333333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155648",
+    "type": "adm3",
+    "native": "Tago",
+    "timezone": "Asia/Manila",
+    "population": 40097,
+    "population_year": null
   },
   {
     "id": 85031,
@@ -369,7 +519,12 @@
     "latitude": "9.07888889",
     "longitude": "126.19861111",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q155674",
+    "type": "adm3",
+    "native": "Tandag",
+    "timezone": "Asia/Manila",
+    "population": 63098,
+    "population_year": null
   },
   {
     "id": 85099,
@@ -381,7 +536,12 @@
     "latitude": "8.29861000",
     "longitude": "126.33889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31555326",
+    "type": "section",
+    "native": "Tidman",
+    "timezone": "Asia/Manila",
+    "population": 3154,
+    "population_year": null
   },
   {
     "id": 85101,
@@ -393,7 +553,12 @@
     "latitude": "9.20889000",
     "longitude": "126.17611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Tigao",
+    "timezone": "Asia/Manila",
+    "population": 2190,
+    "population_year": 2024
   },
   {
     "id": 85254,
@@ -405,6 +570,11 @@
     "latitude": "8.53556000",
     "longitude": "126.22865000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31567927",
+    "type": "section",
+    "native": "Unidad",
+    "timezone": "Asia/Manila",
+    "population": 3344,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "10.63333000",
     "longitude": "-4.76667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q639674",
+    "type": "adm1",
+    "native": "Banfora",
+    "timezone": "Africa/Ouagadougou",
+    "population": 117200,
+    "population_year": null
   },
   {
     "id": 9200,
@@ -21,7 +26,12 @@
     "latitude": "10.33333000",
     "longitude": "-4.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1074496",
+    "type": "province",
+    "native": "Province de la Comoé",
+    "timezone": "Africa/Ouagadougou",
+    "population": 632695,
+    "population_year": null
   },
   {
     "id": 9204,
@@ -33,7 +43,12 @@
     "latitude": "10.66667000",
     "longitude": "-5.20000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q977607",
+    "type": "city",
+    "native": "Province de Léraba",
+    "timezone": "Africa/Ouagadougou",
+    "population": 179367,
+    "population_year": null
   },
   {
     "id": 9241,
@@ -45,6 +60,11 @@
     "latitude": "10.66667000",
     "longitude": "-5.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1507575",
+    "type": "adm2",
+    "native": "Sindou",
+    "timezone": "Africa/Ouagadougou",
+    "population": 7053,
+    "population_year": null
   }
 ]

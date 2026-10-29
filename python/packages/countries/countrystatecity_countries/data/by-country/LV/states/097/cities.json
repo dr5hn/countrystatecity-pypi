@@ -9,7 +9,12 @@
     "latitude": "57.50498000",
     "longitude": "22.35041000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q962653",
+    "type": "city",
+    "native": "Dundaga",
+    "timezone": "Europe/Riga",
+    "population": 1500,
+    "population_year": null
   },
   {
     "id": 66949,
@@ -21,7 +26,12 @@
     "latitude": "57.50146000",
     "longitude": "22.80881000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Roja",
+    "timezone": "Europe/Riga",
+    "population": 2126,
+    "population_year": null
   },
   {
     "id": 66955,
@@ -33,7 +43,12 @@
     "latitude": "57.04577000",
     "longitude": "22.57261000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q650475",
+    "type": "city",
+    "native": "Savila",
+    "timezone": "Europe/Riga",
+    "population": 1353,
+    "population_year": null
   },
   {
     "id": 66968,
@@ -45,7 +60,12 @@
     "latitude": "57.14497000",
     "longitude": "22.53482000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q909654",
+    "type": "city",
+    "native": "Stende",
+    "timezone": "Europe/Riga",
+    "population": 1501,
+    "population_year": null
   },
   {
     "id": 66970,
@@ -57,7 +77,12 @@
     "latitude": "57.24562000",
     "longitude": "22.58137000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q520405",
+    "type": "adm1",
+    "native": "Talsi",
+    "timezone": "Europe/Riga",
+    "population": 8673,
+    "population_year": null
   },
   {
     "id": 66976,
@@ -69,6 +94,11 @@
     "latitude": "57.37068000",
     "longitude": "22.59188000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q846341",
+    "type": "city",
+    "native": "Valdemārpils",
+    "timezone": "Europe/Riga",
+    "population": 1147,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "51.61185000",
     "longitude": "0.08612000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Grange Hill",
+    "timezone": "Europe/London",
+    "population": 7602,
+    "population_year": null
   },
   {
     "id": 49780,
@@ -21,7 +26,12 @@
     "latitude": "51.60836000",
     "longitude": "0.10716000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Hainault",
+    "timezone": "Europe/London",
+    "population": 7071,
+    "population_year": null
   },
   {
     "id": 51974,
@@ -33,6 +43,11 @@
     "latitude": "51.60938000",
     "longitude": "0.02329000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2679243",
+    "type": "city",
+    "native": "Woodford Green",
+    "timezone": "Europe/London",
+    "population": 22803,
+    "population_year": null
   }
 ]

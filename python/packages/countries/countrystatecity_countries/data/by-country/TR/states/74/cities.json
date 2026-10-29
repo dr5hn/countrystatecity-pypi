@@ -9,7 +9,12 @@
     "latitude": "41.74633000",
     "longitude": "32.38633000",
     "county_id": 7464,
-    "wikiDataId": null
+    "wikiDataId": "Q15960770",
+    "type": "municipality",
+    "native": "Amasra",
+    "timezone": "Europe/Istanbul",
+    "population": 6012,
+    "population_year": 2025
   },
   {
     "id": 108057,
@@ -21,7 +26,12 @@
     "latitude": "41.83781000",
     "longitude": "32.71621000",
     "county_id": 7211,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Kurucaşile",
+    "timezone": "Europe/Istanbul",
+    "population": 2070,
+    "population_year": 2025
   },
   {
     "id": 107286,
@@ -33,7 +43,12 @@
     "latitude": "41.63583000",
     "longitude": "32.33750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q211805",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 89170,
+    "population_year": 2025
   },
   {
     "id": 108629,
@@ -45,6 +60,11 @@
     "latitude": "41.59373000",
     "longitude": "32.65066000",
     "county_id": 7406,
-    "wikiDataId": null
+    "wikiDataId": "Q14510654",
+    "type": "municipality",
+    "native": "Ulus",
+    "timezone": "Europe/Istanbul",
+    "population": 5519,
+    "population_year": 2025
   }
 ]

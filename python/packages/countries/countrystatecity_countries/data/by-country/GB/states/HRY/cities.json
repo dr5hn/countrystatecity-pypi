@@ -9,7 +9,12 @@
     "latitude": "51.57971000",
     "longitude": "-0.12373000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Crouch End",
+    "timezone": "Europe/London",
+    "population": 10075,
+    "population_year": null
   },
   {
     "id": 49815,
@@ -21,6 +26,11 @@
     "latitude": "51.58240000",
     "longitude": "-0.09956000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Harringay",
+    "timezone": "Europe/London",
+    "population": 16500,
+    "population_year": null
   }
 ]

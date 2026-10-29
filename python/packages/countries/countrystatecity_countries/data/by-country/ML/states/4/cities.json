@@ -9,7 +9,12 @@
     "latitude": "13.07489000",
     "longitude": "-6.57171000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Baroueli",
+    "timezone": "Africa/Bamako",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 67594,
@@ -21,7 +26,12 @@
     "latitude": "13.17895000",
     "longitude": "-5.01617000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1902391",
+    "type": "city",
+    "native": "Cerle de San",
+    "timezone": "Africa/Bamako",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 67618,
@@ -33,7 +43,12 @@
     "latitude": "13.96410000",
     "longitude": "-5.35791000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Ké-Macina",
+    "timezone": "Africa/Bamako",
+    "population": 15750,
+    "population_year": null
   },
   {
     "id": 67610,
@@ -45,7 +60,12 @@
     "latitude": "12.84217000",
     "longitude": "-4.92450000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27690425",
+    "type": "city",
+    "native": "Kinmmparananan",
+    "timezone": "Africa/Bamako",
+    "population": 6014,
+    "population_year": null
   },
   {
     "id": 67619,
@@ -57,7 +77,12 @@
     "latitude": "13.70210000",
     "longitude": "-6.06590000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q976115",
+    "type": "city",
+    "native": "Markala",
+    "timezone": "Africa/Bamako",
+    "population": 53738,
+    "population_year": null
   },
   {
     "id": 67624,
@@ -69,7 +94,12 @@
     "latitude": "13.30335000",
     "longitude": "-4.89562000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q950460",
+    "type": "adm2",
+    "native": "San",
+    "timezone": "Africa/Bamako",
+    "population": 103227,
+    "population_year": null
   },
   {
     "id": 67627,
@@ -81,7 +111,12 @@
     "latitude": "13.43170000",
     "longitude": "-6.21570000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Ségou",
+    "timezone": "Africa/Bamako",
+    "population": 205787,
+    "population_year": null
   },
   {
     "id": 67626,
@@ -93,6 +128,11 @@
     "latitude": "14.73280000",
     "longitude": "-6.12190000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2257485",
+    "type": "city",
+    "native": "Sokolo",
+    "timezone": "Africa/Bamako",
+    "population": 4374,
+    "population_year": null
   }
 ]

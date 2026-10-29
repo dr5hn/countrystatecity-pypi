@@ -9,7 +9,12 @@
     "latitude": "8.31223000",
     "longitude": "80.41306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5724",
+    "type": "adm1",
+    "native": "අනුරාධපුර",
+    "timezone": "Asia/Colombo",
+    "population": 63208,
+    "population_year": null
   },
   {
     "id": 66452,
@@ -21,7 +26,12 @@
     "latitude": "8.33333000",
     "longitude": "80.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q612614",
+    "type": "district",
+    "native": "අනුරාධපුර දිස්ත්රික්කය",
+    "timezone": "Asia/Colombo",
+    "population": 5000,
+    "population_year": null
   },
   {
     "id": 66509,
@@ -33,7 +43,12 @@
     "latitude": "8.35930000",
     "longitude": "80.51030000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "මහිනතේල්",
+    "timezone": "Asia/Colombo",
+    "population": 5000,
+    "population_year": null
   },
   {
     "id": 66523,
@@ -45,7 +60,12 @@
     "latitude": "7.93965000",
     "longitude": "81.00274000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q394443",
+    "type": "city",
+    "native": "පොලොන්නරුව",
+    "timezone": "Asia/Colombo",
+    "population": 13900,
+    "population_year": null
   },
   {
     "id": 66524,
@@ -57,6 +77,11 @@
     "latitude": "8.00000000",
     "longitude": "81.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q931057",
+    "type": "district",
+    "native": "පොලොන්නරුව දිස්ත්රික්කය",
+    "timezone": "Asia/Colombo",
+    "population": 13900,
+    "population_year": null
   }
 ]

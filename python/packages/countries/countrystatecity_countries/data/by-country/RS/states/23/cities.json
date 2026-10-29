@@ -9,7 +9,12 @@
     "latitude": "43.03962330",
     "longitude": "21.50229300",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2041762",
+    "type": "city",
+    "native": "Бојник",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 155050,
@@ -21,7 +26,12 @@
     "latitude": "42.81226490",
     "longitude": "22.26885720",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q573651",
+    "type": "city",
+    "native": "Црна Трава",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97239,
@@ -33,7 +43,12 @@
     "latitude": "44.34300000",
     "longitude": "19.72333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Каменица",
+    "timezone": "Europe/Belgrade",
+    "population": 1371,
+    "population_year": null
   },
   {
     "id": 155048,
@@ -45,7 +60,12 @@
     "latitude": "42.92312940",
     "longitude": "21.71589360",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3448747",
+    "type": "adm3",
+    "native": "Либан",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 97272,
@@ -57,7 +77,12 @@
     "latitude": "42.99806000",
     "longitude": "21.94611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q192606",
+    "type": "city",
+    "native": "Лесковац",
+    "timezone": "Europe/Belgrade",
+    "population": 94758,
+    "population_year": null
   },
   {
     "id": 155049,
@@ -69,7 +94,12 @@
     "latitude": "42.83278560",
     "longitude": "21.53388900",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3448696",
+    "type": "city",
+    "native": "Медвеђа",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 155047,
@@ -81,6 +111,11 @@
     "latitude": "42.96648980",
     "longitude": "22.09399660",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1649631",
+    "type": "municipality",
+    "native": "Власотинце",
+    "timezone": "Europe/Belgrade",
+    "population": 25695,
+    "population_year": null
   }
 ]

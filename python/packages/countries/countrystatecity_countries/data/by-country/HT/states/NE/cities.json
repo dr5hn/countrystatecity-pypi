@@ -9,7 +9,12 @@
     "latitude": "19.56667000",
     "longitude": "-71.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Arrondissement de Fort Liberté",
+    "timezone": "America/Port-au-Prince",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 55069,
@@ -21,7 +26,12 @@
     "latitude": "19.55000000",
     "longitude": "-71.98333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Arrondissement du Trou du Nord",
+    "timezone": "America/Port-au-Prince",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 55077,
@@ -33,7 +43,12 @@
     "latitude": "19.69274000",
     "longitude": "-72.01733000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Caracol",
+    "timezone": "America/Port-au-Prince",
+    "population": 1549,
+    "population_year": null
   },
   {
     "id": 55078,
@@ -45,7 +60,12 @@
     "latitude": "19.37795000",
     "longitude": "-71.83030000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2638036",
+    "type": "city",
+    "native": "Carice",
+    "timezone": "America/Port-au-Prince",
+    "population": 2104,
+    "population_year": null
   },
   {
     "id": 55093,
@@ -57,7 +77,12 @@
     "latitude": "19.65476000",
     "longitude": "-71.81451000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Dérac",
+    "timezone": "America/Port-au-Prince",
+    "population": 1855,
+    "population_year": null
   },
   {
     "id": 55096,
@@ -69,7 +94,12 @@
     "latitude": "19.61549000",
     "longitude": "-71.77792000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Ferrier",
+    "timezone": "America/Port-au-Prince",
+    "population": 3804,
+    "population_year": null
   },
   {
     "id": 55101,
@@ -81,7 +111,12 @@
     "latitude": "19.66273000",
     "longitude": "-71.83798000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Fort Liberté",
+    "timezone": "America/Port-au-Prince",
+    "population": 11465,
+    "population_year": null
   },
   {
     "id": 55131,
@@ -93,7 +128,12 @@
     "latitude": "19.40815000",
     "longitude": "-71.78132000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Montòrganize",
+    "timezone": "America/Port-au-Prince",
+    "population": 2104,
+    "population_year": null
   },
   {
     "id": 55135,
@@ -105,7 +145,12 @@
     "latitude": "19.54934000",
     "longitude": "-71.72475000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1013066",
+    "type": "city",
+    "native": "Ouanaminthe",
+    "timezone": "America/Port-au-Prince",
+    "population": 10118,
+    "population_year": null
   },
   {
     "id": 55136,
@@ -117,7 +162,12 @@
     "latitude": "19.52201000",
     "longitude": "-71.92323000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Perche",
+    "timezone": "America/Port-au-Prince",
+    "population": 1889,
+    "population_year": null
   },
   {
     "id": 55140,
@@ -129,7 +179,12 @@
     "latitude": "19.67525000",
     "longitude": "-71.89691000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Phaéton",
+    "timezone": "America/Port-au-Prince",
+    "population": 2297,
+    "population_year": null
   },
   {
     "id": 164796,
@@ -141,7 +196,12 @@
     "latitude": "19.63634000",
     "longitude": "-71.95483000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2398260",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Port-au-Prince",
+    "population": 21328,
+    "population_year": null
   },
   {
     "id": 55165,
@@ -153,7 +213,12 @@
     "latitude": "19.61668000",
     "longitude": "-72.02442000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Trou du Nord",
+    "timezone": "America/Port-au-Prince",
+    "population": 10569,
+    "population_year": null
   },
   {
     "id": 55167,
@@ -165,6 +230,11 @@
     "latitude": "19.48333000",
     "longitude": "-71.76667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Wanament",
+    "timezone": "America/Port-au-Prince",
+    "population": null,
+    "population_year": null
   }
 ]

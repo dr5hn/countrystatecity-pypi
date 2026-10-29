@@ -9,7 +9,12 @@
     "latitude": "39.52003000",
     "longitude": "47.03190000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q157919",
+    "type": "city",
+    "native": "Hadrut",
+    "timezone": "Asia/Baku",
+    "population": 2523,
+    "population_year": null
   },
   {
     "id": 8125,
@@ -21,7 +26,12 @@
     "latitude": "39.79496000",
     "longitude": "47.11170000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Novyy Karanlug",
+    "timezone": "Asia/Baku",
+    "population": 5079,
+    "population_year": null
   },
   {
     "id": 8155,
@@ -33,6 +43,11 @@
     "latitude": "39.67669000",
     "longitude": "46.95123000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2657762",
+    "type": "city",
+    "native": "Qırmızı Bazar",
+    "timezone": "Asia/Baku",
+    "population": 1211,
+    "population_year": null
   }
 ]

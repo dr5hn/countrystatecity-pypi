@@ -9,7 +9,12 @@
     "latitude": "27.05000000",
     "longitude": "14.40000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الجديد",
+    "timezone": "Africa/Tripoli",
+    "population": 126386,
+    "population_year": null
   },
   {
     "id": 67028,
@@ -21,6 +26,11 @@
     "latitude": "27.03766000",
     "longitude": "14.42832000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q208389",
+    "type": "adm1",
+    "native": "صبحا",
+    "timezone": "Africa/Tripoli",
+    "population": 149329,
+    "population_year": null
   }
 ]

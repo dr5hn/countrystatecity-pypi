@@ -9,7 +9,12 @@
     "latitude": "2.76030000",
     "longitude": "46.32220000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q348107",
+    "type": "city",
+    "native": "Cadale",
+    "timezone": "Africa/Mogadishu",
+    "population": 5385,
+    "population_year": null
   },
   {
     "id": 104803,
@@ -21,7 +26,12 @@
     "latitude": "2.78087000",
     "longitude": "45.50048000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q646574",
+    "type": "adm1",
+    "native": "Jawhar",
+    "timezone": "Africa/Mogadishu",
+    "population": 47086,
+    "population_year": null
   },
   {
     "id": 104808,
@@ -33,6 +43,11 @@
     "latitude": "2.97260000",
     "longitude": "45.53470000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mahaddayweyne",
+    "timezone": "Africa/Mogadishu",
+    "population": 8273,
+    "population_year": null
   }
 ]

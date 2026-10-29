@@ -9,7 +9,12 @@
     "latitude": "47.89137000",
     "longitude": "28.29312000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2072887",
+    "type": "adm1",
+    "native": "Florești",
+    "timezone": "Europe/Chisinau",
+    "population": 16759,
+    "population_year": null
   },
   {
     "id": 67304,
@@ -21,7 +26,12 @@
     "latitude": "47.85482000",
     "longitude": "28.37679000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2628898",
+    "type": "city",
+    "native": "Ghindești",
+    "timezone": "Europe/Chisinau",
+    "population": 2100,
+    "population_year": null
   },
   {
     "id": 67313,
@@ -33,6 +43,11 @@
     "latitude": "47.86897000",
     "longitude": "28.24109000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2608314",
+    "type": "city",
+    "native": "Mărculești",
+    "timezone": "Europe/Chisinau",
+    "population": 2400,
+    "population_year": null
   }
 ]

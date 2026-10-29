@@ -9,7 +9,12 @@
     "latitude": "51.57750000",
     "longitude": "-4.04806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4918101",
+    "type": "adm3",
+    "native": "Bishopston",
+    "timezone": "Europe/London",
+    "population": 3229,
+    "population_year": null
   },
   {
     "id": 49042,
@@ -21,7 +26,12 @@
     "latitude": "51.68333000",
     "longitude": "-3.90000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Clydach",
+    "timezone": "Europe/London",
+    "population": 19307,
+    "population_year": null
   },
   {
     "id": 49165,
@@ -33,7 +43,12 @@
     "latitude": "51.63448000",
     "longitude": "-4.12937000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Crofty",
+    "timezone": "Europe/London",
+    "population": 1012,
+    "population_year": null
   },
   {
     "id": 49684,
@@ -45,7 +60,12 @@
     "latitude": "51.66931000",
     "longitude": "-4.04163000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2741540",
+    "type": "town",
+    "native": "Gorseinon",
+    "timezone": "Europe/London",
+    "population": 20581,
+    "population_year": null
   },
   {
     "id": 49759,
@@ -57,7 +77,12 @@
     "latitude": "51.68472000",
     "longitude": "-4.03833000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5611582",
+    "type": "city",
+    "native": "Grovesend",
+    "timezone": "Europe/London",
+    "population": 1131,
+    "population_year": null
   },
   {
     "id": 50875,
@@ -69,7 +94,12 @@
     "latitude": "51.64028000",
     "longitude": "-4.09917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Pen-clawdd",
+    "timezone": "Europe/London",
+    "population": 1935,
+    "population_year": null
   },
   {
     "id": 50937,
@@ -81,7 +111,12 @@
     "latitude": "51.71423000",
     "longitude": "-4.03859000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3397684",
+    "type": "town",
+    "native": "Pontarddulais",
+    "timezone": "Europe/London",
+    "population": 9073,
+    "population_year": null
   },
   {
     "id": 50941,
@@ -93,7 +128,12 @@
     "latitude": "51.69139000",
     "longitude": "-4.01056000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3403456",
+    "type": "city",
+    "native": "Pontlliw",
+    "timezone": "Europe/London",
+    "population": 1645,
+    "population_year": null
   },
   {
     "id": 51375,
@@ -105,7 +145,12 @@
     "latitude": "51.56944000",
     "longitude": "-4.08972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Southgate",
+    "timezone": "Europe/London",
+    "population": 2004,
+    "population_year": null
   },
   {
     "id": 51532,
@@ -117,7 +162,12 @@
     "latitude": "51.62079000",
     "longitude": "-3.94323000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23051",
+    "type": "city",
+    "native": "Swansea",
+    "timezone": "Europe/London",
+    "population": 246466,
+    "population_year": null
   },
   {
     "id": 51611,
@@ -129,6 +179,11 @@
     "latitude": "51.62865000",
     "longitude": "-4.06263000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20601928",
+    "type": "village",
+    "native": "Three Crosses",
+    "timezone": "Europe/London",
+    "population": 1476,
+    "population_year": null
   }
 ]

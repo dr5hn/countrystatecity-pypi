@@ -9,7 +9,12 @@
     "latitude": "54.68455000",
     "longitude": "-1.29559000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5368292",
+    "type": "village",
+    "native": "Elwick",
+    "timezone": "Europe/London",
+    "population": 479,
+    "population_year": null
   },
   {
     "id": 49739,
@@ -21,7 +26,12 @@
     "latitude": "54.64183000",
     "longitude": "-1.23806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Greatham",
+    "timezone": "Europe/London",
+    "population": 834,
+    "population_year": null
   },
   {
     "id": 166601,
@@ -33,6 +43,11 @@
     "latitude": "54.68333333",
     "longitude": "-1.21666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Hartlepool",
+    "timezone": "Europe/London",
+    "population": 87995,
+    "population_year": null
   }
 ]

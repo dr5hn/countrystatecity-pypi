@@ -9,7 +9,12 @@
     "latitude": "11.17715000",
     "longitude": "-4.29790000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q223761",
+    "type": "adm1",
+    "native": "Bobo-Dioulasso",
+    "timezone": "Africa/Ouagadougou",
+    "population": 903887,
+    "population_year": null
   },
   {
     "id": 9180,
@@ -21,7 +26,12 @@
     "latitude": "11.50000000",
     "longitude": "-3.51667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q999435",
+    "type": "adm2",
+    "native": "Houndé",
+    "timezone": "Africa/Ouagadougou",
+    "population": 87154,
+    "population_year": null
   },
   {
     "id": 9215,
@@ -33,7 +43,12 @@
     "latitude": "11.33333000",
     "longitude": "-4.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1074161",
+    "type": "province",
+    "native": "Province du Houet",
+    "timezone": "Africa/Ouagadougou",
+    "population": 1509377,
+    "population_year": null
   },
   {
     "id": 9219,
@@ -45,7 +60,12 @@
     "latitude": "11.41667000",
     "longitude": "-5.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1150901",
+    "type": "province",
+    "native": "Province du Kénédougou",
+    "timezone": "Africa/Ouagadougou",
+    "population": 399836,
+    "population_year": null
   },
   {
     "id": 9232,
@@ -57,6 +77,11 @@
     "latitude": "11.41667000",
     "longitude": "-3.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q627844",
+    "type": "city",
+    "native": "Province du Tuy",
+    "timezone": "Africa/Ouagadougou",
+    "population": 329162,
+    "population_year": null
   }
 ]

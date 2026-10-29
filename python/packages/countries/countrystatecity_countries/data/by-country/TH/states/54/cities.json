@@ -9,7 +9,12 @@
     "latitude": "18.14262000",
     "longitude": "99.90901000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475915",
+    "type": "district",
+    "native": "อำเภอลอง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106487,
@@ -21,7 +26,12 @@
     "latitude": "17.98372000",
     "longitude": "100.05217000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q28727709",
+    "type": "adm2",
+    "native": "เด่นชัย",
+    "timezone": "Asia/Bangkok",
+    "population": 17019,
+    "population_year": null
   },
   {
     "id": 106559,
@@ -33,7 +43,12 @@
     "latitude": "18.07422000",
     "longitude": "99.83073000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Long",
+    "timezone": "Asia/Bangkok",
+    "population": 11802,
+    "population_year": null
   },
   {
     "id": 167117,
@@ -45,7 +60,12 @@
     "latitude": "18.26464000",
     "longitude": "100.18967000",
     "county_id": 5958,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "หนองม่วงไข่",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106647,
@@ -57,7 +77,12 @@
     "latitude": "18.14589000",
     "longitude": "100.14103000",
     "county_id": 5951,
-    "wikiDataId": null
+    "wikiDataId": "Q1207145",
+    "type": "city",
+    "native": "แพร่",
+    "timezone": "Asia/Bangkok",
+    "population": 38538,
+    "population_year": null
   },
   {
     "id": 106670,
@@ -69,7 +94,12 @@
     "latitude": "18.33903000",
     "longitude": "100.31736000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q28727699",
+    "type": "adm2",
+    "native": "ร้องกวาง",
+    "timezone": "Asia/Bangkok",
+    "population": 12087,
+    "population_year": null
   },
   {
     "id": 167222,
@@ -81,7 +111,12 @@
     "latitude": "18.47204000",
     "longitude": "100.18346000",
     "county_id": 5956,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "สอง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 167227,
@@ -93,7 +128,12 @@
     "latitude": "18.04940000",
     "longitude": "100.11457000",
     "county_id": 5954,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "สูงเม่น",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106336,
@@ -105,6 +145,11 @@
     "latitude": "17.86667000",
     "longitude": "99.64990000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q477000",
+    "type": "district",
+    "native": "อำเภอวังชิ้น",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "0.33247000",
     "longitude": "-78.21371000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4741622",
+    "type": "adm2",
+    "native": "Atuntaqui",
+    "timezone": "America/Guayaquil",
+    "population": 17456,
+    "population_year": null
   },
   {
     "id": 31500,
@@ -21,7 +26,12 @@
     "latitude": "0.30107000",
     "longitude": "-78.26428000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1001959",
+    "type": "adm2",
+    "native": "Cotacachi",
+    "timezone": "America/Guayaquil",
+    "population": 8238,
+    "population_year": null
   },
   {
     "id": 31513,
@@ -33,7 +43,12 @@
     "latitude": "0.35171000",
     "longitude": "-78.12233000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Ibarra",
+    "timezone": "America/Guayaquil",
+    "population": 221149,
+    "population_year": null
   },
   {
     "id": 31536,
@@ -45,7 +60,12 @@
     "latitude": "0.23457000",
     "longitude": "-78.26248000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1020794",
+    "type": "city",
+    "native": "Otavalo",
+    "timezone": "America/Guayaquil",
+    "population": 32330,
+    "population_year": null
   },
   {
     "id": 31546,
@@ -57,6 +77,11 @@
     "latitude": "0.39116000",
     "longitude": "-77.94068000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4746020",
+    "type": "adm2",
+    "native": "Pimpiro",
+    "timezone": "America/Guayaquil",
+    "population": 7408,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "43.42166000",
     "longitude": "28.15848000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q329437",
+    "type": "city",
+    "native": "Балчик",
+    "timezone": "Europe/Sofia",
+    "population": 13000,
+    "population_year": null
   },
   {
     "id": 9310,
@@ -21,7 +26,12 @@
     "latitude": "43.56667000",
     "longitude": "27.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q168668",
+    "type": "city",
+    "native": "Добрич",
+    "timezone": "Europe/Sofia",
+    "population": 69434,
+    "population_year": null
   },
   {
     "id": 9330,
@@ -33,7 +43,12 @@
     "latitude": "43.70123000",
     "longitude": "28.03787000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405390",
+    "type": "city",
+    "native": "Генерал Тошево",
+    "timezone": "Europe/Sofia",
+    "population": 7758,
+    "population_year": null
   },
   {
     "id": 9357,
@@ -45,7 +60,12 @@
     "latitude": "43.43601000",
     "longitude": "28.33953000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405120",
+    "type": "city",
+    "native": "Каварна",
+    "timezone": "Europe/Sofia",
+    "population": 10012,
+    "population_year": null
   },
   {
     "id": 9378,
@@ -57,7 +77,12 @@
     "latitude": "43.81675000",
     "longitude": "27.75552000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2990389",
+    "type": "village",
+    "native": "Крушари",
+    "timezone": "Europe/Sofia",
+    "population": 1722,
+    "population_year": null
   },
   {
     "id": 9420,
@@ -69,7 +94,12 @@
     "latitude": "43.50000000",
     "longitude": "28.13333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2663152",
+    "type": "city",
+    "native": "Община Балчик",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9457,
@@ -81,7 +111,12 @@
     "latitude": "43.57763000",
     "longitude": "27.80628000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2220850",
+    "type": "city",
+    "native": "Община Добрич",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9458,
@@ -93,7 +128,12 @@
     "latitude": "43.63333000",
     "longitude": "27.73333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2561279",
+    "type": "city",
+    "native": "Община Добрич-Селска",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9477,
@@ -105,7 +145,12 @@
     "latitude": "43.73333000",
     "longitude": "28.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q614612",
+    "type": "city",
+    "native": "Община Генерал Тошево",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9499,
@@ -117,7 +162,12 @@
     "latitude": "43.50000000",
     "longitude": "28.38333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q965588",
+    "type": "city",
+    "native": "Община Каварна",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9514,
@@ -129,7 +179,12 @@
     "latitude": "43.88333000",
     "longitude": "27.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2561255",
+    "type": "city",
+    "native": "Община Крушари",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9587,
@@ -141,7 +196,12 @@
     "latitude": "43.61667000",
     "longitude": "28.51667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2548849",
+    "type": "city",
+    "native": "Община Шабла",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9611,
@@ -153,7 +213,12 @@
     "latitude": "43.75000000",
     "longitude": "27.40000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q680608",
+    "type": "city",
+    "native": "Община Тервел",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9690,
@@ -165,7 +230,12 @@
     "latitude": "43.53983000",
     "longitude": "28.53429000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q406639",
+    "type": "city",
+    "native": "Шабла",
+    "timezone": "Europe/Sofia",
+    "population": 3901,
+    "population_year": null
   },
   {
     "id": 9720,
@@ -177,6 +247,11 @@
     "latitude": "43.74789000",
     "longitude": "27.40911000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405984",
+    "type": "city",
+    "native": "Тервел",
+    "timezone": "Europe/Sofia",
+    "population": 6808,
+    "population_year": null
   }
 ]

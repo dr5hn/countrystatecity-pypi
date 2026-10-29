@@ -9,7 +9,12 @@
     "latitude": "7.01232000",
     "longitude": "-7.48639000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2882487",
+    "type": "adm3",
+    "native": "Bangolo",
+    "timezone": "Africa/Abidjan",
+    "population": 21861,
+    "population_year": null
   },
   {
     "id": 18875,
@@ -21,7 +26,12 @@
     "latitude": "7.73909000",
     "longitude": "-7.61377000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1102796",
+    "type": "adm3",
+    "native": "Biankouma",
+    "timezone": "Africa/Abidjan",
+    "population": 23232,
+    "population_year": null
   },
   {
     "id": 18889,
@@ -33,7 +43,12 @@
     "latitude": "6.56343000",
     "longitude": "-7.92526000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Cavally",
+    "timezone": "Africa/Abidjan",
+    "population": 780,
+    "population_year": null
   },
   {
     "id": 18893,
@@ -45,7 +60,12 @@
     "latitude": "7.25957000",
     "longitude": "-8.15498000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Danané",
+    "timezone": "Africa/Abidjan",
+    "population": 78614,
+    "population_year": null
   },
   {
     "id": 18897,
@@ -57,7 +77,12 @@
     "latitude": "6.74202000",
     "longitude": "-7.34918000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1268139",
+    "type": "adm2",
+    "native": "Dûkoué",
+    "timezone": "Africa/Abidjan",
+    "population": 117023,
+    "population_year": null
   },
   {
     "id": 18908,
@@ -69,7 +94,12 @@
     "latitude": "7.09300000",
     "longitude": "-7.17785000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Guémon",
+    "timezone": "Africa/Abidjan",
+    "population": 11438,
+    "population_year": null
   },
   {
     "id": 18907,
@@ -81,7 +111,12 @@
     "latitude": "6.54368000",
     "longitude": "-7.49350000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1553776",
+    "type": "adm2",
+    "native": "Ganglo",
+    "timezone": "Africa/Abidjan",
+    "population": 68113,
+    "population_year": null
   },
   {
     "id": 18919,
@@ -93,7 +128,12 @@
     "latitude": "7.41251000",
     "longitude": "-7.55383000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1191011",
+    "type": "adm1",
+    "native": "Man",
+    "timezone": "Africa/Abidjan",
+    "population": 241969,
+    "population_year": null
   },
   {
     "id": 18936,
@@ -105,7 +145,12 @@
     "latitude": "7.56785000",
     "longitude": "-7.60941000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tonkpi",
+    "timezone": "Africa/Abidjan",
+    "population": 1987,
+    "population_year": null
   },
   {
     "id": 18938,
@@ -117,6 +162,11 @@
     "latitude": "6.57395000",
     "longitude": "-8.42592000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Toulépleu Gueré",
+    "timezone": "Africa/Abidjan",
+    "population": 14098,
+    "population_year": null
   }
 ]

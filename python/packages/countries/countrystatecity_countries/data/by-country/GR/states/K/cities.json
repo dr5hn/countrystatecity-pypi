@@ -9,7 +9,12 @@
     "latitude": "39.53910500",
     "longitude": "24.98451130",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12875609",
+    "type": "adm3",
+    "native": "Άγιος Ευστράτιος",
+    "timezone": "Europe/Athens",
+    "population": 489,
+    "population_year": null
   },
   {
     "id": 154252,
@@ -21,7 +26,12 @@
     "latitude": "38.37250000",
     "longitude": "26.13750000",
     "county_id": 5097,
-    "wikiDataId": null
+    "wikiDataId": "Q748832",
+    "type": "locality",
+    "native": "Χίος",
+    "timezone": "Europe/Athens",
+    "population": 27015,
+    "population_year": null
   },
   {
     "id": 154259,
@@ -33,7 +43,12 @@
     "latitude": "37.57850000",
     "longitude": "26.48069000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12875802",
+    "type": "city",
+    "native": "Φούρνοι Κορσεών",
+    "timezone": "Europe/Athens",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154253,
@@ -45,7 +60,12 @@
     "latitude": "37.59630000",
     "longitude": "26.15186000",
     "county_id": 5094,
-    "wikiDataId": null
+    "wikiDataId": "Q511242",
+    "type": "municipality",
+    "native": "Ικαρία",
+    "timezone": "Europe/Athens",
+    "population": 10175,
+    "population_year": null
   },
   {
     "id": 154261,
@@ -57,7 +77,12 @@
     "latitude": "39.09953820",
     "longitude": "26.51545290",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16737235",
+    "type": "city",
+    "native": "Μυτιλήνη",
+    "timezone": "Europe/Athens",
+    "population": 1176,
+    "population_year": null
   },
   {
     "id": 154257,
@@ -69,7 +94,12 @@
     "latitude": "38.51457460",
     "longitude": "26.21526900",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12875738",
+    "type": "adm3",
+    "native": "Οινούσσες",
+    "timezone": "Europe/Athens",
+    "population": 792,
+    "population_year": null
   },
   {
     "id": 154258,
@@ -81,7 +111,12 @@
     "latitude": "38.54144180",
     "longitude": "25.55847730",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16330107",
+    "type": "adm3",
+    "native": "Ψαρά",
+    "timezone": "Europe/Athens",
+    "population": 420,
+    "population_year": null
   },
   {
     "id": 154256,
@@ -93,7 +128,12 @@
     "latitude": "37.75805556",
     "longitude": "26.97444444",
     "county_id": 5096,
-    "wikiDataId": null
+    "wikiDataId": "Q1018150",
+    "type": "locality",
+    "native": "Σάμος",
+    "timezone": "Europe/Athens",
+    "population": 5900,
+    "population_year": null
   },
   {
     "id": 154262,
@@ -105,6 +145,11 @@
     "latitude": "39.23318000",
     "longitude": "26.20724000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q65234114",
+    "type": "city",
+    "native": "Δυτική Λέσβος",
+    "timezone": "Europe/Athens",
+    "population": null,
+    "population_year": null
   }
 ]

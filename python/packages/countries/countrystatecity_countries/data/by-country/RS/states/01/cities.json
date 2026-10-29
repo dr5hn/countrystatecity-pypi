@@ -9,7 +9,12 @@
     "latitude": "45.81516000",
     "longitude": "19.63180000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2661603",
+    "type": "adm3",
+    "native": "Бачка Топола",
+    "timezone": "Europe/Belgrade",
+    "population": 16154,
+    "population_year": null
   },
   {
     "id": 155063,
@@ -21,7 +26,12 @@
     "latitude": "45.71406240",
     "longitude": "19.58678580",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1811772",
+    "type": "city",
+    "native": "Мали Иђош",
+    "timezone": "Europe/Belgrade",
+    "population": 12770,
+    "population_year": null
   },
   {
     "id": 97401,
@@ -33,6 +43,11 @@
     "latitude": "46.10000000",
     "longitude": "19.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q170287",
+    "type": "city",
+    "native": "Суботица",
+    "timezone": "Europe/Belgrade",
+    "population": 105681,
+    "population_year": null
   }
 ]

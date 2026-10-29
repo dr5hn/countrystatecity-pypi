@@ -9,7 +9,12 @@
     "latitude": "12.22306000",
     "longitude": "-15.44750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Bissorã",
+    "timezone": "Africa/Bissau",
+    "population": 11964,
+    "population_year": null
   },
   {
     "id": 53816,
@@ -21,7 +26,12 @@
     "latitude": "12.48389000",
     "longitude": "-15.22167000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1022984",
+    "type": "adm1",
+    "native": "Farim",
+    "timezone": "Africa/Bissau",
+    "population": 10207,
+    "population_year": null
   },
   {
     "id": 53818,
@@ -33,6 +43,11 @@
     "latitude": "12.07333000",
     "longitude": "-15.31889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1368576",
+    "type": "city",
+    "native": "Mansôa",
+    "timezone": "Africa/Bissau",
+    "population": 9422,
+    "population_year": null
   }
 ]

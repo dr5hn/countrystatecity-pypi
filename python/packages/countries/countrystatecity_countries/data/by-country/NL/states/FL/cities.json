@@ -9,7 +9,12 @@
     "latitude": "52.37025000",
     "longitude": "5.21413000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2511595",
+    "type": "city",
+    "native": "Almere Stad",
+    "timezone": "Europe/Amsterdam",
+    "population": 176432,
+    "population_year": null
   },
   {
     "id": 77427,
@@ -21,7 +26,12 @@
     "latitude": "52.45500000",
     "longitude": "5.69306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q599331",
+    "type": "locality",
+    "native": "Biddinghuizen",
+    "timezone": "Europe/Amsterdam",
+    "population": 5010,
+    "population_year": null
   },
   {
     "id": 77612,
@@ -33,7 +43,12 @@
     "latitude": "52.52500000",
     "longitude": "5.71806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33433617",
+    "type": "locality",
+    "native": "Dronten",
+    "timezone": "Europe/Amsterdam",
+    "population": 28073,
+    "population_year": null
   },
   {
     "id": 77652,
@@ -45,7 +60,12 @@
     "latitude": "52.71083000",
     "longitude": "5.74861000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q60705",
+    "type": "city",
+    "native": "Emmeloord",
+    "timezone": "Europe/Amsterdam",
+    "population": 46409,
+    "population_year": null
   },
   {
     "id": 77661,
@@ -57,7 +77,12 @@
     "latitude": "52.63667000",
     "longitude": "5.82778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2805272",
+    "type": "locality",
+    "native": "Ens",
+    "timezone": "Europe/Amsterdam",
+    "population": 3174,
+    "population_year": null
   },
   {
     "id": 78288,
@@ -69,7 +94,12 @@
     "latitude": "52.50833000",
     "longitude": "5.47500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Lelystad",
+    "timezone": "Europe/Amsterdam",
+    "population": 83033,
+    "population_year": null
   },
   {
     "id": 78819,
@@ -81,7 +111,12 @@
     "latitude": "52.66250000",
     "longitude": "5.60139000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q273746",
+    "type": "city",
+    "native": "Urk",
+    "timezone": "Europe/Amsterdam",
+    "population": 22431,
+    "population_year": 2026
   },
   {
     "id": 79002,
@@ -93,6 +128,11 @@
     "latitude": "52.33000000",
     "longitude": "5.54167000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q184454",
+    "type": "city",
+    "native": "Zeewolde",
+    "timezone": "Europe/Amsterdam",
+    "population": 24612,
+    "population_year": 2026
   }
 ]

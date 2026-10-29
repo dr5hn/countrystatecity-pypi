@@ -9,7 +9,12 @@
     "latitude": "30.97531000",
     "longitude": "41.03808000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q626199",
+    "type": "city",
+    "native": "عرار",
+    "timezone": "Asia/Riyadh",
+    "population": 148540,
+    "population_year": null
   },
   {
     "id": 148586,
@@ -21,7 +26,12 @@
     "latitude": "29.19274000",
     "longitude": "44.71598000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12218844",
+    "type": "city",
+    "native": "النصاب",
+    "timezone": "Asia/Riyadh",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 102887,
@@ -33,7 +43,12 @@
     "latitude": "31.67252000",
     "longitude": "38.66374000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "طريف",
+    "timezone": "Asia/Riyadh",
+    "population": 48929,
+    "population_year": null
   },
   {
     "id": 148587,
@@ -45,6 +60,11 @@
     "latitude": "28.67985000",
     "longitude": "44.69549000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16117430",
+    "type": "city",
+    "native": "أم ردمة",
+    "timezone": "Asia/Riyadh",
+    "population": 0,
+    "population_year": null
   }
 ]

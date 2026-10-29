@@ -9,7 +9,12 @@
     "latitude": "32.35257060",
     "longitude": "35.32674760",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4540438",
+    "type": "city",
+    "native": "العقبة",
+    "timezone": "Asia/Hebron",
+    "population": 3751,
+    "population_year": null
   },
   {
     "id": 154074,
@@ -21,7 +26,12 @@
     "latitude": "32.28315510",
     "longitude": "35.36518930",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q275722",
+    "type": "city",
+    "native": "تامون",
+    "timezone": "Asia/Gaza",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154072,
@@ -33,6 +43,11 @@
     "latitude": "32.32112010",
     "longitude": "35.34935330",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q275919",
+    "type": "adm2",
+    "native": "طوباس",
+    "timezone": "Asia/Gaza",
+    "population": null,
+    "population_year": null
   }
 ]

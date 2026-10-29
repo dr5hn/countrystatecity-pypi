@@ -9,7 +9,12 @@
     "latitude": "14.09940000",
     "longitude": "-1.62554000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Djibo",
+    "timezone": "Africa/Ouagadougou",
+    "population": 61462,
+    "population_year": null
   },
   {
     "id": 9171,
@@ -21,7 +26,12 @@
     "latitude": "14.03540000",
     "longitude": "-0.03450000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q999493",
+    "type": "adm1",
+    "native": "Dori",
+    "timezone": "Africa/Ouagadougou",
+    "population": 46521,
+    "population_year": null
   },
   {
     "id": 9177,
@@ -33,7 +43,12 @@
     "latitude": "14.44290000",
     "longitude": "-0.23468000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q741117",
+    "type": "adm2",
+    "native": "Gorom-gorom",
+    "timezone": "Africa/Ouagadougou",
+    "population": 9752,
+    "population_year": null
   },
   {
     "id": 9207,
@@ -45,7 +60,12 @@
     "latitude": "14.66667000",
     "longitude": "-0.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q514173",
+    "type": "city",
+    "native": "Province de l’Oudalan",
+    "timezone": "Africa/Ouagadougou",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9231,
@@ -57,7 +77,12 @@
     "latitude": "13.96400000",
     "longitude": "0.01200000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1061214",
+    "type": "province",
+    "native": "Province du Sano",
+    "timezone": "Africa/Ouagadougou",
+    "population": 404104,
+    "population_year": null
   },
   {
     "id": 9229,
@@ -69,7 +94,12 @@
     "latitude": "14.33333000",
     "longitude": "-1.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q385973",
+    "type": "province",
+    "native": "Province du Soum",
+    "timezone": "Africa/Ouagadougou",
+    "population": 363633,
+    "population_year": null
   },
   {
     "id": 9233,
@@ -81,6 +111,11 @@
     "latitude": "13.41667000",
     "longitude": "0.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1074466",
+    "type": "province",
+    "native": "Province du Yagha",
+    "timezone": "Africa/Ouagadougou",
+    "population": 169024,
+    "population_year": null
   }
 ]

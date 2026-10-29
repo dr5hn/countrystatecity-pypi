@@ -9,7 +9,12 @@
     "latitude": "13.50601000",
     "longitude": "7.77863000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Aguié",
+    "timezone": "Africa/Niamey",
+    "population": 23545,
+    "population_year": null
   },
   {
     "id": 76685,
@@ -21,7 +26,12 @@
     "latitude": "14.51056000",
     "longitude": "6.76500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Dakoro",
+    "timezone": "Africa/Niamey",
+    "population": 39645,
+    "population_year": null
   },
   {
     "id": 76714,
@@ -33,7 +43,12 @@
     "latitude": "13.46976000",
     "longitude": "7.74219000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q398476",
+    "type": "adm2",
+    "native": "Département d’Aguié",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76693,
@@ -45,7 +60,12 @@
     "latitude": "14.75000000",
     "longitude": "7.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q912576",
+    "type": "city",
+    "native": "Département de Dakoro",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76704,
@@ -57,7 +77,12 @@
     "latitude": "14.10000000",
     "longitude": "7.60000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q205039",
+    "type": "city",
+    "native": "Département de Mayahi",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76712,
@@ -69,7 +94,12 @@
     "latitude": "13.60000000",
     "longitude": "7.90000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q912585",
+    "type": "city",
+    "native": "Département de Tessaoua",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76718,
@@ -81,7 +111,12 @@
     "latitude": "13.65750000",
     "longitude": "6.69583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q912927",
+    "type": "area",
+    "native": "Guidan Roumdji Department",
+    "timezone": "Africa/Niamey",
+    "population": 23718,
+    "population_year": null
   },
   {
     "id": 76724,
@@ -93,7 +128,12 @@
     "latitude": "13.28253000",
     "longitude": "7.15495000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q912554",
+    "type": "adm2",
+    "native": "Taunauunfa",
+    "timezone": "Africa/Niamey",
+    "population": 16538,
+    "population_year": null
   },
   {
     "id": 76726,
@@ -105,7 +145,12 @@
     "latitude": "13.50000000",
     "longitude": "7.10174000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q664550",
+    "type": "adm1",
+    "native": "Marigi",
+    "timezone": "Africa/Niamey",
+    "population": 361702,
+    "population_year": null
   },
   {
     "id": 76728,
@@ -117,7 +162,12 @@
     "latitude": "13.95532000",
     "longitude": "7.67122000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Allahi",
+    "timezone": "Africa/Niamey",
+    "population": 22183,
+    "population_year": null
   },
   {
     "id": 76738,
@@ -129,7 +179,12 @@
     "latitude": "13.75737000",
     "longitude": "7.98740000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Tessaoua",
+    "timezone": "Africa/Niamey",
+    "population": 58750,
+    "population_year": null
   },
   {
     "id": 76739,
@@ -141,6 +196,11 @@
     "latitude": "13.56271000",
     "longitude": "7.04848000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tibiri",
+    "timezone": "Africa/Niamey",
+    "population": 34529,
+    "population_year": null
   }
 ]

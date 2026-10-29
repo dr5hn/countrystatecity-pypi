@@ -9,7 +9,12 @@
     "latitude": "34.17944000",
     "longitude": "36.42083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4796334",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Beirut",
+    "population": 50000,
+    "population_year": null
   },
   {
     "id": 65933,
@@ -21,7 +26,12 @@
     "latitude": "34.00583000",
     "longitude": "36.21806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q178835",
+    "type": "adm1",
+    "native": "بعلبك",
+    "timezone": "Asia/Beirut",
+    "population": 30916,
+    "population_year": null
   },
   {
     "id": 65941,
@@ -33,7 +43,12 @@
     "latitude": "34.09822000",
     "longitude": "36.27157000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q782804",
+    "type": "city",
+    "native": "قضاء بعلبك",
+    "timezone": "Asia/Beirut",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 165167,
@@ -45,7 +60,12 @@
     "latitude": "33.96472000",
     "longitude": "36.01750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5103255",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Beirut",
+    "population": 30000,
+    "population_year": null
   },
   {
     "id": 165168,
@@ -57,6 +77,11 @@
     "latitude": "34.39417000",
     "longitude": "36.38472000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q26117",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Beirut",
+    "population": 22250,
+    "population_year": null
   }
 ]

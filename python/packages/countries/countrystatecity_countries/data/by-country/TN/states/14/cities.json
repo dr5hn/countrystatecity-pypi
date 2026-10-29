@@ -9,7 +9,12 @@
     "latitude": "36.80368000",
     "longitude": "9.84424000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3049744",
+    "type": "city",
+    "native": "الباتان",
+    "timezone": "Africa/Tunis",
+    "population": 6458,
+    "population_year": null
   },
   {
     "id": 106982,
@@ -21,7 +26,12 @@
     "latitude": "36.81006000",
     "longitude": "10.09557000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27159",
+    "type": "adm1",
+    "native": "منوبة",
+    "timezone": "Africa/Tunis",
+    "population": 32005,
+    "population_year": null
   },
   {
     "id": 106999,
@@ -33,7 +43,12 @@
     "latitude": "36.80907000",
     "longitude": "10.09467000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "معتمدية منوبة",
+    "timezone": "Africa/Tunis",
+    "population": 32005,
+    "population_year": null
   },
   {
     "id": 107004,
@@ -45,6 +60,11 @@
     "latitude": "36.83408000",
     "longitude": "10.04057000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3100315",
+    "type": "city",
+    "native": "وادي ليل",
+    "timezone": "Africa/Tunis",
+    "population": 57851,
+    "population_year": null
   }
 ]

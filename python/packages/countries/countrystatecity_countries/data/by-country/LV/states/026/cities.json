@@ -9,7 +9,12 @@
     "latitude": "56.45981000",
     "longitude": "22.90169000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q758578",
+    "type": "adm2",
+    "native": "Auce",
+    "timezone": "Europe/Riga",
+    "population": 2154,
+    "population_year": null
   },
   {
     "id": 66892,
@@ -21,7 +26,12 @@
     "latitude": "56.62372000",
     "longitude": "23.27510000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q729447",
+    "type": "adm1",
+    "native": "Dobele",
+    "timezone": "Europe/Riga",
+    "population": 8536,
+    "population_year": null
   },
   {
     "id": 66972,
@@ -33,7 +43,12 @@
     "latitude": "56.47989000",
     "longitude": "23.38895000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1973559",
+    "type": "city",
+    "native": "Tērvete",
+    "timezone": "Europe/Riga",
+    "population": 3273,
+    "population_year": null
   },
   {
     "id": 66988,
@@ -45,6 +60,11 @@
     "latitude": "56.45167000",
     "longitude": "23.35194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5764708",
+    "type": "adm2",
+    "native": "Zelmeņi",
+    "timezone": "Europe/Riga",
+    "population": 0,
+    "population_year": null
   }
 ]

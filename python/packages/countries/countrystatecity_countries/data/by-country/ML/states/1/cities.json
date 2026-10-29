@@ -9,7 +9,12 @@
     "latitude": "13.80650000",
     "longitude": "-10.83210000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q799794",
+    "type": "adm2",
+    "native": "Bafoulabé",
+    "timezone": "Africa/Bamako",
+    "population": 26823,
+    "population_year": null
   },
   {
     "id": 67608,
@@ -21,7 +26,12 @@
     "latitude": "14.44693000",
     "longitude": "-11.44448000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q325164",
+    "type": "adm1",
+    "native": "Kayes",
+    "timezone": "Africa/Bamako",
+    "population": 194716,
+    "population_year": null
   },
   {
     "id": 67611,
@@ -33,7 +43,12 @@
     "latitude": "13.03490000",
     "longitude": "-9.48950000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q578014",
+    "type": "adm2",
+    "native": "Kita",
+    "timezone": "Africa/Bamako",
+    "population": 75598,
+    "population_year": null
   },
   {
     "id": 67612,
@@ -45,7 +60,12 @@
     "latitude": "12.88333000",
     "longitude": "-9.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1760816",
+    "type": "city",
+    "native": "Kokofata",
+    "timezone": "Africa/Bamako",
+    "population": 12985,
+    "population_year": null
   },
   {
     "id": 67623,
@@ -57,7 +77,12 @@
     "latitude": "12.20000000",
     "longitude": "-10.70000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1759932",
+    "type": "city",
+    "native": "Sagalo",
+    "timezone": "Africa/Bamako",
+    "population": 15830,
+    "population_year": null
   },
   {
     "id": 165195,
@@ -69,6 +94,11 @@
     "latitude": "15.11868000",
     "longitude": "-10.57729000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3574261",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "population": null,
+    "population_year": null
   }
 ]

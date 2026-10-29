@@ -9,7 +9,12 @@
     "latitude": "41.93667000",
     "longitude": "21.52167000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Драчево",
+    "timezone": "Europe/Skopje",
+    "population": 10605,
+    "population_year": null
   },
   {
     "id": 67451,
@@ -21,6 +26,11 @@
     "latitude": "41.94889000",
     "longitude": "21.50278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Кисела Вода",
+    "timezone": "Europe/Skopje",
+    "population": 58216,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "42.97897000",
     "longitude": "25.47850000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q406050",
+    "type": "city",
+    "native": "Дряново",
+    "timezone": "Europe/Sofia",
+    "population": 8346,
+    "population_year": null
   },
   {
     "id": 9328,
@@ -21,7 +26,12 @@
     "latitude": "42.87472000",
     "longitude": "25.33417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q180131",
+    "type": "city",
+    "native": "Габрово",
+    "timezone": "Europe/Sofia",
+    "population": 43710,
+    "population_year": null
   },
   {
     "id": 9465,
@@ -33,7 +43,12 @@
     "latitude": "43.00000000",
     "longitude": "25.46667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2549061",
+    "type": "municipality",
+    "native": "Община Дряново",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9474,
@@ -45,7 +60,12 @@
     "latitude": "42.90000000",
     "longitude": "25.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2652942",
+    "type": "city",
+    "native": "Община Габрово",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9586,
@@ -57,7 +77,12 @@
     "latitude": "43.01667000",
     "longitude": "25.10000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2719895",
+    "type": "municipality",
+    "native": "Община Севлиево",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9615,
@@ -69,7 +94,12 @@
     "latitude": "42.85000000",
     "longitude": "25.55000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q568005",
+    "type": "city",
+    "native": "Община Трявна",
+    "timezone": "Europe/Sofia",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9689,
@@ -81,7 +111,12 @@
     "latitude": "43.02583000",
     "longitude": "25.11361000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q326312",
+    "type": "city",
+    "native": "Севлиево",
+    "timezone": "Europe/Sofia",
+    "population": 17088,
+    "population_year": null
   },
   {
     "id": 9726,
@@ -93,6 +128,11 @@
     "latitude": "42.86667000",
     "longitude": "25.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q405136",
+    "type": "city",
+    "native": "Трявна",
+    "timezone": "Europe/Sofia",
+    "population": 13818,
+    "population_year": null
   }
 ]

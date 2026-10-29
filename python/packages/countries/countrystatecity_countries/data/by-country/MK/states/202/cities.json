@@ -9,7 +9,12 @@
     "latitude": "41.83668000",
     "longitude": "22.57909000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20933280",
+    "type": "city",
+    "native": "Блатек",
+    "timezone": "Europe/Skopje",
+    "population": 2024,
+    "population_year": null
   },
   {
     "id": 67434,
@@ -21,7 +26,12 @@
     "latitude": "41.85068000",
     "longitude": "22.51132000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20932142",
+    "type": "city",
+    "native": "Градец",
+    "timezone": "Europe/Skopje",
+    "population": 1244,
+    "population_year": null
   },
   {
     "id": 67555,
@@ -33,6 +43,11 @@
     "latitude": "41.88278000",
     "longitude": "22.50917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q928405",
+    "type": "adm1",
+    "native": "Виница",
+    "timezone": "Europe/Skopje",
+    "population": 18218,
+    "population_year": null
   }
 ]

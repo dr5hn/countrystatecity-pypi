@@ -9,7 +9,12 @@
     "latitude": "4.88441000",
     "longitude": "101.96857000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3096534",
+    "type": "city",
+    "native": "Gua Musang",
+    "timezone": "Asia/Kuala_Lumpur",
+    "population": 19731,
+    "population_year": null
   },
   {
     "id": 76460,
@@ -21,7 +26,12 @@
     "latitude": "6.00000000",
     "longitude": "102.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kampong Kadok",
+    "timezone": "Asia/Kuala_Lumpur",
+    "population": 19233,
+    "population_year": null
   },
   {
     "id": 76462,
@@ -33,7 +43,12 @@
     "latitude": "5.91667000",
     "longitude": "102.21667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kampong Pangkal Kalong",
+    "timezone": "Asia/Kuala_Lumpur",
+    "population": 39904,
+    "population_year": null
   },
   {
     "id": 76489,
@@ -45,7 +60,12 @@
     "latitude": "6.12361000",
     "longitude": "102.24333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Kota Bharu",
+    "timezone": "Asia/Kuala_Lumpur",
+    "population": 568900,
+    "population_year": null
   },
   {
     "id": 76536,
@@ -57,7 +77,12 @@
     "latitude": "6.04934000",
     "longitude": "102.13987000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Pasir Mas",
+    "timezone": "Asia/Kuala_Lumpur",
+    "population": 233400,
+    "population_year": null
   },
   {
     "id": 76541,
@@ -69,7 +94,12 @@
     "latitude": "6.03333000",
     "longitude": "102.28333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Peringat",
+    "timezone": "Asia/Kuala_Lumpur",
+    "population": 23288,
+    "population_year": null
   },
   {
     "id": 76585,
@@ -81,7 +111,12 @@
     "latitude": "6.19775000",
     "longitude": "102.17098000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2180590",
+    "type": "adm2",
+    "native": "Tumpat",
+    "timezone": "Asia/Kuala_Lumpur",
+    "population": 12280,
+    "population_year": null
   },
   {
     "id": 165283,
@@ -93,6 +128,11 @@
     "latitude": "6.11667000",
     "longitude": "102.20000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7960758",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kuala_Lumpur",
+    "population": null,
+    "population_year": null
   }
 ]

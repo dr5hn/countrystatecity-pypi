@@ -9,7 +9,12 @@
     "latitude": "5.76795000",
     "longitude": "20.67565000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q805946",
+    "type": "adm1",
+    "native": "Bambari",
+    "timezone": "Africa/Bangui",
+    "population": 83029,
+    "population_year": null
   },
   {
     "id": 17318,
@@ -21,7 +26,12 @@
     "latitude": "5.73549000",
     "longitude": "19.91209000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Grimari",
+    "timezone": "Africa/Bangui",
+    "population": 10824,
+    "population_year": null
   },
   {
     "id": 17319,
@@ -33,7 +43,12 @@
     "latitude": "6.26793000",
     "longitude": "21.22468000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2428110",
+    "type": "city",
+    "native": "Ippy",
+    "timezone": "Africa/Bangui",
+    "population": 28319,
+    "population_year": null
   },
   {
     "id": 17324,
@@ -45,6 +60,11 @@
     "latitude": "4.99337000",
     "longitude": "19.96186000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1772378",
+    "type": "city",
+    "native": "Kouango",
+    "timezone": "Africa/Bangui",
+    "population": 36575,
+    "population_year": null
   }
 ]

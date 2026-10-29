@@ -9,7 +9,12 @@
     "latitude": "13.54773000",
     "longitude": "-7.44808000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q572737",
+    "type": "adm2",
+    "native": "Banamba",
+    "timezone": "Africa/Bamako",
+    "population": 30591,
+    "population_year": null
   },
   {
     "id": 165193,
@@ -21,7 +26,12 @@
     "latitude": "12.77870000",
     "longitude": "-6.95640000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3066324",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Bamako",
+    "population": 56809,
+    "population_year": null
   },
   {
     "id": 67606,
@@ -33,7 +43,12 @@
     "latitude": "11.93333000",
     "longitude": "-8.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1031919",
+    "type": "adm2",
+    "native": "Kangaba",
+    "timezone": "Africa/Bamako",
+    "population": 17232,
+    "population_year": null
   },
   {
     "id": 67607,
@@ -45,7 +60,12 @@
     "latitude": "12.74409000",
     "longitude": "-8.07257000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q771251",
+    "type": "adm2",
+    "native": "Kati",
+    "timezone": "Africa/Bamako",
+    "population": 130254,
+    "population_year": null
   },
   {
     "id": 67613,
@@ -57,7 +77,12 @@
     "latitude": "13.57280000",
     "longitude": "-8.03390000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q642276",
+    "type": "adm2",
+    "native": "Kolokalo",
+    "timezone": "Africa/Bamako",
+    "population": 48774,
+    "population_year": null
   },
   {
     "id": 67615,
@@ -69,6 +94,11 @@
     "latitude": "12.86273000",
     "longitude": "-7.55985000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q740974",
+    "type": "adm1",
+    "native": "Koulikoro",
+    "timezone": "Africa/Bamako",
+    "population": 64128,
+    "population_year": null
   }
 ]

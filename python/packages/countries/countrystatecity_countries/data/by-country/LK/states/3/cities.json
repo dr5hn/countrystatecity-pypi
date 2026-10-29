@@ -9,7 +9,12 @@
     "latitude": "5.92825000",
     "longitude": "80.58880000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "දේවිනිවරා",
+    "timezone": "Asia/Colombo",
+    "population": 45000,
+    "population_year": null
   },
   {
     "id": 66468,
@@ -21,7 +26,12 @@
     "latitude": "6.04610000",
     "longitude": "80.21030000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q319366",
+    "type": "adm1",
+    "native": "ගාල්ල",
+    "timezone": "Asia/Colombo",
+    "population": 93118,
+    "population_year": null
   },
   {
     "id": 66469,
@@ -33,7 +43,12 @@
     "latitude": "6.25000000",
     "longitude": "80.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q647649",
+    "type": "district",
+    "native": "ගාල්ල දිස්ත්රික්කය",
+    "timezone": "Asia/Colombo",
+    "population": 1058771,
+    "population_year": null
   },
   {
     "id": 66507,
@@ -45,7 +60,12 @@
     "latitude": "5.94851000",
     "longitude": "80.53528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13360574",
+    "type": "city",
+    "native": "විවෘත",
+    "timezone": "Asia/Colombo",
+    "population": 68244,
+    "population_year": null
   },
   {
     "id": 66508,
@@ -57,7 +77,12 @@
     "latitude": "6.13290000",
     "longitude": "80.52800000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1281285",
+    "type": "district",
+    "native": "මාතර දිස්ත්රික්කය",
+    "timezone": "Asia/Colombo",
+    "population": 809344,
+    "population_year": null
   },
   {
     "id": 66511,
@@ -69,7 +94,12 @@
     "latitude": "5.94655000",
     "longitude": "80.45831000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1281285",
+    "type": "city",
+    "native": "මිරිස් නගරය",
+    "timezone": "Asia/Colombo",
+    "population": 4695,
+    "population_year": null
   },
   {
     "id": 66532,
@@ -81,7 +111,12 @@
     "latitude": "5.99990000",
     "longitude": "80.27870000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "තල්පේ",
+    "timezone": "Asia/Colombo",
+    "population": 3000,
+    "population_year": null
   },
   {
     "id": 66536,
@@ -93,6 +128,11 @@
     "latitude": "6.02120000",
     "longitude": "80.25030000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q651301",
+    "type": "city",
+    "native": "උණවටුන",
+    "timezone": "Asia/Colombo",
+    "population": 2000,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "1.32360000",
     "longitude": "103.92730000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q239092",
+    "type": "city",
+    "native": "Salary",
+    "timezone": "Asia/Singapore",
+    "population": 276990,
+    "population_year": null
   },
   {
     "id": 153479,
@@ -21,7 +26,12 @@
     "latitude": "1.37390000",
     "longitude": "103.94930000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q230274",
+    "type": "city",
+    "native": "Pasir Ris",
+    "timezone": "Asia/Singapore",
+    "population": 148020,
+    "population_year": null
   },
   {
     "id": 153477,
@@ -33,6 +43,11 @@
     "latitude": "1.35470000",
     "longitude": "103.94370000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q191699",
+    "type": "section",
+    "native": "Tampines",
+    "timezone": "Asia/Singapore",
+    "population": 1850,
+    "population_year": null
   }
 ]

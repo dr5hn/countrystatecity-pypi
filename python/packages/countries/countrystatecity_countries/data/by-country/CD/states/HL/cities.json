@@ -9,7 +9,12 @@
     "latitude": "-9.20443000",
     "longitude": "25.85475000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2915071",
+    "type": "city",
+    "native": "Bumpika",
+    "timezone": "Africa/Lubumbashi",
+    "population": 105530,
+    "population_year": null
   },
   {
     "id": 17256,
@@ -21,7 +26,12 @@
     "latitude": "-8.73508000",
     "longitude": "24.99798000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q581179",
+    "type": "adm1",
+    "native": "Kamina",
+    "timezone": "Africa/Lubumbashi",
+    "population": 200184,
+    "population_year": null
   },
   {
     "id": 164533,
@@ -33,6 +43,11 @@
     "latitude": "-7.83486000",
     "longitude": "26.99852000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12736006",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Lubumbashi",
+    "population": 89340,
+    "population_year": null
   }
 ]

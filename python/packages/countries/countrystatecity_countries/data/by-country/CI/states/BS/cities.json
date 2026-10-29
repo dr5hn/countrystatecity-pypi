@@ -9,7 +9,12 @@
     "latitude": "4.95712000",
     "longitude": "-6.09372000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Gbôklé",
+    "timezone": "Africa/Abidjan",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 18924,
@@ -21,7 +26,12 @@
     "latitude": "5.80112000",
     "longitude": "-6.60313000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Nawa",
+    "timezone": "Africa/Abidjan",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 18928,
@@ -33,7 +43,12 @@
     "latitude": "4.76768000",
     "longitude": "-6.65033000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "San-pedro",
+    "timezone": "Africa/Abidjan",
+    "population": 390654,
+    "population_year": null
   },
   {
     "id": 18929,
@@ -45,7 +60,12 @@
     "latitude": "4.95384000",
     "longitude": "-6.08531000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Sassandra",
+    "timezone": "Africa/Abidjan",
+    "population": 34492,
+    "population_year": null
   },
   {
     "id": 164556,
@@ -57,7 +77,12 @@
     "latitude": "5.78377000",
     "longitude": "-6.59388000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1587131",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "population": 131181,
+    "population_year": null
   },
   {
     "id": 18933,
@@ -69,7 +94,12 @@
     "latitude": "4.42295000",
     "longitude": "-7.35280000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Tabou",
+    "timezone": "Africa/Abidjan",
+    "population": 29469,
+    "population_year": null
   },
   {
     "id": 164561,
@@ -81,6 +111,11 @@
     "latitude": "5.93876000",
     "longitude": "-6.59826000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3571225",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "population": 26037,
+    "population_year": null
   }
 ]

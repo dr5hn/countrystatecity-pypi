@@ -9,7 +9,12 @@
     "latitude": "26.05474000",
     "longitude": "55.16243000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "ابو موسی",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150978,
@@ -21,7 +26,12 @@
     "latitude": "27.19805600",
     "longitude": "54.36861100",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q167217",
+    "type": "adm2",
+    "native": "شبیه",
+    "timezone": "Asia/Tehran",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 134576,
@@ -33,7 +43,12 @@
     "latitude": "27.18650000",
     "longitude": "56.28080000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q154814",
+    "type": "adm1",
+    "native": "بندرعباس",
+    "timezone": "Asia/Tehran",
+    "population": 352173,
+    "population_year": null
   },
   {
     "id": 150986,
@@ -45,7 +60,12 @@
     "latitude": "26.73055600",
     "longitude": "54.27472200",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q642330",
+    "type": "city",
+    "native": "بندار چاراک",
+    "timezone": "Asia/Tehran",
+    "population": 4066,
+    "population_year": null
   },
   {
     "id": 150995,
@@ -57,7 +77,12 @@
     "latitude": "26.95185270",
     "longitude": "55.57268840",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2415324",
+    "type": "adm2",
+    "native": "شهر خامیر",
+    "timezone": "Asia/Tehran",
+    "population": 15320,
+    "population_year": null
   },
   {
     "id": 150987,
@@ -69,7 +94,12 @@
     "latitude": "26.60285650",
     "longitude": "54.92980580",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2986542",
+    "type": "city",
+    "native": "شهر",
+    "timezone": "Asia/Tehran",
+    "population": 19213,
+    "population_year": null
   },
   {
     "id": 134580,
@@ -81,7 +111,12 @@
     "latitude": "26.55792000",
     "longitude": "54.88067000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q388620",
+    "type": "adm2",
+    "native": "بندر لنگه",
+    "timezone": "Asia/Tehran",
+    "population": 22768,
+    "population_year": null
   },
   {
     "id": 150991,
@@ -93,7 +128,12 @@
     "latitude": "25.65385140",
     "longitude": "57.76995600",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "بندر",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 134806,
@@ -105,7 +145,12 @@
     "latitude": "26.45000000",
     "longitude": "58.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "باسگارد",
+    "timezone": "Asia/Tehran",
+    "population": 35085,
+    "population_year": null
   },
   {
     "id": 134583,
@@ -117,7 +162,12 @@
     "latitude": "27.20000000",
     "longitude": "54.36667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "آهنگساز",
+    "timezone": "Asia/Tehran",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 150997,
@@ -129,7 +179,12 @@
     "latitude": "27.35404360",
     "longitude": "57.16993320",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4907300",
+    "type": "adm2",
+    "native": "ساقه",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 151002,
@@ -141,7 +196,12 @@
     "latitude": "26.95833690",
     "longitude": "56.04316930",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q888633",
+    "type": "city",
+    "native": "درگهان",
+    "timezone": "Asia/Tehran",
+    "population": 14525,
+    "population_year": null
   },
   {
     "id": 150989,
@@ -153,7 +213,12 @@
     "latitude": "27.17918870",
     "longitude": "52.99824000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q536362",
+    "type": "city",
+    "native": "خط داشری",
+    "timezone": "Asia/Tehran",
+    "population": 2725,
+    "population_year": null
   },
   {
     "id": 150998,
@@ -165,7 +230,12 @@
     "latitude": "27.44841050",
     "longitude": "57.16675690",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "دهیرز",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150994,
@@ -177,7 +247,12 @@
     "latitude": "28.00785210",
     "longitude": "56.24459260",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2620409",
+    "type": "city",
+    "native": "فارغان",
+    "timezone": "Asia/Tehran",
+    "population": 1773,
+    "population_year": null
   },
   {
     "id": 150984,
@@ -189,7 +264,12 @@
     "latitude": "27.63285790",
     "longitude": "55.88187210",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q778612",
+    "type": "city",
+    "native": "باله",
+    "timezone": "Asia/Tehran",
+    "population": 3939,
+    "population_year": null
   },
   {
     "id": 151001,
@@ -201,7 +281,12 @@
     "latitude": "26.58856490",
     "longitude": "57.08517550",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "گورک",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150981,
@@ -213,7 +298,12 @@
     "latitude": "26.59615360",
     "longitude": "57.88707010",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "گوهران",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150992,
@@ -225,7 +315,12 @@
     "latitude": "28.31352140",
     "longitude": "55.89620570",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "حج از قرن",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 135098,
@@ -237,7 +332,12 @@
     "latitude": "28.33333000",
     "longitude": "55.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "حاج آباد",
+    "timezone": "Asia/Tehran",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 151007,
@@ -249,7 +349,12 @@
     "latitude": "27.14586240",
     "longitude": "57.43326510",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2620437",
+    "type": "city",
+    "native": "هشت‌بندی",
+    "timezone": "Asia/Tehran",
+    "population": 6718,
+    "population_year": null
   },
   {
     "id": 151004,
@@ -261,7 +366,12 @@
     "latitude": "27.09500000",
     "longitude": "56.45277800",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q347009",
+    "type": "city",
+    "native": "هرموز",
+    "timezone": "Asia/Tehran",
+    "population": 5891,
+    "population_year": null
   },
   {
     "id": 150979,
@@ -273,7 +383,12 @@
     "latitude": "27.02755080",
     "longitude": "54.27128050",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2626774",
+    "type": "city",
+    "native": "ژانا",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 134900,
@@ -285,7 +400,12 @@
     "latitude": "25.88333000",
     "longitude": "58.20000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "چالاک",
+    "timezone": "Asia/Tehran",
+    "population": 16860,
+    "population_year": null
   },
   {
     "id": 134913,
@@ -297,7 +417,12 @@
     "latitude": "27.26667000",
     "longitude": "55.55000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "کامیر",
+    "timezone": "Asia/Tehran",
+    "population": 56148,
+    "population_year": null
   },
   {
     "id": 134685,
@@ -309,7 +434,12 @@
     "latitude": "26.55778000",
     "longitude": "54.01944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "کیش",
+    "timezone": "Asia/Tehran",
+    "population": 20922,
+    "population_year": null
   },
   {
     "id": 150990,
@@ -321,7 +451,12 @@
     "latitude": "27.25012720",
     "longitude": "52.85715580",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5805749",
+    "type": "city",
+    "native": "کاشکنار",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 151000,
@@ -333,7 +468,12 @@
     "latitude": "26.80426850",
     "longitude": "57.01887130",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "کنگره",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150988,
@@ -345,7 +485,12 @@
     "latitude": "27.05369130",
     "longitude": "54.83641080",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6480991",
+    "type": "city",
+    "native": "لیمازان",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 134705,
@@ -357,7 +502,12 @@
     "latitude": "27.13104000",
     "longitude": "57.08716000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q691052",
+    "type": "adm2",
+    "native": "میناب",
+    "timezone": "Asia/Tehran",
+    "population": 73170,
+    "population_year": null
   },
   {
     "id": 134995,
@@ -369,7 +519,12 @@
     "latitude": "27.16667000",
     "longitude": "53.26667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "وابسته به پارسی",
+    "timezone": "Asia/Tehran",
+    "population": 18045,
+    "population_year": null
   },
   {
     "id": 150985,
@@ -381,7 +536,12 @@
     "latitude": "27.44472200",
     "longitude": "56.54777800",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7266317",
+    "type": "city",
+    "native": "کونابا و گادابا",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 134742,
@@ -393,7 +553,12 @@
     "latitude": "26.78333000",
     "longitude": "55.86667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1270862",
+    "type": "city",
+    "native": "احمق",
+    "timezone": "Asia/Tehran",
+    "population": 40678,
+    "population_year": null
   },
   {
     "id": 135020,
@@ -405,7 +570,12 @@
     "latitude": "27.53333000",
     "longitude": "57.11667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "چیز",
+    "timezone": "Asia/Tehran",
+    "population": 36121,
+    "population_year": null
   },
   {
     "id": 150996,
@@ -417,7 +587,12 @@
     "latitude": "27.46003100",
     "longitude": "55.40825820",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q599054",
+    "type": "city",
+    "native": "رویدر",
+    "timezone": "Asia/Tehran",
+    "population": 6558,
+    "population_year": null
   },
   {
     "id": 150980,
@@ -429,7 +604,12 @@
     "latitude": "26.45871900",
     "longitude": "57.88425900",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "سردشت بشاگرد",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150993,
@@ -441,7 +621,12 @@
     "latitude": "28.42563000",
     "longitude": "55.70177000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7423906",
+    "type": "city",
+    "native": "سارجاز",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 151006,
@@ -453,7 +638,12 @@
     "latitude": "26.83816290",
     "longitude": "57.41788730",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2620740",
+    "type": "city",
+    "native": "سندرک",
+    "timezone": "Asia/Tehran",
+    "population": 1915,
+    "population_year": null
   },
   {
     "id": 135054,
@@ -465,7 +655,12 @@
     "latitude": "26.50000000",
     "longitude": "57.18333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "سیریک",
+    "timezone": "Asia/Tehran",
+    "population": 5137,
+    "population_year": null
   },
   {
     "id": 151003,
@@ -477,7 +672,12 @@
     "latitude": "26.77724030",
     "longitude": "56.04379160",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "سوزا",
+    "timezone": "Asia/Tehran",
+    "population": 5707,
+    "population_year": null
   },
   {
     "id": 150983,
@@ -489,7 +689,12 @@
     "latitude": "27.50356930",
     "longitude": "56.62731160",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2389502",
+    "type": "city",
+    "native": "تخت",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150982,
@@ -501,7 +706,12 @@
     "latitude": "27.29016000",
     "longitude": "56.15210300",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7690449",
+    "type": "city",
+    "native": "تازیان",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 151005,
@@ -513,7 +723,12 @@
     "latitude": "27.33793880",
     "longitude": "56.95310350",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "تیرور",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 150999,
@@ -525,6 +740,11 @@
     "latitude": "27.73557730",
     "longitude": "57.21072420",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "زیارت علی",
+    "timezone": "Asia/Tehran",
+    "population": null,
+    "population_year": null
   }
 ]

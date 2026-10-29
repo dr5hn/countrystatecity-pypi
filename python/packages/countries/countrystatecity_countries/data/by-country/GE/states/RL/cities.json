@@ -9,7 +9,12 @@
     "latitude": "42.52111000",
     "longitude": "43.16222000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q456842",
+    "type": "adm1",
+    "native": "ამბრორაკური",
+    "timezone": "Asia/Tbilisi",
+    "population": 2001,
+    "population_year": null
   },
   {
     "id": 52048,
@@ -21,7 +26,12 @@
     "latitude": "42.56667000",
     "longitude": "43.10000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2464159",
+    "type": "city",
+    "native": "Munitsip'alit'et'i munitsip'alit'ii",
+    "timezone": "Asia/Tbilisi",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 52092,
@@ -33,7 +43,12 @@
     "latitude": "42.78893000",
     "longitude": "42.72226000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "ლენტი",
+    "timezone": "Asia/Tbilisi",
+    "population": 1020,
+    "population_year": null
   },
   {
     "id": 52106,
@@ -45,7 +60,12 @@
     "latitude": "42.57944000",
     "longitude": "43.44250000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q941948",
+    "type": "adm2",
+    "native": "ონი",
+    "timezone": "Asia/Tbilisi",
+    "population": 2480,
+    "population_year": null
   },
   {
     "id": 164736,
@@ -57,6 +77,11 @@
     "latitude": "42.64534000",
     "longitude": "42.76911000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q140314",
+    "type": "adm2",
+    "native": "ცაგერი",
+    "timezone": "Asia/Tbilisi",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "-18.99331000",
     "longitude": "178.22021000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "province",
+    "native": "Kadavu province",
+    "timezone": "Pacific/Fiji",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 39139,
@@ -21,7 +26,12 @@
     "latitude": "-18.20488000",
     "longitude": "-178.79251000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q513104",
+    "type": "province",
+    "native": "Lau Province",
+    "timezone": "Pacific/Fiji",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 39142,
@@ -33,6 +43,11 @@
     "latitude": "-17.66667000",
     "longitude": "178.80000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2144922",
+    "type": "province",
+    "native": "Lomaiviti Province",
+    "timezone": "Pacific/Fiji",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "39.66028000",
     "longitude": "35.88361000",
     "county_id": 6850,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Akdağmadeni",
+    "timezone": "Europe/Istanbul",
+    "population": 20863,
+    "population_year": 2025
   },
   {
     "id": 107222,
@@ -21,7 +26,12 @@
     "latitude": "40.12727000",
     "longitude": "35.28765000",
     "county_id": 7580,
-    "wikiDataId": null
+    "wikiDataId": "Q2874885",
+    "type": "municipality",
+    "native": "Aydıncık",
+    "timezone": "Europe/Istanbul",
+    "population": 6760,
+    "population_year": null
   },
   {
     "id": 107397,
@@ -33,7 +43,12 @@
     "latitude": "39.19627000",
     "longitude": "35.25420000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1869200",
+    "type": "adm2",
+    "native": "Boğazlıyan",
+    "timezone": "Europe/Istanbul",
+    "population": 19084,
+    "population_year": 2025
   },
   {
     "id": 108778,
@@ -45,7 +60,12 @@
     "latitude": "39.25445000",
     "longitude": "35.52284000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2367349",
+    "type": "adm2",
+    "native": "Çandır",
+    "timezone": "Europe/Istanbul",
+    "population": 3591,
+    "population_year": 2025
   },
   {
     "id": 108804,
@@ -57,7 +77,12 @@
     "latitude": "39.30278000",
     "longitude": "35.64389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2900980",
+    "type": "adm2",
+    "native": "Çayıralan",
+    "timezone": "Europe/Istanbul",
+    "population": 13512,
+    "population_year": null
   },
   {
     "id": 108810,
@@ -69,7 +94,12 @@
     "latitude": "40.07306000",
     "longitude": "35.49472000",
     "county_id": 6973,
-    "wikiDataId": null
+    "wikiDataId": "Q2936772",
+    "type": "municipality",
+    "native": "Çekerek",
+    "timezone": "Europe/Istanbul",
+    "population": 9671,
+    "population_year": 2025
   },
   {
     "id": 107866,
@@ -81,7 +111,12 @@
     "latitude": "39.99568000",
     "longitude": "35.79193000",
     "county_id": 7655,
-    "wikiDataId": null
+    "wikiDataId": "Q3056065",
+    "type": "municipality",
+    "native": "Kadışehri",
+    "timezone": "Europe/Istanbul",
+    "population": 5722,
+    "population_year": null
   },
   {
     "id": 108735,
@@ -93,7 +128,12 @@
     "latitude": "39.82000000",
     "longitude": "34.80444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q210292",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 92775,
+    "population_year": 2025
   },
   {
     "id": 108391,
@@ -105,7 +145,12 @@
     "latitude": "39.69361000",
     "longitude": "35.51111000",
     "county_id": 7685,
-    "wikiDataId": null
+    "wikiDataId": "Q2372316",
+    "type": "municipality",
+    "native": "Saraykent",
+    "timezone": "Europe/Istanbul",
+    "population": 5997,
+    "population_year": 2025
   },
   {
     "id": 108403,
@@ -117,7 +162,12 @@
     "latitude": "39.49361000",
     "longitude": "35.37694000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q659435",
+    "type": "adm2",
+    "native": "Sarıkaya",
+    "timezone": "Europe/Istanbul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 108944,
@@ -129,7 +179,12 @@
     "latitude": "39.50080000",
     "longitude": "34.76388000",
     "county_id": 7362,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Şefaatli",
+    "timezone": "Europe/Istanbul",
+    "population": 8911,
+    "population_year": 2025
   },
   {
     "id": 108487,
@@ -141,7 +196,12 @@
     "latitude": "39.81012000",
     "longitude": "35.18596000",
     "county_id": 7342,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Sorgun",
+    "timezone": "Europe/Istanbul",
+    "population": 54429,
+    "population_year": 2025
   },
   {
     "id": 108697,
@@ -153,7 +213,12 @@
     "latitude": "39.21142000",
     "longitude": "35.00036000",
     "county_id": 7701,
-    "wikiDataId": null
+    "wikiDataId": "Q1004561",
+    "type": "municipality",
+    "native": "Yenifakılı",
+    "timezone": "Europe/Istanbul",
+    "population": 2627,
+    "population_year": 2025
   },
   {
     "id": 108718,
@@ -165,6 +230,11 @@
     "latitude": "39.63806000",
     "longitude": "34.46722000",
     "county_id": 7429,
-    "wikiDataId": null
+    "wikiDataId": "Q2854924",
+    "type": "municipality",
+    "native": "Yerköy",
+    "timezone": "Europe/Istanbul",
+    "population": 26329,
+    "population_year": 2025
   }
 ]

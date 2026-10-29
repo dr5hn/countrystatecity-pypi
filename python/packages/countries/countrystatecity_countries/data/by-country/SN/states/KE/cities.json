@@ -9,7 +9,12 @@
     "latitude": "12.59971000",
     "longitude": "-12.77619000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2075446",
+    "type": "city",
+    "native": "Département de Salémata",
+    "timezone": "Africa/Dakar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104727,
@@ -21,7 +26,12 @@
     "latitude": "12.55561000",
     "longitude": "-12.18076000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q586498",
+    "type": "adm1",
+    "native": "Kédougou",
+    "timezone": "Africa/Dakar",
+    "population": 30051,
+    "population_year": null
   },
   {
     "id": 104728,
@@ -33,7 +43,12 @@
     "latitude": "12.81716000",
     "longitude": "-12.17834000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2083190",
+    "type": "adm1",
+    "native": "Kédougou Department",
+    "timezone": "Africa/Dakar",
+    "population": 78522,
+    "population_year": null
   },
   {
     "id": 104758,
@@ -45,6 +60,11 @@
     "latitude": "13.00150000",
     "longitude": "-11.79627000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q942594",
+    "type": "city",
+    "native": "Saraya",
+    "timezone": "Africa/Dakar",
+    "population": 50724,
+    "population_year": null
   }
 ]

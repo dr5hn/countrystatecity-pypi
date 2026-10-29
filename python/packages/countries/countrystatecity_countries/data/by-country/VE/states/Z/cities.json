@@ -9,7 +9,12 @@
     "latitude": "3.17453000",
     "longitude": "-65.54517000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q430374",
+    "type": "adm2",
+    "native": "La Esmeralda",
+    "timezone": "America/Caracas",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130106,
@@ -21,7 +26,12 @@
     "latitude": "2.71880000",
     "longitude": "-67.56046000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q685198",
+    "type": "adm2",
+    "native": "Maroa",
+    "timezone": "America/Caracas",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 130110,
@@ -33,7 +43,12 @@
     "latitude": "2.73456000",
     "longitude": "-64.83032000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Municipio Autónomo Alto Orinoco",
+    "timezone": "America/Caracas",
+    "population": 12687,
+    "population_year": null
   },
   {
     "id": 130131,
@@ -45,7 +60,12 @@
     "latitude": "5.66049000",
     "longitude": "-67.58343000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q372920",
+    "type": "adm1",
+    "native": "Puerto Ayacucho",
+    "timezone": "America/Caracas",
+    "population": 130000,
+    "population_year": null
   },
   {
     "id": 130142,
@@ -57,7 +77,12 @@
     "latitude": "1.92027000",
     "longitude": "-67.06089000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1269422",
+    "type": "adm2",
+    "native": "San Carlos de Río Negro",
+    "timezone": "America/Caracas",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 130146,
@@ -69,7 +94,12 @@
     "latitude": "4.04564000",
     "longitude": "-67.69934000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q371223",
+    "type": "adm2",
+    "native": "San Fernando de Atabapo",
+    "timezone": "America/Caracas",
+    "population": 11929,
+    "population_year": null
   },
   {
     "id": 130149,
@@ -81,6 +111,11 @@
     "latitude": "5.32665000",
     "longitude": "-66.05402000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1023656",
+    "type": "adm2",
+    "native": "San Juan de Manapiare",
+    "timezone": "America/Caracas",
+    "population": 0,
+    "population_year": null
   }
 ]

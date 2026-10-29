@@ -9,7 +9,12 @@
     "latitude": "29.52667000",
     "longitude": "35.00778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q180522",
+    "type": "adm1",
+    "native": "العقبة",
+    "timezone": "Asia/Amman",
+    "population": 95048,
+    "population_year": null
   },
   {
     "id": 63188,
@@ -21,6 +26,11 @@
     "latitude": "29.40842000",
     "longitude": "34.97918000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "خليج تالا",
+    "timezone": "Asia/Amman",
+    "population": 2000,
+    "population_year": null
   }
 ]

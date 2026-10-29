@@ -9,7 +9,12 @@
     "latitude": "51.46593000",
     "longitude": "-0.10652000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Brixton",
+    "timezone": "Europe/London",
+    "population": 66300,
+    "population_year": null
   },
   {
     "id": 48708,
@@ -21,7 +26,12 @@
     "latitude": "51.45213000",
     "longitude": "-0.12300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Brixton Hill",
+    "timezone": "Europe/London",
+    "population": 12458,
+    "population_year": null
   },
   {
     "id": 50866,
@@ -33,6 +43,11 @@
     "latitude": "51.47403000",
     "longitude": "-0.06969000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Peckham",
+    "timezone": "Europe/London",
+    "population": 71552,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "25.29194000",
     "longitude": "51.42444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "الريان",
+    "timezone": "Asia/Qatar",
+    "population": 272465,
+    "population_year": null
   },
   {
     "id": 89869,
@@ -21,6 +26,11 @@
     "latitude": "25.21417000",
     "longitude": "50.80722000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3296219",
+    "type": "city",
+    "native": "أم باب",
+    "timezone": "Asia/Qatar",
+    "population": 2500,
+    "population_year": null
   }
 ]

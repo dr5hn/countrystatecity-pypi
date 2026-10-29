@@ -63,3 +63,5 @@ dmypy.json
 *.log
 *.tmp
 .cache/
+# Pinned upstream inputs downloaded by fetch-release.py
+python/data/

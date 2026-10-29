@@ -9,7 +9,12 @@
     "latitude": "15.43317000",
     "longitude": "106.38272000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "ບ້ານທ່າແຕງ",
+    "timezone": "Asia/Vientiane",
+    "population": 1500,
+    "population_year": null
   },
   {
     "id": 65862,
@@ -21,7 +26,12 @@
     "latitude": "15.41705000",
     "longitude": "106.69461000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2087536",
+    "type": "city",
+    "native": "ລຳ",
+    "timezone": "Asia/Vientiane",
+    "population": 4463,
+    "population_year": null
   },
   {
     "id": 65871,
@@ -33,7 +43,12 @@
     "latitude": "15.38199000",
     "longitude": "107.31847000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5209893",
+    "type": "adm2",
+    "native": "ເມືອງດາກຈຶງ",
+    "timezone": "Asia/Vientiane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65873,
@@ -45,7 +60,12 @@
     "latitude": "15.79886000",
     "longitude": "107.04529000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6352195",
+    "type": "city",
+    "native": "ເມືອງຄຳເກີດ",
+    "timezone": "Asia/Vientiane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65877,
@@ -57,7 +77,12 @@
     "latitude": "15.41273000",
     "longitude": "106.81706000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6480669",
+    "type": "city",
+    "native": "ເມືອງລະມາມ",
+    "timezone": "Asia/Vientiane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65906,
@@ -69,6 +94,11 @@
     "latitude": "15.42745000",
     "longitude": "106.48149000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7708782",
+    "type": "city",
+    "native": "ເມືອງທ່າແຕງ",
+    "timezone": "Asia/Vientiane",
+    "population": null,
+    "population_year": null
   }
 ]

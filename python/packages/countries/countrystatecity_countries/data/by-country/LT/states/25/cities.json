@@ -9,7 +9,12 @@
     "latitude": "54.41468000",
     "longitude": "23.22484000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1461987",
+    "type": "municipality",
+    "native": "Kalvarija savivaldybė",
+    "timezone": "Europe/Vilnius",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 66618,
@@ -21,7 +26,12 @@
     "latitude": "54.74751000",
     "longitude": "23.49272000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1461972",
+    "type": "municipality",
+    "native": "Kazlų Rūda Municipality",
+    "timezone": "Europe/Vilnius",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 66623,
@@ -33,7 +43,12 @@
     "latitude": "54.77353000",
     "longitude": "22.86138000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q277936",
+    "type": "city",
+    "native": "Kudirkos Naumiestis",
+    "timezone": "Europe/Vilnius",
+    "population": 1961,
+    "population_year": null
   },
   {
     "id": 66634,
@@ -45,7 +60,12 @@
     "latitude": "54.55991000",
     "longitude": "23.35412000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1351046",
+    "type": "adm1",
+    "native": "Marijampolė",
+    "timezone": "Europe/Vilnius",
+    "population": 36807,
+    "population_year": null
   },
   {
     "id": 66635,
@@ -57,7 +77,12 @@
     "latitude": "54.56667000",
     "longitude": "23.35000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1351046",
+    "type": "municipality",
+    "native": "Marijampolė Municipality",
+    "timezone": "Europe/Vilnius",
+    "population": 34975,
+    "population_year": null
   },
   {
     "id": 66672,
@@ -69,7 +94,12 @@
     "latitude": "54.95000000",
     "longitude": "23.05000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Sakiai",
+    "timezone": "Europe/Vilnius",
+    "population": 5440,
+    "population_year": null
   },
   {
     "id": 66699,
@@ -81,7 +111,12 @@
     "latitude": "54.65167000",
     "longitude": "23.03222000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Vilkaviskis",
+    "timezone": "Europe/Vilnius",
+    "population": 10291,
+    "population_year": null
   },
   {
     "id": 66700,
@@ -93,6 +128,11 @@
     "latitude": "54.65000000",
     "longitude": "23.03333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Vilkaviškis District Municipality",
+    "timezone": "Europe/Vilnius",
+    "population": 9444,
+    "population_year": null
   }
 ]

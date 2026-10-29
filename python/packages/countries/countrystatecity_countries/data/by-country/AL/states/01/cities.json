@@ -9,7 +9,12 @@
     "latitude": "40.82492000",
     "longitude": "19.84074000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3301181",
+    "type": "city",
+    "native": "Banaj",
+    "timezone": "Europe/Tirane",
+    "population": 844,
+    "population_year": null
   },
   {
     "id": 154,
@@ -21,7 +26,12 @@
     "latitude": "40.69997000",
     "longitude": "19.94983000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3301181",
+    "type": "municipality",
+    "native": "Bashkia Berat",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 170,
@@ -33,7 +43,12 @@
     "latitude": "40.82489000",
     "longitude": "19.95350000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Kuçovë",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 180,
@@ -45,7 +60,12 @@
     "latitude": "40.58608000",
     "longitude": "20.04535000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Poliçan",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 186,
@@ -57,7 +77,12 @@
     "latitude": "40.56036000",
     "longitude": "20.25477000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bashkia Skrapar",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 191,
@@ -69,7 +94,12 @@
     "latitude": "40.70583000",
     "longitude": "19.95222000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q170244",
+    "type": "adm1",
+    "native": "Berat",
+    "timezone": "Europe/Tirane",
+    "population": 62232,
+    "population_year": null
   },
   {
     "id": 280,
@@ -81,7 +111,12 @@
     "latitude": "40.50417000",
     "longitude": "20.22722000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q19307",
+    "type": "adm2",
+    "native": "Çorovodë",
+    "timezone": "Europe/Tirane",
+    "population": 4051,
+    "population_year": null
   },
   {
     "id": 219,
@@ -93,7 +128,12 @@
     "latitude": "40.80028000",
     "longitude": "19.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18774",
+    "type": "adm2",
+    "native": "Kuçovë",
+    "timezone": "Europe/Tirane",
+    "population": 31077,
+    "population_year": null
   },
   {
     "id": 238,
@@ -105,7 +145,12 @@
     "latitude": "40.61222000",
     "longitude": "20.09806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18751",
+    "type": "adm3",
+    "native": "Poliçan",
+    "timezone": "Europe/Tirane",
+    "population": 4318,
+    "population_year": null
   },
   {
     "id": 242,
@@ -117,7 +162,12 @@
     "latitude": "40.66667000",
     "longitude": "20.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q202981",
+    "type": "city",
+    "native": "Rrethi i Beratit",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 253,
@@ -129,7 +179,12 @@
     "latitude": "40.83333000",
     "longitude": "19.91667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q211946",
+    "type": "city",
+    "native": "Rrethi i Kuçovës",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 258,
@@ -141,7 +196,12 @@
     "latitude": "40.55000000",
     "longitude": "20.26667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q194381",
+    "type": "adm3",
+    "native": "Rrethi i Skraparit",
+    "timezone": "Europe/Tirane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 157044,
@@ -153,7 +213,12 @@
     "latitude": "40.54071390",
     "longitude": "20.10188400",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20850560",
+    "type": "adm3",
+    "native": "Skrapari",
+    "timezone": "Europe/Tirane",
+    "population": 12403,
+    "population_year": null
   },
   {
     "id": 273,
@@ -165,6 +230,11 @@
     "latitude": "40.76889000",
     "longitude": "19.87778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1524575",
+    "type": "adm3",
+    "native": "Ura Vajgurore",
+    "timezone": "Europe/Tirane",
+    "population": 7232,
+    "population_year": null
   }
 ]

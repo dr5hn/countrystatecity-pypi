@@ -9,7 +9,12 @@
     "latitude": "11.97028000",
     "longitude": "-85.17113000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1186803",
+    "type": "adm2",
+    "native": "Acoyapa",
+    "timezone": "America/Managua",
+    "population": 10536,
+    "population_year": null
   },
   {
     "id": 77170,
@@ -21,7 +26,12 @@
     "latitude": "12.28345000",
     "longitude": "-85.51081000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q677924",
+    "type": "adm2",
+    "native": "Comalapa",
+    "timezone": "America/Managua",
+    "population": 1272,
+    "population_year": null
   },
   {
     "id": 77174,
@@ -33,7 +43,12 @@
     "latitude": "12.26875000",
     "longitude": "-85.38205000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2215598",
+    "type": "adm2",
+    "native": "Cuapa",
+    "timezone": "America/Managua",
+    "population": 2400,
+    "population_year": null
   },
   {
     "id": 77181,
@@ -45,7 +60,12 @@
     "latitude": "12.19046000",
     "longitude": "-85.28737000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2215912",
+    "type": "city",
+    "native": "El Ayote",
+    "timezone": "America/Managua",
+    "population": 5406,
+    "population_year": null
   },
   {
     "id": 77197,
@@ -57,7 +77,12 @@
     "latitude": "12.10629000",
     "longitude": "-85.36452000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1025801",
+    "type": "adm1",
+    "native": "Juigalpa",
+    "timezone": "America/Managua",
+    "population": 51838,
+    "population_year": null
   },
   {
     "id": 77204,
@@ -69,7 +94,12 @@
     "latitude": "12.21635000",
     "longitude": "-85.16595000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2606938",
+    "type": "adm2",
+    "native": "La Libertad",
+    "timezone": "America/Managua",
+    "population": 3127,
+    "population_year": null
   },
   {
     "id": 165334,
@@ -81,7 +111,12 @@
     "latitude": "12.12943000",
     "longitude": "-85.11523000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31891580",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Managua",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 77276,
@@ -93,7 +128,12 @@
     "latitude": "12.26438000",
     "longitude": "-85.08235000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1647902",
+    "type": "adm2",
+    "native": "Santo Domingo",
+    "timezone": "America/Managua",
+    "population": 5827,
+    "population_year": null
   },
   {
     "id": 77277,
@@ -105,7 +145,12 @@
     "latitude": "12.06938000",
     "longitude": "-85.09059000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31513084",
+    "type": "adm2",
+    "native": "Santo Tomás",
+    "timezone": "America/Managua",
+    "population": 14809,
+    "population_year": null
   },
   {
     "id": 77293,
@@ -117,6 +162,11 @@
     "latitude": "12.04830000",
     "longitude": "-84.99362000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Villa Sandino",
+    "timezone": "America/Managua",
+    "population": 7799,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "10.06470000",
     "longitude": "-69.35703000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4709",
+    "type": "adm1",
+    "native": "Barquisimeto",
+    "timezone": "America/Caracas",
+    "population": 1059092,
+    "population_year": null
   },
   {
     "id": 130051,
@@ -21,7 +26,12 @@
     "latitude": "10.02658000",
     "longitude": "-69.26203000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q580968",
+    "type": "adm2",
+    "native": "Cabudare",
+    "timezone": "America/Caracas",
+    "population": 102686,
+    "population_year": null
   },
   {
     "id": 130057,
@@ -33,7 +43,12 @@
     "latitude": "10.17283000",
     "longitude": "-70.08100000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1044689",
+    "type": "adm2",
+    "native": "Carora",
+    "timezone": "America/Caracas",
+    "population": 112600,
+    "population_year": null
   },
   {
     "id": 130079,
@@ -45,7 +60,12 @@
     "latitude": "9.78709000",
     "longitude": "-69.79294000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1324653",
+    "type": "adm2",
+    "native": "El Tocuyo",
+    "timezone": "America/Caracas",
+    "population": 74829,
+    "population_year": null
   },
   {
     "id": 130099,
@@ -57,7 +77,12 @@
     "latitude": "10.02588000",
     "longitude": "-69.24166000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31943619",
+    "type": "city",
+    "native": "Los Rastrojos",
+    "timezone": "America/Caracas",
+    "population": 100497,
+    "population_year": null
   },
   {
     "id": 130137,
@@ -69,7 +94,12 @@
     "latitude": "9.92866000",
     "longitude": "-69.62010000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1021748",
+    "type": "adm2",
+    "native": "Quíbor",
+    "timezone": "America/Caracas",
+    "population": 51377,
+    "population_year": null
   },
   {
     "id": 165847,
@@ -81,6 +111,11 @@
     "latitude": "9.78129000",
     "longitude": "-69.16330000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1111533",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Caracas",
+    "population": null,
+    "population_year": null
   }
 ]

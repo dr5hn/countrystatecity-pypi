@@ -9,7 +9,12 @@
     "latitude": "48.29359000",
     "longitude": "89.51488000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2593952",
+    "type": "adm2",
+    "native": "Алтай",
+    "timezone": "Asia/Hovd",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 67740,
@@ -21,7 +26,12 @@
     "latitude": "48.96833000",
     "longitude": "89.96250000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q297060",
+    "type": "adm1",
+    "native": "Өлгий",
+    "timezone": "Asia/Hovd",
+    "population": 28400,
+    "population_year": null
   },
   {
     "id": 67733,
@@ -33,6 +43,11 @@
     "latitude": "48.94314000",
     "longitude": "89.14358000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Цэнгэл",
+    "timezone": "Asia/Hovd",
+    "population": 0,
+    "population_year": null
   }
 ]

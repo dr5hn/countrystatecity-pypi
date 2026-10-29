@@ -9,7 +9,12 @@
     "latitude": "-2.27169000",
     "longitude": "40.90201000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Lamu",
+    "timezone": "Africa/Nairobi",
+    "population": 25385,
+    "population_year": null
   },
   {
     "id": 64878,
@@ -21,6 +26,11 @@
     "latitude": "-2.38892000",
     "longitude": "40.43827000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Witu",
+    "timezone": "Africa/Nairobi",
+    "population": 5380,
+    "population_year": null
   }
 ]

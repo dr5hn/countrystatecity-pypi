@@ -9,7 +9,12 @@
     "latitude": "24.60769000",
     "longitude": "93.77998000",
     "county_id": 10860,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "बिश्नुपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 67783,
+    "population_year": null
   },
   {
     "id": 153522,
@@ -21,7 +26,12 @@
     "latitude": "24.57390000",
     "longitude": "94.29130000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q706371",
+    "type": "city",
+    "native": "चंदेल",
+    "timezone": "Asia/Kolkata",
+    "population": 144182,
+    "population_year": null
   },
   {
     "id": 131585,
@@ -33,7 +43,12 @@
     "latitude": "24.33333000",
     "longitude": "93.68333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2577281",
+    "type": "city",
+    "native": "छुरछंदपुर",
+    "timezone": "Asia/Kolkata",
+    "population": 47774,
+    "population_year": null
   },
   {
     "id": 132162,
@@ -45,7 +60,12 @@
     "latitude": "24.79110000",
     "longitude": "93.93480000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "area",
+    "native": "इम्फाल पूर्व",
+    "timezone": "Asia/Kolkata",
+    "population": 456113,
+    "population_year": null
   },
   {
     "id": 132953,
@@ -57,7 +77,12 @@
     "latitude": "24.60998000",
     "longitude": "93.88873000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q706300",
+    "type": "city",
+    "native": "इम्फाल पश्चिम",
+    "timezone": "Asia/Kolkata",
+    "population": 517992,
+    "population_year": null
   },
   {
     "id": 153527,
@@ -69,7 +94,12 @@
     "latitude": "24.80750000",
     "longitude": "93.11388889",
     "county_id": 11209,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "जिरीबाम",
+    "timezone": "Asia/Kolkata",
+    "population": 7343,
+    "population_year": null
   },
   {
     "id": 132341,
@@ -81,7 +111,12 @@
     "latitude": "24.49820000",
     "longitude": "93.98126000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2466061",
+    "type": "adm2",
+    "native": "काकचिंग",
+    "timezone": "Asia/Kolkata",
+    "population": 32138,
+    "population_year": null
   },
   {
     "id": 153526,
@@ -93,7 +128,12 @@
     "latitude": "24.85996860",
     "longitude": "94.50586430",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q28419390",
+    "type": "adm2",
+    "native": "कामजोंग",
+    "timezone": "Asia/Kolkata",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153523,
@@ -105,7 +145,12 @@
     "latitude": "24.08950000",
     "longitude": "93.99010000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q706442",
+    "type": "adm2",
+    "native": "कांगपोकपी",
+    "timezone": "Asia/Kolkata",
+    "population": 7476,
+    "population_year": null
   },
   {
     "id": 164960,
@@ -117,7 +162,12 @@
     "latitude": "24.60998000",
     "longitude": "93.88873000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2564021",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 24239,
+    "population_year": null
   },
   {
     "id": 165004,
@@ -129,7 +179,12 @@
     "latitude": "24.49750000",
     "longitude": "93.77791000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2625382",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 19893,
+    "population_year": null
   },
   {
     "id": 164974,
@@ -141,7 +196,12 @@
     "latitude": "24.69557000",
     "longitude": "93.81974000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2564000",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kolkata",
+    "population": 22512,
+    "population_year": null
   },
   {
     "id": 153528,
@@ -153,7 +213,12 @@
     "latitude": "24.84911310",
     "longitude": "93.59673660",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q28419389",
+    "type": "city",
+    "native": "नोनी",
+    "timezone": "Asia/Kolkata",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 153525,
@@ -165,7 +230,12 @@
     "latitude": "24.14370000",
     "longitude": "93.52700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q706492",
+    "type": "city",
+    "native": "फ़ेरज़ावल",
+    "timezone": "Asia/Kolkata",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 133837,
@@ -177,7 +247,12 @@
     "latitude": "25.26705000",
     "longitude": "94.02237000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "area",
+    "native": "सेनापति",
+    "timezone": "Asia/Kolkata",
+    "population": 479148,
+    "population_year": null
   },
   {
     "id": 134109,
@@ -189,7 +264,12 @@
     "latitude": "24.97548000",
     "longitude": "93.51563000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2301717",
+    "type": "city",
+    "native": "तामेंगलांग",
+    "timezone": "Asia/Kolkata",
+    "population": 19363,
+    "population_year": null
   },
   {
     "id": 153524,
@@ -201,7 +281,12 @@
     "latitude": "24.39450000",
     "longitude": "94.10530000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q706488",
+    "type": "city",
+    "native": "टेंग्नौपाल",
+    "timezone": "Asia/Kolkata",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 134159,
@@ -213,7 +298,12 @@
     "latitude": "24.62205000",
     "longitude": "94.01001000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2086198",
+    "type": "city",
+    "native": "थौबल",
+    "timezone": "Asia/Kolkata",
+    "population": 45947,
+    "population_year": null
   },
   {
     "id": 134264,
@@ -225,6 +315,11 @@
     "latitude": "25.04828000",
     "longitude": "94.35883000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q735101",
+    "type": "city",
+    "native": "उखरूल",
+    "timezone": "Asia/Kolkata",
+    "population": 27187,
+    "population_year": null
   }
 ]

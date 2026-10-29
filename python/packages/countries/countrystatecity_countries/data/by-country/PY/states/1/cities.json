@@ -9,7 +9,12 @@
     "latitude": "-23.46611000",
     "longitude": "-57.26194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Belén",
+    "timezone": "America/Asuncion",
+    "population": 1621,
+    "population_year": null
   },
   {
     "id": 89755,
@@ -21,7 +26,12 @@
     "latitude": "-23.39985000",
     "longitude": "-57.43236000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q840962",
+    "type": "adm1",
+    "native": "Concepción",
+    "timezone": "America/Asuncion",
+    "population": 45068,
+    "population_year": null
   },
   {
     "id": 89777,
@@ -33,6 +43,11 @@
     "latitude": "-23.34278000",
     "longitude": "-57.05972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Horqueta",
+    "timezone": "America/Asuncion",
+    "population": 10531,
+    "population_year": null
   }
 ]

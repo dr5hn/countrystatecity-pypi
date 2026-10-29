@@ -9,7 +9,12 @@
     "latitude": "-39.63810000",
     "longitude": "176.84918000",
     "county_id": 13760,
-    "wikiDataId": null
+    "wikiDataId": "Q1015690",
+    "type": "city",
+    "native": "Hastings",
+    "timezone": "Pacific/Auckland",
+    "population": 89200,
+    "population_year": null
   },
   {
     "id": 79836,
@@ -21,7 +26,12 @@
     "latitude": "-39.49260000",
     "longitude": "176.91233000",
     "county_id": 13761,
-    "wikiDataId": null
+    "wikiDataId": "Q203380",
+    "type": "city",
+    "native": "Napier",
+    "timezone": "Pacific/Auckland",
+    "population": 66300,
+    "population_year": null
   },
   {
     "id": 79887,
@@ -33,7 +43,12 @@
     "latitude": "-39.53333000",
     "longitude": "176.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Taradale",
+    "timezone": "Pacific/Auckland",
+    "population": 12940,
+    "population_year": null
   },
   {
     "id": 79906,
@@ -45,6 +60,11 @@
     "latitude": "-39.03333000",
     "longitude": "177.36667000",
     "county_id": 13759,
-    "wikiDataId": null
+    "wikiDataId": "Q599594",
+    "type": "town",
+    "native": "Wairoa",
+    "timezone": "Pacific/Auckland",
+    "population": 4260,
+    "population_year": null
   }
 ]

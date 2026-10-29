@@ -9,7 +9,12 @@
     "latitude": "17.49952000",
     "longitude": "-88.19756000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q108223",
+    "type": "adm1",
+    "native": "Belize City",
+    "timezone": "America/Belize",
+    "population": 63999,
+    "population_year": null
   },
   {
     "id": 16143,
@@ -21,6 +26,11 @@
     "latitude": "17.91598000",
     "longitude": "-87.96590000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q677300",
+    "type": "city",
+    "native": "San Pedro",
+    "timezone": "America/Belize",
+    "population": 15456,
+    "population_year": null
   }
 ]

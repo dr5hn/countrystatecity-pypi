@@ -9,7 +9,12 @@
     "latitude": "-2.10967000",
     "longitude": "133.52461000",
     "county_id": 8842,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Bintuni",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166677,
@@ -21,7 +26,12 @@
     "latitude": "-2.92481000",
     "longitude": "132.29813000",
     "county_id": 8841,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Fak Fak",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166695,
@@ -33,7 +43,12 @@
     "latitude": "-3.66350000",
     "longitude": "133.76490000",
     "county_id": 8844,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Kaimana",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56860,
@@ -45,7 +60,12 @@
     "latitude": "-0.86291000",
     "longitude": "134.06402000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q848672",
+    "type": "adm1",
+    "native": "Manokwari",
+    "timezone": "Asia/Jayapura",
+    "population": 107325,
+    "population_year": null
   },
   {
     "id": 166754,
@@ -57,7 +77,12 @@
     "latitude": "-1.50830000",
     "longitude": "134.17080000",
     "county_id": 8845,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Ransiki",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166840,
@@ -69,6 +94,11 @@
     "latitude": "-2.81700000",
     "longitude": "134.52920000",
     "county_id": 8843,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Rasiei",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   }
 ]

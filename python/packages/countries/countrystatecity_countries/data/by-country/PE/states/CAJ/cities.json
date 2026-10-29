@@ -9,7 +9,12 @@
     "latitude": "-6.68333000",
     "longitude": "-78.53333000",
     "county_id": 8232,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bambamarca",
+    "timezone": "America/Lima",
+    "population": 13351,
+    "population_year": null
   },
   {
     "id": 166885,
@@ -21,7 +26,12 @@
     "latitude": "-6.68000000",
     "longitude": "-78.53000000",
     "county_id": 8232,
-    "wikiDataId": null
+    "wikiDataId": "Q3348274",
+    "type": "city",
+    "native": "Bambamarca",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80580,
@@ -33,7 +43,12 @@
     "latitude": "-7.61667000",
     "longitude": "-78.05000000",
     "county_id": 8227,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Cajabamba",
+    "timezone": "America/Lima",
+    "population": 13486,
+    "population_year": null
   },
   {
     "id": 166876,
@@ -45,7 +60,12 @@
     "latitude": "-7.62372222",
     "longitude": "-78.04603056",
     "county_id": 8227,
-    "wikiDataId": null
+    "wikiDataId": "Q3344351",
+    "type": "city",
+    "native": "Cajabamba",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80581,
@@ -57,7 +77,12 @@
     "latitude": "-7.16378000",
     "longitude": "-78.50027000",
     "county_id": 8226,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Cajamarca",
+    "timezone": "America/Lima",
+    "population": 201329,
+    "population_year": null
   },
   {
     "id": 80600,
@@ -69,7 +94,12 @@
     "latitude": "-6.86590000",
     "longitude": "-78.14585000",
     "county_id": 8228,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Celendín",
+    "timezone": "America/Lima",
+    "population": 14660,
+    "population_year": null
   },
   {
     "id": 166879,
@@ -81,7 +111,12 @@
     "latitude": "-6.86590556",
     "longitude": "-78.14489167",
     "county_id": 8228,
-    "wikiDataId": null
+    "wikiDataId": "Q3344002",
+    "type": "city",
+    "native": "Celendín",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80623,
@@ -93,7 +128,12 @@
     "latitude": "-6.55000000",
     "longitude": "-78.65000000",
     "county_id": 8229,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Chota",
+    "timezone": "America/Lima",
+    "population": 14240,
+    "population_year": null
   },
   {
     "id": 166882,
@@ -105,7 +145,12 @@
     "latitude": "-6.56138889",
     "longitude": "-78.64861111",
     "county_id": 8229,
-    "wikiDataId": null
+    "wikiDataId": "Q2964558",
+    "type": "city",
+    "native": "Chota",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 165437,
@@ -117,7 +162,12 @@
     "latitude": "-7.36633000",
     "longitude": "-78.80505000",
     "county_id": 8230,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": null,
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166884,
@@ -129,7 +179,12 @@
     "latitude": "-7.36651667",
     "longitude": "-78.80511667",
     "county_id": 8230,
-    "wikiDataId": null
+    "wikiDataId": "Q3344032",
+    "type": "city",
+    "native": "Contumazá",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80678,
@@ -141,7 +196,12 @@
     "latitude": "-5.70729000",
     "longitude": "-78.80785000",
     "county_id": 8233,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Jaén",
+    "timezone": "America/Lima",
+    "population": 52493,
+    "population_year": null
   },
   {
     "id": 80786,
@@ -153,7 +213,12 @@
     "latitude": "-7.33333000",
     "longitude": "-78.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1431135",
+    "type": "province",
+    "native": "Provincia de Cajamarca",
+    "timezone": "America/Lima",
+    "population": 348433,
+    "population_year": null
   },
   {
     "id": 80819,
@@ -165,7 +230,12 @@
     "latitude": "-6.36667000",
     "longitude": "-78.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1947910",
+    "type": "adm3",
+    "native": "Provincia de Cutervo",
+    "timezone": "America/Lima",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 80847,
@@ -177,7 +247,12 @@
     "latitude": "-5.71074000",
     "longitude": "-79.00438000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q683949",
+    "type": "province",
+    "native": "Provincia de Jaén",
+    "timezone": "America/Lima",
+    "population": 185432,
+    "population_year": null
   },
   {
     "id": 80886,
@@ -189,7 +264,12 @@
     "latitude": "-5.08333000",
     "longitude": "-79.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1814197",
+    "type": "adm3",
+    "native": "Provincia de San Ignacio",
+    "timezone": "America/Lima",
+    "population": 7912,
+    "population_year": null
   },
   {
     "id": 80891,
@@ -201,7 +281,12 @@
     "latitude": "-6.83333000",
     "longitude": "-79.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2084630",
+    "type": "province",
+    "native": "Provincia de Santa Cruz",
+    "timezone": "America/Lima",
+    "population": 37164,
+    "population_year": null
   },
   {
     "id": 167883,
@@ -213,7 +298,12 @@
     "latitude": "-5.14583000",
     "longitude": "-79.00139000",
     "county_id": 8234,
-    "wikiDataId": null
+    "wikiDataId": "Q7414298",
+    "type": "municipality",
+    "native": "San Ignacio",
+    "timezone": "America/Lima",
+    "population": 7912,
+    "population_year": null
   },
   {
     "id": 165438,
@@ -225,6 +315,11 @@
     "latitude": "-7.00037000",
     "longitude": "-78.85142000",
     "county_id": 8236,
-    "wikiDataId": null
+    "wikiDataId": "Q11002429",
+    "type": "city",
+    "native": null,
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   }
 ]

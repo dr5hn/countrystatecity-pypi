@@ -9,7 +9,12 @@
     "latitude": "51.65147000",
     "longitude": "-0.08497000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q544939",
+    "type": "adm3",
+    "native": "Enfield Town",
+    "timezone": "Europe/London",
+    "population": 156858,
+    "population_year": null
   },
   {
     "id": 49775,
@@ -21,6 +26,11 @@
     "latitude": "51.66669000",
     "longitude": "-0.16981000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Hadley Wood",
+    "timezone": "Europe/London",
+    "population": 21639,
+    "population_year": null
   }
 ]

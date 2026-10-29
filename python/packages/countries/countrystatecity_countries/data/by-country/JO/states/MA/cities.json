@@ -9,7 +9,12 @@
     "latitude": "32.44017000",
     "longitude": "36.15265000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الحمراء",
+    "timezone": "Asia/Amman",
+    "population": 6211,
+    "population_year": null
   },
   {
     "id": 63171,
@@ -21,7 +26,12 @@
     "latitude": "32.34289000",
     "longitude": "36.20804000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q276747",
+    "type": "adm1",
+    "native": "المفرق",
+    "timezone": "Asia/Amman",
+    "population": 57118,
+    "population_year": null
   },
   {
     "id": 63179,
@@ -33,7 +43,12 @@
     "latitude": "32.32341000",
     "longitude": "36.09087000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "historical",
+    "native": "Rehab",
+    "timezone": "Asia/Amman",
+    "population": 10000,
+    "population_year": null
   },
   {
     "id": 63180,
@@ -45,7 +60,12 @@
     "latitude": "33.31405000",
     "longitude": "38.70342000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "الركبان",
+    "timezone": "Asia/Amman",
+    "population": 85000,
+    "population_year": null
   },
   {
     "id": 63198,
@@ -57,7 +77,12 @@
     "latitude": "32.32696000",
     "longitude": "36.50159000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "شابا",
+    "timezone": "Asia/Amman",
+    "population": 5315,
+    "population_year": null
   },
   {
     "id": 63191,
@@ -69,6 +94,11 @@
     "latitude": "32.31449000",
     "longitude": "36.62826000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "أم القطين",
+    "timezone": "Asia/Amman",
+    "population": 4225,
+    "population_year": null
   }
 ]

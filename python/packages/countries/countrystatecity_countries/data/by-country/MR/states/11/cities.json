@@ -9,7 +9,12 @@
     "latitude": "25.99444444",
     "longitude": "-9.55333333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2828130",
+    "type": "city",
+    "native": "عين بن تيلي",
+    "timezone": "Africa/Nouakchott",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 150079,
@@ -21,7 +26,12 @@
     "latitude": "25.37194444",
     "longitude": "-5.78666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3498088",
+    "type": "city",
+    "native": "تشيجا",
+    "timezone": "Africa/Nouakchott",
+    "population": 1,
+    "population_year": null
   },
   {
     "id": 150080,
@@ -33,7 +43,12 @@
     "latitude": "22.67777778",
     "longitude": "-12.70750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q113034",
+    "type": "city",
+    "native": "فريدريك",
+    "timezone": "Africa/Nouakchott",
+    "population": 4073,
+    "population_year": null
   },
   {
     "id": 67756,
@@ -45,6 +60,11 @@
     "latitude": "22.73542000",
     "longitude": "-12.47134000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q227072",
+    "type": "adm1",
+    "native": "الزويرات",
+    "timezone": "Africa/Nouakchott",
+    "population": 55183,
+    "population_year": null
   }
 ]

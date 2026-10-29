@@ -9,7 +9,12 @@
     "latitude": "-10.66748000",
     "longitude": "-76.25668000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q674320",
+    "type": "adm1",
+    "native": "Cerro de Pasco",
+    "timezone": "America/Lima",
+    "population": 58899,
+    "population_year": null
   },
   {
     "id": 80605,
@@ -21,7 +26,12 @@
     "latitude": "-10.40696000",
     "longitude": "-76.46168000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Chaupimarca",
+    "timezone": "America/Lima",
+    "population": 28666,
+    "population_year": null
   },
   {
     "id": 167880,
@@ -33,7 +43,12 @@
     "latitude": "-10.57750000",
     "longitude": "-75.40167000",
     "county_id": 8324,
-    "wikiDataId": null
+    "wikiDataId": "Q257516",
+    "type": "municipality",
+    "native": "Oxapampa",
+    "timezone": "America/Lima",
+    "population": 12000,
+    "population_year": null
   },
   {
     "id": 80756,
@@ -45,7 +60,12 @@
     "latitude": "-10.77326000",
     "longitude": "-75.81109000",
     "county_id": 8322,
-    "wikiDataId": null
+    "wikiDataId": "Q27194421",
+    "type": "municipality",
+    "native": "Paucartambo",
+    "timezone": "America/Lima",
+    "population": 4438,
+    "population_year": null
   },
   {
     "id": 80820,
@@ -57,7 +77,12 @@
     "latitude": "-10.50000000",
     "longitude": "-76.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1944288",
+    "type": "province",
+    "native": "Provincia de Daniel Carrión",
+    "timezone": "America/Lima",
+    "population": 43580,
+    "population_year": null
   },
   {
     "id": 80867,
@@ -69,7 +94,12 @@
     "latitude": "-10.33333000",
     "longitude": "-75.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q960169",
+    "type": "province",
+    "native": "Provincia de Oxapampa",
+    "timezone": "America/Lima",
+    "population": 87470,
+    "population_year": null
   },
   {
     "id": 80875,
@@ -81,7 +111,12 @@
     "latitude": "-10.66667000",
     "longitude": "-76.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q976034",
+    "type": "province",
+    "native": "Provincia de Pasco",
+    "timezone": "America/Lima",
+    "population": 123015,
+    "population_year": null
   },
   {
     "id": 80994,
@@ -93,7 +128,12 @@
     "latitude": "-10.76771000",
     "longitude": "-76.27523000",
     "county_id": 8322,
-    "wikiDataId": null
+    "wikiDataId": "Q6317037",
+    "type": "municipality",
+    "native": "Tinyahuarco",
+    "timezone": "America/Lima",
+    "population": 5066,
+    "population_year": null
   },
   {
     "id": 81008,
@@ -105,6 +145,11 @@
     "latitude": "-10.73944000",
     "longitude": "-75.26972000",
     "county_id": 8324,
-    "wikiDataId": null
+    "wikiDataId": "Q7930476",
+    "type": "municipality",
+    "native": "Villa Rica",
+    "timezone": "America/Lima",
+    "population": 7448,
+    "population_year": null
   }
 ]

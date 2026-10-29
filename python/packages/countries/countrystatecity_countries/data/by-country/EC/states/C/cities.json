@@ -9,7 +9,12 @@
     "latitude": "0.62279000",
     "longitude": "-77.94003000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q19017191",
+    "type": "adm2",
+    "native": "El Ángel",
+    "timezone": "America/Guayaquil",
+    "population": 3983,
+    "population_year": null
   },
   {
     "id": 31567,
@@ -21,7 +26,12 @@
     "latitude": "0.59318000",
     "longitude": "-77.83078000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4405656",
+    "type": "adm2",
+    "native": "San Gabriel",
+    "timezone": "America/Guayaquil",
+    "population": 14497,
+    "population_year": null
   },
   {
     "id": 31583,
@@ -33,6 +43,11 @@
     "latitude": "0.81187000",
     "longitude": "-77.71727000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q752113",
+    "type": "adm1",
+    "native": "Tulcán",
+    "timezone": "America/Guayaquil",
+    "population": 86498,
+    "population_year": null
   }
 ]

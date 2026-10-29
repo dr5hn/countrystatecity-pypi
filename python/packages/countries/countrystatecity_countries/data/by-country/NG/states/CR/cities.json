@@ -9,7 +9,12 @@
     "latitude": "5.12640000",
     "longitude": "8.18980000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33420650",
+    "type": "locality",
+    "native": "Akankpa",
+    "timezone": "Africa/Lagos",
+    "population": 7000,
+    "population_year": null
   },
   {
     "id": 76821,
@@ -21,7 +26,12 @@
     "latitude": "4.95893000",
     "longitude": "8.32695000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q844091",
+    "type": "city",
+    "native": "Calabar",
+    "timezone": "Africa/Lagos",
+    "population": 540000,
+    "population_year": null
   },
   {
     "id": 76873,
@@ -33,7 +43,12 @@
     "latitude": "6.76963000",
     "longitude": "8.99120000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Gakem",
+    "timezone": "Africa/Lagos",
+    "population": 5865,
+    "population_year": null
   },
   {
     "id": 76931,
@@ -45,7 +60,12 @@
     "latitude": "4.78978000",
     "longitude": "8.53160000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33447899",
+    "type": "locality",
+    "native": "Ikang",
+    "timezone": "Africa/Lagos",
+    "population": 13305,
+    "population_year": null
   },
   {
     "id": 77122,
@@ -57,6 +77,11 @@
     "latitude": "5.80865000",
     "longitude": "8.08098000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3084715",
+    "type": "adm2",
+    "native": "Ugep",
+    "timezone": "Africa/Lagos",
+    "population": 200276,
+    "population_year": null
   }
 ]

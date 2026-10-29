@@ -9,7 +9,12 @@
     "latitude": "-13.79726000",
     "longitude": "-171.85308000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2038921",
+    "type": "adm1",
+    "native": "Afega",
+    "timezone": "Pacific/Apia",
+    "population": 1998,
+    "population_year": null
   },
   {
     "id": 130644,
@@ -21,7 +26,12 @@
     "latitude": "-13.83333000",
     "longitude": "-171.76666000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q36260",
+    "type": "capital",
+    "native": "Apia",
+    "timezone": "Pacific/Apia",
+    "population": 37708,
+    "population_year": null
   },
   {
     "id": 130652,
@@ -33,7 +43,12 @@
     "latitude": "-13.80044000",
     "longitude": "-171.84690000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6743481",
+    "type": "city",
+    "native": "Malie",
+    "timezone": "Pacific/Apia",
+    "population": 2189,
+    "population_year": null
   },
   {
     "id": 130660,
@@ -45,7 +60,12 @@
     "latitude": "-13.86417000",
     "longitude": "-171.76126000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q548806",
+    "type": "city",
+    "native": "Vailima",
+    "timezone": "Pacific/Apia",
+    "population": 1462,
+    "population_year": null
   },
   {
     "id": 130662,
@@ -57,6 +77,11 @@
     "latitude": "-13.82678000",
     "longitude": "-171.79333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7908901",
+    "type": "city",
+    "native": "Vaiusu",
+    "timezone": "Pacific/Apia",
+    "population": 2043,
+    "population_year": null
   }
 ]

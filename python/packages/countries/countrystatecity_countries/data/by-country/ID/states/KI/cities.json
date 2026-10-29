@@ -9,7 +9,12 @@
     "latitude": "-1.26753000",
     "longitude": "116.82887000",
     "county_id": 8726,
-    "wikiDataId": null
+    "wikiDataId": "Q14492",
+    "type": "city",
+    "native": "Balikpapan",
+    "timezone": "Asia/Makassar",
+    "population": 598043,
+    "population_year": null
   },
   {
     "id": 56229,
@@ -21,7 +26,12 @@
     "latitude": "0.13240000",
     "longitude": "117.48540000",
     "county_id": 8728,
-    "wikiDataId": null
+    "wikiDataId": "Q14495",
+    "type": "city",
+    "native": "Bontang",
+    "timezone": "Asia/Makassar",
+    "population": 161413,
+    "population_year": null
   },
   {
     "id": 56254,
@@ -33,7 +43,12 @@
     "latitude": "-1.24204000",
     "longitude": "116.89419000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Kota Balikpapan",
+    "timezone": "Asia/Makassar",
+    "population": 695287,
+    "population_year": null
   },
   {
     "id": 56478,
@@ -45,7 +60,12 @@
     "latitude": "1.03769000",
     "longitude": "117.83112000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14468",
+    "type": "regency",
+    "native": "Kabupaten Kutai Timur",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56845,
@@ -57,7 +77,12 @@
     "latitude": "-0.58295000",
     "longitude": "117.09503000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Loa Janan",
+    "timezone": "Asia/Makassar",
+    "population": 212816,
+    "population_year": null
   },
   {
     "id": 56507,
@@ -69,7 +94,12 @@
     "latitude": "0.37822000",
     "longitude": "115.38048000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12488347",
+    "type": "regency",
+    "native": "Kabupaten Mahakam Hulu",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166794,
@@ -81,7 +111,12 @@
     "latitude": "-1.24919000",
     "longitude": "116.76968000",
     "county_id": 8724,
-    "wikiDataId": null
+    "wikiDataId": "Q138791038",
+    "type": "town",
+    "native": "Penajam",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56959,
@@ -93,7 +128,12 @@
     "latitude": "-0.49167000",
     "longitude": "117.14583000",
     "county_id": 8727,
-    "wikiDataId": null
+    "wikiDataId": "Q14499",
+    "type": "city",
+    "native": "Samarinda",
+    "timezone": "Asia/Makassar",
+    "population": 831460,
+    "population_year": null
   },
   {
     "id": 166720,
@@ -105,7 +145,12 @@
     "latitude": "-0.21666667",
     "longitude": "115.78333333",
     "county_id": 8722,
-    "wikiDataId": null
+    "wikiDataId": "Q7450203",
+    "type": "town",
+    "native": "Sendawar",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166790,
@@ -117,7 +162,12 @@
     "latitude": "-1.90510000",
     "longitude": "116.19130000",
     "county_id": 8719,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Tana Paser",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166649,
@@ -129,7 +179,12 @@
     "latitude": "2.15281000",
     "longitude": "117.49672000",
     "county_id": 8721,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Tanjung Redeb",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166721,
@@ -141,6 +196,11 @@
     "latitude": "-0.42366000",
     "longitude": "116.98895000",
     "county_id": 8720,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Tenggarong",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   }
 ]

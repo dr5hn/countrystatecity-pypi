@@ -9,7 +9,12 @@
     "latitude": "39.54056000",
     "longitude": "43.67135000",
     "county_id": 7010,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Diyadin",
+    "timezone": "Europe/Istanbul",
+    "population": 18172,
+    "population_year": null
   },
   {
     "id": 107527,
@@ -21,7 +26,12 @@
     "latitude": "39.54694000",
     "longitude": "44.08417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q849535",
+    "type": "adm2",
+    "native": "Doğubayazıt",
+    "timezone": "Europe/Istanbul",
+    "population": 70171,
+    "population_year": null
   },
   {
     "id": 107566,
@@ -33,7 +43,12 @@
     "latitude": "39.79803000",
     "longitude": "42.67574000",
     "county_id": 7027,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Eleşkirt",
+    "timezone": "Europe/Istanbul",
+    "population": 18769,
+    "population_year": null
   },
   {
     "id": 107783,
@@ -45,7 +60,12 @@
     "latitude": "39.60561000",
     "longitude": "42.98500000",
     "county_id": 7101,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Hamur",
+    "timezone": "Europe/Istanbul",
+    "population": 4233,
+    "population_year": null
   },
   {
     "id": 107244,
@@ -57,7 +77,12 @@
     "latitude": "39.71944000",
     "longitude": "43.05139000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q199575",
+    "type": "adm1",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 124483,
+    "population_year": 2025
   },
   {
     "id": 108316,
@@ -69,7 +94,12 @@
     "latitude": "39.22493000",
     "longitude": "42.85693000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q509324",
+    "type": "adm2",
+    "native": "Patnos",
+    "timezone": "Europe/Istanbul",
+    "population": 87451,
+    "population_year": null
   },
   {
     "id": 108552,
@@ -81,7 +111,12 @@
     "latitude": "39.62966000",
     "longitude": "43.36878000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1023307",
+    "type": "adm2",
+    "native": "Taşlıçay",
+    "timezone": "Europe/Istanbul",
+    "population": 5477,
+    "population_year": null
   },
   {
     "id": 108608,
@@ -93,6 +128,11 @@
     "latitude": "39.55042000",
     "longitude": "42.77572000",
     "county_id": 7396,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tutak",
+    "timezone": "Europe/Istanbul",
+    "population": 7144,
+    "population_year": 2025
   }
 ]

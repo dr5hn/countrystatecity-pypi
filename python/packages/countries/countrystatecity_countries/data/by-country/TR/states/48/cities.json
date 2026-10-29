@@ -9,7 +9,12 @@
     "latitude": "37.06500000",
     "longitude": "27.49819000",
     "county_id": 6926,
-    "wikiDataId": null
+    "wikiDataId": "Q1960660",
+    "type": "municipality",
+    "native": "Bodrum",
+    "timezone": "Europe/Istanbul",
+    "population": 207196,
+    "population_year": 2025
   },
   {
     "id": 107442,
@@ -21,7 +26,12 @@
     "latitude": "36.81691000",
     "longitude": "28.87815000",
     "county_id": 7445,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Dalaman",
+    "timezone": "Europe/Istanbul",
+    "population": 41351,
+    "population_year": null
   },
   {
     "id": 107452,
@@ -33,7 +43,12 @@
     "latitude": "36.73778000",
     "longitude": "27.68417000",
     "county_id": 6994,
-    "wikiDataId": null
+    "wikiDataId": "Q947051",
+    "type": "municipality",
+    "native": "Datça",
+    "timezone": "Europe/Istanbul",
+    "population": 26067,
+    "population_year": 2025
   },
   {
     "id": 107640,
@@ -45,7 +60,12 @@
     "latitude": "36.64038000",
     "longitude": "29.12758000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q207998",
+    "type": "adm2",
+    "native": "Fethiye",
+    "timezone": "Europe/Istanbul",
+    "population": 187332,
+    "population_year": 2025
   },
   {
     "id": 107943,
@@ -57,7 +77,12 @@
     "latitude": "37.43929000",
     "longitude": "28.38402000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1737217",
+    "type": "adm2",
+    "native": "Kavaklıdere",
+    "timezone": "Europe/Istanbul",
+    "population": 3101,
+    "population_year": null
   },
   {
     "id": 108083,
@@ -69,7 +94,12 @@
     "latitude": "36.97798000",
     "longitude": "28.72418000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q993688",
+    "type": "city",
+    "native": "Köyceğiz",
+    "timezone": "Europe/Istanbul",
+    "population": 38425,
+    "population_year": null
   },
   {
     "id": 108160,
@@ -81,7 +111,12 @@
     "latitude": "36.85500000",
     "longitude": "28.27417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q209908",
+    "type": "adm2",
+    "native": "Marmaris",
+    "timezone": "Europe/Istanbul",
+    "population": 33731,
+    "population_year": null
   },
   {
     "id": 108174,
@@ -93,7 +128,12 @@
     "latitude": "37.21447000",
     "longitude": "28.36168000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6817536",
+    "type": "city",
+    "native": "Menteşe",
+    "timezone": "Europe/Istanbul",
+    "population": 126288,
+    "population_year": 2025
   },
   {
     "id": 108211,
@@ -105,7 +145,12 @@
     "latitude": "37.31639000",
     "longitude": "27.78389000",
     "county_id": 7239,
-    "wikiDataId": null
+    "wikiDataId": "Q924252",
+    "type": "municipality",
+    "native": "Milas",
+    "timezone": "Europe/Istanbul",
+    "population": 152275,
+    "population_year": 2025
   },
   {
     "id": 108279,
@@ -117,7 +162,12 @@
     "latitude": "36.83915000",
     "longitude": "28.76457000",
     "county_id": 7534,
-    "wikiDataId": null
+    "wikiDataId": "Q15963264",
+    "type": "municipality",
+    "native": "Ortaca",
+    "timezone": "Europe/Istanbul",
+    "population": 58704,
+    "population_year": 2025
   },
   {
     "id": 108447,
@@ -129,7 +179,12 @@
     "latitude": "36.64308000",
     "longitude": "29.34929000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6620651",
+    "type": "city",
+    "native": "Seydikemer",
+    "timezone": "Europe/Istanbul",
+    "population": 65648,
+    "population_year": 2025
   },
   {
     "id": 108616,
@@ -141,7 +196,12 @@
     "latitude": "37.10491000",
     "longitude": "28.41667000",
     "county_id": 7400,
-    "wikiDataId": null
+    "wikiDataId": "Q1803032",
+    "type": "municipality",
+    "native": "Ula",
+    "timezone": "Europe/Istanbul",
+    "population": 27649,
+    "population_year": 2025
   },
   {
     "id": 108676,
@@ -153,6 +213,11 @@
     "latitude": "37.35864000",
     "longitude": "28.11441000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q177880",
+    "type": "city",
+    "native": "Yatağan",
+    "timezone": "Europe/Istanbul",
+    "population": 45024,
+    "population_year": 2025
   }
 ]

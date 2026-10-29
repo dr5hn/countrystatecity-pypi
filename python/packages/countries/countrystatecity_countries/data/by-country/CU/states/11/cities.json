@@ -9,7 +9,12 @@
     "latitude": "20.96116000",
     "longitude": "-75.72200000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23804595",
+    "type": "adm2",
+    "native": "Banes",
+    "timezone": "America/Havana",
+    "population": 53104,
+    "population_year": null
   },
   {
     "id": 21821,
@@ -21,7 +26,12 @@
     "latitude": "20.73775000",
     "longitude": "-76.32574000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q281104",
+    "type": "adm2",
+    "native": "Cacocum",
+    "timezone": "America/Havana",
+    "population": 42623,
+    "population_year": null
   },
   {
     "id": 21844,
@@ -33,7 +43,12 @@
     "latitude": "20.64855000",
     "longitude": "-75.92967000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q280984",
+    "type": "city",
+    "native": "Cueto",
+    "timezone": "America/Havana",
+    "population": 26527,
+    "population_year": null
   },
   {
     "id": 21856,
@@ -45,7 +60,12 @@
     "latitude": "21.10988000",
     "longitude": "-76.13145000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23796526",
+    "type": "adm2",
+    "native": "Gibara",
+    "timezone": "America/Havana",
+    "population": 27603,
+    "population_year": null
   },
   {
     "id": 21868,
@@ -57,7 +77,12 @@
     "latitude": "20.88722000",
     "longitude": "-76.26306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Holguín",
+    "timezone": "America/Havana",
+    "population": 319102,
+    "population_year": null
   },
   {
     "id": 21877,
@@ -69,7 +94,12 @@
     "latitude": "20.96917000",
     "longitude": "-76.29944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Jobabo",
+    "timezone": "America/Havana",
+    "population": 17804,
+    "population_year": null
   },
   {
     "id": 21901,
@@ -81,7 +111,12 @@
     "latitude": "20.65776000",
     "longitude": "-74.95075000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q168965",
+    "type": "adm2",
+    "native": "MOA",
+    "timezone": "America/Havana",
+    "population": 92852,
+    "population_year": null
   },
   {
     "id": 21905,
@@ -93,7 +128,12 @@
     "latitude": "20.98008000",
     "longitude": "-75.74933000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q806424",
+    "type": "adm2",
+    "native": "Municipio de Banes",
+    "timezone": "America/Havana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21918,
@@ -105,7 +145,12 @@
     "latitude": "20.91192000",
     "longitude": "-76.27057000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q244154",
+    "type": "adm1",
+    "native": "Municipio de Holguín",
+    "timezone": "America/Havana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 21956,
@@ -117,7 +162,12 @@
     "latitude": "20.58269000",
     "longitude": "-75.24116000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q281213",
+    "type": "adm2",
+    "native": "Sagua de Tánamo",
+    "timezone": "America/Havana",
+    "population": 18282,
+    "population_year": null
   },
   {
     "id": 21962,
@@ -129,6 +179,11 @@
     "latitude": "20.60009000",
     "longitude": "-76.13364000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q280929",
+    "type": "adm2",
+    "native": "San Germán",
+    "timezone": "America/Havana",
+    "population": 43892,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "6.76972000",
     "longitude": "47.43083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q865586",
+    "type": "adm1",
+    "native": "Gaalkacyo",
+    "timezone": "Africa/Mogadishu",
+    "population": 61200,
+    "population_year": null
   },
   {
     "id": 104799,
@@ -21,7 +26,12 @@
     "latitude": "5.35050000",
     "longitude": "48.52680000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1016908",
+    "type": "adm2",
+    "native": "Hobyo",
+    "timezone": "Africa/Mogadishu",
+    "population": 12564,
+    "population_year": null
   },
   {
     "id": 165561,
@@ -33,7 +43,12 @@
     "latitude": "6.77287000",
     "longitude": "46.79689000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q65078612",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "population": 26000,
+    "population_year": null
   },
   {
     "id": 104818,
@@ -45,6 +60,11 @@
     "latitude": "4.65440000",
     "longitude": "47.85750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q598676",
+    "type": "city",
+    "native": "Xarardheere",
+    "timezone": "Africa/Mogadishu",
+    "population": 2018,
+    "population_year": null
   }
 ]

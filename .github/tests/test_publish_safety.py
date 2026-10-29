@@ -26,9 +26,12 @@ class PublishSafetyTests(unittest.TestCase):
         self.assertIsNotNone(condition)
         self.assertEqual(
             condition.group(1),
-            "github.event.pull_request.merged == true && "
-            "contains(github.event.pull_request.labels.*.name, 'data-update')",
+            "github.event_name == 'workflow_dispatch' || "
+            "(github.event.pull_request.merged == true && "
+            "contains(github.event.pull_request.labels.*.name, 'data-update'))",
         )
+        self.assertIn(".merged == true and .base.ref == \"main\"", workflow)
+        self.assertIn("any(.name == \"data-update\")", workflow)
 
     def test_publish_requires_a_successful_release_and_exact_ref(self):
         """Skipped, failed, cancelled, and ref-less releases must stay closed."""

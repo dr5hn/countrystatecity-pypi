@@ -9,7 +9,12 @@
     "latitude": "14.73075000",
     "longitude": "0.91739000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Ayorou",
+    "timezone": "Africa/Niamey",
+    "population": 26290,
+    "population_year": null
   },
   {
     "id": 76680,
@@ -21,7 +26,12 @@
     "latitude": "13.72848000",
     "longitude": "2.87503000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15713669",
+    "type": "city",
+    "native": "Balleyara",
+    "timezone": "Africa/Niamey",
+    "population": 16063,
+    "population_year": null
   },
   {
     "id": 76697,
@@ -33,7 +43,12 @@
     "latitude": "14.31645000",
     "longitude": "3.23611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1413476",
+    "type": "city",
+    "native": "Département de Filingué",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76707,
@@ -45,7 +60,12 @@
     "latitude": "14.63333000",
     "longitude": "2.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q912803",
+    "type": "city",
+    "native": "Département de Ouallam",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76708,
@@ -57,7 +77,12 @@
     "latitude": "13.03579000",
     "longitude": "2.22112000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1236539",
+    "type": "city",
+    "native": "Département de Say",
+    "timezone": "Africa/Niamey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 76715,
@@ -69,7 +94,12 @@
     "latitude": "14.35210000",
     "longitude": "3.31680000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Filingué",
+    "timezone": "Africa/Niamey",
+    "population": 16544,
+    "population_year": null
   },
   {
     "id": 76721,
@@ -81,7 +111,12 @@
     "latitude": "13.30430000",
     "longitude": "2.33900000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Kollo",
+    "timezone": "Africa/Niamey",
+    "population": 19957,
+    "population_year": null
   },
   {
     "id": 76722,
@@ -93,7 +128,12 @@
     "latitude": "13.57600000",
     "longitude": "2.45200000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q667343",
+    "type": "city",
+    "native": "Département Kollo",
+    "timezone": "Africa/Niamey",
+    "population": 465399,
+    "population_year": null
   },
   {
     "id": 76732,
@@ -105,7 +145,12 @@
     "latitude": "14.31641000",
     "longitude": "2.08597000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Ouallam",
+    "timezone": "Africa/Niamey",
+    "population": 14338,
+    "population_year": null
   },
   {
     "id": 76733,
@@ -117,7 +162,12 @@
     "latitude": "13.10070000",
     "longitude": "2.36890000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Say",
+    "timezone": "Africa/Niamey",
+    "population": 18333,
+    "population_year": null
   },
   {
     "id": 76742,
@@ -129,7 +179,12 @@
     "latitude": "14.00776000",
     "longitude": "0.75306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Téra",
+    "timezone": "Africa/Niamey",
+    "population": 39410,
+    "population_year": null
   },
   {
     "id": 76737,
@@ -141,7 +196,12 @@
     "latitude": "14.18600000",
     "longitude": "0.84300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1538673",
+    "type": "city",
+    "native": "Département TERA",
+    "timezone": "Africa/Niamey",
+    "population": 336207,
+    "population_year": null
   },
   {
     "id": 76741,
@@ -153,7 +213,12 @@
     "latitude": "14.20711000",
     "longitude": "1.45418000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1538697",
+    "type": "adm1",
+    "native": "Tillabéri",
+    "timezone": "Africa/Niamey",
+    "population": 30822,
+    "population_year": null
   },
   {
     "id": 76740,
@@ -165,6 +230,11 @@
     "latitude": "14.51600000",
     "longitude": "1.44300000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1538697",
+    "type": "adm1",
+    "native": "Tillaberi Department",
+    "timezone": "Africa/Niamey",
+    "population": 227352,
+    "population_year": null
   }
 ]

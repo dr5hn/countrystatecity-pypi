@@ -9,7 +9,12 @@
     "latitude": "-9.07786000",
     "longitude": "143.20893000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q499375",
+    "type": "adm1",
+    "native": "Daru",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 15214,
+    "population_year": null
   },
   {
     "id": 81067,
@@ -21,7 +26,12 @@
     "latitude": "-6.12193000",
     "longitude": "141.29061000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q985928",
+    "type": "city",
+    "native": "Kiunga",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 11536,
+    "population_year": null
   },
   {
     "id": 81083,
@@ -33,7 +43,12 @@
     "latitude": "-7.16667000",
     "longitude": "142.03333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711163",
+    "type": "area",
+    "native": "Middle Fly",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 55853,
+    "population_year": null
   },
   {
     "id": 81085,
@@ -45,7 +60,12 @@
     "latitude": "-8.71065000",
     "longitude": "141.63668000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Morehead",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 2246,
+    "population_year": null
   },
   {
     "id": 81092,
@@ -57,7 +77,12 @@
     "latitude": "-5.72896000",
     "longitude": "141.37482000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "North Fly",
+    "timezone": "Pacific/Port_Moresby",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81110,
@@ -69,6 +94,11 @@
     "latitude": "-8.61667000",
     "longitude": "142.11667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3711489",
+    "type": "area",
+    "native": "South Fly",
+    "timezone": "Pacific/Port_Moresby",
+    "population": 46537,
+    "population_year": null
   }
 ]

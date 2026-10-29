@@ -9,7 +9,12 @@
     "latitude": "51.47475000",
     "longitude": "-0.15547000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Battersea",
+    "timezone": "Europe/London",
+    "population": 75651,
+    "population_year": null
   },
   {
     "id": 48435,
@@ -21,7 +26,12 @@
     "latitude": "51.51116000",
     "longitude": "-0.18426000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q41890",
+    "type": "section",
+    "native": "Bayswater",
+    "timezone": "Europe/London",
+    "population": 17500,
+    "population_year": null
   },
   {
     "id": 49012,
@@ -33,7 +43,12 @@
     "latitude": "51.49750000",
     "longitude": "-0.13570000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "City of Westminster",
+    "timezone": "Europe/London",
+    "population": 211365,
+    "population_year": null
   },
   {
     "id": 50388,
@@ -45,7 +60,12 @@
     "latitude": "51.50853000",
     "longitude": "-0.12574000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q84",
+    "type": "capital",
+    "native": "London",
+    "timezone": "Europe/London",
+    "population": 8799728,
+    "population_year": null
   },
   {
     "id": 51817,
@@ -57,6 +77,11 @@
     "latitude": "51.51414000",
     "longitude": "-0.15510000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "West End of London",
+    "timezone": "Europe/London",
+    "population": 10575,
+    "population_year": null
   }
 ]

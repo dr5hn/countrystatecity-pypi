@@ -9,7 +9,12 @@
     "latitude": "41.92361000",
     "longitude": "20.91361000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Боговиње",
+    "timezone": "Europe/Skopje",
+    "population": 15166,
+    "population_year": null
   },
   {
     "id": 67421,
@@ -21,7 +26,12 @@
     "latitude": "41.96859000",
     "longitude": "20.92899000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q20935923",
+    "type": "city",
+    "native": "Долно Палчиште",
+    "timezone": "Europe/Skopje",
+    "population": 2563,
+    "population_year": null
   },
   {
     "id": 67447,
@@ -33,6 +43,11 @@
     "latitude": "41.94568000",
     "longitude": "20.92894000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3039686",
+    "type": "city",
+    "native": "Камењане",
+    "timezone": "Europe/Skopje",
+    "population": 15376,
+    "population_year": null
   }
 ]

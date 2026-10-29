@@ -9,7 +9,12 @@
     "latitude": "-1.85238000",
     "longitude": "36.77683000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2349480",
+    "type": "adm1",
+    "native": "Kajiado",
+    "timezone": "Africa/Nairobi",
+    "population": 24678,
+    "population_year": null
   },
   {
     "id": 165126,
@@ -21,7 +26,12 @@
     "latitude": "-1.42750000",
     "longitude": "36.68650000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6416471",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "population": 76903,
+    "population_year": null
   },
   {
     "id": 64824,
@@ -33,7 +43,12 @@
     "latitude": "-1.90122000",
     "longitude": "36.28700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Magadi",
+    "timezone": "Africa/Nairobi",
+    "population": 14529,
+    "population_year": null
   },
   {
     "id": 64853,
@@ -45,7 +60,12 @@
     "latitude": "-1.35270000",
     "longitude": "36.66990000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1279716",
+    "type": "city",
+    "native": "Ngong",
+    "timezone": "Africa/Nairobi",
+    "population": 102323,
+    "population_year": null
   },
   {
     "id": 165123,
@@ -57,6 +77,11 @@
     "latitude": "-1.39530000",
     "longitude": "36.76400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3882702",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Nairobi",
+    "population": 172569,
+    "population_year": null
   }
 ]

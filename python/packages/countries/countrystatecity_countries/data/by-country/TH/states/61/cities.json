@@ -9,7 +9,12 @@
     "latitude": "15.32761000",
     "longitude": "99.51941000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475533",
+    "type": "district",
+    "native": "อำเภอห้วยคต",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166943,
@@ -21,7 +26,12 @@
     "latitude": "15.08417000",
     "longitude": "99.52108000",
     "county_id": 6028,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "บ้านไร่",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106499,
@@ -33,7 +43,12 @@
     "latitude": "15.29095000",
     "longitude": "99.61661000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "ห้วยคต",
+    "timezone": "Asia/Bangkok",
+    "population": 5940,
+    "population_year": null
   },
   {
     "id": 106552,
@@ -45,7 +60,12 @@
     "latitude": "15.45289000",
     "longitude": "99.57606000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q28727752",
+    "type": "adm2",
+    "native": "ลานสัก",
+    "timezone": "Asia/Bangkok",
+    "population": 13905,
+    "population_year": null
   },
   {
     "id": 167108,
@@ -57,7 +77,12 @@
     "latitude": "15.39147000",
     "longitude": "99.84147000",
     "county_id": 6026,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "หนองฉาง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 167114,
@@ -69,7 +94,12 @@
     "latitude": "15.36150000",
     "longitude": "99.93790000",
     "county_id": 6027,
-    "wikiDataId": null
+    "wikiDataId": "Q106808991",
+    "type": "town",
+    "native": "หนองขาหย่าง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 167200,
@@ -81,7 +111,12 @@
     "latitude": "15.58394000",
     "longitude": "99.86089000",
     "county_id": 6025,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "สว่างอารมณ์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106728,
@@ -93,7 +128,12 @@
     "latitude": "15.46063000",
     "longitude": "99.89166000",
     "county_id": 6024,
-    "wikiDataId": null
+    "wikiDataId": "Q28727763",
+    "type": "town",
+    "native": "ทัพทัน",
+    "timezone": "Asia/Bangkok",
+    "population": 16615,
+    "population_year": null
   },
   {
     "id": 106739,
@@ -105,6 +145,11 @@
     "latitude": "15.37939000",
     "longitude": "100.02450000",
     "county_id": 6023,
-    "wikiDataId": null
+    "wikiDataId": "Q1332721",
+    "type": "city",
+    "native": "อุทัยธานี",
+    "timezone": "Asia/Bangkok",
+    "population": 22219,
+    "population_year": null
   }
 ]

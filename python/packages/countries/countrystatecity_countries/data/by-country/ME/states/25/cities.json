@@ -9,7 +9,12 @@
     "latitude": "42.36667000",
     "longitude": "19.23333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Голубовци",
+    "timezone": "Europe/Podgorica",
+    "population": 3110,
+    "population_year": null
   },
   {
     "id": 160069,
@@ -21,6 +26,11 @@
     "latitude": "42.40000000",
     "longitude": "19.28333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23932994",
+    "type": "capital",
+    "native": "Понари",
+    "timezone": "Europe/Podgorica",
+    "population": 382,
+    "population_year": null
   }
 ]

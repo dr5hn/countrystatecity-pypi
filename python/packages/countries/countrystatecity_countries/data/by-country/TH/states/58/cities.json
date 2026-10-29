@@ -9,7 +9,12 @@
     "latitude": "18.82958000",
     "longitude": "97.93347000",
     "county_id": 6002,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ขุนยวม",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106563,
@@ -21,7 +26,12 @@
     "latitude": "19.30029000",
     "longitude": "97.96852000",
     "county_id": 6001,
-    "wikiDataId": null
+    "wikiDataId": "Q743005",
+    "type": "city",
+    "native": "แม่ฮ่องสอน",
+    "timezone": "Asia/Bangkok",
+    "population": 9109,
+    "population_year": null
   },
   {
     "id": 167065,
@@ -33,7 +43,12 @@
     "latitude": "18.38181000",
     "longitude": "97.94372000",
     "county_id": 6005,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "แม่ลาน้อย",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105512,
@@ -45,7 +60,12 @@
     "latitude": "18.26474000",
     "longitude": "97.77057000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475960",
+    "type": "district",
+    "native": "อำเภอแม่สะเรียง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105699,
@@ -57,7 +77,12 @@
     "latitude": "19.36036000",
     "longitude": "98.40638000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476320",
+    "type": "district",
+    "native": "อำเภอปาย",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105711,
@@ -69,7 +94,12 @@
     "latitude": "19.60451000",
     "longitude": "98.20560000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476348",
+    "type": "district",
+    "native": "อำเภอปางมะผ้า",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106248,
@@ -81,6 +111,11 @@
     "latitude": "17.96333000",
     "longitude": "97.93149000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476767",
+    "type": "district",
+    "native": "อำเภอสบเมย",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   }
 ]

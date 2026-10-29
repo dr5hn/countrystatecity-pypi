@@ -9,7 +9,12 @@
     "latitude": "29.30995000",
     "longitude": "30.84180000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q203299",
+    "type": "adm1",
+    "native": "الفيوم",
+    "timezone": "Africa/Cairo",
+    "population": 519047,
+    "population_year": null
   },
   {
     "id": 31818,
@@ -21,7 +26,12 @@
     "latitude": "29.35896000",
     "longitude": "30.68061000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23949980",
+    "type": "city",
+    "native": "إبشواي",
+    "timezone": "Africa/Cairo",
+    "population": 86186,
+    "population_year": null
   },
   {
     "id": 31823,
@@ -33,7 +43,12 @@
     "latitude": "29.23760000",
     "longitude": "30.78944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23950077",
+    "type": "city",
+    "native": "إيستسا",
+    "timezone": "Africa/Cairo",
+    "population": 74357,
+    "population_year": null
   },
   {
     "id": 31877,
@@ -45,6 +60,11 @@
     "latitude": "29.47639000",
     "longitude": "30.96119000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "طامية",
+    "timezone": "Africa/Cairo",
+    "population": 73070,
+    "population_year": null
   }
 ]

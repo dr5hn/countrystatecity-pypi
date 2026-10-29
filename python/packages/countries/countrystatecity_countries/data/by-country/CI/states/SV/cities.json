@@ -9,7 +9,12 @@
     "latitude": "9.75000000",
     "longitude": "-6.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q850122",
+    "type": "city",
+    "native": "Bagoué",
+    "timezone": "Africa/Abidjan",
+    "population": 2206,
+    "population_year": null
   },
   {
     "id": 160018,
@@ -21,7 +26,12 @@
     "latitude": "9.52434000",
     "longitude": "-6.48973000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Boundiali",
+    "timezone": "Africa/Abidjan",
+    "population": 51803,
+    "population_year": null
   },
   {
     "id": 160017,
@@ -33,7 +43,12 @@
     "latitude": "9.60055000",
     "longitude": "-5.19611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q849717",
+    "type": "adm2",
+    "native": "Ferkéssédougou",
+    "timezone": "Africa/Abidjan",
+    "population": 72476,
+    "population_year": null
   },
   {
     "id": 164560,
@@ -45,7 +60,12 @@
     "latitude": "10.09085000",
     "longitude": "-5.19482000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3192832",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "population": 26142,
+    "population_year": null
   },
   {
     "id": 160022,
@@ -57,7 +77,12 @@
     "latitude": "9.15000000",
     "longitude": "-4.61667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1030062",
+    "type": "adm3",
+    "native": "Kong",
+    "timezone": "Africa/Abidjan",
+    "population": 15262,
+    "population_year": null
   },
   {
     "id": 160016,
@@ -69,7 +94,12 @@
     "latitude": "9.45803000",
     "longitude": "-5.62961000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q852212",
+    "type": "adm1",
+    "native": "Korhogo",
+    "timezone": "Africa/Abidjan",
+    "population": 440926,
+    "population_year": null
   },
   {
     "id": 160019,
@@ -81,7 +111,12 @@
     "latitude": "9.96667000",
     "longitude": "-5.15000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1788030",
+    "type": "adm3",
+    "native": "Ouangolodougou",
+    "timezone": "Africa/Abidjan",
+    "population": 49248,
+    "population_year": null
   },
   {
     "id": 160023,
@@ -93,7 +128,12 @@
     "latitude": "9.36667000",
     "longitude": "-5.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Poro",
+    "timezone": "Africa/Abidjan",
+    "population": 2011,
+    "population_year": null
   },
   {
     "id": 160020,
@@ -105,7 +145,12 @@
     "latitude": "9.58333000",
     "longitude": "-5.38333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3485315",
+    "type": "adm3",
+    "native": "Sinématiali",
+    "timezone": "Africa/Abidjan",
+    "population": 13174,
+    "population_year": null
   },
   {
     "id": 160025,
@@ -117,7 +162,12 @@
     "latitude": "9.76667000",
     "longitude": "-5.10000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q845989",
+    "type": "city",
+    "native": "Tchologo",
+    "timezone": "Africa/Abidjan",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 160021,
@@ -129,6 +179,11 @@
     "latitude": "10.48333000",
     "longitude": "-6.40833000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3517463",
+    "type": "adm3",
+    "native": "Tengrela",
+    "timezone": "Africa/Abidjan",
+    "population": 52271,
+    "population_year": null
   }
 ]

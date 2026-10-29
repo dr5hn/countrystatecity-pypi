@@ -9,7 +9,12 @@
     "latitude": "-1.13663000",
     "longitude": "-79.08137000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5351066",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 31517,
@@ -21,7 +26,12 @@
     "latitude": "-0.94094000",
     "longitude": "-79.22506000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2523409",
+    "type": "adm2",
+    "native": "La Maná",
+    "timezone": "America/Guayaquil",
+    "population": 16450,
+    "population_year": null
   },
   {
     "id": 31520,
@@ -33,7 +43,12 @@
     "latitude": "-0.93521000",
     "longitude": "-78.61554000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q379338",
+    "type": "adm1",
+    "native": "Latacunga",
+    "timezone": "America/Guayaquil",
+    "population": 205624,
+    "population_year": null
   },
   {
     "id": 31556,
@@ -45,7 +60,12 @@
     "latitude": "-0.95759000",
     "longitude": "-78.69636000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2117685",
+    "type": "city",
+    "native": "Pujilí",
+    "timezone": "America/Guayaquil",
+    "population": 16168,
+    "population_year": null
   },
   {
     "id": 31570,
@@ -57,7 +77,12 @@
     "latitude": "-1.04547000",
     "longitude": "-78.59063000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2198509",
+    "type": "adm2",
+    "native": "San Miguel de Salcedo",
+    "timezone": "America/Guayaquil",
+    "population": 16751,
+    "population_year": null
   },
   {
     "id": 31578,
@@ -69,7 +94,12 @@
     "latitude": "-0.83990000",
     "longitude": "-78.66700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2621005",
+    "type": "adm2",
+    "native": "Saquis",
+    "timezone": "America/Guayaquil",
+    "population": 3778,
+    "population_year": null
   },
   {
     "id": 164635,
@@ -81,6 +111,11 @@
     "latitude": "-0.70470000",
     "longitude": "-78.88868000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2161913",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Guayaquil",
+    "population": null,
+    "population_year": null
   }
 ]

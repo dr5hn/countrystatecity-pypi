@@ -9,7 +9,12 @@
     "latitude": "47.76124000",
     "longitude": "82.80858000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2752954",
+    "type": "village",
+    "native": "Ақсуат",
+    "timezone": "Asia/Almaty",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65627,
@@ -21,7 +26,12 @@
     "latitude": "47.96447000",
     "longitude": "80.43437000",
     "county_id": 13904,
-    "wikiDataId": null
+    "wikiDataId": "Q2391391",
+    "type": "city",
+    "native": "Аягөз",
+    "timezone": "Asia/Almaty",
+    "population": 33479,
+    "population_year": null
   },
   {
     "id": 65681,
@@ -33,7 +43,12 @@
     "latitude": "49.32671000",
     "longitude": "81.57373000",
     "county_id": 13907,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "village",
+    "native": "Қалбатау",
+    "timezone": "Asia/Almaty",
+    "population": 22047,
+    "population_year": null
   },
   {
     "id": 65705,
@@ -45,7 +60,12 @@
     "latitude": "50.75617000",
     "longitude": "78.54188000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q767177",
+    "type": "city",
+    "native": "Курчатов",
+    "timezone": "Asia/Almaty",
+    "population": 12383,
+    "population_year": null
   },
   {
     "id": 65774,
@@ -57,7 +77,12 @@
     "latitude": "50.42675000",
     "longitude": "80.26669000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q61944",
+    "type": "city",
+    "native": "Семей",
+    "timezone": "Asia/Almaty",
+    "population": 350201,
+    "population_year": null
   },
   {
     "id": 65822,
@@ -69,6 +94,11 @@
     "latitude": "47.09302000",
     "longitude": "81.62939000",
     "county_id": 13909,
-    "wikiDataId": null
+    "wikiDataId": "Q2073917",
+    "type": "village",
+    "native": "Үржар",
+    "timezone": "Asia/Almaty",
+    "population": 14826,
+    "population_year": null
   }
 ]

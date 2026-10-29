@@ -9,7 +9,12 @@
     "latitude": "8.00796000",
     "longitude": "-80.45320000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Boca de Parita",
+    "timezone": "America/Panama",
+    "population": 1381,
+    "population_year": null
   },
   {
     "id": 80049,
@@ -21,7 +26,12 @@
     "latitude": "7.83377000",
     "longitude": "-80.83168000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5763083",
+    "type": "section",
+    "native": "Cerro Largo",
+    "timezone": "America/Panama",
+    "population": 170,
+    "population_year": null
   },
   {
     "id": 80064,
@@ -33,7 +43,12 @@
     "latitude": "7.96082000",
     "longitude": "-80.42944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q657763",
+    "type": "adm1",
+    "native": "Chitré",
+    "timezone": "America/Panama",
+    "population": 8969,
+    "population_year": null
   },
   {
     "id": 80065,
@@ -45,7 +60,12 @@
     "latitude": "7.84482000",
     "longitude": "-80.72627000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21065743",
+    "type": "section",
+    "native": "Chumical",
+    "timezone": "America/Panama",
+    "population": 433,
+    "population_year": null
   },
   {
     "id": 80066,
@@ -57,7 +77,12 @@
     "latitude": "8.07620000",
     "longitude": "-80.77656000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Chupampa",
+    "timezone": "America/Panama",
+    "population": 637,
+    "population_year": null
   },
   {
     "id": 80105,
@@ -69,7 +94,12 @@
     "latitude": "7.98333000",
     "longitude": "-80.43333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2216071",
+    "type": "municipality",
+    "native": "Distrito de Chitré",
+    "timezone": "America/Panama",
+    "population": 60957,
+    "population_year": null
   },
   {
     "id": 80115,
@@ -81,7 +111,12 @@
     "latitude": "7.76525000",
     "longitude": "-80.82249000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2216080",
+    "type": "city",
+    "native": "Distrito de Las Minas",
+    "timezone": "America/Panama",
+    "population": 7551,
+    "population_year": null
   },
   {
     "id": 80118,
@@ -93,7 +128,12 @@
     "latitude": "7.70944000",
     "longitude": "-80.64311000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2217030",
+    "type": "adm3",
+    "native": "Distrito de Los Pozos",
+    "timezone": "America/Panama",
+    "population": 7478,
+    "population_year": null
   },
   {
     "id": 80123,
@@ -105,7 +145,12 @@
     "latitude": "7.90641000",
     "longitude": "-80.79752000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2216607",
+    "type": "adm3",
+    "native": "Distrito de OCú",
+    "timezone": "America/Panama",
+    "population": 15539,
+    "population_year": null
   },
   {
     "id": 80126,
@@ -117,7 +162,12 @@
     "latitude": "8.06240000",
     "longitude": "-80.56373000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2216637",
+    "type": "adm3",
+    "native": "Distrito de Parita",
+    "timezone": "America/Panama",
+    "population": 894,
+    "population_year": null
   },
   {
     "id": 80128,
@@ -129,7 +179,12 @@
     "latitude": "7.88194000",
     "longitude": "-80.63261000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2217039",
+    "type": "municipality",
+    "native": "Distrito de Pesé",
+    "timezone": "America/Panama",
+    "population": 12397,
+    "population_year": null
   },
   {
     "id": 80141,
@@ -141,7 +196,12 @@
     "latitude": "8.11667000",
     "longitude": "-80.68333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Distrito de Santa María",
+    "timezone": "America/Panama",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80153,
@@ -153,7 +213,12 @@
     "latitude": "7.71843000",
     "longitude": "-80.59757000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21065750",
+    "type": "section",
+    "native": "El Calabacito",
+    "timezone": "America/Panama",
+    "population": 134,
+    "population_year": null
   },
   {
     "id": 80154,
@@ -165,7 +230,12 @@
     "latitude": "7.72571000",
     "longitude": "-80.64349000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "El Capurí",
+    "timezone": "America/Panama",
+    "population": 124,
+    "population_year": null
   },
   {
     "id": 80158,
@@ -177,7 +247,12 @@
     "latitude": "7.68565000",
     "longitude": "-80.65927000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "El Cedro",
+    "timezone": "America/Panama",
+    "population": 170,
+    "population_year": null
   },
   {
     "id": 80204,
@@ -189,7 +264,12 @@
     "latitude": "7.75110000",
     "longitude": "-80.86943000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "El Toro",
+    "timezone": "America/Panama",
+    "population": 176,
+    "population_year": null
   },
   {
     "id": 80241,
@@ -201,7 +281,12 @@
     "latitude": "7.96766000",
     "longitude": "-80.46523000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18404389",
+    "type": "section",
+    "native": "La Arena",
+    "timezone": "America/Panama",
+    "population": 7175,
+    "population_year": null
   },
   {
     "id": 80279,
@@ -213,7 +298,12 @@
     "latitude": "7.91457000",
     "longitude": "-80.70332000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "La Trinidad",
+    "timezone": "America/Panama",
+    "population": 123,
+    "population_year": null
   },
   {
     "id": 80312,
@@ -225,7 +315,12 @@
     "latitude": "7.81756000",
     "longitude": "-80.91335000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Limón de Tijeras",
+    "timezone": "America/Panama",
+    "population": 56,
+    "population_year": null
   },
   {
     "id": 80314,
@@ -237,7 +332,12 @@
     "latitude": "7.97637000",
     "longitude": "-80.41646000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Llano Bonito",
+    "timezone": "America/Panama",
+    "population": 9716,
+    "population_year": null
   },
   {
     "id": 80321,
@@ -249,7 +349,12 @@
     "latitude": "7.95178000",
     "longitude": "-80.64239000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21065782",
+    "type": "section",
+    "native": "Llano de La Cruz",
+    "timezone": "America/Panama",
+    "population": 188,
+    "population_year": null
   },
   {
     "id": 80330,
@@ -261,7 +366,12 @@
     "latitude": "8.11722000",
     "longitude": "-80.70769000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21065785",
+    "type": "section",
+    "native": "Los Canelos",
+    "timezone": "America/Panama",
+    "population": 965,
+    "population_year": null
   },
   {
     "id": 80333,
@@ -273,7 +383,12 @@
     "latitude": "7.79746000",
     "longitude": "-80.61071000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21065788",
+    "type": "section",
+    "native": "Los Cerritos",
+    "timezone": "America/Panama",
+    "population": 531,
+    "population_year": null
   },
   {
     "id": 80334,
@@ -285,7 +400,12 @@
     "latitude": "7.71821000",
     "longitude": "-80.67273000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21042242",
+    "type": "section",
+    "native": "Los Cerros de Paja",
+    "timezone": "America/Panama",
+    "population": 61,
+    "population_year": null
   },
   {
     "id": 80341,
@@ -297,7 +417,12 @@
     "latitude": "7.78300000",
     "longitude": "-80.64524000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Los Pozos",
+    "timezone": "America/Panama",
+    "population": 508,
+    "population_year": null
   },
   {
     "id": 80358,
@@ -309,7 +434,12 @@
     "latitude": "7.98179000",
     "longitude": "-80.43764000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Monagrillo",
+    "timezone": "America/Panama",
+    "population": 10821,
+    "population_year": null
   },
   {
     "id": 80382,
@@ -321,7 +451,12 @@
     "latitude": "7.94052000",
     "longitude": "-80.77936000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1954918",
+    "type": "section",
+    "native": "OCU",
+    "timezone": "America/Panama",
+    "population": 3939,
+    "population_year": null
   },
   {
     "id": 80401,
@@ -333,7 +468,12 @@
     "latitude": "8.05053000",
     "longitude": "-80.55409000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6065229",
+    "type": "section",
+    "native": "París",
+    "timezone": "America/Panama",
+    "population": 894,
+    "population_year": null
   },
   {
     "id": 80398,
@@ -345,7 +485,12 @@
     "latitude": "7.99393000",
     "longitude": "-80.52097000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7137516",
+    "type": "section",
+    "native": "Parita",
+    "timezone": "America/Panama",
+    "population": 2864,
+    "population_year": null
   },
   {
     "id": 80410,
@@ -357,7 +502,12 @@
     "latitude": "8.01502000",
     "longitude": "-80.80366000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Peñas Chatas",
+    "timezone": "America/Panama",
+    "population": 358,
+    "population_year": null
   },
   {
     "id": 80408,
@@ -369,7 +519,12 @@
     "latitude": "7.90863000",
     "longitude": "-80.61433000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Pesé",
+    "timezone": "America/Panama",
+    "population": 2565,
+    "population_year": null
   },
   {
     "id": 80413,
@@ -381,7 +536,12 @@
     "latitude": "7.64216000",
     "longitude": "-80.66788000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Pitaloza Arriba",
+    "timezone": "America/Panama",
+    "population": 188,
+    "population_year": null
   },
   {
     "id": 80422,
@@ -393,7 +553,12 @@
     "latitude": "8.01738000",
     "longitude": "-80.59538000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Portobelillo",
+    "timezone": "America/Panama",
+    "population": 497,
+    "population_year": null
   },
   {
     "id": 80427,
@@ -405,7 +570,12 @@
     "latitude": "8.06317000",
     "longitude": "-80.62271000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6083653",
+    "type": "section",
+    "native": "Potugua",
+    "timezone": "America/Panama",
+    "population": 795,
+    "population_year": null
   },
   {
     "id": 80448,
@@ -417,7 +587,12 @@
     "latitude": "7.71238000",
     "longitude": "-80.74222000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Quebrada del Rosario",
+    "timezone": "America/Panama",
+    "population": 123,
+    "population_year": null
   },
   {
     "id": 80453,
@@ -429,7 +604,12 @@
     "latitude": "7.84436000",
     "longitude": "-80.60397000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Rincón Hondo",
+    "timezone": "America/Panama",
+    "population": 359,
+    "population_year": null
   },
   {
     "id": 80485,
@@ -441,7 +621,12 @@
     "latitude": "7.96099000",
     "longitude": "-80.41283000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21042796",
+    "type": "section",
+    "native": "San Juan Bautista",
+    "timezone": "America/Panama",
+    "population": 11798,
+    "population_year": null
   },
   {
     "id": 80504,
@@ -453,6 +638,11 @@
     "latitude": "8.11143000",
     "longitude": "-80.66582000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Santa María",
+    "timezone": "America/Panama",
+    "population": 1679,
+    "population_year": null
   }
 ]

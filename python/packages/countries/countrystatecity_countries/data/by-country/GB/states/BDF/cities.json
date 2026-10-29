@@ -9,7 +9,12 @@
     "latitude": "52.13444444",
     "longitude": "-0.46305556",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Bedford",
+    "timezone": "Europe/London",
+    "population": 92407,
+    "population_year": null
   },
   {
     "id": 48719,
@@ -21,7 +26,12 @@
     "latitude": "52.14508000",
     "longitude": "-0.52906000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1519942",
+    "type": "village",
+    "native": "Bromham",
+    "timezone": "Europe/London",
+    "population": 4670,
+    "population_year": null
   },
   {
     "id": 48856,
@@ -33,7 +43,12 @@
     "latitude": "52.11742000",
     "longitude": "-0.41289000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q659945",
+    "type": "village",
+    "native": "Cardington",
+    "timezone": "Europe/London",
+    "population": 312,
+    "population_year": null
   },
   {
     "id": 49017,
@@ -45,7 +60,12 @@
     "latitude": "52.16085000",
     "longitude": "-0.49529000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1520409",
+    "type": "village",
+    "native": "Clapham",
+    "timezone": "Europe/London",
+    "population": 4560,
+    "population_year": null
   },
   {
     "id": 49097,
@@ -57,7 +77,12 @@
     "latitude": "52.12342000",
     "longitude": "-0.38933000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1520369",
+    "type": "village",
+    "native": "Cople",
+    "timezone": "Europe/London",
+    "population": 782,
+    "population_year": null
   },
   {
     "id": 49709,
@@ -69,7 +94,12 @@
     "latitude": "52.15791000",
     "longitude": "-0.35235000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1521199",
+    "type": "village",
+    "native": "Great barford",
+    "timezone": "Europe/London",
+    "population": 2252,
+    "population_year": null
   },
   {
     "id": 49817,
@@ -81,7 +111,12 @@
     "latitude": "52.20127000",
     "longitude": "-0.61038000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1520103",
+    "type": "village",
+    "native": "Harrold",
+    "timezone": "Europe/London",
+    "population": 1667,
+    "population_year": null
   },
   {
     "id": 50115,
@@ -93,7 +128,12 @@
     "latitude": "52.11599000",
     "longitude": "-0.50044000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q165486",
+    "type": "adm3",
+    "native": "Kempston",
+    "timezone": "Europe/London",
+    "population": 20736,
+    "population_year": null
   },
   {
     "id": 50116,
@@ -105,7 +145,12 @@
     "latitude": "52.08956000",
     "longitude": "-0.49908000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1519557",
+    "type": "section",
+    "native": "Kempston Hardwick",
+    "timezone": "Europe/London",
+    "population": 20000,
+    "population_year": null
   },
   {
     "id": 50795,
@@ -117,7 +162,12 @@
     "latitude": "52.16862000",
     "longitude": "-0.52649000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1520175",
+    "type": "village",
+    "native": "Oakley",
+    "timezone": "Europe/London",
+    "population": 2260,
+    "population_year": null
   },
   {
     "id": 50929,
@@ -129,7 +179,12 @@
     "latitude": "52.25424000",
     "longitude": "-0.62463000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1520038",
+    "type": "village",
+    "native": "Podington",
+    "timezone": "Europe/London",
+    "population": 384,
+    "population_year": null
   },
   {
     "id": 51089,
@@ -141,7 +196,12 @@
     "latitude": "52.25213000",
     "longitude": "-0.47928000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1520106",
+    "type": "village",
+    "native": "Riseley",
+    "timezone": "Europe/London",
+    "population": 1286,
+    "population_year": null
   },
   {
     "id": 51128,
@@ -153,7 +213,12 @@
     "latitude": "52.17756000",
     "longitude": "-0.31594000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1521630",
+    "type": "village",
+    "native": "Roxton",
+    "timezone": "Europe/London",
+    "population": 348,
+    "population_year": null
   },
   {
     "id": 51250,
@@ -165,7 +230,12 @@
     "latitude": "52.22606000",
     "longitude": "-0.54425000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1520049",
+    "type": "village",
+    "native": "Sharnbrook",
+    "timezone": "Europe/London",
+    "population": 1795,
+    "population_year": null
   },
   {
     "id": 51407,
@@ -177,7 +247,12 @@
     "latitude": "52.13046000",
     "longitude": "-0.56678000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1520491",
+    "type": "village",
+    "native": "Stagsden",
+    "timezone": "Europe/London",
+    "population": 373,
+    "population_year": null
   },
   {
     "id": 51443,
@@ -189,7 +264,12 @@
     "latitude": "52.16848000",
     "longitude": "-0.55515000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1520344",
+    "type": "village",
+    "native": "Stevington",
+    "timezone": "Europe/London",
+    "population": 582,
+    "population_year": null
   },
   {
     "id": 51444,
@@ -201,7 +281,12 @@
     "latitude": "52.07044000",
     "longitude": "-0.51490000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1522913",
+    "type": "village",
+    "native": "Stewartby",
+    "timezone": "Europe/London",
+    "population": 1190,
+    "population_year": null
   },
   {
     "id": 51913,
@@ -213,6 +298,11 @@
     "latitude": "52.08088000",
     "longitude": "-0.44889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1519179",
+    "type": "adm3",
+    "native": "Wilstead",
+    "timezone": "Europe/London",
+    "population": 2177,
+    "population_year": null
   }
 ]

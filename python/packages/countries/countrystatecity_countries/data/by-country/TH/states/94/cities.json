@@ -9,7 +9,12 @@
     "latitude": "6.60264000",
     "longitude": "101.54327000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q177183",
+    "type": "district",
+    "native": "อำเภอกะพ้อ",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 167023,
@@ -21,7 +26,12 @@
     "latitude": "6.73064000",
     "longitude": "101.09619000",
     "county_id": 6273,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "โคกโพธิ์",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105503,
@@ -33,7 +43,12 @@
     "latitude": "6.66833000",
     "longitude": "101.23149000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475937",
+    "type": "district",
+    "native": "อำเภอแม่ลาน",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 105522,
@@ -45,7 +60,12 @@
     "latitude": "6.61603000",
     "longitude": "101.67864000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475985",
+    "type": "district",
+    "native": "อำเภอไม้แก่น",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 167075,
@@ -57,7 +77,12 @@
     "latitude": "6.71864000",
     "longitude": "101.40983000",
     "county_id": 6276,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "มายอ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106596,
@@ -69,7 +94,12 @@
     "latitude": "6.84356000",
     "longitude": "101.17803000",
     "county_id": 6274,
-    "wikiDataId": null
+    "wikiDataId": "Q28726675",
+    "type": "town",
+    "native": "หนองจิก",
+    "timezone": "Asia/Bangkok",
+    "population": 11385,
+    "population_year": null
   },
   {
     "id": 167135,
@@ -81,7 +111,12 @@
     "latitude": "6.86192000",
     "longitude": "101.49103000",
     "county_id": 6275,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "ปะนาเระ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106616,
@@ -93,7 +128,12 @@
     "latitude": "6.86814000",
     "longitude": "101.25009000",
     "county_id": 6272,
-    "wikiDataId": null
+    "wikiDataId": "Q1025966",
+    "type": "city",
+    "native": "ปัตตานี",
+    "timezone": "Asia/Bangkok",
+    "population": 44234,
+    "population_year": null
   },
   {
     "id": 106673,
@@ -105,7 +145,12 @@
     "latitude": "6.70120000",
     "longitude": "101.61810000",
     "county_id": 6278,
-    "wikiDataId": null
+    "wikiDataId": "Q15980656",
+    "type": "city",
+    "native": "ตะลุบัน",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106321,
@@ -117,7 +162,12 @@
     "latitude": "6.64160000",
     "longitude": "101.44652000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476962",
+    "type": "district",
+    "native": "อำเภอทุ่งยางแดง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 167289,
@@ -129,7 +179,12 @@
     "latitude": "6.76100000",
     "longitude": "101.30120000",
     "county_id": 6281,
-    "wikiDataId": null
+    "wikiDataId": "Q109837737",
+    "type": "town",
+    "native": "ยะรัง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106758,
@@ -141,6 +196,11 @@
     "latitude": "6.86617000",
     "longitude": "101.36894000",
     "county_id": 6280,
-    "wikiDataId": null
+    "wikiDataId": "Q12010953",
+    "type": "town",
+    "native": "ยะหริ่ง",
+    "timezone": "Asia/Bangkok",
+    "population": 31111,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "12.10000000",
     "longitude": "105.07000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4930086",
+    "type": "adm2",
+    "native": "ជើងព្រៃ",
+    "timezone": "Asia/Phnom_Penh",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 64944,
@@ -21,7 +26,12 @@
     "latitude": "11.98000000",
     "longitude": "105.44500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4930039",
+    "type": "city",
+    "native": "កំពង់ចាម",
+    "timezone": "Asia/Phnom_Penh",
+    "population": 4143,
+    "population_year": null
   },
   {
     "id": 64990,
@@ -33,6 +43,11 @@
     "latitude": "12.02986000",
     "longitude": "104.93171000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4869002",
+    "type": "area",
+    "native": "ងូតទឹក",
+    "timezone": "Asia/Phnom_Penh",
+    "population": null,
+    "population_year": null
   }
 ]

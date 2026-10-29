@@ -9,7 +9,12 @@
     "latitude": "58.77889000",
     "longitude": "24.82583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1010606",
+    "type": "town",
+    "native": "Järvakandi",
+    "timezone": "Europe/Tallinn",
+    "population": 1201,
+    "population_year": null
   },
   {
     "id": 31627,
@@ -21,7 +26,12 @@
     "latitude": "58.93028000",
     "longitude": "24.87806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3477357",
+    "type": "town",
+    "native": "Kehtna",
+    "timezone": "Europe/Tallinn",
+    "population": 1579,
+    "population_year": null
   },
   {
     "id": 31628,
@@ -33,6 +43,11 @@
     "latitude": "58.84274000",
     "longitude": "24.89002000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q775860",
+    "type": "city",
+    "native": "Kehtna vald",
+    "timezone": "Europe/Tallinn",
+    "population": null,
+    "population_year": null
   }
 ]

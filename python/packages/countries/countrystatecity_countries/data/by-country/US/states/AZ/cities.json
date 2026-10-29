@@ -9,7 +9,12 @@
     "latitude": "33.34171000",
     "longitude": "-111.98403000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Ahwatukee Foothills",
+    "timezone": "America/Phoenix",
+    "population": 83464,
+    "population_year": null
   },
   {
     "id": 111075,
@@ -21,7 +26,12 @@
     "latitude": "32.37172000",
     "longitude": "-112.86071000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q413082",
+    "type": "locality",
+    "native": "Ajo",
+    "timezone": "America/Phoenix",
+    "population": 3304,
+    "population_year": null
   },
   {
     "id": 111170,
@@ -33,7 +43,12 @@
     "latitude": "33.49838000",
     "longitude": "-112.13432000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Alhambra",
+    "timezone": "America/Phoenix",
+    "population": 127764,
+    "population_year": null
   },
   {
     "id": 111367,
@@ -45,7 +60,12 @@
     "latitude": "33.86726000",
     "longitude": "-112.14682000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q589160",
+    "type": "locality",
+    "native": "Anthem",
+    "timezone": "America/Phoenix",
+    "population": 21700,
+    "population_year": null
   },
   {
     "id": 111381,
@@ -57,7 +77,12 @@
     "latitude": "33.41505000",
     "longitude": "-111.54958000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q79829",
+    "type": "city",
+    "native": "Apache Junction",
+    "timezone": "America/Phoenix",
+    "population": 38499,
+    "population_year": null
   },
   {
     "id": 111453,
@@ -69,7 +94,12 @@
     "latitude": "31.72731000",
     "longitude": "-111.06120000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q28394",
+    "type": "locality",
+    "native": "Arivaca Junction",
+    "timezone": "America/Phoenix",
+    "population": 1090,
+    "population_year": null
   },
   {
     "id": 111454,
@@ -81,7 +111,12 @@
     "latitude": "32.75589000",
     "longitude": "-111.67096000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q670299",
+    "type": "locality",
+    "native": "Arizona City",
+    "timezone": "America/Phoenix",
+    "population": 10475,
+    "population_year": null
   },
   {
     "id": 111679,
@@ -93,7 +128,12 @@
     "latitude": "32.71904000",
     "longitude": "-114.66005000",
     "county_id": 2965,
-    "wikiDataId": null
+    "wikiDataId": "Q4828189",
+    "type": "locality",
+    "native": "Avenue B and C",
+    "timezone": "America/Phoenix",
+    "population": 4176,
+    "population_year": null
   },
   {
     "id": 111701,
@@ -105,7 +145,12 @@
     "latitude": "33.43560000",
     "longitude": "-112.34960000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q79449",
+    "type": "city",
+    "native": "Avondale",
+    "timezone": "America/Phoenix",
+    "population": 100983,
+    "population_year": 2025
   },
   {
     "id": 111705,
@@ -117,7 +162,12 @@
     "latitude": "32.43785000",
     "longitude": "-111.31539000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q791329",
+    "type": "locality",
+    "native": "Avra Valley",
+    "timezone": "America/Phoenix",
+    "population": 6050,
+    "population_year": null
   },
   {
     "id": 111727,
@@ -129,7 +179,12 @@
     "latitude": "34.58113000",
     "longitude": "-113.20464000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q799863",
+    "type": "locality",
+    "native": "Bagdad",
+    "timezone": "America/Phoenix",
+    "population": 1876,
+    "population_year": null
   },
   {
     "id": 112002,
@@ -141,7 +196,12 @@
     "latitude": "36.89942000",
     "longitude": "-113.93274000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q4878053",
+    "type": "locality",
+    "native": "Beaver Dam",
+    "timezone": "America/Phoenix",
+    "population": 1962,
+    "population_year": null
   },
   {
     "id": 112184,
@@ -153,7 +213,12 @@
     "latitude": "31.96786000",
     "longitude": "-110.29452000",
     "county_id": 551,
-    "wikiDataId": null
+    "wikiDataId": "Q79672",
+    "type": "city",
+    "native": "Benson",
+    "timezone": "America/Phoenix",
+    "population": 5355,
+    "population_year": null
   },
   {
     "id": 112360,
@@ -165,7 +230,12 @@
     "latitude": "31.44815000",
     "longitude": "-109.92841000",
     "county_id": 551,
-    "wikiDataId": null
+    "wikiDataId": "Q79720",
+    "type": "city",
+    "native": "Bisbee",
+    "timezone": "America/Phoenix",
+    "population": 4860,
+    "population_year": 2025
   },
   {
     "id": 112371,
@@ -177,7 +247,12 @@
     "latitude": "34.07087000",
     "longitude": "-112.15071000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q880153",
+    "type": "locality",
+    "native": "Black Canyon City",
+    "timezone": "America/Phoenix",
+    "population": 2837,
+    "population_year": null
   },
   {
     "id": 112395,
@@ -189,7 +264,12 @@
     "latitude": "33.03117000",
     "longitude": "-111.58263000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q880968",
+    "type": "locality",
+    "native": "Blackwater",
+    "timezone": "America/Phoenix",
+    "population": 1062,
+    "population_year": null
   },
   {
     "id": 112977,
@@ -201,7 +281,12 @@
     "latitude": "33.37032000",
     "longitude": "-112.58378000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q986528",
+    "type": "city",
+    "native": "Buckeye",
+    "timezone": "America/Phoenix",
+    "population": 125445,
+    "population_year": 2025
   },
   {
     "id": 113031,
@@ -213,7 +298,12 @@
     "latitude": "35.14778000",
     "longitude": "-114.56830000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q79432",
+    "type": "city",
+    "native": "Bullhead City",
+    "timezone": "America/Phoenix",
+    "population": 41348,
+    "population_year": null
   },
   {
     "id": 113136,
@@ -225,7 +315,12 @@
     "latitude": "33.13428000",
     "longitude": "-110.12004000",
     "county_id": 1012,
-    "wikiDataId": null
+    "wikiDataId": "Q3740173",
+    "type": "locality",
+    "native": "Bylas",
+    "timezone": "America/Phoenix",
+    "population": 1962,
+    "population_year": null
   },
   {
     "id": 113158,
@@ -237,7 +332,12 @@
     "latitude": "32.75840000",
     "longitude": "-109.71619000",
     "county_id": 1012,
-    "wikiDataId": null
+    "wikiDataId": "Q5016154",
+    "type": "locality",
+    "native": "Cactus Flat",
+    "timezone": "America/Phoenix",
+    "population": 1518,
+    "population_year": null
   },
   {
     "id": 113295,
@@ -249,7 +349,12 @@
     "latitude": "34.56364000",
     "longitude": "-111.85432000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q983745",
+    "type": "town",
+    "native": "Camp Verde",
+    "timezone": "America/Phoenix",
+    "population": 12147,
+    "population_year": null
   },
   {
     "id": 113357,
@@ -261,7 +366,12 @@
     "latitude": "33.78477000",
     "longitude": "-110.02649000",
     "county_id": 977,
-    "wikiDataId": null
+    "wikiDataId": "Q1034008",
+    "type": "locality",
+    "native": "Canyon Day",
+    "timezone": "America/Phoenix",
+    "population": 1209,
+    "population_year": null
   },
   {
     "id": 113392,
@@ -273,7 +383,12 @@
     "latitude": "33.82226000",
     "longitude": "-111.91820000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q984260",
+    "type": "town",
+    "native": "Carefree",
+    "timezone": "America/Phoenix",
+    "population": 3690,
+    "population_year": null
   },
   {
     "id": 113508,
@@ -285,7 +400,12 @@
     "latitude": "33.12033000",
     "longitude": "-111.88819000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q5047792",
+    "type": "locality",
+    "native": "Casa Blanca",
+    "timezone": "America/Phoenix",
+    "population": 1388,
+    "population_year": null
   },
   {
     "id": 113510,
@@ -297,7 +417,12 @@
     "latitude": "32.87950000",
     "longitude": "-111.75735000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q79889",
+    "type": "city",
+    "native": "Casa Grande",
+    "timezone": "America/Phoenix",
+    "population": 53658,
+    "population_year": null
   },
   {
     "id": 113512,
@@ -309,7 +434,12 @@
     "latitude": "32.32341000",
     "longitude": "-110.99510000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q79406",
+    "type": "locality",
+    "native": "Casas Adobes",
+    "timezone": "America/Phoenix",
+    "population": 66795,
+    "population_year": null
   },
   {
     "id": 113563,
@@ -321,7 +451,12 @@
     "latitude": "32.50556000",
     "longitude": "-110.92111000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q549434",
+    "type": "locality",
+    "native": "Catalina",
+    "timezone": "America/Phoenix",
+    "population": 7569,
+    "population_year": null
   },
   {
     "id": 113564,
@@ -333,7 +468,12 @@
     "latitude": "32.29785000",
     "longitude": "-110.91870000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1050250",
+    "type": "locality",
+    "native": "Catalina Foothills",
+    "timezone": "America/Phoenix",
+    "population": 50796,
+    "population_year": null
   },
   {
     "id": 113585,
@@ -345,7 +485,12 @@
     "latitude": "33.83333000",
     "longitude": "-111.95083000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q985310",
+    "type": "town",
+    "native": "Cave Creek",
+    "timezone": "America/Phoenix",
+    "population": 4892,
+    "population_year": null
   },
   {
     "id": 113635,
@@ -357,7 +502,12 @@
     "latitude": "36.95381000",
     "longitude": "-112.98132000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q5059210",
+    "type": "locality",
+    "native": "Centennial Park",
+    "timezone": "America/Phoenix",
+    "population": 1264,
+    "population_year": null
   },
   {
     "id": 113672,
@@ -369,7 +519,12 @@
     "latitude": "33.44001000",
     "longitude": "-112.05805000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Central City",
+    "timezone": "America/Phoenix",
+    "population": 58161,
+    "population_year": null
   },
   {
     "id": 113676,
@@ -381,7 +536,12 @@
     "latitude": "33.40372000",
     "longitude": "-110.81541000",
     "county_id": 977,
-    "wikiDataId": null
+    "wikiDataId": "Q1919910",
+    "type": "locality",
+    "native": "Central Heights-Midland City",
+    "timezone": "America/Phoenix",
+    "population": 2534,
+    "population_year": null
   },
   {
     "id": 113731,
@@ -393,7 +553,12 @@
     "latitude": "33.30616000",
     "longitude": "-111.84125000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q49272",
+    "type": "city",
+    "native": "Chandler",
+    "timezone": "America/Phoenix",
+    "population": 278748,
+    "population_year": 2025
   },
   {
     "id": 113967,
@@ -405,7 +570,12 @@
     "latitude": "36.15445000",
     "longitude": "-109.55261000",
     "county_id": 65,
-    "wikiDataId": null
+    "wikiDataId": "Q1026032",
+    "type": "locality",
+    "native": "Chinle",
+    "timezone": "America/Denver",
+    "population": 4518,
+    "population_year": null
   },
   {
     "id": 113970,
@@ -417,7 +587,12 @@
     "latitude": "34.75752000",
     "longitude": "-112.45378000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q985261",
+    "type": "town",
+    "native": "Chino Valley",
+    "timezone": "America/Phoenix",
+    "population": 13020,
+    "population_year": null
   },
   {
     "id": 114016,
@@ -429,7 +604,12 @@
     "latitude": "34.04477000",
     "longitude": "-110.48539000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q1091504",
+    "type": "locality",
+    "native": "Cibecue",
+    "timezone": "America/Phoenix",
+    "population": 1713,
+    "population_year": null
   },
   {
     "id": 114021,
@@ -441,7 +621,12 @@
     "latitude": "34.18863000",
     "longitude": "-114.22467000",
     "county_id": 1455,
-    "wikiDataId": null
+    "wikiDataId": "Q5119643",
+    "type": "locality",
+    "native": "Cienega Springs",
+    "timezone": "America/Phoenix",
+    "population": 1798,
+    "population_year": null
   },
   {
     "id": 114040,
@@ -453,7 +638,12 @@
     "latitude": "33.54865000",
     "longitude": "-112.44433000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q5122899",
+    "type": "locality",
+    "native": "Citrus Park",
+    "timezone": "America/Phoenix",
+    "population": 4028,
+    "population_year": null
   },
   {
     "id": 114133,
@@ -465,7 +655,12 @@
     "latitude": "34.77113000",
     "longitude": "-112.05794000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q1123873",
+    "type": "town",
+    "native": "Clarkdale",
+    "timezone": "America/Phoenix",
+    "population": 4424,
+    "population_year": null
   },
   {
     "id": 114193,
@@ -477,7 +672,12 @@
     "latitude": "33.41117000",
     "longitude": "-110.84261000",
     "county_id": 977,
-    "wikiDataId": null
+    "wikiDataId": "Q2275713",
+    "type": "locality",
+    "native": "Claypool",
+    "timezone": "America/Phoenix",
+    "population": 1538,
+    "population_year": null
   },
   {
     "id": 114260,
@@ -489,7 +689,12 @@
     "latitude": "33.05090000",
     "longitude": "-109.29618000",
     "county_id": 1063,
-    "wikiDataId": null
+    "wikiDataId": "Q691583",
+    "type": "city",
+    "native": "Clifton",
+    "timezone": "America/Phoenix",
+    "population": 3752,
+    "population_year": 2025
   },
   {
     "id": 114454,
@@ -501,7 +706,12 @@
     "latitude": "36.99026000",
     "longitude": "-112.97577000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q998951",
+    "type": "town",
+    "native": "Colorado City",
+    "timezone": "America/Phoenix",
+    "population": 3991,
+    "population_year": null
   },
   {
     "id": 114558,
@@ -513,7 +723,12 @@
     "latitude": "34.16253000",
     "longitude": "-112.85074000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q2096052",
+    "type": "locality",
+    "native": "Congress",
+    "timezone": "America/Phoenix",
+    "population": 1975,
+    "population_year": null
   },
   {
     "id": 114598,
@@ -525,7 +740,12 @@
     "latitude": "32.97784000",
     "longitude": "-111.51762000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q80067",
+    "type": "city",
+    "native": "Coolidge",
+    "timezone": "America/Phoenix",
+    "population": 12297,
+    "population_year": null
   },
   {
     "id": 114637,
@@ -537,7 +757,12 @@
     "latitude": "34.30781000",
     "longitude": "-112.10349000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q2745135",
+    "type": "locality",
+    "native": "Cordes Lakes",
+    "timezone": "America/Phoenix",
+    "population": 2633,
+    "population_year": null
   },
   {
     "id": 114657,
@@ -549,7 +774,12 @@
     "latitude": "34.71780000",
     "longitude": "-111.92154000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q976662",
+    "type": "locality",
+    "native": "Cornville",
+    "timezone": "America/Phoenix",
+    "population": 3280,
+    "population_year": null
   },
   {
     "id": 114663,
@@ -561,7 +791,12 @@
     "latitude": "31.96536000",
     "longitude": "-110.77564000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1024093",
+    "type": "locality",
+    "native": "Corona de Tucson",
+    "timezone": "America/Phoenix",
+    "population": 5675,
+    "population_year": null
   },
   {
     "id": 114701,
@@ -573,7 +808,12 @@
     "latitude": "34.73919000",
     "longitude": "-112.00988000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q79463",
+    "type": "city",
+    "native": "Cottonwood",
+    "timezone": "America/Phoenix",
+    "population": 11818,
+    "population_year": null
   },
   {
     "id": 115180,
@@ -585,7 +825,12 @@
     "latitude": "33.68393000",
     "longitude": "-112.13488000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Deer Valley",
+    "timezone": "America/Phoenix",
+    "population": 165656,
+    "population_year": null
   },
   {
     "id": 115281,
@@ -597,7 +842,12 @@
     "latitude": "34.55390000",
     "longitude": "-114.37246000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q1200593",
+    "type": "locality",
+    "native": "Desert Hills",
+    "timezone": "America/Phoenix",
+    "population": 2245,
+    "population_year": null
   },
   {
     "id": 115305,
@@ -609,7 +859,12 @@
     "latitude": "34.53000000",
     "longitude": "-112.24222000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q1774802",
+    "type": "town",
+    "native": "Dewey-Humboldt",
+    "timezone": "America/Phoenix",
+    "population": 3894,
+    "population_year": null
   },
   {
     "id": 115338,
@@ -621,7 +876,12 @@
     "latitude": "35.38529000",
     "longitude": "-110.32068000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q1225516",
+    "type": "locality",
+    "native": "Dilkon",
+    "timezone": "America/Denver",
+    "population": 1184,
+    "population_year": null
   },
   {
     "id": 115386,
@@ -633,7 +893,12 @@
     "latitude": "35.59194000",
     "longitude": "-114.27329000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Dolan Springs",
+    "timezone": "America/Phoenix",
+    "population": 2033,
+    "population_year": null
   },
   {
     "id": 115402,
@@ -645,7 +910,12 @@
     "latitude": "32.70935000",
     "longitude": "-114.67822000",
     "county_id": 2965,
-    "wikiDataId": null
+    "wikiDataId": "Q5484139",
+    "type": "locality",
+    "native": "Donovan Estates",
+    "timezone": "America/Phoenix",
+    "population": 1508,
+    "population_year": null
   },
   {
     "id": 115423,
@@ -657,7 +927,12 @@
     "latitude": "31.34455000",
     "longitude": "-109.54534000",
     "county_id": 551,
-    "wikiDataId": null
+    "wikiDataId": "Q79878",
+    "type": "city",
+    "native": "Douglas",
+    "timezone": "America/Phoenix",
+    "population": 16592,
+    "population_year": null
   },
   {
     "id": 115476,
@@ -669,7 +944,12 @@
     "latitude": "32.14119000",
     "longitude": "-111.02843000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1258838",
+    "type": "locality",
+    "native": "Drexel Heights",
+    "timezone": "America/Phoenix",
+    "population": 27749,
+    "population_year": null
   },
   {
     "id": 115594,
@@ -681,7 +961,12 @@
     "latitude": "34.11124000",
     "longitude": "-109.29238000",
     "county_id": 65,
-    "wikiDataId": null
+    "wikiDataId": "Q991082",
+    "type": "town",
+    "native": "Eagar",
+    "timezone": "America/Phoenix",
+    "population": 4395,
+    "population_year": null
   },
   {
     "id": 115753,
@@ -693,7 +978,12 @@
     "latitude": "31.94286000",
     "longitude": "-110.92842000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1277999",
+    "type": "locality",
+    "native": "East Sahuarita",
+    "timezone": "America/Phoenix",
+    "population": 1622,
+    "population_year": null
   },
   {
     "id": 115907,
@@ -705,7 +995,12 @@
     "latitude": "33.60419000",
     "longitude": "-114.52523000",
     "county_id": 1455,
-    "wikiDataId": null
+    "wikiDataId": "Q1299923",
+    "type": "locality",
+    "native": "Ehrenberg",
+    "timezone": "America/Phoenix",
+    "population": 1470,
+    "population_year": null
   },
   {
     "id": 115927,
@@ -717,7 +1012,12 @@
     "latitude": "33.61309000",
     "longitude": "-112.32460000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q79434",
+    "type": "city",
+    "native": "El Mirage",
+    "timezone": "America/Phoenix",
+    "population": 35805,
+    "population_year": null
   },
   {
     "id": 116065,
@@ -729,7 +1029,12 @@
     "latitude": "32.75590000",
     "longitude": "-111.55484000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q80072",
+    "type": "city",
+    "native": "Eloy",
+    "timezone": "America/Phoenix",
+    "population": 15635,
+    "population_year": null
   },
   {
     "id": 116116,
@@ -741,7 +1046,12 @@
     "latitude": "33.47937000",
     "longitude": "-112.07823000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Encanto",
+    "timezone": "America/Phoenix",
+    "population": 54614,
+    "population_year": null
   },
   {
     "id": 116523,
@@ -753,7 +1063,12 @@
     "latitude": "35.83667000",
     "longitude": "-110.38152000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q1419490",
+    "type": "locality",
+    "native": "First Mesa",
+    "timezone": "America/Phoenix",
+    "population": 1555,
+    "population_year": null
   },
   {
     "id": 116546,
@@ -765,7 +1080,12 @@
     "latitude": "35.19807000",
     "longitude": "-111.65127000",
     "county_id": 554,
-    "wikiDataId": null
+    "wikiDataId": "Q79842",
+    "type": "city",
+    "native": "Flagstaff",
+    "timezone": "America/Phoenix",
+    "population": 77260,
+    "population_year": 2025
   },
   {
     "id": 116583,
@@ -777,7 +1097,12 @@
     "latitude": "33.03145000",
     "longitude": "-111.38734000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q845754",
+    "type": "city",
+    "native": "Florence",
+    "timezone": "America/Phoenix",
+    "population": 25222,
+    "population_year": 2025
   },
   {
     "id": 116603,
@@ -789,7 +1114,12 @@
     "latitude": "32.29396000",
     "longitude": "-111.00982000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1430353",
+    "type": "locality",
+    "native": "Flowing Wells",
+    "timezone": "America/Phoenix",
+    "population": 16419,
+    "population_year": null
   },
   {
     "id": 116704,
@@ -801,7 +1131,12 @@
     "latitude": "35.74446000",
     "longitude": "-109.07648000",
     "county_id": 65,
-    "wikiDataId": null
+    "wikiDataId": "Q1026027",
+    "type": "locality",
+    "native": "Fort Defiance",
+    "timezone": "America/Denver",
+    "population": 3624,
+    "population_year": null
   },
   {
     "id": 116768,
@@ -813,7 +1148,12 @@
     "latitude": "32.65783000",
     "longitude": "-114.41189000",
     "county_id": 2965,
-    "wikiDataId": null
+    "wikiDataId": "Q1439085",
+    "type": "locality",
+    "native": "Fortuna Foothills",
+    "timezone": "America/Phoenix",
+    "population": 26265,
+    "population_year": null
   },
   {
     "id": 116782,
@@ -825,7 +1165,12 @@
     "latitude": "33.61171000",
     "longitude": "-111.71736000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q828717",
+    "type": "town",
+    "native": "Fountain Hills",
+    "timezone": "America/Phoenix",
+    "population": 23820,
+    "population_year": null
   },
   {
     "id": 116898,
@@ -837,7 +1182,12 @@
     "latitude": "36.94554000",
     "longitude": "-112.52659000",
     "county_id": 554,
-    "wikiDataId": null
+    "wikiDataId": "Q1013165",
+    "type": "town",
+    "native": "Fredonia",
+    "timezone": "America/Phoenix",
+    "population": 1322,
+    "population_year": null
   },
   {
     "id": 117048,
@@ -849,7 +1199,12 @@
     "latitude": "35.71140000",
     "longitude": "-109.54205000",
     "county_id": 65,
-    "wikiDataId": null
+    "wikiDataId": "Q1493347",
+    "type": "locality",
+    "native": "Ganado",
+    "timezone": "America/Denver",
+    "population": 1210,
+    "population_year": null
   },
   {
     "id": 117200,
@@ -861,7 +1216,12 @@
     "latitude": "32.94782000",
     "longitude": "-112.71683000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q991040",
+    "type": "town",
+    "native": "Gila Bend",
+    "timezone": "America/Phoenix",
+    "population": 1892,
+    "population_year": null
   },
   {
     "id": 117204,
@@ -873,7 +1233,12 @@
     "latitude": "33.35283000",
     "longitude": "-111.78903000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q51684",
+    "type": "town",
+    "native": "Gilbert",
+    "timezone": "America/Phoenix",
+    "population": 287285,
+    "population_year": 2025
   },
   {
     "id": 117285,
@@ -885,7 +1250,12 @@
     "latitude": "33.53865000",
     "longitude": "-112.18599000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q51682",
+    "type": "city",
+    "native": "Glendale",
+    "timezone": "America/Phoenix",
+    "population": 260572,
+    "population_year": 2025
   },
   {
     "id": 117321,
@@ -897,7 +1267,12 @@
     "latitude": "33.39422000",
     "longitude": "-110.78650000",
     "county_id": 977,
-    "wikiDataId": null
+    "wikiDataId": "Q79823",
+    "type": "city",
+    "native": "Globe",
+    "timezone": "America/Phoenix",
+    "population": 7191,
+    "population_year": 2025
   },
   {
     "id": 117341,
@@ -909,7 +1284,12 @@
     "latitude": "33.29367000",
     "longitude": "-111.30429000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q49351629",
+    "type": "locality",
+    "native": "Gold Camp",
+    "timezone": "America/Phoenix",
+    "population": 10159,
+    "population_year": null
   },
   {
     "id": 117342,
@@ -921,7 +1301,12 @@
     "latitude": "33.37145000",
     "longitude": "-111.43691000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q2274785",
+    "type": "locality",
+    "native": "Gold Canyon",
+    "timezone": "America/Phoenix",
+    "population": 10159,
+    "population_year": null
   },
   {
     "id": 117353,
@@ -933,7 +1318,12 @@
     "latitude": "34.78188000",
     "longitude": "-114.47775000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q5882358",
+    "type": "locality",
+    "native": "Golden Shores",
+    "timezone": "America/Phoenix",
+    "population": 2047,
+    "population_year": null
   },
   {
     "id": 117356,
@@ -945,7 +1335,12 @@
     "latitude": "35.22333000",
     "longitude": "-114.22301000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q1535079",
+    "type": "locality",
+    "native": "Golden Valley",
+    "timezone": "America/Phoenix",
+    "population": 8370,
+    "population_year": null
   },
   {
     "id": 117393,
@@ -957,7 +1352,12 @@
     "latitude": "33.43532000",
     "longitude": "-112.35821000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q79457",
+    "type": "city",
+    "native": "Goodyear",
+    "timezone": "America/Phoenix",
+    "population": 125359,
+    "population_year": 2025
   },
   {
     "id": 117452,
@@ -969,7 +1369,12 @@
     "latitude": "36.05443000",
     "longitude": "-112.13934000",
     "county_id": 554,
-    "wikiDataId": null
+    "wikiDataId": "Q49352170",
+    "type": "locality",
+    "native": "Grand Canyon",
+    "timezone": "America/Phoenix",
+    "population": 1460,
+    "population_year": null
   },
   {
     "id": 117610,
@@ -981,7 +1386,12 @@
     "latitude": "31.85425000",
     "longitude": "-110.99370000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1544683",
+    "type": "locality",
+    "native": "Green Valley",
+    "timezone": "America/Phoenix",
+    "population": 21391,
+    "population_year": null
   },
   {
     "id": 117776,
@@ -993,7 +1403,12 @@
     "latitude": "33.37088000",
     "longitude": "-111.96292000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q985305",
+    "type": "town",
+    "native": "Guadalupe",
+    "timezone": "America/Phoenix",
+    "population": 6177,
+    "population_year": null
   },
   {
     "id": 118231,
@@ -1005,7 +1420,12 @@
     "latitude": "34.41414000",
     "longitude": "-110.56956000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q1592804",
+    "type": "locality",
+    "native": "Heber-Overgaard",
+    "timezone": "America/Phoenix",
+    "population": 2822,
+    "population_year": null
   },
   {
     "id": 118519,
@@ -1017,7 +1437,12 @@
     "latitude": "34.90225000",
     "longitude": "-110.15818000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q79912",
+    "type": "city",
+    "native": "Holbrook",
+    "timezone": "America/Phoenix",
+    "population": 4866,
+    "population_year": 2025
   },
   {
     "id": 118688,
@@ -1029,7 +1454,12 @@
     "latitude": "35.28308000",
     "longitude": "-109.20704000",
     "county_id": 65,
-    "wikiDataId": null
+    "wikiDataId": "Q1895331",
+    "type": "locality",
+    "native": "Houck",
+    "timezone": "America/Denver",
+    "population": 1024,
+    "population_year": null
   },
   {
     "id": 118729,
@@ -1041,7 +1471,12 @@
     "latitude": "31.62787000",
     "longitude": "-110.33397000",
     "county_id": 551,
-    "wikiDataId": null
+    "wikiDataId": "Q992068",
+    "type": "town",
+    "native": "Huachuca City",
+    "timezone": "America/Phoenix",
+    "population": 1626,
+    "population_year": null
   },
   {
     "id": 119319,
@@ -1053,7 +1488,12 @@
     "latitude": "34.95586000",
     "longitude": "-110.33401000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q3476633",
+    "type": "locality",
+    "native": "Joseph City",
+    "timezone": "America/Phoenix",
+    "population": 1386,
+    "population_year": null
   },
   {
     "id": 119349,
@@ -1065,7 +1505,12 @@
     "latitude": "35.09696000",
     "longitude": "-111.69266000",
     "county_id": 554,
-    "wikiDataId": null
+    "wikiDataId": "Q132192",
+    "type": "locality",
+    "native": "Kachina Village",
+    "timezone": "America/Phoenix",
+    "population": 2622,
+    "population_year": null
   },
   {
     "id": 119356,
@@ -1077,7 +1522,12 @@
     "latitude": "36.59722000",
     "longitude": "-111.07431000",
     "county_id": 554,
-    "wikiDataId": null
+    "wikiDataId": "Q1328353",
+    "type": "locality",
+    "native": "Kaibito",
+    "timezone": "America/Denver",
+    "population": 1522,
+    "population_year": null
   },
   {
     "id": 119402,
@@ -1089,7 +1539,12 @@
     "latitude": "36.72778000",
     "longitude": "-110.25458000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q1253305",
+    "type": "locality",
+    "native": "Kayenta",
+    "timezone": "America/Denver",
+    "population": 5189,
+    "population_year": null
   },
   {
     "id": 119413,
@@ -1101,7 +1556,12 @@
     "latitude": "33.05701000",
     "longitude": "-110.91067000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q592109",
+    "type": "town",
+    "native": "Kearny",
+    "timezone": "America/Phoenix",
+    "population": 1741,
+    "population_year": null
   },
   {
     "id": 119595,
@@ -1113,7 +1573,12 @@
     "latitude": "35.18944000",
     "longitude": "-114.05301000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q79733",
+    "type": "city",
+    "native": "Kingman",
+    "timezone": "America/Phoenix",
+    "population": 35829,
+    "population_year": 2025
   },
   {
     "id": 119918,
@@ -1125,7 +1590,12 @@
     "latitude": "34.48390000",
     "longitude": "-114.32245000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q79435",
+    "type": "city",
+    "native": "Lake Havasu City",
+    "timezone": "America/Phoenix",
+    "population": 57144,
+    "population_year": null
   },
   {
     "id": 119946,
@@ -1137,7 +1607,12 @@
     "latitude": "34.63224000",
     "longitude": "-111.77793000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q2703146",
+    "type": "locality",
+    "native": "Lake Montezuma",
+    "timezone": "America/Phoenix",
+    "population": 4706,
+    "population_year": null
   },
   {
     "id": 120007,
@@ -1149,7 +1624,12 @@
     "latitude": "34.16393000",
     "longitude": "-109.98955000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q2918871",
+    "type": "locality",
+    "native": "Lake of the Woods",
+    "timezone": "America/Phoenix",
+    "population": 4094,
+    "population_year": null
   },
   {
     "id": 120217,
@@ -1161,7 +1641,12 @@
     "latitude": "33.36282000",
     "longitude": "-112.16932000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q14680539",
+    "type": "locality",
+    "native": "Laveen",
+    "timezone": "America/Phoenix",
+    "population": 5930,
+    "population_year": null
   },
   {
     "id": 120266,
@@ -1173,7 +1658,12 @@
     "latitude": "36.86211000",
     "longitude": "-111.44063000",
     "county_id": 554,
-    "wikiDataId": null
+    "wikiDataId": "Q2195086",
+    "type": "locality",
+    "native": "LeChee",
+    "timezone": "America/Phoenix",
+    "population": 1443,
+    "population_year": null
   },
   {
     "id": 120565,
@@ -1185,7 +1675,12 @@
     "latitude": "34.28504000",
     "longitude": "-110.15706000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q6552240",
+    "type": "locality",
+    "native": "Linden",
+    "timezone": "America/Phoenix",
+    "population": 2597,
+    "population_year": null
   },
   {
     "id": 120609,
@@ -1197,7 +1692,12 @@
     "latitude": "33.49337000",
     "longitude": "-112.35794000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q79437",
+    "type": "city",
+    "native": "Litchfield Park",
+    "timezone": "America/Phoenix",
+    "population": 6847,
+    "population_year": null
   },
   {
     "id": 120874,
@@ -1209,7 +1709,12 @@
     "latitude": "36.41695000",
     "longitude": "-109.22871000",
     "county_id": 65,
-    "wikiDataId": null
+    "wikiDataId": "Q1828153",
+    "type": "locality",
+    "native": "Lukachukai",
+    "timezone": "America/Denver",
+    "population": 1701,
+    "population_year": null
   },
   {
     "id": 121076,
@@ -1221,7 +1726,12 @@
     "latitude": "32.72257000",
     "longitude": "-110.64065000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q385920",
+    "type": "town",
+    "native": "Mammoth",
+    "timezone": "America/Phoenix",
+    "population": 1487,
+    "population_year": null
   },
   {
     "id": 121164,
@@ -1233,7 +1743,12 @@
     "latitude": "36.35278000",
     "longitude": "-109.61789000",
     "county_id": 65,
-    "wikiDataId": null
+    "wikiDataId": "Q1891946",
+    "type": "locality",
+    "native": "Many Farms",
+    "timezone": "America/Denver",
+    "population": 1348,
+    "population_year": null
   },
   {
     "id": 121183,
@@ -1245,7 +1760,12 @@
     "latitude": "32.43674000",
     "longitude": "-111.22538000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q762743",
+    "type": "town",
+    "native": "Marana",
+    "timezone": "America/Phoenix",
+    "population": 41315,
+    "population_year": null
   },
   {
     "id": 121211,
@@ -1257,7 +1777,12 @@
     "latitude": "33.05811000",
     "longitude": "-112.04764000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q79877",
+    "type": "city",
+    "native": "Maricopa",
+    "timezone": "America/Phoenix",
+    "population": 48602,
+    "population_year": null
   },
   {
     "id": 121362,
@@ -1269,7 +1794,12 @@
     "latitude": "33.50199000",
     "longitude": "-112.17765000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Maryvale",
+    "timezone": "America/Phoenix",
+    "population": 208189,
+    "population_year": null
   },
   {
     "id": 121433,
@@ -1281,7 +1811,12 @@
     "latitude": "34.39781000",
     "longitude": "-112.23627000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q2375262",
+    "type": "locality",
+    "native": "Mayer",
+    "timezone": "America/Phoenix",
+    "population": 1497,
+    "population_year": null
   },
   {
     "id": 121573,
@@ -1293,7 +1828,12 @@
     "latitude": "36.00221000",
     "longitude": "-114.06829000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q991152",
+    "type": "locality",
+    "native": "Meadview",
+    "timezone": "America/Phoenix",
+    "population": 1420,
+    "population_year": null
   },
   {
     "id": 121720,
@@ -1305,7 +1845,12 @@
     "latitude": "33.42227000",
     "longitude": "-111.82264000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q49261",
+    "type": "city",
+    "native": "Mesa",
+    "timezone": "America/Phoenix",
+    "population": 513656,
+    "population_year": 2025
   },
   {
     "id": 121723,
@@ -1317,7 +1862,12 @@
     "latitude": "31.99008000",
     "longitude": "-110.43535000",
     "county_id": 551,
-    "wikiDataId": null
+    "wikiDataId": "Q6011334",
+    "type": "locality",
+    "native": "Mescal",
+    "timezone": "America/Phoenix",
+    "population": 1812,
+    "population_year": null
   },
   {
     "id": 121748,
@@ -1329,7 +1879,12 @@
     "latitude": "33.39922000",
     "longitude": "-110.86872000",
     "county_id": 977,
-    "wikiDataId": null
+    "wikiDataId": "Q991525",
+    "type": "town",
+    "native": "Miami",
+    "timezone": "America/Phoenix",
+    "population": 1783,
+    "population_year": null
   },
   {
     "id": 122020,
@@ -1341,7 +1896,12 @@
     "latitude": "34.93306000",
     "longitude": "-114.58885000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q615832",
+    "type": "locality",
+    "native": "Mohave Valley",
+    "timezone": "America/Phoenix",
+    "population": 2616,
+    "population_year": null
   },
   {
     "id": 122230,
@@ -1353,7 +1913,12 @@
     "latitude": "33.07867000",
     "longitude": "-109.36535000",
     "county_id": 1063,
-    "wikiDataId": null
+    "wikiDataId": "Q1249583",
+    "type": "locality",
+    "native": "Morenci",
+    "timezone": "America/Phoenix",
+    "population": 2270,
+    "population_year": null
   },
   {
     "id": 122436,
@@ -1365,7 +1930,12 @@
     "latitude": "35.08529000",
     "longitude": "-111.66599000",
     "county_id": 554,
-    "wikiDataId": null
+    "wikiDataId": "Q2034673",
+    "type": "locality",
+    "native": "Mountainaire",
+    "timezone": "America/Phoenix",
+    "population": 1119,
+    "population_year": null
   },
   {
     "id": 122531,
@@ -1377,7 +1947,12 @@
     "latitude": "31.33538000",
     "longitude": "-109.94813000",
     "county_id": 551,
-    "wikiDataId": null
+    "wikiDataId": "Q1862064",
+    "type": "locality",
+    "native": "NACO",
+    "timezone": "America/Phoenix",
+    "population": 1046,
+    "population_year": null
   },
   {
     "id": 122736,
@@ -1389,7 +1964,12 @@
     "latitude": "35.26504000",
     "longitude": "-114.03226000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q914990",
+    "type": "locality",
+    "native": "New Kingman-Butler",
+    "timezone": "America/Phoenix",
+    "population": 12134,
+    "population_year": null
   },
   {
     "id": 122771,
@@ -1401,7 +1981,12 @@
     "latitude": "33.91587000",
     "longitude": "-112.13599000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q1757496",
+    "type": "locality",
+    "native": "New River",
+    "timezone": "America/Phoenix",
+    "population": 14952,
+    "population_year": null
   },
   {
     "id": 122927,
@@ -1413,7 +1998,12 @@
     "latitude": "31.34038000",
     "longitude": "-110.93425000",
     "county_id": 2407,
-    "wikiDataId": null
+    "wikiDataId": "Q79783",
+    "type": "city",
+    "native": "Nogales",
+    "timezone": "America/Phoenix",
+    "population": 19495,
+    "population_year": 2025
   },
   {
     "id": 123027,
@@ -1425,7 +2015,12 @@
     "latitude": "34.00167000",
     "longitude": "-109.96355000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q2843965",
+    "type": "locality",
+    "native": "North Fork",
+    "timezone": "America/Phoenix",
+    "population": 1417,
+    "population_year": null
   },
   {
     "id": 123502,
@@ -1437,7 +2032,12 @@
     "latitude": "32.61091000",
     "longitude": "-110.77093000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q2740714",
+    "type": "locality",
+    "native": "Oracle",
+    "timezone": "America/Phoenix",
+    "population": 3686,
+    "population_year": null
   },
   {
     "id": 123571,
@@ -1449,7 +2049,12 @@
     "latitude": "32.39091000",
     "longitude": "-110.96649000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q986523",
+    "type": "town",
+    "native": "Oro Valley",
+    "timezone": "America/Phoenix",
+    "population": 47070,
+    "population_year": null
   },
   {
     "id": 123717,
@@ -1461,7 +2066,12 @@
     "latitude": "36.91472000",
     "longitude": "-111.45583000",
     "county_id": 554,
-    "wikiDataId": null
+    "wikiDataId": "Q79940",
+    "type": "city",
+    "native": "Page",
+    "timezone": "America/Phoenix",
+    "population": 7490,
+    "population_year": null
   },
   {
     "id": 123822,
@@ -1473,7 +2083,12 @@
     "latitude": "33.53115000",
     "longitude": "-111.94265000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q983750",
+    "type": "town",
+    "native": "Paradise Valley",
+    "timezone": "America/Phoenix",
+    "population": 12658,
+    "population_year": null
   },
   {
     "id": 123861,
@@ -1485,7 +2100,12 @@
     "latitude": "34.15002000",
     "longitude": "-114.28912000",
     "county_id": 1455,
-    "wikiDataId": null
+    "wikiDataId": "Q916314",
+    "type": "city",
+    "native": "Parker",
+    "timezone": "America/Phoenix",
+    "population": 3394,
+    "population_year": 2025
   },
   {
     "id": 123873,
@@ -1497,7 +2117,12 @@
     "latitude": "35.26057000",
     "longitude": "-111.94877000",
     "county_id": 554,
-    "wikiDataId": null
+    "wikiDataId": "Q1360223",
+    "type": "locality",
+    "native": "Parks",
+    "timezone": "America/Phoenix",
+    "population": 1188,
+    "population_year": null
   },
   {
     "id": 123921,
@@ -1509,7 +2134,12 @@
     "latitude": "34.88558000",
     "longitude": "-112.46823000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q2376868",
+    "type": "locality",
+    "native": "Paulden",
+    "timezone": "America/Phoenix",
+    "population": 5231,
+    "population_year": null
   },
   {
     "id": 123949,
@@ -1521,7 +2151,12 @@
     "latitude": "34.23087000",
     "longitude": "-111.32514000",
     "county_id": 977,
-    "wikiDataId": null
+    "wikiDataId": "Q985250",
+    "type": "town",
+    "native": "Payson",
+    "timezone": "America/Phoenix",
+    "population": 15345,
+    "population_year": null
   },
   {
     "id": 123958,
@@ -1533,7 +2168,12 @@
     "latitude": "35.52916000",
     "longitude": "-113.42549000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q1024109",
+    "type": "locality",
+    "native": "Peach Springs",
+    "timezone": "America/Phoenix",
+    "population": 1090,
+    "population_year": null
   },
   {
     "id": 124047,
@@ -1545,7 +2185,12 @@
     "latitude": "33.58060000",
     "longitude": "-112.23738000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q51686",
+    "type": "city",
+    "native": "Peoria",
+    "timezone": "America/Phoenix",
+    "population": 200881,
+    "population_year": 2025
   },
   {
     "id": 124060,
@@ -1557,7 +2202,12 @@
     "latitude": "33.31034000",
     "longitude": "-110.45538000",
     "county_id": 977,
-    "wikiDataId": null
+    "wikiDataId": "Q2333086",
+    "type": "locality",
+    "native": "Peridot",
+    "timezone": "America/Phoenix",
+    "population": 1350,
+    "population_year": null
   },
   {
     "id": 124148,
@@ -1569,7 +2219,12 @@
     "latitude": "33.44838000",
     "longitude": "-112.07404000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q16556",
+    "type": "city",
+    "native": "Phoenix",
+    "timezone": "America/Phoenix",
+    "population": 1665481,
+    "population_year": 2025
   },
   {
     "id": 124163,
@@ -1581,7 +2236,12 @@
     "latitude": "32.34591000",
     "longitude": "-111.24621000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1890767",
+    "type": "locality",
+    "native": "Picture Rocks",
+    "timezone": "America/Phoenix",
+    "population": 9563,
+    "population_year": null
   },
   {
     "id": 124203,
@@ -1593,7 +2253,12 @@
     "latitude": "32.89656000",
     "longitude": "-109.82835000",
     "county_id": 1012,
-    "wikiDataId": null
+    "wikiDataId": "Q734341",
+    "type": "town",
+    "native": "Pima",
+    "timezone": "America/Phoenix",
+    "population": 2847,
+    "population_year": null
   },
   {
     "id": 124212,
@@ -1605,7 +2270,12 @@
     "latitude": "34.38447000",
     "longitude": "-111.45514000",
     "county_id": 977,
-    "wikiDataId": null
+    "wikiDataId": "Q2695935",
+    "type": "locality",
+    "native": "Pine",
+    "timezone": "America/Phoenix",
+    "population": 1963,
+    "population_year": null
   },
   {
     "id": 124257,
@@ -1617,7 +2287,12 @@
     "latitude": "34.14254000",
     "longitude": "-109.96038000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q2746251",
+    "type": "town",
+    "native": "Pinetop-Lakeside",
+    "timezone": "America/Phoenix",
+    "population": 4030,
+    "population_year": null
   },
   {
     "id": 124279,
@@ -1629,7 +2304,12 @@
     "latitude": "31.35716000",
     "longitude": "-109.56352000",
     "county_id": 551,
-    "wikiDataId": null
+    "wikiDataId": "Q2093699",
+    "type": "locality",
+    "native": "Pirtleville",
+    "timezone": "America/Phoenix",
+    "population": 1744,
+    "population_year": null
   },
   {
     "id": 124643,
@@ -1641,7 +2321,12 @@
     "latitude": "34.54002000",
     "longitude": "-112.46850000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q79931",
+    "type": "city",
+    "native": "Prescott",
+    "timezone": "America/Phoenix",
+    "population": 48420,
+    "population_year": 2025
   },
   {
     "id": 124645,
@@ -1653,7 +2338,12 @@
     "latitude": "34.61002000",
     "longitude": "-112.31572000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q374697",
+    "type": "town",
+    "native": "Prescott Valley",
+    "timezone": "America/Phoenix",
+    "population": 46785,
+    "population_year": null
   },
   {
     "id": 124783,
@@ -1665,7 +2355,12 @@
     "latitude": "33.66391000",
     "longitude": "-114.22995000",
     "county_id": 1455,
-    "wikiDataId": null
+    "wikiDataId": "Q991047",
+    "type": "town",
+    "native": "Quartzsite",
+    "timezone": "America/Phoenix",
+    "population": 3626,
+    "population_year": null
   },
   {
     "id": 124788,
@@ -1677,7 +2372,12 @@
     "latitude": "33.24866000",
     "longitude": "-111.63430000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q985299",
+    "type": "town",
+    "native": "Queen Creek",
+    "timezone": "America/Phoenix",
+    "population": 34614,
+    "population_year": null
   },
   {
     "id": 125159,
@@ -1689,7 +2389,12 @@
     "latitude": "31.47148000",
     "longitude": "-110.97648000",
     "county_id": 2407,
-    "wikiDataId": null
+    "wikiDataId": "Q1019215",
+    "type": "locality",
+    "native": "Rio Rico",
+    "timezone": "America/Phoenix",
+    "population": 18962,
+    "population_year": null
   },
   {
     "id": 125160,
@@ -1701,7 +2406,12 @@
     "latitude": "33.72254000",
     "longitude": "-111.67569000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q1397426",
+    "type": "locality",
+    "native": "Rio Verde",
+    "timezone": "America/Phoenix",
+    "population": 1811,
+    "population_year": null
   },
   {
     "id": 125573,
@@ -1713,7 +2423,12 @@
     "latitude": "33.07672000",
     "longitude": "-111.73930000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q1939301",
+    "type": "locality",
+    "native": "Sacaton",
+    "timezone": "America/Phoenix",
+    "population": 2672,
+    "population_year": null
   },
   {
     "id": 125580,
@@ -1725,7 +2440,12 @@
     "latitude": "32.53472000",
     "longitude": "-110.87361000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q386653",
+    "type": "locality",
+    "native": "Saddle Brooke",
+    "timezone": "America/Phoenix",
+    "population": 12574,
+    "population_year": null
   },
   {
     "id": 125583,
@@ -1737,7 +2457,12 @@
     "latitude": "32.83395000",
     "longitude": "-109.70758000",
     "county_id": 1012,
-    "wikiDataId": null
+    "wikiDataId": "Q79767",
+    "type": "city",
+    "native": "Safford",
+    "timezone": "America/Phoenix",
+    "population": 10279,
+    "population_year": 2025
   },
   {
     "id": 125593,
@@ -1749,7 +2474,12 @@
     "latitude": "31.95758000",
     "longitude": "-110.95565000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q914860",
+    "type": "town",
+    "native": "Sahuarita",
+    "timezone": "America/Phoenix",
+    "population": 25707,
+    "population_year": null
   },
   {
     "id": 125630,
@@ -1761,7 +2491,12 @@
     "latitude": "31.90425000",
     "longitude": "-110.21424000",
     "county_id": 551,
-    "wikiDataId": null
+    "wikiDataId": "Q1668632",
+    "type": "locality",
+    "native": "Saint David",
+    "timezone": "America/Phoenix",
+    "population": 1699,
+    "population_year": null
   },
   {
     "id": 125666,
@@ -1773,7 +2508,12 @@
     "latitude": "34.50587000",
     "longitude": "-109.36093000",
     "county_id": 65,
-    "wikiDataId": null
+    "wikiDataId": "Q79816",
+    "type": "city",
+    "native": "Saint Johns",
+    "timezone": "America/Phoenix",
+    "population": 3336,
+    "population_year": 2025
   },
   {
     "id": 125699,
@@ -1785,7 +2525,12 @@
     "latitude": "35.64474000",
     "longitude": "-109.09565000",
     "county_id": 65,
-    "wikiDataId": null
+    "wikiDataId": "Q2141281",
+    "type": "locality",
+    "native": "Saint Michaels",
+    "timezone": "America/Denver",
+    "population": 1443,
+    "population_year": null
   },
   {
     "id": 125766,
@@ -1797,7 +2542,12 @@
     "latitude": "33.78114000",
     "longitude": "-113.61465000",
     "county_id": 1455,
-    "wikiDataId": null
+    "wikiDataId": "Q654423",
+    "type": "locality",
+    "native": "Salome",
+    "timezone": "America/Phoenix",
+    "population": 1530,
+    "population_year": null
   },
   {
     "id": 125797,
@@ -1809,7 +2559,12 @@
     "latitude": "33.34562000",
     "longitude": "-110.45504000",
     "county_id": 977,
-    "wikiDataId": null
+    "wikiDataId": "Q2066398",
+    "type": "locality",
+    "native": "San Carlos",
+    "timezone": "America/Phoenix",
+    "population": 4038,
+    "population_year": null
   },
   {
     "id": 125827,
@@ -1821,7 +2576,12 @@
     "latitude": "32.48700000",
     "longitude": "-114.78218000",
     "county_id": 2965,
-    "wikiDataId": null
+    "wikiDataId": "Q80018",
+    "type": "city",
+    "native": "San Luis",
+    "timezone": "America/Phoenix",
+    "population": 31520,
+    "population_year": null
   },
   {
     "id": 125831,
@@ -1833,7 +2593,12 @@
     "latitude": "32.59979000",
     "longitude": "-110.63093000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q2786066",
+    "type": "locality",
+    "native": "San Manuel",
+    "timezone": "America/Phoenix",
+    "population": 3551,
+    "population_year": null
   },
   {
     "id": 125850,
@@ -1845,7 +2610,12 @@
     "latitude": "33.19110000",
     "longitude": "-111.52800000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5241708",
+    "type": "town",
+    "native": "San Tan Valley",
+    "timezone": "America/Phoenix",
+    "population": 99894,
+    "population_year": null
   },
   {
     "id": 125999,
@@ -1857,7 +2627,12 @@
     "latitude": "36.79359000",
     "longitude": "-114.01275000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q5246629",
+    "type": "locality",
+    "native": "Scenic",
+    "timezone": "America/Phoenix",
+    "population": 1643,
+    "population_year": null
   },
   {
     "id": 126063,
@@ -1869,7 +2644,12 @@
     "latitude": "33.50921000",
     "longitude": "-111.89903000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q49221",
+    "type": "city",
+    "native": "Scottsdale",
+    "timezone": "America/Phoenix",
+    "population": 243006,
+    "population_year": 2025
   },
   {
     "id": 126121,
@@ -1881,7 +2661,12 @@
     "latitude": "34.86974000",
     "longitude": "-111.76099000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q80041",
+    "type": "city",
+    "native": "Sedona",
+    "timezone": "America/Phoenix",
+    "population": 9684,
+    "population_year": null
   },
   {
     "id": 126137,
@@ -1893,7 +2678,12 @@
     "latitude": "31.91202000",
     "longitude": "-111.88123000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q2140577",
+    "type": "locality",
+    "native": "Sells",
+    "timezone": "America/Phoenix",
+    "population": 2495,
+    "population_year": null
   },
   {
     "id": 126381,
@@ -1905,7 +2695,12 @@
     "latitude": "34.25421000",
     "longitude": "-110.02983000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q936839",
+    "type": "city",
+    "native": "Show Low",
+    "timezone": "America/Phoenix",
+    "population": 11732,
+    "population_year": null
   },
   {
     "id": 126406,
@@ -1917,7 +2712,12 @@
     "latitude": "31.55454000",
     "longitude": "-110.30369000",
     "county_id": 551,
-    "wikiDataId": null
+    "wikiDataId": "Q79891",
+    "type": "city",
+    "native": "Sierra Vista",
+    "timezone": "America/Phoenix",
+    "population": 45308,
+    "population_year": null
   },
   {
     "id": 126407,
@@ -1929,7 +2729,12 @@
     "latitude": "31.45385000",
     "longitude": "-110.21637000",
     "county_id": 551,
-    "wikiDataId": null
+    "wikiDataId": "Q239068",
+    "type": "locality",
+    "native": "Sierra Vista Southeast",
+    "timezone": "America/Phoenix",
+    "population": 14797,
+    "population_year": null
   },
   {
     "id": 126472,
@@ -1941,7 +2746,12 @@
     "latitude": "33.36678000",
     "longitude": "-110.77460000",
     "county_id": 977,
-    "wikiDataId": null
+    "wikiDataId": "Q6130189",
+    "type": "locality",
+    "native": "Six Shooter Canyon",
+    "timezone": "America/Phoenix",
+    "population": 1019,
+    "population_year": null
   },
   {
     "id": 126547,
@@ -1953,7 +2763,12 @@
     "latitude": "34.51337000",
     "longitude": "-110.07845000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q1012644",
+    "type": "town",
+    "native": "Snowflake",
+    "timezone": "America/Phoenix",
+    "population": 6104,
+    "population_year": null
   },
   {
     "id": 126591,
@@ -1965,7 +2780,12 @@
     "latitude": "32.59644000",
     "longitude": "-114.70968000",
     "county_id": 2965,
-    "wikiDataId": null
+    "wikiDataId": "Q79475",
+    "type": "city",
+    "native": "Somerton",
+    "timezone": "America/Phoenix",
+    "population": 14197,
+    "population_year": null
   },
   {
     "id": 126737,
@@ -1977,7 +2797,12 @@
     "latitude": "32.19952000",
     "longitude": "-110.96842000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q79893",
+    "type": "city",
+    "native": "South Tucson",
+    "timezone": "America/Phoenix",
+    "population": 4613,
+    "population_year": null
   },
   {
     "id": 126878,
@@ -1989,7 +2814,12 @@
     "latitude": "34.34503000",
     "longitude": "-112.15905000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q1992838",
+    "type": "locality",
+    "native": "Spring Valley",
+    "timezone": "America/Phoenix",
+    "population": 1148,
+    "population_year": null
   },
   {
     "id": 126888,
@@ -2001,7 +2831,12 @@
     "latitude": "34.13355000",
     "longitude": "-109.28834000",
     "county_id": 65,
-    "wikiDataId": null
+    "wikiDataId": "Q1012656",
+    "type": "town",
+    "native": "Springerville",
+    "timezone": "America/Phoenix",
+    "population": 1717,
+    "population_year": null
   },
   {
     "id": 126981,
@@ -2013,7 +2848,12 @@
     "latitude": "34.25504000",
     "longitude": "-111.25847000",
     "county_id": 977,
-    "wikiDataId": null
+    "wikiDataId": "Q1018633",
+    "type": "town",
+    "native": "Star Valley",
+    "timezone": "America/Phoenix",
+    "population": 2484,
+    "population_year": null
   },
   {
     "id": 127214,
@@ -2025,7 +2865,12 @@
     "latitude": "32.06702000",
     "longitude": "-110.95148000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1703196",
+    "type": "locality",
+    "native": "Summit",
+    "timezone": "America/Phoenix",
+    "population": 5372,
+    "population_year": null
   },
   {
     "id": 127232,
@@ -2037,7 +2882,12 @@
     "latitude": "33.59754000",
     "longitude": "-112.27182000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q1006586",
+    "type": "locality",
+    "native": "Sun City",
+    "timezone": "America/Phoenix",
+    "population": 37499,
+    "population_year": null
   },
   {
     "id": 127235,
@@ -2049,7 +2899,12 @@
     "latitude": "33.66198000",
     "longitude": "-112.34127000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q1024100",
+    "type": "locality",
+    "native": "Sun City West",
+    "timezone": "America/Phoenix",
+    "population": 24535,
+    "population_year": null
   },
   {
     "id": 127236,
@@ -2061,7 +2916,12 @@
     "latitude": "33.21116000",
     "longitude": "-111.87542000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q613472",
+    "type": "locality",
+    "native": "Sun Lakes",
+    "timezone": "America/Phoenix",
+    "population": 13975,
+    "population_year": null
   },
   {
     "id": 127240,
@@ -2073,7 +2933,12 @@
     "latitude": "34.25420000",
     "longitude": "-111.26125000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Sun Valley",
+    "timezone": "America/Phoenix",
+    "population": 1783,
+    "population_year": null
   },
   {
     "id": 127280,
@@ -2085,7 +2950,12 @@
     "latitude": "33.29395000",
     "longitude": "-111.09623000",
     "county_id": 2143,
-    "wikiDataId": null
+    "wikiDataId": "Q1012650",
+    "type": "town",
+    "native": "Superior",
+    "timezone": "America/Phoenix",
+    "population": 2943,
+    "population_year": null
   },
   {
     "id": 127290,
@@ -2097,7 +2967,12 @@
     "latitude": "33.63059000",
     "longitude": "-112.33322000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q51687",
+    "type": "city",
+    "native": "Surprise",
+    "timezone": "America/Phoenix",
+    "population": 175304,
+    "population_year": 2025
   },
   {
     "id": 127346,
@@ -2109,7 +2984,12 @@
     "latitude": "32.72979000",
     "longitude": "-109.71397000",
     "county_id": 1012,
-    "wikiDataId": null
+    "wikiDataId": "Q576771",
+    "type": "locality",
+    "native": "Swift Trail Junction",
+    "timezone": "America/Phoenix",
+    "population": 2935,
+    "population_year": null
   },
   {
     "id": 127420,
@@ -2121,7 +3001,12 @@
     "latitude": "32.25174000",
     "longitude": "-110.73731000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1862070",
+    "type": "locality",
+    "native": "Tanque Verde",
+    "timezone": "America/Phoenix",
+    "population": 16901,
+    "population_year": null
   },
   {
     "id": 127450,
@@ -2133,7 +3018,12 @@
     "latitude": "34.46504000",
     "longitude": "-110.09123000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q786920",
+    "type": "town",
+    "native": "Taylor",
+    "timezone": "America/Phoenix",
+    "population": 4151,
+    "population_year": null
   },
   {
     "id": 127494,
@@ -2145,7 +3035,12 @@
     "latitude": "33.41477000",
     "longitude": "-111.90931000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q51685",
+    "type": "city",
+    "native": "Tempe",
+    "timezone": "America/Phoenix",
+    "population": 190571,
+    "population_year": 2025
   },
   {
     "id": 127495,
@@ -2157,7 +3052,12 @@
     "latitude": "33.41421000",
     "longitude": "-111.94348000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q51685",
+    "type": "city",
+    "native": "Tempe Junction",
+    "timezone": "America/Phoenix",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 127550,
@@ -2169,7 +3069,12 @@
     "latitude": "32.84923000",
     "longitude": "-109.75925000",
     "county_id": 1012,
-    "wikiDataId": null
+    "wikiDataId": "Q512101",
+    "type": "town",
+    "native": "Thatcher",
+    "timezone": "America/Phoenix",
+    "population": 5231,
+    "population_year": null
   },
   {
     "id": 127616,
@@ -2181,7 +3086,12 @@
     "latitude": "32.07675000",
     "longitude": "-111.31371000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1638317",
+    "type": "locality",
+    "native": "Three Points",
+    "timezone": "America/Phoenix",
+    "population": 5581,
+    "population_year": null
   },
   {
     "id": 127703,
@@ -2193,7 +3103,12 @@
     "latitude": "33.45004000",
     "longitude": "-112.25932000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q79898",
+    "type": "city",
+    "native": "Tolleson",
+    "timezone": "America/Phoenix",
+    "population": 7216,
+    "population_year": null
   },
   {
     "id": 127711,
@@ -2205,7 +3120,12 @@
     "latitude": "31.71287000",
     "longitude": "-110.06758000",
     "county_id": 551,
-    "wikiDataId": null
+    "wikiDataId": "Q79873",
+    "type": "city",
+    "native": "Tombstone",
+    "timezone": "America/Phoenix",
+    "population": 1308,
+    "population_year": null
   },
   {
     "id": 127724,
@@ -2217,7 +3137,12 @@
     "latitude": "33.83171000",
     "longitude": "-111.29457000",
     "county_id": 977,
-    "wikiDataId": null
+    "wikiDataId": "Q2603048",
+    "type": "locality",
+    "native": "Tonto Basin",
+    "timezone": "America/Phoenix",
+    "population": 1424,
+    "population_year": null
   },
   {
     "id": 127746,
@@ -2229,7 +3154,12 @@
     "latitude": "32.41035000",
     "longitude": "-111.01732000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Tortolita",
+    "timezone": "America/Phoenix",
+    "population": 4274,
+    "population_year": null
   },
   {
     "id": 127864,
@@ -2241,7 +3171,12 @@
     "latitude": "36.30330000",
     "longitude": "-109.21566000",
     "county_id": 65,
-    "wikiDataId": null
+    "wikiDataId": "Q1757485",
+    "type": "locality",
+    "native": "Tsaile",
+    "timezone": "America/Denver",
+    "population": 1205,
+    "population_year": null
   },
   {
     "id": 127866,
@@ -2253,7 +3188,12 @@
     "latitude": "36.13499000",
     "longitude": "-111.23986000",
     "county_id": 554,
-    "wikiDataId": null
+    "wikiDataId": "Q1013162",
+    "type": "locality",
+    "native": "Tuba City",
+    "timezone": "America/Denver",
+    "population": 8611,
+    "population_year": null
   },
   {
     "id": 127867,
@@ -2265,7 +3205,12 @@
     "latitude": "31.61259000",
     "longitude": "-111.04592000",
     "county_id": 2407,
-    "wikiDataId": null
+    "wikiDataId": "Q259729",
+    "type": "locality",
+    "native": "Tubac",
+    "timezone": "America/Phoenix",
+    "population": 1191,
+    "population_year": null
   },
   {
     "id": 127874,
@@ -2277,7 +3222,12 @@
     "latitude": "32.22174000",
     "longitude": "-110.92648000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q18575",
+    "type": "city",
+    "native": "Tucson",
+    "timezone": "America/Phoenix",
+    "population": 548371,
+    "population_year": 2025
   },
   {
     "id": 127875,
@@ -2289,7 +3239,12 @@
     "latitude": "32.18758000",
     "longitude": "-111.09093000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1890809",
+    "type": "locality",
+    "native": "Tucson Estates",
+    "timezone": "America/Phoenix",
+    "population": 12192,
+    "population_year": null
   },
   {
     "id": 128075,
@@ -2301,7 +3256,12 @@
     "latitude": "32.04786000",
     "longitude": "-110.71203000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1560792",
+    "type": "locality",
+    "native": "Vail",
+    "timezone": "America/Phoenix",
+    "population": 10208,
+    "population_year": null
   },
   {
     "id": 128090,
@@ -2313,7 +3273,12 @@
     "latitude": "32.13238000",
     "longitude": "-111.11414000",
     "county_id": 2142,
-    "wikiDataId": null
+    "wikiDataId": "Q1890841",
+    "type": "locality",
+    "native": "Valencia West",
+    "timezone": "America/Phoenix",
+    "population": 9355,
+    "population_year": null
   },
   {
     "id": 128095,
@@ -2325,7 +3290,12 @@
     "latitude": "35.41088000",
     "longitude": "-113.86271000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q6159050",
+    "type": "locality",
+    "native": "Valle Vista",
+    "timezone": "America/Phoenix",
+    "population": 1659,
+    "population_year": null
   },
   {
     "id": 128179,
@@ -2337,7 +3307,12 @@
     "latitude": "34.71050000",
     "longitude": "-112.01152000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q2734093",
+    "type": "locality",
+    "native": "Verde Village",
+    "timezone": "America/Phoenix",
+    "population": 11605,
+    "population_year": null
   },
   {
     "id": 112327,
@@ -2349,7 +3324,12 @@
     "latitude": "34.78030000",
     "longitude": "-111.76265000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q2727089",
+    "type": "locality",
+    "native": "Village of Oak Creek (Big Park)",
+    "timezone": "America/Phoenix",
+    "population": 6128,
+    "population_year": 2020
   },
   {
     "id": 128795,
@@ -2361,7 +3341,12 @@
     "latitude": "32.67283000",
     "longitude": "-114.14688000",
     "county_id": 2965,
-    "wikiDataId": null
+    "wikiDataId": "Q998972",
+    "type": "town",
+    "native": "Wellton",
+    "timezone": "America/Phoenix",
+    "population": 2375,
+    "population_year": null
   },
   {
     "id": 128978,
@@ -2373,7 +3358,12 @@
     "latitude": "34.86724000",
     "longitude": "-111.80543000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q49370704",
+    "type": "city",
+    "native": "West Sedona",
+    "timezone": "America/Phoenix",
+    "population": 11299,
+    "population_year": null
   },
   {
     "id": 129122,
@@ -2385,7 +3375,12 @@
     "latitude": "31.95731000",
     "longitude": "-110.34202000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2097306",
+    "type": "city",
+    "native": "Whetstone",
+    "timezone": "America/Phoenix",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 129147,
@@ -2397,7 +3392,12 @@
     "latitude": "34.34865000",
     "longitude": "-109.99789000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q7995084",
+    "type": "locality",
+    "native": "White Mountain Lake",
+    "timezone": "America/Phoenix",
+    "population": 2205,
+    "population_year": null
   },
   {
     "id": 129179,
@@ -2409,7 +3409,12 @@
     "latitude": "33.83699000",
     "longitude": "-109.96427000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q1818354",
+    "type": "locality",
+    "native": "Whiteriver",
+    "timezone": "America/Phoenix",
+    "population": 4104,
+    "population_year": null
   },
   {
     "id": 129219,
@@ -2421,7 +3426,12 @@
     "latitude": "33.96864000",
     "longitude": "-112.72962000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q996556",
+    "type": "town",
+    "native": "Wickenburg",
+    "timezone": "America/Phoenix",
+    "population": 7474,
+    "population_year": null
   },
   {
     "id": 129259,
@@ -2433,7 +3443,12 @@
     "latitude": "32.25285000",
     "longitude": "-109.83201000",
     "county_id": 551,
-    "wikiDataId": null
+    "wikiDataId": "Q79450",
+    "type": "city",
+    "native": "Willcox",
+    "timezone": "America/Phoenix",
+    "population": 3213,
+    "population_year": null
   },
   {
     "id": 129260,
@@ -2445,7 +3460,12 @@
     "latitude": "35.24946000",
     "longitude": "-112.19100000",
     "county_id": 554,
-    "wikiDataId": null
+    "wikiDataId": "Q79864",
+    "type": "city",
+    "native": "Williams",
+    "timezone": "America/Phoenix",
+    "population": 3122,
+    "population_year": null
   },
   {
     "id": 129275,
@@ -2457,7 +3477,12 @@
     "latitude": "34.69002000",
     "longitude": "-112.54101000",
     "county_id": 2951,
-    "wikiDataId": null
+    "wikiDataId": "Q644461",
+    "type": "locality",
+    "native": "Williamson",
+    "timezone": "America/Phoenix",
+    "population": 5438,
+    "population_year": null
   },
   {
     "id": 129312,
@@ -2469,7 +3494,12 @@
     "latitude": "34.91195000",
     "longitude": "-114.60663000",
     "county_id": 1839,
-    "wikiDataId": null
+    "wikiDataId": "Q2140571",
+    "type": "locality",
+    "native": "Willow Valley",
+    "timezone": "America/Phoenix",
+    "population": 1062,
+    "population_year": null
   },
   {
     "id": 129376,
@@ -2481,7 +3511,12 @@
     "latitude": "35.68057000",
     "longitude": "-109.05259000",
     "county_id": 65,
-    "wikiDataId": null
+    "wikiDataId": "Q1012668",
+    "type": "locality",
+    "native": "Window Rock",
+    "timezone": "America/Denver",
+    "population": 2712,
+    "population_year": null
   },
   {
     "id": 129429,
@@ -2493,7 +3528,12 @@
     "latitude": "35.02419000",
     "longitude": "-110.69736000",
     "county_id": 1932,
-    "wikiDataId": null
+    "wikiDataId": "Q79727",
+    "type": "city",
+    "native": "Winslow",
+    "timezone": "America/Phoenix",
+    "population": 9005,
+    "population_year": null
   },
   {
     "id": 129721,
@@ -2505,7 +3545,12 @@
     "latitude": "33.59393000",
     "longitude": "-112.30294000",
     "county_id": 1684,
-    "wikiDataId": null
+    "wikiDataId": "Q985309",
+    "type": "town",
+    "native": "Youngtown",
+    "timezone": "America/Phoenix",
+    "population": 7056,
+    "population_year": null
   },
   {
     "id": 129733,
@@ -2517,6 +3562,11 @@
     "latitude": "32.72532000",
     "longitude": "-114.62440000",
     "county_id": 2965,
-    "wikiDataId": null
+    "wikiDataId": "Q79820",
+    "type": "city",
+    "native": "Yuma",
+    "timezone": "America/Phoenix",
+    "population": 105227,
+    "population_year": 2025
   }
 ]

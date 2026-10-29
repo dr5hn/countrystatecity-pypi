@@ -9,7 +9,12 @@
     "latitude": "11.53485000",
     "longitude": "8.15224000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33432086",
+    "type": "locality",
+    "native": "Dan Gora",
+    "timezone": "Africa/Lagos",
+    "population": 7907,
+    "population_year": null
   },
   {
     "id": 76880,
@@ -21,7 +26,12 @@
     "latitude": "11.86064000",
     "longitude": "9.00270000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q5528692",
+    "type": "municipality",
+    "native": "Gaya",
+    "timezone": "Africa/Lagos",
+    "population": 20959,
+    "population_year": null
   },
   {
     "id": 76977,
@@ -33,6 +43,11 @@
     "latitude": "12.00012000",
     "longitude": "8.51672000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q182984",
+    "type": "city",
+    "native": "Kano",
+    "timezone": "Africa/Lagos",
+    "population": 4348000,
+    "population_year": null
   }
 ]

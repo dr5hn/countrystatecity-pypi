@@ -9,7 +9,12 @@
     "latitude": "-8.80000000",
     "longitude": "126.13333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Lacluta",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106865,
@@ -21,7 +26,12 @@
     "latitude": "-8.73477000",
     "longitude": "126.38324000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Osso",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106875,
@@ -33,7 +43,12 @@
     "latitude": "-8.75658000",
     "longitude": "126.68060000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2472571",
+    "type": "city",
+    "native": "Uatocarabau",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106876,
@@ -45,7 +60,12 @@
     "latitude": "-8.76277000",
     "longitude": "126.57353000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2472571",
+    "type": "city",
+    "native": "Uatos",
+    "timezone": "Asia/Dili",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106879,
@@ -57,6 +77,11 @@
     "latitude": "-8.85908000",
     "longitude": "126.36972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Viqueque",
+    "timezone": "Asia/Dili",
+    "population": 6078,
+    "population_year": null
   }
 ]

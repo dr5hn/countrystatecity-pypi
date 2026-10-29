@@ -9,7 +9,12 @@
     "latitude": "47.19625000",
     "longitude": "8.52954000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Baar",
+    "timezone": "Europe/Zurich",
+    "population": 25519,
+    "population_year": 2025
   },
   {
     "id": 17622,
@@ -21,7 +26,12 @@
     "latitude": "47.18213000",
     "longitude": "8.46358000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q69235",
+    "type": "city",
+    "native": "Cham",
+    "timezone": "Europe/Zurich",
+    "population": 18518,
+    "population_year": 2025
   },
   {
     "id": 17944,
@@ -33,7 +43,12 @@
     "latitude": "47.17536000",
     "longitude": "8.42497000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22652584",
+    "type": "municipality",
+    "native": "Hünenberg",
+    "timezone": "Europe/Zurich",
+    "population": 8985,
+    "population_year": 2025
   },
   {
     "id": 18152,
@@ -45,7 +60,12 @@
     "latitude": "47.17764000",
     "longitude": "8.59215000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22496025",
+    "type": "municipality",
+    "native": "Menzingen",
+    "timezone": "Europe/Zurich",
+    "population": 4824,
+    "population_year": 2025
   },
   {
     "id": 18395,
@@ -57,7 +77,12 @@
     "latitude": "47.14283000",
     "longitude": "8.43140000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22467400",
+    "type": "locality",
+    "native": "Rotkreuz",
+    "timezone": "Europe/Zurich",
+    "population": 10439,
+    "population_year": null
   },
   {
     "id": 18554,
@@ -69,7 +94,12 @@
     "latitude": "47.19510000",
     "longitude": "8.48581000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22390095",
+    "type": "municipality",
+    "native": "Steinhausen",
+    "timezone": "Europe/Zurich",
+    "population": 10449,
+    "population_year": 2025
   },
   {
     "id": 167831,
@@ -81,7 +111,12 @@
     "latitude": "47.13645000",
     "longitude": "8.58530000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q65658",
+    "type": "municipality",
+    "native": "Unterägeri",
+    "timezone": "Europe/Zurich",
+    "population": 9527,
+    "population_year": 2025
   },
   {
     "id": 167838,
@@ -93,7 +128,12 @@
     "latitude": "47.10169000",
     "longitude": "8.51693000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q66298",
+    "type": "municipality",
+    "native": "Walchwil",
+    "timezone": "Europe/Zurich",
+    "population": 4013,
+    "population_year": 2025
   },
   {
     "id": 18801,
@@ -105,6 +145,11 @@
     "latitude": "47.17242000",
     "longitude": "8.51745000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Zug",
+    "timezone": "Europe/Zurich",
+    "population": 32160,
+    "population_year": 2025
   }
 ]

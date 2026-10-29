@@ -9,7 +9,12 @@
     "latitude": "-3.90000000",
     "longitude": "32.93333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Isaka",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 21094,
+    "population_year": null
   },
   {
     "id": 109089,
@@ -21,7 +26,12 @@
     "latitude": "-3.83333000",
     "longitude": "32.60000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6346798",
+    "type": "city",
+    "native": "Kahama",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 453654,
+    "population_year": null
   },
   {
     "id": 109127,
@@ -33,7 +43,12 @@
     "latitude": "-3.61667000",
     "longitude": "33.86667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kishapu",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 16371,
+    "population_year": null
   },
   {
     "id": 109195,
@@ -45,7 +60,12 @@
     "latitude": "-3.28333000",
     "longitude": "32.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mhango",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 21553,
+    "population_year": null
   },
   {
     "id": 109229,
@@ -57,7 +77,12 @@
     "latitude": "-3.55000000",
     "longitude": "33.60000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mwadui",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 23296,
+    "population_year": null
   },
   {
     "id": 109268,
@@ -69,7 +94,12 @@
     "latitude": "-3.55000000",
     "longitude": "33.40000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Old Shinyanga",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 23747,
+    "population_year": null
   },
   {
     "id": 109277,
@@ -81,7 +111,12 @@
     "latitude": "-3.66393000",
     "longitude": "33.42118000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q818765",
+    "type": "adm1",
+    "native": "Shinyanga",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 139727,
+    "population_year": null
   },
   {
     "id": 109284,
@@ -93,7 +128,12 @@
     "latitude": "-3.51667000",
     "longitude": "33.51667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Songwa",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 23618,
+    "population_year": null
   },
   {
     "id": 109290,
@@ -105,6 +145,11 @@
     "latitude": "-3.88333000",
     "longitude": "33.20000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q49369134",
+    "type": "city",
+    "native": "Tinde",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 22082,
+    "population_year": null
   }
 ]

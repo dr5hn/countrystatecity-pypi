@@ -9,7 +9,12 @@
     "latitude": "1.25168250",
     "longitude": "42.57613640",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q997314",
+    "type": "city",
+    "native": "Bu’aale",
+    "timezone": "Africa/Mogadishu",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104794,
@@ -21,7 +26,12 @@
     "latitude": "1.25311000",
     "longitude": "42.57377000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Dujuuma",
+    "timezone": "Africa/Mogadishu",
+    "population": 2432,
+    "population_year": null
   },
   {
     "id": 104804,
@@ -33,7 +43,12 @@
     "latitude": "0.48829000",
     "longitude": "42.78535000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1509787",
+    "type": "city",
+    "native": "Jilib",
+    "timezone": "Africa/Mogadishu",
+    "population": 45000,
+    "population_year": null
   },
   {
     "id": 104814,
@@ -45,6 +60,11 @@
     "latitude": "1.62794000",
     "longitude": "42.44067000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Saacow",
+    "timezone": "Africa/Mogadishu",
+    "population": 7893,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "59.46001000",
     "longitude": "24.87824000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Kose",
+    "timezone": "Europe/Tallinn",
+    "population": 2232,
+    "population_year": null
   },
   {
     "id": 31698,
@@ -21,7 +26,12 @@
     "latitude": "59.53528000",
     "longitude": "24.79972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Rummu",
+    "timezone": "Europe/Tallinn",
+    "population": 3488,
+    "population_year": null
   },
   {
     "id": 31727,
@@ -33,6 +43,11 @@
     "latitude": "59.08306000",
     "longitude": "24.22500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3058505",
+    "type": "city",
+    "native": "Turba",
+    "timezone": "Europe/Tallinn",
+    "population": 997,
+    "population_year": null
   }
 ]

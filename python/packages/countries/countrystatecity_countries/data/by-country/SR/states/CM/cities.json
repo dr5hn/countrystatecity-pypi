@@ -9,7 +9,12 @@
     "latitude": "5.87722000",
     "longitude": "-55.04322000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q908006",
+    "type": "city",
+    "native": "Mariënburg",
+    "timezone": "America/Paramaribo",
+    "population": 4427,
+    "population_year": null
   },
   {
     "id": 104828,
@@ -21,6 +26,11 @@
     "latitude": "5.88573000",
     "longitude": "-55.08871000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Nieuw Amsterdam",
+    "timezone": "America/Paramaribo",
+    "population": 5650,
+    "population_year": null
   }
 ]

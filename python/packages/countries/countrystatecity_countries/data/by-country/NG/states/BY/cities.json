@@ -9,7 +9,12 @@
     "latitude": "4.97032000",
     "longitude": "6.10915000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q11685553",
+    "type": "locality",
+    "native": "Amasoma",
+    "timezone": "Africa/Lagos",
+    "population": 6970,
+    "population_year": null
   },
   {
     "id": 77116,
@@ -21,7 +26,12 @@
     "latitude": "4.31231000",
     "longitude": "6.24091000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7859479",
+    "type": "adm2",
+    "native": "Twon-Brass",
+    "timezone": "Africa/Lagos",
+    "population": 11122,
+    "population_year": null
   },
   {
     "id": 77145,
@@ -33,6 +43,11 @@
     "latitude": "4.92675000",
     "longitude": "6.26764000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q648749",
+    "type": "municipality",
+    "native": "Yagagoa",
+    "timezone": "Africa/Lagos",
+    "population": 365000,
+    "population_year": null
   }
 ]

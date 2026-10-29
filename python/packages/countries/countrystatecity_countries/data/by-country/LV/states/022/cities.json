@@ -9,7 +9,12 @@
     "latitude": "57.31188000",
     "longitude": "25.27456000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q107582",
+    "type": "adm1",
+    "native": "Cēsis",
+    "timezone": "Europe/Riga",
+    "population": 15020,
+    "population_year": null
   },
   {
     "id": 66924,
@@ -21,7 +26,12 @@
     "latitude": "57.23429000",
     "longitude": "25.04059000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Līgatne",
+    "timezone": "Europe/Riga",
+    "population": 1017,
+    "population_year": null
   },
   {
     "id": 66943,
@@ -33,7 +43,12 @@
     "latitude": "57.31500000",
     "longitude": "25.36147000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1240381",
+    "type": "adm2",
+    "native": "Priekuļi",
+    "timezone": "Europe/Riga",
+    "population": 2146,
+    "population_year": null
   },
   {
     "id": 66967,
@@ -45,7 +60,12 @@
     "latitude": "57.37065000",
     "longitude": "25.03106000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7597217",
+    "type": "adm2",
+    "native": "Stalbe",
+    "timezone": "Europe/Riga",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 66981,
@@ -57,6 +77,11 @@
     "latitude": "57.06090000",
     "longitude": "25.81624000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1006029",
+    "type": "adm2",
+    "native": "Vecpiebalga",
+    "timezone": "Europe/Riga",
+    "population": 596,
+    "population_year": null
   }
 ]

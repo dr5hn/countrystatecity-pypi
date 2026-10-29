@@ -9,7 +9,12 @@
     "latitude": "9.32020000",
     "longitude": "16.15520000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Béré",
+    "timezone": "Africa/Ndjamena",
+    "population": 15431,
+    "population_year": null
   },
   {
     "id": 105140,
@@ -21,7 +26,12 @@
     "latitude": "9.30859000",
     "longitude": "15.80658000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1011669",
+    "type": "city",
+    "native": "Kelo",
+    "timezone": "Africa/Ndjamena",
+    "population": 82677,
+    "population_year": null
   },
   {
     "id": 105144,
@@ -33,6 +43,11 @@
     "latitude": "9.39720000",
     "longitude": "16.30066000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1856972",
+    "type": "adm1",
+    "native": "Laï",
+    "timezone": "Africa/Ndjamena",
+    "population": 27071,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "21.38602000",
     "longitude": "103.02301000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q36027",
+    "type": "adm1",
+    "native": "Dien well Phu",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 84672,
+    "population_year": null
   },
   {
     "id": 130365,
@@ -21,7 +26,12 @@
     "latitude": "22.10353000",
     "longitude": "102.58465000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Mường Nhé",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 168127,
@@ -33,7 +43,12 @@
     "latitude": "21.29673000",
     "longitude": "103.22009000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Na Son",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130611,
@@ -45,7 +60,12 @@
     "latitude": "22.03374000",
     "longitude": "103.12331000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Thị Xã Mưòng Lay",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 168101,
@@ -57,7 +77,12 @@
     "latitude": "21.85771000",
     "longitude": "103.34260000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tủa Chùa",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 168090,
@@ -69,6 +94,11 @@
     "latitude": "21.58992000",
     "longitude": "103.42179000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tuần Giáo",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   }
 ]

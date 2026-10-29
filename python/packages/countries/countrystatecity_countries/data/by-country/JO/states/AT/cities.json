@@ -9,7 +9,12 @@
     "latitude": "30.83752000",
     "longitude": "35.60442000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Aţ Ţafīlah",
+    "timezone": "Asia/Amman",
+    "population": 25429,
+    "population_year": null
   },
   {
     "id": 63157,
@@ -21,6 +26,11 @@
     "latitude": "30.73256000",
     "longitude": "35.60943000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3299624",
+    "type": "adm2",
+    "native": "بوصيرة",
+    "timezone": "Asia/Amman",
+    "population": 7154,
+    "population_year": null
   }
 ]

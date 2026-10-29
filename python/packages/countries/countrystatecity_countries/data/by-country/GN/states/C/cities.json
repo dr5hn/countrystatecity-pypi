@@ -9,7 +9,12 @@
     "latitude": "9.53500000",
     "longitude": "-13.68778000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Camayenne",
+    "timezone": "Africa/Conakry",
+    "population": 1871242,
+    "population_year": null
   },
   {
     "id": 52327,
@@ -21,6 +26,11 @@
     "latitude": "9.53795000",
     "longitude": "-13.67729000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3733",
+    "type": "capital",
+    "native": "Conakry",
+    "timezone": "Africa/Conakry",
+    "population": 1667864,
+    "population_year": null
   }
 ]

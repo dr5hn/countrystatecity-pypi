@@ -9,7 +9,12 @@
     "latitude": "-2.80000000",
     "longitude": "33.98333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Bariadi",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 260927,
+    "population_year": null
   },
   {
     "id": 109126,
@@ -21,7 +26,12 @@
     "latitude": "-3.08333000",
     "longitude": "34.15000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kisesa",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 29804,
+    "population_year": null
   },
   {
     "id": 109140,
@@ -33,7 +43,12 @@
     "latitude": "-3.45000000",
     "longitude": "33.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Laga",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 22551,
+    "population_year": null
   },
   {
     "id": 109168,
@@ -45,7 +60,12 @@
     "latitude": "-3.13333000",
     "longitude": "33.53333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Malampaka",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 16916,
+    "population_year": null
   },
   {
     "id": 109179,
@@ -57,7 +77,12 @@
     "latitude": "-2.68333000",
     "longitude": "33.98333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Maswa",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 22025,
+    "population_year": null
   },
   {
     "id": 109183,
@@ -69,7 +94,12 @@
     "latitude": "-2.38333000",
     "longitude": "34.08333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Thatona",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 11828,
+    "population_year": null
   },
   {
     "id": 109262,
@@ -81,7 +111,12 @@
     "latitude": "-2.63333000",
     "longitude": "33.98333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Nyakabindi",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 18428,
+    "population_year": null
   },
   {
     "id": 109264,
@@ -93,7 +128,12 @@
     "latitude": "-3.18333000",
     "longitude": "33.78333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q49358510",
+    "type": "city",
+    "native": "Nyalikungu",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 24648,
+    "population_year": null
   },
   {
     "id": 109282,
@@ -105,6 +145,11 @@
     "latitude": "-3.36667000",
     "longitude": "33.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Somanda",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 33932,
+    "population_year": null
   }
 ]

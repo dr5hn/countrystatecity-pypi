@@ -9,7 +9,12 @@
     "latitude": "0.53750000",
     "longitude": "123.06250000",
     "county_id": 8806,
-    "wikiDataId": null
+    "wikiDataId": "Q14525",
+    "type": "city",
+    "native": "Gorontalo",
+    "timezone": "Asia/Makassar",
+    "population": 198539,
+    "population_year": null
   },
   {
     "id": 56410,
@@ -21,7 +26,12 @@
     "latitude": "0.57280000",
     "longitude": "122.23370000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q14521",
+    "type": "regency",
+    "native": "Kabupaten Gorontalo",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166682,
@@ -33,7 +43,12 @@
     "latitude": "0.83480000",
     "longitude": "122.91500000",
     "county_id": 8805,
-    "wikiDataId": null
+    "wikiDataId": "Q138791078",
+    "type": "town",
+    "native": "Kwandang",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166799,
@@ -45,7 +60,12 @@
     "latitude": "0.46550000",
     "longitude": "121.93860000",
     "county_id": 8804,
-    "wikiDataId": null
+    "wikiDataId": "Q138791053",
+    "type": "town",
+    "native": "Marisa",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166658,
@@ -57,7 +77,12 @@
     "latitude": "0.53250000",
     "longitude": "123.14694000",
     "county_id": 8803,
-    "wikiDataId": null
+    "wikiDataId": "Q138791052",
+    "type": "town",
+    "native": "Suwawa",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166653,
@@ -69,6 +94,11 @@
     "latitude": "0.52730000",
     "longitude": "122.34630000",
     "county_id": 8802,
-    "wikiDataId": null
+    "wikiDataId": "Q138791029",
+    "type": "town",
+    "native": "Tilamuta",
+    "timezone": "Asia/Makassar",
+    "population": null,
+    "population_year": null
   }
 ]

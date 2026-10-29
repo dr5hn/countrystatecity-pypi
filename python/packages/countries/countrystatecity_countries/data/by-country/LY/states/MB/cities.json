@@ -9,7 +9,12 @@
     "latitude": "32.64861000",
     "longitude": "14.26191000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q310381",
+    "type": "adm1",
+    "native": "الخمس",
+    "timezone": "Africa/Tripoli",
+    "population": 201943,
+    "population_year": null
   },
   {
     "id": 67021,
@@ -21,7 +26,12 @@
     "latitude": "32.61667000",
     "longitude": "14.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "مسلاتة",
+    "timezone": "Africa/Tripoli",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 67031,
@@ -33,6 +43,11 @@
     "latitude": "32.43501000",
     "longitude": "13.63320000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1642670",
+    "type": "city",
+    "native": "ترهونة",
+    "timezone": "Africa/Tripoli",
+    "population": 52420,
+    "population_year": null
   }
 ]

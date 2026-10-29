@@ -9,7 +9,12 @@
     "latitude": "51.47573000",
     "longitude": "-0.88591000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3065896",
+    "type": "village",
+    "native": "Charvil",
+    "timezone": "Europe/London",
+    "population": 3157,
+    "population_year": null
   },
   {
     "id": 49554,
@@ -21,7 +26,12 @@
     "latitude": "51.36149000",
     "longitude": "-0.85728000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2895759",
+    "type": "village",
+    "native": "Finchampstead",
+    "timezone": "Europe/London",
+    "population": 1034,
+    "population_year": null
   },
   {
     "id": 50031,
@@ -33,7 +43,12 @@
     "latitude": "51.45791000",
     "longitude": "-0.85196000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3158262",
+    "type": "city",
+    "native": "Hurst",
+    "timezone": "Europe/London",
+    "population": 1351,
+    "population_year": null
   },
   {
     "id": 50426,
@@ -45,7 +60,12 @@
     "latitude": "51.42708000",
     "longitude": "-0.91979000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Lower Earley",
+    "timezone": "Europe/London",
+    "population": 32000,
+    "population_year": null
   },
   {
     "id": 51683,
@@ -57,7 +77,12 @@
     "latitude": "51.47518000",
     "longitude": "-0.86037000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1774391",
+    "type": "village",
+    "native": "Twyford",
+    "timezone": "Europe/London",
+    "population": 6952,
+    "population_year": null
   },
   {
     "id": 51750,
@@ -69,7 +94,12 @@
     "latitude": "51.50068000",
     "longitude": "-0.86577000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q598948",
+    "type": "village",
+    "native": "Wargrave",
+    "timezone": "Europe/London",
+    "population": 3935,
+    "population_year": null
   },
   {
     "id": 166614,
@@ -81,6 +111,11 @@
     "latitude": "51.41000000",
     "longitude": "-0.84000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1000679",
+    "type": "town",
+    "native": "Wokingham",
+    "timezone": "Europe/London",
+    "population": 38286,
+    "population_year": null
   }
 ]

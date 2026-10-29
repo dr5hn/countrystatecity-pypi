@@ -9,7 +9,12 @@
     "latitude": "-3.13349000",
     "longitude": "-79.26893000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2449055",
+    "type": "adm3",
+    "native": "Cantón San Fernando",
+    "timezone": "America/Guayaquil",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 31501,
@@ -21,7 +26,12 @@
     "latitude": "-2.90055000",
     "longitude": "-79.00453000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1014957",
+    "type": "adm1",
+    "native": "Cuenca",
+    "timezone": "America/Guayaquil",
+    "population": 636996,
+    "population_year": null
   },
   {
     "id": 31507,
@@ -33,7 +43,12 @@
     "latitude": "-2.89264000",
     "longitude": "-78.77814000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Gualaceo",
+    "timezone": "America/Guayaquil",
+    "population": 13843,
+    "population_year": null
   },
   {
     "id": 31519,
@@ -45,7 +60,12 @@
     "latitude": "-2.85000000",
     "longitude": "-78.78333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6465577",
+    "type": "city",
+    "native": "La Unión",
+    "timezone": "America/Guayaquil",
+    "population": 1896,
+    "population_year": null
   },
   {
     "id": 31521,
@@ -57,7 +77,12 @@
     "latitude": "-2.86667000",
     "longitude": "-78.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Llacao",
+    "timezone": "America/Guayaquil",
+    "population": 4501,
+    "population_year": null
   },
   {
     "id": 31535,
@@ -69,6 +94,11 @@
     "latitude": "-2.91667000",
     "longitude": "-78.85000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Nulti",
+    "timezone": "America/Guayaquil",
+    "population": 4324,
+    "population_year": null
   }
 ]

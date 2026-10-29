@@ -9,7 +9,12 @@
     "latitude": "13.46889000",
     "longitude": "-87.55111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Agua Fría",
+    "timezone": "America/Tegucigalpa",
+    "population": 3196,
+    "population_year": null
   },
   {
     "id": 53847,
@@ -21,7 +26,12 @@
     "latitude": "13.44815000",
     "longitude": "-87.68643000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Alianza",
+    "timezone": "America/Tegucigalpa",
+    "population": 7491,
+    "population_year": null
   },
   {
     "id": 53849,
@@ -33,7 +43,12 @@
     "latitude": "13.29222000",
     "longitude": "-87.65389000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q605984",
+    "type": "city",
+    "native": "Amapala",
+    "timezone": "America/Tegucigalpa",
+    "population": 2136,
+    "population_year": null
   },
   {
     "id": 53853,
@@ -45,7 +60,12 @@
     "latitude": "13.74222000",
     "longitude": "-87.71028000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2001506",
+    "type": "city",
+    "native": "Aramecina",
+    "timezone": "America/Tegucigalpa",
+    "population": 1071,
+    "population_year": null
   },
   {
     "id": 53887,
@@ -57,7 +77,12 @@
     "latitude": "13.81562000",
     "longitude": "-87.68121000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Caridad",
+    "timezone": "America/Tegucigalpa",
+    "population": 3927,
+    "population_year": null
   },
   {
     "id": 53950,
@@ -69,7 +94,12 @@
     "latitude": "13.46667000",
     "longitude": "-87.66667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "El Cubolero",
+    "timezone": "America/Tegucigalpa",
+    "population": 1286,
+    "population_year": null
   },
   {
     "id": 53997,
@@ -81,7 +111,12 @@
     "latitude": "13.46639000",
     "longitude": "-87.51528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q25276000",
+    "type": "village",
+    "native": "El Tular",
+    "timezone": "America/Tegucigalpa",
+    "population": 1972,
+    "population_year": null
   },
   {
     "id": 54009,
@@ -93,7 +128,12 @@
     "latitude": "13.58333000",
     "longitude": "-87.61667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q606540",
+    "type": "city",
+    "native": "Goascorán",
+    "timezone": "America/Tegucigalpa",
+    "population": 1350,
+    "population_year": null
   },
   {
     "id": 54044,
@@ -105,7 +145,12 @@
     "latitude": "13.53167000",
     "longitude": "-87.43889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q25276984",
+    "type": "city",
+    "native": "Jícaro Galán",
+    "timezone": "America/Tegucigalpa",
+    "population": 1370,
+    "population_year": null
   },
   {
     "id": 54045,
@@ -117,7 +162,12 @@
     "latitude": "13.51222000",
     "longitude": "-87.72444000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "La Alianza",
+    "timezone": "America/Tegucigalpa",
+    "population": 6923,
+    "population_year": null
   },
   {
     "id": 54050,
@@ -129,7 +179,12 @@
     "latitude": "13.45361000",
     "longitude": "-87.41333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "village",
+    "native": "La Criba",
+    "timezone": "America/Tegucigalpa",
+    "population": 1001,
+    "population_year": null
   },
   {
     "id": 54090,
@@ -141,7 +196,12 @@
     "latitude": "13.62083000",
     "longitude": "-87.65250000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2395542",
+    "type": "city",
+    "native": "Langue",
+    "timezone": "America/Tegucigalpa",
+    "population": 3679,
+    "population_year": null
   },
   {
     "id": 54139,
@@ -153,7 +213,12 @@
     "latitude": "13.52209000",
     "longitude": "-87.52477000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q25270927",
+    "type": "municipality",
+    "native": "Nacaoma",
+    "timezone": "America/Tegucigalpa",
+    "population": 57345,
+    "population_year": null
   },
   {
     "id": 54230,
@@ -165,7 +230,12 @@
     "latitude": "13.66139000",
     "longitude": "-87.53278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1019299",
+    "type": "city",
+    "native": "San Francisco de Coray",
+    "timezone": "America/Tegucigalpa",
+    "population": 1330,
+    "population_year": null
   },
   {
     "id": 54263,
@@ -177,6 +247,11 @@
     "latitude": "13.45149000",
     "longitude": "-87.40743000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "San Lorenzo",
+    "timezone": "America/Tegucigalpa",
+    "population": 41297,
+    "population_year": null
   }
 ]

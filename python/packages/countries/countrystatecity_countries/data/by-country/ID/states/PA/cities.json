@@ -9,7 +9,12 @@
     "latitude": "-2.59640000",
     "longitude": "140.63240000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Abepura",
+    "timezone": "Asia/Jayapura",
+    "population": 62248,
+    "population_year": null
   },
   {
     "id": 56220,
@@ -21,7 +26,12 @@
     "latitude": "-1.17670000",
     "longitude": "136.08200000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Biak",
+    "timezone": "Asia/Jayapura",
+    "population": 41731,
+    "population_year": null
   },
   {
     "id": 166845,
@@ -33,7 +43,12 @@
     "latitude": "-2.30750893",
     "longitude": "136.38428706",
     "county_id": 10672,
-    "wikiDataId": null
+    "wikiDataId": "Q26039796",
+    "type": "village",
+    "native": "Botawa",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166748,
@@ -45,7 +60,12 @@
     "latitude": "-2.32611000",
     "longitude": "138.04139000",
     "county_id": 8838,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Burmeso",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56292,
@@ -57,7 +77,12 @@
     "latitude": "-1.14473000",
     "longitude": "136.03134000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Insrom",
+    "timezone": "Asia/Jayapura",
+    "population": 3452,
+    "population_year": null
   },
   {
     "id": 56299,
@@ -69,7 +94,12 @@
     "latitude": "-2.53371000",
     "longitude": "140.71813000",
     "county_id": 8839,
-    "wikiDataId": null
+    "wikiDataId": "Q27860",
+    "type": "city",
+    "native": "Jayapura",
+    "timezone": "Asia/Jayapura",
+    "population": 404004,
+    "population_year": null
   },
   {
     "id": 56428,
@@ -81,7 +111,12 @@
     "latitude": "-3.00000000",
     "longitude": "139.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27477",
+    "type": "regency",
+    "native": "Kabupaten Jayapura",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166808,
@@ -93,7 +128,12 @@
     "latitude": "-1.85302000",
     "longitude": "138.75093000",
     "county_id": 8835,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Sarmi",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166709,
@@ -105,7 +145,12 @@
     "latitude": "-1.88020000",
     "longitude": "136.24260000",
     "county_id": 8833,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Serui",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166826,
@@ -117,7 +162,12 @@
     "latitude": "-0.73069003",
     "longitude": "135.73254799",
     "county_id": 8837,
-    "wikiDataId": null
+    "wikiDataId": "Q19740511",
+    "type": "town",
+    "native": "Sorendiweri",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166701,
@@ -129,6 +179,11 @@
     "latitude": "-3.11667000",
     "longitude": "140.88333000",
     "county_id": 8836,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Waris",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   }
 ]

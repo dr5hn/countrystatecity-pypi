@@ -9,7 +9,12 @@
     "latitude": "48.23330000",
     "longitude": "16.46002000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Donaustadt",
+    "timezone": "Europe/Vienna",
+    "population": 220794,
+    "population_year": null
   },
   {
     "id": 1963,
@@ -21,7 +26,12 @@
     "latitude": "48.16116000",
     "longitude": "16.38233000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Favoriten",
+    "timezone": "Europe/Vienna",
+    "population": 220324,
+    "population_year": null
   },
   {
     "id": 2002,
@@ -33,7 +43,12 @@
     "latitude": "48.25000000",
     "longitude": "16.40000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Floridsdorf",
+    "timezone": "Europe/Vienna",
+    "population": 162779,
+    "population_year": null
   },
   {
     "id": 2272,
@@ -45,7 +60,12 @@
     "latitude": "48.23333000",
     "longitude": "16.26667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q262808",
+    "type": "adm3",
+    "native": "Hernals",
+    "timezone": "Europe/Vienna",
+    "population": 56671,
+    "population_year": null
   },
   {
     "id": 2280,
@@ -57,7 +77,12 @@
     "latitude": "48.18623000",
     "longitude": "16.29650000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Hietzing",
+    "timezone": "Europe/Vienna",
+    "population": 55505,
+    "population_year": null
   },
   {
     "id": 2356,
@@ -69,7 +94,12 @@
     "latitude": "48.20906000",
     "longitude": "16.37135000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Innere Stadt",
+    "timezone": "Europe/Vienna",
+    "population": 16538,
+    "population_year": null
   },
   {
     "id": 2686,
@@ -81,7 +111,12 @@
     "latitude": "48.16667000",
     "longitude": "16.33333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Meidling",
+    "timezone": "Europe/Vienna",
+    "population": 101714,
+    "population_year": null
   },
   {
     "id": 2909,
@@ -93,7 +128,12 @@
     "latitude": "48.21667000",
     "longitude": "16.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Ottakring",
+    "timezone": "Europe/Vienna",
+    "population": 102770,
+    "population_year": null
   },
   {
     "id": 3461,
@@ -105,7 +145,12 @@
     "latitude": "48.18333000",
     "longitude": "16.43333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Simmering",
+    "timezone": "Europe/Vienna",
+    "population": 110559,
+    "population_year": null
   },
   {
     "id": 3681,
@@ -117,6 +162,11 @@
     "latitude": "48.20849000",
     "longitude": "16.37208000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1741",
+    "type": "city",
+    "native": "Wien",
+    "timezone": "Europe/Vienna",
+    "population": 2040914,
+    "population_year": 2026
   }
 ]

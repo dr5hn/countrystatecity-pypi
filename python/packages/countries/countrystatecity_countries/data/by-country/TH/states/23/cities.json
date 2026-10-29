@@ -9,7 +9,12 @@
     "latitude": "12.55816000",
     "longitude": "102.56566000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475281",
+    "type": "district",
+    "native": "อำเภอบ่อไร่",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106453,
@@ -21,7 +26,12 @@
     "latitude": "12.57283000",
     "longitude": "102.53714000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "บ่อไร่",
+    "timezone": "Asia/Bangkok",
+    "population": 13620,
+    "population_year": null
   },
   {
     "id": 167017,
@@ -33,7 +43,12 @@
     "latitude": "12.35410000",
     "longitude": "102.43530000",
     "county_id": 5538,
-    "wikiDataId": null
+    "wikiDataId": "Q110517624",
+    "type": "town",
+    "native": "เขาสมิง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106528,
@@ -45,7 +60,12 @@
     "latitude": "11.77645000",
     "longitude": "102.88567000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6401844",
+    "type": "adm2",
+    "native": "คลองใหญ่",
+    "timezone": "Asia/Bangkok",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 167038,
@@ -57,7 +77,12 @@
     "latitude": "12.10330000",
     "longitude": "102.35220000",
     "county_id": 5542,
-    "wikiDataId": null
+    "wikiDataId": "Q110516979",
+    "type": "town",
+    "native": "เกาะช้าง",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106533,
@@ -69,7 +94,12 @@
     "latitude": "12.00171000",
     "longitude": "102.37267000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15980715",
+    "type": "adm3",
+    "native": "เกาะช้างใต้",
+    "timezone": "Asia/Bangkok",
+    "population": 2346,
+    "population_year": null
   },
   {
     "id": 105441,
@@ -81,7 +111,12 @@
     "latitude": "11.65714000",
     "longitude": "102.56694000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q475787",
+    "type": "district",
+    "native": "อำเภอเกาะกูด",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 167052,
@@ -93,7 +128,12 @@
     "latitude": "12.17430000",
     "longitude": "102.39520000",
     "county_id": 5540,
-    "wikiDataId": null
+    "wikiDataId": "Q110516031",
+    "type": "town",
+    "native": "แหลมงอบ",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106736,
@@ -105,6 +145,11 @@
     "latitude": "12.24364000",
     "longitude": "102.51514000",
     "county_id": 5536,
-    "wikiDataId": null
+    "wikiDataId": "Q1025964",
+    "type": "city",
+    "native": "ตราด",
+    "timezone": "Asia/Bangkok",
+    "population": 21590,
+    "population_year": null
   }
 ]

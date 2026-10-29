@@ -9,7 +9,12 @@
     "latitude": "27.76806000",
     "longitude": "41.06917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Baqaa",
+    "timezone": "Asia/Riyadh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 157038,
@@ -21,7 +26,12 @@
     "latitude": "26.92333000",
     "longitude": "42.02889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "غزالة",
+    "timezone": "Asia/Riyadh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 148564,
@@ -33,7 +43,12 @@
     "latitude": "27.51666667",
     "longitude": "41.68333333",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q675568",
+    "type": "adm1",
+    "native": "حائل",
+    "timezone": "Asia/Riyadh",
+    "population": 310897,
+    "population_year": null
   },
   {
     "id": 157039,
@@ -45,7 +60,12 @@
     "latitude": "27.10194000",
     "longitude": "41.20528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "حاد",
+    "timezone": "Asia/Riyadh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 148582,
@@ -57,7 +77,12 @@
     "latitude": "28.00620000",
     "longitude": "40.94160000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3187889",
+    "type": "town",
+    "native": "جبة",
+    "timezone": "Asia/Riyadh",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 148583,
@@ -69,7 +94,12 @@
     "latitude": "27.38398000",
     "longitude": "41.17635000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6874886",
+    "type": "town",
+    "native": "موقاق",
+    "timezone": "Asia/Riyadh",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 148584,
@@ -81,7 +111,12 @@
     "latitude": "27.41534000",
     "longitude": "41.61903000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q25449809",
+    "type": "city",
+    "native": "قفار",
+    "timezone": "Asia/Riyadh",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 157041,
@@ -93,7 +128,12 @@
     "latitude": "27.33333000",
     "longitude": "41.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "شاملي",
+    "timezone": "Asia/Riyadh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 157037,
@@ -105,7 +145,12 @@
     "latitude": "27.46361000",
     "longitude": "40.64028000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "شنان",
+    "timezone": "Asia/Riyadh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 148585,
@@ -117,7 +162,12 @@
     "latitude": "26.49418000",
     "longitude": "42.12494000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12216905",
+    "type": "town",
+    "native": "سيميرا",
+    "timezone": "Asia/Riyadh",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 157040,
@@ -129,7 +179,12 @@
     "latitude": "27.56667000",
     "longitude": "42.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "سليمان",
+    "timezone": "Asia/Riyadh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 157042,
@@ -141,6 +196,11 @@
     "latitude": "27.15000000",
     "longitude": "41.45000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "سميرة",
+    "timezone": "Asia/Riyadh",
+    "population": null,
+    "population_year": null
   }
 ]

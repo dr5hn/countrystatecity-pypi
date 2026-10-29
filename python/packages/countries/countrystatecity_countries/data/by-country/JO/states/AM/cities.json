@@ -9,7 +9,12 @@
     "latitude": "31.69893000",
     "longitude": "35.95530000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "الجيزة",
+    "timezone": "Asia/Amman",
+    "population": 4397,
+    "population_year": null
   },
   {
     "id": 63132,
@@ -21,7 +26,12 @@
     "latitude": "32.01071000",
     "longitude": "35.89802000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3505791",
+    "type": "adm2",
+    "native": "الجبيهة",
+    "timezone": "Asia/Amman",
+    "population": 46834,
+    "population_year": null
   },
   {
     "id": 165107,
@@ -33,7 +43,12 @@
     "latitude": "31.88715000",
     "longitude": "35.93144000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q759755",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Amman",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 63141,
@@ -45,7 +60,12 @@
     "latitude": "31.95522000",
     "longitude": "35.94503000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3805",
+    "type": "capital",
+    "native": "عمان",
+    "timezone": "Asia/Amman",
+    "population": 1275857,
+    "population_year": null
   },
   {
     "id": 63203,
@@ -57,7 +77,12 @@
     "latitude": "31.89603000",
     "longitude": "35.88465000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "حي البنيات",
+    "timezone": "Asia/Amman",
+    "population": 5579,
+    "population_year": null
   },
   {
     "id": 63204,
@@ -69,7 +94,12 @@
     "latitude": "31.91037000",
     "longitude": "35.94975000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3505801",
+    "type": "section",
+    "native": "حي القويسمة",
+    "timezone": "Asia/Amman",
+    "population": 32396,
+    "population_year": null
   },
   {
     "id": 63162,
@@ -81,7 +111,12 @@
     "latitude": "31.85247000",
     "longitude": "35.93928000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "جاوا",
+    "timezone": "Asia/Amman",
+    "population": 10628,
+    "population_year": null
   },
   {
     "id": 63185,
@@ -93,7 +128,12 @@
     "latitude": "31.87032000",
     "longitude": "36.00479000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "صاحب",
+    "timezone": "Asia/Amman",
+    "population": 40241,
+    "population_year": null
   },
   {
     "id": 63192,
@@ -105,7 +145,12 @@
     "latitude": "31.88542000",
     "longitude": "35.85430000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "أم السماق",
+    "timezone": "Asia/Amman",
+    "population": 18274,
+    "population_year": null
   },
   {
     "id": 63194,
@@ -117,6 +162,11 @@
     "latitude": "31.95450000",
     "longitude": "35.81831000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1020997",
+    "type": "adm2",
+    "native": "وادي السير",
+    "timezone": "Asia/Amman",
+    "population": 181212,
+    "population_year": null
   }
 ]

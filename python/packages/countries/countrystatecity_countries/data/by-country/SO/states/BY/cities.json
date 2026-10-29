@@ -9,7 +9,12 @@
     "latitude": "3.11383000",
     "longitude": "43.64980000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q506578",
+    "type": "adm1",
+    "native": "Baidoa",
+    "timezone": "Africa/Mogadishu",
+    "population": 129839,
+    "population_year": null
   },
   {
     "id": 104786,
@@ -21,7 +26,12 @@
     "latitude": "2.80257000",
     "longitude": "44.07805000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1018270",
+    "type": "adm2",
+    "native": "Buurhakaba",
+    "timezone": "Africa/Mogadishu",
+    "population": 27792,
+    "population_year": null
   },
   {
     "id": 165562,
@@ -33,6 +43,11 @@
     "latitude": "2.40850000",
     "longitude": "42.97710000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q503381",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Mogadishu",
+    "population": 20000,
+    "population_year": null
   }
 ]

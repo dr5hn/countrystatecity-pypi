@@ -90,14 +90,14 @@ def test_get_postcode_by_code_not_found():
 
 def test_get_postcodes_by_code_returns_every_locality():
     """Return all localities when a postcode is not unique."""
-    matches = get_postcodes_by_code("BB", "BB18000")
-    assert {match.localityName for match in matches} == {"Crane", "Six Cross Roads"}
+    matches = get_postcodes_by_code("LK", "11104")
+    assert {match.localityName for match in matches} == {"Watinapaha", "Wattala"}
 
 
 def test_get_postcode_by_code_returns_first_match_for_compatibility():
     """Keep the singular lookup deterministic for existing callers."""
-    first = get_postcode_by_code("BB", "BB18000")
-    matches = get_postcodes_by_code("BB", "BB18000")
+    first = get_postcode_by_code("LK", "11104")
+    matches = get_postcodes_by_code("LK", "11104")
     assert first == matches[0]
 
 

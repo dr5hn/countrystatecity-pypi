@@ -9,7 +9,12 @@
     "latitude": "-15.42393000",
     "longitude": "-74.61361000",
     "county_id": 8209,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Acarí",
+    "timezone": "America/Lima",
+    "population": 4445,
+    "population_year": null
   },
   {
     "id": 80561,
@@ -21,7 +26,12 @@
     "latitude": "-16.39889000",
     "longitude": "-71.53500000",
     "county_id": 8207,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Arequipa",
+    "timezone": "America/Lima",
+    "population": 1008290,
+    "population_year": null
   },
   {
     "id": 166875,
@@ -33,7 +43,12 @@
     "latitude": "-16.39888889",
     "longitude": "-71.53694444",
     "county_id": 8207,
-    "wikiDataId": null
+    "wikiDataId": "Q159273",
+    "type": "city",
+    "native": "Arequipa",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166877,
@@ -45,7 +60,12 @@
     "latitude": "-16.62388889",
     "longitude": "-72.71055556",
     "county_id": 8208,
-    "wikiDataId": null
+    "wikiDataId": "Q1028011",
+    "type": "city",
+    "native": "Camaná",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80588,
@@ -57,7 +77,12 @@
     "latitude": "-16.62375000",
     "longitude": "-72.71055000",
     "county_id": 8208,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Camaná",
+    "timezone": "America/Lima",
+    "population": 16434,
+    "population_year": null
   },
   {
     "id": 80598,
@@ -69,7 +94,12 @@
     "latitude": "-15.50611000",
     "longitude": "-71.49184000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Ccolo",
+    "timezone": "America/Lima",
+    "population": 3857,
+    "population_year": null
   },
   {
     "id": 80619,
@@ -81,7 +111,12 @@
     "latitude": "-15.63833000",
     "longitude": "-71.60111000",
     "county_id": 8211,
-    "wikiDataId": null
+    "wikiDataId": "Q2351933",
+    "type": "municipality",
+    "native": "Chivay",
+    "timezone": "America/Lima",
+    "population": 4543,
+    "population_year": null
   },
   {
     "id": 80627,
@@ -93,7 +128,12 @@
     "latitude": "-17.08833000",
     "longitude": "-71.75750000",
     "county_id": 8213,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Cocaquacra",
+    "timezone": "America/Lima",
+    "population": 8347,
+    "population_year": null
   },
   {
     "id": 80634,
@@ -105,7 +145,12 @@
     "latitude": "-15.21306000",
     "longitude": "-72.88861000",
     "county_id": 8214,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Cotahuasi",
+    "timezone": "America/Lima",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 80655,
@@ -117,7 +162,12 @@
     "latitude": "-15.76803000",
     "longitude": "-71.45952000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q723677",
+    "type": "city",
+    "native": "Kaurancante",
+    "timezone": "America/Lima",
+    "population": 4638,
+    "population_year": null
   },
   {
     "id": 80657,
@@ -129,7 +179,12 @@
     "latitude": "-15.63972000",
     "longitude": "-71.06111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q793809",
+    "type": "city",
+    "native": "Huarichancara",
+    "timezone": "America/Lima",
+    "population": 4445,
+    "population_year": null
   },
   {
     "id": 80673,
@@ -141,7 +196,12 @@
     "latitude": "-15.75003000",
     "longitude": "-71.34641000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1000341",
+    "type": "city",
+    "native": "Jatun Orcochiri",
+    "timezone": "America/Lima",
+    "population": 4358,
+    "population_year": null
   },
   {
     "id": 80677,
@@ -153,7 +213,12 @@
     "latitude": "-15.56277000",
     "longitude": "-71.30312000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Jayune",
+    "timezone": "America/Lima",
+    "population": 4256,
+    "population_year": null
   },
   {
     "id": 80704,
@@ -165,7 +230,12 @@
     "latitude": "-15.63951000",
     "longitude": "-71.29921000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Llongasora",
+    "timezone": "America/Lima",
+    "population": 4753,
+    "population_year": null
   },
   {
     "id": 80705,
@@ -177,7 +247,12 @@
     "latitude": "-16.01472000",
     "longitude": "-72.01417000",
     "county_id": 8211,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Lluta",
+    "timezone": "America/Lima",
+    "population": 5998,
+    "population_year": null
   },
   {
     "id": 80717,
@@ -189,7 +264,12 @@
     "latitude": "-17.02306000",
     "longitude": "-72.01472000",
     "county_id": 8213,
-    "wikiDataId": null
+    "wikiDataId": "Q2351948",
+    "type": "municipality",
+    "native": "Mollendo",
+    "timezone": "America/Lima",
+    "population": 28305,
+    "population_year": null
   },
   {
     "id": 80733,
@@ -201,7 +281,12 @@
     "latitude": "-15.26611000",
     "longitude": "-72.34167000",
     "county_id": 8210,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Orcopampa",
+    "timezone": "America/Lima",
+    "population": 5643,
+    "population_year": null
   },
   {
     "id": 80795,
@@ -213,7 +298,12 @@
     "latitude": "-15.58333000",
     "longitude": "-74.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1779727",
+    "type": "province",
+    "native": "Provincia de Caravelí",
+    "timezone": "America/Lima",
+    "population": 41346,
+    "population_year": null
   },
   {
     "id": 80798,
@@ -225,7 +315,12 @@
     "latitude": "-15.58333000",
     "longitude": "-72.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q614628",
+    "type": "province",
+    "native": "Provincia de Castilla",
+    "timezone": "America/Lima",
+    "population": 33629,
+    "population_year": null
   },
   {
     "id": 80800,
@@ -237,7 +332,12 @@
     "latitude": "-15.66667000",
     "longitude": "-71.58333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1806435",
+    "type": "province",
+    "native": "Provincia de Caylloma",
+    "timezone": "America/Lima",
+    "population": 86771,
+    "population_year": null
   },
   {
     "id": 80812,
@@ -249,7 +349,12 @@
     "latitude": "-15.58333000",
     "longitude": "-72.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1814253",
+    "type": "province",
+    "native": "Provincia de Condesuyos",
+    "timezone": "America/Lima",
+    "population": 16118,
+    "population_year": null
   },
   {
     "id": 80845,
@@ -261,7 +366,12 @@
     "latitude": "-17.00000000",
     "longitude": "-71.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1779688",
+    "type": "province",
+    "native": "Provincia de Islay",
+    "timezone": "America/Lima",
+    "population": 52034,
+    "population_year": null
   },
   {
     "id": 80851,
@@ -273,7 +383,12 @@
     "latitude": "-15.00000000",
     "longitude": "-72.83333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1779698",
+    "type": "province",
+    "native": "Provincia de La Unión",
+    "timezone": "America/Lima",
+    "population": 12827,
+    "population_year": null
   },
   {
     "id": 80914,
@@ -285,7 +400,12 @@
     "latitude": "-15.97993000",
     "longitude": "-71.45988000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Pucara",
+    "timezone": "America/Lima",
+    "population": 4335,
+    "population_year": null
   },
   {
     "id": 80923,
@@ -297,7 +417,12 @@
     "latitude": "-17.17190000",
     "longitude": "-71.79240000",
     "county_id": 8213,
-    "wikiDataId": null
+    "wikiDataId": "Q3824572",
+    "type": "municipality",
+    "native": "Punta de Bombón",
+    "timezone": "America/Lima",
+    "population": 6336,
+    "population_year": null
   },
   {
     "id": 81012,
@@ -309,7 +434,12 @@
     "latitude": "-15.80861000",
     "longitude": "-71.20111000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Vizcachane",
+    "timezone": "America/Lima",
+    "population": 4407,
+    "population_year": null
   },
   {
     "id": 81020,
@@ -321,6 +451,11 @@
     "latitude": "-16.25223000",
     "longitude": "-71.67969000",
     "county_id": 8207,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Yura",
+    "timezone": "America/Lima",
+    "population": 5686,
+    "population_year": null
   }
 ]

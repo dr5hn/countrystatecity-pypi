@@ -9,7 +9,12 @@
     "latitude": "18.24253000",
     "longitude": "104.21281000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "ບ້ານນາຫີນ",
+    "timezone": "Asia/Vientiane",
+    "population": 3466,
+    "population_year": null
   },
   {
     "id": 165161,
@@ -21,7 +26,12 @@
     "latitude": "18.56286000",
     "longitude": "103.72671000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4945129",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Vientiane",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65918,
@@ -33,6 +43,11 @@
     "latitude": "18.39420000",
     "longitude": "103.66110000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1020309",
+    "type": "adm1",
+    "native": "ປາກຊັນ",
+    "timezone": "Asia/Vientiane",
+    "population": 21967,
+    "population_year": null
   }
 ]

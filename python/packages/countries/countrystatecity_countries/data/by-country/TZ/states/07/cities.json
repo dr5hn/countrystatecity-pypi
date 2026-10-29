@@ -9,7 +9,12 @@
     "latitude": "-5.90000000",
     "longitude": "39.30000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Gamba",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 3644,
+    "population_year": null
   },
   {
     "id": 109112,
@@ -21,7 +26,12 @@
     "latitude": "-5.85000000",
     "longitude": "39.31667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kijini",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 3720,
+    "population_year": null
   },
   {
     "id": 109131,
@@ -33,7 +43,12 @@
     "latitude": "-5.98957000",
     "longitude": "39.37680000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Kiwengwa",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 2429,
+    "population_year": null
   },
   {
     "id": 109201,
@@ -45,7 +60,12 @@
     "latitude": "-5.87506000",
     "longitude": "39.25523000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2086390",
+    "type": "adm1",
+    "native": "Mkokotoni",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 2572,
+    "population_year": null
   },
   {
     "id": 109261,
@@ -57,6 +77,11 @@
     "latitude": "-5.72651000",
     "longitude": "39.29870000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Nungwi",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 30762,
+    "population_year": null
   }
 ]

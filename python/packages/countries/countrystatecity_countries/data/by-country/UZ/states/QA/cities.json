@@ -9,7 +9,12 @@
     "latitude": "38.82139000",
     "longitude": "65.65306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Baykor",
+    "timezone": "Asia/Samarkand",
+    "population": 18900,
+    "population_year": null
   },
   {
     "id": 129916,
@@ -21,7 +26,12 @@
     "latitude": "39.03361000",
     "longitude": "66.57222000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31905537",
+    "type": "city",
+    "native": "Chiroqchi",
+    "timezone": "Asia/Samarkand",
+    "population": 19356,
+    "population_year": null
   },
   {
     "id": 129931,
@@ -33,7 +43,12 @@
     "latitude": "38.62083000",
     "longitude": "66.24806000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2631365",
+    "type": "adm2",
+    "native": "G‘uzor",
+    "timezone": "Asia/Samarkand",
+    "population": 26592,
+    "population_year": null
   },
   {
     "id": 129949,
@@ -45,7 +60,12 @@
     "latitude": "39.08425000",
     "longitude": "66.83318000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q722938",
+    "type": "city",
+    "native": "Kitob",
+    "timezone": "Asia/Samarkand",
+    "population": 266400,
+    "population_year": null
   },
   {
     "id": 129951,
@@ -57,7 +77,12 @@
     "latitude": "39.03750000",
     "longitude": "65.58500000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1658752",
+    "type": "city",
+    "native": "Koson",
+    "timezone": "Asia/Samarkand",
+    "population": 68900,
+    "population_year": null
   },
   {
     "id": 129958,
@@ -69,7 +94,12 @@
     "latitude": "39.25528000",
     "longitude": "65.15278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q599533",
+    "type": "city",
+    "native": "Muborak",
+    "timezone": "Asia/Samarkand",
+    "population": 30100,
+    "population_year": null
   },
   {
     "id": 129981,
@@ -81,7 +111,12 @@
     "latitude": "38.86056000",
     "longitude": "65.78905000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q644008",
+    "type": "adm1",
+    "native": "Qarshi",
+    "timezone": "Asia/Samarkand",
+    "population": 274891,
+    "population_year": null
   },
   {
     "id": 165712,
@@ -93,7 +128,12 @@
     "latitude": "38.34185000",
     "longitude": "66.56342000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12108621",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 129997,
@@ -105,7 +145,12 @@
     "latitude": "39.05778000",
     "longitude": "66.83417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q569766",
+    "type": "city",
+    "native": "Shahrisabz",
+    "timezone": "Asia/Samarkand",
+    "population": 142700,
+    "population_year": null
   },
   {
     "id": 165720,
@@ -117,7 +162,12 @@
     "latitude": "38.85143000",
     "longitude": "65.27789000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12173716",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Samarkand",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 129962,
@@ -129,6 +179,11 @@
     "latitude": "38.69395000",
     "longitude": "65.67512000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31970870",
+    "type": "city",
+    "native": "Yangi Nishon",
+    "timezone": "Asia/Samarkand",
+    "population": 10558,
+    "population_year": null
   }
 ]

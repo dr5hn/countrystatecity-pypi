@@ -9,7 +9,12 @@
     "latitude": "51.60952000",
     "longitude": "-2.95378000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1009261",
+    "type": "city",
+    "native": "Caerleon",
+    "timezone": "Europe/London",
+    "population": 7971,
+    "population_year": null
   },
   {
     "id": 50518,
@@ -21,7 +26,12 @@
     "latitude": "51.53389000",
     "longitude": "-3.07306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Marshfield",
+    "timezone": "Europe/London",
+    "population": 3054,
+    "population_year": null
   },
   {
     "id": 50720,
@@ -33,6 +43,11 @@
     "latitude": "51.58774000",
     "longitude": "-2.99835000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q101254",
+    "type": "city",
+    "native": "Newport",
+    "timezone": "Europe/London",
+    "population": 161506,
+    "population_year": null
   }
 ]

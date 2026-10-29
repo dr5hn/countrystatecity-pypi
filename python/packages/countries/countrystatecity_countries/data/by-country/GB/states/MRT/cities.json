@@ -9,7 +9,12 @@
     "latitude": "51.40322000",
     "longitude": "-0.16831000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mitcham",
+    "timezone": "Europe/London",
+    "population": 63393,
+    "population_year": null
   },
   {
     "id": 50626,
@@ -21,6 +26,11 @@
     "latitude": "51.39822000",
     "longitude": "-0.19837000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Morden",
+    "timezone": "Europe/London",
+    "population": 48233,
+    "population_year": null
   }
 ]

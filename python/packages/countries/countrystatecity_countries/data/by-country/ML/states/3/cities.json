@@ -9,7 +9,12 @@
     "latitude": "11.41769000",
     "longitude": "-7.48323000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q848574",
+    "type": "city",
+    "native": "Bougouni",
+    "timezone": "Africa/Bamako",
+    "population": 90234,
+    "population_year": null
   },
   {
     "id": 67614,
@@ -21,7 +26,12 @@
     "latitude": "11.08943000",
     "longitude": "-6.89290000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1040225",
+    "type": "adm2",
+    "native": "Colondiéba",
+    "timezone": "Africa/Bamako",
+    "population": 10041,
+    "population_year": null
   },
   {
     "id": 67616,
@@ -33,7 +43,12 @@
     "latitude": "12.39173000",
     "longitude": "-5.46421000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q281000",
+    "type": "adm2",
+    "native": "Koutiala",
+    "timezone": "Africa/Bamako",
+    "population": 218031,
+    "population_year": null
   },
   {
     "id": 67617,
@@ -45,7 +60,12 @@
     "latitude": "12.35311000",
     "longitude": "-5.58390000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1538131",
+    "type": "area",
+    "native": "Koutiala Cercle",
+    "timezone": "Africa/Bamako",
+    "population": 575253,
+    "population_year": null
   },
   {
     "id": 67622,
@@ -57,7 +77,12 @@
     "latitude": "12.53040000",
     "longitude": "-5.77003000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3334119",
+    "type": "city",
+    "native": "Ntosson",
+    "timezone": "Africa/Bamako",
+    "population": 8700,
+    "population_year": null
   },
   {
     "id": 67625,
@@ -69,7 +94,12 @@
     "latitude": "11.31755000",
     "longitude": "-5.66654000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q722827",
+    "type": "adm1",
+    "native": "Sikasso",
+    "timezone": "Africa/Bamako",
+    "population": 349324,
+    "population_year": null
   },
   {
     "id": 67630,
@@ -81,6 +111,11 @@
     "latitude": "12.35811000",
     "longitude": "-4.77688000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1031835",
+    "type": "adm2",
+    "native": "Yorosso",
+    "timezone": "Africa/Bamako",
+    "population": 17447,
+    "population_year": null
   }
 ]

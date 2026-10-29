@@ -9,7 +9,12 @@
     "latitude": "9.55451000",
     "longitude": "-69.19564000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q338059",
+    "type": "adm2",
+    "native": "Acarigua",
+    "timezone": "America/Caracas",
+    "population": 195637,
+    "population_year": null
   },
   {
     "id": 130043,
@@ -21,7 +26,12 @@
     "latitude": "9.58144000",
     "longitude": "-69.23851000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q626670",
+    "type": "adm2",
+    "native": "Araure",
+    "timezone": "America/Caracas",
+    "population": 188800,
+    "population_year": null
   },
   {
     "id": 165815,
@@ -33,7 +43,12 @@
     "latitude": "9.10049000",
     "longitude": "-69.04564000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3050199",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Caracas",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130082,
@@ -45,7 +60,12 @@
     "latitude": "9.04183000",
     "longitude": "-69.74206000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q733005",
+    "type": "adm1",
+    "native": "Guanare",
+    "timezone": "America/Caracas",
+    "population": 112286,
+    "population_year": null
   },
   {
     "id": 130168,
@@ -57,6 +77,11 @@
     "latitude": "9.33186000",
     "longitude": "-69.11968000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q430981",
+    "type": "adm2",
+    "native": "Villa Bruzual",
+    "timezone": "America/Caracas",
+    "population": 55244,
+    "population_year": null
   }
 ]

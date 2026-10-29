@@ -9,7 +9,12 @@
     "latitude": "18.01754800",
     "longitude": "103.30574900",
     "county_id": 5805,
-    "wikiDataId": null
+    "wikiDataId": "Q97397349",
+    "type": "town",
+    "native": "เฝ้าไร่",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106600,
@@ -21,7 +26,12 @@
     "latitude": "17.87847000",
     "longitude": "102.74200000",
     "county_id": 5799,
-    "wikiDataId": null
+    "wikiDataId": "Q1026138",
+    "type": "city",
+    "native": "หนองคาย",
+    "timezone": "Asia/Bangkok",
+    "population": 63609,
+    "population_year": null
   },
   {
     "id": 105748,
@@ -33,7 +43,12 @@
     "latitude": "17.88819000",
     "longitude": "102.43023000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476414",
+    "type": "district",
+    "native": "อำเภอโพธิ์ตาก",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106640,
@@ -45,7 +60,12 @@
     "latitude": "18.03333000",
     "longitude": "103.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q28729532",
+    "type": "city",
+    "native": "พรเจริญ",
+    "timezone": "Asia/Bangkok",
+    "population": 15208,
+    "population_year": null
   },
   {
     "id": 105757,
@@ -57,7 +77,12 @@
     "latitude": "17.95443000",
     "longitude": "103.12279000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476423",
+    "type": "district",
+    "native": "อำเภอโพนพิสัย",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 105809,
@@ -69,7 +94,12 @@
     "latitude": "18.19255000",
     "longitude": "103.23760000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476561",
+    "type": "district",
+    "native": "อำเภอรัตนวาปี",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 167178,
@@ -81,7 +111,12 @@
     "latitude": "17.67544000",
     "longitude": "102.75069000",
     "county_id": 5804,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "สระใคร",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106686,
@@ -93,7 +128,12 @@
     "latitude": "18.06389000",
     "longitude": "102.27364000",
     "county_id": 5803,
-    "wikiDataId": null
+    "wikiDataId": "Q28729510",
+    "type": "town",
+    "native": "สังคม",
+    "timezone": "Asia/Bangkok",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 106698,
@@ -105,7 +145,12 @@
     "latitude": "17.95639000",
     "longitude": "102.58667000",
     "county_id": 5802,
-    "wikiDataId": null
+    "wikiDataId": "Q16611496",
+    "type": "town",
+    "native": "ศรีเชียงใหม่",
+    "timezone": "Asia/Bangkok",
+    "population": 14068,
+    "population_year": null
   },
   {
     "id": 106718,
@@ -117,6 +162,11 @@
     "latitude": "17.85003000",
     "longitude": "102.58139000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13025359",
+    "type": "adm2",
+    "native": "ท่าบ่อ",
+    "timezone": "Asia/Bangkok",
+    "population": 35292,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "17.80000000",
     "longitude": "-89.10000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Hopelchén",
+    "timezone": "America/Belize",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 16139,
@@ -21,7 +26,12 @@
     "latitude": "18.08124000",
     "longitude": "-88.56328000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q882964",
+    "type": "adm1",
+    "native": "Orange Walk",
+    "timezone": "America/Belize",
+    "population": 14553,
+    "population_year": null
   },
   {
     "id": 16144,
@@ -33,6 +43,11 @@
     "latitude": "17.89382000",
     "longitude": "-88.65452000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q737412",
+    "type": "city",
+    "native": "Shipyard",
+    "timezone": "America/Belize",
+    "population": 4070,
+    "population_year": null
   }
 ]

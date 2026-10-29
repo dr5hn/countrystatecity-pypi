@@ -9,7 +9,12 @@
     "latitude": "-11.02671000",
     "longitude": "-68.76918000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q34995",
+    "type": "adm1",
+    "native": "Cobija",
+    "timezone": "America/La_Paz",
+    "population": 26585,
+    "population_year": null
   },
   {
     "id": 9899,
@@ -21,7 +26,12 @@
     "latitude": "-10.50000000",
     "longitude": "-66.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1471235",
+    "type": "city",
+    "native": "Provincia Abuná",
+    "timezone": "America/La_Paz",
+    "population": 4049,
+    "population_year": null
   },
   {
     "id": 9931,
@@ -33,7 +43,12 @@
     "latitude": "-10.33333000",
     "longitude": "-65.88333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1473313",
+    "type": "city",
+    "native": "Provincia General Federico Román",
+    "timezone": "America/La_Paz",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 9948,
@@ -45,7 +60,12 @@
     "latitude": "-11.58333000",
     "longitude": "-67.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q241217",
+    "type": "province",
+    "native": "Provincia Madre de Dios",
+    "timezone": "America/La_Paz",
+    "population": 16726,
+    "population_year": null
   },
   {
     "id": 9952,
@@ -57,7 +77,12 @@
     "latitude": "-11.33333000",
     "longitude": "-67.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1473356",
+    "type": "province",
+    "native": "Provincia Manuripi",
+    "timezone": "America/La_Paz",
+    "population": 14986,
+    "population_year": null
   },
   {
     "id": 9960,
@@ -69,6 +94,11 @@
     "latitude": "-11.33333000",
     "longitude": "-68.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1473307",
+    "type": "province",
+    "native": "Provincia Nicolás Suárez",
+    "timezone": "America/La_Paz",
+    "population": 60297,
+    "population_year": null
   }
 ]

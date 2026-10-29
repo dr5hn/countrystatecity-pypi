@@ -9,7 +9,12 @@
     "latitude": "0.20694000",
     "longitude": "34.49006000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1017895",
+    "type": "city",
+    "native": "Butere",
+    "timezone": "Africa/Nairobi",
+    "population": 11205,
+    "population_year": null
   },
   {
     "id": 64792,
@@ -21,7 +26,12 @@
     "latitude": "0.28422000",
     "longitude": "34.75229000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q302912",
+    "type": "adm1",
+    "native": "Kakamega",
+    "timezone": "Africa/Nairobi",
+    "population": 1867579,
+    "population_year": null
   },
   {
     "id": 64842,
@@ -33,6 +43,11 @@
     "latitude": "0.33474000",
     "longitude": "34.48796000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1020110",
+    "type": "city",
+    "native": "Mumias",
+    "timezone": "Africa/Nairobi",
+    "population": 45485,
+    "population_year": null
   }
 ]

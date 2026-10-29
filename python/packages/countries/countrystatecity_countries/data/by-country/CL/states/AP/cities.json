@@ -9,7 +9,12 @@
     "latitude": "-18.47460000",
     "longitude": "-70.29792000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2203",
+    "type": "adm1",
+    "native": "Arica",
+    "timezone": "America/Santiago",
+    "population": 202131,
+    "population_year": null
   },
   {
     "id": 19035,
@@ -21,7 +26,12 @@
     "latitude": "-19.01666667",
     "longitude": "-69.86666667",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3729",
+    "type": "city",
+    "native": "Camarones",
+    "timezone": "America/Santiago",
+    "population": 606,
+    "population_year": null
   },
   {
     "id": 148327,
@@ -33,7 +43,12 @@
     "latitude": "-17.56666667",
     "longitude": "-69.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q13065",
+    "type": "city",
+    "native": "General Lagos",
+    "timezone": "America/Santiago",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 19067,
@@ -45,6 +60,11 @@
     "latitude": "-18.19640000",
     "longitude": "-69.55920000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q51605",
+    "type": "adm2",
+    "native": "Putre",
+    "timezone": "America/Santiago",
+    "population": 2765,
+    "population_year": null
   }
 ]

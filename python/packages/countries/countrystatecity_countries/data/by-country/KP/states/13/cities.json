@@ -9,7 +9,12 @@
     "latitude": "42.35118000",
     "longitude": "130.38307000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "선봉",
+    "timezone": "Asia/Pyongyang",
+    "population": 27331,
+    "population_year": null
   },
   {
     "id": 65251,
@@ -21,6 +26,11 @@
     "latitude": "42.35778000",
     "longitude": "130.46222000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "웅상노동자구",
+    "timezone": "Asia/Pyongyang",
+    "population": 8410,
+    "population_year": null
   }
 ]

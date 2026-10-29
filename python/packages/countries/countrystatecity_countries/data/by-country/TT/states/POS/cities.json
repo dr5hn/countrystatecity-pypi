@@ -9,7 +9,12 @@
     "latitude": "10.66253000",
     "longitude": "-61.53697000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Mucurapo",
+    "timezone": "America/Port_of_Spain",
+    "population": 4342,
+    "population_year": null
   },
   {
     "id": 108981,
@@ -21,6 +26,11 @@
     "latitude": "10.66668000",
     "longitude": "-61.51889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q39178",
+    "type": "capital",
+    "native": "Port of Spain",
+    "timezone": "America/Port_of_Spain",
+    "population": 49031,
+    "population_year": null
   }
 ]

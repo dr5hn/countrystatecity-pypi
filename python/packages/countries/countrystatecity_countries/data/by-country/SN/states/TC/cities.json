@@ -9,7 +9,12 @@
     "latitude": "13.98333000",
     "longitude": "-14.56667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3199296",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Dakar",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104762,
@@ -21,7 +26,12 @@
     "latitude": "13.77073000",
     "longitude": "-13.66734000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q977305",
+    "type": "adm1",
+    "native": "Tambacounda",
+    "timezone": "Africa/Dakar",
+    "population": 149071,
+    "population_year": null
   },
   {
     "id": 104763,
@@ -33,6 +43,11 @@
     "latitude": "13.60500000",
     "longitude": "-13.64700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2086236",
+    "type": "adm1",
+    "native": "Tambacounda Department",
+    "timezone": "Africa/Dakar",
+    "population": null,
+    "population_year": null
   }
 ]

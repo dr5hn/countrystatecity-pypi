@@ -9,7 +9,12 @@
     "latitude": "-17.88758000",
     "longitude": "15.06677000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2017063",
+    "type": "adm2",
+    "native": "OK Olah",
+    "timezone": "Africa/Windhoek",
+    "population": 7486,
+    "population_year": null
   },
   {
     "id": 76651,
@@ -21,7 +26,12 @@
     "latitude": "-17.88333000",
     "longitude": "15.06667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3352721",
+    "type": "adm2",
+    "native": "Onantjera",
+    "timezone": "Africa/Windhoek",
+    "population": 7000,
+    "population_year": null
   },
   {
     "id": 76661,
@@ -33,6 +43,11 @@
     "latitude": "-17.50000000",
     "longitude": "14.98333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1758215",
+    "type": "adm1",
+    "native": "Outapi",
+    "timezone": "Africa/Windhoek",
+    "population": 7629,
+    "population_year": null
   }
 ]

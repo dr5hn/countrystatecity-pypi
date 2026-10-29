@@ -9,7 +9,12 @@
     "latitude": "-20.48664400",
     "longitude": "57.37881500",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Baie Du Cap",
+    "timezone": "Indian/Mauritius",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153406,
@@ -21,7 +26,12 @@
     "latitude": "-20.50191900",
     "longitude": "57.42550700",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2894139",
+    "type": "city",
+    "native": "Bel Ombre",
+    "timezone": "Indian/Mauritius",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153407,
@@ -33,7 +43,12 @@
     "latitude": "-20.48440700",
     "longitude": "57.58871700",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q79980",
+    "type": "city",
+    "native": "Benares",
+    "timezone": "Indian/Mauritius",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153403,
@@ -45,7 +60,12 @@
     "latitude": "-20.42667100",
     "longitude": "57.53425200",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Bois Cheri",
+    "timezone": "Indian/Mauritius",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153408,
@@ -57,7 +77,12 @@
     "latitude": "-20.44865500",
     "longitude": "57.56340700",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q138396",
+    "type": "city",
+    "native": "Britannia",
+    "timezone": "Indian/Mauritius",
+    "population": 7238,
+    "population_year": null
   },
   {
     "id": 67839,
@@ -69,7 +94,12 @@
     "latitude": "-20.46278000",
     "longitude": "57.57889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27763595",
+    "type": "city",
+    "native": "Camp Diable",
+    "timezone": "Indian/Mauritius",
+    "population": 5082,
+    "population_year": null
   },
   {
     "id": 67847,
@@ -81,7 +111,12 @@
     "latitude": "-20.48222000",
     "longitude": "57.46611000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27763611",
+    "type": "city",
+    "native": "Chamouny",
+    "timezone": "Indian/Mauritius",
+    "population": 4913,
+    "population_year": null
   },
   {
     "id": 67848,
@@ -93,7 +128,12 @@
     "latitude": "-20.48722000",
     "longitude": "57.46556000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2962294",
+    "type": "city",
+    "native": "Chemin Grenier",
+    "timezone": "Indian/Mauritius",
+    "population": 12457,
+    "population_year": null
   },
   {
     "id": 67864,
@@ -105,7 +145,12 @@
     "latitude": "-20.41889000",
     "longitude": "57.54417000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27763677",
+    "type": "city",
+    "native": "Grand Bois",
+    "timezone": "Indian/Mauritius",
+    "population": 7804,
+    "population_year": null
   },
   {
     "id": 153409,
@@ -117,7 +162,12 @@
     "latitude": "-20.47333500",
     "longitude": "57.61867600",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "L'Escalier",
+    "timezone": "Indian/Mauritius",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 153411,
@@ -129,7 +179,12 @@
     "latitude": "-20.41000500",
     "longitude": "57.56048700",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6462547",
+    "type": "city",
+    "native": "La Flora",
+    "timezone": "Indian/Mauritius",
+    "population": 7238,
+    "population_year": null
   },
   {
     "id": 67904,
@@ -141,7 +196,12 @@
     "latitude": "-20.48528000",
     "longitude": "57.55083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Rivière des Anguilles",
+    "timezone": "Indian/Mauritius",
+    "population": 9927,
+    "population_year": null
   },
   {
     "id": 153405,
@@ -153,7 +213,12 @@
     "latitude": "-20.42866200",
     "longitude": "57.57368100",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18390584",
+    "type": "city",
+    "native": "Rivière Du Poste",
+    "timezone": "Indian/Mauritius",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 67909,
@@ -165,7 +230,12 @@
     "latitude": "-20.49600000",
     "longitude": "57.55000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Saint Aubin",
+    "timezone": "Indian/Mauritius",
+    "population": 1659,
+    "population_year": null
   },
   {
     "id": 67914,
@@ -177,7 +247,12 @@
     "latitude": "-20.51667000",
     "longitude": "57.51667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2215428",
+    "type": "adm1",
+    "native": "Souillac",
+    "timezone": "Indian/Mauritius",
+    "population": 4154,
+    "population_year": null
   },
   {
     "id": 153410,
@@ -189,7 +264,12 @@
     "latitude": "-20.49444600",
     "longitude": "57.55033500",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q226647",
+    "type": "city",
+    "native": "St Aubin",
+    "timezone": "Indian/Mauritius",
+    "population": 1659,
+    "population_year": null
   },
   {
     "id": 67915,
@@ -201,6 +281,11 @@
     "latitude": "-20.50972000",
     "longitude": "57.50528000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q9348370",
+    "type": "city",
+    "native": "Surinam",
+    "timezone": "Indian/Mauritius",
+    "population": 10621,
+    "population_year": null
   }
 ]

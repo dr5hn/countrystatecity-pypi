@@ -9,7 +9,12 @@
     "latitude": "51.40878000",
     "longitude": "-0.02526000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Beckenham",
+    "timezone": "Europe/London",
+    "population": 82000,
+    "population_year": null
   },
   {
     "id": 48545,
@@ -21,6 +26,11 @@
     "latitude": "51.46470000",
     "longitude": "0.00790000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Blackheath",
+    "timezone": "Europe/London",
+    "population": 25116,
+    "population_year": null
   }
 ]

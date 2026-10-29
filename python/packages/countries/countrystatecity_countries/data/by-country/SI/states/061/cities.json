@@ -9,7 +9,12 @@
     "latitude": "46.11506000",
     "longitude": "14.55371000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q9009660",
+    "type": "district",
+    "native": "Črnuče",
+    "timezone": "Europe/Ljubljana",
+    "population": 11495,
+    "population_year": null
   },
   {
     "id": 104101,
@@ -21,7 +26,12 @@
     "latitude": "46.07290000",
     "longitude": "14.44741000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "section",
+    "native": "Dravlje District",
+    "timezone": "Europe/Ljubljana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104129,
@@ -33,7 +43,12 @@
     "latitude": "46.07345000",
     "longitude": "14.55431000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6961712",
+    "type": "district",
+    "native": "Jarše District",
+    "timezone": "Europe/Ljubljana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104169,
@@ -45,7 +60,12 @@
     "latitude": "46.05108000",
     "longitude": "14.50513000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q437",
+    "type": "city",
+    "native": "LJUBLANA",
+    "timezone": "Europe/Ljubljana",
+    "population": 284293,
+    "population_year": null
   },
   {
     "id": 104211,
@@ -57,7 +77,12 @@
     "latitude": "46.08333000",
     "longitude": "14.53333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2469185",
+    "type": "adm1",
+    "native": "Opčina Ljubljana-Bežigrad",
+    "timezone": "Europe/Ljubljana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104212,
@@ -69,7 +94,12 @@
     "latitude": "46.05000000",
     "longitude": "14.53333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2000244",
+    "type": "area",
+    "native": "Občina centra LJUBLANA",
+    "timezone": "Europe/Ljubljana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104213,
@@ -81,7 +111,12 @@
     "latitude": "46.06667000",
     "longitude": "14.61667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2000244",
+    "type": "city",
+    "native": "Občina LJUBLANA-MOSTA-POLJE",
+    "timezone": "Europe/Ljubljana",
+    "population": 19433,
+    "population_year": null
   },
   {
     "id": 104262,
@@ -93,7 +128,12 @@
     "latitude": "46.05999000",
     "longitude": "14.46779000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6961265",
+    "type": "district",
+    "native": "Rožnik District",
+    "timezone": "Europe/Ljubljana",
+    "population": 16318,
+    "population_year": null
   },
   {
     "id": 104349,
@@ -105,7 +145,12 @@
     "latitude": "46.10559000",
     "longitude": "14.43329000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12068719",
+    "type": "district",
+    "native": "Šentvid",
+    "timezone": "Europe/Ljubljana",
+    "population": 716,
+    "population_year": null
   },
   {
     "id": 104278,
@@ -117,7 +162,12 @@
     "latitude": "46.04341000",
     "longitude": "14.67293000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q12806958",
+    "type": "district",
+    "native": "Sostro",
+    "timezone": "Europe/Ljubljana",
+    "population": 6719,
+    "population_year": null
   },
   {
     "id": 104300,
@@ -129,7 +179,12 @@
     "latitude": "46.02412000",
     "longitude": "14.48891000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4863552",
+    "type": "district",
+    "native": "Trnovo District",
+    "timezone": "Europe/Ljubljana",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 104315,
@@ -141,6 +196,11 @@
     "latitude": "46.00779000",
     "longitude": "14.46968000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7938065",
+    "type": "district",
+    "native": "Vič",
+    "timezone": "Europe/Ljubljana",
+    "population": 13906,
+    "population_year": null
   }
 ]

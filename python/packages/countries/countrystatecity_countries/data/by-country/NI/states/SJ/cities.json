@@ -9,7 +9,12 @@
     "latitude": "11.05000000",
     "longitude": "-84.46667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q18358913",
+    "type": "adm2",
+    "native": null,
+    "timezone": "America/Managua",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 77180,
@@ -21,7 +26,12 @@
     "latitude": "11.67859000",
     "longitude": "-84.70269000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2621532",
+    "type": "adm2",
+    "native": "El Almendro",
+    "timezone": "America/Managua",
+    "population": 2681,
+    "population_year": null
   },
   {
     "id": 77193,
@@ -33,7 +43,12 @@
     "latitude": "10.94684000",
     "longitude": "-83.73467000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2063725",
+    "type": "city",
+    "native": "Greytown",
+    "timezone": "America/Managua",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 77219,
@@ -45,7 +60,12 @@
     "latitude": "11.62118000",
     "longitude": "-85.08052000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2621523",
+    "type": "adm2",
+    "native": "Morrito",
+    "timezone": "America/Managua",
+    "population": 1360,
+    "population_year": null
   },
   {
     "id": 77255,
@@ -57,7 +77,12 @@
     "latitude": "11.12360000",
     "longitude": "-84.77795000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1020320",
+    "type": "adm1",
+    "native": "San Carlos",
+    "timezone": "America/Managua",
+    "population": 13451,
+    "population_year": null
   },
   {
     "id": 77268,
@@ -69,6 +94,11 @@
     "latitude": "11.40255000",
     "longitude": "-84.89991000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1015364",
+    "type": "adm2",
+    "native": "San Miguelito",
+    "timezone": "America/Managua",
+    "population": 4181,
+    "population_year": null
   }
 ]

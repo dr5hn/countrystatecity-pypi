@@ -9,7 +9,12 @@
     "latitude": "37.49720000",
     "longitude": "126.71107000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50391",
+    "type": "municipality",
+    "native": "부평구",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65400,
@@ -21,7 +26,12 @@
     "latitude": "37.45646000",
     "longitude": "126.70515000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "인천",
+    "timezone": "Asia/Seoul",
+    "population": 2993492,
+    "population_year": null
   },
   {
     "id": 65438,
@@ -33,7 +43,12 @@
     "latitude": "37.46362000",
     "longitude": "126.65000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50365",
+    "type": "municipality",
+    "native": "미추홀",
+    "timezone": "Asia/Seoul",
+    "population": 410913,
+    "population_year": null
   },
   {
     "id": 65560,
@@ -45,6 +60,11 @@
     "latitude": "37.41911000",
     "longitude": "126.66489000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50421",
+    "type": "city",
+    "native": "연수구",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   }
 ]

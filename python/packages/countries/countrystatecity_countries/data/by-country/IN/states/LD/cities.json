@@ -9,7 +9,12 @@
     "latitude": "10.56688000",
     "longitude": "72.64203000",
     "county_id": 11874,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "कवरत्ती",
+    "timezone": "Asia/Kolkata",
+    "population": 11210,
+    "population_year": null
   },
   {
     "id": 132750,
@@ -21,6 +26,11 @@
     "latitude": "11.27333000",
     "longitude": "74.04582000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10784153",
+    "type": "city",
+    "native": "लक्षद्वीप",
+    "timezone": "Asia/Kolkata",
+    "population": 64473,
+    "population_year": null
   }
 ]

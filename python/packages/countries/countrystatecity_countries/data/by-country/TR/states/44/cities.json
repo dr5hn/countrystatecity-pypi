@@ -9,7 +9,12 @@
     "latitude": "38.33899000",
     "longitude": "37.97021000",
     "county_id": 6847,
-    "wikiDataId": null
+    "wikiDataId": "Q424674",
+    "type": "municipality",
+    "native": "Akçadağ",
+    "timezone": "Europe/Istanbul",
+    "population": 31479,
+    "population_year": 2025
   },
   {
     "id": 107175,
@@ -21,7 +26,12 @@
     "latitude": "39.04117000",
     "longitude": "38.49516000",
     "county_id": 6874,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Arapgir",
+    "timezone": "Europe/Istanbul",
+    "population": 9917,
+    "population_year": 2025
   },
   {
     "id": 107183,
@@ -33,7 +43,12 @@
     "latitude": "38.78172000",
     "longitude": "38.26349000",
     "county_id": 6879,
-    "wikiDataId": null
+    "wikiDataId": "Q652393",
+    "type": "municipality",
+    "native": "Arguvan",
+    "timezone": "Europe/Istanbul",
+    "population": 3282,
+    "population_year": null
   },
   {
     "id": 107292,
@@ -45,7 +60,12 @@
     "latitude": "38.43932000",
     "longitude": "38.45764000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q810916",
+    "type": "city",
+    "native": "Battalgazi",
+    "timezone": "Europe/Istanbul",
+    "population": 274563,
+    "population_year": 2025
   },
   {
     "id": 107447,
@@ -57,7 +77,12 @@
     "latitude": "38.54583000",
     "longitude": "37.50583000",
     "county_id": 6993,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Darende",
+    "timezone": "Europe/Istanbul",
+    "population": 24806,
+    "population_year": 2025
   },
   {
     "id": 107525,
@@ -69,7 +94,12 @@
     "latitude": "38.08574000",
     "longitude": "37.87116000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1004642",
+    "type": "adm2",
+    "native": "Doğanşehir",
+    "timezone": "Europe/Istanbul",
+    "population": 14794,
+    "population_year": null
   },
   {
     "id": 107520,
@@ -81,7 +111,12 @@
     "latitude": "38.30746000",
     "longitude": "39.03431000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1027183",
+    "type": "adm2",
+    "native": "Doğanyol",
+    "timezone": "Europe/Istanbul",
+    "population": 6332,
+    "population_year": null
   },
   {
     "id": 107819,
@@ -93,7 +128,12 @@
     "latitude": "38.81622000",
     "longitude": "37.92882000",
     "county_id": 7111,
-    "wikiDataId": null
+    "wikiDataId": "Q2453246",
+    "type": "municipality",
+    "native": "Hekimhan",
+    "timezone": "Europe/Istanbul",
+    "population": 17116,
+    "population_year": 2025
   },
   {
     "id": 107870,
@@ -105,7 +145,12 @@
     "latitude": "38.41538000",
     "longitude": "38.77092000",
     "county_id": 7656,
-    "wikiDataId": null
+    "wikiDataId": "Q1027176",
+    "type": "municipality",
+    "native": "Kale",
+    "timezone": "Europe/Istanbul",
+    "population": 5167,
+    "population_year": null
   },
   {
     "id": 108044,
@@ -117,7 +162,12 @@
     "latitude": "38.87656000",
     "longitude": "37.66279000",
     "county_id": 7672,
-    "wikiDataId": null
+    "wikiDataId": "Q1027193",
+    "type": "municipality",
+    "native": "Kuluncak",
+    "timezone": "Europe/Istanbul",
+    "population": 8384,
+    "population_year": null
   },
   {
     "id": 108354,
@@ -129,7 +179,12 @@
     "latitude": "38.19630000",
     "longitude": "38.87418000",
     "county_id": 7291,
-    "wikiDataId": null
+    "wikiDataId": "Q1019922",
+    "type": "municipality",
+    "native": "Pütürge",
+    "timezone": "Europe/Istanbul",
+    "population": 12372,
+    "population_year": 2025
   },
   {
     "id": 108684,
@@ -141,7 +196,12 @@
     "latitude": "38.59292000",
     "longitude": "38.17327000",
     "county_id": 7698,
-    "wikiDataId": null
+    "wikiDataId": "Q1027147",
+    "type": "municipality",
+    "native": "Yazıhan",
+    "timezone": "Europe/Istanbul",
+    "population": 13937,
+    "population_year": 2025
   },
   {
     "id": 108728,
@@ -153,6 +213,11 @@
     "latitude": "38.29602000",
     "longitude": "38.24526000",
     "county_id": 7432,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Yeşilyurt",
+    "timezone": "Europe/Istanbul",
+    "population": 309890,
+    "population_year": 2025
   }
 ]

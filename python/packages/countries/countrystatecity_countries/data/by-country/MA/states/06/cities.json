@@ -9,7 +9,12 @@
     "latitude": "33.26582000",
     "longitude": "-7.58142000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2191860",
+    "type": "province",
+    "native": "إقليم برشيد",
+    "timezone": "Africa/Casablanca",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 67110,
@@ -21,7 +26,12 @@
     "latitude": "33.25682000",
     "longitude": "-8.50882000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q219583",
+    "type": "city",
+    "native": "الجديد",
+    "timezone": "Africa/Casablanca",
+    "population": 212863,
+    "population_year": null
   },
   {
     "id": 67113,
@@ -33,7 +43,12 @@
     "latitude": "32.90000000",
     "longitude": "-8.50000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q599606",
+    "type": "city",
+    "native": "الجديدة",
+    "timezone": "Africa/Casablanca",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 67162,
@@ -45,7 +60,12 @@
     "latitude": "33.52012000",
     "longitude": "-7.50350000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1957680",
+    "type": "city",
+    "native": "ميديونا",
+    "timezone": "Africa/Casablanca",
+    "population": 345787,
+    "population_year": null
   },
   {
     "id": 67170,
@@ -57,7 +77,12 @@
     "latitude": "33.68607000",
     "longitude": "-7.38298000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q647417",
+    "type": "adm3",
+    "native": "المحمدية",
+    "timezone": "Africa/Casablanca",
+    "population": 227799,
+    "population_year": null
   },
   {
     "id": 67174,
@@ -69,7 +94,12 @@
     "latitude": "33.45839000",
     "longitude": "-7.64726000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q516261",
+    "type": "city",
+    "native": "النواصر",
+    "timezone": "Africa/Casablanca",
+    "population": 672324,
+    "population_year": null
   },
   {
     "id": 67204,
@@ -81,7 +111,12 @@
     "latitude": "33.08333000",
     "longitude": "-7.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1523840",
+    "type": "province",
+    "native": "ولاية سطات",
+    "timezone": "Africa/Casablanca",
+    "population": 652292,
+    "population_year": null
   },
   {
     "id": 67206,
@@ -93,7 +128,12 @@
     "latitude": "32.64896000",
     "longitude": "-8.42686000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "سيدي بنور",
+    "timezone": "Africa/Casablanca",
+    "population": 56201,
+    "population_year": null
   },
   {
     "id": 67265,
@@ -105,6 +145,11 @@
     "latitude": "33.37981000",
     "longitude": "-7.61932000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1876685",
+    "type": "city",
+    "native": "زاوية النواصر",
+    "timezone": "Africa/Casablanca",
+    "population": 25991,
+    "population_year": null
   }
 ]

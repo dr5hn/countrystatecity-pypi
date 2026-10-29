@@ -9,7 +9,12 @@
     "latitude": "38.15754000",
     "longitude": "41.77330000",
     "county_id": 6908,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Baykan",
+    "timezone": "Europe/Istanbul",
+    "population": 5178,
+    "population_year": 2025
   },
   {
     "id": 107598,
@@ -21,7 +26,12 @@
     "latitude": "37.74183000",
     "longitude": "42.17422000",
     "county_id": 7042,
-    "wikiDataId": null
+    "wikiDataId": "Q132385",
+    "type": "municipality",
+    "native": "Eruh",
+    "timezone": "Europe/Istanbul",
+    "population": 7868,
+    "population_year": null
   },
   {
     "id": 108055,
@@ -33,7 +43,12 @@
     "latitude": "37.92533000",
     "longitude": "41.68493000",
     "county_id": 7210,
-    "wikiDataId": null
+    "wikiDataId": "Q1792040",
+    "type": "municipality",
+    "native": "Kurtalan",
+    "timezone": "Europe/Istanbul",
+    "population": 32114,
+    "population_year": null
   },
   {
     "id": 108457,
@@ -45,7 +60,12 @@
     "latitude": "37.92930000",
     "longitude": "41.94134000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q185084",
+    "type": "adm3",
+    "native": "Merkez",
+    "timezone": "Europe/Istanbul",
+    "population": 166935,
+    "population_year": 2025
   },
   {
     "id": 108339,
@@ -57,7 +77,12 @@
     "latitude": "37.93573000",
     "longitude": "42.54927000",
     "county_id": 7284,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Pervari",
+    "timezone": "Europe/Istanbul",
+    "population": 5974,
+    "population_year": null
   },
   {
     "id": 108961,
@@ -69,7 +94,12 @@
     "latitude": "38.06251000",
     "longitude": "42.02517000",
     "county_id": 7369,
-    "wikiDataId": null
+    "wikiDataId": "Q172902",
+    "type": "municipality",
+    "native": "Şirvan",
+    "timezone": "Europe/Istanbul",
+    "population": 5510,
+    "population_year": null
   },
   {
     "id": 108576,
@@ -81,6 +111,11 @@
     "latitude": "37.94911000",
     "longitude": "42.01210000",
     "county_id": 7581,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Tillo",
+    "timezone": "Europe/Istanbul",
+    "population": 3052,
+    "population_year": null
   }
 ]

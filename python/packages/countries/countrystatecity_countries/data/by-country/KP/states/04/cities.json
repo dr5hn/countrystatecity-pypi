@@ -9,7 +9,12 @@
     "latitude": "41.06333000",
     "longitude": "126.72556000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q707395",
+    "type": "city",
+    "native": "장강군",
+    "timezone": "Asia/Pyongyang",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65188,
@@ -21,7 +26,12 @@
     "latitude": "41.46083000",
     "longitude": "126.64139000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "차성",
+    "timezone": "Asia/Pyongyang",
+    "population": 12736,
+    "population_year": null
   },
   {
     "id": 65208,
@@ -33,7 +43,12 @@
     "latitude": "40.96946000",
     "longitude": "126.58523000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q489825",
+    "type": "adm1",
+    "native": "강계",
+    "timezone": "Asia/Pyongyang",
+    "population": 251971,
+    "population_year": null
   },
   {
     "id": 65221,
@@ -45,6 +60,11 @@
     "latitude": "41.15472000",
     "longitude": "126.28944000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q698064",
+    "type": "city",
+    "native": "만포",
+    "timezone": "Asia/Pyongyang",
+    "population": 116760,
+    "population_year": null
   }
 ]

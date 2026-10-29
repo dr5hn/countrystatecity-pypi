@@ -9,7 +9,12 @@
     "latitude": "-1.24908000",
     "longitude": "-78.61675000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q210161",
+    "type": "adm1",
+    "native": "Ambato",
+    "timezone": "America/Guayaquil",
+    "population": 387309,
+    "population_year": null
   },
   {
     "id": 31489,
@@ -21,7 +26,12 @@
     "latitude": "-1.39699000",
     "longitude": "-78.42289000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q23885609",
+    "type": "city",
+    "native": "Baños",
+    "timezone": "America/Guayaquil",
+    "population": 9501,
+    "population_year": null
   },
   {
     "id": 31545,
@@ -33,7 +43,12 @@
     "latitude": "-1.32990000",
     "longitude": "-78.54341000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3773723",
+    "type": "adm2",
+    "native": "Pelileo",
+    "timezone": "America/Guayaquil",
+    "population": 16572,
+    "population_year": null
   },
   {
     "id": 31558,
@@ -45,6 +60,11 @@
     "latitude": "-1.17414000",
     "longitude": "-78.54676000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q8215260",
+    "type": "city",
+    "native": "Pilaro",
+    "timezone": "America/Guayaquil",
+    "population": 7462,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "33.93949000",
     "longitude": "68.92201000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4858275",
+    "type": "city",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56,
@@ -21,7 +26,12 @@
     "latitude": "33.96744000",
     "longitude": "68.94920000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q807234",
+    "type": "adm2",
+    "native": "برکي بارک",
+    "timezone": "Asia/Kabul",
+    "population": 22305,
+    "population_year": null
   },
   {
     "id": 139,
@@ -33,7 +43,12 @@
     "latitude": "34.17355000",
     "longitude": "69.64573000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "هوکومتي ازره",
+    "timezone": "Asia/Kabul",
+    "population": 12526,
+    "population_year": null
   },
   {
     "id": 106,
@@ -45,6 +60,11 @@
     "latitude": "33.99529000",
     "longitude": "69.02274000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1006289",
+    "type": "adm1",
+    "native": "پل علم",
+    "timezone": "Asia/Kabul",
+    "population": 13247,
+    "population_year": null
   }
 ]

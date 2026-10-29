@@ -9,7 +9,12 @@
     "latitude": "57.82556000",
     "longitude": "26.54056000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q154994",
+    "type": "adm2",
+    "native": "Antsla",
+    "timezone": "Europe/Tallinn",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 31597,
@@ -21,7 +26,12 @@
     "latitude": "57.77738000",
     "longitude": "26.59520000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q305226",
+    "type": "city",
+    "native": "Antsla vald",
+    "timezone": "Europe/Tallinn",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 31736,
@@ -33,6 +43,11 @@
     "latitude": "57.86611000",
     "longitude": "26.53222000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3477487",
+    "type": "town",
+    "native": "Vana-Antsla",
+    "timezone": "Europe/Tallinn",
+    "population": 1468,
+    "population_year": null
   }
 ]

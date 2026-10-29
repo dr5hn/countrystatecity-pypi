@@ -9,7 +9,12 @@
     "latitude": "6.32485000",
     "longitude": "8.11368000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Abakali",
+    "timezone": "Africa/Lagos",
+    "population": 149683,
+    "population_year": null
   },
   {
     "id": 76754,
@@ -21,7 +26,12 @@
     "latitude": "5.89258000",
     "longitude": "7.93534000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4689247",
+    "type": "adm2",
+    "native": "Afi",
+    "timezone": "Africa/Lagos",
+    "population": 71866,
+    "population_year": null
   },
   {
     "id": 76852,
@@ -33,7 +43,12 @@
     "latitude": "6.63105000",
     "longitude": "8.05814000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Effium",
+    "timezone": "Africa/Lagos",
+    "population": 86945,
+    "population_year": null
   },
   {
     "id": 76867,
@@ -45,7 +60,12 @@
     "latitude": "6.44094000",
     "longitude": "8.08432000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33435676",
+    "type": "locality",
+    "native": "Ezza-Ohu",
+    "timezone": "Africa/Lagos",
+    "population": 67414,
+    "population_year": null
   },
   {
     "id": 76954,
@@ -57,7 +77,12 @@
     "latitude": "6.38186000",
     "longitude": "8.03736000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6081059",
+    "type": "locality",
+    "native": "Isieke",
+    "timezone": "Africa/Lagos",
+    "population": 89990,
+    "population_year": null
   },
   {
     "id": 165317,
@@ -69,6 +94,11 @@
     "latitude": "6.15537000",
     "longitude": "8.03735000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3510958",
+    "type": "locality",
+    "native": null,
+    "timezone": "Africa/Lagos",
+    "population": null,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "25.29336000",
     "longitude": "32.55402000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q626031",
+    "type": "city",
+    "native": "إسنا",
+    "timezone": "Africa/Cairo",
+    "population": 462787,
+    "population_year": null
   },
   {
     "id": 31832,
@@ -21,7 +26,12 @@
     "latitude": "25.69893000",
     "longitude": "32.64210000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q130514",
+    "type": "adm1",
+    "native": "الأقصر",
+    "timezone": "Africa/Cairo",
+    "population": 422407,
+    "population_year": null
   },
   {
     "id": 31840,
@@ -33,7 +43,12 @@
     "latitude": "25.62986000",
     "longitude": "32.59017000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "مركز الأقصر",
+    "timezone": "Africa/Cairo",
+    "population": 422407,
+    "population_year": null
   },
   {
     "id": 164663,
@@ -45,6 +60,11 @@
     "latitude": "25.58278000",
     "longitude": "32.53290000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q287731",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Cairo",
+    "population": 30780,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "47.33103000",
     "longitude": "9.40996000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q209270",
+    "type": "adm1",
+    "native": "Appenzell",
+    "timezone": "Europe/Zurich",
+    "population": 5792,
+    "population_year": null
   },
   {
     "id": 17852,
@@ -21,7 +26,12 @@
     "latitude": "47.32725000",
     "longitude": "9.34705000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22366733",
+    "type": "municipality",
+    "native": "Gonten",
+    "timezone": "Europe/Zurich",
+    "population": 1480,
+    "population_year": 2025
   },
   {
     "id": 17894,
@@ -33,7 +43,12 @@
     "latitude": "47.36931000",
     "longitude": "9.36752000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22601809",
+    "type": "locality",
+    "native": "Haslen",
+    "timezone": "Europe/Zurich",
+    "population": 638,
+    "population_year": null
   },
   {
     "id": 18245,
@@ -45,6 +60,11 @@
     "latitude": "47.42531000",
     "longitude": "9.55134000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q22419904",
+    "type": "municipality",
+    "native": "Oberegg",
+    "timezone": "Europe/Zurich",
+    "population": 1934,
+    "population_year": 2025
   }
 ]

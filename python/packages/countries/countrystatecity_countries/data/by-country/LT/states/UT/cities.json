@@ -9,7 +9,12 @@
     "latitude": "55.52557000",
     "longitude": "25.10264000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27485494",
+    "type": "city",
+    "native": "Anyksciai",
+    "timezone": "Europe/Vilnius",
+    "population": 8638,
+    "population_year": null
   },
   {
     "id": 66604,
@@ -21,6 +26,11 @@
     "latitude": "55.35000000",
     "longitude": "26.16667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Ignalina",
+    "timezone": "Europe/Vilnius",
+    "population": 4998,
+    "population_year": null
   }
 ]

@@ -9,7 +9,12 @@
     "latitude": "57.03132000",
     "longitude": "24.05571000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2385722",
+    "type": "section",
+    "native": "Bolderaja",
+    "timezone": "Europe/Riga",
+    "population": 14771,
+    "population_year": null
   },
   {
     "id": 66890,
@@ -21,7 +26,12 @@
     "latitude": "57.04315000",
     "longitude": "24.03613000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1172924",
+    "type": "section",
+    "native": "Daugavgrīva",
+    "timezone": "Europe/Riga",
+    "population": 9952,
+    "population_year": null
   },
   {
     "id": 66903,
@@ -33,7 +43,12 @@
     "latitude": "57.03910000",
     "longitude": "24.17413000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Jaunciems",
+    "timezone": "Europe/Riga",
+    "population": 2339,
+    "population_year": null
   },
   {
     "id": 66928,
@@ -45,7 +60,12 @@
     "latitude": "57.00008000",
     "longitude": "24.15997000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1926523",
+    "type": "section",
+    "native": "Mežaparks",
+    "timezone": "Europe/Riga",
+    "population": 4165,
+    "population_year": null
   },
   {
     "id": 66948,
@@ -57,6 +77,11 @@
     "latitude": "56.94600000",
     "longitude": "24.10589000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1773",
+    "type": "capital",
+    "native": "Rīga",
+    "timezone": "Europe/Riga",
+    "population": 595053,
+    "population_year": null
   }
 ]

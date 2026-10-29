@@ -9,7 +9,12 @@
     "latitude": "6.72972000",
     "longitude": "-3.49639000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1044225",
+    "type": "adm1",
+    "native": "Abengourou",
+    "timezone": "Africa/Abidjan",
+    "population": 130810,
+    "population_year": null
   },
   {
     "id": 18862,
@@ -21,7 +26,12 @@
     "latitude": "5.46779000",
     "longitude": "-3.20711000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q521322",
+    "type": "adm2",
+    "native": "Aboisso",
+    "timezone": "Africa/Abidjan",
+    "population": 59225,
+    "population_year": null
   },
   {
     "id": 18863,
@@ -33,7 +43,12 @@
     "latitude": "5.28634000",
     "longitude": "-3.30403000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Adiaké",
+    "timezone": "Africa/Abidjan",
+    "population": 24701,
+    "population_year": null
   },
   {
     "id": 18867,
@@ -45,7 +60,12 @@
     "latitude": "7.13113000",
     "longitude": "-3.20415000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Agnibilékrou",
+    "timezone": "Africa/Abidjan",
+    "population": 63015,
+    "population_year": null
   },
   {
     "id": 164563,
@@ -57,7 +77,12 @@
     "latitude": "5.40755000",
     "longitude": "-3.38023000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2827418",
+    "type": "city",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 18872,
@@ -69,7 +94,12 @@
     "latitude": "5.60520000",
     "longitude": "-3.15709000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm4",
+    "native": "Ayamé",
+    "timezone": "Africa/Abidjan",
+    "population": 11149,
+    "population_year": null
   },
   {
     "id": 18880,
@@ -81,7 +111,12 @@
     "latitude": "5.27247000",
     "longitude": "-3.59625000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm4",
+    "native": "Bonoua",
+    "timezone": "Africa/Abidjan",
+    "population": 49434,
+    "population_year": null
   },
   {
     "id": 18903,
@@ -93,7 +128,12 @@
     "latitude": "5.21180000",
     "longitude": "-3.73884000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q582922",
+    "type": "adm3",
+    "native": "Grand-Bassam",
+    "timezone": "Africa/Abidjan",
+    "population": 96797,
+    "population_year": null
   },
   {
     "id": 18913,
@@ -105,7 +145,12 @@
     "latitude": "6.74434000",
     "longitude": "-3.49400000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "Indénié-Djuablin",
+    "timezone": "Africa/Abidjan",
+    "population": 130810,
+    "population_year": null
   },
   {
     "id": 18931,
@@ -117,6 +162,11 @@
     "latitude": "5.49961000",
     "longitude": "-3.24080000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Sud-Comoé",
+    "timezone": "Africa/Abidjan",
+    "population": null,
+    "population_year": null
   }
 ]

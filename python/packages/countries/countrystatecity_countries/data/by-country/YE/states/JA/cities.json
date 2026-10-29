@@ -9,7 +9,12 @@
     "latitude": "16.72189000",
     "longitude": "44.31252000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "العنان",
+    "timezone": "Asia/Aden",
+    "population": 100,
+    "population_year": null
   },
   {
     "id": 130688,
@@ -21,7 +26,12 @@
     "latitude": "16.09140000",
     "longitude": "44.68520000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4117300",
+    "type": "adm2",
+    "native": "الغيل",
+    "timezone": "Asia/Aden",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 130698,
@@ -33,7 +43,12 @@
     "latitude": "16.03780000",
     "longitude": "44.95850000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4117277",
+    "type": "city",
+    "native": "الحزم",
+    "timezone": "Asia/Aden",
+    "population": 16044,
+    "population_year": null
   },
   {
     "id": 130699,
@@ -45,7 +60,12 @@
     "latitude": "16.46670000",
     "longitude": "44.42990000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4117250",
+    "type": "adm2",
+    "native": "الحميدات",
+    "timezone": "Asia/Aden",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 130706,
@@ -57,7 +77,12 @@
     "latitude": "16.06810000",
     "longitude": "44.79700000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4117347",
+    "type": "area",
+    "native": "الخلق",
+    "timezone": "Asia/Aden",
+    "population": 14123,
+    "population_year": null
   },
   {
     "id": 130725,
@@ -69,7 +94,12 @@
     "latitude": "16.09610000",
     "longitude": "44.56670000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4117324",
+    "type": "city",
+    "native": "المصلوب",
+    "timezone": "Asia/Aden",
+    "population": 9938,
+    "population_year": null
   },
   {
     "id": 130726,
@@ -81,7 +111,12 @@
     "latitude": "16.19840000",
     "longitude": "44.39020000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1884259",
+    "type": "area",
+    "native": "المطمة",
+    "timezone": "Asia/Aden",
+    "population": 28935,
+    "population_year": null
   },
   {
     "id": 130727,
@@ -93,7 +128,12 @@
     "latitude": "16.28720000",
     "longitude": "44.63890000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4704407",
+    "type": "area",
+    "native": "آل ماتون",
+    "timezone": "Asia/Aden",
+    "population": 28411,
+    "population_year": null
   },
   {
     "id": 130821,
@@ -105,7 +145,12 @@
     "latitude": "16.91972000",
     "longitude": "44.51882000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4117229",
+    "type": "city",
+    "native": "برط العنان",
+    "timezone": "Asia/Aden",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130885,
@@ -117,7 +162,12 @@
     "latitude": "16.59750000",
     "longitude": "45.78530000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4117286",
+    "type": "area",
+    "native": "خَبَّبٌ وَالشَّعَاف",
+    "timezone": "Asia/Aden",
+    "population": 80193,
+    "population_year": null
   },
   {
     "id": 130888,
@@ -129,7 +179,12 @@
     "latitude": "16.61070000",
     "longitude": "44.22550000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4117302",
+    "type": "area",
+    "native": "خراب المرعشي",
+    "timezone": "Asia/Aden",
+    "population": 63532,
+    "population_year": null
   },
   {
     "id": 130950,
@@ -141,6 +196,11 @@
     "latitude": "16.63420000",
     "longitude": "44.50420000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4117304",
+    "type": "area",
+    "native": "راجوزة",
+    "timezone": "Asia/Aden",
+    "population": 73723,
+    "population_year": null
   }
 ]

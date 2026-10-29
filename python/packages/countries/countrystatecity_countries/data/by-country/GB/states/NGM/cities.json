@@ -9,7 +9,12 @@
     "latitude": "52.96667000",
     "longitude": "-1.18333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q4866737",
+    "type": "city",
+    "native": "Basford",
+    "timezone": "Europe/London",
+    "population": 16000,
+    "population_year": null
   },
   {
     "id": 50686,
@@ -21,7 +26,12 @@
     "latitude": "52.97336000",
     "longitude": "-1.16564000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "New Basford",
+    "timezone": "Europe/London",
+    "population": 8371,
+    "population_year": null
   },
   {
     "id": 50786,
@@ -33,6 +43,11 @@
     "latitude": "52.95360000",
     "longitude": "-1.15047000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q41262",
+    "type": "city",
+    "native": "Nottingham",
+    "timezone": "Europe/London",
+    "population": 289301,
+    "population_year": null
   }
 ]

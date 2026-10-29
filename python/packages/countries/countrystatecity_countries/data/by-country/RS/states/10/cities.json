@@ -9,7 +9,12 @@
     "latitude": "44.52314000",
     "longitude": "21.07083000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2736781",
+    "type": "locality",
+    "native": "Лугавчина",
+    "timezone": "Europe/Belgrade",
+    "population": 3300,
+    "population_year": null
   },
   {
     "id": 97382,
@@ -21,7 +26,12 @@
     "latitude": "44.66436000",
     "longitude": "20.92763000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q190774",
+    "type": "city",
+    "native": "Смедерево",
+    "timezone": "Europe/Belgrade",
+    "population": 62000,
+    "population_year": null
   },
   {
     "id": 97383,
@@ -33,7 +43,12 @@
     "latitude": "44.36548000",
     "longitude": "20.95885000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2041674",
+    "type": "adm3",
+    "native": "Смедеревска Паланка",
+    "timezone": "Europe/Belgrade",
+    "population": 27000,
+    "population_year": null
   },
   {
     "id": 155074,
@@ -45,6 +60,11 @@
     "latitude": "44.32578760",
     "longitude": "20.97032280",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2047388",
+    "type": "adm3",
+    "native": "Велика Плана",
+    "timezone": "Europe/Belgrade",
+    "population": 0,
+    "population_year": null
   }
 ]

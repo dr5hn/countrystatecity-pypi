@@ -9,7 +9,12 @@
     "latitude": "-6.22977000",
     "longitude": "155.56598000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q626729",
+    "type": "adm2",
+    "native": "Arawa",
+    "timezone": "Pacific/Bougainville",
+    "population": 38200,
+    "population_year": null
   },
   {
     "id": 165440,
@@ -21,7 +26,12 @@
     "latitude": "-5.43261000",
     "longitude": "154.67098000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2482800",
+    "type": "adm1",
+    "native": null,
+    "timezone": "Pacific/Bougainville",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81033,
@@ -33,7 +43,12 @@
     "latitude": "-6.22806000",
     "longitude": "155.56583000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Central Bougainville",
+    "timezone": "Pacific/Bougainville",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 81063,
@@ -45,7 +60,12 @@
     "latitude": "-6.21462000",
     "longitude": "155.63251000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1187240",
+    "type": "city",
+    "native": "Kieta",
+    "timezone": "Pacific/Bougainville",
+    "population": 3611,
+    "population_year": null
   },
   {
     "id": 81091,
@@ -57,7 +77,12 @@
     "latitude": "-5.42194000",
     "longitude": "154.67278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": "North Bougainville",
+    "timezone": "Pacific/Bougainville",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 81097,
@@ -69,7 +94,12 @@
     "latitude": "-6.31639000",
     "longitude": "155.48483000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1771693",
+    "type": "city",
+    "native": "Panguna",
+    "timezone": "Pacific/Bougainville",
+    "population": 2916,
+    "population_year": null
   },
   {
     "id": 81109,
@@ -81,6 +111,11 @@
     "latitude": "-6.74593000",
     "longitude": "155.69640000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "area",
+    "native": "South Bougainville",
+    "timezone": "Pacific/Bougainville",
+    "population": 60584,
+    "population_year": null
   }
 ]

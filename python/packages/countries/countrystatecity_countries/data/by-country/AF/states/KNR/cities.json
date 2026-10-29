@@ -9,7 +9,12 @@
     "latitude": "34.87311000",
     "longitude": "71.14697000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q685808",
+    "type": "adm1",
+    "native": "اسعدآباد",
+    "timezone": "Asia/Kabul",
+    "population": 48400,
+    "population_year": null
   },
   {
     "id": 138,
@@ -21,7 +26,12 @@
     "latitude": "35.03333000",
     "longitude": "71.35809000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21765090",
+    "type": "adm2",
+    "native": "اسمار",
+    "timezone": "Asia/Kabul",
+    "population": 15708,
+    "population_year": null
   },
   {
     "id": 164359,
@@ -33,6 +43,11 @@
     "latitude": "34.61341000",
     "longitude": "70.76498000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q16895998",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   }
 ]

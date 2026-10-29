@@ -9,7 +9,12 @@
     "latitude": "8.40611000",
     "longitude": "-7.58048000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q799800",
+    "type": "city",
+    "native": "Brafing",
+    "timezone": "Africa/Abidjan",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 18888,
@@ -21,7 +26,12 @@
     "latitude": "8.18952000",
     "longitude": "-6.17157000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Béré",
+    "timezone": "Africa/Abidjan",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 18920,
@@ -33,7 +43,12 @@
     "latitude": "8.05861000",
     "longitude": "-6.18972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Mankono",
+    "timezone": "Africa/Abidjan",
+    "population": 19597,
+    "population_year": null
   },
   {
     "id": 18932,
@@ -45,7 +60,12 @@
     "latitude": "7.96111000",
     "longitude": "-6.67306000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q952665",
+    "type": "adm1",
+    "native": "Séguéla",
+    "timezone": "Africa/Abidjan",
+    "population": 103980,
+    "population_year": null
   },
   {
     "id": 18937,
@@ -57,7 +77,12 @@
     "latitude": "8.28333000",
     "longitude": "-7.68333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2308752",
+    "type": "adm2",
+    "native": "Touba",
+    "timezone": "Africa/Abidjan",
+    "population": 28986,
+    "population_year": null
   },
   {
     "id": 18941,
@@ -69,6 +94,11 @@
     "latitude": "8.16482000",
     "longitude": "-6.66595000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Worodougou",
+    "timezone": "Africa/Abidjan",
+    "population": null,
+    "population_year": null
   }
 ]

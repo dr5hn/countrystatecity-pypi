@@ -9,7 +9,12 @@
     "latitude": "38.20835000",
     "longitude": "67.20664000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q609395",
+    "type": "city",
+    "native": "Boysun",
+    "timezone": "Asia/Samarkand",
+    "population": 26934,
+    "population_year": null
   },
   {
     "id": 129921,
@@ -21,7 +26,12 @@
     "latitude": "38.26746000",
     "longitude": "67.89886000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1189758",
+    "type": "city",
+    "native": "Denov",
+    "timezone": "Asia/Samarkand",
+    "population": 97196,
+    "population_year": null
   },
   {
     "id": 130002,
@@ -33,7 +43,12 @@
     "latitude": "37.99944000",
     "longitude": "67.78750000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q32018847",
+    "type": "city",
+    "native": "Sho‘rchi",
+    "timezone": "Asia/Samarkand",
+    "population": 25000,
+    "population_year": null
   },
   {
     "id": 130006,
@@ -45,6 +60,11 @@
     "latitude": "37.22417000",
     "longitude": "67.27833000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q491879",
+    "type": "adm1",
+    "native": "Ho'l",
+    "timezone": "Asia/Samarkand",
+    "population": 182800,
+    "population_year": null
   }
 ]

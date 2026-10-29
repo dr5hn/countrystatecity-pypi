@@ -9,7 +9,12 @@
     "latitude": "16.27228000",
     "longitude": "107.23385000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "A Lưới 2",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130554,
@@ -21,7 +26,12 @@
     "latitude": "16.46190000",
     "longitude": "107.59546000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q36167",
+    "type": "adm1",
+    "native": "Huế",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 1380000,
+    "population_year": null
   },
   {
     "id": 130379,
@@ -33,7 +43,12 @@
     "latitude": "16.12396000",
     "longitude": "107.69270000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Nam Đông",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130395,
@@ -45,7 +60,12 @@
     "latitude": "16.48769000",
     "longitude": "107.28889000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Phong Điền",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130399,
@@ -57,7 +77,12 @@
     "latitude": "16.27066000",
     "longitude": "107.88545000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Phú Lộc",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130402,
@@ -69,7 +94,12 @@
     "latitude": "16.47007000",
     "longitude": "107.71458000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Phú Vang",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 168043,
@@ -81,6 +111,11 @@
     "latitude": "16.57452000",
     "longitude": "107.51066000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Quảng Điền",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   }
 ]

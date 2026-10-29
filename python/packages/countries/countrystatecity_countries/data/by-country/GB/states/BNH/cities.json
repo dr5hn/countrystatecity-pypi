@@ -9,7 +9,12 @@
     "latitude": "50.82838000",
     "longitude": "-0.13947000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q131491",
+    "type": "city",
+    "native": "Brighton",
+    "timezone": "Europe/London",
+    "population": 277103,
+    "population_year": null
   },
   {
     "id": 48696,
@@ -21,7 +26,12 @@
     "latitude": "50.83333000",
     "longitude": "-0.13333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1022488",
+    "type": "city",
+    "native": "Brighton and Hove",
+    "timezone": "Europe/London",
+    "population": 277965,
+    "population_year": null
   },
   {
     "id": 50011,
@@ -33,7 +43,12 @@
     "latitude": "50.83088000",
     "longitude": "-0.16720000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q989616",
+    "type": "adm2",
+    "native": "Hove",
+    "timezone": "Europe/London",
+    "population": 91900,
+    "population_year": null
   },
   {
     "id": 50924,
@@ -45,7 +60,12 @@
     "latitude": "50.93420000",
     "longitude": "-0.06120000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Plumpton Green",
+    "timezone": "Europe/London",
+    "population": 1123,
+    "population_year": null
   },
   {
     "id": 50970,
@@ -57,7 +77,12 @@
     "latitude": "50.84286000",
     "longitude": "-0.21608000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2277250",
+    "type": "city",
+    "native": "Portslade",
+    "timezone": "Europe/London",
+    "population": 20000,
+    "population_year": null
   },
   {
     "id": 51123,
@@ -69,7 +94,12 @@
     "latitude": "50.80984000",
     "longitude": "-0.05939000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1612583",
+    "type": "village",
+    "native": "Rottingdean",
+    "timezone": "Europe/London",
+    "population": 21756,
+    "population_year": null
   },
   {
     "id": 51362,
@@ -81,6 +111,11 @@
     "latitude": "51.01667000",
     "longitude": "-0.13333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "South Nutfield",
+    "timezone": "Europe/London",
+    "population": 1920,
+    "population_year": null
   }
 ]

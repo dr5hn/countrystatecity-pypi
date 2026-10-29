@@ -9,7 +9,12 @@
     "latitude": "46.15000000",
     "longitude": "14.95000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1753813",
+    "type": "locality",
+    "native": "Izlake",
+    "timezone": "Europe/Ljubljana",
+    "population": 1152,
+    "population_year": null
   },
   {
     "id": 104136,
@@ -21,7 +26,12 @@
     "latitude": "46.13911000",
     "longitude": "14.96295000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2059110",
+    "type": "locality",
+    "native": "Kisovec",
+    "timezone": "Europe/Ljubljana",
+    "population": 1717,
+    "population_year": null
   },
   {
     "id": 104325,
@@ -33,6 +43,11 @@
     "latitude": "46.13179000",
     "longitude": "14.99694000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q15930",
+    "type": "city",
+    "native": "Zagorje ob Savi",
+    "timezone": "Europe/Ljubljana",
+    "population": 6023,
+    "population_year": null
   }
 ]

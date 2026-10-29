@@ -9,7 +9,12 @@
     "latitude": "-5.75611000",
     "longitude": "-78.44111000",
     "county_id": 8179,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bagua Grande",
+    "timezone": "America/Lima",
+    "population": 20382,
+    "population_year": null
   },
   {
     "id": 166917,
@@ -21,7 +26,12 @@
     "latitude": "-5.75722222",
     "longitude": "-78.44527778",
     "county_id": 8179,
-    "wikiDataId": null
+    "wikiDataId": "Q793765",
+    "type": "city",
+    "native": "Bagua Grande",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80582,
@@ -33,7 +43,12 @@
     "latitude": "-5.73639000",
     "longitude": "-78.42556000",
     "county_id": 8179,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Cajaruro",
+    "timezone": "America/Lima",
+    "population": 7281,
+    "population_year": null
   },
   {
     "id": 80602,
@@ -45,7 +60,12 @@
     "latitude": "-6.23169000",
     "longitude": "-77.86903000",
     "county_id": 8173,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Chachapoyas",
+    "timezone": "America/Lima",
+    "population": 32026,
+    "population_year": null
   },
   {
     "id": 166880,
@@ -57,7 +77,12 @@
     "latitude": "-6.23000000",
     "longitude": "-77.87000000",
     "county_id": 8173,
-    "wikiDataId": null
+    "wikiDataId": "Q757133",
+    "type": "city",
+    "native": "Chachapoyas",
+    "timezone": "America/Lima",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 80632,
@@ -69,7 +94,12 @@
     "latitude": "-4.16515000",
     "longitude": "-78.03840000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1288434",
+    "type": "city",
+    "native": "Condorcanqui",
+    "timezone": "America/Lima",
+    "population": 42470,
+    "population_year": null
   },
   {
     "id": 80689,
@@ -81,7 +111,12 @@
     "latitude": "-5.61111000",
     "longitude": "-78.43500000",
     "county_id": 8174,
-    "wikiDataId": null
+    "wikiDataId": "Q2640030",
+    "type": "municipality",
+    "native": "La Peca",
+    "timezone": "America/Lima",
+    "population": 27045,
+    "population_year": null
   },
   {
     "id": 80781,
@@ -93,7 +128,12 @@
     "latitude": "-5.09006000",
     "longitude": "-78.39972000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1366082",
+    "type": "province",
+    "native": "Provincia de Bagua",
+    "timezone": "America/Lima",
+    "population": 74100,
+    "population_year": null
   },
   {
     "id": 80784,
@@ -105,7 +145,12 @@
     "latitude": "-5.68341000",
     "longitude": "-77.87308000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1342814",
+    "type": "province",
+    "native": "Provincia de Bongará",
+    "timezone": "America/Lima",
+    "population": 25637,
+    "population_year": null
   },
   {
     "id": 80857,
@@ -117,7 +162,12 @@
     "latitude": "-6.41667000",
     "longitude": "-78.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q268277",
+    "type": "province",
+    "native": "Provincia de Luya",
+    "timezone": "America/Lima",
+    "population": 44436,
+    "population_year": null
   },
   {
     "id": 80885,
@@ -129,6 +179,11 @@
     "latitude": "-6.33333000",
     "longitude": "-77.41667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1366038",
+    "type": "province",
+    "native": "Provincia de Rodríguez de Mendoza",
+    "timezone": "America/Lima",
+    "population": 29998,
+    "population_year": null
   }
 ]

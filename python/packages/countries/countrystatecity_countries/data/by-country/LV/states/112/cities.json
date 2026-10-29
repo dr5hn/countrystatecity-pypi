@@ -9,7 +9,12 @@
     "latitude": "56.72108000",
     "longitude": "21.60156000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Aizpute",
+    "timezone": "Europe/Riga",
+    "population": 8083,
+    "population_year": null
   },
   {
     "id": 66896,
@@ -21,7 +26,12 @@
     "latitude": "56.53521000",
     "longitude": "21.16782000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q757049",
+    "type": "adm2",
+    "native": "Grobiņa",
+    "timezone": "Europe/Riga",
+    "population": 3674,
+    "population_year": null
   },
   {
     "id": 66920,
@@ -33,7 +43,12 @@
     "latitude": "56.58173000",
     "longitude": "21.33399000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6544506",
+    "type": "adm2",
+    "native": "Lieģi",
+    "timezone": "Europe/Riga",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 66934,
@@ -45,7 +60,12 @@
     "latitude": "56.34601000",
     "longitude": "21.06401000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q987165",
+    "type": "adm2",
+    "native": "Nīca",
+    "timezone": "Europe/Riga",
+    "population": 3113,
+    "population_year": null
   },
   {
     "id": 66944,
@@ -57,7 +77,12 @@
     "latitude": "56.88791000",
     "longitude": "21.18593000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q840717",
+    "type": "adm2",
+    "native": "Pāvilosta",
+    "timezone": "Europe/Riga",
+    "population": 858,
+    "population_year": null
   },
   {
     "id": 66942,
@@ -69,7 +94,12 @@
     "latitude": "56.44679000",
     "longitude": "21.58968000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q908683",
+    "type": "adm2",
+    "native": "Priekule",
+    "timezone": "Europe/Riga",
+    "population": 1843,
+    "population_year": null
   },
   {
     "id": 66951,
@@ -81,7 +111,12 @@
     "latitude": "56.16314000",
     "longitude": "21.16156000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q987180",
+    "type": "adm2",
+    "native": "Rucava",
+    "timezone": "Europe/Riga",
+    "population": 495,
+    "population_year": null
   },
   {
     "id": 66975,
@@ -93,6 +128,11 @@
     "latitude": "56.41848000",
     "longitude": "21.85405000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1023741",
+    "type": "adm2",
+    "native": "Vaiņode",
+    "timezone": "Europe/Riga",
+    "population": 0,
+    "population_year": null
   }
 ]

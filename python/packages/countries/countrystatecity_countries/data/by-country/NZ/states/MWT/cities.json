@@ -9,7 +9,12 @@
     "latitude": "-40.17487000",
     "longitude": "175.38463000",
     "county_id": 14027,
-    "wikiDataId": null
+    "wikiDataId": "Q834869",
+    "type": "town",
+    "native": "Bulls",
+    "timezone": "Pacific/Auckland",
+    "population": 2150,
+    "population_year": null
   },
   {
     "id": 166865,
@@ -21,7 +26,12 @@
     "latitude": "-40.22500000",
     "longitude": "175.56500000",
     "county_id": 13767,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Feilding",
+    "timezone": "Pacific/Auckland",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 79794,
@@ -33,7 +43,12 @@
     "latitude": "-40.46667000",
     "longitude": "175.30000000",
     "county_id": 13769,
-    "wikiDataId": null
+    "wikiDataId": "Q985095",
+    "type": "town",
+    "native": "Foxton",
+    "timezone": "Pacific/Auckland",
+    "population": 3310,
+    "population_year": null
   },
   {
     "id": 79817,
@@ -45,7 +60,12 @@
     "latitude": "-40.63333000",
     "longitude": "175.27500000",
     "county_id": 13769,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Levin",
+    "timezone": "Pacific/Auckland",
+    "population": 18800,
+    "population_year": null
   },
   {
     "id": 79853,
@@ -57,7 +77,12 @@
     "latitude": "-40.35636000",
     "longitude": "175.61113000",
     "county_id": 13768,
-    "wikiDataId": null
+    "wikiDataId": "Q212289",
+    "type": "city",
+    "native": "Palmerston North",
+    "timezone": "Pacific/Auckland",
+    "population": 81500,
+    "population_year": null
   },
   {
     "id": 79904,
@@ -69,7 +94,12 @@
     "latitude": "-39.47753000",
     "longitude": "175.66834000",
     "county_id": 13765,
-    "wikiDataId": null
+    "wikiDataId": "Q912379",
+    "type": "town",
+    "native": "Waiouru",
+    "timezone": "Pacific/Auckland",
+    "population": 790,
+    "population_year": null
   },
   {
     "id": 79913,
@@ -81,6 +111,11 @@
     "latitude": "-39.93333000",
     "longitude": "175.05000000",
     "county_id": 13766,
-    "wikiDataId": null
+    "wikiDataId": "Q1015672",
+    "type": "city",
+    "native": "Whanganui",
+    "timezone": "Pacific/Auckland",
+    "population": 48900,
+    "population_year": null
   }
 ]

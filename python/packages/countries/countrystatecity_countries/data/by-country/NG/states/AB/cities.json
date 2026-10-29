@@ -9,7 +9,12 @@
     "latitude": "5.10658000",
     "longitude": "7.36667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q202162",
+    "type": "adm2",
+    "native": "Aba",
+    "timezone": "Africa/Lagos",
+    "population": 1160000,
+    "population_year": null
   },
   {
     "id": 76769,
@@ -21,7 +26,12 @@
     "latitude": "5.78917000",
     "longitude": "7.83829000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Amaigbo",
+    "timezone": "Africa/Lagos",
+    "population": 127300,
+    "population_year": null
   },
   {
     "id": 76779,
@@ -33,7 +43,12 @@
     "latitude": "5.38941000",
     "longitude": "7.91235000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Arochukwu",
+    "timezone": "Africa/Lagos",
+    "population": 10776,
+    "population_year": null
   },
   {
     "id": 76799,
@@ -45,7 +60,12 @@
     "latitude": "5.55874000",
     "longitude": "7.63359000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Bende",
+    "timezone": "Africa/Lagos",
+    "population": 79618,
+    "population_year": null
   },
   {
     "id": 77057,
@@ -57,7 +77,12 @@
     "latitude": "5.61455000",
     "longitude": "7.81191000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33469000",
+    "type": "locality",
+    "native": "Ohafia-Ifigh",
+    "timezone": "Africa/Lagos",
+    "population": 73355,
+    "population_year": null
   },
   {
     "id": 77125,
@@ -69,6 +94,11 @@
     "latitude": "5.52491000",
     "longitude": "7.49461000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q203301",
+    "type": "city",
+    "native": "Umuahia",
+    "timezone": "Africa/Lagos",
+    "population": 359230,
+    "population_year": null
   }
 ]

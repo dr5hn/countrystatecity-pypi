@@ -9,7 +9,12 @@
     "latitude": "-3.94737000",
     "longitude": "135.95032000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q27386",
+    "type": "regency",
+    "native": "Kabupaten Deiyai",
+    "timezone": "Asia/Jayapura",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 166787,
@@ -21,7 +26,12 @@
     "latitude": "-3.93019111",
     "longitude": "136.37852694",
     "county_id": 8852,
-    "wikiDataId": null
+    "wikiDataId": "Q3053702",
+    "type": "section",
+    "native": "Enarotali",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166802,
@@ -33,7 +43,12 @@
     "latitude": "-3.97461000",
     "longitude": "137.64044000",
     "county_id": 8854,
-    "wikiDataId": null
+    "wikiDataId": "Q138791092",
+    "type": "town",
+    "native": "Ilaga",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166673,
@@ -45,7 +60,12 @@
     "latitude": "-3.96139000",
     "longitude": "135.94361000",
     "county_id": 8855,
-    "wikiDataId": null
+    "wikiDataId": "Q138791093",
+    "type": "town",
+    "native": "Kigamani",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 167608,
@@ -57,7 +77,12 @@
     "latitude": "-3.70226000",
     "longitude": "137.96457111",
     "county_id": 8851,
-    "wikiDataId": null
+    "wikiDataId": "Q31186675",
+    "type": "town",
+    "native": "Kota Mulia",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 56882,
@@ -69,7 +94,12 @@
     "latitude": "-3.35989000",
     "longitude": "135.50074000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q24854639",
+    "type": "adm1",
+    "native": "Nabire",
+    "timezone": "Asia/Jayapura",
+    "population": 43898,
+    "population_year": null
   },
   {
     "id": 166691,
@@ -81,7 +111,12 @@
     "latitude": "-3.74306000",
     "longitude": "137.05000000",
     "county_id": 8856,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "town",
+    "native": "Sugapa",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 166759,
@@ -93,6 +128,11 @@
     "latitude": "-4.54848300",
     "longitude": "136.88947000",
     "county_id": 8853,
-    "wikiDataId": null
+    "wikiDataId": "Q1026405",
+    "type": "town",
+    "native": "Timika",
+    "timezone": "Asia/Jayapura",
+    "population": null,
+    "population_year": null
   }
 ]

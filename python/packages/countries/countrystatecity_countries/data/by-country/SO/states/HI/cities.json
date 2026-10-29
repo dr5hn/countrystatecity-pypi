@@ -9,7 +9,12 @@
     "latitude": "4.73583000",
     "longitude": "45.20361000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q815370",
+    "type": "adm1",
+    "native": "Beledweyne",
+    "timezone": "Africa/Mogadishu",
+    "population": 55410,
+    "population_year": null
   },
   {
     "id": 104784,
@@ -21,7 +26,12 @@
     "latitude": "3.85375000",
     "longitude": "45.56744000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1018265",
+    "type": "city",
+    "native": "Buulobarde",
+    "timezone": "Africa/Mogadishu",
+    "population": 16928,
+    "population_year": null
   },
   {
     "id": 104801,
@@ -33,6 +43,11 @@
     "latitude": "3.37660000",
     "longitude": "45.59960000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q694851",
+    "type": "city",
+    "native": "Jalalaqsi",
+    "timezone": "Africa/Mogadishu",
+    "population": 9743,
+    "population_year": null
   }
 ]

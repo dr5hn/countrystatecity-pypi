@@ -9,7 +9,12 @@
     "latitude": "-6.71667000",
     "longitude": "32.06667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Inyonga",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 11790,
+    "population_year": null
   },
   {
     "id": 109093,
@@ -21,7 +26,12 @@
     "latitude": "-6.82052000",
     "longitude": "30.43887000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Karema",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 12630,
+    "population_year": null
   },
   {
     "id": 109210,
@@ -33,7 +43,12 @@
     "latitude": "-6.34379000",
     "longitude": "31.06951000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q391599",
+    "type": "adm1",
+    "native": "Mpanda",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 204338,
+    "population_year": null
   },
   {
     "id": 109295,
@@ -45,6 +60,11 @@
     "latitude": "-7.10000000",
     "longitude": "31.23333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "USEVIA",
+    "timezone": "Africa/Dar_es_Salaam",
+    "population": 17742,
+    "population_year": null
   }
 ]

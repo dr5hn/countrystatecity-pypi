@@ -9,7 +9,12 @@
     "latitude": "30.43206000",
     "longitude": "63.29802000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "'الاقداري ديشو'",
+    "timezone": "Asia/Kabul",
+    "population": 9196,
+    "population_year": null
   },
   {
     "id": 70,
@@ -21,7 +26,12 @@
     "latitude": "31.82089000",
     "longitude": "64.57005000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3735459",
+    "type": "adm2",
+    "native": "ګریشک",
+    "timezone": "Asia/Kabul",
+    "population": 43588,
+    "population_year": null
   },
   {
     "id": 164339,
@@ -33,7 +43,12 @@
     "latitude": "30.54880000",
     "longitude": "63.78880000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6400174",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": 25600,
+    "population_year": null
   },
   {
     "id": 93,
@@ -45,7 +60,12 @@
     "latitude": "31.59382000",
     "longitude": "64.37161000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q476800",
+    "type": "adm1",
+    "native": "لشکرګاه",
+    "timezone": "Asia/Kabul",
+    "population": 43934,
+    "population_year": null
   },
   {
     "id": 95,
@@ -57,7 +77,12 @@
     "latitude": "31.13231000",
     "longitude": "64.19340000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q21758384",
+    "type": "city",
+    "native": "مركز حكمت دروېش",
+    "timezone": "Asia/Kabul",
+    "population": 9012,
+    "population_year": null
   },
   {
     "id": 164358,
@@ -69,7 +94,12 @@
     "latitude": "32.44565000",
     "longitude": "64.74486000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q1953989",
+    "type": "adm2",
+    "native": null,
+    "timezone": "Asia/Kabul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 118,
@@ -81,6 +111,11 @@
     "latitude": "32.07275000",
     "longitude": "64.83590000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2457742",
+    "type": "adm2",
+    "native": "سنګین",
+    "timezone": "Asia/Kabul",
+    "population": 13579,
+    "population_year": null
   }
 ]

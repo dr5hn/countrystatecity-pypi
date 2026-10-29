@@ -9,7 +9,12 @@
     "latitude": "49.17207130",
     "longitude": "-2.06199370",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3115042",
+    "type": "adm1",
+    "native": "Tall twenty",
+    "timezone": "Europe/Jersey",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 154108,
@@ -21,7 +26,12 @@
     "latitude": "49.16497580",
     "longitude": "-2.09880290",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3560199",
+    "type": "city",
+    "native": "Twenty Samarès",
+    "timezone": "Europe/Jersey",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 154107,
@@ -33,6 +43,11 @@
     "latitude": "49.17250500",
     "longitude": "-2.06543840",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3560250",
+    "type": "adm1",
+    "native": "Vingtaine du Rocquier",
+    "timezone": "Europe/Jersey",
+    "population": null,
+    "population_year": null
   }
 ]

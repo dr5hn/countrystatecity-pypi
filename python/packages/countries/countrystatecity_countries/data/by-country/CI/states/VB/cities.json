@@ -9,7 +9,12 @@
     "latitude": "7.67395000",
     "longitude": "-5.58085000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Béoumi",
+    "timezone": "Africa/Abidjan",
+    "population": 33089,
+    "population_year": null
   },
   {
     "id": 18881,
@@ -21,7 +26,12 @@
     "latitude": "7.85249000",
     "longitude": "-5.31063000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Botro",
+    "timezone": "Africa/Abidjan",
+    "population": 13375,
+    "population_year": null
   },
   {
     "id": 18883,
@@ -33,7 +43,12 @@
     "latitude": "7.69385000",
     "longitude": "-5.03031000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q271000",
+    "type": "adm1",
+    "native": "Bouaké",
+    "timezone": "Africa/Abidjan",
+    "population": 740000,
+    "population_year": null
   },
   {
     "id": 18890,
@@ -45,7 +60,12 @@
     "latitude": "8.36321000",
     "longitude": "-4.42863000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q6571316",
+    "type": "adm3",
+    "native": "Dabakala",
+    "timezone": "Africa/Abidjan",
+    "population": 18322,
+    "population_year": null
   },
   {
     "id": 18900,
@@ -57,7 +77,12 @@
     "latitude": "7.70271000",
     "longitude": "-5.28511000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Le gbêk",
+    "timezone": "Africa/Abidjan",
+    "population": 588,
+    "population_year": null
   },
   {
     "id": 18910,
@@ -69,7 +94,12 @@
     "latitude": "8.30368000",
     "longitude": "-5.15396000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Hambol",
+    "timezone": "Africa/Abidjan",
+    "population": 7733,
+    "population_year": null
   },
   {
     "id": 18916,
@@ -81,7 +111,12 @@
     "latitude": "8.13728000",
     "longitude": "-5.10095000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2409805",
+    "type": "adm2",
+    "native": "Katiola",
+    "timezone": "Africa/Abidjan",
+    "population": 59641,
+    "population_year": null
   },
   {
     "id": 164562,
@@ -93,7 +128,12 @@
     "latitude": "8.65759000",
     "longitude": "-5.29109000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q3339444",
+    "type": "adm3",
+    "native": null,
+    "timezone": "Africa/Abidjan",
+    "population": 21793,
+    "population_year": null
   },
   {
     "id": 18927,
@@ -105,6 +145,11 @@
     "latitude": "7.45462000",
     "longitude": "-5.29263000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm3",
+    "native": "Sakassou",
+    "timezone": "Africa/Abidjan",
+    "population": 17093,
+    "population_year": null
   }
 ]

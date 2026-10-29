@@ -9,7 +9,12 @@
     "latitude": "58.98160490",
     "longitude": "-2.96036900",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q208329",
+    "type": "adm2",
+    "native": "Kirkwall",
+    "timezone": "Europe/London",
+    "population": 7420,
+    "population_year": null
   },
   {
     "id": 50812,
@@ -21,7 +26,12 @@
     "latitude": "58.94182310",
     "longitude": "-3.12969440",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Orkney",
+    "timezone": "Europe/London",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 51197,
@@ -33,7 +43,12 @@
     "latitude": "58.78764520",
     "longitude": "-2.97638070",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q7417104",
+    "type": "city",
+    "native": "Sandwick",
+    "timezone": "Europe/London",
+    "population": 1217,
+    "population_year": null
   },
   {
     "id": 51501,
@@ -45,6 +60,11 @@
     "latitude": "58.96143560",
     "longitude": "-3.29937670",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q839556",
+    "type": "village",
+    "native": "Stromness",
+    "timezone": "Europe/London",
+    "population": 0,
+    "population_year": null
   }
 ]

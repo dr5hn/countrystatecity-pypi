@@ -9,7 +9,12 @@
     "latitude": "35.58243000",
     "longitude": "129.36049000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50395",
+    "type": "municipality",
+    "native": "북구",
+    "timezone": "Asia/Seoul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 65308,
@@ -21,7 +26,12 @@
     "latitude": "35.50470000",
     "longitude": "129.41860000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50379",
+    "type": "section",
+    "native": "동구",
+    "timezone": "Asia/Seoul",
+    "population": 343398,
+    "population_year": null
   },
   {
     "id": 65423,
@@ -33,7 +43,12 @@
     "latitude": "35.56840000",
     "longitude": "129.33226000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50442",
+    "type": "municipality",
+    "native": "중구",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65453,
@@ -45,7 +60,12 @@
     "latitude": "35.54382000",
     "longitude": "129.32917000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50364",
+    "type": "municipality",
+    "native": "남구",
+    "timezone": "Asia/Seoul",
+    "population": 0,
+    "population_year": null
   },
   {
     "id": 65525,
@@ -57,7 +77,12 @@
     "latitude": "35.56233000",
     "longitude": "129.12690000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q50313",
+    "type": "city",
+    "native": "울주군",
+    "timezone": "Asia/Seoul",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 65527,
@@ -69,6 +94,11 @@
     "latitude": "35.53722000",
     "longitude": "129.31667000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "울산",
+    "timezone": "Asia/Seoul",
+    "population": 1127553,
+    "population_year": null
   }
 ]

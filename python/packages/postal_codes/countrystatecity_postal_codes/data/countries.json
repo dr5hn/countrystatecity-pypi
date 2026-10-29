@@ -25,13 +25,13 @@
     "countryName": "Algeria",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 1541
+    "postcodeCount": 28
   },
   {
     "countryCode": "AS",
     "countryName": "American Samoa",
-    "postalCodeFormat": "#####-####",
-    "postalCodeRegex": "96799",
+    "postalCodeFormat": "96799|96799-####",
+    "postalCodeRegex": "^96799(?:-[0-9]{4})?$",
     "postcodeCount": 1
   },
   {
@@ -74,13 +74,13 @@
     "countryName": "Argentina",
     "postalCodeFormat": "@####@@@",
     "postalCodeRegex": "^[A-Z]?\\d{4}[A-Z]{0,3}$",
-    "postcodeCount": 23184
+    "postcodeCount": 12556
   },
   {
     "countryCode": "AM",
     "countryName": "Armenia",
-    "postalCodeFormat": "######",
-    "postalCodeRegex": "^(\\d{6})$",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^[0-9]{4}$",
     "postcodeCount": 0
   },
   {
@@ -95,7 +95,7 @@
     "countryName": "Australia",
     "postalCodeFormat": "####",
     "postalCodeRegex": "^(\\d{4})$",
-    "postcodeCount": 3175
+    "postcodeCount": 3173
   },
   {
     "countryCode": "AT",
@@ -112,6 +112,13 @@
     "postcodeCount": 0
   },
   {
+    "countryCode": "BS",
+    "countryName": "The Bahamas",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
+    "postcodeCount": 0
+  },
+  {
     "countryCode": "BH",
     "countryName": "Bahrain",
     "postalCodeFormat": "####|###",
@@ -123,14 +130,14 @@
     "countryName": "Bangladesh",
     "postalCodeFormat": "####",
     "postalCodeRegex": "^(\\d{4})$",
-    "postcodeCount": 1353
+    "postcodeCount": 1349
   },
   {
     "countryCode": "BB",
     "countryName": "Barbados",
     "postalCodeFormat": "BB#####",
     "postalCodeRegex": "^(?:BB)*(\\d{5})$",
-    "postcodeCount": 19
+    "postcodeCount": 9
   },
   {
     "countryCode": "BY",
@@ -182,13 +189,6 @@
     "postcodeCount": 0
   },
   {
-    "countryCode": "BQ",
-    "countryName": "Bonaire, Sint Eustatius and Saba",
-    "postalCodeFormat": null,
-    "postalCodeRegex": null,
-    "postcodeCount": 0
-  },
-  {
     "countryCode": "BA",
     "countryName": "Bosnia and Herzegovina",
     "postalCodeFormat": "#####",
@@ -214,7 +214,7 @@
     "countryName": "Brazil",
     "postalCodeFormat": "#####-###",
     "postalCodeRegex": "^\\d{5}-\\d{3}$",
-    "postcodeCount": 5692
+    "postcodeCount": 5302
   },
   {
     "countryCode": "IO",
@@ -228,7 +228,7 @@
     "countryName": "Brunei",
     "postalCodeFormat": "@@####",
     "postalCodeRegex": "^([A-Z]{2}\\d{4})$",
-    "postcodeCount": 547
+    "postcodeCount": 21
   },
   {
     "countryCode": "BG",
@@ -256,7 +256,7 @@
     "countryName": "Cambodia",
     "postalCodeFormat": "######",
     "postalCodeRegex": "^(\\d{6})$",
-    "postcodeCount": 1640
+    "postcodeCount": 35
   },
   {
     "countryCode": "CM",
@@ -296,8 +296,8 @@
   {
     "countryCode": "TD",
     "countryName": "Chad",
-    "postalCodeFormat": "TKCA 1ZZ",
-    "postalCodeRegex": "^(TKCA 1ZZ)$",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
     "postcodeCount": 0
   },
   {
@@ -312,7 +312,7 @@
     "countryName": "China",
     "postalCodeFormat": "######",
     "postalCodeRegex": "^(\\d{6})$",
-    "postcodeCount": 22656
+    "postcodeCount": 3803
   },
   {
     "countryCode": "CX",
@@ -333,7 +333,7 @@
     "countryName": "Colombia",
     "postalCodeFormat": "######",
     "postalCodeRegex": "^(\\d{6})$",
-    "postcodeCount": 3676
+    "postcodeCount": 3672
   },
   {
     "countryCode": "KM",
@@ -350,6 +350,13 @@
     "postcodeCount": 0
   },
   {
+    "countryCode": "CD",
+    "countryName": "Democratic Republic of the Congo",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
+    "postcodeCount": 0
+  },
+  {
     "countryCode": "CK",
     "countryName": "Cook Islands",
     "postalCodeFormat": null,
@@ -361,27 +368,27 @@
     "countryName": "Costa Rica",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 481
+    "postcodeCount": 473
+  },
+  {
+    "countryCode": "CI",
+    "countryName": "Ivory Coast",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
+    "postcodeCount": 0
   },
   {
     "countryCode": "HR",
     "countryName": "Croatia",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(?:HR)*(\\d{5})$",
-    "postcodeCount": 905
+    "postcodeCount": 286
   },
   {
     "countryCode": "CU",
     "countryName": "Cuba",
     "postalCodeFormat": "CP #####",
-    "postalCodeRegex": "^(?:CP)*(\\d{5})$",
-    "postcodeCount": 0
-  },
-  {
-    "countryCode": "CW",
-    "countryName": "Curaçao",
-    "postalCodeFormat": null,
-    "postalCodeRegex": null,
+    "postalCodeRegex": "^(?:CP ?)?[0-9]{5}$",
     "postcodeCount": 0
   },
   {
@@ -389,21 +396,14 @@
     "countryName": "Cyprus",
     "postalCodeFormat": "####",
     "postalCodeRegex": "^(\\d{4})$",
-    "postcodeCount": 825
+    "postcodeCount": 821
   },
   {
     "countryCode": "CZ",
     "countryName": "Czech Republic",
     "postalCodeFormat": "### ##",
     "postalCodeRegex": "^\\d{3}\\s?\\d{2}$",
-    "postcodeCount": 2695
-  },
-  {
-    "countryCode": "CD",
-    "countryName": "Democratic Republic of the Congo",
-    "postalCodeFormat": null,
-    "postalCodeRegex": null,
-    "postcodeCount": 0
+    "postcodeCount": 2644
   },
   {
     "countryCode": "DK",
@@ -431,14 +431,21 @@
     "countryName": "Dominican Republic",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 2320
+    "postcodeCount": 486
+  },
+  {
+    "countryCode": "TL",
+    "countryName": "Timor-Leste",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
+    "postcodeCount": 0
   },
   {
     "countryCode": "EC",
     "countryName": "Ecuador",
     "postalCodeFormat": "######",
     "postalCodeRegex": "^(\\d{6})$",
-    "postcodeCount": 1205
+    "postcodeCount": 1181
   },
   {
     "countryCode": "EG",
@@ -450,9 +457,9 @@
   {
     "countryCode": "SV",
     "countryName": "El Salvador",
-    "postalCodeFormat": "CP ####",
-    "postalCodeRegex": "^(?:CP)*(\\d{4})$",
-    "postcodeCount": 262
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(?:CP ?)?[0-9]{4}$",
+    "postcodeCount": 33
   },
   {
     "countryCode": "GQ",
@@ -473,13 +480,6 @@
     "countryName": "Estonia",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 0
-  },
-  {
-    "countryCode": "SZ",
-    "countryName": "Eswatini",
-    "postalCodeFormat": "@###",
-    "postalCodeRegex": "^([A-Z]\\d{3})$",
     "postcodeCount": 0
   },
   {
@@ -536,7 +536,7 @@
     "countryName": "French Polynesia",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^((97|98)7\\d{2})$",
-    "postcodeCount": 5
+    "postcodeCount": 2
   },
   {
     "countryCode": "TF",
@@ -548,6 +548,13 @@
   {
     "countryCode": "GA",
     "countryName": "Gabon",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
+    "postcodeCount": 0
+  },
+  {
+    "countryCode": "GM",
+    "countryName": "The Gambia",
     "postalCodeFormat": null,
     "postalCodeRegex": null,
     "postcodeCount": 0
@@ -584,8 +591,8 @@
     "countryCode": "GR",
     "countryName": "Greece",
     "postalCodeFormat": "### ##",
-    "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 1250
+    "postalCodeRegex": "^[0-9]{3} ?[0-9]{2}$",
+    "postcodeCount": 1343
   },
   {
     "countryCode": "GL",
@@ -627,7 +634,7 @@
     "countryName": "Guernsey",
     "postalCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|@@# #@@|GIR0AA",
     "postalCodeRegex": "^GIR\\s?0AA$|^[A-Z]{1,2}(?:[0-9][0-9A-Z]?)?(?:\\s?[0-9][A-Z]{2})?$",
-    "postcodeCount": 10
+    "postcodeCount": 0
   },
   {
     "countryCode": "GN",
@@ -667,15 +674,15 @@
   {
     "countryCode": "HN",
     "countryName": "Honduras",
-    "postalCodeFormat": "#####",
-    "postalCodeRegex": "^(\\d{6})$",
+    "postalCodeFormat": "#####|@@####",
+    "postalCodeRegex": "^(?:[0-9]{5}|[A-Z]{2}[0-9]{4})$",
     "postcodeCount": 0
   },
   {
     "countryCode": "HK",
     "countryName": "Hong Kong S.A.R.",
-    "postalCodeFormat": "######",
-    "postalCodeRegex": "^(\\d{6})$",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
     "postcodeCount": 0
   },
   {
@@ -683,7 +690,7 @@
     "countryName": "Hungary",
     "postalCodeFormat": "####",
     "postalCodeRegex": "^(\\d{4})$",
-    "postcodeCount": 3569
+    "postcodeCount": 3228
   },
   {
     "countryCode": "IS",
@@ -704,14 +711,14 @@
     "countryName": "Indonesia",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 8367
+    "postcodeCount": 8147
   },
   {
     "countryCode": "IR",
     "countryName": "Iran",
     "postalCodeFormat": "#####|##########",
     "postalCodeRegex": "^(\\d{5}(?:\\d{5})?)$",
-    "postcodeCount": 193
+    "postcodeCount": 2632
   },
   {
     "countryCode": "IQ",
@@ -724,7 +731,7 @@
     "countryCode": "IE",
     "countryName": "Ireland",
     "postalCodeFormat": "@@@ @@@@",
-    "postalCodeRegex": "^(D6W|[AC-FHKNPRTV-Y][0-9]{2})\\s?([AC-FHKNPRTV-Y0-9]{4})",
+    "postalCodeRegex": "^(?:D6W|[AC-FHKNPRTV-Y][0-9]{2}) ?[AC-FHKNPRTV-Y0-9]{4}$",
     "postcodeCount": 0
   },
   {
@@ -739,14 +746,7 @@
     "countryName": "Italy",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 4678
-  },
-  {
-    "countryCode": "CI",
-    "countryName": "Ivory Coast",
-    "postalCodeFormat": null,
-    "postalCodeRegex": null,
-    "postcodeCount": 0
+    "postcodeCount": 4558
   },
   {
     "countryCode": "JM",
@@ -767,7 +767,7 @@
     "countryName": "Jersey",
     "postalCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|@@# #@@|GIR0AA",
     "postalCodeRegex": "^GIR\\s?0AA$|^[A-Z]{1,2}(?:[0-9][0-9A-Z]?)?(?:\\s?[0-9][A-Z]{2})?$",
-    "postcodeCount": 5
+    "postcodeCount": 0
   },
   {
     "countryCode": "JO",
@@ -779,8 +779,8 @@
   {
     "countryCode": "KZ",
     "countryName": "Kazakhstan",
-    "postalCodeFormat": "######",
-    "postalCodeRegex": "^(\\d{6})$",
+    "postalCodeFormat": "######|@##@#@#",
+    "postalCodeRegex": "^(?:[0-9]{6}|[A-Z][0-9]{2}[A-Z][0-9][A-Z][0-9])$",
     "postcodeCount": 0
   },
   {
@@ -788,7 +788,7 @@
     "countryName": "Kenya",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 630
+    "postcodeCount": 571
   },
   {
     "countryCode": "KI",
@@ -798,8 +798,15 @@
     "postcodeCount": 0
   },
   {
-    "countryCode": "XK",
-    "countryName": "Kosovo",
+    "countryCode": "KP",
+    "countryName": "North Korea",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
+    "postcodeCount": 0
+  },
+  {
+    "countryCode": "KR",
+    "countryName": "South Korea",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
     "postcodeCount": 0
@@ -829,14 +836,14 @@
     "countryCode": "LV",
     "countryName": "Latvia",
     "postalCodeFormat": "LV-####",
-    "postalCodeRegex": "^(?:LV)*(\\d{4})$",
-    "postcodeCount": 671
+    "postalCodeRegex": "^(?:LV-)?[0-9]{4}$",
+    "postcodeCount": 670
   },
   {
     "countryCode": "LB",
     "countryName": "Lebanon",
     "postalCodeFormat": "#### ####|####",
-    "postalCodeRegex": "^(\\d{4}(\\d{4})?)$",
+    "postalCodeRegex": "^[0-9]{4}(?: ?[0-9]{4})?$",
     "postcodeCount": 0
   },
   {
@@ -871,7 +878,7 @@
     "countryCode": "LT",
     "countryName": "Lithuania",
     "postalCodeFormat": "LT-#####",
-    "postalCodeRegex": "^(?:LT)*(\\d{5})$",
+    "postalCodeRegex": "^(?:LT-)?[0-9]{5}$",
     "postcodeCount": 0
   },
   {
@@ -884,8 +891,15 @@
   {
     "countryCode": "MO",
     "countryName": "Macau S.A.R.",
-    "postalCodeFormat": "######",
-    "postalCodeRegex": "^(\\d{6})$",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
+    "postcodeCount": 0
+  },
+  {
+    "countryCode": "MK",
+    "countryName": "North Macedonia",
+    "postalCodeFormat": "####",
+    "postalCodeRegex": "^(\\d{4})$",
     "postcodeCount": 0
   },
   {
@@ -893,7 +907,7 @@
     "countryName": "Madagascar",
     "postalCodeFormat": "###",
     "postalCodeRegex": "^(\\d{3})$",
-    "postcodeCount": 111
+    "postcodeCount": 10
   },
   {
     "countryCode": "MW",
@@ -907,7 +921,7 @@
     "countryName": "Malaysia",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 2933
+    "postcodeCount": 2632
   },
   {
     "countryCode": "MV",
@@ -928,14 +942,14 @@
     "countryName": "Malta",
     "postalCodeFormat": "@@@ ####",
     "postalCodeRegex": "^[A-Z]{3}\\s?\\d{4}$",
-    "postcodeCount": 26593
+    "postcodeCount": 820
   },
   {
     "countryCode": "IM",
     "countryName": "Man (Isle of)",
     "postalCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|@@# #@@|GIR0AA",
     "postalCodeRegex": "^GIR\\s?0AA$|^[A-Z]{1,2}(?:[0-9][0-9A-Z]?)?(?:\\s?[0-9][A-Z]{2})?$",
-    "postcodeCount": 13
+    "postcodeCount": 0
   },
   {
     "countryCode": "MH",
@@ -963,7 +977,7 @@
     "countryName": "Mauritius",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 1874
+    "postcodeCount": 38
   },
   {
     "countryCode": "YT",
@@ -977,7 +991,7 @@
     "countryName": "Mexico",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 144600
+    "postcodeCount": 144149
   },
   {
     "countryCode": "FM",
@@ -991,7 +1005,7 @@
     "countryName": "Moldova",
     "postalCodeFormat": "MD-####",
     "postalCodeRegex": "^MD-\\d{4}$",
-    "postcodeCount": 1316
+    "postcodeCount": 1079
   },
   {
     "countryCode": "MC",
@@ -1005,7 +1019,7 @@
     "countryName": "Mongolia",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 2605
+    "postcodeCount": 24
   },
   {
     "countryCode": "ME",
@@ -1033,21 +1047,21 @@
     "countryName": "Mozambique",
     "postalCodeFormat": "####",
     "postalCodeRegex": "^(\\d{4})$",
-    "postcodeCount": 161
+    "postcodeCount": 14
   },
   {
     "countryCode": "MM",
     "countryName": "Myanmar",
     "postalCodeFormat": "#######",
     "postalCodeRegex": "^(\\d{7})$",
-    "postcodeCount": 17331
+    "postcodeCount": 2
   },
   {
     "countryCode": "NA",
     "countryName": "Namibia",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 149
+    "postcodeCount": 26
   },
   {
     "countryCode": "NR",
@@ -1061,7 +1075,14 @@
     "countryName": "Nepal",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 917
+    "postcodeCount": 33
+  },
+  {
+    "countryCode": "BQ",
+    "countryName": "Bonaire, Sint Eustatius and Saba",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
+    "postcodeCount": 0
   },
   {
     "countryCode": "NL",
@@ -1087,8 +1108,8 @@
   {
     "countryCode": "NI",
     "countryName": "Nicaragua",
-    "postalCodeFormat": "###-###-#",
-    "postalCodeRegex": "^(\\d{7})$",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^[0-9]{5}$",
     "postcodeCount": 0
   },
   {
@@ -1103,7 +1124,7 @@
     "countryName": "Nigeria",
     "postalCodeFormat": "######",
     "postalCodeRegex": "^(\\d{6})$",
-    "postcodeCount": 3728
+    "postcodeCount": 101
   },
   {
     "countryCode": "NU",
@@ -1120,20 +1141,6 @@
     "postcodeCount": 1
   },
   {
-    "countryCode": "KP",
-    "countryName": "North Korea",
-    "postalCodeFormat": "###-###",
-    "postalCodeRegex": "^(\\d{6})$",
-    "postcodeCount": 0
-  },
-  {
-    "countryCode": "MK",
-    "countryName": "North Macedonia",
-    "postalCodeFormat": "####",
-    "postalCodeRegex": "^(\\d{4})$",
-    "postcodeCount": 0
-  },
-  {
     "countryCode": "MP",
     "countryName": "Northern Mariana Islands",
     "postalCodeFormat": "#####",
@@ -1145,7 +1152,7 @@
     "countryName": "Norway",
     "postalCodeFormat": "####",
     "postalCodeRegex": "^(\\d{4})$",
-    "postcodeCount": 5122
+    "postcodeCount": 5105
   },
   {
     "countryCode": "OM",
@@ -1170,7 +1177,7 @@
   },
   {
     "countryCode": "PS",
-    "countryName": "Palestinian Territory Occupied",
+    "countryName": "Palestine",
     "postalCodeFormat": null,
     "postalCodeRegex": null,
     "postcodeCount": 0
@@ -1178,9 +1185,9 @@
   {
     "countryCode": "PA",
     "countryName": "Panama",
-    "postalCodeFormat": "@####",
-    "postalCodeRegex": "^([A-Z]\\d{4})$",
-    "postcodeCount": 87
+    "postalCodeFormat": "@@@@@-@@@@@|@####|####",
+    "postalCodeRegex": "^(?:[A-Z0-9]{5}-?[A-Z0-9]{5}|[A-Z][0-9]{4}|[0-9]{4})$",
+    "postcodeCount": 0
   },
   {
     "countryCode": "PG",
@@ -1194,7 +1201,7 @@
     "countryName": "Paraguay",
     "postalCodeFormat": "####|######",
     "postalCodeRegex": "^(\\d{4}|\\d{6})$",
-    "postcodeCount": 8644
+    "postcodeCount": 100
   },
   {
     "countryCode": "PE",
@@ -1208,7 +1215,7 @@
     "countryName": "Philippines",
     "postalCodeFormat": "####",
     "postalCodeRegex": "^(\\d{4})$",
-    "postcodeCount": 1391
+    "postcodeCount": 1390
   },
   {
     "countryCode": "PN",
@@ -1222,14 +1229,14 @@
     "countryName": "Poland",
     "postalCodeFormat": "##-###",
     "postalCodeRegex": "^\\d{2}-\\d{3}$",
-    "postcodeCount": 22090
+    "postcodeCount": 19394
   },
   {
     "countryCode": "PT",
     "countryName": "Portugal",
     "postalCodeFormat": "####-###",
     "postalCodeRegex": "^\\d{4}-\\d{3}\\s?[a-zA-Z]{0,25}$",
-    "postcodeCount": 197024
+    "postcodeCount": 195912
   },
   {
     "countryCode": "PR",
@@ -1257,7 +1264,7 @@
     "countryName": "Romania",
     "postalCodeFormat": "######",
     "postalCodeRegex": "^(\\d{6})$",
-    "postcodeCount": 13751
+    "postcodeCount": 13739
   },
   {
     "countryCode": "RU",
@@ -1278,7 +1285,7 @@
     "countryName": "Saint Helena",
     "postalCodeFormat": "STHL 1ZZ|ASCN 1ZZ|TDCU 1ZZ",
     "postalCodeRegex": "^((?:STHL|ASCN|TDCU)\\s?1ZZ)$",
-    "postcodeCount": 3
+    "postcodeCount": 0
   },
   {
     "countryCode": "KN",
@@ -1306,27 +1313,27 @@
     "countryName": "Saint Vincent and the Grenadines",
     "postalCodeFormat": "VC####",
     "postalCodeRegex": "^VC\\d{4}$",
-    "postcodeCount": 4
+    "postcodeCount": 0
   },
   {
     "countryCode": "BL",
     "countryName": "Saint-Barthelemy",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 1
+    "postcodeCount": 0
   },
   {
     "countryCode": "MF",
     "countryName": "Saint-Martin (French part)",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 1
+    "postcodeCount": 0
   },
   {
     "countryCode": "WS",
     "countryName": "Samoa",
-    "postalCodeFormat": "AS 96799",
-    "postalCodeRegex": "AS 96799",
+    "postalCodeFormat": "WS####",
+    "postalCodeRegex": "^WS[0-9]{4}$",
     "postcodeCount": 0
   },
   {
@@ -1362,7 +1369,7 @@
     "countryName": "Serbia",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 1170
+    "postcodeCount": 1101
   },
   {
     "countryCode": "SC",
@@ -1386,25 +1393,18 @@
     "postcodeCount": 0
   },
   {
-    "countryCode": "SX",
-    "countryName": "Sint Maarten (Dutch part)",
-    "postalCodeFormat": null,
-    "postalCodeRegex": null,
-    "postcodeCount": 0
-  },
-  {
     "countryCode": "SK",
     "countryName": "Slovakia",
     "postalCodeFormat": "### ##",
     "postalCodeRegex": "^\\d{3}\\s?\\d{2}$",
-    "postcodeCount": 1312
+    "postcodeCount": 1307
   },
   {
     "countryCode": "SI",
     "countryName": "Slovenia",
     "postalCodeFormat": "####",
     "postalCodeRegex": "^(?:SI)*(\\d{4})$",
-    "postcodeCount": 522
+    "postcodeCount": 517
   },
   {
     "countryCode": "SB",
@@ -1416,16 +1416,16 @@
   {
     "countryCode": "SO",
     "countryName": "Somalia",
-    "postalCodeFormat": "@@ ##### or ####|#####",
-    "postalCodeRegex": "^([A-Z]{2}\\s*\\d{5}|\\d{4,5})$",
-    "postcodeCount": 67
+    "postalCodeFormat": "@@ #####|####|#####",
+    "postalCodeRegex": "^(?:[A-Z]{2} {0,2}[0-9]{5}|[0-9]{4,5})$",
+    "postcodeCount": 1
   },
   {
     "countryCode": "ZA",
     "countryName": "South Africa",
     "postalCodeFormat": "####",
     "postalCodeRegex": "^(\\d{4})$",
-    "postcodeCount": 5685
+    "postcodeCount": 732
   },
   {
     "countryCode": "GS",
@@ -1433,13 +1433,6 @@
     "postalCodeFormat": "SIQQ 1ZZ",
     "postalCodeRegex": "^(SIQQ\\s?1ZZ)$",
     "postcodeCount": 1
-  },
-  {
-    "countryCode": "KR",
-    "countryName": "South Korea",
-    "postalCodeFormat": "#####",
-    "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 0
   },
   {
     "countryCode": "SS",
@@ -1453,14 +1446,14 @@
     "countryName": "Spain",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 8124
+    "postcodeCount": 10851
   },
   {
     "countryCode": "LK",
     "countryName": "Sri Lanka",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 2053
+    "postcodeCount": 1783
   },
   {
     "countryCode": "SD",
@@ -1484,11 +1477,18 @@
     "postcodeCount": 8
   },
   {
+    "countryCode": "SZ",
+    "countryName": "Eswatini",
+    "postalCodeFormat": "@###",
+    "postalCodeRegex": "^([A-Z]\\d{3})$",
+    "postcodeCount": 0
+  },
+  {
     "countryCode": "SE",
     "countryName": "Sweden",
     "postalCodeFormat": "### ##",
     "postalCodeRegex": "^(?:SE)?\\d{3}\\s\\d{2}$",
-    "postcodeCount": 16392
+    "postcodeCount": 16390
   },
   {
     "countryCode": "CH",
@@ -1523,35 +1523,14 @@
     "countryName": "Tanzania",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 3684
+    "postcodeCount": 40
   },
   {
     "countryCode": "TH",
     "countryName": "Thailand",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 1189
-  },
-  {
-    "countryCode": "BS",
-    "countryName": "The Bahamas",
-    "postalCodeFormat": null,
-    "postalCodeRegex": null,
-    "postcodeCount": 0
-  },
-  {
-    "countryCode": "GM",
-    "countryName": "The Gambia",
-    "postalCodeFormat": null,
-    "postalCodeRegex": null,
-    "postcodeCount": 0
-  },
-  {
-    "countryCode": "TL",
-    "countryName": "Timor-Leste",
-    "postalCodeFormat": null,
-    "postalCodeRegex": null,
-    "postcodeCount": 0
+    "postcodeCount": 711
   },
   {
     "countryCode": "TG",
@@ -1579,21 +1558,21 @@
     "countryName": "Trinidad and Tobago",
     "postalCodeFormat": "######",
     "postalCodeRegex": "^(\\d{6})$",
-    "postcodeCount": 26
+    "postcodeCount": 17
   },
   {
     "countryCode": "TN",
     "countryName": "Tunisia",
     "postalCodeFormat": "####",
     "postalCodeRegex": "^(\\d{4})$",
-    "postcodeCount": 4868
+    "postcodeCount": 101
   },
   {
     "countryCode": "TR",
     "countryName": "Turkey",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 2771
+    "postcodeCount": 1830
   },
   {
     "countryCode": "TM",
@@ -1628,13 +1607,13 @@
     "countryName": "Ukraine",
     "postalCodeFormat": "#####",
     "postalCodeRegex": "^(\\d{5})$",
-    "postcodeCount": 15086
+    "postcodeCount": 10664
   },
   {
     "countryCode": "AE",
     "countryName": "United Arab Emirates",
-    "postalCodeFormat": "##### #####",
-    "postalCodeRegex": "^\\d{5}-\\d{5}$",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
     "postcodeCount": 0
   },
   {
@@ -1642,7 +1621,7 @@
     "countryName": "United Kingdom",
     "postalCodeFormat": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
     "postalCodeRegex": "^([Gg][Ii][Rr]\\s?0[Aa]{2})$|^([A-Za-z]{1,2}(?:[0-9][0-9A-Za-z]?(?:\\s?[0-9][A-Za-z]{2})?)?)$",
-    "postcodeCount": 124
+    "postcodeCount": 120
   },
   {
     "countryCode": "US",
@@ -1691,21 +1670,21 @@
     "countryName": "Venezuela",
     "postalCodeFormat": "####",
     "postalCodeRegex": "^(\\d{4})$",
-    "postcodeCount": 1187
+    "postcodeCount": 76
   },
   {
     "countryCode": "VN",
     "countryName": "Vietnam",
-    "postalCodeFormat": "######",
-    "postalCodeRegex": "^(\\d{6})$",
-    "postcodeCount": 63
+    "postalCodeFormat": "#####|######",
+    "postalCodeRegex": "^[0-9]{5,6}$",
+    "postcodeCount": 246
   },
   {
     "countryCode": "VG",
     "countryName": "Virgin Islands (British)",
     "postalCodeFormat": "VG####",
     "postalCodeRegex": "^VG\\d{4}$",
-    "postcodeCount": 7
+    "postcodeCount": 0
   },
   {
     "countryCode": "VI",
@@ -1745,6 +1724,27 @@
   {
     "countryCode": "ZW",
     "countryName": "Zimbabwe",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
+    "postcodeCount": 0
+  },
+  {
+    "countryCode": "XK",
+    "countryName": "Kosovo",
+    "postalCodeFormat": "#####",
+    "postalCodeRegex": "^(\\d{5})$",
+    "postcodeCount": 0
+  },
+  {
+    "countryCode": "CW",
+    "countryName": "Curaçao",
+    "postalCodeFormat": null,
+    "postalCodeRegex": null,
+    "postcodeCount": 0
+  },
+  {
+    "countryCode": "SX",
+    "countryName": "Sint Maarten (Dutch part)",
     "postalCodeFormat": null,
     "postalCodeRegex": null,
     "postcodeCount": 0

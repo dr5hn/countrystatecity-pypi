@@ -9,7 +9,12 @@
     "latitude": "13.52890000",
     "longitude": "144.91820000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "population": 2385,
+    "population_year": null
   },
   {
     "id": 160278,
@@ -21,7 +26,12 @@
     "latitude": "13.57175000",
     "longitude": "144.88058000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "population": 2524,
+    "population_year": null
   },
   {
     "id": 160280,
@@ -33,6 +43,11 @@
     "latitude": "13.53605000",
     "longitude": "144.88855000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm1",
+    "native": null,
+    "timezone": "Pacific/Guam",
+    "population": 20539,
+    "population_year": null
   }
 ]

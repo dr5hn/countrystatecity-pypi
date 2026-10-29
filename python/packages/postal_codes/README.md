@@ -7,7 +7,7 @@
 [![postal-codes](https://static.pepy.tech/personalized-badge/countrystatecity-postal-codes?period=month&units=international_system&left_color=grey&right_color=brightgreen&left_text=postal-codes)](https://pepy.tech/project/countrystatecity-postal-codes)
 [![postal-codes](https://static.pepy.tech/personalized-badge/countrystatecity-postal-codes?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=postal-codes)](https://pepy.tech/project/countrystatecity-postal-codes)
 
-Official Python package for postal/ZIP code data — 844,248 postcode/locality records representing 672,370 distinct codes across 125 countries, plus format metadata for 250 countries and validation regexes for 189. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
+Official Python package for postal/ZIP code data — 725,993 postcode/locality records representing 578,033 distinct codes across 116 countries, plus format metadata for 250 countries and validation regexes for 184. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
 
 Like the [countries](https://pypi.org/project/countrystatecity-countries/) package, postcode data is **lazy-loaded per country** — installing the package doesn't load anything into memory until you ask for a specific country's data.
 
@@ -115,7 +115,7 @@ class Postcode(BaseModel):
 
 ## Coverage
 
-Individual postcode listings are available for 125 countries with source data upstream: 844,248 postcode/locality records representing 672,370 distinct codes, with varying granularity per country. `get_postal_info_by_country()` returns format metadata for all 250 countries and validation regexes for the 189 countries where one is known, even if per-postcode listings aren't available. Check `postcodeCount` to see how many records are available for a given country.
+Individual postcode listings are available for 116 countries with source data upstream: 725,993 postcode/locality records representing 578,033 distinct codes, with varying granularity per country. `get_postal_info_by_country()` returns format metadata for all 250 countries and validation regexes for the 184 countries where one is known, even if per-postcode listings aren't available. Check `postcodeCount` to see how many records are available for a given country.
 
 ## License
 

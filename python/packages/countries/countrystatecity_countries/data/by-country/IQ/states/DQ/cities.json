@@ -9,7 +9,12 @@
     "latitude": "31.40906000",
     "longitude": "46.17270000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2669841",
+    "type": "adm2",
+    "native": "الشطرة",
+    "timezone": "Asia/Baghdad",
+    "population": 82732,
+    "population_year": null
   },
   {
     "id": 134529,
@@ -21,7 +26,12 @@
     "latitude": "30.96972000",
     "longitude": "46.72278000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "ناحية الفهود",
+    "timezone": "Asia/Baghdad",
+    "population": 21551,
+    "population_year": null
   },
   {
     "id": 134528,
@@ -33,6 +43,11 @@
     "latitude": "31.05799000",
     "longitude": "46.25726000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q38811",
+    "type": "adm1",
+    "native": "الناصرية",
+    "timezone": "Asia/Baghdad",
+    "population": 541600,
+    "population_year": null
   }
 ]

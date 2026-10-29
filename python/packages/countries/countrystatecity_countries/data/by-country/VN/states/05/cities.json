@@ -9,7 +9,12 @@
     "latitude": "21.24626000",
     "longitude": "104.43281000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Bắc Yên",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130367,
@@ -21,7 +26,12 @@
     "latitude": "21.83333000",
     "longitude": "104.75000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "Huyện Mộc Châu",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130398,
@@ -33,7 +43,12 @@
     "latitude": "21.21412000",
     "longitude": "104.68993000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "Huyện Phù Yên",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130416,
@@ -45,7 +60,12 @@
     "latitude": "21.77224000",
     "longitude": "103.64920000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "locality",
+    "native": "Huyện Quỳnh Nhai",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 168011,
@@ -57,7 +77,12 @@
     "latitude": "21.19733000",
     "longitude": "104.10595000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Mai Sơn",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 168017,
@@ -69,7 +94,12 @@
     "latitude": "21.51750000",
     "longitude": "104.02701000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Mường La",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 130594,
@@ -81,7 +111,12 @@
     "latitude": "21.32560000",
     "longitude": "103.91882000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q33415",
+    "type": "adm1",
+    "native": "Sơn La",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": 106052,
+    "population_year": null
   },
   {
     "id": 168051,
@@ -93,7 +128,12 @@
     "latitude": "21.05091000",
     "longitude": "103.74987000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Sông Mã",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 168061,
@@ -105,7 +145,12 @@
     "latitude": "21.43849000",
     "longitude": "103.69000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Thuận Châu",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 168116,
@@ -117,6 +162,11 @@
     "latitude": "21.04584000",
     "longitude": "104.30101000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Yên Châu",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "population": null,
+    "population_year": null
   }
 ]

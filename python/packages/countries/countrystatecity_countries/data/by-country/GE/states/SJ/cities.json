@@ -9,7 +9,12 @@
     "latitude": "41.68191000",
     "longitude": "42.69867000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "adm2",
+    "native": "ადიგენი",
+    "timezone": "Asia/Tbilisi",
+    "population": 1015,
+    "population_year": null
   },
   {
     "id": 52037,
@@ -21,7 +26,12 @@
     "latitude": "41.71667000",
     "longitude": "42.73333000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2382197",
+    "type": "municipality",
+    "native": "ადიგენის მუნიციპალიტეტი",
+    "timezone": "Asia/Tbilisi",
+    "population": 16305,
+    "population_year": null
   },
   {
     "id": 52039,
@@ -33,7 +43,12 @@
     "latitude": "41.92945000",
     "longitude": "43.48762000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q31845177",
+    "type": "city",
+    "native": "ახალდაბა",
+    "timezone": "Asia/Tbilisi",
+    "population": 1777,
+    "population_year": null
   },
   {
     "id": 52042,
@@ -45,7 +60,12 @@
     "latitude": "41.40514000",
     "longitude": "43.48629000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q500888",
+    "type": "adm2",
+    "native": "Akhalk'alak'i",
+    "timezone": "Asia/Tbilisi",
+    "population": 7437,
+    "population_year": null
   },
   {
     "id": 52043,
@@ -57,7 +77,12 @@
     "latitude": "41.63901000",
     "longitude": "42.98262000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q212546",
+    "type": "adm1",
+    "native": "ახალციხე",
+    "timezone": "Asia/Tbilisi",
+    "population": 16955,
+    "population_year": null
   },
   {
     "id": 52044,
@@ -69,7 +94,12 @@
     "latitude": "41.63333000",
     "longitude": "43.00000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2513568",
+    "type": "city",
+    "native": "Akhaltsikhis munitsip'alit'i",
+    "timezone": "Asia/Tbilisi",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 52050,
@@ -81,7 +111,12 @@
     "latitude": "41.50000000",
     "longitude": "43.25000000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2305733",
+    "type": "city",
+    "native": "Asp’indzis munitip'i",
+    "timezone": "Asia/Tbilisi",
+    "population": null,
+    "population_year": null
   },
   {
     "id": 52049,
@@ -93,7 +128,12 @@
     "latitude": "41.57389000",
     "longitude": "43.24826000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q2344454",
+    "type": "adm2",
+    "native": "ასპინძა",
+    "timezone": "Asia/Tbilisi",
+    "population": 2575,
+    "population_year": null
   },
   {
     "id": 52052,
@@ -105,7 +145,12 @@
     "latitude": "41.74972000",
     "longitude": "43.53250000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q789104",
+    "type": "city",
+    "native": "ბაკუურიანი",
+    "timezone": "Asia/Tbilisi",
+    "population": 1737,
+    "population_year": null
   },
   {
     "id": 52057,
@@ -117,7 +162,12 @@
     "latitude": "41.85272000",
     "longitude": "43.41284000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q208352",
+    "type": "adm2",
+    "native": "ბორჯომი",
+    "timezone": "Asia/Tbilisi",
+    "population": 11194,
+    "population_year": null
   },
   {
     "id": 52103,
@@ -129,7 +179,12 @@
     "latitude": "41.26458000",
     "longitude": "43.59161000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q10600995",
+    "type": "adm2",
+    "native": "ნინოწმინდა",
+    "timezone": "Asia/Tbilisi",
+    "population": 4242,
+    "population_year": null
   },
   {
     "id": 52131,
@@ -141,7 +196,12 @@
     "latitude": "41.80365000",
     "longitude": "43.48194000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": null,
+    "type": "city",
+    "native": "წაღვერი",
+    "timezone": "Asia/Tbilisi",
+    "population": 627,
+    "population_year": null
   },
   {
     "id": 52142,
@@ -153,6 +213,11 @@
     "latitude": "41.61558000",
     "longitude": "42.87224000",
     "county_id": null,
-    "wikiDataId": null
+    "wikiDataId": "Q783749",
+    "type": "city",
+    "native": "ვალე",
+    "timezone": "Asia/Tbilisi",
+    "population": 5148,
+    "population_year": null
   }
 ]
