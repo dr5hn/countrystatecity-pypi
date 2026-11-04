@@ -21,6 +21,9 @@ jobs:
     if: github.repository == 'dr5hn/countrystatecity-pypi' && github.ref == 'refs/heads/main'
     name: Update Countries/States/Cities Data
     runs-on: ubuntu-latest
+    outputs:
+      pr-head: ${{ steps.data-pr.outputs.pull-request-head-sha }}
+      pr-number: ${{ steps.data-pr.outputs.pull-request-number }}
     permissions:
       contents: write
       pull-requests: write
@@ -173,3 +176,23 @@ jobs:
         if: steps.check-changes.outputs.changed == 'false'
         run: |
           echo "✅ Data is already up to date. No PR created."
+
+  validate-pr:
+    # GITHUB_TOKEN PRs do not trigger pull_request workflows. Dispatch read-only
+    # CI at the bot branch so required checks attach to its actual commit.
+    needs: update-data
+    if: needs.update-data.outputs.pr-number != ''
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
+    steps:
+      - name: Validate the exact generated head and request CI
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXPECTED_HEAD: ${{ needs.update-data.outputs.pr-head }}
+        run: |
+          ACTUAL_HEAD=$(gh api "repos/$GITHUB_REPOSITORY/git/ref/heads/automated-data-update" --jq .object.sha)
+          [ "$ACTUAL_HEAD" = "$EXPECTED_HEAD" ] || exit 1
+          gh workflow run python-ci.yml --repo "$GITHUB_REPOSITORY" --ref automated-data-update
+          gh workflow run dependency-review.yml --repo "$GITHUB_REPOSITORY" --ref automated-data-update

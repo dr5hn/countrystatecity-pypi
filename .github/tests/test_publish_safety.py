@@ -88,7 +88,10 @@ class PublishSafetyTests(unittest.TestCase):
         workflow = (WORKFLOWS / "update-data.yml").read_text()
         self.assertIn("data_version.py bump", workflow)
         self.assertNotIn("gh pr merge", workflow)
-        self.assertNotIn("actions: write", workflow)
+        updater = workflow.split("\n  validate-pr:\n")[0]
+        self.assertNotIn("actions: write", updater)
+        self.assertIn("gh workflow run python-ci.yml", workflow)
+        self.assertIn('"$ACTUAL_HEAD" = "$EXPECTED_HEAD"', workflow)
 
     def test_required_gate_cannot_skip_a_matrix_failure(self):
         """One stable protection check covers every package and Python version."""
