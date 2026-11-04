@@ -20,7 +20,21 @@ pinned export. Every offline package contains `data/release.json`, which records
 the source tag, asset checksums and complete snapshot counts. Keep `NOTICE-*.txt`
 when redistributing the data.
 
-## 1 November follow-up
+## November refresh
+
+Version 3.0.1 uses `v5.2.0-export.1`, published on 3 November, at source commit
+`9b255c45fc53e02a8dff547d88558d4fe91784d5`. It contains 250 countries,
+5,327 states, 156,169 cities and 728,556 postcode/locality records across
+117 countries. Compared with 3.0.0, there are 3,791 added city IDs, no retired
+city IDs and 31,466 existing cities with corrected supported fields. Postcodes
+increase by 2,563 records; distinguish records from distinct country/code pairs
+(580,593). The API client remains at 0.2.1. County and hierarchy coverage is
+not added by this data-only refresh.
+
+Publication now uses isolated builds and PyPI Trusted Publishing with
+attestations, subject to owner approval in the `pypi` environment.
+
+## Original 1 November checks
 
 The regular Sunday update runs at 00:00 UTC (05:30 India time). Two additional
 date-limited checks run at 06:00 and 12:00 UTC (11:30 and 17:30 India time) on

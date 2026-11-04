@@ -49,13 +49,13 @@ and anything that must be reproducible.
 
 | Package | PyPI | Description |
 |---|---|---|
-| **[countrystatecity-countries](./python/packages/countries/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/) | 250 countries, 5,308 states, and 171,938 cities |
-| **[countrystatecity-timezones](./python/packages/timezones/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-timezones)](https://pypi.org/project/countrystatecity-timezones/) | 432 IANA timezones and time conversion utilities |
+| **[countrystatecity-countries](./python/packages/countries/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-countries)](https://pypi.org/project/countrystatecity-countries/) | 250 countries, 5,327 states, and 156,169 cities |
+| **[countrystatecity-timezones](./python/packages/timezones/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-timezones)](https://pypi.org/project/countrystatecity-timezones/) | 432 country/timezone associations and time conversion utilities |
 | **[countrystatecity-currencies](./python/packages/currencies/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-currencies)](https://pypi.org/project/countrystatecity-currencies/) | 249 country/currency associations |
 | **[countrystatecity-translations](./python/packages/translations/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-translations)](https://pypi.org/project/countrystatecity-translations/) | 4,724 country-name translations in 19 languages |
 | **[countrystatecity-phonecodes](./python/packages/phonecodes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-phonecodes)](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250 countries |
 | **[countrystatecity-regions](./python/packages/regions/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-regions)](https://pypi.org/project/countrystatecity-regions/) | Region and subregion associations for 250 countries |
-| **[countrystatecity-postal-codes](./python/packages/postal_codes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-postal-codes)](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 116 countries |
+| **[countrystatecity-postal-codes](./python/packages/postal_codes/)** | [![PyPI](https://img.shields.io/pypi/v/countrystatecity-postal-codes)](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 117 countries |
 
 > **Note:** Install `countrystatecity-api`, then import `countrystatecity`. The
 > offline data packages carry their own suffixes (`-countries`, `-timezones`,
@@ -333,14 +333,14 @@ postcodes = get_postcodes_of_country("AD")
 - ✅ **Type-safe** with Pydantic models and mypy strict mode
 - ✅ **Lazy loading** for minimal memory footprint
 - ✅ **250 countries** with metadata
-- ✅ **5,308 states/provinces**
-- ✅ **171,938 cities**
-- ✅ **432 timezones** with GMT offsets and time conversion
+- ✅ **5,327 states/provinces**
+- ✅ **156,169 cities**
+- ✅ **432 country/timezone associations** with GMT offsets and time conversion
 - ✅ **249 country/currency associations**
 - ✅ **4,724 translations** in 19 languages
 - ✅ **Phone/dialing codes** for 250 countries
 - ✅ **Regions and subregions** for 250 countries
-- ✅ **725,993 postal/ZIP-code records** across 116 countries, with validation regexes for 184
+- ✅ **728,556 postal/ZIP-code records** across 117 countries, with validation regexes for 184
 - ✅ **Zero external dependencies** (except Pydantic)
 - ✅ **Python 3.8–3.15** CI coverage
 - ✅ **Full test coverage** with pytest

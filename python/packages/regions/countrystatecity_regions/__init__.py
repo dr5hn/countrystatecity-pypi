@@ -12,7 +12,7 @@ Example:
     >>> asian_countries = get_countries_by_region("Asia")
 """
 
-__version__ = "3.0.0"
+__version__ = "3.0.1"
 
 from .api import (
     get_all_region_names,

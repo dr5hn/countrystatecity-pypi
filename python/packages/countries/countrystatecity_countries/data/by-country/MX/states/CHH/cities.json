@@ -46,7 +46,7 @@
     "wikiDataId": "Q2990979",
     "type": "municipality",
     "native": "Ahumada",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 14635,
     "population_year": 2020
   },
@@ -63,7 +63,7 @@
     "wikiDataId": "Q2997114",
     "type": "municipality",
     "native": "Aldama",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 26047,
     "population_year": 2020
   },
@@ -80,7 +80,7 @@
     "wikiDataId": "Q2606327",
     "type": "municipality",
     "native": "Allende",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 8487,
     "population_year": 2020
   },
@@ -131,7 +131,7 @@
     "wikiDataId": "Q2991354",
     "type": "municipality",
     "native": "Aquiles Serdán",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 24344,
     "population_year": 2020
   },
@@ -146,9 +146,9 @@
     "longitude": "-107.73149000",
     "county_id": null,
     "wikiDataId": "Q2990967",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Ascensión",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Ciudad_Juarez",
     "population": 13456,
     "population_year": null
   },
@@ -187,6 +187,23 @@
     "population_year": 2020
   },
   {
+    "id": 168917,
+    "name": "Bachíniva",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.85000000",
+    "longitude": "-107.28333333",
+    "county_id": null,
+    "wikiDataId": "Q4838929",
+    "type": "municipality",
+    "native": "Bachíniva",
+    "timezone": "America/Chihuahua",
+    "population": 5807,
+    "population_year": 2020
+  },
+  {
     "id": 68497,
     "name": "Bahuichivo",
     "state_id": 3447,
@@ -214,7 +231,7 @@
     "longitude": "-106.34921000",
     "county_id": null,
     "wikiDataId": "Q2606280",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Balleza",
     "timezone": "America/Chihuahua",
     "population": 0,
@@ -272,6 +289,23 @@
     "population_year": 2020
   },
   {
+    "id": 168918,
+    "name": "Batopilas de Manuel Gómez Morín",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.93333333",
+    "longitude": "-107.68333333",
+    "county_id": null,
+    "wikiDataId": "Q2466612",
+    "type": "municipality",
+    "native": "Batopilas de Manuel Gómez Morín",
+    "timezone": "America/Chihuahua",
+    "population": 11270,
+    "population_year": 2020
+  },
+  {
     "id": 68598,
     "name": "Benito Juárez",
     "state_id": 3447,
@@ -306,6 +340,23 @@
     "population_year": 2020
   },
   {
+    "id": 168919,
+    "name": "Bocoyna",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.81666667",
+    "longitude": "-107.60000000",
+    "county_id": null,
+    "wikiDataId": "Q2643269",
+    "type": "municipality",
+    "native": "Bocoyna",
+    "timezone": "America/Chihuahua",
+    "population": 23351,
+    "population_year": 2020
+  },
+  {
     "id": 68638,
     "name": "Boquilla de Babisas (La Boquilla de Conchos)",
     "state_id": 3447,
@@ -335,7 +386,7 @@
     "wikiDataId": "Q2656434",
     "type": "municipality",
     "native": "Buenaventura",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 25146,
     "population_year": 2020
   },
@@ -352,7 +403,7 @@
     "wikiDataId": "Q2652276",
     "type": "municipality",
     "native": "Camarico",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 49499,
     "population_year": 2020
   },
@@ -369,7 +420,7 @@
     "wikiDataId": "Q15043366",
     "type": "municipality",
     "native": "Carich",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 8113,
     "population_year": 2020
   },
@@ -408,6 +459,23 @@
     "population_year": 2020
   },
   {
+    "id": 168920,
+    "name": "Casas Grandes",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "30.21666667",
+    "longitude": "-108.26666667",
+    "county_id": null,
+    "wikiDataId": "Q2652268",
+    "type": "municipality",
+    "native": "Casas Grandes",
+    "timezone": "America/Chihuahua",
+    "population": 11815,
+    "population_year": 2020
+  },
+  {
     "id": 68907,
     "name": "Cerocahui",
     "state_id": 3447,
@@ -437,8 +505,25 @@
     "wikiDataId": "Q2475171",
     "type": "municipality",
     "native": "Chihuahua",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 937674,
+    "population_year": 2020
+  },
+  {
+    "id": 168925,
+    "name": "Chínipas",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.40000000",
+    "longitude": "-108.50000000",
+    "county_id": null,
+    "wikiDataId": "Q2466522",
+    "type": "municipality",
+    "native": "Chínipas",
+    "timezone": "America/Chihuahua",
+    "population": 6222,
     "population_year": 2020
   },
   {
@@ -590,7 +675,7 @@
     "wikiDataId": "Q1436709",
     "type": "locality",
     "native": "Conchos",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 1670,
     "population_year": null
   },
@@ -612,6 +697,23 @@
     "population_year": 2020
   },
   {
+    "id": 168921,
+    "name": "Coronado",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.65000000",
+    "longitude": "-105.06666667",
+    "county_id": null,
+    "wikiDataId": "Q3317684",
+    "type": "municipality",
+    "native": "Coronado",
+    "timezone": "America/Chihuahua",
+    "population": 2034,
+    "population_year": 2020
+  },
+  {
     "id": 69516,
     "name": "Coyame del Sotol",
     "state_id": 3447,
@@ -624,7 +726,7 @@
     "wikiDataId": "Q3308551",
     "type": "municipality",
     "native": "Coyame del Sotol",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Ojinaga",
     "population": 1230,
     "population_year": 2020
   },
@@ -675,9 +777,43 @@
     "wikiDataId": "Q147955",
     "type": "locality",
     "native": "Cuauhtémoc",
-    "timezone": "America/Mexico_City",
-    "population": 600,
-    "population_year": null
+    "timezone": "America/Chihuahua",
+    "population": 135586,
+    "population_year": 2020
+  },
+  {
+    "id": 168923,
+    "name": "Cuauhtémoc",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.76666667",
+    "longitude": "-106.93333333",
+    "county_id": null,
+    "wikiDataId": "Q2656480",
+    "type": "municipality",
+    "native": "Cuauhtémoc",
+    "timezone": "America/Chihuahua",
+    "population": 180638,
+    "population_year": 2020
+  },
+  {
+    "id": 168924,
+    "name": "Cusihuiriachi",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.20000000",
+    "longitude": "-106.90000000",
+    "county_id": null,
+    "wikiDataId": "Q2652312",
+    "type": "municipality",
+    "native": "Cusihuiriachi",
+    "timezone": "America/Chihuahua",
+    "population": 5099,
+    "population_year": 2020
   },
   {
     "id": 69648,
@@ -709,7 +845,7 @@
     "wikiDataId": "Q2652248",
     "type": "municipality",
     "native": "Delicias",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 150506,
     "population_year": 2020
   },
@@ -726,7 +862,7 @@
     "wikiDataId": "Q2606300",
     "type": "municipality",
     "native": "Dr. Dr. Belisario Domínguez",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 2456,
     "population_year": 2020
   },
@@ -760,7 +896,7 @@
     "wikiDataId": "Q5822283",
     "type": "locality",
     "native": "Ejido El Largo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 2959,
     "population_year": 2020
   },
@@ -862,7 +998,7 @@
     "wikiDataId": "Q2990973",
     "type": "municipality",
     "native": "El Tule",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 1448,
     "population_year": 2020
   },
@@ -913,8 +1049,25 @@
     "wikiDataId": "Q2990972",
     "type": "municipality",
     "native": "Galeana",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 6656,
+    "population_year": 2020
+  },
+  {
+    "id": 168927,
+    "name": "Gómez Farías",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "29.35000000",
+    "longitude": "-107.73333333",
+    "county_id": null,
+    "wikiDataId": "Q2450427",
+    "type": "municipality",
+    "native": "Gómez Farías",
+    "timezone": "America/Chihuahua",
+    "population": 7023,
     "population_year": 2020
   },
   {
@@ -930,7 +1083,7 @@
     "wikiDataId": "Q2606306",
     "type": "municipality",
     "native": "Gran Morelos",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 2448,
     "population_year": 2020
   },
@@ -945,9 +1098,9 @@
     "longitude": "-107.29404000",
     "county_id": null,
     "wikiDataId": "Q2656458",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Guachochi",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 14513,
     "population_year": null
   },
@@ -964,7 +1117,7 @@
     "wikiDataId": "Q2997100",
     "type": "municipality",
     "native": "Guadalupo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Ciudad_Juarez",
     "population": 4237,
     "population_year": 2020
   },
@@ -1003,6 +1156,23 @@
     "population_year": 2020
   },
   {
+    "id": 168928,
+    "name": "Guadalupe y Calvo",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.11666667",
+    "longitude": "-107.11666667",
+    "county_id": null,
+    "wikiDataId": "Q2997096",
+    "type": "municipality",
+    "native": "Guadalupe y Calvo",
+    "timezone": "America/Chihuahua",
+    "population": 50514,
+    "population_year": 2020
+  },
+  {
     "id": 70628,
     "name": "Guazapares",
     "state_id": 3447,
@@ -1015,9 +1185,9 @@
     "wikiDataId": "Q2475135",
     "type": "municipality",
     "native": "Guazpares",
-    "timezone": "America/Mexico_City",
-    "population": 7429,
-    "population_year": null
+    "timezone": "America/Chihuahua",
+    "population": 8196,
+    "population_year": 2020
   },
   {
     "id": 70631,
@@ -1032,7 +1202,7 @@
     "wikiDataId": "Q2478194",
     "type": "municipality",
     "native": "Guerrillero",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 35473,
     "population_year": 2020
   },
@@ -1047,9 +1217,9 @@
     "longitude": "-105.70722000",
     "county_id": null,
     "wikiDataId": "Q2991071",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Hidalgo del Parral",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 104836,
     "population_year": null
   },
@@ -1085,6 +1255,40 @@
     "native": "Huejotitán",
     "timezone": "America/Chihuahua",
     "population": 273,
+    "population_year": 2020
+  },
+  {
+    "id": 168929,
+    "name": "Huejotitán",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.06666667",
+    "longitude": "-106.06666667",
+    "county_id": null,
+    "wikiDataId": "Q2652323",
+    "type": "municipality",
+    "native": "Huejotitán",
+    "timezone": "America/Chihuahua",
+    "population": 824,
+    "population_year": 2020
+  },
+  {
+    "id": 168930,
+    "name": "Ignacio Zaragoza",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "29.73333333",
+    "longitude": "-107.70000000",
+    "county_id": null,
+    "wikiDataId": "Q2991362",
+    "type": "municipality",
+    "native": "Ignacio Zaragoza",
+    "timezone": "America/Chihuahua",
+    "population": 5196,
     "population_year": 2020
   },
   {
@@ -1135,8 +1339,42 @@
     "type": "locality",
     "native": "Janos",
     "timezone": "America/Ciudad_Juarez",
-    "population": 2738,
-    "population_year": null
+    "population": 3194,
+    "population_year": 2020
+  },
+  {
+    "id": 168931,
+    "name": "Janos",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "30.75000000",
+    "longitude": "-108.45000000",
+    "county_id": null,
+    "wikiDataId": "Q1998799",
+    "type": "municipality",
+    "native": "Janos",
+    "timezone": "America/Ciudad_Juarez",
+    "population": 11005,
+    "population_year": 2020
+  },
+  {
+    "id": 168932,
+    "name": "Jiménez",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.00000000",
+    "longitude": "-104.40000000",
+    "county_id": null,
+    "wikiDataId": "Q2652254",
+    "type": "municipality",
+    "native": "Jiménez",
+    "timezone": "America/Chihuahua",
+    "population": 40859,
+    "population_year": 2020
   },
   {
     "id": 71049,
@@ -1151,7 +1389,7 @@
     "wikiDataId": "Q27784548",
     "type": "locality",
     "native": "Jiménez",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 1162,
     "population_year": null
   },
@@ -1275,6 +1513,23 @@
     "population_year": 2020
   },
   {
+    "id": 168922,
+    "name": "La Cruz",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.90000000",
+    "longitude": "-105.05000000",
+    "county_id": null,
+    "wikiDataId": "Q2977866",
+    "type": "municipality",
+    "native": "La Cruz",
+    "timezone": "America/Chihuahua",
+    "population": 3704,
+    "population_year": 2020
+  },
+  {
     "id": 71336,
     "name": "La Junta",
     "state_id": 3447,
@@ -1377,6 +1632,40 @@
     "population_year": 2020
   },
   {
+    "id": 168933,
+    "name": "López",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.93333333",
+    "longitude": "-105.00000000",
+    "county_id": null,
+    "wikiDataId": "Q2606341",
+    "type": "municipality",
+    "native": "López",
+    "timezone": "America/Chihuahua",
+    "population": 4122,
+    "population_year": 2020
+  },
+  {
+    "id": 168934,
+    "name": "Madera",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "29.35000000",
+    "longitude": "-108.26666667",
+    "county_id": null,
+    "wikiDataId": "Q2502727",
+    "type": "municipality",
+    "native": "Madera",
+    "timezone": "America/Chihuahua",
+    "population": 25144,
+    "population_year": 2020
+  },
+  {
     "id": 71917,
     "name": "Madera",
     "state_id": 3447,
@@ -1389,7 +1678,7 @@
     "wikiDataId": "Q2447269",
     "type": "locality",
     "native": "Madera",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 14755,
     "population_year": 2020
   },
@@ -1406,9 +1695,9 @@
     "wikiDataId": "Q2656449",
     "type": "municipality",
     "native": "Magonichi",
-    "timezone": "America/Mexico_City",
-    "population": 1593,
-    "population_year": null
+    "timezone": "America/Chihuahua",
+    "population": 1302,
+    "population_year": 2020
   },
   {
     "id": 71958,
@@ -1423,7 +1712,7 @@
     "wikiDataId": "Q2652280",
     "type": "municipality",
     "native": "Manuel Benavides",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Ojinaga",
     "population": 1178,
     "population_year": 2020
   },
@@ -1441,8 +1730,8 @@
     "type": "locality",
     "native": "Manuel Ojinaga",
     "timezone": "America/Ojinaga",
-    "population": 22744,
-    "population_year": null
+    "population": 22066,
+    "population_year": 2020
   },
   {
     "id": 71990,
@@ -1479,6 +1768,40 @@
     "population_year": 2020
   },
   {
+    "id": 168935,
+    "name": "Matachí",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.81666667",
+    "longitude": "-107.70000000",
+    "county_id": null,
+    "wikiDataId": "Q2990964",
+    "type": "municipality",
+    "native": "Matachí",
+    "timezone": "America/Chihuahua",
+    "population": 2742,
+    "population_year": 2020
+  },
+  {
+    "id": 168936,
+    "name": "Matamoros",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.71666667",
+    "longitude": "-105.55000000",
+    "county_id": null,
+    "wikiDataId": "Q2652261",
+    "type": "municipality",
+    "native": "Matamoros",
+    "timezone": "America/Chihuahua",
+    "population": 4314,
+    "population_year": 2020
+  },
+  {
     "id": 72017,
     "name": "Matamoros",
     "state_id": 3447,
@@ -1491,7 +1814,7 @@
     "wikiDataId": "Q2000111",
     "type": "locality",
     "native": "Matamoros",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 2694,
     "population_year": 2020
   },
@@ -1510,6 +1833,23 @@
     "native": "Ocampo",
     "timezone": "America/Chihuahua",
     "population": 432,
+    "population_year": 2020
+  },
+  {
+    "id": 168937,
+    "name": "Meoqui",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.35000000",
+    "longitude": "-105.48333333",
+    "county_id": null,
+    "wikiDataId": "Q2991345",
+    "type": "municipality",
+    "native": "Meoqui",
+    "timezone": "America/Chihuahua",
+    "population": 44853,
     "population_year": 2020
   },
   {
@@ -1615,6 +1955,40 @@
     "population_year": 2020
   },
   {
+    "id": 168938,
+    "name": "Morelos",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.56666667",
+    "longitude": "-107.73333333",
+    "county_id": null,
+    "wikiDataId": "Q2466550",
+    "type": "municipality",
+    "native": "Morelos",
+    "timezone": "America/Chihuahua",
+    "population": 7266,
+    "population_year": 2020
+  },
+  {
+    "id": 168939,
+    "name": "Moris",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.16666667",
+    "longitude": "-108.73333333",
+    "county_id": null,
+    "wikiDataId": "Q2656533",
+    "type": "municipality",
+    "native": "Moris",
+    "timezone": "America/Chihuahua",
+    "population": 4447,
+    "population_year": 2020
+  },
+  {
     "id": 72236,
     "name": "Moris",
     "state_id": 3447,
@@ -1644,7 +2018,7 @@
     "wikiDataId": "Q720980",
     "type": "locality",
     "native": "NAIC",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 4093,
     "population_year": 2020
   },
@@ -1663,6 +2037,23 @@
     "native": "Namiquipa",
     "timezone": "America/Chihuahua",
     "population": 1723,
+    "population_year": 2020
+  },
+  {
+    "id": 168940,
+    "name": "Namiquipa",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "29.25000000",
+    "longitude": "-107.08333333",
+    "county_id": null,
+    "wikiDataId": "Q2652307",
+    "type": "municipality",
+    "native": "Namiquipa",
+    "timezone": "America/Chihuahua",
+    "population": 22712,
     "population_year": 2020
   },
   {
@@ -1710,7 +2101,7 @@
     "longitude": "-106.73285000",
     "county_id": null,
     "wikiDataId": "Q2997108",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Noveno",
     "timezone": "America/Chihuahua",
     "population": 1272,
@@ -1731,6 +2122,40 @@
     "native": "Nuevo Casas Grandes",
     "timezone": "America/Chihuahua",
     "population": 62038,
+    "population_year": 2020
+  },
+  {
+    "id": 168941,
+    "name": "Nuevo Casas Grandes",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "30.50000000",
+    "longitude": "-107.70000000",
+    "county_id": null,
+    "wikiDataId": "Q2652317",
+    "type": "municipality",
+    "native": "Nuevo Casas Grandes",
+    "timezone": "America/Chihuahua",
+    "population": 65753,
+    "population_year": 2020
+  },
+  {
+    "id": 168942,
+    "name": "Ocampo",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.15000000",
+    "longitude": "-108.16666667",
+    "county_id": null,
+    "wikiDataId": "Q15263345",
+    "type": "municipality",
+    "native": "Ocampo",
+    "timezone": "America/Chihuahua",
+    "population": 8127,
     "population_year": 2020
   },
   {
@@ -1763,7 +2188,7 @@
     "wikiDataId": "Q2913712",
     "type": "city",
     "native": "Ojinaga",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Ojinaga",
     "population": 22744,
     "population_year": null
   },
@@ -1870,6 +2295,23 @@
     "population_year": 2020
   },
   {
+    "id": 168943,
+    "name": "Praxedis G. Guerrero",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "31.25000000",
+    "longitude": "-105.91666667",
+    "county_id": null,
+    "wikiDataId": "Q961853",
+    "type": "municipality",
+    "native": "Praxedis G. Guerrero",
+    "timezone": "America/Ciudad_Juarez",
+    "population": 5111,
+    "population_year": 2020
+  },
+  {
     "id": 72886,
     "name": "Praxédis Guerrero",
     "state_id": 3447,
@@ -1933,7 +2375,7 @@
     "wikiDataId": "Q2991372",
     "type": "municipality",
     "native": "Riva Palacio",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 7695,
     "population_year": 2020
   },
@@ -1952,6 +2394,23 @@
     "native": "Rodrígo M. Quevedo",
     "timezone": "America/Chihuahua",
     "population": 1209,
+    "population_year": 2020
+  },
+  {
+    "id": 168944,
+    "name": "Rosales",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.23333333",
+    "longitude": "-105.76666667",
+    "county_id": null,
+    "wikiDataId": "Q2652329",
+    "type": "municipality",
+    "native": "Rosales",
+    "timezone": "America/Chihuahua",
+    "population": 16776,
     "population_year": 2020
   },
   {
@@ -2035,7 +2494,7 @@
     "wikiDataId": "Q1437107",
     "type": "locality",
     "native": "San Andrés",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 702,
     "population_year": 2020
   },
@@ -2052,7 +2511,7 @@
     "wikiDataId": "Q584751",
     "type": "locality",
     "native": "San Buenaventura",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 8253,
     "population_year": 2020
   },
@@ -2069,7 +2528,7 @@
     "wikiDataId": "Q1953046",
     "type": "locality",
     "native": "San Carlos",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Ojinaga",
     "population": 2264,
     "population_year": null
   },
@@ -2091,6 +2550,23 @@
     "population_year": 2020
   },
   {
+    "id": 168945,
+    "name": "San Francisco de Borja",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.88333333",
+    "longitude": "-106.75000000",
+    "county_id": null,
+    "wikiDataId": "Q2466537",
+    "type": "municipality",
+    "native": "San Francisco de Borja",
+    "timezone": "America/Chihuahua",
+    "population": 2197,
+    "population_year": 2020
+  },
+  {
     "id": 73610,
     "name": "San Francisco de Conchos",
     "state_id": 3447,
@@ -2101,9 +2577,9 @@
     "longitude": "-105.37779000",
     "county_id": null,
     "wikiDataId": "Q2466659",
-    "type": "adm2",
+    "type": "municipality",
     "native": "San Francisco de Conchos",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 644,
     "population_year": null
   },
@@ -2135,9 +2611,9 @@
     "longitude": "-105.90594000",
     "county_id": null,
     "wikiDataId": "Q2606328",
-    "type": "adm2",
+    "type": "municipality",
     "native": "San Francisco del Oro",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 4249,
     "population_year": null
   },
@@ -2227,6 +2703,23 @@
     "population_year": 2020
   },
   {
+    "id": 168946,
+    "name": "Santa Bárbara",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.80000000",
+    "longitude": "-105.78333333",
+    "county_id": null,
+    "wikiDataId": "Q2652300",
+    "type": "municipality",
+    "native": "Santa Bárbara",
+    "timezone": "America/Chihuahua",
+    "population": 11582,
+    "population_year": 2020
+  },
+  {
     "id": 73159,
     "name": "Santa Cruz de Rosales",
     "state_id": 3447,
@@ -2256,7 +2749,7 @@
     "wikiDataId": "Q1999195",
     "type": "locality",
     "native": "Santa Eulalia",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 20042,
     "population_year": 2020
   },
@@ -2273,8 +2766,25 @@
     "wikiDataId": "Q7419623",
     "type": "locality",
     "native": "Santa Isabel",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 1723,
+    "population_year": 2020
+  },
+  {
+    "id": 168926,
+    "name": "Santa Isabel",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.30000000",
+    "longitude": "-106.36666667",
+    "county_id": null,
+    "wikiDataId": "Q2838480",
+    "type": "municipality",
+    "native": "Santa Isabel",
+    "timezone": "America/Chihuahua",
+    "population": 3791,
     "population_year": 2020
   },
   {
@@ -2290,9 +2800,43 @@
     "wikiDataId": "Q1997768",
     "type": "locality",
     "native": "Santiago de Coyame",
-    "timezone": "America/Mexico_City",
-    "population": 241,
-    "population_year": null
+    "timezone": "America/Ojinaga",
+    "population": 682,
+    "population_year": 2020
+  },
+  {
+    "id": 168947,
+    "name": "Satevó",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.76666667",
+    "longitude": "-106.18333333",
+    "county_id": null,
+    "wikiDataId": "Q10818656",
+    "type": "municipality",
+    "native": "Satevó",
+    "timezone": "America/Chihuahua",
+    "population": 3414,
+    "population_year": 2020
+  },
+  {
+    "id": 168948,
+    "name": "Saucillo",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.00000000",
+    "longitude": "-105.33333333",
+    "county_id": null,
+    "wikiDataId": "Q2450372",
+    "type": "municipality",
+    "native": "Saucillo",
+    "timezone": "America/Chihuahua",
+    "population": 29862,
+    "population_year": 2020
   },
   {
     "id": 75044,
@@ -2307,7 +2851,7 @@
     "wikiDataId": "Q2651188",
     "type": "locality",
     "native": "Salucillo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 10805,
     "population_year": 2020
   },
@@ -2363,6 +2907,23 @@
     "population_year": 2020
   },
   {
+    "id": 168949,
+    "name": "Temósachic",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "28.78333333",
+    "longitude": "-108.10000000",
+    "county_id": null,
+    "wikiDataId": "Q2652333",
+    "type": "municipality",
+    "native": "Temósachic",
+    "timezone": "America/Chihuahua",
+    "population": 5320,
+    "population_year": 2020
+  },
+  {
     "id": 75730,
     "name": "Tomochic",
     "state_id": 3447,
@@ -2414,6 +2975,23 @@
     "population_year": 2020
   },
   {
+    "id": 168950,
+    "name": "Urique",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.21666667",
+    "longitude": "-108.00000000",
+    "county_id": null,
+    "wikiDataId": "Q2489896",
+    "type": "municipality",
+    "native": "Urique",
+    "timezone": "America/Chihuahua",
+    "population": 17043,
+    "population_year": 2020
+  },
+  {
     "id": 75897,
     "name": "Uruachi",
     "state_id": 3447,
@@ -2426,7 +3004,7 @@
     "wikiDataId": "Q3317714",
     "type": "municipality",
     "native": "Uruachi",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 6512,
     "population_year": 2020
   },
@@ -2460,7 +3038,7 @@
     "wikiDataId": "Q20216463",
     "type": "locality",
     "native": "Valentín Gómez Farías",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Chihuahua",
     "population": 5330,
     "population_year": null
   },
@@ -2496,6 +3074,23 @@
     "native": "Valle de Zaragoza",
     "timezone": "America/Chihuahua",
     "population": 2417,
+    "population_year": 2020
+  },
+  {
+    "id": 168951,
+    "name": "Valle de Zaragoza",
+    "state_id": 3447,
+    "state_code": "CHH",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.46666667",
+    "longitude": "-105.81666667",
+    "county_id": null,
+    "wikiDataId": "Q2466150",
+    "type": "municipality",
+    "native": "Valle de Zaragoza",
+    "timezone": "America/Chihuahua",
+    "population": 4775,
     "population_year": 2020
   },
   {

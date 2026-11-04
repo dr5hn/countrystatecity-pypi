@@ -48,7 +48,7 @@
     "native": "Cabo San Lucas",
     "timezone": "America/Mazatlan",
     "population": 202694,
-    "population_year": null
+    "population_year": 2020
   },
   {
     "id": 68967,
@@ -133,7 +133,7 @@
     "native": "Comondú",
     "timezone": "America/Mazatlan",
     "population": 73021,
-    "population_year": null
+    "population_year": 2020
   },
   {
     "id": 69893,
@@ -149,8 +149,8 @@
     "type": "locality",
     "native": "El Centenario",
     "timezone": "America/Mazatlan",
-    "population": 4696,
-    "population_year": null
+    "population": 6221,
+    "population_year": 2020
   },
   {
     "id": 70100,
@@ -166,8 +166,8 @@
     "type": "locality",
     "native": "El Pescadero",
     "timezone": "America/Mazatlan",
-    "population": 2338,
-    "population_year": null
+    "population": 4245,
+    "population_year": 2020
   },
   {
     "id": 70206,
@@ -199,7 +199,7 @@
     "wikiDataId": "Q957163",
     "type": "locality",
     "native": "Guerrero Negro",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Mazatlan",
     "population": 13596,
     "population_year": 2020
   },
@@ -217,8 +217,25 @@
     "type": "locality",
     "native": "La Paz",
     "timezone": "America/Mazatlan",
-    "population": 265,
-    "population_year": null
+    "population": 250141,
+    "population_year": 2020
+  },
+  {
+    "id": 168777,
+    "name": "La Paz",
+    "state_id": 3460,
+    "state_code": "BCS",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.11666667",
+    "longitude": "-110.71666667",
+    "county_id": null,
+    "wikiDataId": "Q1861497",
+    "type": "municipality",
+    "native": "La Paz",
+    "timezone": "America/Mazatlan",
+    "population": 292241,
+    "population_year": 2020
   },
   {
     "id": 71453,
@@ -323,6 +340,23 @@
     "population_year": 2020
   },
   {
+    "id": 168778,
+    "name": "Loreto",
+    "state_id": 3460,
+    "state_code": "BCS",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.88333333",
+    "longitude": "-111.41666667",
+    "county_id": null,
+    "wikiDataId": "Q1861506",
+    "type": "municipality",
+    "native": "Loreto",
+    "timezone": "America/Mazatlan",
+    "population": 18052,
+    "population_year": 2020
+  },
+  {
     "id": 71777,
     "name": "Los Barriles",
     "state_id": 3460,
@@ -354,7 +388,7 @@
     "native": "Los Cabos",
     "timezone": "America/Mazatlan",
     "population": 351111,
-    "population_year": null
+    "population_year": 2020
   },
   {
     "id": 72073,
@@ -370,8 +404,8 @@
     "type": "locality",
     "native": "Melitón Albáñez Domínguez",
     "timezone": "America/Mazatlan",
-    "population": 1588,
-    "population_year": null
+    "population": 2409,
+    "population_year": 2020
   },
   {
     "id": 72153,
@@ -403,7 +437,7 @@
     "wikiDataId": null,
     "type": "municipality",
     "native": "Mulega",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Mazatlan",
     "population": 3834,
     "population_year": null
   },
@@ -438,8 +472,8 @@
     "type": "locality",
     "native": "Puerto San Carlos",
     "timezone": "America/Mazatlan",
-    "population": 5538,
-    "population_year": null
+    "population": 5742,
+    "population_year": 2020
   },
   {
     "id": 73543,
@@ -473,7 +507,7 @@
     "native": "San José del Cabo",
     "timezone": "America/Mazatlan",
     "population": 136285,
-    "population_year": null
+    "population_year": 2020
   },
   {
     "id": 74855,
@@ -506,8 +540,8 @@
     "type": "locality",
     "native": "Todos Santos",
     "timezone": "America/Mazatlan",
-    "population": 5148,
-    "population_year": null
+    "population": 7185,
+    "population_year": 2020
   },
   {
     "id": 75988,

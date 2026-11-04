@@ -14,7 +14,7 @@
     "native": "Ajax",
     "timezone": "America/Toronto",
     "population": 126666,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 16157,
@@ -269,7 +269,7 @@
     "native": "Barrie",
     "timezone": "America/Toronto",
     "population": 147829,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 16197,
@@ -367,7 +367,7 @@
     "longitude": "-81.59977000",
     "county_id": null,
     "wikiDataId": "Q4864429",
-    "type": "city",
+    "type": "municipality",
     "native": "Bluewater",
     "timezone": "America/Toronto",
     "population": 7540,
@@ -506,8 +506,8 @@
     "type": "city",
     "native": "Brockville",
     "timezone": "America/Toronto",
-    "population": 21957,
-    "population_year": null
+    "population": 22116,
+    "population_year": 2021
   },
   {
     "id": 164524,
@@ -673,7 +673,7 @@
     "longitude": "-75.08260000",
     "county_id": null,
     "wikiDataId": "Q681272",
-    "type": "city",
+    "type": "village",
     "native": "Casselman",
     "timezone": "America/Toronto",
     "population": 3960,
@@ -996,7 +996,7 @@
     "longitude": "-93.23526000",
     "county_id": null,
     "wikiDataId": "Q5325627",
-    "type": "city",
+    "type": "municipality",
     "native": "Ear Falls",
     "timezone": "America/Winnipeg",
     "population": 924,
@@ -1220,8 +1220,8 @@
     "type": "town",
     "native": "Fort Frances",
     "timezone": "America/Winnipeg",
-    "population": 7739,
-    "population_year": null
+    "population": 7466,
+    "population_year": 2021
   },
   {
     "id": 16446,
@@ -1353,7 +1353,7 @@
     "longitude": "-87.16668000",
     "county_id": null,
     "wikiDataId": "Q3492487",
-    "type": "city",
+    "type": "municipality",
     "native": "Greenstone",
     "timezone": "America/Toronto",
     "population": 4636,
@@ -1391,7 +1391,7 @@
     "native": "Guelph",
     "timezone": "America/Toronto",
     "population": 143740,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 16480,
@@ -1540,7 +1540,7 @@
     "longitude": "-84.77617000",
     "county_id": null,
     "wikiDataId": "Q729585",
-    "type": "city",
+    "type": "municipality",
     "native": "Hornepayne",
     "timezone": "America/Toronto",
     "population": 968,
@@ -1574,7 +1574,7 @@
     "longitude": "-81.29975000",
     "county_id": null,
     "wikiDataId": "Q3492472",
-    "type": "city",
+    "type": "municipality",
     "native": "Huron East",
     "timezone": "America/Toronto",
     "population": 9512,
@@ -1612,7 +1612,7 @@
     "native": "Innisfil",
     "timezone": "America/Toronto",
     "population": 43326,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 16525,
@@ -1761,7 +1761,7 @@
     "longitude": "-79.59011000",
     "county_id": null,
     "wikiDataId": "Q483483",
-    "type": "city",
+    "type": "municipality",
     "native": "King",
     "timezone": "America/Toronto",
     "population": 27333,
@@ -1883,8 +1883,8 @@
     "type": "city",
     "native": "Lappe",
     "timezone": "America/Toronto",
-    "population": 1436,
-    "population_year": null
+    "population": 1434,
+    "population_year": 2021
   },
   {
     "id": 164521,
@@ -1914,7 +1914,7 @@
     "longitude": "-82.59981000",
     "county_id": null,
     "wikiDataId": "Q2566566",
-    "type": "city",
+    "type": "municipality",
     "native": "Leamington",
     "timezone": "America/Toronto",
     "population": 27595,
@@ -2084,7 +2084,7 @@
     "longitude": "-85.84030000",
     "county_id": null,
     "wikiDataId": "Q1614488",
-    "type": "city",
+    "type": "municipality",
     "native": "Manitouwadge",
     "timezone": "America/Toronto",
     "population": 1974,
@@ -2139,7 +2139,7 @@
     "native": "Markham",
     "timezone": "America/Toronto",
     "population": 338503,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 16669,
@@ -2169,7 +2169,7 @@
     "longitude": "-80.61081000",
     "county_id": null,
     "wikiDataId": "Q3492570",
-    "type": "city",
+    "type": "municipality",
     "native": "Meaford",
     "timezone": "America/Toronto",
     "population": 11485,
@@ -2189,8 +2189,8 @@
     "type": "locality",
     "native": "Metcalfe",
     "timezone": "America/Toronto",
-    "population": 1776,
-    "population_year": null
+    "population": 1811,
+    "population_year": 2021
   },
   {
     "id": 16687,
@@ -2407,7 +2407,7 @@
     "longitude": "-89.41683000",
     "county_id": null,
     "wikiDataId": "Q4859501",
-    "type": "city",
+    "type": "municipality",
     "native": "Neebing",
     "timezone": "America/Toronto",
     "population": 2241,
@@ -2543,7 +2543,7 @@
     "longitude": "-80.96723000",
     "county_id": null,
     "wikiDataId": "Q3089368",
-    "type": "city",
+    "type": "municipality",
     "native": "North Perth",
     "timezone": "America/Toronto",
     "population": 15538,
@@ -2665,8 +2665,8 @@
     "type": "locality",
     "native": "Osgoode",
     "timezone": "America/Toronto",
-    "population": 2453,
-    "population_year": null
+    "population": 2535,
+    "population_year": 2021
   },
   {
     "id": 16783,
@@ -2920,8 +2920,8 @@
     "type": "city",
     "native": "Pickering",
     "timezone": "America/Toronto",
-    "population": 91771,
-    "population_year": null
+    "population": 99186,
+    "population_year": 2021
   },
   {
     "id": 16817,
@@ -3140,7 +3140,7 @@
     "wikiDataId": "Q943829",
     "type": "district",
     "native": "Rainy River",
-    "timezone": "America/Toronto",
+    "timezone": "America/Winnipeg",
     "population": 20110,
     "population_year": null
   },
@@ -3226,8 +3226,8 @@
     "type": "locality",
     "native": "Richmond",
     "timezone": "America/Toronto",
-    "population": 4055,
-    "population_year": null
+    "population": 4228,
+    "population_year": 2021
   },
   {
     "id": 16888,
@@ -3461,7 +3461,7 @@
     "longitude": "-81.51647000",
     "county_id": null,
     "wikiDataId": "Q4397",
-    "type": "city",
+    "type": "municipality",
     "native": "South Huron",
     "timezone": "America/Toronto",
     "population": 9982,
@@ -3499,7 +3499,7 @@
     "native": "St. Catharines",
     "timezone": "America/Toronto",
     "population": 136803,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 17071,
@@ -3532,8 +3532,8 @@
     "type": "city",
     "native": "St. Thomas",
     "timezone": "America/Toronto",
-    "population": 38909,
-    "population_year": null
+    "population": 42840,
+    "population_year": 2021
   },
   {
     "id": 17079,
@@ -3584,7 +3584,7 @@
     "native": null,
     "timezone": "America/Toronto",
     "population": 36753,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 17083,
@@ -3886,7 +3886,7 @@
     "longitude": "-79.11628000",
     "county_id": null,
     "wikiDataId": "Q386959",
-    "type": "city",
+    "type": "municipality",
     "native": "Uxbridge",
     "timezone": "America/Toronto",
     "population": 21556,
@@ -4073,7 +4073,7 @@
     "longitude": "-84.77411000",
     "county_id": null,
     "wikiDataId": "Q1284782",
-    "type": "city",
+    "type": "municipality",
     "native": "Wawa",
     "timezone": "America/Toronto",
     "population": 2705,

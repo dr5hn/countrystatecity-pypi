@@ -13,8 +13,25 @@
     "type": "locality",
     "native": "Abasolo",
     "timezone": "America/Monterrey",
-    "population": 6008,
-    "population_year": null
+    "population": 5255,
+    "population_year": 2020
+  },
+  {
+    "id": 170140,
+    "name": "Abasolo",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.11666667",
+    "longitude": "-98.28333333",
+    "county_id": null,
+    "wikiDataId": "Q4663551",
+    "type": "municipality",
+    "native": "Abasolo",
+    "timezone": "America/Monterrey",
+    "population": 9822,
+    "population_year": 2020
   },
   {
     "id": 68184,
@@ -31,6 +48,23 @@
     "native": "Aldama",
     "timezone": "America/Monterrey",
     "population": 14334,
+    "population_year": 2020
+  },
+  {
+    "id": 170141,
+    "name": "Aldama",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.96666667",
+    "longitude": "-98.06666667",
+    "county_id": null,
+    "wikiDataId": "Q1999574",
+    "type": "municipality",
+    "native": "Aldama",
+    "timezone": "America/Monterrey",
+    "population": 28725,
     "population_year": 2020
   },
   {
@@ -68,6 +102,23 @@
     "population_year": 2020
   },
   {
+    "id": 170142,
+    "name": "Altamira",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.56666667",
+    "longitude": "-98.08333333",
+    "county_id": null,
+    "wikiDataId": "Q2475148",
+    "type": "municipality",
+    "native": "Altamira",
+    "timezone": "America/Monterrey",
+    "population": 269790,
+    "population_year": 2020
+  },
+  {
     "id": 68284,
     "name": "Anáhuac",
     "state_id": 3463,
@@ -99,6 +150,23 @@
     "native": "Antiguo Morelos",
     "timezone": "America/Monterrey",
     "population": 3488,
+    "population_year": 2020
+  },
+  {
+    "id": 170143,
+    "name": "Antiguo Morelos",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.56666667",
+    "longitude": "-99.06666667",
+    "county_id": null,
+    "wikiDataId": "Q3849800",
+    "type": "municipality",
+    "native": "Antiguo Morelos",
+    "timezone": "America/Monterrey",
+    "population": 8850,
     "population_year": 2020
   },
   {
@@ -136,6 +204,23 @@
     "population_year": 2020
   },
   {
+    "id": 170144,
+    "name": "Burgos",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.93333333",
+    "longitude": "-98.81666667",
+    "county_id": null,
+    "wikiDataId": "Q1998028",
+    "type": "municipality",
+    "native": "Burgos",
+    "timezone": "America/Monterrey",
+    "population": 4256,
+    "population_year": 2020
+  },
+  {
     "id": 68693,
     "name": "Bustamante",
     "state_id": 3463,
@@ -153,6 +238,23 @@
     "population_year": 2020
   },
   {
+    "id": 170145,
+    "name": "Bustamante",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "23.31666667",
+    "longitude": "-99.88333333",
+    "county_id": null,
+    "wikiDataId": "Q3845868",
+    "type": "municipality",
+    "native": "Bustamante",
+    "timezone": "America/Monterrey",
+    "population": 7542,
+    "population_year": 2020
+  },
+  {
     "id": 68759,
     "name": "Camargo",
     "state_id": 3463,
@@ -165,8 +267,25 @@
     "wikiDataId": "Q20224452",
     "type": "locality",
     "native": "Camarico",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Matamoros",
     "population": 112,
+    "population_year": 2020
+  },
+  {
+    "id": 170146,
+    "name": "Camargo",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.18333333",
+    "longitude": "-98.85000000",
+    "county_id": null,
+    "wikiDataId": "Q3845876",
+    "type": "municipality",
+    "native": "Camargo",
+    "timezone": "America/Matamoros",
+    "population": 16546,
     "population_year": 2020
   },
   {
@@ -221,6 +340,23 @@
     "population_year": 2020
   },
   {
+    "id": 170147,
+    "name": "Casas",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "23.55000000",
+    "longitude": "-98.63333333",
+    "county_id": null,
+    "wikiDataId": "Q3849884",
+    "type": "municipality",
+    "native": "Casas",
+    "timezone": "America/Monterrey",
+    "population": 4143,
+    "population_year": 2020
+  },
+  {
     "id": 68699,
     "name": "CEFERESO Número 3",
     "state_id": 3463,
@@ -250,7 +386,7 @@
     "wikiDataId": "Q49850547",
     "type": "locality",
     "native": "Ciudad Camargo",
-    "timezone": "America/Monterrey",
+    "timezone": "America/Matamoros",
     "population": 9373,
     "population_year": 2020
   },
@@ -289,6 +425,23 @@
     "population_year": 2020
   },
   {
+    "id": 170148,
+    "name": "Ciudad Madero",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.28333333",
+    "longitude": "-97.81666667",
+    "county_id": null,
+    "wikiDataId": "Q20226304",
+    "type": "municipality",
+    "native": "Ciudad Madero",
+    "timezone": "America/Monterrey",
+    "population": 205933,
+    "population_year": 2020
+  },
+  {
     "id": 69167,
     "name": "Ciudad Mante",
     "state_id": 3463,
@@ -302,8 +455,8 @@
     "type": "locality",
     "native": "Ciudad Mante",
     "timezone": "America/Monterrey",
-    "population": 84787,
-    "population_year": null
+    "population": 79515,
+    "population_year": 2020
   },
   {
     "id": 69171,
@@ -335,7 +488,7 @@
     "wikiDataId": "Q1963086",
     "type": "locality",
     "native": "Ciudad Río Bravo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Matamoros",
     "population": 111314,
     "population_year": 2020
   },
@@ -370,8 +523,8 @@
     "type": "locality",
     "native": "Ciudad Victoria",
     "timezone": "America/Monterrey",
-    "population": 305155,
-    "population_year": null
+    "population": 332100,
+    "population_year": 2020
   },
   {
     "id": 69419,
@@ -386,7 +539,7 @@
     "wikiDataId": "Q20132978",
     "type": "locality",
     "native": "Comales",
-    "timezone": "America/Monterrey",
+    "timezone": "America/Matamoros",
     "population": 2287,
     "population_year": 2020
   },
@@ -405,6 +558,23 @@
     "native": "Cruillas",
     "timezone": "America/Monterrey",
     "population": 802,
+    "population_year": 2020
+  },
+  {
+    "id": 170149,
+    "name": "Cruillas",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.65000000",
+    "longitude": "-98.40000000",
+    "county_id": null,
+    "wikiDataId": "Q3849188",
+    "type": "municipality",
+    "native": "Cruillas",
+    "timezone": "America/Monterrey",
+    "population": 1671,
     "population_year": 2020
   },
   {
@@ -539,7 +709,7 @@
     "wikiDataId": "Q2000714",
     "type": "municipality",
     "native": "El Mante",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 106144,
     "population_year": 2020
   },
@@ -612,6 +782,23 @@
     "population_year": 2020
   },
   {
+    "id": 170150,
+    "name": "Gómez Farías",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.98333333",
+    "longitude": "-99.18333333",
+    "county_id": null,
+    "wikiDataId": "Q3846365",
+    "type": "municipality",
+    "native": "Gómez Farías",
+    "timezone": "America/Monterrey",
+    "population": 8288,
+    "population_year": 2020
+  },
+  {
     "id": 70555,
     "name": "González",
     "state_id": 3463,
@@ -626,6 +813,23 @@
     "native": "González",
     "timezone": "America/Monterrey",
     "population": 10993,
+    "population_year": 2020
+  },
+  {
+    "id": 170151,
+    "name": "González",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.80000000",
+    "longitude": "-98.60000000",
+    "county_id": null,
+    "wikiDataId": "Q2001224",
+    "type": "municipality",
+    "native": "González",
+    "timezone": "America/Monterrey",
+    "population": 41470,
     "population_year": 2020
   },
   {
@@ -675,7 +879,7 @@
     "wikiDataId": "Q49906659",
     "type": "locality",
     "native": "Guemes",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
   },
@@ -690,9 +894,9 @@
     "longitude": "-99.06872000",
     "county_id": null,
     "wikiDataId": "Q2000748",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Güémez",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 1925,
     "population_year": null
   },
@@ -709,7 +913,7 @@
     "wikiDataId": "Q11005534",
     "type": "municipality",
     "native": "Guerrero",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Matamoros",
     "population": 3803,
     "population_year": 2020
   },
@@ -743,7 +947,7 @@
     "wikiDataId": "Q2447582",
     "type": "municipality",
     "native": "Gustavo Díaz Ordaz",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Matamoros",
     "population": 15677,
     "population_year": 2020
   },
@@ -762,7 +966,7 @@
     "native": "Heroica Matamoros",
     "timezone": "America/Matamoros",
     "population": 510739,
-    "population_year": null
+    "population_year": 2020
   },
   {
     "id": 70684,
@@ -779,6 +983,23 @@
     "native": "Hidalgo",
     "timezone": "America/Monterrey",
     "population": 3294,
+    "population_year": 2020
+  },
+  {
+    "id": 170152,
+    "name": "Hidalgo",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.16666667",
+    "longitude": "-99.35000000",
+    "county_id": null,
+    "wikiDataId": "Q3845460",
+    "type": "municipality",
+    "native": "Hidalgo",
+    "timezone": "America/Monterrey",
+    "population": 17012,
     "population_year": 2020
   },
   {
@@ -799,6 +1020,23 @@
     "population_year": null
   },
   {
+    "id": 170153,
+    "name": "Jaumave",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "23.46666667",
+    "longitude": "-99.41666667",
+    "county_id": null,
+    "wikiDataId": "Q3849821",
+    "type": "municipality",
+    "native": "Jaumave",
+    "timezone": "America/Monterrey",
+    "population": 15994,
+    "population_year": 2020
+  },
+  {
     "id": 71052,
     "name": "Jiménez",
     "state_id": 3463,
@@ -811,7 +1049,7 @@
     "wikiDataId": "Q3850556",
     "type": "municipality",
     "native": "Jiménez",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 6375,
     "population_year": 2020
   },
@@ -863,8 +1101,8 @@
     "type": "locality",
     "native": "La Misión",
     "timezone": "America/Monterrey",
-    "population": 1004,
-    "population_year": null
+    "population": 1140,
+    "population_year": 2020
   },
   {
     "id": 71438,
@@ -931,8 +1169,8 @@
     "type": "locality",
     "native": "Lázaro Cárdenas",
     "timezone": "America/Monterrey",
-    "population": 1075,
-    "population_year": null
+    "population": 985,
+    "population_year": 2020
   },
   {
     "id": 71698,
@@ -947,7 +1185,7 @@
     "wikiDataId": "Q2001158",
     "type": "municipality",
     "native": "Cauce",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 14645,
     "population_year": 2020
   },
@@ -965,8 +1203,8 @@
     "type": "locality",
     "native": "Llera de Canales",
     "timezone": "America/Monterrey",
-    "population": 4148,
-    "population_year": null
+    "population": 3679,
+    "population_year": 2020
   },
   {
     "id": 165259,
@@ -1117,7 +1355,7 @@
     "wikiDataId": "Q1997488",
     "type": "municipality",
     "native": "Mainero",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 2048,
     "population_year": 2020
   },
@@ -1134,7 +1372,7 @@
     "wikiDataId": "Q2450458",
     "type": "municipality",
     "native": "Matamoros",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Matamoros",
     "population": 541979,
     "population_year": 2020
   },
@@ -1156,6 +1394,23 @@
     "population_year": 2020
   },
   {
+    "id": 170154,
+    "name": "Méndez",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.21666667",
+    "longitude": "-98.41666667",
+    "county_id": null,
+    "wikiDataId": "Q3849579",
+    "type": "municipality",
+    "native": "Méndez",
+    "timezone": "America/Monterrey",
+    "population": 4280,
+    "population_year": 2020
+  },
+  {
     "id": 72121,
     "name": "Mier",
     "state_id": 3463,
@@ -1168,8 +1423,25 @@
     "wikiDataId": "Q631325",
     "type": "locality",
     "native": "Mar",
-    "timezone": "America/Monterrey",
+    "timezone": "America/Matamoros",
     "population": 6061,
+    "population_year": 2020
+  },
+  {
+    "id": 170155,
+    "name": "Mier",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.41666667",
+    "longitude": "-99.26666667",
+    "county_id": null,
+    "wikiDataId": "Q3849640",
+    "type": "municipality",
+    "native": "Mier",
+    "timezone": "America/Matamoros",
+    "population": 6385,
     "population_year": 2020
   },
   {
@@ -1185,7 +1457,7 @@
     "wikiDataId": "Q583061",
     "type": "municipality",
     "native": "Miguel Alemán",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Matamoros",
     "population": 26237,
     "population_year": 2020
   },
@@ -1204,6 +1476,23 @@
     "native": "Miquihuana",
     "timezone": "America/Monterrey",
     "population": 1775,
+    "population_year": 2020
+  },
+  {
+    "id": 170156,
+    "name": "Miquihuana",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "23.58333333",
+    "longitude": "-99.76666667",
+    "county_id": null,
+    "wikiDataId": "Q3849459",
+    "type": "municipality",
+    "native": "Miquihuana",
+    "timezone": "America/Monterrey",
+    "population": 3704,
     "population_year": 2020
   },
   {
@@ -1270,7 +1559,7 @@
     "wikiDataId": "Q1015375",
     "type": "locality",
     "native": "Nueva Ciudad Guerrero",
-    "timezone": "America/Monterrey",
+    "timezone": "America/Matamoros",
     "population": 3451,
     "population_year": 2020
   },
@@ -1326,6 +1615,23 @@
     "population_year": 2020
   },
   {
+    "id": 170157,
+    "name": "Nuevo Laredo",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.46666667",
+    "longitude": "-99.67500000",
+    "county_id": null,
+    "wikiDataId": "Q2450312",
+    "type": "municipality",
+    "native": "Nuevo Laredo",
+    "timezone": "America/Matamoros",
+    "population": 425058,
+    "population_year": 2020
+  },
+  {
     "id": 72396,
     "name": "Nuevo Morelos",
     "state_id": 3463,
@@ -1340,6 +1646,23 @@
     "native": "Nuevo Morelos",
     "timezone": "America/Monterrey",
     "population": 2758,
+    "population_year": 2020
+  },
+  {
+    "id": 170158,
+    "name": "Nuevo Morelos",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.51666667",
+    "longitude": "-99.20000000",
+    "county_id": null,
+    "wikiDataId": "Q3845954",
+    "type": "municipality",
+    "native": "Nuevo Morelos",
+    "timezone": "America/Monterrey",
+    "population": 3810,
     "population_year": 2020
   },
   {
@@ -1394,6 +1717,23 @@
     "population_year": 2020
   },
   {
+    "id": 170159,
+    "name": "Ocampo",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.85000000",
+    "longitude": "-99.33333333",
+    "county_id": null,
+    "wikiDataId": "Q1997518",
+    "type": "municipality",
+    "native": "Ocampo",
+    "timezone": "America/Monterrey",
+    "population": 13190,
+    "population_year": 2020
+  },
+  {
     "id": 72572,
     "name": "Padilla",
     "state_id": 3463,
@@ -1406,7 +1746,7 @@
     "wikiDataId": "Q7123753",
     "type": "municipality",
     "native": "Padilla",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 13618,
     "population_year": 2020
   },
@@ -1425,6 +1765,23 @@
     "native": "Palmillas",
     "timezone": "America/Monterrey",
     "population": 1200,
+    "population_year": 2020
+  },
+  {
+    "id": 170160,
+    "name": "Palmillas",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "23.25000000",
+    "longitude": "-99.56666667",
+    "county_id": null,
+    "wikiDataId": "Q3849863",
+    "type": "municipality",
+    "native": "Palmillas",
+    "timezone": "America/Monterrey",
+    "population": 1917,
     "population_year": 2020
   },
   {
@@ -1508,9 +1865,26 @@
     "wikiDataId": "Q738303",
     "type": "locality",
     "native": "Reynosa",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Matamoros",
     "population": 589466,
     "population_year": null
+  },
+  {
+    "id": 170161,
+    "name": "Reynosa",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.80000000",
+    "longitude": "-98.35000000",
+    "county_id": null,
+    "wikiDataId": "Q3849133",
+    "type": "municipality",
+    "native": "Reynosa",
+    "timezone": "America/Matamoros",
+    "population": 704767,
+    "population_year": 2020
   },
   {
     "id": 73105,
@@ -1526,8 +1900,8 @@
     "type": "locality",
     "native": "Ricardo Flores Magón",
     "timezone": "America/Monterrey",
-    "population": 1649,
-    "population_year": null
+    "population": 1561,
+    "population_year": 2020
   },
   {
     "id": 73170,
@@ -1540,9 +1914,9 @@
     "longitude": "-98.03879000",
     "county_id": null,
     "wikiDataId": "Q13422660",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Río Bravo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Matamoros",
     "population": 95647,
     "population_year": null
   },
@@ -1581,6 +1955,23 @@
     "population_year": 2020
   },
   {
+    "id": 170162,
+    "name": "San Carlos",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.50000000",
+    "longitude": "-98.95000000",
+    "county_id": null,
+    "wikiDataId": "Q3849123",
+    "type": "municipality",
+    "native": "San Carlos",
+    "timezone": "America/Monterrey",
+    "population": 7411,
+    "population_year": 2020
+  },
+  {
     "id": 73534,
     "name": "San Fernando",
     "state_id": 3463,
@@ -1596,6 +1987,23 @@
     "timezone": "America/Monterrey",
     "population": 29665,
     "population_year": null
+  },
+  {
+    "id": 170163,
+    "name": "San Fernando",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.84805556",
+    "longitude": "-98.15944444",
+    "county_id": null,
+    "wikiDataId": "Q5558095",
+    "type": "municipality",
+    "native": "San Fernando",
+    "timezone": "America/Monterrey",
+    "population": 51405,
+    "population_year": 2020
   },
   {
     "id": 73637,
@@ -1632,6 +2040,23 @@
     "population_year": 2020
   },
   {
+    "id": 170164,
+    "name": "San Nicolás",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.61666667",
+    "longitude": "-98.78333333",
+    "county_id": null,
+    "wikiDataId": "Q7415021",
+    "type": "municipality",
+    "native": "San Nicolás",
+    "timezone": "America/Monterrey",
+    "population": 926,
+    "population_year": 2020
+  },
+  {
     "id": 74518,
     "name": "Santa Adelaida",
     "state_id": 3463,
@@ -1644,7 +2069,7 @@
     "wikiDataId": "Q61270784",
     "type": "locality",
     "native": "Santa Adelaida",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Matamoros",
     "population": 1348,
     "population_year": 2020
   },
@@ -1661,7 +2086,7 @@
     "wikiDataId": "Q61289610",
     "type": "locality",
     "native": "Santa Apolonia",
-    "timezone": "America/Monterrey",
+    "timezone": "America/Matamoros",
     "population": 1371,
     "population_year": 2020
   },
@@ -1700,6 +2125,23 @@
     "population_year": 2020
   },
   {
+    "id": 170165,
+    "name": "Soto la Marina",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "23.86666667",
+    "longitude": "-98.10000000",
+    "county_id": null,
+    "wikiDataId": "Q3851052",
+    "type": "municipality",
+    "native": "Soto la Marina",
+    "timezone": "America/Monterrey",
+    "population": 23673,
+    "population_year": 2020
+  },
+  {
     "id": 75191,
     "name": "Tampico",
     "state_id": 3463,
@@ -1713,8 +2155,8 @@
     "type": "municipality",
     "native": "Tampico",
     "timezone": "America/Mexico_City",
-    "population": 297554,
-    "population_year": null
+    "population": 297562,
+    "population_year": 2020
   },
   {
     "id": 75193,
@@ -1730,8 +2172,8 @@
     "type": "locality",
     "native": "Tampiquito",
     "timezone": "America/Monterrey",
-    "population": 1067,
-    "population_year": null
+    "population": 974,
+    "population_year": 2020
   },
   {
     "id": 75790,
@@ -1746,7 +2188,7 @@
     "wikiDataId": "Q1999239",
     "type": "municipality",
     "native": "Tula",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 28230,
     "population_year": 2020
   },
@@ -1797,8 +2239,25 @@
     "wikiDataId": "Q3849155",
     "type": "locality",
     "native": "Valle Hermoso",
-    "timezone": "America/Monterrey",
+    "timezone": "America/Matamoros",
     "population": 48172,
+    "population_year": 2020
+  },
+  {
+    "id": 170166,
+    "name": "Valle Hermoso",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.71666667",
+    "longitude": "-97.85000000",
+    "county_id": null,
+    "wikiDataId": "Q17075269",
+    "type": "municipality",
+    "native": "Valle Hermoso",
+    "timezone": "America/Matamoros",
+    "population": 60055,
     "population_year": 2020
   },
   {
@@ -1870,6 +2329,23 @@
     "population_year": 2020
   },
   {
+    "id": 170167,
+    "name": "Villagrán",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.58333333",
+    "longitude": "-99.38333333",
+    "county_id": null,
+    "wikiDataId": "Q3845936",
+    "type": "municipality",
+    "native": "Villagrán",
+    "timezone": "America/Monterrey",
+    "population": 5361,
+    "population_year": 2020
+  },
+  {
     "id": 76143,
     "name": "Xicoténcatl",
     "state_id": 3463,
@@ -1883,7 +2359,24 @@
     "type": "locality",
     "native": "Xicoténcatl",
     "timezone": "America/Monterrey",
-    "population": 9593,
-    "population_year": null
+    "population": 10327,
+    "population_year": 2020
+  },
+  {
+    "id": 170168,
+    "name": "Xicoténcatl",
+    "state_id": 3463,
+    "state_code": "TAM",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.98333333",
+    "longitude": "-98.95000000",
+    "county_id": null,
+    "wikiDataId": "Q3848895",
+    "type": "municipality",
+    "native": "Xicoténcatl",
+    "timezone": "America/Monterrey",
+    "population": 22229,
+    "population_year": 2020
   }
 ]

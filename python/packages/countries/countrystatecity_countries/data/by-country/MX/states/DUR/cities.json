@@ -132,8 +132,8 @@
     "type": "locality",
     "native": "Bermejillo",
     "timezone": "America/Monterrey",
-    "population": 9149,
-    "population_year": null
+    "population": 10139,
+    "population_year": 2020
   },
   {
     "id": 68736,
@@ -167,6 +167,40 @@
     "native": "Canatlán",
     "timezone": "America/Monterrey",
     "population": 11943,
+    "population_year": 2020
+  },
+  {
+    "id": 168959,
+    "name": "Canatlán",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.58333333",
+    "longitude": "-105.00000000",
+    "county_id": null,
+    "wikiDataId": "Q2990948",
+    "type": "municipality",
+    "native": "Canatlán",
+    "timezone": "America/Monterrey",
+    "population": 31454,
+    "population_year": 2020
+  },
+  {
+    "id": 168960,
+    "name": "Canelas",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.06000000",
+    "longitude": "-106.41000000",
+    "county_id": null,
+    "wikiDataId": "Q10998272",
+    "type": "municipality",
+    "native": "Canelas",
+    "timezone": "America/Monterrey",
+    "population": 4321,
     "population_year": 2020
   },
   {
@@ -216,7 +250,7 @@
     "wikiDataId": null,
     "type": "city",
     "native": "Cieneguillas",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 194,
     "population_year": null
   },
@@ -272,6 +306,23 @@
     "population_year": 2020
   },
   {
+    "id": 168961,
+    "name": "Coneto de Comonfort",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.97527778",
+    "longitude": "-104.77194444",
+    "county_id": null,
+    "wikiDataId": "Q2682724",
+    "type": "municipality",
+    "native": "Coneto de Comonfort",
+    "timezone": "America/Monterrey",
+    "population": 4084,
+    "population_year": 2020
+  },
+  {
     "id": 69575,
     "name": "Cuauhtémoc",
     "state_id": 3453,
@@ -299,9 +350,9 @@
     "longitude": "-103.73772000",
     "county_id": null,
     "wikiDataId": "Q5192589",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Cuencamé",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 9848,
     "population_year": null
   },
@@ -337,6 +388,23 @@
     "native": "Diez de Octubre",
     "timezone": "America/Monterrey",
     "population": 1445,
+    "population_year": 2020
+  },
+  {
+    "id": 168962,
+    "name": "Durango",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.02500000",
+    "longitude": "-104.80083333",
+    "county_id": null,
+    "wikiDataId": "Q2832731",
+    "type": "municipality",
+    "native": "Durango",
+    "timezone": "America/Monterrey",
+    "population": 688697,
     "population_year": 2020
   },
   {
@@ -387,8 +455,8 @@
     "type": "locality",
     "native": "El Huarache (El Guarache)",
     "timezone": "America/Monterrey",
-    "population": 2709,
-    "population_year": null
+    "population": 2898,
+    "population_year": 2020
   },
   {
     "id": 70027,
@@ -422,6 +490,23 @@
     "native": "El Nayar",
     "timezone": "America/Monterrey",
     "population": 4161,
+    "population_year": 2020
+  },
+  {
+    "id": 168970,
+    "name": "El Oro",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.61000000",
+    "longitude": "-105.18000000",
+    "county_id": null,
+    "wikiDataId": "Q2749781",
+    "type": "municipality",
+    "native": "El Oro",
+    "timezone": "America/Monterrey",
+    "population": 10384,
     "population_year": 2020
   },
   {
@@ -646,6 +731,23 @@
     "population_year": 2020
   },
   {
+    "id": 168963,
+    "name": "General Simón Bolívar",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.75527778",
+    "longitude": "-103.22416667",
+    "county_id": null,
+    "wikiDataId": "Q2913813",
+    "type": "municipality",
+    "native": "General Simón Bolívar",
+    "timezone": "America/Monterrey",
+    "population": 10038,
+    "population_year": 2020
+  },
+  {
     "id": 70646,
     "name": "Gómez Palacio",
     "state_id": 3453,
@@ -658,8 +760,25 @@
     "wikiDataId": "Q1775128",
     "type": "locality",
     "native": "Gómez Palacio",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 301742,
+    "population_year": 2020
+  },
+  {
+    "id": 168964,
+    "name": "Gómez Palacio",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.71000000",
+    "longitude": "-103.48000000",
+    "county_id": null,
+    "wikiDataId": "Q2351085",
+    "type": "municipality",
+    "native": "Gómez Palacio",
+    "timezone": "America/Monterrey",
+    "population": 372750,
     "population_year": 2020
   },
   {
@@ -680,6 +799,23 @@
     "population_year": 2020
   },
   {
+    "id": 168965,
+    "name": "Guadalupe Victoria",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.38403056",
+    "longitude": "-104.08911111",
+    "county_id": null,
+    "wikiDataId": "Q2914014",
+    "type": "municipality",
+    "native": "Guadalupe Victoria",
+    "timezone": "America/Monterrey",
+    "population": 36695,
+    "population_year": 2020
+  },
+  {
     "id": 70616,
     "name": "Guanaceví",
     "state_id": 3453,
@@ -690,9 +826,9 @@
     "longitude": "-106.10898000",
     "county_id": null,
     "wikiDataId": "Q5613554",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Guanaceví",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 2908,
     "population_year": null
   },
@@ -726,7 +862,7 @@
     "wikiDataId": "Q2123554",
     "type": "municipality",
     "native": "Hidalgo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 3843,
     "population_year": 2020
   },
@@ -813,6 +949,23 @@
     "native": "India",
     "timezone": "America/Monterrey",
     "population": 571,
+    "population_year": 2020
+  },
+  {
+    "id": 168966,
+    "name": "Indé",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.74000000",
+    "longitude": "-104.98000000",
+    "county_id": null,
+    "wikiDataId": "Q2348655",
+    "type": "municipality",
+    "native": "Indé",
+    "timezone": "America/Monterrey",
+    "population": 4748,
     "population_year": 2020
   },
   {
@@ -1105,6 +1258,23 @@
     "population_year": 2020
   },
   {
+    "id": 168967,
+    "name": "Lerdo",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.53333333",
+    "longitude": "-103.52500000",
+    "county_id": null,
+    "wikiDataId": "Q2348954",
+    "type": "municipality",
+    "native": "Lerdo",
+    "timezone": "America/Monterrey",
+    "population": 163313,
+    "population_year": 2020
+  },
+  {
     "id": 71687,
     "name": "Llano Grande",
     "state_id": 3453,
@@ -1134,7 +1304,7 @@
     "wikiDataId": "Q49999864",
     "type": "locality",
     "native": "Los Angeles",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 1707,
     "population_year": 2020
   },
@@ -1149,9 +1319,9 @@
     "longitude": "-104.05463000",
     "county_id": null,
     "wikiDataId": "Q2348927",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Mapimí",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 5623,
     "population_year": null
   },
@@ -1168,9 +1338,9 @@
     "wikiDataId": "Q1183101",
     "type": "municipality",
     "native": "Mezquital",
-    "timezone": "America/Mexico_City",
-    "population": 33396,
-    "population_year": null
+    "timezone": "America/Monterrey",
+    "population": 48583,
+    "population_year": 2020
   },
   {
     "id": 72286,
@@ -1203,8 +1373,8 @@
     "type": "locality",
     "native": "nazareno",
     "timezone": "America/Monterrey",
-    "population": 7515,
-    "population_year": null
+    "population": 8378,
+    "population_year": 2020
   },
   {
     "id": 72301,
@@ -1221,6 +1391,23 @@
     "native": "Nazas",
     "timezone": "America/Monterrey",
     "population": 3892,
+    "population_year": 2020
+  },
+  {
+    "id": 168968,
+    "name": "Nazas",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.22750000",
+    "longitude": "-104.11388889",
+    "county_id": null,
+    "wikiDataId": "Q24289605",
+    "type": "municipality",
+    "native": "Nazas",
+    "timezone": "America/Monterrey",
+    "population": 12894,
     "population_year": 2020
   },
   {
@@ -1275,6 +1462,23 @@
     "population_year": 2020
   },
   {
+    "id": 168969,
+    "name": "Nombre de Dios",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "23.85000000",
+    "longitude": "-104.25000000",
+    "county_id": null,
+    "wikiDataId": "Q3017132",
+    "type": "municipality",
+    "native": "Nombre de Dios",
+    "timezone": "America/Monterrey",
+    "population": 19060,
+    "population_year": 2020
+  },
+  {
     "id": 72387,
     "name": "Nuevo Ideal",
     "state_id": 3453,
@@ -1292,6 +1496,23 @@
     "population_year": 2020
   },
   {
+    "id": 168985,
+    "name": "Nuevo Ideal",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.81666667",
+    "longitude": "-105.01666667",
+    "county_id": null,
+    "wikiDataId": "Q3017725",
+    "type": "municipality",
+    "native": "Nuevo Ideal",
+    "timezone": "America/Monterrey",
+    "population": 27981,
+    "population_year": 2020
+  },
+  {
     "id": 72442,
     "name": "Ocampo",
     "state_id": 3453,
@@ -1304,7 +1525,7 @@
     "wikiDataId": "Q3308878",
     "type": "municipality",
     "native": "Ocampo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 8003,
     "population_year": 2020
   },
@@ -1326,6 +1547,23 @@
     "population_year": 2020
   },
   {
+    "id": 168971,
+    "name": "Otáez",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.70000000",
+    "longitude": "-105.93333333",
+    "county_id": null,
+    "wikiDataId": "Q2833497",
+    "type": "municipality",
+    "native": "Otáez",
+    "timezone": "America/Monterrey",
+    "population": 4924,
+    "population_year": 2020
+  },
+  {
     "id": 73008,
     "name": "Pánuco de Coronado",
     "state_id": 3453,
@@ -1340,6 +1578,23 @@
     "native": "Pánuco de Coronado",
     "timezone": "America/Monterrey",
     "population": 1442,
+    "population_year": 2020
+  },
+  {
+    "id": 168972,
+    "name": "Pánuco de Coronado",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.53916667",
+    "longitude": "-104.32527778",
+    "county_id": null,
+    "wikiDataId": "Q2913809",
+    "type": "municipality",
+    "native": "Pánuco de Coronado",
+    "timezone": "America/Monterrey",
+    "population": 12656,
     "population_year": 2020
   },
   {
@@ -1411,6 +1666,23 @@
     "population_year": 2020
   },
   {
+    "id": 168973,
+    "name": "Peñón Blanco",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.78333333",
+    "longitude": "-104.01666667",
+    "county_id": null,
+    "wikiDataId": "Q2833503",
+    "type": "municipality",
+    "native": "Peñón Blanco",
+    "timezone": "America/Monterrey",
+    "population": 11118,
+    "population_year": 2020
+  },
+  {
     "id": 72758,
     "name": "Picardías",
     "state_id": 3453,
@@ -1428,6 +1700,23 @@
     "population_year": 2020
   },
   {
+    "id": 168974,
+    "name": "Poanas",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "23.96666667",
+    "longitude": "-104.05000000",
+    "county_id": null,
+    "wikiDataId": "Q2651965",
+    "type": "municipality",
+    "native": "Poanas",
+    "timezone": "America/Monterrey",
+    "population": 25623,
+    "population_year": 2020
+  },
+  {
     "id": 72943,
     "name": "Pueblo Nuevo",
     "state_id": 3453,
@@ -1440,7 +1729,7 @@
     "wikiDataId": "Q3383096",
     "type": "municipality",
     "native": "Pueblo Nuevo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 51269,
     "population_year": 2020
   },
@@ -1496,6 +1785,23 @@
     "population_year": 2020
   },
   {
+    "id": 168975,
+    "name": "Rodeo",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.18333333",
+    "longitude": "-104.56666667",
+    "county_id": null,
+    "wikiDataId": "Q1997775",
+    "type": "municipality",
+    "native": "Rodeo",
+    "timezone": "America/Monterrey",
+    "population": 12818,
+    "population_year": 2020
+  },
+  {
     "id": 73392,
     "name": "San Atenógenes (La Villita)",
     "state_id": 3453,
@@ -1542,8 +1848,25 @@
     "wikiDataId": "Q7413467",
     "type": "municipality",
     "native": "San Bernardo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 2837,
+    "population_year": 2020
+  },
+  {
+    "id": 168976,
+    "name": "San Dimas",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.10000000",
+    "longitude": "-105.83333333",
+    "county_id": null,
+    "wikiDataId": "Q2833640",
+    "type": "municipality",
+    "native": "San Dimas",
+    "timezone": "America/Monterrey",
+    "population": 17333,
     "population_year": 2020
   },
   {
@@ -1700,6 +2023,40 @@
     "population_year": 2020
   },
   {
+    "id": 168977,
+    "name": "San Juan de Guadalupe",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.71388889",
+    "longitude": "-102.77805556",
+    "county_id": null,
+    "wikiDataId": "Q7414632",
+    "type": "municipality",
+    "native": "San Juan de Guadalupe",
+    "timezone": "America/Monterrey",
+    "population": 5251,
+    "population_year": 2020
+  },
+  {
+    "id": 168978,
+    "name": "San Juan del Río",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.77638889",
+    "longitude": "-104.45972222",
+    "county_id": null,
+    "wikiDataId": "Q11694324",
+    "type": "municipality",
+    "native": "San Juan del Río",
+    "timezone": "America/Monterrey",
+    "population": 12013,
+    "population_year": 2020
+  },
+  {
     "id": 73975,
     "name": "San Juan del Rio del Centauro del Norte",
     "state_id": 3453,
@@ -1734,6 +2091,23 @@
     "population_year": 2020
   },
   {
+    "id": 168979,
+    "name": "San Luis del Cordero",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.41666667",
+    "longitude": "-104.27777778",
+    "county_id": null,
+    "wikiDataId": "Q3264811",
+    "type": "municipality",
+    "native": "San Luis del Cordero",
+    "timezone": "America/Monterrey",
+    "population": 2103,
+    "population_year": 2020
+  },
+  {
     "id": 74229,
     "name": "San Miguel de Cruces",
     "state_id": 3453,
@@ -1746,7 +2120,7 @@
     "wikiDataId": "Q50001539",
     "type": "locality",
     "native": "San Miguel de Cruces",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 1446,
     "population_year": 2020
   },
@@ -1765,6 +2139,23 @@
     "native": "San Pedro del Gallo",
     "timezone": "America/Monterrey",
     "population": 576,
+    "population_year": 2020
+  },
+  {
+    "id": 168980,
+    "name": "San Pedro del Gallo",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.63000000",
+    "longitude": "-104.39000000",
+    "county_id": null,
+    "wikiDataId": "Q7415157",
+    "type": "municipality",
+    "native": "San Pedro del Gallo",
+    "timezone": "America/Monterrey",
+    "population": 1633,
     "population_year": 2020
   },
   {
@@ -1799,6 +2190,23 @@
     "native": "Santa Clara",
     "timezone": "America/Monterrey",
     "population": 3999,
+    "population_year": 2020
+  },
+  {
+    "id": 168981,
+    "name": "Santa Clara",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.49847000",
+    "longitude": "-103.40702000",
+    "county_id": null,
+    "wikiDataId": "Q7419328",
+    "type": "municipality",
+    "native": "Santa Clara",
+    "timezone": "America/Monterrey",
+    "population": 6727,
     "population_year": 2020
   },
   {
@@ -1866,8 +2274,8 @@
     "type": "locality",
     "native": "Santiago Papasquiaro",
     "timezone": "America/Monterrey",
-    "population": 26121,
-    "population_year": null
+    "population": 30063,
+    "population_year": 2020
   },
   {
     "id": 75039,
@@ -1967,7 +2375,7 @@
     "wikiDataId": "Q2786025",
     "type": "municipality",
     "native": "Tamazula",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 26300,
     "population_year": 2020
   },
@@ -2018,8 +2426,25 @@
     "wikiDataId": "Q3893888",
     "type": "municipality",
     "native": "Tepehuanes",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 11378,
+    "population_year": 2020
+  },
+  {
+    "id": 168982,
+    "name": "Tlahualilo",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.25333333",
+    "longitude": "-103.50722222",
+    "county_id": null,
+    "wikiDataId": "Q2352084",
+    "type": "municipality",
+    "native": "Tlahualilo",
+    "timezone": "America/Monterrey",
+    "population": 21143,
     "population_year": 2020
   },
   {
@@ -2054,6 +2479,23 @@
     "native": "Topia",
     "timezone": "America/Monterrey",
     "population": 2897,
+    "population_year": 2020
+  },
+  {
+    "id": 168983,
+    "name": "Topia",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.21194444",
+    "longitude": "-106.57083333",
+    "county_id": null,
+    "wikiDataId": "Q2784782",
+    "type": "municipality",
+    "native": "Topia",
+    "timezone": "America/Monterrey",
+    "population": 9320,
     "population_year": 2020
   },
   {
@@ -2142,6 +2584,23 @@
     "population_year": 2020
   },
   {
+    "id": 168984,
+    "name": "Vicente Guerrero",
+    "state_id": 3453,
+    "state_code": "DUR",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "23.73416667",
+    "longitude": "-103.98666667",
+    "county_id": null,
+    "wikiDataId": "Q7925160",
+    "type": "municipality",
+    "native": "Vicente Guerrero",
+    "timezone": "America/Monterrey",
+    "population": 23476,
+    "population_year": 2020
+  },
+  {
     "id": 75985,
     "name": "Victoria de Durango",
     "state_id": 3453,
@@ -2155,8 +2614,8 @@
     "type": "locality",
     "native": "Victoria de Durango",
     "timezone": "America/Monterrey",
-    "population": 518709,
-    "population_year": null
+    "population": 616068,
+    "population_year": 2020
   },
   {
     "id": 76065,
@@ -2240,8 +2699,8 @@
     "type": "locality",
     "native": "Villa Montemorelos",
     "timezone": "America/Monterrey",
-    "population": 1617,
-    "population_year": null
+    "population": 1647,
+    "population_year": 2020
   },
   {
     "id": 76039,
@@ -2274,7 +2733,7 @@
     "type": "locality",
     "native": "Villa Unión",
     "timezone": "America/Monterrey",
-    "population": 10753,
-    "population_year": null
+    "population": 11509,
+    "population_year": 2020
   }
 ]

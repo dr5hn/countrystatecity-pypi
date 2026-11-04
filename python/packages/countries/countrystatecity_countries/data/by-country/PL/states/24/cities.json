@@ -13,8 +13,8 @@
     "type": "village",
     "native": "Bąków",
     "timezone": "Europe/Warsaw",
-    "population": 1875,
-    "population_year": null
+    "population": 1877,
+    "population_year": 2021
   },
   {
     "id": 85821,
@@ -30,8 +30,8 @@
     "type": "village",
     "native": "Bażanowice",
     "timezone": "Europe/Warsaw",
-    "population": 1255,
-    "population_year": null
+    "population": 1256,
+    "population_year": 2021
   },
   {
     "id": 86013,
@@ -47,8 +47,8 @@
     "type": "city",
     "native": "Będzin",
     "timezone": "Europe/Warsaw",
-    "population": 52460,
-    "population_year": 2025
+    "population": 52240,
+    "population_year": 2026
   },
   {
     "id": 85829,
@@ -64,8 +64,8 @@
     "type": "village",
     "native": "Bełk",
     "timezone": "Europe/Warsaw",
-    "population": 3464,
-    "population_year": null
+    "population": 3466,
+    "population_year": 2021
   },
   {
     "id": 85830,
@@ -81,8 +81,8 @@
     "type": "village",
     "native": "Bełsznica",
     "timezone": "Europe/Warsaw",
-    "population": 1172,
-    "population_year": null
+    "population": 1171,
+    "population_year": 2021
   },
   {
     "id": 85826,
@@ -99,7 +99,7 @@
     "native": "Bestwina",
     "timezone": "Europe/Warsaw",
     "population": 4982,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 85827,
@@ -116,7 +116,7 @@
     "native": "Bestwinka",
     "timezone": "Europe/Warsaw",
     "population": 1706,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 85861,
@@ -149,8 +149,8 @@
     "type": "city",
     "native": "Bieruń",
     "timezone": "Europe/Warsaw",
-    "population": 18627,
-    "population_year": 2025
+    "population": 18551,
+    "population_year": 2026
   },
   {
     "id": 85879,
@@ -166,8 +166,8 @@
     "type": "city",
     "native": "Blachownia",
     "timezone": "Europe/Warsaw",
-    "population": 8875,
-    "population_year": 2025
+    "population": 8812,
+    "population_year": 2026
   },
   {
     "id": 85890,
@@ -183,8 +183,8 @@
     "type": "village",
     "native": "Bobrowniki",
     "timezone": "Europe/Warsaw",
-    "population": 2926,
-    "population_year": null
+    "population": 3328,
+    "population_year": 2021
   },
   {
     "id": 85906,
@@ -238,6 +238,23 @@
     "population_year": null
   },
   {
+    "id": 173019,
+    "name": "Boronów",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.68333333",
+    "longitude": "18.90000000",
+    "county_id": 4092,
+    "wikiDataId": "Q553577",
+    "type": "municipality",
+    "native": "Boronów",
+    "timezone": "Europe/Warsaw",
+    "population": 3288,
+    "population_year": 2026
+  },
+  {
     "id": 85926,
     "name": "Borowno",
     "state_id": 1623,
@@ -269,7 +286,7 @@
     "native": "Borucin",
     "timezone": "Europe/Warsaw",
     "population": 1088,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 85940,
@@ -285,8 +302,8 @@
     "type": "village",
     "native": "Brenna",
     "timezone": "Europe/Warsaw",
-    "population": 6445,
-    "population_year": null
+    "population": 6451,
+    "population_year": 2021
   },
   {
     "id": 85953,
@@ -302,8 +319,8 @@
     "type": "village",
     "native": "Bronów",
     "timezone": "Europe/Warsaw",
-    "population": 1133,
-    "population_year": null
+    "population": 1137,
+    "population_year": 2021
   },
   {
     "id": 85965,
@@ -336,8 +353,8 @@
     "type": "village",
     "native": "Buczkowice",
     "timezone": "Europe/Warsaw",
-    "population": 4419,
-    "population_year": null
+    "population": 4415,
+    "population_year": 2021
   },
   {
     "id": 85987,
@@ -354,7 +371,7 @@
     "native": "Bujaków",
     "timezone": "Europe/Warsaw",
     "population": 2230,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 86001,
@@ -387,8 +404,8 @@
     "type": "city",
     "native": "Bytom",
     "timezone": "Europe/Warsaw",
-    "population": 144598,
-    "population_year": 2025
+    "population": 143853,
+    "population_year": 2026
   },
   {
     "id": 86026,
@@ -404,8 +421,8 @@
     "type": "village",
     "native": "Chałupki",
     "timezone": "Europe/Warsaw",
-    "population": 1622,
-    "population_year": null
+    "population": 1621,
+    "population_year": 2021
   },
   {
     "id": 86028,
@@ -423,6 +440,23 @@
     "timezone": "Europe/Warsaw",
     "population": 5646,
     "population_year": null
+  },
+  {
+    "id": 173051,
+    "name": "Chełm Śląski",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.10944444",
+    "longitude": "19.19333333",
+    "county_id": 4099,
+    "wikiDataId": "Q553460",
+    "type": "municipality",
+    "native": "Chełm Śląski",
+    "timezone": "Europe/Warsaw",
+    "population": 6309,
+    "population_year": 2026
   },
   {
     "id": 86053,
@@ -455,8 +489,8 @@
     "type": "city",
     "native": "Chorzów",
     "timezone": "Europe/Warsaw",
-    "population": 98418,
-    "population_year": 2025
+    "population": 97859,
+    "population_year": 2026
   },
   {
     "id": 86060,
@@ -489,8 +523,8 @@
     "type": "village",
     "native": "Chybie",
     "timezone": "Europe/Warsaw",
-    "population": 3980,
-    "population_year": null
+    "population": 3997,
+    "population_year": 2021
   },
   {
     "id": 86075,
@@ -523,8 +557,8 @@
     "type": "village",
     "native": "Cięcina",
     "timezone": "Europe/Warsaw",
-    "population": 4254,
-    "population_year": null
+    "population": 4260,
+    "population_year": 2021
   },
   {
     "id": 86081,
@@ -557,8 +591,8 @@
     "type": "city",
     "native": "Cieszyn",
     "timezone": "Europe/Warsaw",
-    "population": 32217,
-    "population_year": 2025
+    "population": 32074,
+    "population_year": 2026
   },
   {
     "id": 86090,
@@ -574,8 +608,8 @@
     "type": "village",
     "native": "Cisiec",
     "timezone": "Europe/Warsaw",
-    "population": 3224,
-    "population_year": null
+    "population": 3222,
+    "population_year": 2021
   },
   {
     "id": 86092,
@@ -591,8 +625,8 @@
     "type": "village",
     "native": "Cisownica",
     "timezone": "Europe/Warsaw",
-    "population": 1809,
-    "population_year": null
+    "population": 1808,
+    "population_year": 2021
   },
   {
     "id": 86098,
@@ -625,8 +659,8 @@
     "type": "village",
     "native": "Czaniec",
     "timezone": "Europe/Warsaw",
-    "population": 5790,
-    "population_year": null
+    "population": 5791,
+    "population_year": 2021
   },
   {
     "id": 86103,
@@ -642,8 +676,8 @@
     "type": "village",
     "native": "Czarków",
     "timezone": "Europe/Warsaw",
-    "population": 2264,
-    "population_year": null
+    "population": 2265,
+    "population_year": 2021
   },
   {
     "id": 86122,
@@ -659,8 +693,8 @@
     "type": "city",
     "native": "Czechowice-Dziedzice",
     "timezone": "Europe/Warsaw",
-    "population": 34564,
-    "population_year": 2025
+    "population": 34510,
+    "population_year": 2026
   },
   {
     "id": 86123,
@@ -676,8 +710,8 @@
     "type": "city",
     "native": "Czeladź",
     "timezone": "Europe/Warsaw",
-    "population": 29373,
-    "population_year": 2025
+    "population": 29235,
+    "population_year": 2026
   },
   {
     "id": 86130,
@@ -693,8 +727,8 @@
     "type": "village",
     "native": "Czernica",
     "timezone": "Europe/Warsaw",
-    "population": 2334,
-    "population_year": null
+    "population": 2335,
+    "population_year": 2021
   },
   {
     "id": 86132,
@@ -710,8 +744,8 @@
     "type": "village",
     "native": "Czernichów",
     "timezone": "Europe/Warsaw",
-    "population": 1021,
-    "population_year": null
+    "population": 1135,
+    "population_year": 2021
   },
   {
     "id": 86141,
@@ -744,8 +778,8 @@
     "type": "city",
     "native": "Częstochowa",
     "timezone": "Europe/Warsaw",
-    "population": 201439,
-    "population_year": 2025
+    "population": 200295,
+    "population_year": 2026
   },
   {
     "id": 86149,
@@ -762,7 +796,7 @@
     "native": "Czyżowice",
     "timezone": "Europe/Warsaw",
     "population": 3629,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 86240,
@@ -778,8 +812,8 @@
     "type": "city",
     "native": "Dąbrowa Górnicza",
     "timezone": "Europe/Warsaw",
-    "population": 111309,
-    "population_year": 2025
+    "population": 110674,
+    "population_year": 2026
   },
   {
     "id": 86242,
@@ -795,8 +829,8 @@
     "type": "village",
     "native": "Dąbrowa Zielona",
     "timezone": "Europe/Warsaw",
-    "population": 790,
-    "population_year": null
+    "population": 791,
+    "population_year": 2021
   },
   {
     "id": 86256,
@@ -812,8 +846,8 @@
     "type": "village",
     "native": "Dębowiec",
     "timezone": "Europe/Warsaw",
-    "population": 1786,
-    "population_year": null
+    "population": 1920,
+    "population_year": 2021
   },
   {
     "id": 86166,
@@ -829,8 +863,8 @@
     "type": "village",
     "native": "Dobieszowice",
     "timezone": "Europe/Warsaw",
-    "population": 1914,
-    "population_year": null
+    "population": 1913,
+    "population_year": 2021
   },
   {
     "id": 86199,
@@ -846,8 +880,8 @@
     "type": "village",
     "native": "Drogomyśl",
     "timezone": "Europe/Warsaw",
-    "population": 2316,
-    "population_year": null
+    "population": 2317,
+    "population_year": 2021
   },
   {
     "id": 86231,
@@ -864,7 +898,7 @@
     "native": "Dzięgielów",
     "timezone": "Europe/Warsaw",
     "population": 1418,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 86276,
@@ -914,8 +948,25 @@
     "type": "village",
     "native": "Gaszowice",
     "timezone": "Europe/Warsaw",
-    "population": 3117,
-    "population_year": null
+    "population": 3116,
+    "population_year": 2021
+  },
+  {
+    "id": 173042,
+    "name": "Gaszowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.10888889",
+    "longitude": "18.43083333",
+    "county_id": 4097,
+    "wikiDataId": "Q554371",
+    "type": "municipality",
+    "native": "Gaszowice",
+    "timezone": "Europe/Warsaw",
+    "population": 9953,
+    "population_year": 2026
   },
   {
     "id": 86299,
@@ -931,8 +982,8 @@
     "type": "municipality",
     "native": "Gierałtowice",
     "timezone": "Europe/Warsaw",
-    "population": 12827,
-    "population_year": 2025
+    "population": 12870,
+    "population_year": 2026
   },
   {
     "id": 86303,
@@ -948,8 +999,25 @@
     "type": "village",
     "native": "Gilowice",
     "timezone": "Europe/Warsaw",
-    "population": 1214,
-    "population_year": null
+    "population": 1676,
+    "population_year": 2021
+  },
+  {
+    "id": 173064,
+    "name": "Gilowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.71355000",
+    "longitude": "19.30907000",
+    "county_id": 4102,
+    "wikiDataId": "Q554609",
+    "type": "municipality",
+    "native": "Gilowice",
+    "timezone": "Europe/Warsaw",
+    "population": 6325,
+    "population_year": 2026
   },
   {
     "id": 86307,
@@ -965,8 +1033,8 @@
     "type": "city",
     "native": "Gliwice",
     "timezone": "Europe/Warsaw",
-    "population": 166942,
-    "population_year": 2025
+    "population": 166205,
+    "population_year": 2026
   },
   {
     "id": 86308,
@@ -982,8 +1050,8 @@
     "type": "village",
     "native": "Gniazdów",
     "timezone": "Europe/Warsaw",
-    "population": 1137,
-    "population_year": null
+    "population": 871,
+    "population_year": 2021
   },
   {
     "id": 86317,
@@ -1003,6 +1071,40 @@
     "population_year": null
   },
   {
+    "id": 173031,
+    "name": "Goczałkowice-Zdrój",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.93722222",
+    "longitude": "18.98250000",
+    "county_id": 4095,
+    "wikiDataId": "Q553350",
+    "type": "municipality",
+    "native": "Goczałkowice-Zdrój",
+    "timezone": "Europe/Warsaw",
+    "population": 6662,
+    "population_year": 2026
+  },
+  {
+    "id": 173052,
+    "name": "Godów",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.93333333",
+    "longitude": "18.48333333",
+    "county_id": 4100,
+    "wikiDataId": "Q554650",
+    "type": "municipality",
+    "native": "Godów",
+    "timezone": "Europe/Warsaw",
+    "population": 13663,
+    "population_year": 2026
+  },
+  {
     "id": 86322,
     "name": "Godów",
     "state_id": 1623,
@@ -1016,8 +1118,8 @@
     "type": "village",
     "native": "Godów",
     "timezone": "Europe/Warsaw",
-    "population": 1934,
-    "population_year": null
+    "population": 1932,
+    "population_year": 2021
   },
   {
     "id": 86319,
@@ -1034,7 +1136,7 @@
     "native": "Godziszka",
     "timezone": "Europe/Warsaw",
     "population": 2337,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 86327,
@@ -1050,8 +1152,25 @@
     "type": "village",
     "native": "Goleszów",
     "timezone": "Europe/Warsaw",
-    "population": 4045,
-    "population_year": null
+    "population": 4383,
+    "population_year": 2021
+  },
+  {
+    "id": 172989,
+    "name": "Goleszów",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.73570000",
+    "longitude": "18.73984722",
+    "county_id": 4088,
+    "wikiDataId": "Q554589",
+    "type": "municipality",
+    "native": "Goleszów",
+    "timezone": "Europe/Warsaw",
+    "population": 13013,
+    "population_year": 2026
   },
   {
     "id": 86356,
@@ -1067,8 +1186,8 @@
     "type": "village",
     "native": "Gołkowice",
     "timezone": "Europe/Warsaw",
-    "population": 4051,
-    "population_year": null
+    "population": 4050,
+    "population_year": 2021
   },
   {
     "id": 86409,
@@ -1084,8 +1203,8 @@
     "type": "village",
     "native": "Góra",
     "timezone": "Europe/Warsaw",
-    "population": 2554,
-    "population_year": null
+    "population": 3118,
+    "population_year": 2021
   },
   {
     "id": 86414,
@@ -1101,8 +1220,8 @@
     "type": "village",
     "native": "Górki Wielkie",
     "timezone": "Europe/Warsaw",
-    "population": 4344,
-    "population_year": null
+    "population": 4340,
+    "population_year": 2021
   },
   {
     "id": 86339,
@@ -1122,6 +1241,23 @@
     "population_year": null
   },
   {
+    "id": 173053,
+    "name": "Gorzyce",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.95944444",
+    "longitude": "18.39805556",
+    "county_id": 4100,
+    "wikiDataId": "Q554858",
+    "type": "municipality",
+    "native": "Gorzyce",
+    "timezone": "Europe/Warsaw",
+    "population": 21138,
+    "population_year": 2026
+  },
+  {
     "id": 86341,
     "name": "Gorzyczki",
     "state_id": 1623,
@@ -1135,8 +1271,8 @@
     "type": "village",
     "native": "Gorzyczki",
     "timezone": "Europe/Warsaw",
-    "population": 2088,
-    "population_year": null
+    "population": 2229,
+    "population_year": 2021
   },
   {
     "id": 86346,
@@ -1152,8 +1288,8 @@
     "type": "village",
     "native": "Gostyń",
     "timezone": "Europe/Warsaw",
-    "population": 3276,
-    "population_year": null
+    "population": 4535,
+    "population_year": 2021
   },
   {
     "id": 86445,
@@ -1169,8 +1305,25 @@
     "type": "village",
     "native": "Hażlach",
     "timezone": "Europe/Warsaw",
-    "population": 2526,
-    "population_year": null
+    "population": 2527,
+    "population_year": 2021
+  },
+  {
+    "id": 172990,
+    "name": "Hażlach",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.80737222",
+    "longitude": "18.65636667",
+    "county_id": 4088,
+    "wikiDataId": "Q553659",
+    "type": "municipality",
+    "native": "Hażlach",
+    "timezone": "Europe/Warsaw",
+    "population": 10750,
+    "population_year": 2026
   },
   {
     "id": 86448,
@@ -1186,8 +1339,25 @@
     "type": "village",
     "native": "Herby",
     "timezone": "Europe/Warsaw",
-    "population": 2134,
-    "population_year": null
+    "population": 2136,
+    "population_year": 2021
+  },
+  {
+    "id": 173020,
+    "name": "Herby",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.75277800",
+    "longitude": "18.88750000",
+    "county_id": 4092,
+    "wikiDataId": "Q553478",
+    "type": "municipality",
+    "native": "Herby",
+    "timezone": "Europe/Warsaw",
+    "population": 6274,
+    "population_year": 2026
   },
   {
     "id": 86455,
@@ -1203,8 +1373,8 @@
     "type": "village",
     "native": "Huta Stara B",
     "timezone": "Europe/Warsaw",
-    "population": 1567,
-    "population_year": null
+    "population": 1564,
+    "population_year": 2021
   },
   {
     "id": 86457,
@@ -1220,8 +1390,42 @@
     "type": "city",
     "native": "IMILIN",
     "timezone": "Europe/Warsaw",
-    "population": 9467,
-    "population_year": 2025
+    "population": 9503,
+    "population_year": 2026
+  },
+  {
+    "id": 173056,
+    "name": "Irządze",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.62611111",
+    "longitude": "19.68277778",
+    "county_id": 4101,
+    "wikiDataId": "Q553374",
+    "type": "municipality",
+    "native": "Irządze",
+    "timezone": "Europe/Warsaw",
+    "population": 2456,
+    "population_year": 2026
+  },
+  {
+    "id": 172991,
+    "name": "Istebna",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.56409722",
+    "longitude": "18.89328333",
+    "county_id": 4088,
+    "wikiDataId": "Q553636",
+    "type": "municipality",
+    "native": "Istebna",
+    "timezone": "Europe/Warsaw",
+    "population": 12161,
+    "population_year": 2026
   },
   {
     "id": 86462,
@@ -1238,7 +1442,7 @@
     "native": "Istebna",
     "timezone": "Europe/Warsaw",
     "population": 5271,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 86494,
@@ -1275,6 +1479,23 @@
     "population_year": null
   },
   {
+    "id": 172994,
+    "name": "Janów",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.72388889",
+    "longitude": "19.43611111",
+    "county_id": 4089,
+    "wikiDataId": "Q554076",
+    "type": "municipality",
+    "native": "Janów",
+    "timezone": "Europe/Warsaw",
+    "population": 5746,
+    "population_year": 2026
+  },
+  {
     "id": 86498,
     "name": "Janowice",
     "state_id": 1623,
@@ -1288,8 +1509,8 @@
     "type": "village",
     "native": "Janowice",
     "timezone": "Europe/Warsaw",
-    "population": 1708,
-    "population_year": null
+    "population": 1879,
+    "population_year": 2021
   },
   {
     "id": 86514,
@@ -1305,8 +1526,8 @@
     "type": "municipality",
     "native": "Jasienica",
     "timezone": "Europe/Warsaw",
-    "population": 25305,
-    "population_year": 2025
+    "population": 25319,
+    "population_year": 2026
   },
   {
     "id": 86524,
@@ -1322,8 +1543,8 @@
     "type": "village",
     "native": "Jastrząb",
     "timezone": "Europe/Warsaw",
-    "population": 1308,
-    "population_year": null
+    "population": 1309,
+    "population_year": 2021
   },
   {
     "id": 86528,
@@ -1360,6 +1581,23 @@
     "population_year": null
   },
   {
+    "id": 172984,
+    "name": "Jaworze",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.80611111",
+    "longitude": "18.94222222",
+    "county_id": 4087,
+    "wikiDataId": "Q554397",
+    "type": "municipality",
+    "native": "Jaworze",
+    "timezone": "Europe/Warsaw",
+    "population": 7433,
+    "population_year": 2026
+  },
+  {
     "id": 86536,
     "name": "Jaworzno",
     "state_id": 1623,
@@ -1373,8 +1611,8 @@
     "type": "city",
     "native": "Jaworzno",
     "timezone": "Europe/Warsaw",
-    "population": 85253,
-    "population_year": 2025
+    "population": 84835,
+    "population_year": 2026
   },
   {
     "id": 86538,
@@ -1391,7 +1629,7 @@
     "native": "Jaworzynka",
     "timezone": "Europe/Warsaw",
     "population": 3300,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 86547,
@@ -1408,7 +1646,41 @@
     "native": "Jejkowice",
     "timezone": "Europe/Warsaw",
     "population": 4153,
-    "population_year": null
+    "population_year": 2021
+  },
+  {
+    "id": 173043,
+    "name": "Jejkowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.10694444",
+    "longitude": "18.46777778",
+    "county_id": 4097,
+    "wikiDataId": "Q554570",
+    "type": "municipality",
+    "native": "Jejkowice",
+    "timezone": "Europe/Warsaw",
+    "population": 4175,
+    "population_year": 2026
+  },
+  {
+    "id": 173065,
+    "name": "Jeleśnia",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.65000000",
+    "longitude": "19.31666667",
+    "county_id": 4102,
+    "wikiDataId": "Q553465",
+    "type": "municipality",
+    "native": "Jeleśnia",
+    "timezone": "Europe/Warsaw",
+    "population": 12412,
+    "population_year": 2026
   },
   {
     "id": 86551,
@@ -1425,7 +1697,7 @@
     "native": "Jeleśnia",
     "timezone": "Europe/Warsaw",
     "population": 3851,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 86572,
@@ -1441,8 +1713,8 @@
     "type": "village",
     "native": "Juszczyna",
     "timezone": "Europe/Warsaw",
-    "population": 1683,
-    "population_year": null
+    "population": 1685,
+    "population_year": 2021
   },
   {
     "id": 86581,
@@ -1458,8 +1730,8 @@
     "type": "village",
     "native": "Kaczyce",
     "timezone": "Europe/Warsaw",
-    "population": 3039,
-    "population_year": null
+    "population": 3037,
+    "population_year": 2021
   },
   {
     "id": 86583,
@@ -1492,8 +1764,8 @@
     "type": "city",
     "native": "Kalety",
     "timezone": "Europe/Warsaw",
-    "population": 7989,
-    "population_year": 2025
+    "population": 7985,
+    "population_year": 2026
   },
   {
     "id": 86589,
@@ -1509,8 +1781,8 @@
     "type": "village",
     "native": "Kamesnica",
     "timezone": "Europe/Warsaw",
-    "population": 2862,
-    "population_year": null
+    "population": 2860,
+    "population_year": 2021
   },
   {
     "id": 86592,
@@ -1530,6 +1802,23 @@
     "population_year": null
   },
   {
+    "id": 172995,
+    "name": "Kamienica Polska",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.68333333",
+    "longitude": "19.15000000",
+    "county_id": 4089,
+    "wikiDataId": "Q554672",
+    "type": "municipality",
+    "native": "Kamienica Polska",
+    "timezone": "Europe/Warsaw",
+    "population": 5333,
+    "population_year": 2026
+  },
+  {
     "id": 86606,
     "name": "Kamyk",
     "state_id": 1623,
@@ -1543,8 +1832,8 @@
     "type": "village",
     "native": "Kamyk",
     "timezone": "Europe/Warsaw",
-    "population": 1329,
-    "population_year": null
+    "population": 1325,
+    "population_year": 2021
   },
   {
     "id": 86608,
@@ -1561,7 +1850,7 @@
     "native": "Kaniów",
     "timezone": "Europe/Warsaw",
     "population": 3500,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 86621,
@@ -1577,8 +1866,8 @@
     "type": "city",
     "native": "Katowice",
     "timezone": "Europe/Warsaw",
-    "population": 277415,
-    "population_year": 2025
+    "population": 276563,
+    "population_year": 2026
   },
   {
     "id": 86862,
@@ -1594,8 +1883,42 @@
     "type": "city",
     "native": "Kłobuck",
     "timezone": "Europe/Warsaw",
-    "population": 12012,
-    "population_year": 2025
+    "population": 11964,
+    "population_year": 2026
+  },
+  {
+    "id": 173011,
+    "name": "Kłobuck",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.90680000",
+    "longitude": "18.94020000",
+    "county_id": 4091,
+    "wikiDataId": "Q553531",
+    "type": "municipality",
+    "native": "Kłobuck",
+    "timezone": "Europe/Warsaw",
+    "population": 19291,
+    "population_year": 2026
+  },
+  {
+    "id": 172996,
+    "name": "Kłomnice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.92361111",
+    "longitude": "19.35361111",
+    "county_id": 4089,
+    "wikiDataId": "Q553555",
+    "type": "municipality",
+    "native": "Kłomnice",
+    "timezone": "Europe/Warsaw",
+    "population": 12555,
+    "population_year": 2026
   },
   {
     "id": 86867,
@@ -1628,8 +1951,8 @@
     "type": "city",
     "native": "Knurów",
     "timezone": "Europe/Warsaw",
-    "population": 34919,
-    "population_year": 2025
+    "population": 34791,
+    "population_year": 2026
   },
   {
     "id": 86660,
@@ -1645,8 +1968,8 @@
     "type": "village",
     "native": "Kobiernice",
     "timezone": "Europe/Warsaw",
-    "population": 3353,
-    "population_year": null
+    "population": 3352,
+    "population_year": 2021
   },
   {
     "id": 86662,
@@ -1663,7 +1986,41 @@
     "native": "Kobiór",
     "timezone": "Europe/Warsaw",
     "population": 5088,
-    "population_year": null
+    "population_year": 2021
+  },
+  {
+    "id": 173032,
+    "name": "Kobiór",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.06027778",
+    "longitude": "18.93944444",
+    "county_id": 4095,
+    "wikiDataId": "Q553363",
+    "type": "municipality",
+    "native": "Kobiór",
+    "timezone": "Europe/Warsaw",
+    "population": 5067,
+    "population_year": 2026
+  },
+  {
+    "id": 173021,
+    "name": "Kochanowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.70000000",
+    "longitude": "18.75000000",
+    "county_id": 4092,
+    "wikiDataId": "Q554646",
+    "type": "municipality",
+    "native": "Kochanowice",
+    "timezone": "Europe/Warsaw",
+    "population": 6937,
+    "population_year": 2026
   },
   {
     "id": 86670,
@@ -1679,8 +2036,8 @@
     "type": "village",
     "native": "Kochanowice",
     "timezone": "Europe/Warsaw",
-    "population": 2208,
-    "population_year": null
+    "population": 2207,
+    "population_year": 2021
   },
   {
     "id": 86748,
@@ -1696,8 +2053,8 @@
     "type": "village",
     "native": "Kończyce Małe",
     "timezone": "Europe/Warsaw",
-    "population": 3428,
-    "population_year": null
+    "population": 3427,
+    "population_year": 2021
   },
   {
     "id": 86749,
@@ -1714,7 +2071,7 @@
     "native": "Kończyce Wielkie",
     "timezone": "Europe/Warsaw",
     "population": 1891,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 86690,
@@ -1731,7 +2088,7 @@
     "native": "Koniaków",
     "timezone": "Europe/Warsaw",
     "population": 3579,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 86691,
@@ -1747,8 +2104,42 @@
     "type": "city",
     "native": "Koniecpol",
     "timezone": "Europe/Warsaw",
-    "population": 5161,
-    "population_year": 2025
+    "population": 5121,
+    "population_year": 2026
+  },
+  {
+    "id": 172997,
+    "name": "Koniecpol",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.78333333",
+    "longitude": "19.68333333",
+    "county_id": 4089,
+    "wikiDataId": "Q553755",
+    "type": "municipality",
+    "native": "Koniecpol",
+    "timezone": "Europe/Warsaw",
+    "population": 8317,
+    "population_year": 2026
+  },
+  {
+    "id": 172998,
+    "name": "Konopiska",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.72555600",
+    "longitude": "19.00833300",
+    "county_id": 4089,
+    "wikiDataId": "Q553510",
+    "type": "municipality",
+    "native": "Konopiska",
+    "timezone": "Europe/Warsaw",
+    "population": 10861,
+    "population_year": 2026
   },
   {
     "id": 86694,
@@ -1764,8 +2155,8 @@
     "type": "village",
     "native": "Konopiska",
     "timezone": "Europe/Warsaw",
-    "population": 2959,
-    "population_year": null
+    "population": 2973,
+    "population_year": 2021
   },
   {
     "id": 86700,
@@ -1799,7 +2190,24 @@
     "native": "Kornowac",
     "timezone": "Europe/Warsaw",
     "population": 895,
-    "population_year": null
+    "population_year": 2021
+  },
+  {
+    "id": 173036,
+    "name": "Kornowac",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.07277778",
+    "longitude": "18.31916667",
+    "county_id": 4096,
+    "wikiDataId": "Q554874",
+    "type": "municipality",
+    "native": "Kornowac",
+    "timezone": "Europe/Warsaw",
+    "population": 5189,
+    "population_year": 2026
   },
   {
     "id": 86753,
@@ -1833,7 +2241,41 @@
     "native": "Koszarawa",
     "timezone": "Europe/Warsaw",
     "population": 2252,
-    "population_year": null
+    "population_year": 2021
+  },
+  {
+    "id": 173066,
+    "name": "Koszarawa",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.64507000",
+    "longitude": "19.40254000",
+    "county_id": 4102,
+    "wikiDataId": "Q553407",
+    "type": "municipality",
+    "native": "Koszarawa",
+    "timezone": "Europe/Warsaw",
+    "population": 2167,
+    "population_year": 2026
+  },
+  {
+    "id": 173022,
+    "name": "Koszęcin",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.63411000",
+    "longitude": "18.84130000",
+    "county_id": 4092,
+    "wikiDataId": "Q553622",
+    "type": "municipality",
+    "native": "Koszęcin",
+    "timezone": "Europe/Warsaw",
+    "population": 11672,
+    "population_year": 2026
   },
   {
     "id": 86720,
@@ -1866,8 +2308,25 @@
     "type": "city",
     "native": "Koziegłowy",
     "timezone": "Europe/Warsaw",
-    "population": 2359,
-    "population_year": 2025
+    "population": 2339,
+    "population_year": 2026
+  },
+  {
+    "id": 173027,
+    "name": "Koziegłowy",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.60083333",
+    "longitude": "19.16472222",
+    "county_id": 4094,
+    "wikiDataId": "Q553369",
+    "type": "municipality",
+    "native": "Koziegłowy",
+    "timezone": "Europe/Warsaw",
+    "population": 13951,
+    "population_year": 2026
   },
   {
     "id": 86737,
@@ -1884,7 +2343,41 @@
     "native": "Kozy",
     "timezone": "Europe/Warsaw",
     "population": 13098,
-    "population_year": null
+    "population_year": 2021
+  },
+  {
+    "id": 172985,
+    "name": "Kozy",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.84500000",
+    "longitude": "19.14166667",
+    "county_id": 4087,
+    "wikiDataId": "Q553455",
+    "type": "municipality",
+    "native": "Kozy",
+    "timezone": "Europe/Warsaw",
+    "population": 13336,
+    "population_year": 2026
+  },
+  {
+    "id": 173057,
+    "name": "Kroczyce",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.56361111",
+    "longitude": "19.57055556",
+    "county_id": 4101,
+    "wikiDataId": "Q555573",
+    "type": "municipality",
+    "native": "Kroczyce",
+    "timezone": "Europe/Warsaw",
+    "population": 5959,
+    "population_year": 2026
   },
   {
     "id": 86780,
@@ -1900,8 +2393,8 @@
     "type": "village",
     "native": "Kroczyce",
     "timezone": "Europe/Warsaw",
-    "population": 1929,
-    "population_year": null
+    "population": 1938,
+    "population_year": 2021
   },
   {
     "id": 86792,
@@ -1917,8 +2410,42 @@
     "type": "village",
     "native": "Krupski Młyn",
     "timezone": "Europe/Warsaw",
-    "population": 2121,
-    "population_year": null
+    "population": 2123,
+    "population_year": 2021
+  },
+  {
+    "id": 173046,
+    "name": "Krupski Młyn",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.57416667",
+    "longitude": "18.62388889",
+    "county_id": 4098,
+    "wikiDataId": "Q553689",
+    "type": "municipality",
+    "native": "Krupski Młyn",
+    "timezone": "Europe/Warsaw",
+    "population": 2896,
+    "population_year": 2026
+  },
+  {
+    "id": 172999,
+    "name": "Kruszyna",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.96694444",
+    "longitude": "19.27361111",
+    "county_id": 4089,
+    "wikiDataId": "Q553711",
+    "type": "municipality",
+    "native": "Kruszyna",
+    "timezone": "Europe/Warsaw",
+    "population": 4622,
+    "population_year": 2026
   },
   {
     "id": 86798,
@@ -1934,8 +2461,8 @@
     "type": "village",
     "native": "Kryry",
     "timezone": "Europe/Warsaw",
-    "population": 1449,
-    "population_year": null
+    "population": 1443,
+    "population_year": 2021
   },
   {
     "id": 86800,
@@ -1951,8 +2478,25 @@
     "type": "city",
     "native": "Krzanowice",
     "timezone": "Europe/Warsaw",
-    "population": 1951,
-    "population_year": 2025
+    "population": 1941,
+    "population_year": 2026
+  },
+  {
+    "id": 173037,
+    "name": "Krzanowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.02055556",
+    "longitude": "18.12750000",
+    "county_id": 4096,
+    "wikiDataId": "Q553607",
+    "type": "municipality",
+    "native": "Krzanowice",
+    "timezone": "Europe/Warsaw",
+    "population": 5154,
+    "population_year": 2026
   },
   {
     "id": 86807,
@@ -1968,8 +2512,25 @@
     "type": "city",
     "native": "Krzepice",
     "timezone": "Europe/Warsaw",
-    "population": 4032,
-    "population_year": 2025
+    "population": 4018,
+    "population_year": 2026
+  },
+  {
+    "id": 173012,
+    "name": "Krzepice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.96722222",
+    "longitude": "18.73194444",
+    "county_id": 4091,
+    "wikiDataId": "Q553535",
+    "type": "municipality",
+    "native": "Krzepice",
+    "timezone": "Europe/Warsaw",
+    "population": 8297,
+    "population_year": 2026
   },
   {
     "id": 86822,
@@ -1985,8 +2546,8 @@
     "type": "municipality",
     "native": "Krzyżanowice",
     "timezone": "Europe/Warsaw",
-    "population": 10572,
-    "population_year": 2025
+    "population": 10545,
+    "population_year": 2026
   },
   {
     "id": 86824,
@@ -2002,8 +2563,8 @@
     "type": "village",
     "native": "Krzyżowa",
     "timezone": "Europe/Warsaw",
-    "population": 1340,
-    "population_year": null
+    "population": 1339,
+    "population_year": 2021
   },
   {
     "id": 86825,
@@ -2019,8 +2580,8 @@
     "type": "village",
     "native": "Krzyżowice",
     "timezone": "Europe/Warsaw",
-    "population": 1035,
-    "population_year": null
+    "population": 979,
+    "population_year": 2021
   },
   {
     "id": 86830,
@@ -2036,8 +2597,8 @@
     "type": "village",
     "native": "Książenice",
     "timezone": "Europe/Warsaw",
-    "population": 2459,
-    "population_year": null
+    "population": 2661,
+    "population_year": 2021
   },
   {
     "id": 86846,
@@ -2053,8 +2614,25 @@
     "type": "city",
     "native": "Kuźnia Raciborska",
     "timezone": "Europe/Warsaw",
-    "population": 4541,
-    "population_year": 2025
+    "population": 4497,
+    "population_year": 2026
+  },
+  {
+    "id": 173038,
+    "name": "Kuźnia Raciborska",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.21666667",
+    "longitude": "18.30000000",
+    "county_id": 4096,
+    "wikiDataId": "Q553587",
+    "type": "municipality",
+    "native": "Kuźnia Raciborska",
+    "timezone": "Europe/Warsaw",
+    "population": 10351,
+    "population_year": 2026
   },
   {
     "id": 86869,
@@ -2070,8 +2648,8 @@
     "type": "village",
     "native": "Laliki",
     "timezone": "Europe/Warsaw",
-    "population": 935,
-    "population_year": null
+    "population": 934,
+    "population_year": 2021
   },
   {
     "id": 86979,
@@ -2087,8 +2665,8 @@
     "type": "city",
     "native": "Lędziny",
     "timezone": "Europe/Warsaw",
-    "population": 16167,
-    "population_year": 2025
+    "population": 16180,
+    "population_year": 2026
   },
   {
     "id": 86880,
@@ -2104,8 +2682,25 @@
     "type": "village",
     "native": "Lelów",
     "timezone": "Europe/Warsaw",
-    "population": 2127,
-    "population_year": null
+    "population": 1118,
+    "population_year": 2021
+  },
+  {
+    "id": 173000,
+    "name": "Lelów",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.68250000",
+    "longitude": "19.62527778",
+    "county_id": 4089,
+    "wikiDataId": "Q553566",
+    "type": "municipality",
+    "native": "Lelów",
+    "timezone": "Europe/Warsaw",
+    "population": 4346,
+    "population_year": 2026
   },
   {
     "id": 86888,
@@ -2121,8 +2716,8 @@
     "type": "village",
     "native": "Leśna",
     "timezone": "Europe/Warsaw",
-    "population": 2093,
-    "population_year": null
+    "population": 2171,
+    "population_year": 2021
   },
   {
     "id": 86901,
@@ -2138,8 +2733,8 @@
     "type": "village",
     "native": "Ligota",
     "timezone": "Europe/Warsaw",
-    "population": 5033,
-    "population_year": null
+    "population": 5028,
+    "population_year": 2021
   },
   {
     "id": 86907,
@@ -2155,8 +2750,42 @@
     "type": "village",
     "native": "Lipie",
     "timezone": "Europe/Warsaw",
-    "population": 1064,
-    "population_year": null
+    "population": 1069,
+    "population_year": 2021
+  },
+  {
+    "id": 173013,
+    "name": "Lipie",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "51.01166667",
+    "longitude": "18.80083333",
+    "county_id": 4091,
+    "wikiDataId": "Q553573",
+    "type": "municipality",
+    "native": "Lipie",
+    "timezone": "Europe/Warsaw",
+    "population": 5823,
+    "population_year": 2026
+  },
+  {
+    "id": 173067,
+    "name": "Lipowa",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.67618000",
+    "longitude": "19.09295000",
+    "county_id": 4102,
+    "wikiDataId": "Q553398",
+    "type": "municipality",
+    "native": "Lipowa",
+    "timezone": "Europe/Warsaw",
+    "population": 11046,
+    "population_year": 2026
   },
   {
     "id": 86919,
@@ -2172,8 +2801,8 @@
     "type": "village",
     "native": "Lipowa",
     "timezone": "Europe/Warsaw",
-    "population": 4357,
-    "population_year": null
+    "population": 4937,
+    "population_year": 2021
   },
   {
     "id": 86948,
@@ -2189,8 +2818,8 @@
     "type": "city",
     "native": "Lubliniec",
     "timezone": "Europe/Warsaw",
-    "population": 22931,
-    "population_year": 2025
+    "population": 22847,
+    "population_year": 2026
   },
   {
     "id": 86951,
@@ -2206,8 +2835,42 @@
     "type": "village",
     "native": "Lubomia",
     "timezone": "Europe/Warsaw",
-    "population": 3704,
-    "population_year": null
+    "population": 3701,
+    "population_year": 2021
+  },
+  {
+    "id": 173054,
+    "name": "Lubomia",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.03333333",
+    "longitude": "18.30000000",
+    "county_id": 4100,
+    "wikiDataId": "Q553558",
+    "type": "municipality",
+    "native": "Lubomia",
+    "timezone": "Europe/Warsaw",
+    "population": 7535,
+    "population_year": 2026
+  },
+  {
+    "id": 173044,
+    "name": "Lyski",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.11972222",
+    "longitude": "18.39138889",
+    "county_id": 4097,
+    "wikiDataId": "Q553590",
+    "type": "municipality",
+    "native": "Lyski",
+    "timezone": "Europe/Warsaw",
+    "population": 9745,
+    "population_year": 2026
   },
   {
     "id": 86975,
@@ -2223,8 +2886,8 @@
     "type": "village",
     "native": "Lyski",
     "timezone": "Europe/Warsaw",
-    "population": 1844,
-    "population_year": null
+    "population": 1846,
+    "population_year": 2021
   },
   {
     "id": 88774,
@@ -2240,8 +2903,8 @@
     "type": "village",
     "native": "Łaziska",
     "timezone": "Europe/Warsaw",
-    "population": 1714,
-    "population_year": null
+    "population": 1715,
+    "population_year": 2021
   },
   {
     "id": 88775,
@@ -2257,8 +2920,8 @@
     "type": "city",
     "native": "Łaziska Górne",
     "timezone": "Europe/Warsaw",
-    "population": 20826,
-    "population_year": 2025
+    "population": 20789,
+    "population_year": 2026
   },
   {
     "id": 88776,
@@ -2274,8 +2937,42 @@
     "type": "city",
     "native": "Łazy",
     "timezone": "Europe/Warsaw",
-    "population": 6239,
-    "population_year": 2025
+    "population": 6210,
+    "population_year": 2026
+  },
+  {
+    "id": 173058,
+    "name": "Łazy",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.43333333",
+    "longitude": "19.40000000",
+    "county_id": 4101,
+    "wikiDataId": "Q553402",
+    "type": "municipality",
+    "native": "Łazy",
+    "timezone": "Europe/Warsaw",
+    "population": 15431,
+    "population_year": 2026
+  },
+  {
+    "id": 173068,
+    "name": "Łękawica",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.71666667",
+    "longitude": "19.26583333",
+    "county_id": 4102,
+    "wikiDataId": "Q554348",
+    "type": "municipality",
+    "native": "Łękawica",
+    "timezone": "Europe/Warsaw",
+    "population": 4537,
+    "population_year": 2026
   },
   {
     "id": 88821,
@@ -2291,8 +2988,8 @@
     "type": "village",
     "native": "Łękawica",
     "timezone": "Europe/Warsaw",
-    "population": 2372,
-    "population_year": null
+    "population": 2377,
+    "population_year": 2021
   },
   {
     "id": 88780,
@@ -2325,8 +3022,42 @@
     "type": "village",
     "native": "Łodygowice",
     "timezone": "Europe/Warsaw",
-    "population": 7683,
-    "population_year": null
+    "population": 7682,
+    "population_year": 2021
+  },
+  {
+    "id": 173069,
+    "name": "Łodygowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.72222222",
+    "longitude": "19.14916667",
+    "county_id": 4102,
+    "wikiDataId": "Q374267",
+    "type": "municipality",
+    "native": "Łodygowice",
+    "timezone": "Europe/Warsaw",
+    "population": 15466,
+    "population_year": 2026
+  },
+  {
+    "id": 173055,
+    "name": "Marklowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.01833333",
+    "longitude": "18.52472222",
+    "county_id": 4100,
+    "wikiDataId": "Q553290",
+    "type": "municipality",
+    "native": "Marklowice",
+    "timezone": "Europe/Warsaw",
+    "population": 5233,
+    "population_year": 2026
   },
   {
     "id": 86997,
@@ -2360,7 +3091,7 @@
     "native": "Mazańcowice",
     "timezone": "Europe/Warsaw",
     "population": 4065,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 87016,
@@ -2376,8 +3107,8 @@
     "type": "city",
     "native": "Miasteczko Śląskie",
     "timezone": "Europe/Warsaw",
-    "population": 6805,
-    "population_year": 2025
+    "population": 6802,
+    "population_year": 2026
   },
   {
     "id": 87032,
@@ -2393,8 +3124,25 @@
     "type": "village",
     "native": "Miedźna",
     "timezone": "Europe/Warsaw",
-    "population": 1745,
-    "population_year": null
+    "population": 1743,
+    "population_year": 2021
+  },
+  {
+    "id": 173033,
+    "name": "Miedźna",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.98333333",
+    "longitude": "19.05000000",
+    "county_id": 4095,
+    "wikiDataId": "Q553360",
+    "type": "municipality",
+    "native": "Miedźna",
+    "timezone": "Europe/Warsaw",
+    "population": 15991,
+    "population_year": 2026
   },
   {
     "id": 87031,
@@ -2412,6 +3160,23 @@
     "timezone": "Europe/Warsaw",
     "population": 2430,
     "population_year": null
+  },
+  {
+    "id": 173014,
+    "name": "Miedźno",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.97027778",
+    "longitude": "18.98194444",
+    "county_id": 4091,
+    "wikiDataId": "Q553747",
+    "type": "municipality",
+    "native": "Miedźno",
+    "timezone": "Europe/Warsaw",
+    "population": 7350,
+    "population_year": 2026
   },
   {
     "id": 87059,
@@ -2444,8 +3209,25 @@
     "type": "village",
     "native": "Mierzęcice",
     "timezone": "Europe/Warsaw",
-    "population": 2892,
-    "population_year": null
+    "population": 2894,
+    "population_year": 2021
+  },
+  {
+    "id": 172981,
+    "name": "Mierzęcice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.44416667",
+    "longitude": "19.12861111",
+    "county_id": 4086,
+    "wikiDataId": "Q554595",
+    "type": "municipality",
+    "native": "Mierzęcice",
+    "timezone": "Europe/Warsaw",
+    "population": 7977,
+    "population_year": 2026
   },
   {
     "id": 87044,
@@ -2461,8 +3243,8 @@
     "type": "city",
     "native": "Mikołów",
     "timezone": "Europe/Warsaw",
-    "population": 41478,
-    "population_year": 2025
+    "population": 41487,
+    "population_year": 2026
   },
   {
     "id": 87051,
@@ -2478,8 +3260,25 @@
     "type": "village",
     "native": "Milówka",
     "timezone": "Europe/Warsaw",
-    "population": 4448,
-    "population_year": null
+    "population": 4429,
+    "population_year": 2021
+  },
+  {
+    "id": 173070,
+    "name": "Milówka",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.56305556",
+    "longitude": "19.08722222",
+    "county_id": 4102,
+    "wikiDataId": "Q554537",
+    "type": "municipality",
+    "native": "Milówka",
+    "timezone": "Europe/Warsaw",
+    "population": 9580,
+    "population_year": 2026
   },
   {
     "id": 87076,
@@ -2495,8 +3294,8 @@
     "type": "village",
     "native": "Mnich",
     "timezone": "Europe/Warsaw",
-    "population": 3636,
-    "population_year": null
+    "population": 3631,
+    "population_year": 2021
   },
   {
     "id": 87107,
@@ -2512,8 +3311,25 @@
     "type": "village",
     "native": "Mstów",
     "timezone": "Europe/Warsaw",
-    "population": 1647,
-    "population_year": null
+    "population": 1649,
+    "population_year": 2021
+  },
+  {
+    "id": 173001,
+    "name": "Mstów",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.82777778",
+    "longitude": "19.28722222",
+    "county_id": 4089,
+    "wikiDataId": "Q554293",
+    "type": "municipality",
+    "native": "Mstów",
+    "timezone": "Europe/Warsaw",
+    "population": 10842,
+    "population_year": 2026
   },
   {
     "id": 87108,
@@ -2529,8 +3345,8 @@
     "type": "municipality",
     "native": "Mszana",
     "timezone": "Europe/Warsaw",
-    "population": 7656,
-    "population_year": 2025
+    "population": 7626,
+    "population_year": 2026
   },
   {
     "id": 87112,
@@ -2567,6 +3383,23 @@
     "population_year": null
   },
   {
+    "id": 173002,
+    "name": "Mykanów",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.93270000",
+    "longitude": "19.18060000",
+    "county_id": 4089,
+    "wikiDataId": "Q554463",
+    "type": "municipality",
+    "native": "Mykanów",
+    "timezone": "Europe/Warsaw",
+    "population": 15483,
+    "population_year": 2026
+  },
+  {
     "id": 87121,
     "name": "Mysłowice",
     "state_id": 1623,
@@ -2580,8 +3413,8 @@
     "type": "city",
     "native": "Mysłowice",
     "timezone": "Europe/Warsaw",
-    "population": 70160,
-    "population_year": 2025
+    "population": 69864,
+    "population_year": 2026
   },
   {
     "id": 87118,
@@ -2597,8 +3430,8 @@
     "type": "city",
     "native": "Myszków",
     "timezone": "Europe/Warsaw",
-    "population": 28660,
-    "population_year": 2025
+    "population": 28493,
+    "population_year": 2026
   },
   {
     "id": 87133,
@@ -2631,8 +3464,25 @@
     "type": "village",
     "native": "Nędza",
     "timezone": "Europe/Warsaw",
-    "population": 3114,
-    "population_year": null
+    "population": 3110,
+    "population_year": 2021
+  },
+  {
+    "id": 173039,
+    "name": "Nędza",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.16055556",
+    "longitude": "18.31083333",
+    "county_id": 4096,
+    "wikiDataId": "Q553343",
+    "type": "municipality",
+    "native": "Nędza",
+    "timezone": "Europe/Warsaw",
+    "population": 6583,
+    "population_year": 2026
   },
   {
     "id": 87153,
@@ -2652,6 +3502,23 @@
     "population_year": null
   },
   {
+    "id": 173028,
+    "name": "Niegowa",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.65000000",
+    "longitude": "19.48333333",
+    "county_id": 4094,
+    "wikiDataId": "Q554741",
+    "type": "municipality",
+    "native": "Niegowa",
+    "timezone": "Europe/Warsaw",
+    "population": 5317,
+    "population_year": 2026
+  },
+  {
     "id": 87160,
     "name": "Niegowonice",
     "state_id": 1623,
@@ -2665,8 +3532,8 @@
     "type": "village",
     "native": "Niegowonice",
     "timezone": "Europe/Warsaw",
-    "population": 2453,
-    "population_year": null
+    "population": 1918,
+    "population_year": 2021
   },
   {
     "id": 87223,
@@ -2699,8 +3566,25 @@
     "type": "city",
     "native": "Ogrodzieniec",
     "timezone": "Europe/Warsaw",
-    "population": 3678,
-    "population_year": 2025
+    "population": 3574,
+    "population_year": 2026
+  },
+  {
+    "id": 173059,
+    "name": "Ogrodzieniec",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.45000000",
+    "longitude": "19.51666667",
+    "county_id": 4101,
+    "wikiDataId": "Q425739",
+    "type": "municipality",
+    "native": "Ogrodzieniec",
+    "timezone": "Europe/Warsaw",
+    "population": 8227,
+    "population_year": 2026
   },
   {
     "id": 87247,
@@ -2716,8 +3600,25 @@
     "type": "city",
     "native": "Olsztyn",
     "timezone": "Europe/Warsaw",
-    "population": 2436,
-    "population_year": 2025
+    "population": 2434,
+    "population_year": 2026
+  },
+  {
+    "id": 173003,
+    "name": "Olsztyn",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.75194400",
+    "longitude": "19.26777800",
+    "county_id": 4089,
+    "wikiDataId": "Q553570",
+    "type": "municipality",
+    "native": "Olsztyn",
+    "timezone": "Europe/Warsaw",
+    "population": 8170,
+    "population_year": 2026
   },
   {
     "id": 87253,
@@ -2734,7 +3635,7 @@
     "native": "Olaza",
     "timezone": "Europe/Warsaw",
     "population": 1548,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 87258,
@@ -2751,7 +3652,41 @@
     "native": "Opatów",
     "timezone": "Europe/Warsaw",
     "population": 1164,
-    "population_year": null
+    "population_year": 2021
+  },
+  {
+    "id": 173015,
+    "name": "Opatów",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.96138889",
+    "longitude": "18.82527778",
+    "county_id": 4091,
+    "wikiDataId": "Q553984",
+    "type": "municipality",
+    "native": "Opatów",
+    "timezone": "Europe/Warsaw",
+    "population": 6482,
+    "population_year": 2026
+  },
+  {
+    "id": 173025,
+    "name": "Ornontowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.18333333",
+    "longitude": "18.76666667",
+    "county_id": 4093,
+    "wikiDataId": "Q553379",
+    "type": "municipality",
+    "native": "Ornontowice",
+    "timezone": "Europe/Warsaw",
+    "population": 6230,
+    "population_year": 2026
   },
   {
     "id": 87269,
@@ -2768,7 +3703,7 @@
     "native": "Ornontowice",
     "timezone": "Europe/Warsaw",
     "population": 6178,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 87271,
@@ -2785,7 +3720,7 @@
     "native": "Orzech",
     "timezone": "Europe/Warsaw",
     "population": 2276,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 87273,
@@ -2801,8 +3736,8 @@
     "type": "city",
     "native": "Orzesze",
     "timezone": "Europe/Warsaw",
-    "population": 22242,
-    "population_year": 2025
+    "population": 22305,
+    "population_year": 2026
   },
   {
     "id": 87304,
@@ -2818,8 +3753,8 @@
     "type": "village",
     "native": "Ostrowy nad Okszą",
     "timezone": "Europe/Warsaw",
-    "population": 2043,
-    "population_year": null
+    "population": 2039,
+    "population_year": 2021
   },
   {
     "id": 87326,
@@ -2836,7 +3771,24 @@
     "native": "Ożarowice",
     "timezone": "Europe/Warsaw",
     "population": 1750,
-    "population_year": null
+    "population_year": 2021
+  },
+  {
+    "id": 173047,
+    "name": "Ożarowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.46666667",
+    "longitude": "19.05000000",
+    "county_id": 4098,
+    "wikiDataId": "Q553668",
+    "type": "municipality",
+    "native": "Ożarowice",
+    "timezone": "Europe/Warsaw",
+    "population": 5876,
+    "population_year": 2026
   },
   {
     "id": 87341,
@@ -2852,8 +3804,8 @@
     "type": "village",
     "native": "Paniówki",
     "timezone": "Europe/Warsaw",
-    "population": 2297,
-    "population_year": null
+    "population": 3158,
+    "population_year": 2021
   },
   {
     "id": 87342,
@@ -2869,8 +3821,8 @@
     "type": "municipality",
     "native": "Panki",
     "timezone": "Europe/Warsaw",
-    "population": 4756,
-    "population_year": 2025
+    "population": 4742,
+    "population_year": 2026
   },
   {
     "id": 87357,
@@ -2886,8 +3838,8 @@
     "type": "municipality",
     "native": "Pawłowice",
     "timezone": "Europe/Warsaw",
-    "population": 17379,
-    "population_year": 2025
+    "population": 17336,
+    "population_year": 2026
   },
   {
     "id": 87355,
@@ -2903,8 +3855,25 @@
     "type": "village",
     "native": "Pawonków",
     "timezone": "Europe/Warsaw",
-    "population": 1490,
-    "population_year": null
+    "population": 1496,
+    "population_year": 2021
+  },
+  {
+    "id": 173023,
+    "name": "Pawonków",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.70000000",
+    "longitude": "18.58333333",
+    "county_id": 4092,
+    "wikiDataId": "Q554613",
+    "type": "municipality",
+    "native": "Pawonków",
+    "timezone": "Europe/Warsaw",
+    "population": 6417,
+    "population_year": 2026
   },
   {
     "id": 87366,
@@ -2921,7 +3890,7 @@
     "native": "Pewel Ślemieńska",
     "timezone": "Europe/Warsaw",
     "population": 1558,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 87365,
@@ -2937,8 +3906,8 @@
     "type": "village",
     "native": "Pewel Wielka",
     "timezone": "Europe/Warsaw",
-    "population": 1445,
-    "population_year": null
+    "population": 1444,
+    "population_year": 2021
   },
   {
     "id": 87369,
@@ -2971,8 +3940,8 @@
     "type": "city",
     "native": "Piekary Śląskie",
     "timezone": "Europe/Warsaw",
-    "population": 51876,
-    "population_year": null
+    "population": 50913,
+    "population_year": 2026
   },
   {
     "id": 87379,
@@ -2989,7 +3958,7 @@
     "native": "Pielgrzymowice",
     "timezone": "Europe/Warsaw",
     "population": 2877,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 87382,
@@ -3006,7 +3975,7 @@
     "native": "Pierściec",
     "timezone": "Europe/Warsaw",
     "population": 2083,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 87384,
@@ -3026,6 +3995,23 @@
     "population_year": null
   },
   {
+    "id": 173040,
+    "name": "Pietrowice Wielkie",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.08500000",
+    "longitude": "18.08361111",
+    "county_id": 4096,
+    "wikiDataId": "Q553604",
+    "type": "municipality",
+    "native": "Pietrowice Wielkie",
+    "timezone": "Europe/Warsaw",
+    "population": 6483,
+    "population_year": 2026
+  },
+  {
     "id": 87385,
     "name": "Pietrzykowice",
     "state_id": 1623,
@@ -3039,8 +4025,8 @@
     "type": "village",
     "native": "Pietrzykowice",
     "timezone": "Europe/Warsaw",
-    "population": 4745,
-    "population_year": null
+    "population": 4743,
+    "population_year": 2021
   },
   {
     "id": 87388,
@@ -3056,8 +4042,25 @@
     "type": "village",
     "native": "Pilchowice",
     "timezone": "Europe/Warsaw",
-    "population": 2919,
-    "population_year": null
+    "population": 3245,
+    "population_year": 2021
+  },
+  {
+    "id": 173008,
+    "name": "Pilchowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.21527800",
+    "longitude": "18.56111100",
+    "county_id": 4090,
+    "wikiDataId": "Q555554",
+    "type": "municipality",
+    "native": "Pilchowice",
+    "timezone": "Europe/Warsaw",
+    "population": 12919,
+    "population_year": 2026
   },
   {
     "id": 87390,
@@ -3073,8 +4076,25 @@
     "type": "city",
     "native": "Pilica",
     "timezone": "Europe/Warsaw",
-    "population": 1714,
-    "population_year": 2025
+    "population": 1700,
+    "population_year": 2026
+  },
+  {
+    "id": 173060,
+    "name": "Pilica",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.46638889",
+    "longitude": "19.65666667",
+    "county_id": 4101,
+    "wikiDataId": "Q553960",
+    "type": "municipality",
+    "native": "Pilica",
+    "timezone": "Europe/Warsaw",
+    "population": 7768,
+    "population_year": 2026
   },
   {
     "id": 87395,
@@ -3090,8 +4110,25 @@
     "type": "village",
     "native": "Pisarzowice",
     "timezone": "Europe/Warsaw",
-    "population": 4673,
-    "population_year": null
+    "population": 6186,
+    "population_year": 2021
+  },
+  {
+    "id": 173004,
+    "name": "Poczesna",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.71666667",
+    "longitude": "19.13333333",
+    "county_id": 4089,
+    "wikiDataId": "Q553487",
+    "type": "municipality",
+    "native": "Poczesna",
+    "timezone": "Europe/Warsaw",
+    "population": 12277,
+    "population_year": 2026
   },
   {
     "id": 87426,
@@ -3107,8 +4144,8 @@
     "type": "village",
     "native": "Pogórze",
     "timezone": "Europe/Warsaw",
-    "population": 2076,
-    "population_year": null
+    "population": 2074,
+    "population_year": 2021
   },
   {
     "id": 87422,
@@ -3125,7 +4162,7 @@
     "native": "Pogrzebień",
     "timezone": "Europe/Warsaw",
     "population": 1345,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 87423,
@@ -3141,8 +4178,8 @@
     "type": "village",
     "native": "Pogwizdów",
     "timezone": "Europe/Warsaw",
-    "population": 3583,
-    "population_year": null
+    "population": 3584,
+    "population_year": 2021
   },
   {
     "id": 87779,
@@ -3158,8 +4195,25 @@
     "type": "village",
     "native": "Połomia",
     "timezone": "Europe/Warsaw",
-    "population": 2497,
-    "population_year": null
+    "population": 2601,
+    "population_year": 2021
+  },
+  {
+    "id": 173016,
+    "name": "Popów",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "51.04055556",
+    "longitude": "18.93111111",
+    "county_id": 4091,
+    "wikiDataId": "Q553551",
+    "type": "municipality",
+    "native": "Popów",
+    "timezone": "Europe/Warsaw",
+    "population": 5589,
+    "population_year": 2026
   },
   {
     "id": 87446,
@@ -3176,7 +4230,24 @@
     "native": "Porąbka",
     "timezone": "Europe/Warsaw",
     "population": 4044,
-    "population_year": null
+    "population_year": 2021
+  },
+  {
+    "id": 172986,
+    "name": "Porąbka",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.81228900",
+    "longitude": "19.21491700",
+    "county_id": 4087,
+    "wikiDataId": "Q368243",
+    "type": "municipality",
+    "native": "Porąbka",
+    "timezone": "Europe/Warsaw",
+    "population": 15314,
+    "population_year": 2026
   },
   {
     "id": 87443,
@@ -3192,8 +4263,25 @@
     "type": "village",
     "native": "Poraj",
     "timezone": "Europe/Warsaw",
-    "population": 4418,
-    "population_year": null
+    "population": 4128,
+    "population_year": 2021
+  },
+  {
+    "id": 173029,
+    "name": "Poraj",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.67888889",
+    "longitude": "19.21611111",
+    "county_id": 4094,
+    "wikiDataId": "Q555565",
+    "type": "municipality",
+    "native": "Poraj",
+    "timezone": "Europe/Warsaw",
+    "population": 10316,
+    "population_year": 2026
   },
   {
     "id": 87449,
@@ -3209,8 +4297,8 @@
     "type": "city",
     "native": "Poręba",
     "timezone": "Europe/Warsaw",
-    "population": 7949,
-    "population_year": 2025
+    "population": 7918,
+    "population_year": 2026
   },
   {
     "id": 87454,
@@ -3243,8 +4331,8 @@
     "type": "village",
     "native": "Pluchyna",
     "timezone": "Europe/Warsaw",
-    "population": 2472,
-    "population_year": null
+    "population": 2474,
+    "population_year": 2021
   },
   {
     "id": 87821,
@@ -3260,8 +4348,8 @@
     "type": "village",
     "native": "Przyborów",
     "timezone": "Europe/Warsaw",
-    "population": 1793,
-    "population_year": null
+    "population": 1653,
+    "population_year": 2021
   },
   {
     "id": 87826,
@@ -3277,8 +4365,25 @@
     "type": "city",
     "native": "Przyrów",
     "timezone": "Europe/Warsaw",
-    "population": 1079,
-    "population_year": 2025
+    "population": 1075,
+    "population_year": 2026
+  },
+  {
+    "id": 173005,
+    "name": "Przyrów",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.80000000",
+    "longitude": "19.51666667",
+    "county_id": 4089,
+    "wikiDataId": "Q554453",
+    "type": "municipality",
+    "native": "Przyrów",
+    "timezone": "Europe/Warsaw",
+    "population": 3434,
+    "population_year": 2026
   },
   {
     "id": 87827,
@@ -3298,6 +4403,23 @@
     "population_year": null
   },
   {
+    "id": 173017,
+    "name": "Przystajń",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.85711000",
+    "longitude": "18.70170000",
+    "county_id": 4091,
+    "wikiDataId": "Q386934",
+    "type": "municipality",
+    "native": "Przystajń",
+    "timezone": "Europe/Warsaw",
+    "population": 5602,
+    "population_year": 2026
+  },
+  {
     "id": 87829,
     "name": "Przyszowice",
     "state_id": 1623,
@@ -3312,7 +4434,7 @@
     "native": "Przyszowice",
     "timezone": "Europe/Warsaw",
     "population": 3414,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 87838,
@@ -3328,8 +4450,25 @@
     "type": "village",
     "native": "Psary",
     "timezone": "Europe/Warsaw",
-    "population": 1304,
-    "population_year": null
+    "population": 1299,
+    "population_year": 2021
+  },
+  {
+    "id": 172982,
+    "name": "Psary",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.37972222",
+    "longitude": "19.11388889",
+    "county_id": 4086,
+    "wikiDataId": "Q554421",
+    "type": "municipality",
+    "native": "Psary",
+    "timezone": "Europe/Warsaw",
+    "population": 12374,
+    "population_year": 2026
   },
   {
     "id": 87843,
@@ -3345,8 +4484,25 @@
     "type": "city",
     "native": "Pszczyna",
     "timezone": "Europe/Warsaw",
-    "population": 24478,
-    "population_year": 2025
+    "population": 24426,
+    "population_year": 2026
+  },
+  {
+    "id": 173034,
+    "name": "Pszczyna",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.98333333",
+    "longitude": "18.95000000",
+    "county_id": 4095,
+    "wikiDataId": "Q554128",
+    "type": "municipality",
+    "native": "Pszczyna",
+    "timezone": "Europe/Warsaw",
+    "population": 52495,
+    "population_year": 2026
   },
   {
     "id": 87845,
@@ -3362,8 +4518,8 @@
     "type": "city",
     "native": "Pszów",
     "timezone": "Europe/Warsaw",
-    "population": 12767,
-    "population_year": 2025
+    "population": 12679,
+    "population_year": 2026
   },
   {
     "id": 87853,
@@ -3380,7 +4536,7 @@
     "native": "Puńców",
     "timezone": "Europe/Warsaw",
     "population": 1660,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 87856,
@@ -3396,8 +4552,8 @@
     "type": "city",
     "native": "Pyskowice",
     "timezone": "Europe/Warsaw",
-    "population": 17160,
-    "population_year": 2025
+    "population": 17107,
+    "population_year": 2026
   },
   {
     "id": 87872,
@@ -3413,8 +4569,8 @@
     "type": "city",
     "native": "Racibórz",
     "timezone": "Europe/Warsaw",
-    "population": 48750,
-    "population_year": 2025
+    "population": 48530,
+    "population_year": 2026
   },
   {
     "id": 87882,
@@ -3430,8 +4586,8 @@
     "type": "city",
     "native": "Radlin",
     "timezone": "Europe/Warsaw",
-    "population": 16594,
-    "population_year": 2025
+    "population": 16521,
+    "population_year": 2026
   },
   {
     "id": 87889,
@@ -3448,7 +4604,7 @@
     "native": "Radostowice",
     "timezone": "Europe/Warsaw",
     "population": 1810,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 87896,
@@ -3468,6 +4624,23 @@
     "population_year": null
   },
   {
+    "id": 173071,
+    "name": "Radziechowy-Wieprz",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.63333333",
+    "longitude": "19.16666667",
+    "county_id": 4102,
+    "wikiDataId": "Q555577",
+    "type": "municipality",
+    "native": "Radziechowy-Wieprz",
+    "timezone": "Europe/Warsaw",
+    "population": 12850,
+    "population_year": 2026
+  },
+  {
     "id": 87899,
     "name": "Radzionków",
     "state_id": 1623,
@@ -3481,8 +4654,8 @@
     "type": "city",
     "native": "Radzionków",
     "timezone": "Europe/Warsaw",
-    "population": 16253,
-    "population_year": null
+    "population": 15874,
+    "population_year": 2026
   },
   {
     "id": 87906,
@@ -3498,8 +4671,25 @@
     "type": "village",
     "native": "Rajcza",
     "timezone": "Europe/Warsaw",
-    "population": 3438,
-    "population_year": null
+    "population": 3335,
+    "population_year": 2021
+  },
+  {
+    "id": 173072,
+    "name": "Rajcza",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.50694444",
+    "longitude": "19.10750000",
+    "county_id": 4102,
+    "wikiDataId": "Q379249",
+    "type": "municipality",
+    "native": "Rajcza",
+    "timezone": "Europe/Warsaw",
+    "population": 8110,
+    "population_year": 2026
   },
   {
     "id": 87913,
@@ -3515,8 +4705,8 @@
     "type": "village",
     "native": "Raszczyce",
     "timezone": "Europe/Warsaw",
-    "population": 1098,
-    "population_year": null
+    "population": 1095,
+    "population_year": 2021
   },
   {
     "id": 88038,
@@ -3532,8 +4722,25 @@
     "type": "village",
     "native": "Rędziny",
     "timezone": "Europe/Warsaw",
-    "population": 4637,
-    "population_year": null
+    "population": 4643,
+    "population_year": 2021
+  },
+  {
+    "id": 173006,
+    "name": "Rędziny",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.85805600",
+    "longitude": "19.21416700",
+    "county_id": 4089,
+    "wikiDataId": "Q554717",
+    "type": "municipality",
+    "native": "Rędziny",
+    "timezone": "Europe/Warsaw",
+    "population": 9341,
+    "population_year": 2026
   },
   {
     "id": 87948,
@@ -3566,8 +4773,8 @@
     "type": "village",
     "native": "Rogoźnik",
     "timezone": "Europe/Warsaw",
-    "population": 3075,
-    "population_year": null
+    "population": 3076,
+    "population_year": 2021
   },
   {
     "id": 87959,
@@ -3583,8 +4790,8 @@
     "type": "village",
     "native": "Rokitno Szlacheckie",
     "timezone": "Europe/Warsaw",
-    "population": 1233,
-    "population_year": null
+    "population": 1232,
+    "population_year": 2021
   },
   {
     "id": 87971,
@@ -3600,8 +4807,8 @@
     "type": "city",
     "native": "Ruda Śląska",
     "timezone": "Europe/Warsaw",
-    "population": 127601,
-    "population_year": 2025
+    "population": 126922,
+    "population_year": 2026
   },
   {
     "id": 87979,
@@ -3619,6 +4826,23 @@
     "timezone": "Europe/Warsaw",
     "population": 916,
     "population_year": null
+  },
+  {
+    "id": 173041,
+    "name": "Rudnik",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.12833333",
+    "longitude": "18.18333333",
+    "county_id": 4096,
+    "wikiDataId": "Q554034",
+    "type": "municipality",
+    "native": "Rudnik",
+    "timezone": "Europe/Warsaw",
+    "population": 4769,
+    "population_year": 2026
   },
   {
     "id": 87982,
@@ -3651,8 +4875,8 @@
     "type": "village",
     "native": "Rudy",
     "timezone": "Europe/Warsaw",
-    "population": 2745,
-    "population_year": null
+    "population": 2744,
+    "population_year": 2021
   },
   {
     "id": 87984,
@@ -3668,8 +4892,8 @@
     "type": "village",
     "native": "Rudziczka",
     "timezone": "Europe/Warsaw",
-    "population": 1152,
-    "population_year": null
+    "population": 1585,
+    "population_year": 2021
   },
   {
     "id": 87985,
@@ -3685,8 +4909,25 @@
     "type": "village",
     "native": "Rudzinia",
     "timezone": "Europe/Warsaw",
-    "population": 1530,
-    "population_year": null
+    "population": 1537,
+    "population_year": 2021
+  },
+  {
+    "id": 173009,
+    "name": "Rudziniec",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.35722222",
+    "longitude": "18.40666667",
+    "county_id": 4090,
+    "wikiDataId": "Q554565",
+    "type": "municipality",
+    "native": "Rudziniec",
+    "timezone": "Europe/Warsaw",
+    "population": 10816,
+    "population_year": 2026
   },
   {
     "id": 87991,
@@ -3702,8 +4943,8 @@
     "type": "village",
     "native": "Rybarzowice",
     "timezone": "Europe/Warsaw",
-    "population": 3506,
-    "population_year": null
+    "population": 3507,
+    "population_year": 2021
   },
   {
     "id": 87994,
@@ -3719,8 +4960,8 @@
     "type": "city",
     "native": "Rybnik",
     "timezone": "Europe/Warsaw",
-    "population": 128788,
-    "population_year": 2025
+    "population": 128360,
+    "population_year": 2026
   },
   {
     "id": 87997,
@@ -3736,8 +4977,8 @@
     "type": "village",
     "native": "Rycerka Dolna",
     "timezone": "Europe/Warsaw",
-    "population": 1458,
-    "population_year": null
+    "population": 1446,
+    "population_year": 2021
   },
   {
     "id": 87998,
@@ -3770,8 +5011,8 @@
     "type": "city",
     "native": "Rydułtowy",
     "timezone": "Europe/Warsaw",
-    "population": 19756,
-    "population_year": 2025
+    "population": 19649,
+    "population_year": 2026
   },
   {
     "id": 88325,
@@ -3788,7 +5029,7 @@
     "native": "Sączów",
     "timezone": "Europe/Warsaw",
     "population": 1373,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 88052,
@@ -3821,8 +5062,8 @@
     "type": "city",
     "native": "Siemianowice Śląskie",
     "timezone": "Europe/Warsaw",
-    "population": 62311,
-    "population_year": 2025
+    "population": 62097,
+    "population_year": 2026
   },
   {
     "id": 88089,
@@ -3855,8 +5096,25 @@
     "type": "city",
     "native": "Siewierz",
     "timezone": "Europe/Warsaw",
-    "population": 5779,
-    "population_year": 2025
+    "population": 5780,
+    "population_year": 2026
+  },
+  {
+    "id": 172983,
+    "name": "Siewierz",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.47333333",
+    "longitude": "19.23305556",
+    "county_id": 4086,
+    "wikiDataId": "Q553706",
+    "type": "municipality",
+    "native": "Siewierz",
+    "timezone": "Europe/Warsaw",
+    "population": 12747,
+    "population_year": 2026
   },
   {
     "id": 88108,
@@ -3872,8 +5130,25 @@
     "type": "city",
     "native": "Skoczów",
     "timezone": "Europe/Warsaw",
-    "population": 13033,
-    "population_year": 2025
+    "population": 12923,
+    "population_year": 2026
+  },
+  {
+    "id": 172992,
+    "name": "Skoczów",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.80081667",
+    "longitude": "18.78889722",
+    "county_id": 4088,
+    "wikiDataId": "Q554870",
+    "type": "municipality",
+    "native": "Skoczów",
+    "timezone": "Europe/Warsaw",
+    "population": 25804,
+    "population_year": 2026
   },
   {
     "id": 88118,
@@ -3889,8 +5164,8 @@
     "type": "village",
     "native": "Skrzyszów",
     "timezone": "Europe/Warsaw",
-    "population": 3751,
-    "population_year": null
+    "population": 3753,
+    "population_year": 2021
   },
   {
     "id": 88830,
@@ -3906,8 +5181,25 @@
     "type": "village",
     "native": "Ślemień",
     "timezone": "Europe/Warsaw",
-    "population": 2018,
-    "population_year": null
+    "population": 2019,
+    "population_year": 2021
+  },
+  {
+    "id": 173073,
+    "name": "Ślemień",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.71666667",
+    "longitude": "19.38333333",
+    "county_id": 4102,
+    "wikiDataId": "Q555611",
+    "type": "municipality",
+    "native": "Ślemień",
+    "timezone": "Europe/Warsaw",
+    "population": 3467,
+    "population_year": 2026
   },
   {
     "id": 88337,
@@ -3923,8 +5215,8 @@
     "type": "city",
     "native": "Sławków",
     "timezone": "Europe/Warsaw",
-    "population": 6762,
-    "population_year": 2025
+    "population": 6757,
+    "population_year": 2026
   },
   {
     "id": 88324,
@@ -3974,8 +5266,8 @@
     "type": "municipality",
     "native": "Sośnicowice",
     "timezone": "Europe/Warsaw",
-    "population": 9163,
-    "population_year": 2025
+    "population": 9185,
+    "population_year": 2026
   },
   {
     "id": 88152,
@@ -3991,8 +5283,8 @@
     "type": "city",
     "native": "Sosnowiec",
     "timezone": "Europe/Warsaw",
-    "population": 182971,
-    "population_year": 2025
+    "population": 181983,
+    "population_year": 2026
   },
   {
     "id": 88171,
@@ -4008,8 +5300,8 @@
     "type": "village",
     "native": "Stanowice",
     "timezone": "Europe/Warsaw",
-    "population": 2254,
-    "population_year": null
+    "population": 2553,
+    "population_year": 2021
   },
   {
     "id": 88180,
@@ -4025,8 +5317,25 @@
     "type": "village",
     "native": "Starcza",
     "timezone": "Europe/Warsaw",
-    "population": 1245,
-    "population_year": null
+    "population": 1247,
+    "population_year": 2021
+  },
+  {
+    "id": 173007,
+    "name": "Starcza",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.66666667",
+    "longitude": "19.05000000",
+    "county_id": 4089,
+    "wikiDataId": "Q517052",
+    "type": "municipality",
+    "native": "Starcza",
+    "timezone": "Europe/Warsaw",
+    "population": 3017,
+    "population_year": 2026
   },
   {
     "id": 88191,
@@ -4043,7 +5352,7 @@
     "native": "Starokrzepice",
     "timezone": "Europe/Warsaw",
     "population": 1173,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 88218,
@@ -4059,8 +5368,25 @@
     "type": "city",
     "native": "Strumień",
     "timezone": "Europe/Warsaw",
-    "population": 3493,
-    "population_year": 2025
+    "population": 3478,
+    "population_year": 2026
+  },
+  {
+    "id": 172993,
+    "name": "Strumień",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.91708333",
+    "longitude": "18.76353333",
+    "county_id": 4088,
+    "wikiDataId": "Q555544",
+    "type": "municipality",
+    "native": "Strumień",
+    "timezone": "Europe/Warsaw",
+    "population": 13081,
+    "population_year": 2026
   },
   {
     "id": 88223,
@@ -4077,7 +5403,7 @@
     "native": "Strzebiń",
     "timezone": "Europe/Warsaw",
     "population": 3489,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 88235,
@@ -4094,7 +5420,7 @@
     "native": "Strzyżowice",
     "timezone": "Europe/Warsaw",
     "population": 1918,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 88240,
@@ -4110,8 +5436,8 @@
     "type": "village",
     "native": "Studzionka",
     "timezone": "Europe/Warsaw",
-    "population": 2383,
-    "population_year": null
+    "population": 2382,
+    "population_year": 2021
   },
   {
     "id": 88268,
@@ -4127,8 +5453,42 @@
     "type": "village",
     "native": "Suszec",
     "timezone": "Europe/Warsaw",
-    "population": 4591,
-    "population_year": null
+    "population": 4586,
+    "population_year": 2021
+  },
+  {
+    "id": 173035,
+    "name": "Suszec",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.03333333",
+    "longitude": "18.80000000",
+    "county_id": 4095,
+    "wikiDataId": "Q553737",
+    "type": "municipality",
+    "native": "Suszec",
+    "timezone": "Europe/Warsaw",
+    "population": 12900,
+    "population_year": 2026
+  },
+  {
+    "id": 173048,
+    "name": "Świerklaniec",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.43333333",
+    "longitude": "18.95000000",
+    "county_id": 4098,
+    "wikiDataId": "Q425965",
+    "type": "municipality",
+    "native": "Świerklaniec",
+    "timezone": "Europe/Warsaw",
+    "population": 13248,
+    "population_year": 2026
   },
   {
     "id": 88854,
@@ -4144,8 +5504,25 @@
     "type": "village",
     "native": "Świerklaniec",
     "timezone": "Europe/Warsaw",
-    "population": 4250,
-    "population_year": null
+    "population": 4251,
+    "population_year": 2021
+  },
+  {
+    "id": 173045,
+    "name": "Świerklany",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.03333333",
+    "longitude": "18.55000000",
+    "county_id": 4097,
+    "wikiDataId": "Q555591",
+    "type": "municipality",
+    "native": "Świerklany",
+    "timezone": "Europe/Warsaw",
+    "population": 12685,
+    "population_year": 2026
   },
   {
     "id": 88855,
@@ -4195,8 +5572,8 @@
     "type": "city",
     "native": "Świętochłowice",
     "timezone": "Europe/Warsaw",
-    "population": 44621,
-    "population_year": 2025
+    "population": 44347,
+    "population_year": 2026
   },
   {
     "id": 88861,
@@ -4214,6 +5591,23 @@
     "timezone": "Europe/Warsaw",
     "population": 1891,
     "population_year": null
+  },
+  {
+    "id": 173074,
+    "name": "Świnna",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.65000000",
+    "longitude": "19.25000000",
+    "county_id": 4102,
+    "wikiDataId": "Q553650",
+    "type": "municipality",
+    "native": "Świnna",
+    "timezone": "Europe/Warsaw",
+    "population": 7748,
+    "population_year": 2026
   },
   {
     "id": 88282,
@@ -4246,8 +5640,25 @@
     "type": "city",
     "native": "Szczekociny",
     "timezone": "Europe/Warsaw",
-    "population": 3269,
-    "population_year": 2025
+    "population": 3246,
+    "population_year": 2026
+  },
+  {
+    "id": 173061,
+    "name": "Szczekociny",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.62130000",
+    "longitude": "19.82770000",
+    "county_id": 4101,
+    "wikiDataId": "Q553546",
+    "type": "municipality",
+    "native": "Szczekociny",
+    "timezone": "Europe/Warsaw",
+    "population": 6588,
+    "population_year": 2026
   },
   {
     "id": 88297,
@@ -4264,7 +5675,7 @@
     "native": "Szczerbice",
     "timezone": "Europe/Warsaw",
     "population": 2563,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 88303,
@@ -4280,8 +5691,8 @@
     "type": "city",
     "native": "Szczyrk",
     "timezone": "Europe/Warsaw",
-    "population": 5110,
-    "population_year": 2025
+    "population": 5090,
+    "population_year": 2026
   },
   {
     "id": 88364,
@@ -4297,8 +5708,8 @@
     "type": "city",
     "native": "Tarnowskie Góry",
     "timezone": "Europe/Warsaw",
-    "population": 61001,
-    "population_year": 2025
+    "population": 60876,
+    "population_year": 2026
   },
   {
     "id": 88386,
@@ -4314,8 +5725,25 @@
     "type": "city",
     "native": "Toszek",
     "timezone": "Europe/Warsaw",
-    "population": 3441,
-    "population_year": 2025
+    "population": 3433,
+    "population_year": 2026
+  },
+  {
+    "id": 173010,
+    "name": "Toszek",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.45000000",
+    "longitude": "18.51666667",
+    "county_id": 4090,
+    "wikiDataId": "Q553472",
+    "type": "municipality",
+    "native": "Toszek",
+    "timezone": "Europe/Warsaw",
+    "population": 9226,
+    "population_year": 2026
   },
   {
     "id": 88392,
@@ -4331,8 +5759,8 @@
     "type": "village",
     "native": "Truskolasy",
     "timezone": "Europe/Warsaw",
-    "population": 1968,
-    "population_year": null
+    "population": 1975,
+    "population_year": 2021
   },
   {
     "id": 88406,
@@ -4348,8 +5776,8 @@
     "type": "village",
     "native": "Trzebinia",
     "timezone": "Europe/Warsaw",
-    "population": 1721,
-    "population_year": null
+    "population": 1738,
+    "population_year": 2021
   },
   {
     "id": 88427,
@@ -4366,7 +5794,7 @@
     "native": "Turza Śląska",
     "timezone": "Europe/Warsaw",
     "population": 3645,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 88433,
@@ -4382,8 +5810,8 @@
     "type": "village",
     "native": "Tworków",
     "timezone": "Europe/Warsaw",
-    "population": 2564,
-    "population_year": null
+    "population": 2562,
+    "population_year": 2021
   },
   {
     "id": 88434,
@@ -4399,8 +5827,25 @@
     "type": "village",
     "native": "Tworóg",
     "timezone": "Europe/Warsaw",
-    "population": 3607,
-    "population_year": null
+    "population": 2537,
+    "population_year": 2021
+  },
+  {
+    "id": 173049,
+    "name": "Tworóg",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.53333333",
+    "longitude": "18.70000000",
+    "county_id": 4098,
+    "wikiDataId": "Q554553",
+    "type": "municipality",
+    "native": "Tworóg",
+    "timezone": "Europe/Warsaw",
+    "population": 8109,
+    "population_year": 2026
   },
   {
     "id": 88436,
@@ -4416,8 +5861,8 @@
     "type": "city",
     "native": "Tychy",
     "timezone": "Europe/Warsaw",
-    "population": 120081,
-    "population_year": 2025
+    "population": 119592,
+    "population_year": 2026
   },
   {
     "id": 88451,
@@ -4433,8 +5878,25 @@
     "type": "village",
     "native": "Ujsoły",
     "timezone": "Europe/Warsaw",
-    "population": 2167,
-    "population_year": null
+    "population": 2168,
+    "population_year": 2021
+  },
+  {
+    "id": 173075,
+    "name": "Ujsoły",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.46666667",
+    "longitude": "19.13333333",
+    "county_id": 4102,
+    "wikiDataId": "Q555847",
+    "type": "municipality",
+    "native": "Ujsoły",
+    "timezone": "Europe/Warsaw",
+    "population": 4076,
+    "population_year": 2026
   },
   {
     "id": 88464,
@@ -4450,8 +5912,8 @@
     "type": "city",
     "native": "Ustroń",
     "timezone": "Europe/Warsaw",
-    "population": 15871,
-    "population_year": 2025
+    "population": 15818,
+    "population_year": 2026
   },
   {
     "id": 88638,
@@ -4468,7 +5930,24 @@
     "native": "Węgierska Górka",
     "timezone": "Europe/Warsaw",
     "population": 4080,
-    "population_year": null
+    "population_year": 2021
+  },
+  {
+    "id": 173076,
+    "name": "Węgierska Górka",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.60000000",
+    "longitude": "19.13333333",
+    "county_id": 4102,
+    "wikiDataId": "Q555569",
+    "type": "municipality",
+    "native": "Węgierska Górka",
+    "timezone": "Europe/Warsaw",
+    "population": 14083,
+    "population_year": 2026
   },
   {
     "id": 88510,
@@ -4484,8 +5963,8 @@
     "type": "municipality",
     "native": "Wielowieś",
     "timezone": "Europe/Warsaw",
-    "population": 5635,
-    "population_year": 2025
+    "population": 5596,
+    "population_year": 2026
   },
   {
     "id": 88513,
@@ -4501,8 +5980,8 @@
     "type": "village",
     "native": "Wieprz",
     "timezone": "Europe/Warsaw",
-    "population": 3691,
-    "population_year": null
+    "population": 3678,
+    "population_year": 2021
   },
   {
     "id": 88527,
@@ -4518,8 +5997,8 @@
     "type": "village",
     "native": "Wieszowa",
     "timezone": "Europe/Warsaw",
-    "population": 1860,
-    "population_year": null
+    "population": 2387,
+    "population_year": 2021
   },
   {
     "id": 88530,
@@ -4535,8 +6014,25 @@
     "type": "city",
     "native": "Wilamowice",
     "timezone": "Europe/Warsaw",
-    "population": 3148,
-    "population_year": 2025
+    "population": 3144,
+    "population_year": 2026
+  },
+  {
+    "id": 172987,
+    "name": "Wilamowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.91638889",
+    "longitude": "19.15194444",
+    "county_id": 4087,
+    "wikiDataId": "Q554745",
+    "type": "municipality",
+    "native": "Wilamowice",
+    "timezone": "Europe/Warsaw",
+    "population": 18350,
+    "population_year": 2026
   },
   {
     "id": 88532,
@@ -4552,8 +6048,8 @@
     "type": "village",
     "native": "Wilcza",
     "timezone": "Europe/Warsaw",
-    "population": 2137,
-    "population_year": null
+    "population": 2138,
+    "population_year": 2021
   },
   {
     "id": 88538,
@@ -4573,6 +6069,23 @@
     "population_year": null
   },
   {
+    "id": 172988,
+    "name": "Wilkowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "49.76333333",
+    "longitude": "19.09055556",
+    "county_id": 4087,
+    "wikiDataId": "Q388825",
+    "type": "municipality",
+    "native": "Wilkowice",
+    "timezone": "Europe/Warsaw",
+    "population": 13174,
+    "population_year": 2026
+  },
+  {
     "id": 88547,
     "name": "Wisła",
     "state_id": 1623,
@@ -4586,8 +6099,8 @@
     "type": "city",
     "native": "Wisła",
     "timezone": "Europe/Warsaw",
-    "population": 10416,
-    "population_year": 2025
+    "population": 10347,
+    "population_year": 2026
   },
   {
     "id": 88651,
@@ -4603,8 +6116,25 @@
     "type": "city",
     "native": "Włodowice",
     "timezone": "Europe/Warsaw",
-    "population": 1149,
-    "population_year": 2025
+    "population": 1148,
+    "population_year": 2026
+  },
+  {
+    "id": 173062,
+    "name": "Włodowice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.55500000",
+    "longitude": "19.44750000",
+    "county_id": 4101,
+    "wikiDataId": "Q554374",
+    "type": "municipality",
+    "native": "Włodowice",
+    "timezone": "Europe/Warsaw",
+    "population": 5064,
+    "population_year": 2026
   },
   {
     "id": 88569,
@@ -4620,8 +6150,8 @@
     "type": "city",
     "native": "Wodzisław Śląski",
     "timezone": "Europe/Warsaw",
-    "population": 44017,
-    "population_year": 2025
+    "population": 43826,
+    "population_year": 2026
   },
   {
     "id": 88576,
@@ -4637,8 +6167,8 @@
     "type": "city",
     "native": "Wojkowice",
     "timezone": "Europe/Warsaw",
-    "population": 8317,
-    "population_year": 2025
+    "population": 8293,
+    "population_year": 2026
   },
   {
     "id": 88581,
@@ -4675,6 +6205,40 @@
     "population_year": null
   },
   {
+    "id": 173024,
+    "name": "Woźniki",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.58333333",
+    "longitude": "19.05000000",
+    "county_id": 4092,
+    "wikiDataId": "Q553355",
+    "type": "municipality",
+    "native": "Woźniki",
+    "timezone": "Europe/Warsaw",
+    "population": 9194,
+    "population_year": 2026
+  },
+  {
+    "id": 173018,
+    "name": "Wręczyca Wielka",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.85000000",
+    "longitude": "18.93333333",
+    "county_id": 4091,
+    "wikiDataId": "Q554709",
+    "type": "municipality",
+    "native": "Wręczyca Wielka",
+    "timezone": "Europe/Warsaw",
+    "population": 17425,
+    "population_year": 2026
+  },
+  {
     "id": 88609,
     "name": "Wręczyca Wielka",
     "state_id": 1623,
@@ -4705,8 +6269,25 @@
     "type": "village",
     "native": "Wyry",
     "timezone": "Europe/Warsaw",
-    "population": 3304,
-    "population_year": null
+    "population": 4227,
+    "population_year": 2021
+  },
+  {
+    "id": 173026,
+    "name": "Wyry",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.13333333",
+    "longitude": "18.91666667",
+    "county_id": 4093,
+    "wikiDataId": "Q554471",
+    "type": "municipality",
+    "native": "Wyry",
+    "timezone": "Europe/Warsaw",
+    "population": 9270,
+    "population_year": 2026
   },
   {
     "id": 88618,
@@ -4722,8 +6303,8 @@
     "type": "village",
     "native": "Wysoka",
     "timezone": "Europe/Warsaw",
-    "population": 1246,
-    "population_year": null
+    "population": 1199,
+    "population_year": 2021
   },
   {
     "id": 88662,
@@ -4739,8 +6320,8 @@
     "type": "village",
     "native": "Zabłocie",
     "timezone": "Europe/Warsaw",
-    "population": 1497,
-    "population_year": null
+    "population": 1493,
+    "population_year": 2021
   },
   {
     "id": 88870,
@@ -4756,8 +6337,8 @@
     "type": "village",
     "native": "Żabnica",
     "timezone": "Europe/Warsaw",
-    "population": 3122,
-    "population_year": null
+    "population": 3118,
+    "population_year": 2021
   },
   {
     "id": 88658,
@@ -4773,8 +6354,8 @@
     "type": "village",
     "native": "Zaborze",
     "timezone": "Europe/Warsaw",
-    "population": 1005,
-    "population_year": null
+    "population": 1115,
+    "population_year": 2021
   },
   {
     "id": 88659,
@@ -4790,8 +6371,8 @@
     "type": "city",
     "native": "Zabrze",
     "timezone": "Europe/Warsaw",
-    "population": 150780,
-    "population_year": 2025
+    "population": 150108,
+    "population_year": 2026
   },
   {
     "id": 88660,
@@ -4807,8 +6388,8 @@
     "type": "village",
     "native": "Zabrzeg",
     "timezone": "Europe/Warsaw",
-    "population": 3404,
-    "population_year": null
+    "population": 3405,
+    "population_year": 2021
   },
   {
     "id": 88689,
@@ -4824,8 +6405,8 @@
     "type": "village",
     "native": "Zamarski",
     "timezone": "Europe/Warsaw",
-    "population": 1555,
-    "population_year": null
+    "population": 1554,
+    "population_year": 2021
   },
   {
     "id": 88873,
@@ -4841,8 +6422,25 @@
     "type": "city",
     "native": "Żarki",
     "timezone": "Europe/Warsaw",
-    "population": 4313,
-    "population_year": 2025
+    "population": 4305,
+    "population_year": 2026
+  },
+  {
+    "id": 173030,
+    "name": "Żarki",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.62805556",
+    "longitude": "19.37027778",
+    "county_id": 4094,
+    "wikiDataId": "Q554626",
+    "type": "municipality",
+    "native": "Żarki",
+    "timezone": "Europe/Warsaw",
+    "population": 8089,
+    "population_year": 2026
   },
   {
     "id": 88875,
@@ -4862,6 +6460,23 @@
     "population_year": null
   },
   {
+    "id": 173063,
+    "name": "Żarnowiec",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.48444400",
+    "longitude": "19.86305600",
+    "county_id": 4101,
+    "wikiDataId": "Q553613",
+    "type": "municipality",
+    "native": "Żarnowiec",
+    "timezone": "Europe/Warsaw",
+    "population": 4341,
+    "population_year": 2026
+  },
+  {
     "id": 88697,
     "name": "Zarzecze",
     "state_id": 1623,
@@ -4875,8 +6490,8 @@
     "type": "village",
     "native": "Zarzecze",
     "timezone": "Europe/Warsaw",
-    "population": 1192,
-    "population_year": null
+    "population": 1369,
+    "population_year": 2021
   },
   {
     "id": 88705,
@@ -4892,8 +6507,8 @@
     "type": "city",
     "native": "Zawiercie",
     "timezone": "Europe/Warsaw",
-    "population": 44922,
-    "population_year": 2025
+    "population": 44546,
+    "population_year": 2026
   },
   {
     "id": 88709,
@@ -4909,8 +6524,25 @@
     "type": "village",
     "native": "Zbrosławice",
     "timezone": "Europe/Warsaw",
-    "population": 2345,
-    "population_year": null
+    "population": 3045,
+    "population_year": 2021
+  },
+  {
+    "id": 173050,
+    "name": "Zbrosławice",
+    "state_id": 1623,
+    "state_code": "24",
+    "country_id": 176,
+    "country_code": "PL",
+    "latitude": "50.40770000",
+    "longitude": "18.71300000",
+    "county_id": 4098,
+    "wikiDataId": "Q553389",
+    "type": "municipality",
+    "native": "Zbrosławice",
+    "timezone": "Europe/Warsaw",
+    "population": 16428,
+    "population_year": 2026
   },
   {
     "id": 88711,
@@ -4926,8 +6558,8 @@
     "type": "village",
     "native": "Zbytków",
     "timezone": "Europe/Warsaw",
-    "population": 1497,
-    "population_year": null
+    "population": 1496,
+    "population_year": 2021
   },
   {
     "id": 88721,
@@ -4943,8 +6575,8 @@
     "type": "municipality",
     "native": "Zebrzydowice",
     "timezone": "Europe/Warsaw",
-    "population": 12470,
-    "population_year": 2025
+    "population": 12425,
+    "population_year": 2026
   },
   {
     "id": 88885,
@@ -4960,8 +6592,8 @@
     "type": "village",
     "native": "Żernica",
     "timezone": "Europe/Warsaw",
-    "population": 3119,
-    "population_year": null
+    "population": 3116,
+    "population_year": 2021
   },
   {
     "id": 88890,
@@ -4977,8 +6609,8 @@
     "type": "city",
     "native": "Żory",
     "timezone": "Europe/Warsaw",
-    "population": 61857,
-    "population_year": 2025
+    "population": 61804,
+    "population_year": 2026
   },
   {
     "id": 88901,
@@ -4994,7 +6626,7 @@
     "type": "city",
     "native": "Żywiec",
     "timezone": "Europe/Warsaw",
-    "population": 29085,
-    "population_year": 2025
+    "population": 28963,
+    "population_year": 2026
   }
 ]

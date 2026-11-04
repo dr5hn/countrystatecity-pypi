@@ -14,7 +14,7 @@
     "native": "Abbotsford",
     "timezone": "America/Vancouver",
     "population": 153524,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 16150,
@@ -146,7 +146,7 @@
     "longitude": "-120.11920000",
     "county_id": null,
     "wikiDataId": "Q808957",
-    "type": "city",
+    "type": "municipality",
     "native": "Barrière",
     "timezone": "America/Vancouver",
     "population": 1765,
@@ -200,8 +200,8 @@
     "type": "village",
     "native": "Burns Lake",
     "timezone": "America/Vancouver",
-    "population": 1779,
-    "population_year": null
+    "population": 1659,
+    "population_year": 2021
   },
   {
     "id": 16257,
@@ -333,7 +333,7 @@
     "longitude": "-121.63627000",
     "county_id": null,
     "wikiDataId": "Q987459",
-    "type": "city",
+    "type": "municipality",
     "native": "Chetwynd",
     "timezone": "America/Dawson_Creek",
     "population": 2302,
@@ -353,8 +353,8 @@
     "type": "city",
     "native": "Chilliwack",
     "timezone": "America/Vancouver",
-    "population": 83788,
-    "population_year": null
+    "population": 93203,
+    "population_year": 2021
   },
   {
     "id": 16326,
@@ -370,8 +370,8 @@
     "type": "city",
     "native": "Colwood",
     "timezone": "America/Vancouver",
-    "population": 16859,
-    "population_year": null
+    "population": 18961,
+    "population_year": 2021
   },
   {
     "id": 16334,
@@ -421,8 +421,8 @@
     "type": "city",
     "native": "Courtenay",
     "timezone": "America/Vancouver",
-    "population": 25599,
-    "population_year": null
+    "population": 28420,
+    "population_year": 2021
   },
   {
     "id": 16344,
@@ -455,8 +455,8 @@
     "type": "city",
     "native": "Cranbrook",
     "timezone": "America/Edmonton",
-    "population": 20047,
-    "population_year": null
+    "population": 20499,
+    "population_year": 2021
   },
   {
     "id": 16347,
@@ -523,8 +523,8 @@
     "type": "city",
     "native": "Delta",
     "timezone": "America/Vancouver",
-    "population": 101668,
-    "population_year": null
+    "population": 108455,
+    "population_year": 2021
   },
   {
     "id": 16367,
@@ -860,7 +860,7 @@
     "longitude": "-121.44144000",
     "county_id": null,
     "wikiDataId": "Q1610654",
-    "type": "city",
+    "type": "municipality",
     "native": "Hope",
     "timezone": "America/Vancouver",
     "population": 6686,
@@ -894,7 +894,7 @@
     "longitude": "-126.67008000",
     "county_id": null,
     "wikiDataId": "Q1257381",
-    "type": "city",
+    "type": "municipality",
     "native": "Houston",
     "timezone": "America/Vancouver",
     "population": 3052,
@@ -911,7 +911,7 @@
     "longitude": "-116.03538000",
     "county_id": null,
     "wikiDataId": "Q282363",
-    "type": "city",
+    "type": "municipality",
     "native": "Invermere",
     "timezone": "America/Edmonton",
     "population": 3917,
@@ -949,7 +949,7 @@
     "native": "Kelowna",
     "timezone": "America/Vancouver",
     "population": 144576,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 16545,
@@ -979,7 +979,7 @@
     "longitude": "-128.65342000",
     "county_id": null,
     "wikiDataId": "Q1307936",
-    "type": "city",
+    "type": "municipality",
     "native": "Kitimat",
     "timezone": "America/Vancouver",
     "population": 8236,
@@ -1051,7 +1051,7 @@
     "native": "Langford",
     "timezone": "America/Vancouver",
     "population": 46584,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 16597,
@@ -1067,8 +1067,8 @@
     "type": "city",
     "native": "Langley",
     "timezone": "America/Vancouver",
-    "population": 132603,
-    "population_year": null
+    "population": 28963,
+    "population_year": 2021
   },
   {
     "id": 16616,
@@ -1081,7 +1081,7 @@
     "longitude": "-121.94200000",
     "county_id": null,
     "wikiDataId": "Q355257",
-    "type": "city",
+    "type": "municipality",
     "native": "Lillooet",
     "timezone": "America/Vancouver",
     "population": 2302,
@@ -1200,7 +1200,7 @@
     "longitude": "-123.53591000",
     "county_id": null,
     "wikiDataId": "Q6823363",
-    "type": "city",
+    "type": "municipality",
     "native": "Metchosin",
     "timezone": "America/Vancouver",
     "population": 5067,
@@ -1272,7 +1272,7 @@
     "native": "Nanaimo",
     "timezone": "America/Vancouver",
     "population": 99863,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 16735,
@@ -1319,7 +1319,7 @@
     "longitude": "-123.68596000",
     "county_id": null,
     "wikiDataId": "Q7054960",
-    "type": "city",
+    "type": "municipality",
     "native": "North Cowichan",
     "timezone": "America/Vancouver",
     "population": 29676,
@@ -1353,7 +1353,7 @@
     "longitude": "-123.41933000",
     "county_id": null,
     "wikiDataId": "Q2000769",
-    "type": "city",
+    "type": "municipality",
     "native": "North Saanich",
     "timezone": "America/Vancouver",
     "population": 12235,
@@ -1387,7 +1387,7 @@
     "longitude": "-123.30260000",
     "county_id": null,
     "wikiDataId": "Q7073424",
-    "type": "city",
+    "type": "municipality",
     "native": "Oak Bay",
     "timezone": "America/Vancouver",
     "population": 17990,
@@ -1442,7 +1442,7 @@
     "native": "Oliver",
     "timezone": "America/Vancouver",
     "population": 5094,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 16784,
@@ -1526,8 +1526,8 @@
     "type": "village",
     "native": "Pemberton",
     "timezone": "America/Vancouver",
-    "population": 2574,
-    "population_year": null
+    "population": 3407,
+    "population_year": 2021
   },
   {
     "id": 16811,
@@ -1594,8 +1594,8 @@
     "type": "city",
     "native": "Port Coquitlam",
     "timezone": "America/Vancouver",
-    "population": 58000,
-    "population_year": null
+    "population": 61498,
+    "population_year": 2021
   },
   {
     "id": 16842,
@@ -1645,8 +1645,8 @@
     "type": "city",
     "native": "Powell River",
     "timezone": "America/Vancouver",
-    "population": 13157,
-    "population_year": null
+    "population": 13943,
+    "population_year": 2021
   },
   {
     "id": 16856,
@@ -1914,7 +1914,7 @@
     "longitude": "-123.75903000",
     "county_id": null,
     "wikiDataId": "Q1259274",
-    "type": "city",
+    "type": "municipality",
     "native": "Sechelt",
     "timezone": "America/Vancouver",
     "population": 8832,
@@ -1931,7 +1931,7 @@
     "longitude": "-118.98565000",
     "county_id": null,
     "wikiDataId": "Q7507390",
-    "type": "city",
+    "type": "municipality",
     "native": "Sicamous",
     "timezone": "America/Vancouver",
     "population": 2613,
@@ -1982,7 +1982,7 @@
     "longitude": "-123.72762000",
     "county_id": null,
     "wikiDataId": "Q993727",
-    "type": "city",
+    "type": "municipality",
     "native": "Sooke",
     "timezone": "America/Vancouver",
     "population": 15086,
@@ -2033,7 +2033,7 @@
     "longitude": "-119.66911000",
     "county_id": null,
     "wikiDataId": "Q984379",
-    "type": "city",
+    "type": "municipality",
     "native": "Summerland",
     "timezone": "America/Vancouver",
     "population": 12042,
@@ -2084,7 +2084,7 @@
     "longitude": "-125.90744000",
     "county_id": null,
     "wikiDataId": "Q462564",
-    "type": "city",
+    "type": "municipality",
     "native": "Tofino",
     "timezone": "America/Vancouver",
     "population": 2516,
@@ -2135,7 +2135,7 @@
     "longitude": "-120.99415000",
     "county_id": null,
     "wikiDataId": "Q7852567",
-    "type": "city",
+    "type": "municipality",
     "native": "Tumbler Ridge",
     "timezone": "America/Dawson_Creek",
     "population": 2399,
@@ -2152,7 +2152,7 @@
     "longitude": "-125.54635000",
     "county_id": null,
     "wikiDataId": "Q994047",
-    "type": "city",
+    "type": "municipality",
     "native": "Ucluelet",
     "timezone": "America/Vancouver",
     "population": 2066,
@@ -2173,7 +2173,7 @@
     "native": "Vancouver",
     "timezone": "America/Vancouver",
     "population": 662248,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 17146,
@@ -2186,7 +2186,7 @@
     "longitude": "-124.01982000",
     "county_id": null,
     "wikiDataId": "Q908439",
-    "type": "city",
+    "type": "municipality",
     "native": "Vanderhoof",
     "timezone": "America/Vancouver",
     "population": 4346,
@@ -2207,7 +2207,7 @@
     "native": "Vernon",
     "timezone": "America/Vancouver",
     "population": 44519,
-    "population_year": null
+    "population_year": 2021
   },
   {
     "id": 17156,
@@ -2291,8 +2291,8 @@
     "type": "city",
     "native": "West Kelowna",
     "timezone": "America/Vancouver",
-    "population": 28793,
-    "population_year": null
+    "population": 36078,
+    "population_year": 2021
   },
   {
     "id": 17193,
@@ -2359,7 +2359,7 @@
     "type": "city",
     "native": "Williams Lake",
     "timezone": "America/Vancouver",
-    "population": 14168,
-    "population_year": null
+    "population": 10947,
+    "population_year": 2021
   }
 ]

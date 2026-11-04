@@ -13,8 +13,8 @@
     "type": "town",
     "native": "Amherst",
     "timezone": "America/Halifax",
-    "population": 9413,
-    "population_year": null
+    "population": 9404,
+    "population_year": 2021
   },
   {
     "id": 16170,
@@ -44,11 +44,11 @@
     "longitude": "-61.99858000",
     "county_id": null,
     "wikiDataId": "Q575483",
-    "type": "city",
+    "type": "town",
     "native": "Antigonish",
-    "timezone": "America/Halifax",
-    "population": 4364,
-    "population_year": null
+    "timezone": "America/Glace_Bay",
+    "population": 4656,
+    "population_year": 2021
   },
   {
     "id": 16216,
@@ -97,7 +97,7 @@
     "wikiDataId": null,
     "type": "county",
     "native": "Cape Breton",
-    "timezone": "America/Halifax",
+    "timezone": "America/Glace_Bay",
     "population": null,
     "population_year": null
   },
@@ -166,8 +166,8 @@
     "type": "locality",
     "native": "Cow Bay",
     "timezone": "America/Halifax",
-    "population": 1257,
-    "population_year": null
+    "population": 1224,
+    "population_year": 2021
   },
   {
     "id": 16355,
@@ -197,11 +197,11 @@
     "longitude": "-65.75860000",
     "county_id": null,
     "wikiDataId": "Q1224586",
-    "type": "city",
+    "type": "town",
     "native": "Digby",
     "timezone": "America/Halifax",
-    "population": 2052,
-    "population_year": null
+    "population": 2001,
+    "population_year": 2021
   },
   {
     "id": 16375,
@@ -435,11 +435,11 @@
     "longitude": "-64.31658000",
     "county_id": null,
     "wikiDataId": "Q105441",
-    "type": "city",
+    "type": "town",
     "native": "Lunenburg",
     "timezone": "America/Halifax",
-    "population": 2263,
-    "population_year": null
+    "population": 2396,
+    "population_year": 2021
   },
   {
     "id": 16686,
@@ -472,8 +472,8 @@
     "type": "town",
     "native": "New Glasgow",
     "timezone": "America/Halifax",
-    "population": 18665,
-    "population_year": null
+    "population": 9471,
+    "population_year": 2021
   },
   {
     "id": 16791,
@@ -520,11 +520,11 @@
     "longitude": "-62.70936000",
     "county_id": null,
     "wikiDataId": "Q1018711",
-    "type": "city",
+    "type": "town",
     "native": "Pictou",
     "timezone": "America/Halifax",
-    "population": 3186,
-    "population_year": null
+    "population": 3107,
+    "population_year": 2021
   },
   {
     "id": 16819,
@@ -556,7 +556,7 @@
     "wikiDataId": "Q2326975",
     "type": "town",
     "native": "Port Hawkesbury",
-    "timezone": "America/Halifax",
+    "timezone": "America/Glace_Bay",
     "population": 3210,
     "population_year": 2021
   },
@@ -590,7 +590,7 @@
     "wikiDataId": "Q22571759",
     "type": "city",
     "native": "Princeville",
-    "timezone": "America/Halifax",
+    "timezone": "America/Glace_Bay",
     "population": 5571,
     "population_year": null
   },
@@ -605,11 +605,11 @@
     "longitude": "-65.32355000",
     "county_id": null,
     "wikiDataId": "Q1693101",
-    "type": "city",
+    "type": "town",
     "native": "Shelburne",
     "timezone": "America/Halifax",
-    "population": 1330,
-    "population_year": null
+    "population": 1644,
+    "population_year": 2021
   },
   {
     "id": 17064,
@@ -724,10 +724,10 @@
     "longitude": "-66.11557000",
     "county_id": null,
     "wikiDataId": "Q864688",
-    "type": "city",
+    "type": "town",
     "native": "Yarmouth",
     "timezone": "America/Halifax",
-    "population": 6518,
-    "population_year": null
+    "population": 6829,
+    "population_year": 2021
   }
 ]

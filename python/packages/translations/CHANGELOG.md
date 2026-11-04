@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.0.1] - 2026-11-04
+
+### Changed
+
+- Refresh the offline snapshot from immutable upstream v5.2.0-export.1, including updated source notices and checksummed release provenance.
+- Snapshot totals: 250 countries, 5,327 states, 156,169 cities and 728,556 postcode/locality records across 117 countries.
+- Publish using isolated builds, PyPI Trusted Publishing and attestations; API client version remains unchanged.
+
 ## [3.0.0] - 2026-10-29
 
 ### Changed

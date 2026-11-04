@@ -1,5 +1,39 @@
 [
   {
+    "id": 169399,
+    "name": "Abasolo",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.95000000",
+    "longitude": "-100.40000000",
+    "county_id": null,
+    "wikiDataId": "Q396830",
+    "type": "municipality",
+    "native": "Abasolo",
+    "timezone": "America/Monterrey",
+    "population": 2974,
+    "population_year": 2020
+  },
+  {
+    "id": 169400,
+    "name": "Agualeguas",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.30000000",
+    "longitude": "-99.68000000",
+    "county_id": null,
+    "wikiDataId": "Q33226675",
+    "type": "municipality",
+    "native": "Agualeguas",
+    "timezone": "America/Monterrey",
+    "population": 3382,
+    "population_year": 2020
+  },
+  {
     "id": 68123,
     "name": "Agualeguas",
     "state_id": 3452,
@@ -46,7 +80,7 @@
     "wikiDataId": "Q20134092",
     "type": "locality",
     "native": "Aldama Estación",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 513,
     "population_year": 2020
   },
@@ -63,7 +97,7 @@
     "wikiDataId": "Q20134302",
     "type": "locality",
     "native": "Alfonso Reyes",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 162,
     "population_year": 2020
   },
@@ -85,6 +119,23 @@
     "population_year": 2020
   },
   {
+    "id": 169401,
+    "name": "Allende",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.28333333",
+    "longitude": "-100.01666667",
+    "county_id": null,
+    "wikiDataId": "Q3849905",
+    "type": "municipality",
+    "native": "Allende",
+    "timezone": "America/Monterrey",
+    "population": 35289,
+    "population_year": 2020
+  },
+  {
     "id": 149675,
     "name": "Altamira",
     "state_id": 3452,
@@ -97,7 +148,7 @@
     "wikiDataId": "Q20134796",
     "type": "locality",
     "native": "Altamira",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 350,
     "population_year": 2020
   },
@@ -114,7 +165,7 @@
     "wikiDataId": "Q20233435",
     "type": "locality",
     "native": "Ampliación de la Laguna",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 129,
     "population_year": 2020
   },
@@ -131,7 +182,7 @@
     "wikiDataId": "Q20233561",
     "type": "municipality",
     "native": "Anáhuac",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Matamoros",
     "population": 9952,
     "population_year": null
   },
@@ -170,6 +221,23 @@
     "population_year": 2020
   },
   {
+    "id": 169402,
+    "name": "Aramberri",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.20000000",
+    "longitude": "-99.88000000",
+    "county_id": null,
+    "wikiDataId": "Q625719",
+    "type": "municipality",
+    "native": "Aramberri",
+    "timezone": "America/Monterrey",
+    "population": 14992,
+    "population_year": 2020
+  },
+  {
     "id": 149679,
     "name": "Armando Fernández Garza",
     "state_id": 3452,
@@ -182,7 +250,7 @@
     "wikiDataId": "Q20252132",
     "type": "locality",
     "native": "Armando Fernández Garza",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 5,
     "population_year": null
   },
@@ -233,7 +301,7 @@
     "wikiDataId": "Q20233458",
     "type": "locality",
     "native": "Barrio de Jalisco",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 96,
     "population_year": 2020
   },
@@ -306,6 +374,23 @@
     "population_year": 2020
   },
   {
+    "id": 169403,
+    "name": "Bustamante",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.57000000",
+    "longitude": "-100.56000000",
+    "county_id": null,
+    "wikiDataId": "Q3850267",
+    "type": "municipality",
+    "native": "Bustamante",
+    "timezone": "America/Monterrey",
+    "population": 3661,
+    "population_year": 2020
+  },
+  {
     "id": 68717,
     "name": "Cadereyta",
     "state_id": 3452,
@@ -336,8 +421,25 @@
     "type": "locality",
     "native": "Cadereyta Jiménez",
     "timezone": "America/Monterrey",
-    "population": 68111,
-    "population_year": null
+    "population": 75721,
+    "population_year": 2020
+  },
+  {
+    "id": 169404,
+    "name": "Cadereyta Jiménez",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.52000000",
+    "longitude": "-99.91000000",
+    "county_id": null,
+    "wikiDataId": "Q2038325",
+    "type": "municipality",
+    "native": "Cadereyta Jiménez",
+    "timezone": "America/Monterrey",
+    "population": 122337,
+    "population_year": 2020
   },
   {
     "id": 149683,
@@ -352,7 +454,7 @@
     "wikiDataId": "Q20275000",
     "type": "locality",
     "native": "Caja Pinta",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 259,
     "population_year": 2020
   },
@@ -369,7 +471,7 @@
     "wikiDataId": "Q20148364",
     "type": "locality",
     "native": "Campestre el Montesito",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 3,
     "population_year": 2020
   },
@@ -386,7 +488,7 @@
     "wikiDataId": "Q20233513",
     "type": "locality",
     "native": "Cañón de Vacas",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 102,
     "population_year": 2020
   },
@@ -420,7 +522,7 @@
     "wikiDataId": "Q20256540",
     "type": "locality",
     "native": "Carboneras",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 96,
     "population_year": 2020
   },
@@ -454,7 +556,7 @@
     "wikiDataId": "Q20262744",
     "type": "locality",
     "native": "Casa Rosa",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 6,
     "population_year": 2020
   },
@@ -505,9 +607,9 @@
     "wikiDataId": "Q3845791",
     "type": "municipality",
     "native": "Cerralvo",
-    "timezone": "America/Mexico_City",
-    "population": 8009,
-    "population_year": null
+    "timezone": "America/Monterrey",
+    "population": 7340,
+    "population_year": 2020
   },
   {
     "id": 149690,
@@ -522,7 +624,7 @@
     "wikiDataId": "Q20233547",
     "type": "locality",
     "native": "Charco Redondo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 286,
     "population_year": 2020
   },
@@ -544,6 +646,40 @@
     "population_year": 2020
   },
   {
+    "id": 169407,
+    "name": "China",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.48000000",
+    "longitude": "-98.98000000",
+    "county_id": null,
+    "wikiDataId": "Q942154",
+    "type": "municipality",
+    "native": "China",
+    "timezone": "America/Monterrey",
+    "population": 9930,
+    "population_year": 2020
+  },
+  {
+    "id": 169406,
+    "name": "Ciénega de Flores",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.96341000",
+    "longitude": "-100.17319000",
+    "county_id": null,
+    "wikiDataId": "Q20234950",
+    "type": "municipality",
+    "native": "Ciénega de Flores",
+    "timezone": "America/Monterrey",
+    "population": 68747,
+    "population_year": 2020
+  },
+  {
     "id": 69198,
     "name": "Ciénega de Flores",
     "state_id": 3452,
@@ -557,8 +693,8 @@
     "type": "locality",
     "native": "Ciénega de Flores",
     "timezone": "America/Monterrey",
-    "population": 15162,
-    "population_year": null
+    "population": 30217,
+    "population_year": 2020
   },
   {
     "id": 149691,
@@ -573,7 +709,7 @@
     "wikiDataId": "Q20262781",
     "type": "locality",
     "native": "Cinco Señores",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 92,
     "population_year": 2020
   },
@@ -591,8 +727,8 @@
     "type": "locality",
     "native": "Ciudad Apodaca",
     "timezone": "America/Monterrey",
-    "population": 467157,
-    "population_year": null
+    "population": 536436,
+    "population_year": 2020
   },
   {
     "id": 69146,
@@ -609,7 +745,7 @@
     "native": "Ciudad Benito Juárez",
     "timezone": "America/Monterrey",
     "population": 308285,
-    "population_year": null
+    "population_year": 2020
   },
   {
     "id": 69148,
@@ -677,7 +813,7 @@
     "native": "Ciudad General Escobedo",
     "timezone": "America/Monterrey",
     "population": 454967,
-    "population_year": null
+    "population_year": 2020
   },
   {
     "id": 69157,
@@ -760,7 +896,7 @@
     "wikiDataId": "Q20233567",
     "type": "locality",
     "native": "Colinas del Río Juárez",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
   },
@@ -794,7 +930,7 @@
     "wikiDataId": "Q5777774",
     "type": "adm1",
     "native": "Colonia Independencia (Monterrey)",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 0,
     "population_year": null
   },
@@ -811,7 +947,7 @@
     "wikiDataId": "Q20129951",
     "type": "locality",
     "native": "Colonia la Mesa",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 103,
     "population_year": 2020
   },
@@ -828,7 +964,7 @@
     "wikiDataId": "Q20133440",
     "type": "locality",
     "native": "Conferín Arizpe",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 393,
     "population_year": 2020
   },
@@ -862,7 +998,7 @@
     "wikiDataId": "Q20233570",
     "type": "locality",
     "native": "Constitución",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 147,
     "population_year": 2020
   },
@@ -879,7 +1015,7 @@
     "wikiDataId": "Q20233587",
     "type": "locality",
     "native": "Dieciocho de Marzo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 270,
     "population_year": 2020
   },
@@ -913,7 +1049,7 @@
     "wikiDataId": "Q20233591",
     "type": "locality",
     "native": "Doce de Octubre",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 246,
     "population_year": 2020
   },
@@ -931,8 +1067,42 @@
     "type": "locality",
     "native": "Doctor Arroyo",
     "timezone": "America/Monterrey",
-    "population": 10272,
-    "population_year": null
+    "population": 11822,
+    "population_year": 2020
+  },
+  {
+    "id": 169408,
+    "name": "Doctor Arroyo",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "23.75000000",
+    "longitude": "-100.21666667",
+    "county_id": null,
+    "wikiDataId": "Q3849508",
+    "type": "municipality",
+    "native": "Doctor Arroyo",
+    "timezone": "America/Monterrey",
+    "population": 36088,
+    "population_year": 2020
+  },
+  {
+    "id": 169409,
+    "name": "Doctor Coss",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.96000000",
+    "longitude": "-99.00000000",
+    "county_id": null,
+    "wikiDataId": "Q49953747",
+    "type": "municipality",
+    "native": "Doctor Coss",
+    "timezone": "America/Monterrey",
+    "population": 1360,
+    "population_year": 2020
   },
   {
     "id": 69694,
@@ -969,6 +1139,23 @@
     "population_year": 2020
   },
   {
+    "id": 169410,
+    "name": "Doctor González",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.85000000",
+    "longitude": "-99.81000000",
+    "county_id": null,
+    "wikiDataId": "Q3849497",
+    "type": "municipality",
+    "native": "Doctor González",
+    "timezone": "America/Monterrey",
+    "population": 3256,
+    "population_year": 2020
+  },
+  {
     "id": 149703,
     "name": "Dolores",
     "state_id": 3452,
@@ -981,7 +1168,7 @@
     "wikiDataId": "Q20233594",
     "type": "locality",
     "native": "Dolores",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 549,
     "population_year": 2020
   },
@@ -998,7 +1185,7 @@
     "wikiDataId": "Q20145210",
     "type": "locality",
     "native": "El Bajío",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 464,
     "population_year": 2020
   },
@@ -1015,7 +1202,7 @@
     "wikiDataId": "Q20233631",
     "type": "locality",
     "native": "El Barco",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 179,
     "population_year": 2020
   },
@@ -1032,7 +1219,7 @@
     "wikiDataId": "Q20233638",
     "type": "locality",
     "native": "El Bosque",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 125,
     "population_year": 2020
   },
@@ -1049,8 +1236,25 @@
     "wikiDataId": "Q20146428",
     "type": "locality",
     "native": "El Brasil",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 70,
+    "population_year": 2020
+  },
+  {
+    "id": 169405,
+    "name": "El Carmen",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.90833333",
+    "longitude": "-100.35000000",
+    "county_id": null,
+    "wikiDataId": "Q6027733",
+    "type": "municipality",
+    "native": "El Carmen",
+    "timezone": "America/Monterrey",
+    "population": 104478,
     "population_year": 2020
   },
   {
@@ -1066,7 +1270,7 @@
     "wikiDataId": "Q20233657",
     "type": "locality",
     "native": "El Carmen de los Elizondo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 135,
     "population_year": 2020
   },
@@ -1083,7 +1287,7 @@
     "wikiDataId": "Q20233664",
     "type": "locality",
     "native": "El Cedral",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 124,
     "population_year": 2020
   },
@@ -1117,7 +1321,7 @@
     "wikiDataId": "Q20233674",
     "type": "locality",
     "native": "El Chamizal",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 88,
     "population_year": 2020
   },
@@ -1134,7 +1338,7 @@
     "wikiDataId": "Q20278866",
     "type": "locality",
     "native": "El Dieciséis",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 11,
     "population_year": 2020
   },
@@ -1151,7 +1355,7 @@
     "wikiDataId": "Q20262916",
     "type": "locality",
     "native": "El Diez",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 283,
     "population_year": 2020
   },
@@ -1168,7 +1372,7 @@
     "wikiDataId": "Q20233778",
     "type": "locality",
     "native": "El Fraile",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 658,
     "population_year": 2020
   },
@@ -1185,7 +1389,7 @@
     "wikiDataId": "Q20262992",
     "type": "locality",
     "native": "El Leal",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 131,
     "population_year": 2020
   },
@@ -1202,7 +1406,7 @@
     "wikiDataId": "Q20279746",
     "type": "locality",
     "native": "El Maguey",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 88,
     "population_year": 2020
   },
@@ -1219,7 +1423,7 @@
     "wikiDataId": "Q20233868",
     "type": "locality",
     "native": "El Mosquito Linares",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
   },
@@ -1236,7 +1440,7 @@
     "wikiDataId": "Q20233885",
     "type": "locality",
     "native": "El Nogalito",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 284,
     "population_year": null
   },
@@ -1253,7 +1457,7 @@
     "wikiDataId": "Q20233902",
     "type": "locality",
     "native": "El Palmital",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 61,
     "population_year": 2020
   },
@@ -1270,7 +1474,7 @@
     "wikiDataId": "Q20233912",
     "type": "locality",
     "native": "El Pastor",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 168,
     "population_year": 2020
   },
@@ -1287,7 +1491,7 @@
     "wikiDataId": "Q20233976",
     "type": "locality",
     "native": "El Ranchito Número Uno",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 174,
     "population_year": 2020
   },
@@ -1304,7 +1508,7 @@
     "wikiDataId": "Q20233987",
     "type": "locality",
     "native": "El Realito",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 179,
     "population_year": null
   },
@@ -1321,7 +1525,7 @@
     "wikiDataId": "Q20263071",
     "type": "locality",
     "native": "El Refugio",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 555,
     "population_year": null
   },
@@ -1338,7 +1542,7 @@
     "wikiDataId": "Q20263064",
     "type": "locality",
     "native": "El Refugio y el Reparo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 234,
     "population_year": 2020
   },
@@ -1355,7 +1559,7 @@
     "wikiDataId": "Q20234031",
     "type": "locality",
     "native": "El Rucio",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 82,
     "population_year": 2020
   },
@@ -1372,7 +1576,7 @@
     "wikiDataId": "Q20234038",
     "type": "locality",
     "native": "El Saladito",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 528,
     "population_year": 2020
   },
@@ -1389,7 +1593,7 @@
     "wikiDataId": "Q20234046",
     "type": "locality",
     "native": "El Salitre",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 160,
     "population_year": 2020
   },
@@ -1440,7 +1644,7 @@
     "wikiDataId": "Q20136031",
     "type": "locality",
     "native": "Estados Unidos",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 196,
     "population_year": 2020
   },
@@ -1525,7 +1729,7 @@
     "wikiDataId": "Q20234137",
     "type": "locality",
     "native": "Francisco I. Madero",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 111,
     "population_year": 2020
   },
@@ -1542,7 +1746,7 @@
     "wikiDataId": "Q20234140",
     "type": "locality",
     "native": "Francisco Villa",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 326,
     "population_year": 2020
   },
@@ -1561,6 +1765,23 @@
     "native": "Galeana",
     "timezone": "America/Monterrey",
     "population": 7844,
+    "population_year": 2020
+  },
+  {
+    "id": 169411,
+    "name": "Galeana",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.80000000",
+    "longitude": "-100.36000000",
+    "county_id": null,
+    "wikiDataId": "Q3849545",
+    "type": "municipality",
+    "native": "Galeana",
+    "timezone": "America/Monterrey",
+    "population": 40903,
     "population_year": 2020
   },
   {
@@ -1593,7 +1814,7 @@
     "wikiDataId": null,
     "type": "city",
     "native": "Garza García",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
   },
@@ -1610,8 +1831,25 @@
     "wikiDataId": "Q20234144",
     "type": "locality",
     "native": "Garza González",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 183,
+    "population_year": 2020
+  },
+  {
+    "id": 169413,
+    "name": "General Bravo",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.82000000",
+    "longitude": "-98.87000000",
+    "county_id": null,
+    "wikiDataId": "Q25479899",
+    "type": "municipality",
+    "native": "General Bravo",
+    "timezone": "America/Monterrey",
+    "population": 5506,
     "population_year": 2020
   },
   {
@@ -1632,6 +1870,23 @@
     "population_year": 2020
   },
   {
+    "id": 169414,
+    "name": "General Escobedo",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.82493000",
+    "longitude": "-100.35796000",
+    "county_id": null,
+    "wikiDataId": "Q20290623",
+    "type": "municipality",
+    "native": "General Escobedo",
+    "timezone": "America/Monterrey",
+    "population": 481213,
+    "population_year": 2020
+  },
+  {
     "id": 149736,
     "name": "General Tapia",
     "state_id": 3452,
@@ -1644,8 +1899,25 @@
     "wikiDataId": "Q20234148",
     "type": "locality",
     "native": "General Tapia",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 554,
+    "population_year": 2020
+  },
+  {
+    "id": 169415,
+    "name": "General Terán",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.28000000",
+    "longitude": "-99.39000000",
+    "county_id": null,
+    "wikiDataId": "Q3310753",
+    "type": "municipality",
+    "native": "General Terán",
+    "timezone": "America/Monterrey",
+    "population": 14109,
     "population_year": 2020
   },
   {
@@ -1663,6 +1935,57 @@
     "native": "General Treviño",
     "timezone": "America/Monterrey",
     "population": 1424,
+    "population_year": 2020
+  },
+  {
+    "id": 169416,
+    "name": "General Treviño",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.21666667",
+    "longitude": "-99.48333333",
+    "county_id": null,
+    "wikiDataId": "Q3310741",
+    "type": "municipality",
+    "native": "General Treviño",
+    "timezone": "America/Monterrey",
+    "population": 1808,
+    "population_year": 2020
+  },
+  {
+    "id": 169417,
+    "name": "General Zaragoza",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "23.91666667",
+    "longitude": "-99.80000000",
+    "county_id": null,
+    "wikiDataId": "Q3849535",
+    "type": "municipality",
+    "native": "General Zaragoza",
+    "timezone": "America/Monterrey",
+    "population": 6282,
+    "population_year": 2020
+  },
+  {
+    "id": 169418,
+    "name": "General Zuazua",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.90000000",
+    "longitude": "-100.11666667",
+    "county_id": null,
+    "wikiDataId": "Q996738",
+    "type": "municipality",
+    "native": "General Zuazua",
+    "timezone": "America/Monterrey",
+    "population": 102149,
     "population_year": 2020
   },
   {
@@ -1695,8 +2018,25 @@
     "wikiDataId": "Q20234154",
     "type": "locality",
     "native": "Graciano Bortoni",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 111,
+    "population_year": 2020
+  },
+  {
+    "id": 169419,
+    "name": "Guadalupe",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.68500000",
+    "longitude": "-100.19444444",
+    "county_id": null,
+    "wikiDataId": "Q20234955",
+    "type": "municipality",
+    "native": "Guadalupe",
+    "timezone": "America/Monterrey",
+    "population": 643143,
     "population_year": 2020
   },
   {
@@ -1729,7 +2069,7 @@
     "wikiDataId": "Q20144143",
     "type": "locality",
     "native": "Hacienda de Enmedio",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 271,
     "population_year": 2020
   },
@@ -1746,7 +2086,7 @@
     "wikiDataId": "Q20263209",
     "type": "locality",
     "native": "Hacienda San Juan",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 4,
     "population_year": 2020
   },
@@ -1798,8 +2138,25 @@
     "type": "locality",
     "native": "Hidalgo",
     "timezone": "America/Monterrey",
-    "population": 16524,
-    "population_year": null
+    "population": 16057,
+    "population_year": 2020
+  },
+  {
+    "id": 169433,
+    "name": "Hidalgo",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.98581000",
+    "longitude": "-100.45219000",
+    "county_id": null,
+    "wikiDataId": "Q20234956",
+    "type": "municipality",
+    "native": "Hidalgo",
+    "timezone": "America/Monterrey",
+    "population": 16086,
+    "population_year": 2020
   },
   {
     "id": 149743,
@@ -1817,6 +2174,23 @@
     "timezone": "America/Monterrey",
     "population": 1462,
     "population_year": null
+  },
+  {
+    "id": 169420,
+    "name": "Hualahuises",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.88583333",
+    "longitude": "-99.67277778",
+    "county_id": null,
+    "wikiDataId": "Q20263678",
+    "type": "municipality",
+    "native": "Hualahuises",
+    "timezone": "America/Monterrey",
+    "population": 7026,
+    "population_year": 2020
   },
   {
     "id": 70724,
@@ -1848,7 +2222,7 @@
     "wikiDataId": "Q20234187",
     "type": "locality",
     "native": "Huertas Estación",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 139,
     "population_year": 2020
   },
@@ -1865,7 +2239,7 @@
     "wikiDataId": "Q20146867",
     "type": "locality",
     "native": "Ibarrilla",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 94,
     "population_year": 2020
   },
@@ -1882,8 +2256,25 @@
     "wikiDataId": "Q20234189",
     "type": "locality",
     "native": "Ismael Flores",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 362,
+    "population_year": 2020
+  },
+  {
+    "id": 169421,
+    "name": "Iturbide",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.62000000",
+    "longitude": "-99.86000000",
+    "county_id": null,
+    "wikiDataId": "Q760263",
+    "type": "municipality",
+    "native": "Iturbide",
+    "timezone": "America/Monterrey",
+    "population": 3298,
     "population_year": 2020
   },
   {
@@ -1916,7 +2307,7 @@
     "wikiDataId": "Q20148675",
     "type": "locality",
     "native": "Jardines de la Silla (Jardines)",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 75426,
     "population_year": 2020
   },
@@ -1933,7 +2324,7 @@
     "wikiDataId": "Q20148771",
     "type": "locality",
     "native": "Jáuregui",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 353,
     "population_year": 2020
   },
@@ -1950,7 +2341,7 @@
     "wikiDataId": "Q20234193",
     "type": "locality",
     "native": "Jesús María Aguirre Galeana",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
   },
@@ -1967,7 +2358,7 @@
     "wikiDataId": "Q20234194",
     "type": "locality",
     "native": "Jesús María de Berrones",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 251,
     "population_year": 2020
   },
@@ -1984,7 +2375,7 @@
     "wikiDataId": "Q20234195",
     "type": "locality",
     "native": "Jesús María del Terrero",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 215,
     "population_year": 2020
   },
@@ -2006,6 +2397,23 @@
     "population_year": null
   },
   {
+    "id": 169422,
+    "name": "Juárez",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.60368000",
+    "longitude": "-100.11647000",
+    "county_id": null,
+    "wikiDataId": "Q20234958",
+    "type": "municipality",
+    "native": "Juárez",
+    "timezone": "America/Monterrey",
+    "population": 471523,
+    "population_year": 2020
+  },
+  {
     "id": 149755,
     "name": "Kilómetro Dieciséis",
     "state_id": 3452,
@@ -2018,7 +2426,7 @@
     "wikiDataId": "Q20285330",
     "type": "locality",
     "native": "Kilómetro Dieciséis",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 22,
     "population_year": 2020
   },
@@ -2035,7 +2443,7 @@
     "wikiDataId": "Q20263260",
     "type": "locality",
     "native": "La Agüita",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 136,
     "population_year": 2020
   },
@@ -2052,7 +2460,7 @@
     "wikiDataId": "Q20234231",
     "type": "locality",
     "native": "La Aldea",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 294,
     "population_year": 2020
   },
@@ -2069,7 +2477,7 @@
     "wikiDataId": "Q20234238",
     "type": "locality",
     "native": "La Arena",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 7,
     "population_year": 2020
   },
@@ -2103,7 +2511,7 @@
     "wikiDataId": "Q20234250",
     "type": "locality",
     "native": "El bar",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 495,
     "population_year": null
   },
@@ -2120,7 +2528,7 @@
     "wikiDataId": "Q20234251",
     "type": "locality",
     "native": "La Baticolla",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 7,
     "population_year": 2020
   },
@@ -2137,7 +2545,7 @@
     "wikiDataId": "Q20234258",
     "type": "locality",
     "native": "La Boquilla",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 117,
     "population_year": 2020
   },
@@ -2154,7 +2562,7 @@
     "wikiDataId": "Q20234278",
     "type": "locality",
     "native": "La Campana",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 6,
     "population_year": 2020
   },
@@ -2171,7 +2579,7 @@
     "wikiDataId": "Q20234286",
     "type": "locality",
     "native": "La Candelaria",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 465,
     "population_year": 2020
   },
@@ -2205,7 +2613,7 @@
     "wikiDataId": "Q20263324",
     "type": "locality",
     "native": "La Chiripa",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 139,
     "population_year": 2020
   },
@@ -2239,7 +2647,7 @@
     "wikiDataId": "Q20287864",
     "type": "locality",
     "native": "La Colmena de Arriba",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 127,
     "population_year": 2020
   },
@@ -2256,7 +2664,7 @@
     "wikiDataId": "Q20263361",
     "type": "locality",
     "native": "La Escuadra",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 3,
     "population_year": 2020
   },
@@ -2273,7 +2681,7 @@
     "wikiDataId": "Q20234342",
     "type": "locality",
     "native": "La Esperanza",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 163,
     "population_year": null
   },
@@ -2290,7 +2698,7 @@
     "wikiDataId": "Q20234354",
     "type": "locality",
     "native": "La Estrella",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 44,
     "population_year": 2020
   },
@@ -2307,7 +2715,7 @@
     "wikiDataId": "Q93969520",
     "type": "city",
     "native": "La Fama",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 5,
     "population_year": null
   },
@@ -2324,7 +2732,7 @@
     "wikiDataId": "Q20234367",
     "type": "locality",
     "native": "La Florida",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 129,
     "population_year": 2020
   },
@@ -2341,7 +2749,7 @@
     "wikiDataId": "Q20234382",
     "type": "locality",
     "native": "La Gloria",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 184,
     "population_year": 2020
   },
@@ -2358,7 +2766,7 @@
     "wikiDataId": "Q20263407",
     "type": "locality",
     "native": "La Haciendita",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 333,
     "population_year": 2020
   },
@@ -2375,7 +2783,7 @@
     "wikiDataId": "Q20234418",
     "type": "locality",
     "native": "La Joya de Alardín",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 253,
     "population_year": 2020
   },
@@ -2392,7 +2800,7 @@
     "wikiDataId": "Q20252010",
     "type": "locality",
     "native": "La Lagunita",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 132,
     "population_year": 2020
   },
@@ -2409,7 +2817,7 @@
     "wikiDataId": "Q20234441",
     "type": "locality",
     "native": "La Lobera de Portillo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 133,
     "population_year": 2020
   },
@@ -2426,7 +2834,7 @@
     "wikiDataId": "Q20234458",
     "type": "locality",
     "native": "La Maestranza",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 112,
     "population_year": 2020
   },
@@ -2443,7 +2851,7 @@
     "wikiDataId": "Q20263442",
     "type": "locality",
     "native": "La Mesa de Berrones",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 118,
     "population_year": 2020
   },
@@ -2460,7 +2868,7 @@
     "wikiDataId": "Q6464258",
     "type": "city",
     "native": "La Palmita Nuevo Leon",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
   },
@@ -2477,7 +2885,7 @@
     "wikiDataId": "Q20133013",
     "type": "locality",
     "native": "La Presita de Berlanga",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 157,
     "population_year": 2020
   },
@@ -2494,7 +2902,7 @@
     "wikiDataId": "Q20234530",
     "type": "locality",
     "native": "La Providencia",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 370,
     "population_year": 2020
   },
@@ -2511,7 +2919,7 @@
     "wikiDataId": "Q20234534",
     "type": "locality",
     "native": "La Purísima",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 152,
     "population_year": 2020
   },
@@ -2528,7 +2936,7 @@
     "wikiDataId": "Q20134952",
     "type": "locality",
     "native": "La Reforma",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 272,
     "population_year": 2020
   },
@@ -2545,7 +2953,7 @@
     "wikiDataId": "Q20136473",
     "type": "locality",
     "native": "La Soledad",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 187,
     "population_year": 2020
   },
@@ -2562,7 +2970,7 @@
     "wikiDataId": "Q20137365",
     "type": "locality",
     "native": "La Tinaja",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 105,
     "population_year": 2020
   },
@@ -2579,7 +2987,7 @@
     "wikiDataId": "Q20234562",
     "type": "locality",
     "native": "La Trinidad",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 186,
     "population_year": 2020
   },
@@ -2596,7 +3004,7 @@
     "wikiDataId": "Q20294336",
     "type": "locality",
     "native": "La Unión y el Cardonal",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 407,
     "population_year": 2020
   },
@@ -2613,7 +3021,7 @@
     "wikiDataId": "Q20138782",
     "type": "locality",
     "native": "La Ventana",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 24,
     "population_year": 2020
   },
@@ -2630,8 +3038,25 @@
     "wikiDataId": "Q20234582",
     "type": "locality",
     "native": "Ladrillera",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 10178,
+    "population_year": 2020
+  },
+  {
+    "id": 169423,
+    "name": "Lampazos de Naranjo",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "27.01824000",
+    "longitude": "-100.40405000",
+    "county_id": null,
+    "wikiDataId": "Q20234959",
+    "type": "municipality",
+    "native": "Lampazos de Naranjo",
+    "timezone": "America/Monterrey",
+    "population": 5351,
     "population_year": 2020
   },
   {
@@ -2664,7 +3089,7 @@
     "wikiDataId": "Q20294980",
     "type": "locality",
     "native": "Las Barretas",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 83,
     "population_year": 2020
   },
@@ -2681,7 +3106,7 @@
     "wikiDataId": "Q20141655",
     "type": "locality",
     "native": "Las Brisas",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 214,
     "population_year": 2020
   },
@@ -2698,7 +3123,7 @@
     "wikiDataId": "Q20146793",
     "type": "locality",
     "native": "Las Mesas de San Juan",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 124,
     "population_year": 2020
   },
@@ -2715,7 +3140,7 @@
     "wikiDataId": "Q20234677",
     "type": "locality",
     "native": "Las Palomas",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 865,
     "population_year": 2020
   },
@@ -2771,6 +3196,23 @@
     "population_year": 2020
   },
   {
+    "id": 169424,
+    "name": "Linares",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "24.85879100",
+    "longitude": "-99.56835800",
+    "county_id": null,
+    "wikiDataId": "Q20234960",
+    "type": "municipality",
+    "native": "Linares",
+    "timezone": "America/Monterrey",
+    "population": 84666,
+    "population_year": 2020
+  },
+  {
     "id": 71740,
     "name": "Loma la Paz",
     "state_id": 3452,
@@ -2800,7 +3242,7 @@
     "wikiDataId": "Q20234732",
     "type": "locality",
     "native": "Lomas de San Francisco",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 22,
     "population_year": 2020
   },
@@ -2834,7 +3276,7 @@
     "wikiDataId": "Q20129795",
     "type": "locality",
     "native": "Los Álamos",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 4,
     "population_year": 2020
   },
@@ -2851,7 +3293,7 @@
     "wikiDataId": "Q3311650",
     "type": "adm2",
     "native": "Los Aldamas",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 0,
     "population_year": null
   },
@@ -2868,7 +3310,7 @@
     "wikiDataId": "Q6683457",
     "type": "locality",
     "native": "Los Ángeles Nuevo León",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
   },
@@ -2885,7 +3327,7 @@
     "wikiDataId": "Q20234779",
     "type": "locality",
     "native": "Los Dos Ríos",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 4,
     "population_year": 2020
   },
@@ -2936,8 +3378,25 @@
     "wikiDataId": "Q20140610",
     "type": "locality",
     "native": "Los Pocitos",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 17,
+    "population_year": 2020
+  },
+  {
+    "id": 169428,
+    "name": "Los Ramones",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.65666667",
+    "longitude": "-99.60250000",
+    "county_id": null,
+    "wikiDataId": "Q27797541",
+    "type": "municipality",
+    "native": "Los Ramones",
+    "timezone": "America/Monterrey",
+    "population": 5389,
     "population_year": 2020
   },
   {
@@ -2970,7 +3429,7 @@
     "wikiDataId": "Q20234875",
     "type": "locality",
     "native": "María Aurora",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 13,
     "population_year": 2020
   },
@@ -2987,7 +3446,7 @@
     "wikiDataId": "Q20234876",
     "type": "locality",
     "native": "María Auxiliadora",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 1,
     "population_year": 2020
   },
@@ -3021,7 +3480,7 @@
     "wikiDataId": "Q765472",
     "type": "city",
     "native": "Mazatlán",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 501441,
     "population_year": null
   },
@@ -3055,7 +3514,7 @@
     "wikiDataId": "Q20234890",
     "type": "locality",
     "native": "Mexiquito",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 28,
     "population_year": 2020
   },
@@ -3072,7 +3531,7 @@
     "wikiDataId": "Q3849898",
     "type": "municipality",
     "native": "Mier y Noriega",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 7652,
     "population_year": 2020
   },
@@ -3089,7 +3548,7 @@
     "wikiDataId": null,
     "type": "municipality",
     "native": "Mina",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 4309,
     "population_year": null
   },
@@ -3107,8 +3566,8 @@
     "type": "locality",
     "native": "Misión San Pablo",
     "timezone": "America/Monterrey",
-    "population": 8174,
-    "population_year": null
+    "population": 10113,
+    "population_year": 2020
   },
   {
     "id": 72162,
@@ -3191,9 +3650,9 @@
     "wikiDataId": "Q20263682",
     "type": "municipality",
     "native": "Montemorelos",
-    "timezone": "America/Mexico_City",
-    "population": 53854,
-    "population_year": null
+    "timezone": "America/Monterrey",
+    "population": 67428,
+    "population_year": 2020
   },
   {
     "id": 72219,
@@ -3213,6 +3672,23 @@
     "population_year": 2020
   },
   {
+    "id": 169425,
+    "name": "Monterrey",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.62694444",
+    "longitude": "-100.28388889",
+    "county_id": null,
+    "wikiDataId": "Q6905368",
+    "type": "municipality",
+    "native": "Monterrey",
+    "timezone": "America/Monterrey",
+    "population": 1142994,
+    "population_year": 2020
+  },
+  {
     "id": 149809,
     "name": "Náñez González",
     "state_id": 3452,
@@ -3225,9 +3701,26 @@
     "wikiDataId": "Q20254178",
     "type": "locality",
     "native": "Náñez González",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 5,
     "population_year": null
+  },
+  {
+    "id": 169426,
+    "name": "Parás",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.58333333",
+    "longitude": "-99.58333333",
+    "county_id": null,
+    "wikiDataId": "Q3311878",
+    "type": "municipality",
+    "native": "Parás",
+    "timezone": "America/Monterrey",
+    "population": 906,
+    "population_year": 2020
   },
   {
     "id": 72664,
@@ -3293,9 +3786,26 @@
     "wikiDataId": "Q20263706",
     "type": "locality",
     "native": "Pedro Ibarra Hernández",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 6,
     "population_year": null
+  },
+  {
+    "id": 169427,
+    "name": "Pesquería",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.74000000",
+    "longitude": "-99.94000000",
+    "county_id": null,
+    "wikiDataId": "Q3844518",
+    "type": "municipality",
+    "native": "Pesquería",
+    "timezone": "America/Monterrey",
+    "population": 147624,
+    "population_year": 2020
   },
   {
     "id": 72740,
@@ -3311,8 +3821,8 @@
     "type": "locality",
     "native": "Pesquería",
     "timezone": "America/Monterrey",
-    "population": 5465,
-    "population_year": null
+    "population": 48069,
+    "population_year": 2020
   },
   {
     "id": 72854,
@@ -3345,8 +3855,8 @@
     "type": "locality",
     "native": "Praderas de San Francisco",
     "timezone": "America/Monterrey",
-    "population": 1215,
-    "population_year": null
+    "population": 17284,
+    "population_year": 2020
   },
   {
     "id": 72882,
@@ -3395,9 +3905,26 @@
     "wikiDataId": "Q20235059",
     "type": "locality",
     "native": "Puerto Genovevo Santiago",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
+  },
+  {
+    "id": 169429,
+    "name": "Rayones",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.01812222",
+    "longitude": "-100.07321389",
+    "county_id": null,
+    "wikiDataId": "Q3844502",
+    "type": "municipality",
+    "native": "Rayones",
+    "timezone": "America/Monterrey",
+    "population": 2377,
+    "population_year": 2020
   },
   {
     "id": 73085,
@@ -3463,9 +3990,43 @@
     "wikiDataId": "Q20131064",
     "type": "locality",
     "native": "Rubén Carlos Gallegos Reyes Villaldama",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
+  },
+  {
+    "id": 169430,
+    "name": "Sabinas Hidalgo",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.55194444",
+    "longitude": "-100.11305556",
+    "county_id": null,
+    "wikiDataId": "Q20290883",
+    "type": "municipality",
+    "native": "Sabinas Hidalgo",
+    "timezone": "America/Monterrey",
+    "population": 34709,
+    "population_year": 2020
+  },
+  {
+    "id": 169431,
+    "name": "Salinas Victoria",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.10000000",
+    "longitude": "-100.24000000",
+    "county_id": null,
+    "wikiDataId": "Q3844496",
+    "type": "municipality",
+    "native": "Salinas Victoria",
+    "timezone": "America/Monterrey",
+    "population": 86766,
+    "population_year": 2020
   },
   {
     "id": 73215,
@@ -3514,7 +4075,7 @@
     "wikiDataId": "Q20235138",
     "type": "locality",
     "native": "San Antonio de Alamitos",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 412,
     "population_year": 2020
   },
@@ -3531,7 +4092,7 @@
     "wikiDataId": "Q7413458",
     "type": "locality",
     "native": "San Bernardo Nuevo León",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
   },
@@ -3548,7 +4109,7 @@
     "wikiDataId": "Q20235201",
     "type": "locality",
     "native": "San José de Cuatro Caminos",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 84,
     "population_year": 2020
   },
@@ -3565,7 +4126,7 @@
     "wikiDataId": "Q20235205",
     "type": "locality",
     "native": "San José de Medina",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 14,
     "population_year": 2020
   },
@@ -3599,7 +4160,7 @@
     "wikiDataId": "Q20143219",
     "type": "city",
     "native": "San José Linares",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
   },
@@ -3633,9 +4194,26 @@
     "wikiDataId": "Q20293588",
     "type": "locality",
     "native": "San Mateo Doctor Arroyo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
+  },
+  {
+    "id": 169432,
+    "name": "San Nicolás de los Garza",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.73530000",
+    "longitude": "-100.26720000",
+    "county_id": null,
+    "wikiDataId": "Q27797537",
+    "type": "municipality",
+    "native": "San Nicolás de los Garza",
+    "timezone": "America/Monterrey",
+    "population": 412199,
+    "population_year": 2020
   },
   {
     "id": 74273,
@@ -3667,8 +4245,25 @@
     "wikiDataId": "Q1944489",
     "type": "locality",
     "native": "San Pedro Garza Garcia",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 132128,
+    "population_year": 2020
+  },
+  {
+    "id": 169412,
+    "name": "San Pedro Garza García",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.64777778",
+    "longitude": "-100.38388889",
+    "county_id": null,
+    "wikiDataId": "Q20290945",
+    "type": "municipality",
+    "native": "San Pedro Garza García",
+    "timezone": "America/Monterrey",
+    "population": 132169,
     "population_year": 2020
   },
   {
@@ -3706,6 +4301,23 @@
     "population_year": null
   },
   {
+    "id": 169434,
+    "name": "Santa Catarina",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.60077000",
+    "longitude": "-100.48196000",
+    "county_id": null,
+    "wikiDataId": "Q20234969",
+    "type": "municipality",
+    "native": "Santa Catarina",
+    "timezone": "America/Monterrey",
+    "population": 306322,
+    "population_year": 2020
+  },
+  {
     "id": 74837,
     "name": "Santa Rosa",
     "state_id": 3452,
@@ -3735,7 +4347,7 @@
     "wikiDataId": "Q20235363",
     "type": "locality",
     "native": "Santa Teresita",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 2,
     "population_year": 2020
   },
@@ -3752,8 +4364,25 @@
     "wikiDataId": "Q20235364",
     "type": "locality",
     "native": "Santa Verónica",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 11,
+    "population_year": 2020
+  },
+  {
+    "id": 169435,
+    "name": "Santiago",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "25.36666667",
+    "longitude": "-100.28333333",
+    "county_id": null,
+    "wikiDataId": "Q9044350",
+    "type": "municipality",
+    "native": "Santiago",
+    "timezone": "America/Monterrey",
+    "population": 46784,
     "population_year": 2020
   },
   {
@@ -3820,7 +4449,7 @@
     "wikiDataId": "Q7911856",
     "type": "adm2",
     "native": "Valle Alto",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 0,
     "population_year": null
   },
@@ -3893,6 +4522,23 @@
     "population_year": 2020
   },
   {
+    "id": 169436,
+    "name": "Vallecillo",
+    "state_id": 3452,
+    "state_code": "NLE",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "26.62583333",
+    "longitude": "-99.88111111",
+    "county_id": null,
+    "wikiDataId": "Q2000762",
+    "type": "municipality",
+    "native": "Vallecillo",
+    "timezone": "America/Monterrey",
+    "population": 1552,
+    "population_year": 2020
+  },
+  {
     "id": 76082,
     "name": "Villaldama",
     "state_id": 3452,
@@ -3902,10 +4548,10 @@
     "latitude": "26.47039000",
     "longitude": "-100.38726000",
     "county_id": null,
-    "wikiDataId": null,
+    "wikiDataId": "Q3849516",
     "type": "municipality",
     "native": "Villaldama",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": 3573,
     "population_year": 2020
   },
@@ -3922,7 +4568,7 @@
     "wikiDataId": null,
     "type": "city",
     "native": "Villaldama Nuevo León",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Monterrey",
     "population": null,
     "population_year": null
   },
