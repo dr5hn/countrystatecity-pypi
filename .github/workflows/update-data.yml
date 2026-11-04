@@ -12,10 +12,6 @@ on:
         description: 'Published upstream export tag, or latest'
         type: string
         default: latest
-      release_november_refresh:
-        description: 'Release the checked v5.1.0 refresh on 1 November 2026 only'
-        type: boolean
-        default: false
 
 permissions:
   contents: read
@@ -28,7 +24,6 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
-      actions: write
     
     steps:
       - name: Checkout code
@@ -129,6 +124,10 @@ jobs:
             echo "No data changes detected"
           fi
 
+      - name: Include the release version in the reviewed PR
+        if: steps.check-changes.outputs.changed == 'true'
+        run: python .github/scripts/data_version.py bump
+
       - name: Create Pull Request
         id: data-pr
         if: steps.check-changes.outputs.changed == 'true'
@@ -170,20 +169,6 @@ jobs:
             automated
             data-update
 
-      - name: Release the requested 1 November refresh
-        if: (github.event_name == 'schedule' || inputs.release_november_refresh) && steps.data-pr.outputs.pull-request-number != ''
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ steps.data-pr.outputs.pull-request-number }}
-          EXPECTED_HEAD_SHA: ${{ steps.data-pr.outputs.pull-request-head-sha }}
-        run: |
-          [ "$(date -u +%F)" = '2026-11-01' ] || exit 0
-          RELEASE=$(python -c "import json; print(json.load(open('python/data/release.json'))['sourceRelease'])")
-          [[ "$RELEASE" =~ ^v5\.1\.0-export\.[0-9]+$ ]] || { echo 'The 1 November v5.1.0 export is not published yet; leaving the PR for review.'; exit 1; }
-          [ -n "$EXPECTED_HEAD_SHA" ] || exit 1
-          gh pr merge "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --merge --delete-branch --match-head-commit "$EXPECTED_HEAD_SHA"
-          gh workflow run release.yml --repo "$GITHUB_REPOSITORY" --ref main -f data_update_pr="$PR_NUMBER"
-      
       - name: No changes detected
         if: steps.check-changes.outputs.changed == 'false'
         run: |

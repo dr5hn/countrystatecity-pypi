@@ -3,24 +3,24 @@ name: Python Package CI
 on:
   push:
     branches: [main, master]
-    paths:
-      - 'python/**'
-      - '.github/workflows/**'
-      - '.github/tests/**'
-      - '.github/scripts/**'
-      - '.github/requirements/**'
   pull_request:
-    paths:
-      - 'python/**'
-      - '.github/workflows/**'
-      - '.github/tests/**'
-      - '.github/scripts/**'
-      - '.github/requirements/**'
 
 permissions:
   contents: read
 
 jobs:
+  release-ready:
+    name: Release safety gate
+    if: always()
+    needs: [workflow-safety, test]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require every validation job
+        env:
+          WORKFLOW_RESULT: ${{ needs.workflow-safety.result }}
+          TEST_RESULT: ${{ needs.test.result }}
+        run: '[ "$WORKFLOW_RESULT" = success ] && [ "$TEST_RESULT" = success ]'
+
   workflow-safety:
     runs-on: ubuntu-latest
     steps:
