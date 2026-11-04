@@ -11,11 +11,18 @@ on:
     types: [closed]
     branches: [main, master]
 
+permissions:
+  contents: read
+
+concurrency:
+  group: prepare-data-release
+  cancel-in-progress: false
+
 # Data-update releases bump the seven offline data packages in lockstep. The
 # `api` package (PyPI name `countrystatecity-api`) is deliberately excluded: it
 # ships no data, so an upstream data sync does not change it. Version it by
 # hand in python/packages/api/pyproject.toml and countrystatecity/_version.py.
-# The publish job below is called with `package: data`, the group that names
+# The publish job below dispatches `package=data`, the group that names
 # exactly those seven, so a data release can never reach the API client even
 # if the API version in the tree is ahead of what is on PyPI.
 jobs:
@@ -31,7 +38,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           ref: main
@@ -50,15 +57,9 @@ jobs:
           echo "merge_sha=$(jq -r .merge_commit_sha "$RUNNER_TEMP/release-pr.json")" >> "$GITHUB_OUTPUT"
 
       - name: Setup Python
-        uses: actions/setup-python@v7
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7
         with:
           python-version: '3.15'
-
-      - name: Install dependencies
-        run: |
-          for pkg in countries timezones currencies translations phonecodes regions postal_codes; do
-            pip install -e "python/packages/$pkg/.[dev]" -q
-          done
 
       - name: Bump patch version for all packages
         id: bump
@@ -67,6 +68,8 @@ jobs:
         run: |
           python -c "
           import re, pathlib, subprocess, os
+
+          subprocess.run(['git', 'merge-base', '--is-ancestor', os.environ['MERGE_SHA'], 'HEAD'], check=True)
 
           # Compute new version once from countries (source of truth)
           pyproject = pathlib.Path('python/packages/countries/pyproject.toml')
@@ -102,7 +105,7 @@ jobs:
       - name: Update CHANGELOGs
         env:
           NEW_VERSION: ${{ steps.bump.outputs.new_version }}
-          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_NUMBER: ${{ inputs.data_update_pr || github.event.pull_request.number }}
         run: |
           DATE=$(date +%Y-%m-%d)
           for pkg in countries timezones currencies translations phonecodes regions postal_codes; do
@@ -116,12 +119,6 @@ jobs:
                 printf "\n$ENTRY" >> "$CHANGELOG"
               fi
             fi
-          done
-
-      - name: Run tests
-        run: |
-          for pkg in countries timezones currencies translations phonecodes regions postal_codes; do
-            pytest python/packages/$pkg/tests/
           done
 
       - name: Commit and push
@@ -149,12 +146,13 @@ jobs:
     name: Publish the offline data packages to PyPI
     needs: release
     if: needs.release.result == 'success' && needs.release.outputs.ref != ''
-    uses: ./.github/workflows/publish.yml
-    with:
-      package: data
-      ref: ${{ needs.release.outputs.ref }}
-    secrets:
-      PYPI_TOKEN: ${{ secrets.PYPI_TOKEN }}
+    runs-on: ubuntu-latest
     permissions:
-      contents: write
-      id-token: write
+      actions: write
+    steps:
+      - name: Dispatch the top-level trusted-publishing workflow
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_REF: ${{ needs.release.outputs.ref }}
+        run: |
+          gh workflow run publish.yml --repo "$GITHUB_REPOSITORY" --ref main -f package=data -f ref="$RELEASE_REF"

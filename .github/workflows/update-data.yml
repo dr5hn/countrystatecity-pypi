@@ -17,8 +17,12 @@ on:
         type: boolean
         default: false
 
+permissions:
+  contents: read
+
 jobs:
   update-data:
+    if: github.repository == 'dr5hn/countrystatecity-pypi' && github.ref == 'refs/heads/main'
     name: Update Countries/States/Cities Data
     runs-on: ubuntu-latest
     permissions:
@@ -28,19 +32,19 @@ jobs:
     
     steps:
       - name: Checkout code
-        uses: actions/checkout@v7
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: false
       
       - name: Setup Python
-        uses: actions/setup-python@v7
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7
         with:
           python-version: '3.15'
       
       - name: Install dependencies
-        working-directory: python/packages/countries
         run: |
-          pip install -e ".[dev]"
+          python -m pip install --require-hashes --only-binary=:all: -r .github/requirements/release.txt
+          python -m pip install --no-deps --no-build-isolation -e python/packages/countries
       
       - name: Download latest data
         env:
@@ -67,7 +71,7 @@ jobs:
 
       - name: Regenerate derived package data
         run: |
-          pip install -e "python/packages/countries/.[dev]"
+          python -m pip install --no-deps --no-build-isolation -e python/packages/countries
           python python/packages/timezones/scripts/generate-data.py
           python python/packages/currencies/scripts/generate-data.py
           python python/packages/translations/scripts/generate-data.py
@@ -97,7 +101,7 @@ jobs:
         run: |
           for pkg in countries timezones currencies translations phonecodes regions postal_codes; do
             echo "=== Testing $pkg ==="
-            pip install -e "python/packages/$pkg/.[dev]" -q
+            python -m pip install --no-deps --no-build-isolation -e "python/packages/$pkg" -q
             pytest python/packages/$pkg/tests/ --cov=countrystatecity_$pkg --cov-report=term
           done
 
@@ -128,7 +132,7 @@ jobs:
       - name: Create Pull Request
         id: data-pr
         if: steps.check-changes.outputs.changed == 'true'
-        uses: peter-evans/create-pull-request@v8
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'chore: update countries/states/cities data'

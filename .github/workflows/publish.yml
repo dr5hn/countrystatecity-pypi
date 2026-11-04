@@ -4,213 +4,168 @@ on:
   workflow_dispatch:
     inputs:
       package:
-        description: 'Package directory to publish, or a group (data = the seven offline packages, all = data + api)'
+        description: 'Package directory, data (seven offline packages), or all (including API)'
         required: true
         type: choice
-        options:
-          - countries
-          - timezones
-          - currencies
-          - translations
-          - phonecodes
-          - regions
-          - postal_codes
-          - api
-          - data
-          - all
-  workflow_call:
-    inputs:
+        options: [countries, timezones, currencies, translations, phonecodes, regions, postal_codes, api, data, all]
       ref:
-        description: 'Exact commit to publish after the release version bump'
-        required: false
-        type: string
-        default: ''
-      package:
-        description: 'Package directory to publish, or a group: "data" (offline packages only) or "all" (data + api)'
-        required: false
-        type: string
-        default: 'all'
-    secrets:
-      PYPI_TOKEN:
+        description: 'Exact 40-character commit on main to build and publish'
         required: true
+        type: string
 
-env:
-  # Two named groups. `data` is the seven offline snapshot packages, which are
-  # versioned in lockstep by an upstream data sync. `all` adds `api`
-  # (PyPI name `countrystatecity-api`), which ships no data and is versioned by
-  # hand -- a data-update release must call `data`, never `all`.
-  DATA_PACKAGES: '["countries","timezones","currencies","translations","phonecodes","regions","postal_codes"]'
-  ALL_PACKAGES: '["countries","timezones","currencies","translations","phonecodes","regions","postal_codes","api"]'
+permissions:
+  contents: read
+
+# Never cancel an upload or run two releases against the same registry version.
+concurrency:
+  group: pypi-release
+  cancel-in-progress: false
 
 jobs:
   prepare:
-    name: Resolve packages to publish
+    if: github.repository == 'dr5hn/countrystatecity-pypi' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     outputs:
       packages: ${{ steps.resolve.outputs.packages }}
+      ref: ${{ steps.resolve.outputs.ref }}
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
-          ref: ${{ inputs.ref || github.sha }}
-
-      - name: Resolve package list
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Validate source and package selection
         id: resolve
         env:
-          INPUT: ${{ inputs.package }}
+          PACKAGE: ${{ inputs.package }}
+          SOURCE_REF: ${{ inputs.ref }}
         run: |
-          if [ "$INPUT" = "all" ]; then
-            echo "packages=$ALL_PACKAGES" >> $GITHUB_OUTPUT
-          elif [ "$INPUT" = "data" ]; then
-            echo "packages=$DATA_PACKAGES" >> $GITHUB_OUTPUT
-          elif [ -n "$INPUT" ]; then
-            echo "packages=[\"$INPUT\"]" >> $GITHUB_OUTPUT
-          else
-            echo "A package or group must be selected explicitly" >&2
-            exit 1
-          fi
+          [[ "$SOURCE_REF" =~ ^[0-9a-f]{40}$ ]] || { echo 'An exact commit is required'; exit 1; }
+          [ "$SOURCE_REF" = "$GITHUB_SHA" ] || { echo 'Source must equal the workflow commit for accurate attestations'; exit 1; }
+          git merge-base --is-ancestor "$SOURCE_REF" origin/main
+          case "$PACKAGE" in
+            data) PACKAGES='["countries","timezones","currencies","translations","phonecodes","regions","postal_codes"]' ;;
+            all) PACKAGES='["countries","timezones","currencies","translations","phonecodes","regions","postal_codes","api"]' ;;
+            countries|timezones|currencies|translations|phonecodes|regions|postal_codes|api) PACKAGES="[\"$PACKAGE\"]" ;;
+            *) echo 'Unknown package'; exit 1 ;;
+          esac
+          echo "packages=$PACKAGES" >> "$GITHUB_OUTPUT"
+          echo "ref=$SOURCE_REF" >> "$GITHUB_OUTPUT"
+
+  build:
+    name: Build and test ${{ matrix.package }}
+    needs: prepare
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        package: ${{ fromJson(needs.prepare.outputs.packages) }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: ${{ needs.prepare.outputs.ref }}
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7
+        with:
+          python-version: '3.15'
+      - name: Install reviewed release dependencies
+        run: |
+          python -m pip install --require-hashes --only-binary=:all: -r .github/requirements/release.txt
+      - name: Install local package without resolving or downloading dependencies
+        working-directory: python/packages/${{ matrix.package }}
+        run: python -m pip install --no-deps --no-build-isolation -e .
+      - name: Validate and build
+        working-directory: python/packages/${{ matrix.package }}
+        env:
+          PACKAGE: ${{ matrix.package }}
+        run: |
+          if [ "$PACKAGE" = api ]; then MODULE=countrystatecity; else MODULE="countrystatecity_$PACKAGE"; fi
+          pytest --cov="$MODULE" --cov-report=term
+          mypy "$MODULE/" --strict
+          ruff check "$MODULE/" tests/
+          black --check "$MODULE/" tests/
+          isort --check "$MODULE/" tests/
+          python -m build --no-isolation
+      - name: Validate artifact contents
+        env:
+          PACKAGE: ${{ matrix.package }}
+        run: python .github/scripts/release_artifacts.py check "python/packages/$PACKAGE"
+      - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6
+        with:
+          name: dist-${{ matrix.package }}
+          path: python/packages/${{ matrix.package }}/dist/*
+          if-no-files-found: error
+          retention-days: 7
 
   publish:
-    name: Publish ${{ matrix.package }} to PyPI
-    needs: prepare
+    name: Publish ${{ matrix.package }} with trusted publishing
+    needs: [prepare, build]
+    runs-on: ubuntu-latest
+    environment:
+      name: pypi
+    permissions:
+      id-token: write
+    strategy:
+      fail-fast: false
+      matrix:
+        package: ${{ fromJson(needs.prepare.outputs.packages) }}
+    # No checkout, package installation, tests or build hooks in this job.
+    steps:
+      - uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131 # v7
+        with:
+          name: dist-${{ matrix.package }}
+          path: dist/
+      - name: Publish with provenance attestations
+        uses: pypa/gh-action-pypi-publish@7245906fb61fa33a13554f9d5fb856fe61758086 # release/v1
+        with:
+          attestations: true
+          print-hash: true
+
+  verify:
+    name: Verify ${{ matrix.package }} on PyPI
+    needs: [prepare, publish]
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        package: ${{ fromJson(needs.prepare.outputs.packages) }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7
+        with:
+          python-version: '3.15'
+      - uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131 # v7
+        with:
+          name: dist-${{ matrix.package }}
+          path: dist/
+      - name: Verify live immutable file hashes
+        run: python .github/scripts/release_artifacts.py verify dist/
+
+  github-release:
+    name: Record verified ${{ matrix.package }} release
+    needs: [prepare, verify]
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      id-token: write
     strategy:
+      fail-fast: false
       matrix:
         package: ${{ fromJson(needs.prepare.outputs.packages) }}
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v7
+      - uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131 # v7
         with:
-          ref: ${{ inputs.ref || github.sha }}
-          fetch-depth: 0
-
-      - name: Setup Python
-        uses: actions/setup-python@v7
-        with:
-          python-version: '3.15'
-
-      - name: Resolve package identity
-        id: pkg
-        working-directory: python/packages/${{ matrix.package }}
+          name: dist-${{ matrix.package }}
+          path: dist/
+      - name: Create release only after PyPI file verification
         env:
-          PACKAGE_DIR: ${{ matrix.package }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PACKAGE: ${{ matrix.package }}
+          SOURCE_REF: ${{ needs.prepare.outputs.ref }}
         run: |
-          DIST=$(sed -n 's/^name = "\(.*\)"$/\1/p' pyproject.toml | head -1)
-          if [ -z "$DIST" ]; then
-            echo "Could not read [project].name from pyproject.toml" >&2
-            exit 1
-          fi
-          if [ "$PACKAGE_DIR" = "api" ]; then
-            MODULE="countrystatecity"
-          else
-            MODULE=$(echo "$DIST" | tr '-' '_')
-          fi
-          echo "dist=$DIST" >> "$GITHUB_OUTPUT"
-          echo "module=$MODULE" >> "$GITHUB_OUTPUT"
-          echo "Resolved $DIST -> import $MODULE"
-
-      - name: Install build tools
-        run: |
-          pip install "build>=1.6.1" "twine>=7.0.0"
-
-      - name: Install dependencies
-        working-directory: python/packages/${{ matrix.package }}
-        run: |
-          pip install -e ".[dev]"
-
-      - name: Run tests
-        working-directory: python/packages/${{ matrix.package }}
-        run: |
-          pytest --cov=${{ steps.pkg.outputs.module }} --cov-report=term
-
-      - name: Type check
-        working-directory: python/packages/${{ matrix.package }}
-        run: |
-          mypy ${{ steps.pkg.outputs.module }}/ --strict
-
-      - name: Lint
-        working-directory: python/packages/${{ matrix.package }}
-        run: |
-          ruff check ${{ steps.pkg.outputs.module }}/ tests/
-          black --check ${{ steps.pkg.outputs.module }}/ tests/
-          isort --check ${{ steps.pkg.outputs.module }}/ tests/
-
-      - name: Get package version
-        id: get-version
-        working-directory: python/packages/${{ matrix.package }}
-        run: |
-          VERSION=$(python -c "import tomllib; print(tomllib.load(open('pyproject.toml', 'rb'))['project']['version'])")
-          echo "version=$VERSION" >> $GITHUB_OUTPUT
-          echo "Package version: $VERSION"
-
-      - name: Check if version already published
-        id: check-version
-        env:
-          PACKAGE_NAME: ${{ steps.pkg.outputs.dist }}
-          VERSION: ${{ steps.get-version.outputs.version }}
-        run: |
-          echo "Checking if $PACKAGE_NAME version $VERSION is published..."
-          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "https://pypi.org/pypi/$PACKAGE_NAME/$VERSION/json")
-          if [ "$HTTP_STATUS" = "200" ]; then
-            echo "published=true" >> $GITHUB_OUTPUT
-            echo "Version $VERSION already published to PyPI"
-          else
-            echo "published=false" >> $GITHUB_OUTPUT
-            echo "Version $VERSION not yet published to PyPI (HTTP $HTTP_STATUS)"
-          fi
-
-      - name: Build package
-        if: steps.check-version.outputs.published == 'false'
-        working-directory: python/packages/${{ matrix.package }}
-        run: |
-          python -m build
-          echo "Build artifacts:"
-          ls -lh dist/
-
-      - name: Check package with twine
-        if: steps.check-version.outputs.published == 'false'
-        working-directory: python/packages/${{ matrix.package }}
-        run: |
-          twine check dist/*
-
-      - name: Publish to PyPI
-        if: steps.check-version.outputs.published == 'false'
-        working-directory: python/packages/${{ matrix.package }}
-        env:
-          TWINE_USERNAME: __token__
-          TWINE_PASSWORD: ${{ secrets.PYPI_TOKEN }}
-        run: |
-          twine upload --verbose dist/*
-
-      - name: Create GitHub Release
-        if: steps.check-version.outputs.published == 'false'
-        uses: softprops/action-gh-release@v3
-        with:
-          tag_name: ${{ matrix.package }}-v${{ steps.get-version.outputs.version }}
-          name: ${{ steps.pkg.outputs.dist }} v${{ steps.get-version.outputs.version }}
-          target_commitish: ${{ inputs.ref || github.sha }}
-          body_path: python/packages/${{ matrix.package }}/CHANGELOG.md
-          body: |
-            ## ${{ steps.pkg.outputs.dist }} v${{ steps.get-version.outputs.version }}
-
-            Published to PyPI: https://pypi.org/project/${{ steps.pkg.outputs.dist }}/
-
-            ### Installation
-            ```bash
-            pip install ${{ steps.pkg.outputs.dist }}
-            ```
-
-            See the [README](https://github.com/dr5hn/countrystatecity-pypi/blob/main/python/packages/${{ matrix.package }}/README.md) for full documentation.
-          draft: false
-          prerelease: false
-          files: |
-            python/packages/${{ matrix.package }}/dist/*.whl
-            python/packages/${{ matrix.package }}/dist/*.tar.gz
-
-      - name: Already published
-        if: steps.check-version.outputs.published == 'true'
-        run: |
-          echo "Version ${{ steps.get-version.outputs.version }} is already published to PyPI. Skipping."
+          WHEEL=$(find dist -name '*.whl' -type f)
+          VERSION=$(basename "$WHEEL" | cut -d- -f2)
+          gh release create "$PACKAGE-v$VERSION" --repo "$GITHUB_REPOSITORY" \
+            --target "$SOURCE_REF" --title "$PACKAGE v$VERSION" \
+            --notes "Published with PyPI Trusted Publishing and attestations. Both distribution SHA-256 hashes were verified against PyPI before creating this release. Source: $SOURCE_REF" \
+            dist/*

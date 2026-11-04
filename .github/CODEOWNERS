@@ -1,0 +1,5 @@
+# Publishing and dependency changes require the project owner's attention.
+/.github/ @dr5hn
+/python/scripts/ @dr5hn
+/python/packages/*/pyproject.toml @dr5hn
+/python/packages/*/MANIFEST.in @dr5hn

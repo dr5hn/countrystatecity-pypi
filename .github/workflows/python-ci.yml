@@ -7,18 +7,27 @@ on:
       - 'python/**'
       - '.github/workflows/**'
       - '.github/tests/**'
+      - '.github/scripts/**'
+      - '.github/requirements/**'
   pull_request:
     paths:
       - 'python/**'
       - '.github/workflows/**'
       - '.github/tests/**'
+      - '.github/scripts/**'
+      - '.github/requirements/**'
+
+permissions:
+  contents: read
 
 jobs:
   workflow-safety:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
-      - uses: actions/setup-python@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7
         with:
           python-version: '3.15'
       - name: Check release and publish gates
@@ -39,10 +48,12 @@ jobs:
         package: [countries, timezones, currencies, translations, phonecodes, regions, postal_codes, api]
 
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
 
       - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v7
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7
         with:
           python-version: ${{ matrix.python-version }}
 
@@ -68,8 +79,17 @@ jobs:
 
       - name: Install dependencies
         working-directory: python/packages/${{ matrix.package }}
+        env:
+          PYTHON_VERSION: ${{ matrix.python-version }}
         run: |
-          pip install -e ".[dev]"
+          if [ "$PYTHON_VERSION" = '3.15' ]; then
+            python -m pip install --require-hashes --only-binary=:all: -r ../../../.github/requirements/release.txt
+            python -m pip install --no-deps --no-build-isolation -e .
+          else
+            # Compatibility tests intentionally exercise the supported dependency ranges.
+            # This read-only job has no publishing credentials or shared release artifacts.
+            python -m pip install -e ".[dev]"
+          fi
 
       - name: Run tests
         working-directory: python/packages/${{ matrix.package }}
@@ -98,9 +118,20 @@ jobs:
 
       - name: Upload coverage to Codecov
         if: matrix.python-version == '3.15'
-        uses: codecov/codecov-action@v7
+        uses: codecov/codecov-action@303a32d7a59b442fa8d48b6a1cc6825c09c847a5 # v7
         with:
           files: ./python/packages/${{ matrix.package }}/coverage.xml
           flags: ${{ matrix.package }}
           name: codecov-${{ matrix.package }}
           fail_ci_if_error: false
+
+      - name: Build distributions with locked tools
+        if: matrix.python-version == '3.15'
+        working-directory: python/packages/${{ matrix.package }}
+        run: python -m build --no-isolation
+
+      - name: Check distribution contents
+        if: matrix.python-version == '3.15'
+        env:
+          PACKAGE: ${{ matrix.package }}
+        run: python .github/scripts/release_artifacts.py check "python/packages/$PACKAGE"
