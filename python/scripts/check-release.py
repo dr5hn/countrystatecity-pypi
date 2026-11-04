@@ -28,6 +28,10 @@ def main():
         "countries": len(countries),
         "cities": len(city_ids),
         "postcodes": postcode_count,
+        "counties": sum(
+            len(json.loads(file.read_text()))
+            for file in countries_data.glob("by-country/*/counties.json")
+        ),
     }
     if actual != record["counts"] or len(set(city_ids)) != len(city_ids):
         raise ValueError(

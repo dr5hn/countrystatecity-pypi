@@ -24,6 +24,9 @@ def test_snapshot_has_unique_ids_and_no_obsolete_files() -> None:
         assert country.id not in country_ids
         country_ids.add(country.id)
         country_dir = DataLoader._data_dir / "by-country" / country.iso2
+        counties = {row["id"]: row for row in DataLoader.load_counties(country.iso2)}
+        if DataLoader.load_counties(country.iso2):
+            expected_files.add(country_dir / "counties.json")
         states = get_states_of_country(country.iso2)
         country_cities = [
             City(**row) for row in DataLoader.load_country_cities(country.iso2)
@@ -63,6 +66,8 @@ def test_snapshot_has_unique_ids_and_no_obsolete_files() -> None:
                 assert -90 <= float(city.latitude) <= 90
                 assert -180 <= float(city.longitude) <= 180
                 assert city.county_id is None or city.county_id > 0
+                if city.county_id is not None:
+                    assert city.county_id in counties
     assert set(DataLoader._data_dir.rglob("*.json")) == expected_files
     counts = json.loads((DataLoader._data_dir / "release.json").read_text())["counts"]
     assert len(country_ids) == counts["countries"]

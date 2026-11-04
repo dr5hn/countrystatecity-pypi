@@ -20,6 +20,8 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Any
 
+from countrystatecity_countries.models import County
+
 # Windows reserves these device names as file/directory names; pip fails on Windows
 # when a package ships a directory with one of these names.
 WINDOWS_RESERVED = {
@@ -265,10 +267,58 @@ def transform_city(city, country_id, country_code, state_id, state_code):
     }
 
 
+def save_counties(rows, countries, output_dir):
+    """Validate county identities and state links before replacing country files."""
+    country_map = {country["id"]: country for country in countries}
+    state_map = {
+        state["id"]: (country["id"], state["iso2"])
+        for country in countries
+        for state in country.get("states", [])
+    }
+    by_id = {}
+    grouped = {}
+    for row in rows:
+        county = County(**row)
+        if county.id in by_id:
+            raise ValueError(f"Duplicate county id: {county.id}")
+        country = country_map.get(county.country_id)
+        if country is None or country["iso2"] != county.country_code:
+            raise ValueError(f"County country mismatch: {county.id}")
+        links = [(link.state_id, link.state_code) for link in county.states or []]
+        if county.state_id is not None:
+            links.append((county.state_id, county.state_code))
+        for state_id, state_code in links:
+            if state_map.get(state_id) != (county.country_id, state_code):
+                raise ValueError(f"County state mismatch: {county.id}")
+        by_id[county.id] = county
+        grouped.setdefault(county.country_code, []).append(county.model_dump())
+    for county in by_id.values():
+        if county.parent_id is not None:
+            parent = by_id.get(county.parent_id)
+            if (
+                parent is None
+                or parent.country_id != county.country_id
+                or parent.id == county.id
+            ):
+                raise ValueError(f"County parent mismatch: {county.id}")
+    generated = set()
+    for code, counties in grouped.items():
+        path = output_dir / "by-country" / code / "counties.json"
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(
+            json.dumps(counties, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+        generated.add(path)
+    for path in output_dir.glob("by-country/*/counties.json"):
+        if path not in generated:
+            path.unlink()
+    print(f"✓ Saved {len(by_id)} counties across {len(grouped)} countries")
+
+
 def main():
     """Main function to generate split data structure."""
-    if len(sys.argv) < 2:
-        print("Usage: python generate-data.py <path-to-combined-json>")
+    if len(sys.argv) != 3:
+        print("Usage: python generate-data.py <combined-json> <counties-json>")
         sys.exit(1)
 
     input_file = sys.argv[1]
@@ -285,6 +335,8 @@ def main():
 
     # Load combined data
     data = load_combined_data(input_file)
+    counties = json.loads(Path(sys.argv[2]).read_text(encoding="utf-8"))
+    save_counties(counties, data, output_dir)
 
     # Generate countries list
     countries = create_countries_list(data)

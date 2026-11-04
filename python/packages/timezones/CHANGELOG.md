@@ -1,5 +1,15 @@
 # Changelog
 
+## [3.1.0] - 2026-11-04
+
+### Added
+
+- County-source checksum and record count in the shared release provenance; no public API changes in this distribution.
+
+### Changed
+
+- Advance the seven offline packages together; the API client remains independently versioned at 0.2.1.
+
 ## [3.0.1] - 2026-11-04
 
 ### Changed

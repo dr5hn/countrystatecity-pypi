@@ -34,6 +34,21 @@ not added by this data-only refresh.
 Publication now uses isolated builds and PyPI Trusted Publishing with
 attestations, subject to owner approval in the `pypi` environment.
 
+## County support in 3.1.0
+
+Version 3.1.0 adds 14,058 county equivalents across 26 countries to the countries
+package, with country/state/ID lookups. Seven counties span multiple states or
+regions; retain their null primary state fields and use the complete `states`
+membership list. `City.county_id` joins to `County.id`. The pinned export and
+existing geography/postcode values remain unchanged from 3.0.1. Provenance now
+also includes the county asset checksum and count in all seven offline packages.
+Empty county translation arrays are normalized to empty maps; nulls stay null.
+
+The API client stays at 0.2.1. Offline county support does not advertise a new
+hosted endpoint. State/city hierarchy fields remain outside the public models.
+Versions and changelogs are reviewed inside PRs; release preparation no longer
+writes to main. The expired 1 November workflow was retired on 4 November.
+
 ## Original 1 November checks
 
 The regular Sunday update runs at 00:00 UTC (05:30 India time). Two additional

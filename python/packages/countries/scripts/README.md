@@ -1,39 +1,17 @@
 # Scripts
 
-This directory contains utility scripts for the countrystatecity-countries package.
+## Generate the pinned geography snapshot
 
-## generate-data.py
-
-Generates the split data structure from the combined countries-states-cities-database JSON file.
-
-### Usage
+Run from the repository root after installing the reviewed release dependencies and the local countries package:
 
 ```bash
-python scripts/generate-data.py <path-to-combined-json>
+CSC_SOURCE_RELEASE=v5.2.0-export.1 python python/scripts/fetch-release.py
+python python/packages/countries/scripts/generate-data.py python/data/source.json python/data/counties.json
+python python/scripts/check-release.py
 ```
 
-### Example
+The fetcher verifies release-asset digests and pins country metadata to the resolved source commit. Do not mix a mutable latest URL with county data from a different tag.
 
-```bash
-# Download the latest data
-curl -L "https://github.com/dr5hn/countries-states-cities-database/releases/latest/download/json-countries%2Bstates%2Bcities.json.gz" \
-  -o /tmp/countries-data.json.gz
-gunzip /tmp/countries-data.json.gz
+The generator writes `countries.json` and lazy files under `by-country/{ISO2}/`: `states.json`, `counties.json`, optional country-level `cities.json`, and `states/{STATE_CODE}/cities.json`. Counties are validated before their files are replaced; retired county files are removed only within this generated subtree. Cross-state memberships remain explicit. Empty county translation arrays become empty maps; other source fields retain their values.
 
-# Generate split data structure
-python scripts/generate-data.py /tmp/countries-data.json
-```
-
-### Output Structure
-
-The script generates:
-- `countrystatecity_countries/data/countries.json` - Lightweight list of all countries
-- `countrystatecity_countries/data/by-country/{ISO2}/states.json` - States for each country
-- `countrystatecity_countries/data/by-country/{ISO2}/states/{STATE_CODE}/cities.json` - Cities for each state
-
-### Data Source
-
-The script expects data from: https://github.com/dr5hn/countries-states-cities-database
-
-The combined JSON file is available at:
-https://github.com/dr5hn/countries-states-cities-database/releases/latest/download/json-countries%2Bstates%2Bcities.json.gz
+The update workflow prepares version/changelog changes in its PR. Release preparation validates that PR without pushing to main.
