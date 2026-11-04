@@ -91,6 +91,13 @@ def main():
     tag = release["tag_name"]
     if not re.fullmatch(r"v\d+(?:\.\d+)*(?:-export\.\d+)?", tag):
         raise ValueError(f"Unexpected export tag: {tag}")
+    # A tag or release target can be moved. Resolve it once, then use that exact
+    # commit for the metadata that is not included in the compressed assets.
+    commit = json.loads(
+        fetch_bytes(f"https://api.github.com/repos/{REPO}/commits/{tag}", token)
+    )["sha"]
+    if not re.fullmatch(r"[0-9a-f]{40}", commit):
+        raise ValueError("The export tag did not resolve to a commit")
     assets = {asset["name"]: asset for asset in release["assets"]}
     DATA.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(prefix=".fetch-", dir=DATA) as temp:
@@ -108,6 +115,9 @@ def main():
             return gzip.decompress(content) if compressed else content
 
         countries = json.loads(download_asset("json-countries+states+cities.json.gz"))
+        for country in countries:
+            if not re.fullmatch(r"[A-Z]{2}", country["iso2"]):
+                raise ValueError(f"Invalid country code: {country['iso2']!r}")
         full_cities = json.loads(download_asset("json-cities.json.gz"))
         join_cities(countries, full_cities)
         (staging / "source.json").write_text(
@@ -116,7 +126,7 @@ def main():
         # Postal format/regex live in the country source, not the combined export.
         metadata = json.loads(
             fetch_bytes(
-                f"https://raw.githubusercontent.com/{REPO}/{tag}/contributions/countries/countries.json"
+                f"https://raw.githubusercontent.com/{REPO}/{commit}/contributions/countries/countries.json"
             )
         )
         if {row["id"] for row in metadata} != {row["id"] for row in countries}:
@@ -146,7 +156,7 @@ def main():
             (staging / name).write_bytes(download_asset(name, compressed=False))
         record = {
             "sourceRelease": tag,
-            "sourceCommit": release["target_commitish"],
+            "sourceCommit": commit,
             "sourceUrl": release["html_url"],
             "checksums": checksums,
             "counts": {

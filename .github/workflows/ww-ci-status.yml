@@ -6,6 +6,8 @@ on:
     types: [completed]
     branches: ["ww/**"]
 
+permissions: {}
+
 jobs:
   notify-trello:
     if: ${{ github.event.workflow_run.conclusion != 'cancelled' }}
@@ -13,9 +15,11 @@ jobs:
     steps:
       - name: Extract card ID from branch name
         id: extract
+        env:
+          BRANCH: ${{ github.event.workflow_run.head_branch }}
         run: |
-          branch="${{ github.event.workflow_run.head_branch }}"
-          card_id=$(echo "$branch" | sed -n 's|ww/[^/]*/\([^-]*\)-.*|\1|p')
+          card_id=$(echo "$BRANCH" | sed -n 's|ww/[^/]*/\([^-]*\)-.*|\1|p')
+          [[ "$card_id" =~ ^[0-9a-fA-F]{24}$ ]] || card_id=''
           echo "card_id=$card_id" >> "$GITHUB_OUTPUT"
       - name: Post CI status to Trello
         env:
@@ -35,4 +39,4 @@ jobs:
             BODY="CI-failed ($STATUS): $DETAILS_URL"
           fi
           curl -fsS -X POST "https://api.trello.com/1/cards/$CARD_ID/actions/comments" \
-            -d "key=$TRELLO_KEY&token=$TRELLO_TOKEN&text=$BODY"
+            --data-urlencode "key=$TRELLO_KEY" --data-urlencode "token=$TRELLO_TOKEN" --data-urlencode "text=$BODY"
