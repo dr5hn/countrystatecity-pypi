@@ -128,3 +128,14 @@ def test_county_generator_is_preflighted_and_removes_only_stale_counties(
     save([], [country], tmp_path)
     assert not generated.exists()
     assert sentinel.read_text() == "[]"
+
+
+def test_county_input_cannot_be_an_empty_export(tmp_path: Path) -> None:
+    """An empty full export must fail before any county files are replaced."""
+    load = runpy.run_path(str(Path(__file__).parents[1] / "scripts/generate-data.py"))[
+        "load_combined_data"
+    ]
+    source = tmp_path / "counties.json"
+    source.write_text("[]")
+    with pytest.raises(ValueError, match="non-empty record list"):
+        load(str(source))

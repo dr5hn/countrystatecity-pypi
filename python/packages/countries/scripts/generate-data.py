@@ -58,13 +58,13 @@ def safe_dirname(name: str) -> str:
 
 
 def load_combined_data(filepath: str) -> List[Dict[str, Any]]:
-    """Load the combined countries+states+cities JSON file."""
+    """Load a non-empty list of geography records."""
     print(f"Loading data from {filepath}...")
     with open(filepath, "r", encoding="utf-8") as f:
         data = json.load(f)
     if not isinstance(data, list) or not data:
-        raise ValueError("Expected a non-empty country list")
-    print(f"✓ Loaded {len(data)} countries")
+        raise ValueError("Expected a non-empty record list")
+    print(f"✓ Loaded {len(data)} records")
     return data
 
 
@@ -335,7 +335,7 @@ def main():
 
     # Load combined data
     data = load_combined_data(input_file)
-    counties = json.loads(Path(sys.argv[2]).read_text(encoding="utf-8"))
+    counties = load_combined_data(sys.argv[2])
     save_counties(counties, data, output_dir)
 
     # Generate countries list
