@@ -139,3 +139,45 @@ class ReleaseArtifactTests(unittest.TestCase):
             ARTIFACTS["verify"].__globals__, urlopen=fetch
         ), self.assertRaisesRegex(ValueError, "publisher"):
             ARTIFACTS["verify"](self.dist)
+
+    def test_verified_registry_and_downloads(self):
+        """Verify both remote files and the publisher without executing either file."""
+        contents = {
+            f"https://files.pythonhosted.org/packages/{path.name}": path.read_bytes()
+            for path in (self.wheel, self.sdist)
+        }
+        rows = [
+            {
+                "filename": url.rsplit("/", 1)[1],
+                "url": url,
+                "yanked": False,
+                "digests": {"sha256": hashlib.sha256(content).hexdigest()},
+            }
+            for url, content in contents.items()
+        ]
+
+        def fetch(url, **kwargs):
+            """Return exact bytes and our trusted publisher from an inert fixture."""
+            if url in contents:
+                return io.BytesIO(contents[url])
+            data = (
+                {
+                    "attestation_bundles": [
+                        {
+                            "publisher": {
+                                "kind": "GitHub",
+                                "repository": "dr5hn/countrystatecity-pypi",
+                                "workflow": "publish.yml",
+                                "environment": "pypi",
+                            },
+                            "attestations": [{}],
+                        }
+                    ]
+                }
+                if url.endswith("/provenance")
+                else {"urls": rows}
+            )
+            return io.BytesIO(json.dumps(data).encode())
+
+        with patch.dict(ARTIFACTS["verify"].__globals__, urlopen=fetch):
+            ARTIFACTS["verify"](self.dist)

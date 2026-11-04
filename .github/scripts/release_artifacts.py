@@ -89,6 +89,7 @@ def verify(directory):
     """Fail on partial, yanked or byte-different uploads; retry only propagation errors."""
     files = distributions(directory)
     name, version = wheel_identity(files[0])
+    sizes = {path.name: path.stat().st_size for path in files}
     expected = {
         path.name: hashlib.sha256(path.read_bytes()).hexdigest() for path in files
     }
@@ -131,6 +132,14 @@ def verify(directory):
                     raise ValueError(
                         f"Unexpected or missing PyPI publisher: {filename}"
                     )
+                if not row["url"].startswith(
+                    "https://files.pythonhosted.org/packages/"
+                ):
+                    raise ValueError(f"Unexpected PyPI download host: {filename}")
+                with urlopen(row["url"], timeout=120) as response:
+                    content = response.read(sizes[filename] + 1)
+                if hashlib.sha256(content).hexdigest() != digest:
+                    raise ValueError(f"Downloaded PyPI bytes differ: {filename}")
                 print(f"Verified {filename}: sha256:{digest}")
             return
         except HTTPError as error:
