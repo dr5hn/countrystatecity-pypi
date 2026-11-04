@@ -63,7 +63,7 @@
     "wikiDataId": "Q49849899",
     "type": "locality",
     "native": "Amado Gómez",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1248,
     "population_year": 2020
   },
@@ -131,7 +131,7 @@
     "wikiDataId": "Q49852461",
     "type": "locality",
     "native": "Apatzingán",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1163,
     "population_year": 2020
   },
@@ -233,7 +233,7 @@
     "wikiDataId": "Q49852938",
     "type": "locality",
     "native": "Arena de Hidalgo",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1295,
     "population_year": 2020
   },
@@ -284,7 +284,7 @@
     "wikiDataId": "Q20261220",
     "type": "locality",
     "native": "Ayapa",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 6377,
     "population_year": 2020
   },
@@ -303,6 +303,23 @@
     "native": "Balancán",
     "timezone": "America/Mexico_City",
     "population": 13944,
+    "population_year": 2020
+  },
+  {
+    "id": 170129,
+    "name": "Balancán",
+    "state_id": 3454,
+    "state_code": "TAB",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.80000000",
+    "longitude": "-91.35000000",
+    "county_id": null,
+    "wikiDataId": "Q2669506",
+    "type": "municipality",
+    "native": "Balancán",
+    "timezone": "America/Mexico_City",
+    "population": 58524,
     "population_year": 2020
   },
   {
@@ -352,7 +369,7 @@
     "wikiDataId": "Q20227628",
     "type": "locality",
     "native": "Belén",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 6512,
     "population_year": 2020
   },
@@ -663,6 +680,23 @@
     "population_year": 2020
   },
   {
+    "id": 170130,
+    "name": "Cárdenas",
+    "state_id": 3454,
+    "state_code": "TAB",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "18.16666667",
+    "longitude": "-93.70000000",
+    "county_id": null,
+    "wikiDataId": "Q2977873",
+    "type": "municipality",
+    "native": "Cárdenas",
+    "timezone": "America/Mexico_City",
+    "population": 243229,
+    "population_year": 2020
+  },
+  {
     "id": 68889,
     "name": "Ceiba 1ra. Sección (Jahuactal)",
     "state_id": 3454,
@@ -677,6 +711,23 @@
     "native": "Ceiba 1ra. Sección (Jahuactal)",
     "timezone": "America/Mexico_City",
     "population": 1995,
+    "population_year": 2020
+  },
+  {
+    "id": 170131,
+    "name": "Centla",
+    "state_id": 3454,
+    "state_code": "TAB",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "18.35000000",
+    "longitude": "-92.65000000",
+    "county_id": null,
+    "wikiDataId": "Q2991336",
+    "type": "municipality",
+    "native": "Centla",
+    "timezone": "America/Mexico_City",
+    "population": 107731,
     "population_year": 2020
   },
   {
@@ -709,7 +760,7 @@
     "wikiDataId": "Q5763930",
     "type": "locality",
     "native": "Chablé",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 3645,
     "population_year": 2020
   },
@@ -726,7 +777,7 @@
     "wikiDataId": "Q61273625",
     "type": "locality",
     "native": "Chichicapa",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 7700,
     "population_year": 2020
   },
@@ -777,7 +828,7 @@
     "wikiDataId": "Q3030300",
     "type": "locality",
     "native": "Ciudad Pemex",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 4601,
     "population_year": 2020
   },
@@ -794,7 +845,7 @@
     "wikiDataId": "Q61304684",
     "type": "locality",
     "native": "Cocohital",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 2939,
     "population_year": 2020
   },
@@ -811,8 +862,25 @@
     "wikiDataId": "Q868423",
     "type": "locality",
     "native": "Comalcalco",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 43035,
+    "population_year": 2020
+  },
+  {
+    "id": 170132,
+    "name": "Comalcalco",
+    "state_id": 3454,
+    "state_code": "TAB",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "18.30000000",
+    "longitude": "-93.31666667",
+    "county_id": null,
+    "wikiDataId": "Q2177497",
+    "type": "municipality",
+    "native": "Comalcalco",
+    "timezone": "America/Mexico_City",
+    "population": 214877,
     "population_year": 2020
   },
   {
@@ -918,6 +986,23 @@
     "population_year": 2020
   },
   {
+    "id": 170133,
+    "name": "Cunduacán",
+    "state_id": 3454,
+    "state_code": "TAB",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "18.08333333",
+    "longitude": "-93.21666667",
+    "county_id": null,
+    "wikiDataId": "Q966750",
+    "type": "municipality",
+    "native": "Cunduacán",
+    "timezone": "America/Mexico_City",
+    "population": 137257,
+    "population_year": 2020
+  },
+  {
     "id": 69644,
     "name": "Cupilco",
     "state_id": 3454,
@@ -930,7 +1015,7 @@
     "wikiDataId": "Q4247464",
     "type": "locality",
     "native": "Cupilco",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 2811,
     "population_year": 2020
   },
@@ -964,7 +1049,7 @@
     "wikiDataId": "Q5813714",
     "type": "locality",
     "native": "Dos Montes",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1869,
     "population_year": 2020
   },
@@ -1134,7 +1219,7 @@
     "wikiDataId": "Q4531402",
     "type": "locality",
     "native": "El Triunfo",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 5670,
     "population_year": 2020
   },
@@ -1151,7 +1236,7 @@
     "wikiDataId": "Q20130624",
     "type": "locality",
     "native": "El Tular",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1576,
     "population_year": 2020
   },
@@ -1338,7 +1423,7 @@
     "wikiDataId": "Q20141136",
     "type": "locality",
     "native": "Gobernador Cruz",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1479,
     "population_year": 2020
   },
@@ -1406,7 +1491,7 @@
     "wikiDataId": "Q49906171",
     "type": "locality",
     "native": "Guaytalpa",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 2380,
     "population_year": 2020
   },
@@ -1457,7 +1542,7 @@
     "wikiDataId": "Q61273733",
     "type": "locality",
     "native": "Huacapa y Amestoy",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 3122,
     "population_year": 2020
   },
@@ -1525,7 +1610,7 @@
     "wikiDataId": "Q20146492",
     "type": "municipality",
     "native": "Huimanguillo",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 27182,
     "population_year": null
   },
@@ -1559,7 +1644,7 @@
     "wikiDataId": "Q61304658",
     "type": "locality",
     "native": "Ignacio Gutiérrez Gómez",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1529,
     "population_year": 2020
   },
@@ -1632,6 +1717,23 @@
     "population_year": 2020
   },
   {
+    "id": 170134,
+    "name": "Jalapa",
+    "state_id": 3454,
+    "state_code": "TAB",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.76666667",
+    "longitude": "-92.80000000",
+    "county_id": null,
+    "wikiDataId": "Q2669496",
+    "type": "municipality",
+    "native": "Jalapa",
+    "timezone": "America/Mexico_City",
+    "population": 37749,
+    "population_year": 2020
+  },
+  {
     "id": 70968,
     "name": "Jalapita",
     "state_id": 3454,
@@ -1659,7 +1761,7 @@
     "longitude": "-93.06300000",
     "county_id": null,
     "wikiDataId": "Q2576133",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Jalpa de Méndez",
     "timezone": "America/Mexico_City",
     "population": 16679,
@@ -1678,7 +1780,7 @@
     "wikiDataId": null,
     "type": "locality",
     "native": "Pie",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 5622,
     "population_year": 2020
   },
@@ -1797,7 +1899,7 @@
     "wikiDataId": null,
     "type": "locality",
     "native": "La curva",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 5611,
     "population_year": 2020
   },
@@ -1831,7 +1933,7 @@
     "wikiDataId": "Q61304877",
     "type": "locality",
     "native": "La Estrella",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1113,
     "population_year": 2020
   },
@@ -1865,7 +1967,7 @@
     "wikiDataId": "Q61273794",
     "type": "locality",
     "native": "La Lucha",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1987,
     "population_year": 2020
   },
@@ -1899,7 +2001,7 @@
     "wikiDataId": null,
     "type": "locality",
     "native": "La Palma",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1427,
     "population_year": null
   },
@@ -1984,7 +2086,7 @@
     "wikiDataId": "Q20138713",
     "type": "locality",
     "native": "Villa la Venta",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 8821,
     "population_year": null
   },
@@ -2120,7 +2222,7 @@
     "wikiDataId": "Q61304306",
     "type": "locality",
     "native": "Macltht",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 927,
     "population_year": 2020
   },
@@ -2137,7 +2239,7 @@
     "wikiDataId": "Q6725827",
     "type": "locality",
     "native": "Macultepec",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 11848,
     "population_year": 2020
   },
@@ -2159,6 +2261,23 @@
     "population_year": 2020
   },
   {
+    "id": 170135,
+    "name": "Macuspana",
+    "state_id": 3454,
+    "state_code": "TAB",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.85000000",
+    "longitude": "-92.41666667",
+    "county_id": null,
+    "wikiDataId": "Q2669505",
+    "type": "municipality",
+    "native": "Macuspana",
+    "timezone": "America/Mexico_City",
+    "population": 158601,
+    "population_year": 2020
+  },
+  {
     "id": 72044,
     "name": "Mazateupa",
     "state_id": 3454,
@@ -2171,7 +2290,7 @@
     "wikiDataId": "Q61272920",
     "type": "locality",
     "native": "Mazateupa",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 2670,
     "population_year": 2020
   },
@@ -2188,7 +2307,7 @@
     "wikiDataId": "Q61274020",
     "type": "locality",
     "native": "Mecatepec",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 2314,
     "population_year": 2020
   },
@@ -2205,7 +2324,7 @@
     "wikiDataId": "Q61273850",
     "type": "locality",
     "native": "Mecoacán",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 2666,
     "population_year": 2020
   },
@@ -2273,7 +2392,7 @@
     "wikiDataId": "Q20228215",
     "type": "locality",
     "native": "Miguel Hidalgo",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 6041,
     "population_year": 2020
   },
@@ -2358,7 +2477,7 @@
     "wikiDataId": "Q61304380",
     "type": "locality",
     "native": "Multé",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1460,
     "population_year": 2020
   },
@@ -2373,7 +2492,7 @@
     "longitude": "-93.01843000",
     "county_id": null,
     "wikiDataId": "Q2669498",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Nacajuca",
     "timezone": "America/Mexico_City",
     "population": 10956,
@@ -2409,7 +2528,7 @@
     "wikiDataId": "Q61273993",
     "type": "locality",
     "native": "Nicolás Bravo",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 2631,
     "population_year": 2020
   },
@@ -2647,7 +2766,7 @@
     "wikiDataId": "Q61272917",
     "type": "locality",
     "native": "Oxiacaque",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 2067,
     "population_year": 2020
   },
@@ -2737,6 +2856,23 @@
     "population_year": 2020
   },
   {
+    "id": 170136,
+    "name": "Paraíso",
+    "state_id": 3454,
+    "state_code": "TAB",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "18.36666667",
+    "longitude": "-93.23333333",
+    "county_id": null,
+    "wikiDataId": "Q2670203",
+    "type": "municipality",
+    "native": "Paraíso",
+    "timezone": "America/Mexico_City",
+    "population": 96741,
+    "population_year": 2020
+  },
+  {
     "id": 72656,
     "name": "Parilla",
     "state_id": 3454,
@@ -2749,7 +2885,7 @@
     "wikiDataId": null,
     "type": "city",
     "native": "En la pareja",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 9664,
     "population_year": null
   },
@@ -2766,7 +2902,7 @@
     "wikiDataId": null,
     "type": "locality",
     "native": "Parrilla II",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 10427,
     "population_year": 2020
   },
@@ -2987,7 +3123,7 @@
     "wikiDataId": "Q6090952",
     "type": "locality",
     "native": "Pueblo Nuevo de las Raíces",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1787,
     "population_year": 2020
   },
@@ -3004,7 +3140,7 @@
     "wikiDataId": "Q61273991",
     "type": "locality",
     "native": "Pueblo Viejo",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1272,
     "population_year": 2020
   },
@@ -3055,7 +3191,7 @@
     "wikiDataId": "Q61272943",
     "type": "locality",
     "native": "Quintín Arauz",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 6334,
     "population_year": 2020
   },
@@ -3072,7 +3208,7 @@
     "wikiDataId": "Q61273802",
     "type": "locality",
     "native": "Rancho Nuevo",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1378,
     "population_year": 2020
   },
@@ -3089,7 +3225,7 @@
     "wikiDataId": null,
     "type": "city",
     "native": "Raya Zaragoza",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1471,
     "population_year": null
   },
@@ -3123,7 +3259,7 @@
     "wikiDataId": "Q20264615",
     "type": "locality",
     "native": "Río de Teapa",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 92,
     "population_year": 2020
   },
@@ -3293,7 +3429,7 @@
     "wikiDataId": "Q61304815",
     "type": "locality",
     "native": "Simón Sarlat",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 3317,
     "population_year": 2020
   },
@@ -3332,6 +3468,23 @@
     "population_year": 2020
   },
   {
+    "id": 170137,
+    "name": "Tacotalpa",
+    "state_id": 3454,
+    "state_code": "TAB",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.51666667",
+    "longitude": "-92.73333333",
+    "county_id": null,
+    "wikiDataId": "Q2669523",
+    "type": "municipality",
+    "native": "Tacotalpa",
+    "timezone": "America/Mexico_City",
+    "population": 47905,
+    "population_year": 2020
+  },
+  {
     "id": 75194,
     "name": "Tamulte de las Sabanas",
     "state_id": 3454,
@@ -3344,9 +3497,9 @@
     "wikiDataId": "Q6138581",
     "type": "locality",
     "native": "Tamulte de las Sabanas",
-    "timezone": "America/Merida",
-    "population": 8824,
-    "population_year": null
+    "timezone": "America/Mexico_City",
+    "population": 6522,
+    "population_year": 2020
   },
   {
     "id": 75226,
@@ -3361,7 +3514,7 @@
     "wikiDataId": "Q2080118",
     "type": "locality",
     "native": "Tapijulapa",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 3095,
     "population_year": 2020
   },
@@ -3378,7 +3531,7 @@
     "wikiDataId": "Q61272953",
     "type": "locality",
     "native": "Tapotzingo",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 3302,
     "population_year": 2020
   },
@@ -3400,6 +3553,23 @@
     "population_year": 2020
   },
   {
+    "id": 170138,
+    "name": "Teapa",
+    "state_id": 3454,
+    "state_code": "TAB",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.63333333",
+    "longitude": "-92.95000000",
+    "county_id": null,
+    "wikiDataId": "Q2977908",
+    "type": "municipality",
+    "native": "Teapa",
+    "timezone": "America/Mexico_City",
+    "population": 58718,
+    "population_year": 2020
+  },
+  {
     "id": 75256,
     "name": "Teapa",
     "state_id": 3454,
@@ -3412,7 +3582,7 @@
     "wikiDataId": "Q4407951",
     "type": "locality",
     "native": "Teapa",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 29068,
     "population_year": 2020
   },
@@ -3446,9 +3616,9 @@
     "wikiDataId": "Q5412061",
     "type": "locality",
     "native": "Villa Tecolutilla",
-    "timezone": "America/Merida",
-    "population": 10637,
-    "population_year": null
+    "timezone": "America/Mexico_City",
+    "population": 10734,
+    "population_year": 2020
   },
   {
     "id": 75284,
@@ -3463,8 +3633,25 @@
     "wikiDataId": "Q61274161",
     "type": "locality",
     "native": "Tecominoacán",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 2747,
+    "population_year": 2020
+  },
+  {
+    "id": 170139,
+    "name": "Tenosique",
+    "state_id": 3454,
+    "state_code": "TAB",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.45000000",
+    "longitude": "-91.30000000",
+    "county_id": null,
+    "wikiDataId": "Q3850309",
+    "type": "municipality",
+    "native": "Tenosique",
+    "timezone": "America/Mexico_City",
+    "population": 62310,
     "population_year": 2020
   },
   {
@@ -3633,7 +3820,7 @@
     "wikiDataId": null,
     "type": "city",
     "native": "Villa Vicente Guerrero",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 8188,
     "population_year": null
   },
@@ -3667,7 +3854,7 @@
     "wikiDataId": "Q61273441",
     "type": "locality",
     "native": "Xicoténcatl",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1480,
     "population_year": 2020
   }

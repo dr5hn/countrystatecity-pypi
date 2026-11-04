@@ -17,6 +17,23 @@
     "population_year": 2020
   },
   {
+    "id": 169380,
+    "name": "Acaponeta",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.48146000",
+    "longitude": "-105.33054000",
+    "county_id": null,
+    "wikiDataId": "Q27796755",
+    "type": "municipality",
+    "native": "Acaponeta",
+    "timezone": "America/Mazatlan",
+    "population": 37232,
+    "population_year": 2020
+  },
+  {
     "id": 68136,
     "name": "Ahuacatlán",
     "state_id": 3477,
@@ -31,6 +48,23 @@
     "native": "Ahuacatlán",
     "timezone": "America/Mazatlan",
     "population": 7259,
+    "population_year": 2020
+  },
+  {
+    "id": 169381,
+    "name": "Ahuacatlán",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.05361111",
+    "longitude": "-104.57027778",
+    "county_id": null,
+    "wikiDataId": "Q2651609",
+    "type": "municipality",
+    "native": "Ahuacatlán",
+    "timezone": "America/Mazatlan",
+    "population": 15393,
     "population_year": 2020
   },
   {
@@ -65,6 +99,23 @@
     "native": "Amatlán de Cañas",
     "timezone": "America/Mazatlan",
     "population": 3267,
+    "population_year": 2020
+  },
+  {
+    "id": 169382,
+    "name": "Amatlán de Cañas",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.80000000",
+    "longitude": "-104.40000000",
+    "county_id": null,
+    "wikiDataId": "Q2651624",
+    "type": "municipality",
+    "native": "Amatlán de Cañas",
+    "timezone": "America/Mazatlan",
+    "population": 11536,
     "population_year": 2020
   },
   {
@@ -136,6 +187,23 @@
     "population_year": 2020
   },
   {
+    "id": 169398,
+    "name": "Bahía de Banderas",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.80416667",
+    "longitude": "-105.30916667",
+    "county_id": null,
+    "wikiDataId": "Q2651943",
+    "type": "municipality",
+    "native": "Bahía de Banderas",
+    "timezone": "America/Bahia_Banderas",
+    "population": 187632,
+    "population_year": 2020
+  },
+  {
     "id": 68579,
     "name": "Bellavista",
     "state_id": 3477,
@@ -167,7 +235,7 @@
     "native": "Bucerías",
     "timezone": "America/Bahia_Banderas",
     "population": 16161,
-    "population_year": null
+    "population_year": 2020
   },
   {
     "id": 68756,
@@ -268,8 +336,8 @@
     "type": "locality",
     "native": "Colonia Emiliano Zapata",
     "timezone": "America/Mazatlan",
-    "population": 1657,
-    "population_year": null
+    "population": 1976,
+    "population_year": 2020
   },
   {
     "id": 69348,
@@ -302,8 +370,25 @@
     "type": "locality",
     "native": "Compostela",
     "timezone": "America/Mazatlan",
-    "population": 17573,
-    "population_year": null
+    "population": 20322,
+    "population_year": 2020
+  },
+  {
+    "id": 169383,
+    "name": "Compostela",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.13000000",
+    "longitude": "-105.06000000",
+    "county_id": null,
+    "wikiDataId": "Q2651919",
+    "type": "municipality",
+    "native": "Compostela",
+    "timezone": "America/Mazatlan",
+    "population": 77436,
+    "population_year": 2020
   },
   {
     "id": 69489,
@@ -355,6 +440,23 @@
     "timezone": "America/Mazatlan",
     "population": 2741,
     "population_year": null
+  },
+  {
+    "id": 169388,
+    "name": "Del Nayar",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.05000000",
+    "longitude": "-104.66666667",
+    "county_id": null,
+    "wikiDataId": "Q1324427",
+    "type": "municipality",
+    "native": "Del Nayar",
+    "timezone": "America/Mazatlan",
+    "population": 47550,
+    "population_year": 2020
   },
   {
     "id": 69827,
@@ -676,8 +778,25 @@
     "type": "locality",
     "native": "Huajicori",
     "timezone": "America/Mazatlan",
-    "population": 3004,
-    "population_year": null
+    "population": 3666,
+    "population_year": 2020
+  },
+  {
+    "id": 169384,
+    "name": "Huajicori",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.81000000",
+    "longitude": "-105.22000000",
+    "county_id": null,
+    "wikiDataId": "Q2651771",
+    "type": "municipality",
+    "native": "Huajicori",
+    "timezone": "America/Mazatlan",
+    "population": 12230,
+    "population_year": 2020
   },
   {
     "id": 70719,
@@ -727,8 +846,25 @@
     "type": "locality",
     "native": "Ixtlán del Río",
     "timezone": "America/Mazatlan",
-    "population": 23303,
-    "population_year": null
+    "population": 25477,
+    "population_year": 2020
+  },
+  {
+    "id": 169385,
+    "name": "Ixtlán del Río",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.03000000",
+    "longitude": "-104.33666667",
+    "county_id": null,
+    "wikiDataId": "Q151450",
+    "type": "municipality",
+    "native": "Ixtlán del Río",
+    "timezone": "America/Mazatlan",
+    "population": 29299,
+    "population_year": 2020
   },
   {
     "id": 165247,
@@ -745,6 +881,23 @@
     "native": null,
     "timezone": "America/Mazatlan",
     "population": 5844,
+    "population_year": 2020
+  },
+  {
+    "id": 169386,
+    "name": "Jala",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.18060000",
+    "longitude": "-104.39716000",
+    "county_id": null,
+    "wikiDataId": "Q20290686",
+    "type": "municipality",
+    "native": "Jala",
+    "timezone": "America/Mazatlan",
+    "population": 19321,
     "population_year": 2020
   },
   {
@@ -986,6 +1139,23 @@
     "population_year": 2020
   },
   {
+    "id": 169397,
+    "name": "La Yesca",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.57000000",
+    "longitude": "-104.13000000",
+    "county_id": null,
+    "wikiDataId": "Q2652057",
+    "type": "municipality",
+    "native": "La Yesca",
+    "timezone": "America/Mazatlan",
+    "population": 13719,
+    "population_year": 2020
+  },
+  {
     "id": 71606,
     "name": "Las Jarretaderas",
     "state_id": 3477,
@@ -1118,8 +1288,8 @@
     "type": "locality",
     "native": "Mecatán",
     "timezone": "America/Mazatlan",
-    "population": 2657,
-    "population_year": null
+    "population": 2826,
+    "population_year": 2020
   },
   {
     "id": 72082,
@@ -1305,8 +1475,8 @@
     "type": "locality",
     "native": "Pantanal",
     "timezone": "America/Mazatlan",
-    "population": 3231,
-    "population_year": null
+    "population": 3408,
+    "population_year": 2020
   },
   {
     "id": 72734,
@@ -1390,8 +1560,8 @@
     "type": "locality",
     "native": "Rincón de Guayabitos",
     "timezone": "America/Mazatlan",
-    "population": 1979,
-    "population_year": null
+    "population": 2777,
+    "population_year": 2020
   },
   {
     "id": 73158,
@@ -1428,6 +1598,23 @@
     "population_year": 2020
   },
   {
+    "id": 169389,
+    "name": "Rosamorada",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.12305556",
+    "longitude": "-105.25416667",
+    "county_id": null,
+    "wikiDataId": "Q668605",
+    "type": "municipality",
+    "native": "Rosamorada",
+    "timezone": "America/Mazatlan",
+    "population": 33567,
+    "population_year": 2020
+  },
+  {
     "id": 73166,
     "name": "Ruíz",
     "state_id": 3477,
@@ -1441,8 +1628,8 @@
     "type": "locality",
     "native": "Ruíz",
     "timezone": "America/Mazatlan",
-    "population": 14050,
-    "population_year": null
+    "population": 14678,
+    "population_year": 2020
   },
   {
     "id": 73445,
@@ -1459,6 +1646,23 @@
     "native": "San Blas",
     "timezone": "America/Mazatlan",
     "population": 10935,
+    "population_year": 2020
+  },
+  {
+    "id": 169390,
+    "name": "San Blas",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.53972223",
+    "longitude": "-105.28555560",
+    "county_id": null,
+    "wikiDataId": "Q2466562",
+    "type": "municipality",
+    "native": "San Blas",
+    "timezone": "America/Mazatlan",
+    "population": 41518,
     "population_year": 2020
   },
   {
@@ -1628,8 +1832,25 @@
     "type": "locality",
     "native": "San Pedro Lagunillas",
     "timezone": "America/Mazatlan",
-    "population": 3753,
-    "population_year": null
+    "population": 4007,
+    "population_year": 2020
+  },
+  {
+    "id": 169391,
+    "name": "San Pedro Lagunillas",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.15000000",
+    "longitude": "-104.76666667",
+    "county_id": null,
+    "wikiDataId": "Q2449099",
+    "type": "municipality",
+    "native": "San Pedro Lagunillas",
+    "timezone": "America/Mazatlan",
+    "population": 7683,
+    "population_year": 2020
   },
   {
     "id": 74493,
@@ -1700,6 +1921,23 @@
     "population_year": 2020
   },
   {
+    "id": 169392,
+    "name": "Santa María del Oro",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.35670000",
+    "longitude": "-104.58604000",
+    "county_id": null,
+    "wikiDataId": "Q2001105",
+    "type": "municipality",
+    "native": "Santa María del Oro",
+    "timezone": "America/Mazatlan",
+    "population": 24911,
+    "population_year": 2020
+  },
+  {
     "id": 74859,
     "name": "Santa Teresa",
     "state_id": 3477,
@@ -1748,6 +1986,23 @@
     "native": "Santiago Ixcuintla",
     "timezone": "America/Mazatlan",
     "population": 18023,
+    "population_year": 2020
+  },
+  {
+    "id": 169393,
+    "name": "Santiago Ixcuintla",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.81138890",
+    "longitude": "-105.20666670",
+    "county_id": null,
+    "wikiDataId": "Q3849467",
+    "type": "municipality",
+    "native": "Santiago Ixcuintla",
+    "timezone": "America/Mazatlan",
+    "population": 93981,
     "population_year": 2020
   },
   {
@@ -1832,8 +2087,25 @@
     "type": "locality",
     "native": "Téquula",
     "timezone": "America/Mazatlan",
-    "population": 14511,
-    "population_year": null
+    "population": 13620,
+    "population_year": 2020
+  },
+  {
+    "id": 169394,
+    "name": "Tecuala",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "22.35000000",
+    "longitude": "-105.52000000",
+    "county_id": null,
+    "wikiDataId": "Q2449012",
+    "type": "municipality",
+    "native": "Tecuala",
+    "timezone": "America/Mazatlan",
+    "population": 37135,
+    "population_year": 2020
   },
   {
     "id": 75447,
@@ -1849,8 +2121,25 @@
     "type": "locality",
     "native": "Tepic",
     "timezone": "America/Mazatlan",
-    "population": 332863,
-    "population_year": null
+    "population": 371387,
+    "population_year": 2020
+  },
+  {
+    "id": 169395,
+    "name": "Tepic",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.62000000",
+    "longitude": "-104.86000000",
+    "county_id": null,
+    "wikiDataId": "Q2001115",
+    "type": "municipality",
+    "native": "Tepic",
+    "timezone": "America/Mazatlan",
+    "population": 425924,
+    "population_year": 2020
   },
   {
     "id": 75455,
@@ -1904,6 +2193,23 @@
     "population_year": 2020
   },
   {
+    "id": 169396,
+    "name": "Tuxpan",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.97000000",
+    "longitude": "-105.41000000",
+    "county_id": null,
+    "wikiDataId": "Q2652089",
+    "type": "municipality",
+    "native": "Tuxpan",
+    "timezone": "America/Mazatlan",
+    "population": 30064,
+    "population_year": 2020
+  },
+  {
     "id": 75887,
     "name": "Unión de Corrientes",
     "state_id": 3477,
@@ -1951,8 +2257,8 @@
     "type": "locality",
     "native": "Valle de Banderas",
     "timezone": "America/Bahia_Banderas",
-    "population": 7666,
-    "population_year": null
+    "population": 8730,
+    "population_year": 2020
   },
   {
     "id": 76013,
@@ -1985,8 +2291,25 @@
     "type": "locality",
     "native": "Villa Juárez",
     "timezone": "America/Mazatlan",
-    "population": 3000,
-    "population_year": null
+    "population": 2722,
+    "population_year": 2020
+  },
+  {
+    "id": 169387,
+    "name": "Xalisco",
+    "state_id": 3477,
+    "state_code": "NAY",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.39000000",
+    "longitude": "-104.96000000",
+    "county_id": null,
+    "wikiDataId": "Q3849527",
+    "type": "municipality",
+    "native": "Xalisco",
+    "timezone": "America/Mazatlan",
+    "population": 65229,
+    "population_year": 2020
   },
   {
     "id": 76209,
@@ -2002,8 +2325,8 @@
     "type": "locality",
     "native": "Yago",
     "timezone": "America/Mazatlan",
-    "population": 3965,
-    "population_year": null
+    "population": 4365,
+    "population_year": 2020
   },
   {
     "id": 76284,

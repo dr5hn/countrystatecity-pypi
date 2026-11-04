@@ -7,7 +7,7 @@
 [![timezones](https://static.pepy.tech/personalized-badge/countrystatecity-timezones?period=month&units=international_system&left_color=grey&right_color=brightgreen&left_text=timezones)](https://pepy.tech/project/countrystatecity-timezones)
 [![timezones](https://static.pepy.tech/personalized-badge/countrystatecity-timezones?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=timezones)](https://pepy.tech/project/countrystatecity-timezones)
 
-Official Python package for 432 IANA timezones with country associations, GMT offsets, and time conversion utilities. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
+Official Python package for 432 country/timezone associations with country associations, GMT offsets, and time conversion utilities. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
 
 ## From offline prototype to production
 
@@ -109,12 +109,12 @@ ODbL-1.0 — see [LICENSE](LICENSE).
 | Package | Description |
 |---|---|
 | [countrystatecity-api](https://pypi.org/project/countrystatecity-api/) | **Official API client** — live data, sync + async, typed |
-| [countrystatecity-countries](https://pypi.org/project/countrystatecity-countries/) | 250 countries, 5,308 states, 171,938 cities |
+| [countrystatecity-countries](https://pypi.org/project/countrystatecity-countries/) | 250 countries, 5,327 states, 156,169 cities |
 | [countrystatecity-currencies](https://pypi.org/project/countrystatecity-currencies/) | 249 country/currency associations |
 | [countrystatecity-translations](https://pypi.org/project/countrystatecity-translations/) | 4,724 translations in 19 languages |
 | [countrystatecity-phonecodes](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250 countries |
 | [countrystatecity-regions](https://pypi.org/project/countrystatecity-regions/) | Region and subregion associations for 250 countries |
-| [countrystatecity-postal-codes](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 116 countries |
+| [countrystatecity-postal-codes](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 117 countries |
 
 Data sourced from [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database).
 

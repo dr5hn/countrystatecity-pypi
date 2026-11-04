@@ -33,9 +33,13 @@ csc = CountryStateCity()          # reads CSC_API_KEY
 Keep API keys in server-side environment variables, never in client-side code or
 source control.
 
+## Current snapshot
+
+Version 3.0.1 uses pinned [`v5.2.0-export.1`](https://github.com/dr5hn/countries-states-cities-database/releases/tag/v5.2.0-export.1): 250 countries, 5,327 states and 156,169 cities. Compared with 3.0.0, it adds 3,791 city IDs and corrects supported values in 31,466 existing cities; no city IDs were retired. Counties and hierarchy remain separate planned work.
+
 ## Upgrading to 3.0.0
 
-This version uses pinned `v5.0.0-export.1`: 250 countries, 5,327 states and
+Version 3.0.0 used pinned `v5.0.0-export.1`: 250 countries, 5,327 states and
 152,378 cities. Read the [upstream v5 migration notes](https://github.com/dr5hn/countries-states-cities-database/releases/tag/v5.0.0)
 before changing stored IDs. Removed administrative units must not automatically
 redirect to their seat towns.
@@ -92,7 +96,7 @@ To defer migration, constrain the installed version to
 - ✅ **Lazy loading** for minimal memory footprint
 - ✅ **250 countries** with metadata
 - ✅ **5,327 states/provinces**
-- ✅ **152,378 cities**
+- ✅ **156,169 cities**
 - ✅ **4,724 translations** in 19 languages
 - ✅ **Timezone data** per location
 - ✅ **Zero external dependencies** (except Pydantic)
@@ -455,12 +459,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 | Package | Description |
 |---|---|
 | [countrystatecity-api](https://pypi.org/project/countrystatecity-api/) | **Official API client** — live data, sync + async, typed |
-| [countrystatecity-timezones](https://pypi.org/project/countrystatecity-timezones/) | 432 IANA timezones with country associations and time conversion |
+| [countrystatecity-timezones](https://pypi.org/project/countrystatecity-timezones/) | 432 country/timezone associations with country associations and time conversion |
 | [countrystatecity-currencies](https://pypi.org/project/countrystatecity-currencies/) | 249 country/currency associations |
 | [countrystatecity-translations](https://pypi.org/project/countrystatecity-translations/) | 4,724 translations in 19 languages |
 | [countrystatecity-phonecodes](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250 countries |
 | [countrystatecity-regions](https://pypi.org/project/countrystatecity-regions/) | Region and subregion associations for 250 countries |
-| [countrystatecity-postal-codes](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 116 countries |
+| [countrystatecity-postal-codes](https://pypi.org/project/countrystatecity-postal-codes/) | Postal/ZIP records for 117 countries |
 
 Data sourced from [countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database).
 

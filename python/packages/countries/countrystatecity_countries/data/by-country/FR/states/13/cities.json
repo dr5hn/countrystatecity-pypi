@@ -78,7 +78,7 @@
     "longitude": "4.63031000",
     "county_id": null,
     "wikiDataId": "Q48292",
-    "type": "adm3",
+    "type": "municipality",
     "native": "Arles",
     "timezone": "Europe/Paris",
     "population": 51156,
@@ -2155,8 +2155,8 @@
     "type": "section",
     "native": "Marseille 16",
     "timezone": "Europe/Paris",
-    "population": 17630,
-    "population_year": null
+    "population": 15854,
+    "population_year": 2023
   },
   {
     "id": 43900,
@@ -2729,7 +2729,7 @@
     "latitude": "43.81800000",
     "longitude": "5.00110000",
     "county_id": 3122,
-    "wikiDataId": null,
+    "wikiDataId": "Q753849",
     "type": "municipality",
     "native": "Plan-d'Orgon",
     "timezone": "Europe/Paris",

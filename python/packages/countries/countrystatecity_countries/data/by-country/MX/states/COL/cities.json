@@ -31,7 +31,7 @@
     "native": "Armería",
     "timezone": "America/Mexico_City",
     "population": 27626,
-    "population_year": null
+    "population_year": 2020
   },
   {
     "id": 68443,
@@ -116,7 +116,7 @@
     "native": "Ciudad de Armería",
     "timezone": "America/Mexico_City",
     "population": 15368,
-    "population_year": null
+    "population_year": 2020
   },
   {
     "id": 69193,
@@ -221,6 +221,40 @@
     "population_year": null
   },
   {
+    "id": 168818,
+    "name": "Colima",
+    "state_id": 3472,
+    "state_code": "COL",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.10000000",
+    "longitude": "-103.66666667",
+    "county_id": null,
+    "wikiDataId": "Q1998847",
+    "type": "municipality",
+    "native": "Colima",
+    "timezone": "America/Mexico_City",
+    "population": 157048,
+    "population_year": 2020
+  },
+  {
+    "id": 168819,
+    "name": "Comala",
+    "state_id": 3472,
+    "state_code": "COL",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.38333333",
+    "longitude": "-103.75000000",
+    "county_id": null,
+    "wikiDataId": "Q2598172",
+    "type": "municipality",
+    "native": "Comala",
+    "timezone": "America/Mexico_City",
+    "population": 21661,
+    "population_year": 2020
+  },
+  {
     "id": 69416,
     "name": "Comala",
     "state_id": 3472,
@@ -255,6 +289,23 @@
     "population_year": 2020
   },
   {
+    "id": 168820,
+    "name": "Coquimatlán",
+    "state_id": 3472,
+    "state_code": "COL",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.18333333",
+    "longitude": "-103.93333333",
+    "county_id": null,
+    "wikiDataId": "Q8350879",
+    "type": "municipality",
+    "native": "Coquimatlán",
+    "timezone": "America/Mexico_City",
+    "population": 20837,
+    "population_year": 2020
+  },
+  {
     "id": 69582,
     "name": "Cuauhtémoc",
     "state_id": 3472,
@@ -269,6 +320,23 @@
     "native": "Cuauhtémoc",
     "timezone": "America/Mexico_City",
     "population": 9746,
+    "population_year": 2020
+  },
+  {
+    "id": 168821,
+    "name": "Cuauhtémoc",
+    "state_id": 3472,
+    "state_code": "COL",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.35000000",
+    "longitude": "-103.60000000",
+    "county_id": null,
+    "wikiDataId": "Q2533348",
+    "type": "municipality",
+    "native": "Cuauhtémoc",
+    "timezone": "America/Mexico_City",
+    "population": 31267,
     "population_year": 2020
   },
   {
@@ -354,6 +422,23 @@
     "native": "Ixtlahuacán",
     "timezone": "America/Mexico_City",
     "population": 2985,
+    "population_year": 2020
+  },
+  {
+    "id": 168822,
+    "name": "Ixtlahuacán",
+    "state_id": 3472,
+    "state_code": "COL",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "18.96666667",
+    "longitude": "-103.68333333",
+    "county_id": null,
+    "wikiDataId": "Q11684160",
+    "type": "municipality",
+    "native": "Ixtlahuacán",
+    "timezone": "America/Mexico_City",
+    "population": 5623,
     "population_year": 2020
   },
   {
@@ -459,6 +544,23 @@
     "population_year": 2020
   },
   {
+    "id": 168823,
+    "name": "Minatitlán",
+    "state_id": 3472,
+    "state_code": "COL",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.36666667",
+    "longitude": "-104.05000000",
+    "county_id": null,
+    "wikiDataId": "Q1013819",
+    "type": "municipality",
+    "native": "Minatitlán",
+    "timezone": "America/Mexico_City",
+    "population": 10231,
+    "population_year": 2020
+  },
+  {
     "id": 72787,
     "name": "Piscila",
     "state_id": 3472,
@@ -489,8 +591,8 @@
     "type": "locality",
     "native": "Pueblo Juárez (La Magdalena)",
     "timezone": "America/Mexico_City",
-    "population": 2477,
-    "population_year": null
+    "population": 2300,
+    "population_year": 2020
   },
   {
     "id": 73026,
@@ -540,8 +642,8 @@
     "type": "locality",
     "native": "Suchitlán",
     "timezone": "America/Mexico_City",
-    "population": 4450,
-    "population_year": null
+    "population": 4836,
+    "population_year": 2020
   },
   {
     "id": 75285,
@@ -557,8 +659,8 @@
     "type": "municipality",
     "native": "Tecomán",
     "timezone": "America/Mexico_City",
-    "population": 88337,
-    "population_year": null
+    "population": 116305,
+    "population_year": 2020
   },
   {
     "id": 75959,
@@ -575,6 +677,23 @@
     "native": "Venustiano Carranza",
     "timezone": "America/Mexico_City",
     "population": 1603,
+    "population_year": 2020
+  },
+  {
+    "id": 168824,
+    "name": "Villa de Álvarez",
+    "state_id": 3472,
+    "state_code": "COL",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.30000000",
+    "longitude": "-103.83333333",
+    "county_id": null,
+    "wikiDataId": "Q12221222",
+    "type": "municipality",
+    "native": "Villa de Álvarez",
+    "timezone": "America/Mexico_City",
+    "population": 149762,
     "population_year": 2020
   },
   {

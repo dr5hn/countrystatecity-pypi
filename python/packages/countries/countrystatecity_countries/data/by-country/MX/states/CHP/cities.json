@@ -80,8 +80,42 @@
     "wikiDataId": "Q20250569",
     "type": "locality",
     "native": "Acala",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 15001,
+    "population_year": 2020
+  },
+  {
+    "id": 168825,
+    "name": "Acala",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.53333333",
+    "longitude": "-92.83333333",
+    "county_id": null,
+    "wikiDataId": "Q1577295",
+    "type": "municipality",
+    "native": "Acala",
+    "timezone": "America/Mexico_City",
+    "population": 21187,
+    "population_year": 2020
+  },
+  {
+    "id": 168826,
+    "name": "Acapetahua",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.23333333",
+    "longitude": "-92.76666667",
+    "county_id": null,
+    "wikiDataId": "Q1952856",
+    "type": "municipality",
+    "native": "Acapetahua",
+    "timezone": "America/Mexico_City",
+    "population": 26899,
     "population_year": 2020
   },
   {
@@ -306,6 +340,23 @@
     "population_year": null
   },
   {
+    "id": 168827,
+    "name": "Altamirano",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.66666667",
+    "longitude": "-91.85000000",
+    "county_id": null,
+    "wikiDataId": "Q175830",
+    "type": "municipality",
+    "native": "Altamirano",
+    "timezone": "America/Mexico_City",
+    "population": 36160,
+    "population_year": 2020
+  },
+  {
     "id": 76395,
     "name": "Álvaro Obregón",
     "state_id": 3451,
@@ -352,8 +403,42 @@
     "wikiDataId": "Q20135439",
     "type": "locality",
     "native": "Amatán",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 4327,
+    "population_year": 2020
+  },
+  {
+    "id": 168828,
+    "name": "Amatán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.38333333",
+    "longitude": "-92.85000000",
+    "county_id": null,
+    "wikiDataId": "Q1785326",
+    "type": "municipality",
+    "native": "Amatán",
+    "timezone": "America/Mexico_City",
+    "population": 24512,
+    "population_year": 2020
+  },
+  {
+    "id": 168829,
+    "name": "Amatenango de la Frontera",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.53333333",
+    "longitude": "-92.08333333",
+    "county_id": null,
+    "wikiDataId": "Q1265580",
+    "type": "municipality",
+    "native": "Amatenango de la Frontera",
+    "timezone": "America/Mexico_City",
+    "population": 31735,
     "population_year": 2020
   },
   {
@@ -391,6 +476,23 @@
     "population_year": 2020
   },
   {
+    "id": 168830,
+    "name": "Amatenango del Valle",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.51666667",
+    "longitude": "-92.40000000",
+    "county_id": null,
+    "wikiDataId": "Q1785674",
+    "type": "municipality",
+    "native": "Amatenango del Valle",
+    "timezone": "America/Mexico_City",
+    "population": 11283,
+    "population_year": 2020
+  },
+  {
     "id": 68264,
     "name": "América Libre",
     "state_id": 3451,
@@ -405,6 +507,23 @@
     "native": "América Libre",
     "timezone": "America/Mexico_City",
     "population": 1086,
+    "population_year": 2020
+  },
+  {
+    "id": 168831,
+    "name": "Ángel Albino Corzo",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.76666667",
+    "longitude": "-92.68333333",
+    "county_id": null,
+    "wikiDataId": "Q1953286",
+    "type": "municipality",
+    "native": "Ángel Albino Corzo",
+    "timezone": "America/Mexico_City",
+    "population": 31947,
     "population_year": 2020
   },
   {
@@ -490,6 +609,23 @@
     "native": "Arriaga",
     "timezone": "America/Mexico_City",
     "population": 25366,
+    "population_year": 2020
+  },
+  {
+    "id": 168832,
+    "name": "Arriaga",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.25000000",
+    "longitude": "-93.93333333",
+    "county_id": null,
+    "wikiDataId": "Q1499102",
+    "type": "municipality",
+    "native": "Arriaga",
+    "timezone": "America/Mexico_City",
+    "population": 41135,
     "population_year": 2020
   },
   {
@@ -659,8 +795,8 @@
     "type": "locality",
     "native": "Bajucu",
     "timezone": "America/Mexico_City",
-    "population": 1665,
-    "population_year": null
+    "population": 972,
+    "population_year": 2020
   },
   {
     "id": 68567,
@@ -694,6 +830,23 @@
     "native": "Bejucal de Ocampo",
     "timezone": "America/Mexico_City",
     "population": 294,
+    "population_year": 2020
+  },
+  {
+    "id": 168833,
+    "name": "Bejucal de Ocampo",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.49166667",
+    "longitude": "-92.15833333",
+    "county_id": null,
+    "wikiDataId": "Q1507960",
+    "type": "municipality",
+    "native": "Bejucal de Ocampo",
+    "timezone": "America/Mexico_City",
+    "population": 7365,
     "population_year": 2020
   },
   {
@@ -744,8 +897,25 @@
     "type": "locality",
     "native": "Benemérito de las Américas",
     "timezone": "America/Mexico_City",
-    "population": 7259,
-    "population_year": null
+    "population": 10026,
+    "population_year": 2020
+  },
+  {
+    "id": 168911,
+    "name": "Benemérito de las Américas",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.33333333",
+    "longitude": "-90.58333333",
+    "county_id": null,
+    "wikiDataId": "Q1952882",
+    "type": "municipality",
+    "native": "Benemérito de las Américas",
+    "timezone": "America/Mexico_City",
+    "population": 23603,
+    "population_year": 2020
   },
   {
     "id": 68601,
@@ -761,8 +931,8 @@
     "type": "locality",
     "native": "Benito Juárez",
     "timezone": "America/Mexico_City",
-    "population": 1473,
-    "population_year": null
+    "population": 1708,
+    "population_year": 2020
   },
   {
     "id": 68611,
@@ -778,8 +948,8 @@
     "type": "municipality",
     "native": "Berriozábal",
     "timezone": "America/Mexico_City",
-    "population": 36084,
-    "population_year": null
+    "population": 64632,
+    "population_year": 2020
   },
   {
     "id": 68612,
@@ -811,8 +981,25 @@
     "wikiDataId": "Q20274882",
     "type": "locality",
     "native": "Bochil",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 14200,
+    "population_year": 2020
+  },
+  {
+    "id": 168834,
+    "name": "Bochil",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.01666667",
+    "longitude": "-92.95000000",
+    "county_id": null,
+    "wikiDataId": "Q1952887",
+    "type": "municipality",
+    "native": "Bochil",
+    "timezone": "America/Mexico_City",
+    "population": 37263,
     "population_year": 2020
   },
   {
@@ -932,7 +1119,24 @@
     "native": "Cacahoatán",
     "timezone": "America/Mexico_City",
     "population": 19108,
-    "population_year": null
+    "population_year": 2020
+  },
+  {
+    "id": 168836,
+    "name": "Cacahoatán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.08333333",
+    "longitude": "-92.16666667",
+    "county_id": null,
+    "wikiDataId": "Q1952906",
+    "type": "municipality",
+    "native": "Cacahoatán",
+    "timezone": "America/Mexico_City",
+    "population": 50112,
+    "population_year": 2020
   },
   {
     "id": 68715,
@@ -1088,6 +1292,23 @@
     "population_year": 2020
   },
   {
+    "id": 168912,
+    "name": "Capitán Luis Ángel Vidal",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.55000000",
+    "longitude": "-92.60000000",
+    "county_id": null,
+    "wikiDataId": "Q51120215",
+    "type": "municipality",
+    "native": "Capitán Luis Ángel Vidal",
+    "timezone": "America/Mexico_City",
+    "population": 4315,
+    "population_year": 2020
+  },
+  {
     "id": 68829,
     "name": "Carmen Yalchuch",
     "state_id": 3451,
@@ -1173,6 +1394,23 @@
     "population_year": 2020
   },
   {
+    "id": 168837,
+    "name": "Catazajá",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.76666667",
+    "longitude": "-91.98333333",
+    "county_id": null,
+    "wikiDataId": "Q1952920",
+    "type": "municipality",
+    "native": "Catazajá",
+    "timezone": "America/Mexico_City",
+    "population": 17619,
+    "population_year": 2020
+  },
+  {
     "id": 68864,
     "name": "Catishtic",
     "state_id": 3451,
@@ -1237,8 +1475,8 @@
     "type": "locality",
     "native": "Cereso 14 (El Amate)",
     "timezone": "America/Mexico_City",
-    "population": 2243,
-    "population_year": null
+    "population": 1282,
+    "population_year": 2020
   },
   {
     "id": 68946,
@@ -1326,6 +1564,23 @@
     "population_year": 2020
   },
   {
+    "id": 168842,
+    "name": "Chamula",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.81666667",
+    "longitude": "-92.68333333",
+    "county_id": null,
+    "wikiDataId": "Q280226",
+    "type": "municipality",
+    "native": "Chamula",
+    "timezone": "America/Mexico_City",
+    "population": 101967,
+    "population_year": 2020
+  },
+  {
     "id": 68970,
     "name": "Chamulapita",
     "state_id": 3451,
@@ -1360,6 +1615,23 @@
     "population_year": 2020
   },
   {
+    "id": 168843,
+    "name": "Chanal",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.60000000",
+    "longitude": "-92.21666667",
+    "county_id": null,
+    "wikiDataId": "Q1553479",
+    "type": "municipality",
+    "native": "Chanal",
+    "timezone": "America/Mexico_City",
+    "population": 13678,
+    "population_year": 2020
+  },
+  {
     "id": 68980,
     "name": "Chapallal Grande",
     "state_id": 3451,
@@ -1389,8 +1661,59 @@
     "wikiDataId": "Q45912842",
     "type": "locality",
     "native": "Chapultenango",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 3498,
+    "population_year": 2020
+  },
+  {
+    "id": 168844,
+    "name": "Chapultenango",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.33333333",
+    "longitude": "-93.13333333",
+    "county_id": null,
+    "wikiDataId": "Q1952925",
+    "type": "municipality",
+    "native": "Chapultenango",
+    "timezone": "America/Mexico_City",
+    "population": 7472,
+    "population_year": 2020
+  },
+  {
+    "id": 168845,
+    "name": "Chenalhó",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.93333333",
+    "longitude": "-92.56666667",
+    "county_id": null,
+    "wikiDataId": "Q1848495",
+    "type": "municipality",
+    "native": "Chenalhó",
+    "timezone": "America/Mexico_City",
+    "population": 47371,
+    "population_year": 2020
+  },
+  {
+    "id": 168846,
+    "name": "Chiapa de Corzo",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.60000000",
+    "longitude": "-92.96666667",
+    "county_id": null,
+    "wikiDataId": "Q126028",
+    "type": "municipality",
+    "native": "Chiapa de Corzo",
+    "timezone": "America/Mexico_City",
+    "population": 112075,
     "population_year": 2020
   },
   {
@@ -1440,8 +1763,42 @@
     "wikiDataId": "Q46333151",
     "type": "locality",
     "native": "Chicoasén",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 3947,
+    "population_year": 2020
+  },
+  {
+    "id": 168847,
+    "name": "Chicoasén",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.00000000",
+    "longitude": "-93.11666667",
+    "county_id": null,
+    "wikiDataId": "Q3667765",
+    "type": "municipality",
+    "native": "Chicoasén",
+    "timezone": "America/Mexico_City",
+    "population": 5402,
+    "population_year": 2020
+  },
+  {
+    "id": 168848,
+    "name": "Chicomuselo",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.78333333",
+    "longitude": "-92.40000000",
+    "county_id": null,
+    "wikiDataId": "Q976886",
+    "type": "municipality",
+    "native": "Chicomuselo",
+    "timezone": "America/Mexico_City",
+    "population": 36785,
     "population_year": 2020
   },
   {
@@ -1457,7 +1814,7 @@
     "wikiDataId": "Q27772384",
     "type": "locality",
     "native": "Chicomuselo",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 7083,
     "population_year": 2020
   },
@@ -1509,8 +1866,8 @@
     "type": "locality",
     "native": "Chiloljá",
     "timezone": "America/Mexico_City",
-    "population": 2415,
-    "population_year": null
+    "population": 3322,
+    "population_year": 2020
   },
   {
     "id": 69075,
@@ -1712,8 +2069,25 @@
     "wikiDataId": "Q27769918",
     "type": "locality",
     "native": "Coapilla",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 3770,
+    "population_year": 2020
+  },
+  {
+    "id": 168838,
+    "name": "Coapilla",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.11666667",
+    "longitude": "-93.13333333",
+    "county_id": null,
+    "wikiDataId": "Q1952939",
+    "type": "municipality",
+    "native": "Coapilla",
+    "timezone": "America/Mexico_City",
+    "population": 9900,
     "population_year": 2020
   },
   {
@@ -1746,7 +2120,7 @@
     "wikiDataId": "Q538031",
     "type": "locality",
     "native": "Comalapa",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 18704,
     "population_year": null
   },
@@ -1763,8 +2137,25 @@
     "wikiDataId": "Q1961680",
     "type": "locality",
     "native": "Comitán",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 113479,
+    "population_year": 2020
+  },
+  {
+    "id": 168839,
+    "name": "Comitán de Domínguez",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.30000000",
+    "longitude": "-92.16666667",
+    "county_id": null,
+    "wikiDataId": "Q936995",
+    "type": "municipality",
+    "native": "Comitán de Domínguez",
+    "timezone": "America/Mexico_City",
+    "population": 166178,
     "population_year": 2020
   },
   {
@@ -1833,6 +2224,23 @@
     "native": "Copainalá",
     "timezone": "America/Mexico_City",
     "population": 7125,
+    "population_year": 2020
+  },
+  {
+    "id": 168841,
+    "name": "Copainalá",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.11666667",
+    "longitude": "-93.25000000",
+    "county_id": null,
+    "wikiDataId": "Q1952951",
+    "type": "municipality",
+    "native": "Copainalá",
+    "timezone": "America/Mexico_City",
+    "population": 22192,
     "population_year": 2020
   },
   {
@@ -2190,6 +2598,23 @@
     "native": "El Bosque",
     "timezone": "America/Mexico_City",
     "population": 5833,
+    "population_year": 2020
+  },
+  {
+    "id": 168835,
+    "name": "El Bosque",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.03333333",
+    "longitude": "-92.75000000",
+    "county_id": null,
+    "wikiDataId": "Q1784079",
+    "type": "municipality",
+    "native": "El Bosque",
+    "timezone": "America/Mexico_City",
+    "population": 24273,
     "population_year": 2020
   },
   {
@@ -2562,8 +2987,25 @@
     "wikiDataId": "Q49927555",
     "type": "locality",
     "native": "El Parral",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 11949,
+    "population_year": 2020
+  },
+  {
+    "id": 168914,
+    "name": "El Parral",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.33333333",
+    "longitude": "-92.96666667",
+    "county_id": null,
+    "wikiDataId": "Q14630098",
+    "type": "municipality",
+    "native": "El Parral",
+    "timezone": "America/Mexico_City",
+    "population": 15587,
     "population_year": 2020
   },
   {
@@ -3060,6 +3502,23 @@
     "population_year": 2020
   },
   {
+    "id": 168849,
+    "name": "Frontera Comalapa",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.78333333",
+    "longitude": "-92.08333333",
+    "county_id": null,
+    "wikiDataId": "Q651153",
+    "type": "municipality",
+    "native": "Frontera Comalapa",
+    "timezone": "America/Mexico_City",
+    "population": 80897,
+    "population_year": 2020
+  },
+  {
     "id": 70492,
     "name": "Frontera Corozal",
     "state_id": 3451,
@@ -3091,6 +3550,23 @@
     "native": "Frontera Hidalgo",
     "timezone": "America/Mexico_City",
     "population": 3891,
+    "population_year": 2020
+  },
+  {
+    "id": 168850,
+    "name": "Frontera Hidalgo",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "14.75000000",
+    "longitude": "-92.21666667",
+    "county_id": null,
+    "wikiDataId": "Q951899",
+    "type": "municipality",
+    "native": "Frontera Hidalgo",
+    "timezone": "America/Mexico_City",
+    "population": 14556,
     "population_year": 2020
   },
   {
@@ -3264,6 +3740,23 @@
     "population_year": 2020
   },
   {
+    "id": 168916,
+    "name": "Honduras de la Sierra",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.55000000",
+    "longitude": "-92.46666667",
+    "county_id": null,
+    "wikiDataId": "Q102426425",
+    "type": "municipality",
+    "native": "Honduras de la Sierra",
+    "timezone": "America/Mexico_City",
+    "population": 11650,
+    "population_year": 2020
+  },
+  {
     "id": 70762,
     "name": "Huehuetán",
     "state_id": 3451,
@@ -3281,6 +3774,40 @@
     "population_year": 2020
   },
   {
+    "id": 168852,
+    "name": "Huehuetán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.00000000",
+    "longitude": "-92.43333333",
+    "county_id": null,
+    "wikiDataId": "Q666490",
+    "type": "municipality",
+    "native": "Huehuetán",
+    "timezone": "America/Mexico_City",
+    "population": 36333,
+    "population_year": 2020
+  },
+  {
+    "id": 168854,
+    "name": "Huitiupán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.23333333",
+    "longitude": "-92.70000000",
+    "county_id": null,
+    "wikiDataId": "Q1952997",
+    "type": "municipality",
+    "native": "Huitiupán",
+    "timezone": "America/Mexico_City",
+    "population": 27893,
+    "population_year": 2020
+  },
+  {
     "id": 70801,
     "name": "Huitiupán",
     "state_id": 3451,
@@ -3293,8 +3820,42 @@
     "wikiDataId": "Q27769233",
     "type": "locality",
     "native": "Huitiupán",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 3508,
+    "population_year": 2020
+  },
+  {
+    "id": 168853,
+    "name": "Huixtán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.68333333",
+    "longitude": "-92.40000000",
+    "county_id": null,
+    "wikiDataId": "Q1669354",
+    "type": "municipality",
+    "native": "Huixtán",
+    "timezone": "America/Mexico_City",
+    "population": 22975,
+    "population_year": 2020
+  },
+  {
+    "id": 168855,
+    "name": "Huixtla",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.10000000",
+    "longitude": "-92.53333333",
+    "county_id": null,
+    "wikiDataId": "Q1393838",
+    "type": "municipality",
+    "native": "Huixtla",
+    "timezone": "America/Mexico_City",
+    "population": 53242,
     "population_year": 2020
   },
   {
@@ -3311,8 +3872,8 @@
     "type": "locality",
     "native": "Huixtla",
     "timezone": "America/Mexico_City",
-    "population": 32033,
-    "population_year": null
+    "population": 32109,
+    "population_year": 2020
   },
   {
     "id": 70822,
@@ -3451,6 +4012,40 @@
     "population_year": 2020
   },
   {
+    "id": 168857,
+    "name": "Ixhuatán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.30000000",
+    "longitude": "-92.98333333",
+    "county_id": null,
+    "wikiDataId": "Q1282492",
+    "type": "municipality",
+    "native": "Ixhuatán",
+    "timezone": "America/Mexico_City",
+    "population": 11377,
+    "population_year": 2020
+  },
+  {
+    "id": 168858,
+    "name": "Ixtacomitán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.41666667",
+    "longitude": "-93.10000000",
+    "county_id": null,
+    "wikiDataId": "Q1785665",
+    "type": "municipality",
+    "native": "Ixtacomitán",
+    "timezone": "America/Mexico_City",
+    "population": 10961,
+    "population_year": 2020
+  },
+  {
     "id": 70923,
     "name": "Ixtacomitán",
     "state_id": 3451,
@@ -3482,6 +4077,40 @@
     "native": "Ixtapa",
     "timezone": "America/Mexico_City",
     "population": 6481,
+    "population_year": 2020
+  },
+  {
+    "id": 168859,
+    "name": "Ixtapa",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.81666667",
+    "longitude": "-92.91666667",
+    "county_id": null,
+    "wikiDataId": "Q1295837",
+    "type": "municipality",
+    "native": "Ixtapa",
+    "timezone": "America/Mexico_City",
+    "population": 28999,
+    "population_year": 2020
+  },
+  {
+    "id": 168860,
+    "name": "Ixtapangajoya",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.46666667",
+    "longitude": "-92.98333333",
+    "county_id": null,
+    "wikiDataId": "Q522315",
+    "type": "municipality",
+    "native": "Ixtapangajoya",
+    "timezone": "America/Mexico_City",
+    "population": 6284,
     "population_year": 2020
   },
   {
@@ -3635,6 +4264,40 @@
     "native": "Jiquipilas",
     "timezone": "America/Mexico_City",
     "population": 11596,
+    "population_year": 2020
+  },
+  {
+    "id": 168861,
+    "name": "Jiquipilas",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.53333333",
+    "longitude": "-93.66666667",
+    "county_id": null,
+    "wikiDataId": "Q1953009",
+    "type": "municipality",
+    "native": "Jiquipilas",
+    "timezone": "America/Mexico_City",
+    "population": 41063,
+    "population_year": 2020
+  },
+  {
+    "id": 168862,
+    "name": "Jitotol",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.08333333",
+    "longitude": "-92.88333333",
+    "county_id": null,
+    "wikiDataId": "Q1785654",
+    "type": "municipality",
+    "native": "Jitotol",
+    "timezone": "America/Mexico_City",
+    "population": 24966,
     "population_year": 2020
   },
   {
@@ -3854,8 +4517,25 @@
     "wikiDataId": "Q5957239",
     "type": "locality",
     "native": "Juárez",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 7809,
+    "population_year": 2020
+  },
+  {
+    "id": 168863,
+    "name": "Juárez",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.70000000",
+    "longitude": "-93.20000000",
+    "county_id": null,
+    "wikiDataId": "Q1643457",
+    "type": "municipality",
+    "native": "Juárez",
+    "timezone": "America/Mexico_City",
+    "population": 21807,
     "population_year": 2020
   },
   {
@@ -3978,6 +4658,23 @@
     "population_year": 2020
   },
   {
+    "id": 168840,
+    "name": "La Concordia",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.96666667",
+    "longitude": "-92.71666667",
+    "county_id": null,
+    "wikiDataId": "Q4251701",
+    "type": "municipality",
+    "native": "La Concordia",
+    "timezone": "America/Mexico_City",
+    "population": 49920,
+    "population_year": 2020
+  },
+  {
     "id": 71271,
     "name": "La Esperanza",
     "state_id": 3451,
@@ -4058,8 +4755,42 @@
     "wikiDataId": "Q48535418",
     "type": "locality",
     "native": "La Grandeza",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 1502,
+    "population_year": 2020
+  },
+  {
+    "id": 168851,
+    "name": "La Grandeza",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.51666667",
+    "longitude": "-92.21666667",
+    "county_id": null,
+    "wikiDataId": "Q1785311",
+    "type": "municipality",
+    "native": "La Grandeza",
+    "timezone": "America/Mexico_City",
+    "population": 7701,
+    "population_year": 2020
+  },
+  {
+    "id": 168856,
+    "name": "La Independencia",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.20000000",
+    "longitude": "-91.78333333",
+    "county_id": null,
+    "wikiDataId": "Q1953021",
+    "type": "municipality",
+    "native": "La Independencia",
+    "timezone": "America/Mexico_City",
+    "population": 46409,
     "population_year": 2020
   },
   {
@@ -4128,6 +4859,23 @@
     "native": "La Libertad",
     "timezone": "America/Mexico_City",
     "population": 5096,
+    "population_year": 2020
+  },
+  {
+    "id": 168865,
+    "name": "La Libertad",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.60000000",
+    "longitude": "-91.75000000",
+    "county_id": null,
+    "wikiDataId": "Q2296377",
+    "type": "municipality",
+    "native": "La Libertad",
+    "timezone": "America/Mexico_City",
+    "population": 5232,
     "population_year": 2020
   },
   {
@@ -4233,6 +4981,23 @@
     "population_year": 2020
   },
   {
+    "id": 168900,
+    "name": "La Trinitaria",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.98333333",
+    "longitude": "-91.86666667",
+    "county_id": null,
+    "wikiDataId": "Q1784521",
+    "type": "municipality",
+    "native": "La Trinitaria",
+    "timezone": "America/Mexico_City",
+    "population": 83111,
+    "population_year": 2020
+  },
+  {
     "id": 71540,
     "name": "Lacandón",
     "state_id": 3451,
@@ -4281,6 +5046,23 @@
     "native": "Larráinzar",
     "timezone": "America/Mexico_City",
     "population": 3954,
+    "population_year": 2020
+  },
+  {
+    "id": 168864,
+    "name": "Larráinzar",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.91666667",
+    "longitude": "-92.76666667",
+    "county_id": null,
+    "wikiDataId": "Q176388",
+    "type": "municipality",
+    "native": "Larráinzar",
+    "timezone": "America/Mexico_City",
+    "population": 31259,
     "population_year": 2020
   },
   {
@@ -4381,8 +5163,25 @@
     "wikiDataId": "Q1962619",
     "type": "locality",
     "native": "Las Margaritas",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 24326,
+    "population_year": 2020
+  },
+  {
+    "id": 168867,
+    "name": "Las Margaritas",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.36666667",
+    "longitude": "-91.73333333",
+    "county_id": null,
+    "wikiDataId": "Q1480206",
+    "type": "municipality",
+    "native": "Las Margaritas",
+    "timezone": "America/Mexico_City",
+    "population": 141027,
     "population_year": 2020
   },
   {
@@ -4417,6 +5216,23 @@
     "native": "Las Rosas",
     "timezone": "America/Mexico_City",
     "population": 21194,
+    "population_year": 2020
+  },
+  {
+    "id": 168886,
+    "name": "Las Rosas",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.36666667",
+    "longitude": "-92.35000000",
+    "county_id": null,
+    "wikiDataId": "Q1687857",
+    "type": "municipality",
+    "native": "Las Rosas",
+    "timezone": "America/Mexico_City",
+    "population": 28829,
     "population_year": 2020
   },
   {
@@ -4811,6 +5627,23 @@
     "population_year": 2020
   },
   {
+    "id": 168866,
+    "name": "Mapastepec",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.46666667",
+    "longitude": "-92.86666667",
+    "county_id": null,
+    "wikiDataId": "Q1953044",
+    "type": "municipality",
+    "native": "Mapastepec",
+    "timezone": "America/Mexico_City",
+    "population": 46130,
+    "population_year": 2020
+  },
+  {
     "id": 71981,
     "name": "Maravilla Tenejapa",
     "state_id": 3451,
@@ -4947,6 +5780,40 @@
     "population_year": 2020
   },
   {
+    "id": 168868,
+    "name": "Mazapa de Madero",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.35000000",
+    "longitude": "-92.18333333",
+    "county_id": null,
+    "wikiDataId": "Q1953050",
+    "type": "municipality",
+    "native": "Mazapa de Madero",
+    "timezone": "America/Mexico_City",
+    "population": 7901,
+    "population_year": 2020
+  },
+  {
+    "id": 168869,
+    "name": "Mazatán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "14.86666667",
+    "longitude": "-92.51666667",
+    "county_id": null,
+    "wikiDataId": "Q1751944",
+    "type": "municipality",
+    "native": "Mazatán",
+    "timezone": "America/Mexico_City",
+    "population": 28250,
+    "population_year": 2020
+  },
+  {
     "id": 72049,
     "name": "Mazatán",
     "state_id": 3451,
@@ -4981,6 +5848,23 @@
     "population_year": 2020
   },
   {
+    "id": 168870,
+    "name": "Metapa",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "14.81666667",
+    "longitude": "-92.20000000",
+    "county_id": null,
+    "wikiDataId": "Q3288007",
+    "type": "municipality",
+    "native": "Metapa",
+    "timezone": "America/Mexico_City",
+    "population": 5876,
+    "population_year": 2020
+  },
+  {
     "id": 72087,
     "name": "Metapa",
     "state_id": 3451,
@@ -4995,6 +5879,23 @@
     "native": "Metapa",
     "timezone": "America/Mexico_City",
     "population": 2860,
+    "population_year": 2020
+  },
+  {
+    "id": 168915,
+    "name": "Mezcalapa",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.23333333",
+    "longitude": "-93.66666667",
+    "county_id": null,
+    "wikiDataId": "Q14902858",
+    "type": "municipality",
+    "native": "Mezcalapa",
+    "timezone": "America/Mexico_City",
+    "population": 23847,
     "population_year": 2020
   },
   {
@@ -5197,8 +6098,25 @@
     "wikiDataId": "Q3866443",
     "type": "locality",
     "native": "Motozintla",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 27815,
+    "population_year": 2020
+  },
+  {
+    "id": 168871,
+    "name": "Motozintla",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.30000000",
+    "longitude": "-92.33333333",
+    "county_id": null,
+    "wikiDataId": "Q74777",
+    "type": "municipality",
+    "native": "Motozintla",
+    "timezone": "America/Mexico_City",
+    "population": 76398,
     "population_year": 2020
   },
   {
@@ -5316,7 +6234,24 @@
     "wikiDataId": "Q27768667",
     "type": "locality",
     "native": "Nicolás Ruiz",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
+    "population": 4765,
+    "population_year": 2020
+  },
+  {
+    "id": 168872,
+    "name": "Nicolás Ruíz",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.43333333",
+    "longitude": "-92.61666667",
+    "county_id": null,
+    "wikiDataId": "Q2550468",
+    "type": "municipality",
+    "native": "Nicolás Ruíz",
+    "timezone": "America/Mexico_City",
     "population": 4765,
     "population_year": 2020
   },
@@ -5845,7 +6780,41 @@
     "native": "Ocosingo",
     "timezone": "America/Mexico_City",
     "population": 47688,
-    "population_year": null
+    "population_year": 2020
+  },
+  {
+    "id": 168873,
+    "name": "Ocosingo",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.66666667",
+    "longitude": "-91.50000000",
+    "county_id": null,
+    "wikiDataId": "Q53556",
+    "type": "municipality",
+    "native": "Ocosingo",
+    "timezone": "America/Mexico_City",
+    "population": 234661,
+    "population_year": 2020
+  },
+  {
+    "id": 168874,
+    "name": "Ocotepec",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.21666667",
+    "longitude": "-93.18333333",
+    "county_id": null,
+    "wikiDataId": "Q1778353",
+    "type": "municipality",
+    "native": "Ocotepec",
+    "timezone": "America/Mexico_City",
+    "population": 14088,
+    "population_year": 2020
   },
   {
     "id": 72452,
@@ -5877,8 +6846,25 @@
     "wikiDataId": "Q27768283",
     "type": "locality",
     "native": "Ocozocoautla de Espinosa",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 43247,
+    "population_year": 2020
+  },
+  {
+    "id": 168875,
+    "name": "Ocozocoautla de Espinosa",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.80000000",
+    "longitude": "-93.50000000",
+    "county_id": null,
+    "wikiDataId": "Q1326704",
+    "type": "municipality",
+    "native": "Ocozocoautla de Espinosa",
+    "timezone": "America/Mexico_City",
+    "population": 97397,
     "population_year": 2020
   },
   {
@@ -5967,6 +6953,40 @@
     "population_year": 2020
   },
   {
+    "id": 168876,
+    "name": "Ostuacán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.43333333",
+    "longitude": "-93.40000000",
+    "county_id": null,
+    "wikiDataId": "Q540020",
+    "type": "municipality",
+    "native": "Ostuacán",
+    "timezone": "America/Mexico_City",
+    "population": 18469,
+    "population_year": 2020
+  },
+  {
+    "id": 168877,
+    "name": "Osumacinta",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.90000000",
+    "longitude": "-93.08333333",
+    "county_id": null,
+    "wikiDataId": "Q2550915",
+    "type": "municipality",
+    "native": "Osumacinta",
+    "timezone": "America/Mexico_City",
+    "population": 3983,
+    "population_year": 2020
+  },
+  {
     "id": 72535,
     "name": "Osumacinta",
     "state_id": 3451,
@@ -5999,6 +7019,23 @@
     "timezone": "America/Mexico_City",
     "population": 6675,
     "population_year": null
+  },
+  {
+    "id": 168878,
+    "name": "Oxchuc",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.78333333",
+    "longitude": "-92.28333333",
+    "county_id": null,
+    "wikiDataId": "Q1953078",
+    "type": "municipality",
+    "native": "Oxchuc",
+    "timezone": "America/Mexico_City",
+    "population": 54932,
+    "population_year": 2020
   },
   {
     "id": 72550,
@@ -6064,8 +7101,42 @@
     "wikiDataId": "Q1573453",
     "type": "locality",
     "native": "Palenque",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 51797,
+    "population_year": 2020
+  },
+  {
+    "id": 168879,
+    "name": "Palenque",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.43333333",
+    "longitude": "-91.80000000",
+    "county_id": null,
+    "wikiDataId": "Q1859841",
+    "type": "municipality",
+    "native": "Palenque",
+    "timezone": "America/Mexico_City",
+    "population": 132265,
+    "population_year": 2020
+  },
+  {
+    "id": 168880,
+    "name": "Pantelhó",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.05000000",
+    "longitude": "-92.46666667",
+    "county_id": null,
+    "wikiDataId": "Q1953087",
+    "type": "municipality",
+    "native": "Pantelhó",
+    "timezone": "America/Mexico_City",
+    "population": 26391,
     "population_year": 2020
   },
   {
@@ -6081,7 +7152,7 @@
     "wikiDataId": "Q51884315",
     "type": "locality",
     "native": "Pantelhó",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 8629,
     "population_year": 2020
   },
@@ -6100,6 +7171,23 @@
     "native": "Panepec",
     "timezone": "America/Mexico_City",
     "population": 1924,
+    "population_year": 2020
+  },
+  {
+    "id": 168881,
+    "name": "Pantepec",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.18333333",
+    "longitude": "-93.05000000",
+    "county_id": null,
+    "wikiDataId": "Q1953089",
+    "type": "municipality",
+    "native": "Pantepec",
+    "timezone": "America/Mexico_City",
+    "population": 12266,
     "population_year": 2020
   },
   {
@@ -6167,8 +7255,8 @@
     "type": "locality",
     "native": "Pasta",
     "timezone": "America/Mexico_City",
-    "population": 3771,
-    "population_year": null
+    "population": 5256,
+    "population_year": 2020
   },
   {
     "id": 72709,
@@ -6273,6 +7361,23 @@
     "population_year": 2020
   },
   {
+    "id": 168882,
+    "name": "Pichucalco",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.51666667",
+    "longitude": "-93.20000000",
+    "county_id": null,
+    "wikiDataId": "Q1953094",
+    "type": "municipality",
+    "native": "Pichucalco",
+    "timezone": "America/Mexico_City",
+    "population": 31919,
+    "population_year": 2020
+  },
+  {
     "id": 72766,
     "name": "Piedra Labrada",
     "state_id": 3451,
@@ -6304,6 +7409,23 @@
     "native": "Pijijiapan",
     "timezone": "America/Mexico_City",
     "population": 18219,
+    "population_year": 2020
+  },
+  {
+    "id": 168883,
+    "name": "Pijijiapan",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.65000000",
+    "longitude": "-93.16666667",
+    "county_id": null,
+    "wikiDataId": "Q651163",
+    "type": "municipality",
+    "native": "Pijijiapan",
+    "timezone": "America/Mexico_City",
+    "population": 51193,
     "population_year": 2020
   },
   {
@@ -6458,6 +7580,23 @@
     "timezone": "America/Mexico_City",
     "population": 10043,
     "population_year": null
+  },
+  {
+    "id": 168884,
+    "name": "Pueblo Nuevo Solistahuacán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.21666667",
+    "longitude": "-92.86666667",
+    "county_id": null,
+    "wikiDataId": "Q1953117",
+    "type": "municipality",
+    "native": "Pueblo Nuevo Solistahuacán",
+    "timezone": "America/Mexico_City",
+    "population": 29636,
+    "population_year": 2020
   },
   {
     "id": 72971,
@@ -6647,6 +7786,23 @@
     "population_year": 2020
   },
   {
+    "id": 168885,
+    "name": "Rayón",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.18333333",
+    "longitude": "-93.00000000",
+    "county_id": null,
+    "wikiDataId": "Q9066806",
+    "type": "municipality",
+    "native": "Rayón",
+    "timezone": "America/Mexico_City",
+    "population": 10866,
+    "population_year": 2020
+  },
+  {
     "id": 73094,
     "name": "Reforma",
     "state_id": 3451,
@@ -6727,8 +7883,25 @@
     "wikiDataId": "Q20285388",
     "type": "locality",
     "native": "Rincón Chamula",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 6732,
+    "population_year": 2020
+  },
+  {
+    "id": 168913,
+    "name": "Rincón Chamula San Pedro",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.21666667",
+    "longitude": "-92.93333333",
+    "county_id": null,
+    "wikiDataId": "Q51120325",
+    "type": "municipality",
+    "native": "Rincón Chamula San Pedro",
+    "timezone": "America/Mexico_City",
+    "population": 8718,
     "population_year": 2020
   },
   {
@@ -6936,6 +8109,23 @@
     "population_year": 2020
   },
   {
+    "id": 168887,
+    "name": "Salto de Agua",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.41666667",
+    "longitude": "-92.18333333",
+    "county_id": null,
+    "wikiDataId": "Q1953149",
+    "type": "municipality",
+    "native": "Salto de Agua",
+    "timezone": "America/Mexico_City",
+    "population": 64251,
+    "population_year": 2020
+  },
+  {
     "id": 73230,
     "name": "Salvador Urbina",
     "state_id": 3451,
@@ -7067,8 +8257,25 @@
     "wikiDataId": "Q524894",
     "type": "locality",
     "native": "San Cristóbal de las Casas",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 183509,
+    "population_year": 2020
+  },
+  {
+    "id": 168888,
+    "name": "San Cristóbal de las Casas",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.68333333",
+    "longitude": "-92.58333333",
+    "county_id": null,
+    "wikiDataId": "Q2884933",
+    "type": "municipality",
+    "native": "San Cristóbal de las Casas",
+    "timezone": "America/Mexico_City",
+    "population": 215874,
     "population_year": 2020
   },
   {
@@ -7103,6 +8310,23 @@
     "native": "San Fernando",
     "timezone": "America/Mexico_City",
     "population": 11867,
+    "population_year": 2020
+  },
+  {
+    "id": 168889,
+    "name": "San Fernando",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.91666667",
+    "longitude": "-93.20000000",
+    "county_id": null,
+    "wikiDataId": "Q1953169",
+    "type": "municipality",
+    "native": "San Fernando",
+    "timezone": "America/Mexico_City",
+    "population": 41793,
     "population_year": 2020
   },
   {
@@ -7276,6 +8500,23 @@
     "population_year": 2020
   },
   {
+    "id": 168910,
+    "name": "San Juan Cancuc",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.93333333",
+    "longitude": "-92.38333333",
+    "county_id": null,
+    "wikiDataId": "Q1953181",
+    "type": "municipality",
+    "native": "San Juan Cancuc",
+    "timezone": "America/Mexico_City",
+    "population": 37948,
+    "population_year": 2020
+  },
+  {
     "id": 74021,
     "name": "San Lucas",
     "state_id": 3451,
@@ -7290,6 +8531,23 @@
     "native": "San Lucas",
     "timezone": "America/Mexico_City",
     "population": 4998,
+    "population_year": 2020
+  },
+  {
+    "id": 168908,
+    "name": "San Lucas",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.63333333",
+    "longitude": "-92.73333333",
+    "county_id": null,
+    "wikiDataId": "Q2595433",
+    "type": "municipality",
+    "native": "San Lucas",
+    "timezone": "America/Mexico_City",
+    "population": 7526,
     "population_year": 2020
   },
   {
@@ -7663,8 +8921,8 @@
     "type": "locality",
     "native": "Simojovel de Allende",
     "timezone": "America/Mexico_City",
-    "population": 10762,
-    "population_year": null
+    "population": 14618,
+    "population_year": 2020
   },
   {
     "id": 75089,
@@ -7698,6 +8956,23 @@
     "native": "Sitalá",
     "timezone": "America/Mexico_City",
     "population": 2091,
+    "population_year": 2020
+  },
+  {
+    "id": 168890,
+    "name": "Sitalá",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.03333333",
+    "longitude": "-92.35000000",
+    "county_id": null,
+    "wikiDataId": "Q1784458",
+    "type": "municipality",
+    "native": "Sitalá",
+    "timezone": "America/Mexico_City",
+    "population": 15518,
     "population_year": 2020
   },
   {
@@ -7798,8 +9073,25 @@
     "wikiDataId": "Q2523090",
     "type": "locality",
     "native": "Suchiapa",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 19571,
+    "population_year": 2020
+  },
+  {
+    "id": 168891,
+    "name": "Suchiapa",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.58333333",
+    "longitude": "-93.13333333",
+    "county_id": null,
+    "wikiDataId": "Q2005066",
+    "type": "municipality",
+    "native": "Suchiapa",
+    "timezone": "America/Mexico_City",
+    "population": 25627,
     "population_year": 2020
   },
   {
@@ -7817,6 +9109,23 @@
     "native": "Suchiate",
     "timezone": "America/Mexico_City",
     "population": 41672,
+    "population_year": 2020
+  },
+  {
+    "id": 168892,
+    "name": "Sunuapa",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.48333333",
+    "longitude": "-93.25000000",
+    "county_id": null,
+    "wikiDataId": "Q1953214",
+    "type": "municipality",
+    "native": "Sunuapa",
+    "timezone": "America/Mexico_City",
+    "population": 2308,
     "population_year": 2020
   },
   {
@@ -7900,8 +9209,25 @@
     "wikiDataId": "Q988225",
     "type": "locality",
     "native": "Tapachula",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 217550,
+    "population_year": 2020
+  },
+  {
+    "id": 168893,
+    "name": "Tapachula",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "14.93333333",
+    "longitude": "-92.30000000",
+    "county_id": null,
+    "wikiDataId": "Q3444131",
+    "type": "municipality",
+    "native": "Tapachula",
+    "timezone": "America/Mexico_City",
+    "population": 353706,
     "population_year": 2020
   },
   {
@@ -7951,8 +9277,25 @@
     "wikiDataId": "Q2890103",
     "type": "locality",
     "native": "Tecpatán",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 4950,
+    "population_year": 2020
+  },
+  {
+    "id": 168894,
+    "name": "Tecpatán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.16666667",
+    "longitude": "-93.36666667",
+    "county_id": null,
+    "wikiDataId": "Q651456",
+    "type": "municipality",
+    "native": "Tecpatán",
+    "timezone": "America/Mexico_City",
+    "population": 21426,
     "population_year": 2020
   },
   {
@@ -7971,6 +9314,23 @@
     "timezone": "America/Mexico_City",
     "population": 4633,
     "population_year": null
+  },
+  {
+    "id": 168895,
+    "name": "Tenejapa",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.83333333",
+    "longitude": "-92.46666667",
+    "county_id": null,
+    "wikiDataId": "Q376900",
+    "type": "municipality",
+    "native": "Tenejapa",
+    "timezone": "America/Mexico_City",
+    "population": 48162,
+    "population_year": 2020
   },
   {
     "id": 75371,
@@ -8002,9 +9362,26 @@
     "wikiDataId": "Q27767826",
     "type": "locality",
     "native": "Teopisca",
-    "timezone": "America/Merida",
-    "population": 16240,
-    "population_year": null
+    "timezone": "America/Mexico_City",
+    "population": 20044,
+    "population_year": 2020
+  },
+  {
+    "id": 168896,
+    "name": "Teopisca",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.55000000",
+    "longitude": "-92.51666667",
+    "county_id": null,
+    "wikiDataId": "Q2980027",
+    "type": "municipality",
+    "native": "Teopisca",
+    "timezone": "America/Mexico_City",
+    "population": 49499,
+    "population_year": 2020
   },
   {
     "id": 75506,
@@ -8053,8 +9430,25 @@
     "wikiDataId": "Q27767714",
     "type": "locality",
     "native": "Tila",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 9609,
+    "population_year": 2020
+  },
+  {
+    "id": 168897,
+    "name": "Tila",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.36666667",
+    "longitude": "-92.50000000",
+    "county_id": null,
+    "wikiDataId": "Q1953228",
+    "type": "municipality",
+    "native": "Tila",
+    "timezone": "America/Mexico_City",
+    "population": 83505,
     "population_year": 2020
   },
   {
@@ -8126,6 +9520,23 @@
     "population_year": 2020
   },
   {
+    "id": 168898,
+    "name": "Tonalá",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.98333333",
+    "longitude": "-93.66666667",
+    "county_id": null,
+    "wikiDataId": "Q2636407",
+    "type": "municipality",
+    "native": "Tonalá",
+    "timezone": "America/Mexico_City",
+    "population": 91913,
+    "population_year": 2020
+  },
+  {
     "id": 75750,
     "name": "Totolapa",
     "state_id": 3451,
@@ -8138,8 +9549,25 @@
     "wikiDataId": "Q2595443",
     "type": "locality",
     "native": "Totolapa",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 4600,
+    "population_year": 2020
+  },
+  {
+    "id": 168899,
+    "name": "Totolapa",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.50000000",
+    "longitude": "-92.66666667",
+    "county_id": null,
+    "wikiDataId": "Q20219674",
+    "type": "municipality",
+    "native": "Totolapa",
+    "timezone": "America/Mexico_City",
+    "population": 7211,
     "population_year": 2020
   },
   {
@@ -8194,6 +9622,23 @@
     "population_year": 2020
   },
   {
+    "id": 168901,
+    "name": "Tumbalá",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "17.30000000",
+    "longitude": "-92.25000000",
+    "county_id": null,
+    "wikiDataId": "Q204609",
+    "type": "municipality",
+    "native": "Tumbalá",
+    "timezone": "America/Mexico_City",
+    "population": 38025,
+    "population_year": 2020
+  },
+  {
     "id": 75825,
     "name": "Tuxtla",
     "state_id": 3451,
@@ -8206,7 +9651,7 @@
     "wikiDataId": "Q207429",
     "type": "locality",
     "native": "Tuxtla",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 578830,
     "population_year": 2020
   },
@@ -8228,6 +9673,40 @@
     "population_year": 2020
   },
   {
+    "id": 168903,
+    "name": "Tuxtla Chico",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "14.88333333",
+    "longitude": "-92.20000000",
+    "county_id": null,
+    "wikiDataId": "Q1953245",
+    "type": "municipality",
+    "native": "Tuxtla Chico",
+    "timezone": "America/Mexico_City",
+    "population": 41024,
+    "population_year": 2020
+  },
+  {
+    "id": 168902,
+    "name": "Tuxtla Gutiérrez",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.73333333",
+    "longitude": "-93.13333333",
+    "county_id": null,
+    "wikiDataId": "Q2002727",
+    "type": "municipality",
+    "native": "Tuxtla Gutiérrez",
+    "timezone": "America/Mexico_City",
+    "population": 604147,
+    "population_year": 2020
+  },
+  {
     "id": 75831,
     "name": "Tuzantán",
     "state_id": 3451,
@@ -8242,6 +9721,23 @@
     "native": "Tuzantano",
     "timezone": "America/Mexico_City",
     "population": 3536,
+    "population_year": 2020
+  },
+  {
+    "id": 168904,
+    "name": "Tuzantán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.13333333",
+    "longitude": "-92.40000000",
+    "county_id": null,
+    "wikiDataId": "Q1785700",
+    "type": "municipality",
+    "native": "Tuzantán",
+    "timezone": "America/Mexico_City",
+    "population": 30302,
     "population_year": 2020
   },
   {
@@ -8325,7 +9821,7 @@
     "wikiDataId": "Q20290753",
     "type": "municipality",
     "native": "Tzimol",
-    "timezone": "America/Merida",
+    "timezone": "America/Mexico_City",
     "population": 5112,
     "population_year": null
   },
@@ -8483,6 +9979,23 @@
     "population_year": 2020
   },
   {
+    "id": 168905,
+    "name": "Unión Juárez",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "15.06666667",
+    "longitude": "-92.10000000",
+    "county_id": null,
+    "wikiDataId": "Q1953252",
+    "type": "municipality",
+    "native": "Unión Juárez",
+    "timezone": "America/Mexico_City",
+    "population": 16008,
+    "population_year": 2020
+  },
+  {
     "id": 75886,
     "name": "Unión Roja",
     "state_id": 3451,
@@ -8565,6 +10078,23 @@
     "native": "Venustiano Carranza",
     "timezone": "America/Mexico_City",
     "population": 16144,
+    "population_year": 2020
+  },
+  {
+    "id": 168906,
+    "name": "Venustiano Carranza",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.30000000",
+    "longitude": "-92.60000000",
+    "county_id": null,
+    "wikiDataId": "Q1785686",
+    "type": "municipality",
+    "native": "Venustiano Carranza",
+    "timezone": "America/Mexico_City",
+    "population": 67292,
     "population_year": 2020
   },
   {
@@ -8667,6 +10197,23 @@
     "native": "Villa Corzo",
     "timezone": "America/Mexico_City",
     "population": 11556,
+    "population_year": 2020
+  },
+  {
+    "id": 168907,
+    "name": "Villa Corzo",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.06666667",
+    "longitude": "-93.23333333",
+    "county_id": null,
+    "wikiDataId": "Q1575011",
+    "type": "municipality",
+    "native": "Villa Corzo",
+    "timezone": "America/Mexico_City",
+    "population": 65643,
     "population_year": 2020
   },
   {
@@ -8921,8 +10468,8 @@
     "type": "locality",
     "native": "Zacualpa",
     "timezone": "America/Mexico_City",
-    "population": 1076,
-    "population_year": null
+    "population": 1111,
+    "population_year": 2020
   },
   {
     "id": 76295,
@@ -8989,8 +10536,8 @@
     "type": "locality",
     "native": "Zequéntico",
     "timezone": "America/Mexico_City",
-    "population": 1201,
-    "population_year": null
+    "population": 1221,
+    "population_year": 2020
   },
   {
     "id": 76340,
@@ -9007,6 +10554,23 @@
     "native": "Zinacantán",
     "timezone": "America/Mexico_City",
     "population": 5575,
+    "population_year": 2020
+  },
+  {
+    "id": 168909,
+    "name": "Zinacantán",
+    "state_id": 3451,
+    "state_code": "CHP",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "16.71666667",
+    "longitude": "-92.78333333",
+    "county_id": null,
+    "wikiDataId": "Q1953270",
+    "type": "municipality",
+    "native": "Zinacantán",
+    "timezone": "America/Mexico_City",
+    "population": 45373,
     "population_year": 2020
   }
 ]

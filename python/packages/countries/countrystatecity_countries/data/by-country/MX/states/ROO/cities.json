@@ -68,6 +68,23 @@
     "population_year": null
   },
   {
+    "id": 170006,
+    "name": "Bacalar",
+    "state_id": 3467,
+    "state_code": "ROO",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "18.91666667",
+    "longitude": "-88.35000000",
+    "county_id": null,
+    "wikiDataId": "Q1709178",
+    "type": "municipality",
+    "native": "Bacalar",
+    "timezone": "America/Cancun",
+    "population": 41754,
+    "population_year": 2020
+  },
+  {
     "id": 68602,
     "name": "Benito Juárez",
     "state_id": 3467,
@@ -354,7 +371,24 @@
     "native": "Felipe Carrillo Puerto",
     "timezone": "America/Cancun",
     "population": 30754,
-    "population_year": null
+    "population_year": 2020
+  },
+  {
+    "id": 170003,
+    "name": "Felipe Carrillo Puerto",
+    "state_id": 3467,
+    "state_code": "ROO",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.73333333",
+    "longitude": "-88.05000000",
+    "county_id": null,
+    "wikiDataId": "Q1660454",
+    "type": "municipality",
+    "native": "Felipe Carrillo Puerto",
+    "timezone": "America/Cancun",
+    "population": 83990,
+    "population_year": 2020
   },
   {
     "id": 70749,
@@ -442,6 +476,23 @@
     "population_year": 2020
   },
   {
+    "id": 170004,
+    "name": "Isla Mujeres",
+    "state_id": 3467,
+    "state_code": "ROO",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.40000000",
+    "longitude": "-86.91666667",
+    "county_id": null,
+    "wikiDataId": "Q927815",
+    "type": "municipality",
+    "native": "Isla Mujeres",
+    "timezone": "America/Cancun",
+    "population": 22686,
+    "population_year": 2020
+  },
+  {
     "id": 71015,
     "name": "Javier Rojo Gómez",
     "state_id": 3467,
@@ -473,6 +524,23 @@
     "native": "José María Morelos",
     "timezone": "America/Cancun",
     "population": 13332,
+    "population_year": 2020
+  },
+  {
+    "id": 170005,
+    "name": "José María Morelos",
+    "state_id": 3467,
+    "state_code": "ROO",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.70000000",
+    "longitude": "-88.83333333",
+    "county_id": null,
+    "wikiDataId": "Q285499",
+    "type": "municipality",
+    "native": "José María Morelos",
+    "timezone": "America/Cancun",
+    "population": 39165,
     "population_year": 2020
   },
   {
@@ -541,7 +609,7 @@
     "native": "Kantunilkín",
     "timezone": "America/Cancun",
     "population": 8135,
-    "population_year": null
+    "population_year": 2020
   },
   {
     "id": 71460,
@@ -609,7 +677,7 @@
     "native": "Vicario de Leona",
     "timezone": "America/Cancun",
     "population": 7028,
-    "population_year": null
+    "population_year": 2020
   },
   {
     "id": 71797,
@@ -796,6 +864,23 @@
     "native": "Puerto Aventuras",
     "timezone": "America/Cancun",
     "population": 22878,
+    "population_year": 2020
+  },
+  {
+    "id": 170007,
+    "name": "Puerto Morelos",
+    "state_id": 3467,
+    "state_code": "ROO",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.91666667",
+    "longitude": "-87.10000000",
+    "county_id": null,
+    "wikiDataId": "Q21451666",
+    "type": "municipality",
+    "native": "Puerto Morelos",
+    "timezone": "America/Cancun",
+    "population": 26921,
     "population_year": 2020
   },
   {
@@ -1084,7 +1169,7 @@
     "type": "locality",
     "native": "Zona Urbana Ejido Isla Mujeres",
     "timezone": "America/Cancun",
-    "population": 2653,
-    "population_year": null
+    "population": 6668,
+    "population_year": 2020
   }
 ]

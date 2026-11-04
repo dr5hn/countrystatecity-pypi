@@ -1,5 +1,22 @@
 [
   {
+    "id": 170365,
+    "name": "Abalá",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.65000000",
+    "longitude": "-89.65000000",
+    "county_id": null,
+    "wikiDataId": "Q2991303",
+    "type": "municipality",
+    "native": "Abalá",
+    "timezone": "America/Merida",
+    "population": 6550,
+    "population_year": 2020
+  },
+  {
     "id": 68010,
     "name": "Abalá",
     "state_id": 3466,
@@ -31,6 +48,40 @@
     "native": "Acanceh",
     "timezone": "America/Merida",
     "population": 11917,
+    "population_year": 2020
+  },
+  {
+    "id": 170366,
+    "name": "Acanceh",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.81666667",
+    "longitude": "-89.45000000",
+    "county_id": null,
+    "wikiDataId": "Q2672565",
+    "type": "municipality",
+    "native": "Acanceh",
+    "timezone": "America/Merida",
+    "population": 16772,
+    "population_year": 2020
+  },
+  {
+    "id": 170367,
+    "name": "Akil",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.26666667",
+    "longitude": "-89.35000000",
+    "county_id": null,
+    "wikiDataId": "Q2575611",
+    "type": "municipality",
+    "native": "Akil",
+    "timezone": "America/Merida",
+    "population": 12285,
     "population_year": 2020
   },
   {
@@ -68,6 +119,23 @@
     "population_year": 2020
   },
   {
+    "id": 170368,
+    "name": "Baca",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.13333333",
+    "longitude": "-89.40000000",
+    "county_id": null,
+    "wikiDataId": "Q2575651",
+    "type": "municipality",
+    "native": "Baca",
+    "timezone": "America/Merida",
+    "population": 6195,
+    "population_year": 2020
+  },
+  {
     "id": 68569,
     "name": "Becanchén",
     "state_id": 3466,
@@ -97,6 +165,23 @@
     "wikiDataId": "Q8250474",
     "type": "locality",
     "native": "Bokoba",
+    "timezone": "America/Merida",
+    "population": 2167,
+    "population_year": 2020
+  },
+  {
+    "id": 170369,
+    "name": "Bokobá",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.99166667",
+    "longitude": "-89.17500000",
+    "county_id": null,
+    "wikiDataId": "Q2576175",
+    "type": "municipality",
+    "native": "Bokobá",
     "timezone": "America/Merida",
     "population": 2167,
     "population_year": 2020
@@ -133,6 +218,40 @@
     "native": "Buctzotz",
     "timezone": "America/Merida",
     "population": 7973,
+    "population_year": 2020
+  },
+  {
+    "id": 170370,
+    "name": "Buctzotz",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.21666667",
+    "longitude": "-88.66666667",
+    "county_id": null,
+    "wikiDataId": "Q2093664",
+    "type": "municipality",
+    "native": "Buctzotz",
+    "timezone": "America/Merida",
+    "population": 9159,
+    "population_year": 2020
+  },
+  {
+    "id": 170371,
+    "name": "Cacalchén",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.98333333",
+    "longitude": "-89.25000000",
+    "county_id": null,
+    "wikiDataId": "Q2576145",
+    "type": "municipality",
+    "native": "Cacalchén",
+    "timezone": "America/Merida",
+    "population": 7490,
     "population_year": 2020
   },
   {
@@ -180,9 +299,9 @@
     "longitude": "-88.12581000",
     "county_id": null,
     "wikiDataId": "Q2575635",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Calotmul",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 2764,
     "population_year": null
   },
@@ -221,6 +340,23 @@
     "population_year": 2020
   },
   {
+    "id": 170372,
+    "name": "Cansahcab",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.16666667",
+    "longitude": "-89.06666667",
+    "county_id": null,
+    "wikiDataId": "Q2669271",
+    "type": "municipality",
+    "native": "Cansahcab",
+    "timezone": "America/Merida",
+    "population": 4466,
+    "population_year": 2020
+  },
+  {
     "id": 68794,
     "name": "Cantamayec",
     "state_id": 3466,
@@ -231,9 +367,9 @@
     "longitude": "-89.07176000",
     "county_id": null,
     "wikiDataId": "Q2575621",
-    "type": "city",
+    "type": "municipality",
     "native": "Cantamayec",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 1695,
     "population_year": null
   },
@@ -251,8 +387,8 @@
     "type": "locality",
     "native": "Caucel",
     "timezone": "America/Merida",
-    "population": 6988,
-    "population_year": null
+    "population": 8823,
+    "population_year": 2020
   },
   {
     "id": 68893,
@@ -268,8 +404,42 @@
     "type": "locality",
     "native": "Celestún",
     "timezone": "America/Merida",
+    "population": 8366,
+    "population_year": 2020
+  },
+  {
+    "id": 170373,
+    "name": "Celestún",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.91666667",
+    "longitude": "-90.26666667",
+    "county_id": null,
+    "wikiDataId": "Q2466510",
+    "type": "municipality",
+    "native": "Celestún",
+    "timezone": "America/Merida",
     "population": 8389,
-    "population_year": null
+    "population_year": 2020
+  },
+  {
+    "id": 170374,
+    "name": "Cenotillo",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.03333333",
+    "longitude": "-88.58333333",
+    "county_id": null,
+    "wikiDataId": "Q2575695",
+    "type": "municipality",
+    "native": "Cenotillo",
+    "timezone": "America/Merida",
+    "population": 3736,
+    "population_year": 2020
   },
   {
     "id": 68897,
@@ -285,8 +455,8 @@
     "type": "locality",
     "native": "Cenotillo",
     "timezone": "America/Merida",
-    "population": 3272,
-    "population_year": null
+    "population": 3328,
+    "population_year": 2020
   },
   {
     "id": 68903,
@@ -302,8 +472,8 @@
     "type": "locality",
     "native": "Cepeda",
     "timezone": "America/Merida",
-    "population": 3064,
-    "population_year": null
+    "population": 3685,
+    "population_year": 2020
   },
   {
     "id": 68942,
@@ -319,8 +489,8 @@
     "type": "locality",
     "native": "Chablekal",
     "timezone": "America/Merida",
-    "population": 3626,
-    "population_year": null
+    "population": 5034,
+    "population_year": 2020
   },
   {
     "id": 68950,
@@ -337,6 +507,23 @@
     "native": "Chacsín",
     "timezone": "America/Merida",
     "population": 2860,
+    "population_year": 2020
+  },
+  {
+    "id": 170377,
+    "name": "Chacsinkín",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.20000000",
+    "longitude": "-89.01666667",
+    "county_id": null,
+    "wikiDataId": "Q2577505",
+    "type": "municipality",
+    "native": "Chacsinkín",
+    "timezone": "America/Merida",
+    "population": 3104,
     "population_year": 2020
   },
   {
@@ -384,9 +571,9 @@
     "longitude": "-89.46779000",
     "county_id": null,
     "wikiDataId": "Q2577517",
-    "type": "city",
+    "type": "municipality",
     "native": "Chaple",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 2141,
     "population_year": null
   },
@@ -425,6 +612,23 @@
     "population_year": 2020
   },
   {
+    "id": 170378,
+    "name": "Chemax",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.73333333",
+    "longitude": "-87.81666667",
+    "county_id": null,
+    "wikiDataId": "Q2669535",
+    "type": "municipality",
+    "native": "Chemax",
+    "timezone": "America/Merida",
+    "population": 38934,
+    "population_year": 2020
+  },
+  {
     "id": 69033,
     "name": "Chichén-Itzá",
     "state_id": 3466,
@@ -456,6 +660,40 @@
     "native": "Chichimila",
     "timezone": "America/Merida",
     "population": 6540,
+    "population_year": 2020
+  },
+  {
+    "id": 170380,
+    "name": "Chichimilá",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.46666667",
+    "longitude": "-88.16666667",
+    "county_id": null,
+    "wikiDataId": "Q2093657",
+    "type": "municipality",
+    "native": "Chichimilá",
+    "timezone": "America/Merida",
+    "population": 9406,
+    "population_year": 2020
+  },
+  {
+    "id": 170379,
+    "name": "Chicxulub Pueblo",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.15000000",
+    "longitude": "-89.51666667",
+    "county_id": null,
+    "wikiDataId": "Q2533073",
+    "type": "municipality",
+    "native": "Chicxulub Pueblo",
+    "timezone": "America/Merida",
+    "population": 4497,
     "population_year": 2020
   },
   {
@@ -510,6 +748,40 @@
     "population_year": 2020
   },
   {
+    "id": 170381,
+    "name": "Chikindzonot",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.25000000",
+    "longitude": "-88.53333333",
+    "county_id": null,
+    "wikiDataId": "Q2576895",
+    "type": "municipality",
+    "native": "Chikindzonot",
+    "timezone": "America/Merida",
+    "population": 4363,
+    "population_year": 2020
+  },
+  {
+    "id": 170382,
+    "name": "Chocholá",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.73660000",
+    "longitude": "-89.85310000",
+    "county_id": null,
+    "wikiDataId": "Q2576853",
+    "type": "municipality",
+    "native": "Chocholá",
+    "timezone": "America/Merida",
+    "population": 4863,
+    "population_year": 2020
+  },
+  {
     "id": 69098,
     "name": "Chocholá",
     "state_id": 3466,
@@ -540,8 +812,8 @@
     "type": "locality",
     "native": "Chol",
     "timezone": "America/Merida",
-    "population": 5880,
-    "population_year": null
+    "population": 11745,
+    "population_year": 2020
   },
   {
     "id": 69102,
@@ -592,6 +864,23 @@
     "native": "Chumayel",
     "timezone": "America/Merida",
     "population": 3237,
+    "population_year": 2020
+  },
+  {
+    "id": 170383,
+    "name": "Chumayel",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.46666667",
+    "longitude": "-89.28333333",
+    "county_id": null,
+    "wikiDataId": "Q2977898",
+    "type": "municipality",
+    "native": "Chumayel",
+    "timezone": "America/Merida",
+    "population": 3244,
     "population_year": 2020
   },
   {
@@ -659,8 +948,25 @@
     "type": "locality",
     "native": "Conkal",
     "timezone": "America/Merida",
-    "population": 7173,
-    "population_year": null
+    "population": 13944,
+    "population_year": 2020
+  },
+  {
+    "id": 170375,
+    "name": "Conkal",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.08333333",
+    "longitude": "-89.50000000",
+    "county_id": null,
+    "wikiDataId": "Q2575664",
+    "type": "municipality",
+    "native": "Conkal",
+    "timezone": "America/Merida",
+    "population": 16671,
+    "population_year": 2020
   },
   {
     "id": 69603,
@@ -690,9 +996,9 @@
     "longitude": "-88.34637000",
     "county_id": null,
     "wikiDataId": "Q2577445",
-    "type": "city",
+    "type": "municipality",
     "native": "Cuncunul",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 1314,
     "population_year": null
   },
@@ -711,6 +1017,40 @@
     "native": "Cuzama",
     "timezone": "America/Merida",
     "population": 4208,
+    "population_year": 2020
+  },
+  {
+    "id": 170376,
+    "name": "Cuzamá",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.71666667",
+    "longitude": "-89.35000000",
+    "county_id": null,
+    "wikiDataId": "Q2669255",
+    "type": "municipality",
+    "native": "Cuzamá",
+    "timezone": "America/Merida",
+    "population": 5560,
+    "population_year": 2020
+  },
+  {
+    "id": 170384,
+    "name": "Dzan",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.40000000",
+    "longitude": "-89.45000000",
+    "county_id": null,
+    "wikiDataId": "Q2576833",
+    "type": "municipality",
+    "native": "Dzan",
+    "timezone": "America/Merida",
+    "population": 6003,
     "population_year": 2020
   },
   {
@@ -744,8 +1084,25 @@
     "type": "locality",
     "native": "Dzemul",
     "timezone": "America/Merida",
-    "population": 3228,
-    "population_year": null
+    "population": 3467,
+    "population_year": 2020
+  },
+  {
+    "id": 170385,
+    "name": "Dzemul",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.25000000",
+    "longitude": "-89.35000000",
+    "county_id": null,
+    "wikiDataId": "Q2466529",
+    "type": "municipality",
+    "native": "Dzemul",
+    "timezone": "America/Merida",
+    "population": 3622,
+    "population_year": 2020
   },
   {
     "id": 69736,
@@ -778,8 +1135,25 @@
     "type": "locality",
     "native": "Dzidzantun",
     "timezone": "America/Merida",
-    "population": 7393,
-    "population_year": null
+    "population": 7530,
+    "population_year": 2020
+  },
+  {
+    "id": 170386,
+    "name": "Dzidzantún",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.28333333",
+    "longitude": "-89.03333333",
+    "county_id": null,
+    "wikiDataId": "Q2466047",
+    "type": "municipality",
+    "native": "Dzidzantún",
+    "timezone": "America/Merida",
+    "population": 8345,
+    "population_year": 2020
   },
   {
     "id": 69740,
@@ -792,9 +1166,9 @@
     "longitude": "-88.66838000",
     "county_id": null,
     "wikiDataId": "Q2577531",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Bravo dzilam",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 2374,
     "population_year": null
   },
@@ -813,6 +1187,40 @@
     "native": "Dzilam González",
     "timezone": "America/Merida",
     "population": 6169,
+    "population_year": 2020
+  },
+  {
+    "id": 170387,
+    "name": "Dzilam González",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.33333333",
+    "longitude": "-88.75000000",
+    "county_id": null,
+    "wikiDataId": "Q2576873",
+    "type": "municipality",
+    "native": "Dzilam González",
+    "timezone": "America/Merida",
+    "population": 6240,
+    "population_year": 2020
+  },
+  {
+    "id": 170388,
+    "name": "Dzitás",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.81666667",
+    "longitude": "-88.55000000",
+    "county_id": null,
+    "wikiDataId": "Q2093649",
+    "type": "municipality",
+    "native": "Dzitás",
+    "timezone": "America/Merida",
+    "population": 4015,
     "population_year": 2020
   },
   {
@@ -877,9 +1285,9 @@
     "longitude": "-88.85402000",
     "county_id": null,
     "wikiDataId": "Q2576165",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Dzoncauich",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 2318,
     "population_year": null
   },
@@ -914,8 +1322,8 @@
     "type": "locality",
     "native": "Dzununcan",
     "timezone": "America/Merida",
-    "population": 1802,
-    "population_year": null
+    "population": 2388,
+    "population_year": 2020
   },
   {
     "id": 69820,
@@ -931,8 +1339,8 @@
     "type": "locality",
     "native": "Ekmul",
     "timezone": "America/Merida",
-    "population": 2168,
-    "population_year": null
+    "population": 2303,
+    "population_year": 2020
   },
   {
     "id": 69821,
@@ -1003,6 +1411,23 @@
     "population_year": 2020
   },
   {
+    "id": 170389,
+    "name": "Espita",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.01666667",
+    "longitude": "-88.35000000",
+    "county_id": null,
+    "wikiDataId": "Q2977919",
+    "type": "municipality",
+    "native": "Espita",
+    "timezone": "America/Merida",
+    "population": 16779,
+    "population_year": 2020
+  },
+  {
     "id": 70378,
     "name": "Euán",
     "state_id": 3466,
@@ -1037,6 +1462,40 @@
     "population_year": 2020
   },
   {
+    "id": 170390,
+    "name": "Halachó",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.55000000",
+    "longitude": "-90.18333333",
+    "county_id": null,
+    "wikiDataId": "Q3008522",
+    "type": "municipality",
+    "native": "Halachó",
+    "timezone": "America/Merida",
+    "population": 21255,
+    "population_year": 2020
+  },
+  {
+    "id": 170391,
+    "name": "Hocabá",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.80000000",
+    "longitude": "-89.25000000",
+    "county_id": null,
+    "wikiDataId": "Q942117",
+    "type": "municipality",
+    "native": "Hocabá",
+    "timezone": "America/Merida",
+    "population": 6514,
+    "population_year": 2020
+  },
+  {
     "id": 70699,
     "name": "Hocaba",
     "state_id": 3466,
@@ -1050,8 +1509,8 @@
     "type": "locality",
     "native": "Hocaba",
     "timezone": "America/Merida",
-    "population": 4127,
-    "population_year": null
+    "population": 4397,
+    "population_year": 2020
   },
   {
     "id": 70701,
@@ -1067,8 +1526,25 @@
     "type": "locality",
     "native": "Hoctún",
     "timezone": "America/Merida",
-    "population": 4686,
-    "population_year": null
+    "population": 5151,
+    "population_year": 2020
+  },
+  {
+    "id": 170392,
+    "name": "Hoctún",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.86666667",
+    "longitude": "-89.15000000",
+    "county_id": null,
+    "wikiDataId": "Q2577430",
+    "type": "municipality",
+    "native": "Hoctún",
+    "timezone": "America/Merida",
+    "population": 6384,
+    "population_year": 2020
   },
   {
     "id": 70703,
@@ -1105,6 +1581,40 @@
     "population_year": 2020
   },
   {
+    "id": 170393,
+    "name": "Homún",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.68333333",
+    "longitude": "-89.25000000",
+    "county_id": null,
+    "wikiDataId": "Q2577417",
+    "type": "municipality",
+    "native": "Homún",
+    "timezone": "America/Merida",
+    "population": 8090,
+    "population_year": 2020
+  },
+  {
+    "id": 170394,
+    "name": "Huhí",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.70000000",
+    "longitude": "-89.15000000",
+    "county_id": null,
+    "wikiDataId": "Q2588050",
+    "type": "municipality",
+    "native": "Huhí",
+    "timezone": "America/Merida",
+    "population": 5250,
+    "population_year": 2020
+  },
+  {
     "id": 70786,
     "name": "Huhi",
     "state_id": 3466,
@@ -1135,8 +1645,25 @@
     "type": "locality",
     "native": "Hunuhem",
     "timezone": "America/Merida",
-    "population": 24910,
-    "population_year": null
+    "population": 28412,
+    "population_year": 2020
+  },
+  {
+    "id": 170395,
+    "name": "Hunucmá",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.06666667",
+    "longitude": "-90.00000000",
+    "county_id": null,
+    "wikiDataId": "Q979568",
+    "type": "municipality",
+    "native": "Hunucmá",
+    "timezone": "America/Merida",
+    "population": 35137,
+    "population_year": 2020
   },
   {
     "id": 70824,
@@ -1168,7 +1695,7 @@
     "wikiDataId": "Q5795731",
     "type": "city",
     "native": "Itzincab Palomeque",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 5013,
     "population_year": null
   },
@@ -1187,6 +1714,40 @@
     "native": "Ixil",
     "timezone": "America/Merida",
     "population": 4115,
+    "population_year": 2020
+  },
+  {
+    "id": 170396,
+    "name": "Ixil",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.23333333",
+    "longitude": "-89.46666667",
+    "county_id": null,
+    "wikiDataId": "Q3293973",
+    "type": "municipality",
+    "native": "Ixil",
+    "timezone": "America/Merida",
+    "population": 4186,
+    "population_year": 2020
+  },
+  {
+    "id": 170397,
+    "name": "Izamal",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.90000000",
+    "longitude": "-89.00000000",
+    "county_id": null,
+    "wikiDataId": "Q2576941",
+    "type": "municipality",
+    "native": "Izamal",
+    "timezone": "America/Merida",
+    "population": 28555,
     "population_year": 2020
   },
   {
@@ -1220,8 +1781,25 @@
     "type": "locality",
     "native": "Kanasin",
     "timezone": "America/Merida",
-    "population": 77240,
-    "population_year": null
+    "population": 139753,
+    "population_year": 2020
+  },
+  {
+    "id": 170398,
+    "name": "Kanasín",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.91666667",
+    "longitude": "-89.53333333",
+    "county_id": null,
+    "wikiDataId": "Q527371",
+    "type": "municipality",
+    "native": "Kanasín",
+    "timezone": "America/Merida",
+    "population": 141939,
+    "population_year": 2020
   },
   {
     "id": 71151,
@@ -1258,6 +1836,23 @@
     "population_year": 2020
   },
   {
+    "id": 170399,
+    "name": "Kantunil",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.75000000",
+    "longitude": "-88.98333333",
+    "county_id": null,
+    "wikiDataId": "Q2577493",
+    "type": "municipality",
+    "native": "Kantunil",
+    "timezone": "America/Merida",
+    "population": 5553,
+    "population_year": 2020
+  },
+  {
     "id": 71155,
     "name": "Kanxoc",
     "state_id": 3466,
@@ -1287,8 +1882,25 @@
     "wikiDataId": "Q5958688",
     "type": "locality",
     "native": "Kaua",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 2879,
+    "population_year": 2020
+  },
+  {
+    "id": 170400,
+    "name": "Kaua",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.60000000",
+    "longitude": "-88.43333333",
+    "county_id": null,
+    "wikiDataId": "Q2466571",
+    "type": "municipality",
+    "native": "Kaua",
+    "timezone": "America/Merida",
+    "population": 3405,
     "population_year": 2020
   },
   {
@@ -1326,6 +1938,23 @@
     "population_year": 2020
   },
   {
+    "id": 170401,
+    "name": "Kinchil",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.83333333",
+    "longitude": "-90.05000000",
+    "county_id": null,
+    "wikiDataId": "Q2588104",
+    "type": "municipality",
+    "native": "Kinchil",
+    "timezone": "America/Merida",
+    "population": 7530,
+    "population_year": 2020
+  },
+  {
     "id": 71162,
     "name": "Kini",
     "state_id": 3466,
@@ -1339,8 +1968,8 @@
     "type": "locality",
     "native": "Kini",
     "timezone": "America/Merida",
-    "population": 1581,
-    "population_year": null
+    "population": 1737,
+    "population_year": 2020
   },
   {
     "id": 71163,
@@ -1390,8 +2019,8 @@
     "type": "locality",
     "native": "El komchén",
     "timezone": "America/Merida",
-    "population": 4259,
-    "population_year": null
+    "population": 5598,
+    "population_year": 2020
   },
   {
     "id": 71166,
@@ -1408,6 +2037,23 @@
     "native": "Kopomá",
     "timezone": "America/Merida",
     "population": 2211,
+    "population_year": 2020
+  },
+  {
+    "id": 170402,
+    "name": "Kopomá",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.63333333",
+    "longitude": "-89.90000000",
+    "county_id": null,
+    "wikiDataId": "Q2588202",
+    "type": "municipality",
+    "native": "Kopomá",
+    "timezone": "America/Merida",
+    "population": 2677,
     "population_year": 2020
   },
   {
@@ -1458,8 +2104,8 @@
     "type": "locality",
     "native": "Lepan",
     "timezone": "America/Merida",
-    "population": 1240,
-    "population_year": null
+    "population": 1376,
+    "population_year": 2020
   },
   {
     "id": 71673,
@@ -1492,8 +2138,8 @@
     "type": "locality",
     "native": "Loché",
     "timezone": "America/Merida",
-    "population": 1237,
-    "population_year": null
+    "population": 1492,
+    "population_year": 2020
   },
   {
     "id": 71950,
@@ -1510,6 +2156,40 @@
     "native": "Mamá",
     "timezone": "America/Merida",
     "population": 3189,
+    "population_year": 2020
+  },
+  {
+    "id": 170403,
+    "name": "Mama",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.50000000",
+    "longitude": "-89.38333333",
+    "county_id": null,
+    "wikiDataId": "Q2588150",
+    "type": "municipality",
+    "native": "Mama",
+    "timezone": "America/Merida",
+    "population": 3296,
+    "population_year": 2020
+  },
+  {
+    "id": 170404,
+    "name": "Maní",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.38333333",
+    "longitude": "-89.36666667",
+    "county_id": null,
+    "wikiDataId": "Q2000512",
+    "type": "municipality",
+    "native": "Maní",
+    "timezone": "America/Merida",
+    "population": 5968,
     "population_year": 2020
   },
   {
@@ -1543,8 +2223,42 @@
     "type": "locality",
     "native": "Maxcanunu",
     "timezone": "America/Merida",
-    "population": 12621,
-    "population_year": null
+    "population": 13965,
+    "population_year": 2020
+  },
+  {
+    "id": 170405,
+    "name": "Maxcanú",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.60000000",
+    "longitude": "-90.10000000",
+    "county_id": null,
+    "wikiDataId": "Q2651851",
+    "type": "municipality",
+    "native": "Maxcanú",
+    "timezone": "America/Merida",
+    "population": 23991,
+    "population_year": 2020
+  },
+  {
+    "id": 170406,
+    "name": "Mayapán",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.48333333",
+    "longitude": "-89.18333333",
+    "county_id": null,
+    "wikiDataId": "Q2764644",
+    "type": "municipality",
+    "native": "Mayapán",
+    "timezone": "America/Merida",
+    "population": 3965,
+    "population_year": 2020
   },
   {
     "id": 72032,
@@ -1576,9 +2290,43 @@
     "wikiDataId": "Q165204",
     "type": "locality",
     "native": "Mérida",
-    "timezone": "America/Mexico_City",
-    "population": 892363,
-    "population_year": null
+    "timezone": "America/Merida",
+    "population": 921771,
+    "population_year": 2020
+  },
+  {
+    "id": 170407,
+    "name": "Mérida",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.95000000",
+    "longitude": "-89.61666667",
+    "county_id": null,
+    "wikiDataId": "Q2651972",
+    "type": "municipality",
+    "native": "Mérida",
+    "timezone": "America/Merida",
+    "population": 995129,
+    "population_year": 2020
+  },
+  {
+    "id": 170408,
+    "name": "Mocochá",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.13333333",
+    "longitude": "-89.45000000",
+    "county_id": null,
+    "wikiDataId": "Q2588114",
+    "type": "municipality",
+    "native": "Mocochá",
+    "timezone": "America/Merida",
+    "population": 3430,
+    "population_year": 2020
   },
   {
     "id": 72174,
@@ -1594,8 +2342,8 @@
     "type": "locality",
     "native": "Mococha",
     "timezone": "America/Merida",
-    "population": 2042,
-    "population_year": null
+    "population": 2293,
+    "population_year": 2020
   },
   {
     "id": 72182,
@@ -1611,8 +2359,8 @@
     "type": "locality",
     "native": "Molas",
     "timezone": "America/Merida",
-    "population": 2014,
-    "population_year": null
+    "population": 2401,
+    "population_year": 2020
   },
   {
     "id": 72242,
@@ -1630,6 +2378,40 @@
     "timezone": "America/Merida",
     "population": 23240,
     "population_year": null
+  },
+  {
+    "id": 170409,
+    "name": "Motul",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.15000000",
+    "longitude": "-89.26666667",
+    "county_id": null,
+    "wikiDataId": "Q1905586",
+    "type": "municipality",
+    "native": "Motul",
+    "timezone": "America/Merida",
+    "population": 37804,
+    "population_year": 2020
+  },
+  {
+    "id": 170410,
+    "name": "Muna",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.46666667",
+    "longitude": "-89.75000000",
+    "county_id": null,
+    "wikiDataId": "Q2588047",
+    "type": "municipality",
+    "native": "Muna",
+    "timezone": "America/Merida",
+    "population": 13494,
+    "population_year": 2020
   },
   {
     "id": 72253,
@@ -1744,9 +2526,9 @@
     "longitude": "-89.44600000",
     "county_id": null,
     "wikiDataId": "Q2990961",
-    "type": "city",
+    "type": "municipality",
     "native": "Oxkutzcab",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 23096,
     "population_year": null
   },
@@ -1760,7 +2542,7 @@
     "latitude": "20.30734000",
     "longitude": "-89.41809000",
     "county_id": null,
-    "wikiDataId": null,
+    "wikiDataId": "Q2199354",
     "type": "city",
     "native": "Oxkutzkab",
     "timezone": "America/Merida",
@@ -1782,6 +2564,23 @@
     "native": "Panaba",
     "timezone": "America/Merida",
     "population": 5318,
+    "population_year": 2020
+  },
+  {
+    "id": 170411,
+    "name": "Panabá",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.33333333",
+    "longitude": "-88.30000000",
+    "county_id": null,
+    "wikiDataId": "Q2669285",
+    "type": "municipality",
+    "native": "Panabá",
+    "timezone": "America/Merida",
+    "population": 7766,
     "population_year": 2020
   },
   {
@@ -1904,6 +2703,23 @@
     "population_year": 2020
   },
   {
+    "id": 170412,
+    "name": "Progreso",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.21666667",
+    "longitude": "-89.66666667",
+    "county_id": null,
+    "wikiDataId": "Q2448553",
+    "type": "municipality",
+    "native": "Progreso",
+    "timezone": "America/Merida",
+    "population": 66008,
+    "population_year": 2020
+  },
+  {
     "id": 73001,
     "name": "Pustunich",
     "state_id": 3466,
@@ -1931,9 +2747,9 @@
     "longitude": "-88.65081000",
     "county_id": null,
     "wikiDataId": "Q2588077",
-    "type": "adm2",
+    "type": "municipality",
     "native": "Quintana Roo",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 942,
     "population_year": null
   },
@@ -1952,6 +2768,40 @@
     "native": "Río Lagartos",
     "timezone": "America/Merida",
     "population": 2493,
+    "population_year": 2020
+  },
+  {
+    "id": 170413,
+    "name": "Río Lagartos",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.53333333",
+    "longitude": "-88.11666667",
+    "county_id": null,
+    "wikiDataId": "Q2466579",
+    "type": "municipality",
+    "native": "Río Lagartos",
+    "timezone": "America/Merida",
+    "population": 3974,
+    "population_year": 2020
+  },
+  {
+    "id": 170414,
+    "name": "Sacalum",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.51666667",
+    "longitude": "-89.61666667",
+    "county_id": null,
+    "wikiDataId": "Q2588060",
+    "type": "municipality",
+    "native": "Sacalum",
+    "timezone": "America/Merida",
+    "population": 4962,
     "population_year": 2020
   },
   {
@@ -2001,7 +2851,7 @@
     "wikiDataId": "Q2588196",
     "type": "municipality",
     "native": "Samahil",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 5631,
     "population_year": 2020
   },
@@ -2020,6 +2870,23 @@
     "native": "San Antonio Tedzidz",
     "timezone": "America/Merida",
     "population": 1284,
+    "population_year": 2020
+  },
+  {
+    "id": 170415,
+    "name": "San Felipe",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.50000000",
+    "longitude": "-88.33333333",
+    "county_id": null,
+    "wikiDataId": "Q2669540",
+    "type": "municipality",
+    "native": "San Felipe",
+    "timezone": "America/Merida",
+    "population": 2118,
     "population_year": 2020
   },
   {
@@ -2053,8 +2920,8 @@
     "type": "locality",
     "native": "San José Tzal",
     "timezone": "America/Merida",
-    "population": 3543,
-    "population_year": null
+    "population": 4428,
+    "population_year": 2020
   },
   {
     "id": 74324,
@@ -2101,7 +2968,7 @@
     "longitude": "-89.21091000",
     "county_id": null,
     "wikiDataId": "Q2588037",
-    "type": "city",
+    "type": "municipality",
     "native": "Sanahcat",
     "timezone": "America/Merida",
     "population": 1619,
@@ -2121,8 +2988,25 @@
     "type": "locality",
     "native": "Santa Elena",
     "timezone": "America/Merida",
-    "population": 3833,
-    "population_year": null
+    "population": 3767,
+    "population_year": 2020
+  },
+  {
+    "id": 170416,
+    "name": "Santa Elena",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.25000000",
+    "longitude": "-89.73333333",
+    "county_id": null,
+    "wikiDataId": "Q776539",
+    "type": "municipality",
+    "native": "Santa Elena",
+    "timezone": "America/Merida",
+    "population": 4220,
+    "population_year": 2020
   },
   {
     "id": 74707,
@@ -2176,6 +3060,23 @@
     "population_year": 2020
   },
   {
+    "id": 170417,
+    "name": "Seyé",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.85000000",
+    "longitude": "-89.36666667",
+    "county_id": null,
+    "wikiDataId": "Q2588093",
+    "type": "municipality",
+    "native": "Seyé",
+    "timezone": "America/Merida",
+    "population": 10053,
+    "population_year": 2020
+  },
+  {
     "id": 75073,
     "name": "Sierra Papacal",
     "state_id": 3466,
@@ -2207,6 +3108,23 @@
     "native": "Sinananche",
     "timezone": "America/Merida",
     "population": 2586,
+    "population_year": 2020
+  },
+  {
+    "id": 170418,
+    "name": "Sinanché",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.26666667",
+    "longitude": "-89.20000000",
+    "county_id": null,
+    "wikiDataId": "Q2588028",
+    "type": "municipality",
+    "native": "Sinanché",
+    "timezone": "America/Merida",
+    "population": 3206,
     "population_year": 2020
   },
   {
@@ -2274,8 +3192,42 @@
     "type": "locality",
     "native": "Sotuta",
     "timezone": "America/Merida",
-    "population": 5548,
-    "population_year": null
+    "population": 5758,
+    "population_year": 2020
+  },
+  {
+    "id": 170419,
+    "name": "Sotuta",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.61666667",
+    "longitude": "-89.00000000",
+    "county_id": null,
+    "wikiDataId": "Q2466117",
+    "type": "municipality",
+    "native": "Sotuta",
+    "timezone": "America/Merida",
+    "population": 8967,
+    "population_year": 2020
+  },
+  {
+    "id": 170420,
+    "name": "Sucilá",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.20000000",
+    "longitude": "-88.36666667",
+    "county_id": null,
+    "wikiDataId": "Q2591029",
+    "type": "municipality",
+    "native": "Sucilá",
+    "timezone": "America/Merida",
+    "population": 3971,
+    "population_year": 2020
   },
   {
     "id": 75143,
@@ -2324,7 +3276,7 @@
     "wikiDataId": "Q2591099",
     "type": "municipality",
     "native": "Sudzal",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 1949,
     "population_year": 2020
   },
@@ -2341,8 +3293,25 @@
     "wikiDataId": "Q6135440",
     "type": "locality",
     "native": "Suma",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 1847,
+    "population_year": 2020
+  },
+  {
+    "id": 170421,
+    "name": "Suma",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.10000000",
+    "longitude": "-89.15000000",
+    "county_id": null,
+    "wikiDataId": "Q2588127",
+    "type": "municipality",
+    "native": "Suma",
+    "timezone": "America/Merida",
+    "population": 1857,
     "population_year": 2020
   },
   {
@@ -2380,6 +3349,40 @@
     "population_year": 2020
   },
   {
+    "id": 170422,
+    "name": "Tahdziú",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.25000000",
+    "longitude": "-88.90000000",
+    "county_id": null,
+    "wikiDataId": "Q2588122",
+    "type": "municipality",
+    "native": "Tahdziú",
+    "timezone": "America/Merida",
+    "population": 5854,
+    "population_year": 2020
+  },
+  {
+    "id": 170423,
+    "name": "Tahmek",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.90000000",
+    "longitude": "-89.28333333",
+    "county_id": null,
+    "wikiDataId": "Q2588168",
+    "type": "municipality",
+    "native": "Tahmek",
+    "timezone": "America/Merida",
+    "population": 3774,
+    "population_year": 2020
+  },
+  {
     "id": 75171,
     "name": "Tahmek",
     "state_id": 3466,
@@ -2414,6 +3417,23 @@
     "population_year": 2020
   },
   {
+    "id": 170424,
+    "name": "Teabo",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.38333333",
+    "longitude": "-89.21666667",
+    "county_id": null,
+    "wikiDataId": "Q2978556",
+    "type": "municipality",
+    "native": "Teabo",
+    "timezone": "America/Merida",
+    "population": 6921,
+    "population_year": 2020
+  },
+  {
     "id": 75268,
     "name": "Tecax",
     "state_id": 3466,
@@ -2443,7 +3463,7 @@
     "wikiDataId": "Q2977881",
     "type": "municipality",
     "native": "Tecoh",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 17939,
     "population_year": 2020
   },
@@ -2462,6 +3482,23 @@
     "native": "Tempal de Venegas",
     "timezone": "America/Merida",
     "population": 2645,
+    "population_year": 2020
+  },
+  {
+    "id": 170425,
+    "name": "Tekal de Venegas",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.01666667",
+    "longitude": "-88.85000000",
+    "county_id": null,
+    "wikiDataId": "Q2591037",
+    "type": "municipality",
+    "native": "Tekal de Venegas",
+    "timezone": "America/Merida",
+    "population": 2683,
     "population_year": 2020
   },
   {
@@ -2494,7 +3531,7 @@
     "wikiDataId": "Q535727",
     "type": "municipality",
     "native": "Técnico",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 45062,
     "population_year": 2020
   },
@@ -2533,6 +3570,23 @@
     "population_year": 2020
   },
   {
+    "id": 170426,
+    "name": "Tekit",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.56666667",
+    "longitude": "-89.26666667",
+    "county_id": null,
+    "wikiDataId": "Q2588143",
+    "type": "municipality",
+    "native": "Tekit",
+    "timezone": "America/Merida",
+    "population": 11020,
+    "population_year": 2020
+  },
+  {
     "id": 75314,
     "name": "Tekoh",
     "state_id": 3466,
@@ -2564,6 +3618,40 @@
     "native": "Tekom",
     "timezone": "America/Merida",
     "population": 2785,
+    "population_year": 2020
+  },
+  {
+    "id": 170427,
+    "name": "Tekom",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.50000000",
+    "longitude": "-88.38333333",
+    "county_id": null,
+    "wikiDataId": "Q2657279",
+    "type": "municipality",
+    "native": "Tekom",
+    "timezone": "America/Merida",
+    "population": 3355,
+    "population_year": 2020
+  },
+  {
+    "id": 170428,
+    "name": "Telchac Pueblo",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.21666667",
+    "longitude": "-89.25000000",
+    "county_id": null,
+    "wikiDataId": "Q2669527",
+    "type": "municipality",
+    "native": "Telchac Pueblo",
+    "timezone": "America/Merida",
+    "population": 3512,
     "population_year": 2020
   },
   {
@@ -2601,6 +3689,23 @@
     "population_year": 2020
   },
   {
+    "id": 170429,
+    "name": "Telchac Puerto",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.30000000",
+    "longitude": "-89.28333333",
+    "county_id": null,
+    "wikiDataId": "Q2588176",
+    "type": "municipality",
+    "native": "Telchac Puerto",
+    "timezone": "America/Merida",
+    "population": 1915,
+    "population_year": 2020
+  },
+  {
     "id": 75318,
     "name": "Telchaquillo",
     "state_id": 3466,
@@ -2632,6 +3737,40 @@
     "native": "Temax",
     "timezone": "America/Merida",
     "population": 6472,
+    "population_year": 2020
+  },
+  {
+    "id": 170430,
+    "name": "Temax",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.16666667",
+    "longitude": "-88.86666667",
+    "county_id": null,
+    "wikiDataId": "Q2588006",
+    "type": "municipality",
+    "native": "Temax",
+    "timezone": "America/Merida",
+    "population": 7037,
+    "population_year": 2020
+  },
+  {
+    "id": 170431,
+    "name": "Temozón",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.90000000",
+    "longitude": "-88.05000000",
+    "county_id": null,
+    "wikiDataId": "Q2977927",
+    "type": "municipality",
+    "native": "Temozón",
+    "timezone": "America/Merida",
+    "population": 16680,
     "population_year": 2020
   },
   {
@@ -2669,6 +3808,23 @@
     "population_year": 2020
   },
   {
+    "id": 170432,
+    "name": "Tepakán",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.06666667",
+    "longitude": "-89.00000000",
+    "county_id": null,
+    "wikiDataId": "Q2588138",
+    "type": "municipality",
+    "native": "Tepakán",
+    "timezone": "America/Merida",
+    "population": 2133,
+    "population_year": 2020
+  },
+  {
     "id": 75472,
     "name": "Tesoco",
     "state_id": 3466,
@@ -2699,8 +3855,25 @@
     "type": "locality",
     "native": "Tethriz",
     "timezone": "America/Merida",
-    "population": 3939,
-    "population_year": null
+    "population": 4550,
+    "population_year": 2020
+  },
+  {
+    "id": 170433,
+    "name": "Tetiz",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.95000000",
+    "longitude": "-90.05000000",
+    "county_id": null,
+    "wikiDataId": "Q2588014",
+    "type": "municipality",
+    "native": "Tetiz",
+    "timezone": "America/Merida",
+    "population": 5464,
+    "population_year": 2020
   },
   {
     "id": 75499,
@@ -2731,6 +3904,23 @@
     "county_id": null,
     "wikiDataId": "Q6143772",
     "type": "locality",
+    "native": "Teya",
+    "timezone": "America/Merida",
+    "population": 1917,
+    "population_year": 2020
+  },
+  {
+    "id": 170434,
+    "name": "Teya",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.06666667",
+    "longitude": "-89.06666667",
+    "county_id": null,
+    "wikiDataId": "Q2591063",
+    "type": "municipality",
     "native": "Teya",
     "timezone": "America/Merida",
     "population": 1917,
@@ -2784,8 +3974,25 @@
     "type": "locality",
     "native": "Ticul",
     "timezone": "America/Merida",
-    "population": 32796,
-    "population_year": null
+    "population": 35183,
+    "population_year": 2020
+  },
+  {
+    "id": 170435,
+    "name": "Ticul",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.36666667",
+    "longitude": "-89.56666667",
+    "county_id": null,
+    "wikiDataId": "Q2657301",
+    "type": "municipality",
+    "native": "Ticul",
+    "timezone": "America/Merida",
+    "population": 40495,
+    "population_year": 2020
   },
   {
     "id": 75558,
@@ -2839,6 +4046,23 @@
     "population_year": 2020
   },
   {
+    "id": 170436,
+    "name": "Timucuy",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.76666667",
+    "longitude": "-89.53333333",
+    "county_id": null,
+    "wikiDataId": "Q2588085",
+    "type": "municipality",
+    "native": "Timucuy",
+    "timezone": "America/Merida",
+    "population": 7503,
+    "population_year": 2020
+  },
+  {
     "id": 75579,
     "name": "Tinum",
     "state_id": 3466,
@@ -2851,7 +4075,7 @@
     "wikiDataId": "Q386901",
     "type": "municipality",
     "native": "Tinum",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 12700,
     "population_year": 2020
   },
@@ -2868,7 +4092,7 @@
     "wikiDataId": "Q2588020",
     "type": "municipality",
     "native": "Tixcacalcupul",
-    "timezone": "America/Mexico_City",
+    "timezone": "America/Merida",
     "population": 7888,
     "population_year": 2020
   },
@@ -2886,8 +4110,8 @@
     "type": "locality",
     "native": "Tixcacaltuyub",
     "timezone": "America/Merida",
-    "population": 2146,
-    "population_year": null
+    "population": 2609,
+    "population_year": 2020
   },
   {
     "id": 75586,
@@ -2937,8 +4161,25 @@
     "type": "locality",
     "native": "Tixkokob",
     "timezone": "America/Merida",
-    "population": 10968,
-    "population_year": null
+    "population": 11904,
+    "population_year": 2020
+  },
+  {
+    "id": 170437,
+    "name": "Tixkokob",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.98333333",
+    "longitude": "-89.38333333",
+    "county_id": null,
+    "wikiDataId": "Q2656520",
+    "type": "municipality",
+    "native": "Tixkokob",
+    "timezone": "America/Merida",
+    "population": 18420,
+    "population_year": 2020
   },
   {
     "id": 75590,
@@ -2989,7 +4230,24 @@
     "native": "Tizimin",
     "timezone": "America/Merida",
     "population": 52593,
-    "population_year": null
+    "population_year": 2020
+  },
+  {
+    "id": 170438,
+    "name": "Tizimín",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.25000000",
+    "longitude": "-87.90000000",
+    "county_id": null,
+    "wikiDataId": "Q2552028",
+    "type": "municipality",
+    "native": "Tizimín",
+    "timezone": "America/Merida",
+    "population": 80672,
+    "population_year": 2020
   },
   {
     "id": 75810,
@@ -3009,6 +4267,23 @@
     "population_year": 2020
   },
   {
+    "id": 170439,
+    "name": "Tunkás",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.88333333",
+    "longitude": "-88.75000000",
+    "county_id": null,
+    "wikiDataId": "Q2657296",
+    "type": "municipality",
+    "native": "Tunkás",
+    "timezone": "America/Merida",
+    "population": 3684,
+    "population_year": 2020
+  },
+  {
     "id": 75854,
     "name": "Tzucacab",
     "state_id": 3466,
@@ -3023,6 +4298,23 @@
     "native": "Tzucacab",
     "timezone": "America/Merida",
     "population": 10879,
+    "population_year": 2020
+  },
+  {
+    "id": 170440,
+    "name": "Tzucacab",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "19.91666667",
+    "longitude": "-89.03333333",
+    "county_id": null,
+    "wikiDataId": "Q2656471",
+    "type": "municipality",
+    "native": "Tzucacab",
+    "timezone": "America/Merida",
+    "population": 15346,
     "population_year": 2020
   },
   {
@@ -3060,6 +4352,23 @@
     "population_year": 2020
   },
   {
+    "id": 170441,
+    "name": "Uayma",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.75000000",
+    "longitude": "-88.35000000",
+    "county_id": null,
+    "wikiDataId": "Q2591022",
+    "type": "municipality",
+    "native": "Uayma",
+    "timezone": "America/Merida",
+    "population": 4191,
+    "population_year": 2020
+  },
+  {
     "id": 75862,
     "name": "Uci",
     "state_id": 3466,
@@ -3094,6 +4403,23 @@
     "population_year": 2020
   },
   {
+    "id": 170442,
+    "name": "Ucú",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.06666667",
+    "longitude": "-89.78333333",
+    "county_id": null,
+    "wikiDataId": "Q2587999",
+    "type": "municipality",
+    "native": "Ucú",
+    "timezone": "America/Merida",
+    "population": 4049,
+    "population_year": 2020
+  },
+  {
     "id": 75866,
     "name": "Umán",
     "state_id": 3466,
@@ -3107,8 +4433,25 @@
     "type": "locality",
     "native": "UMAN",
     "timezone": "America/Merida",
-    "population": 39611,
-    "population_year": null
+    "population": 56409,
+    "population_year": 2020
+  },
+  {
+    "id": 170443,
+    "name": "Umán",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.85000000",
+    "longitude": "-89.76666667",
+    "county_id": null,
+    "wikiDataId": "Q2657285",
+    "type": "municipality",
+    "native": "Umán",
+    "timezone": "America/Merida",
+    "population": 69147,
+    "population_year": 2020
   },
   {
     "id": 75912,
@@ -3125,6 +4468,23 @@
     "native": "Valladolid",
     "timezone": "America/Merida",
     "population": 56494,
+    "population_year": 2020
+  },
+  {
+    "id": 170444,
+    "name": "Valladolid",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.61666667",
+    "longitude": "-88.13333333",
+    "county_id": null,
+    "wikiDataId": "Q2656439",
+    "type": "municipality",
+    "native": "Valladolid",
+    "timezone": "America/Merida",
+    "population": 85460,
     "population_year": 2020
   },
   {
@@ -3213,6 +4573,23 @@
     "population_year": 2020
   },
   {
+    "id": 170445,
+    "name": "Xocchel",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.80000000",
+    "longitude": "-89.13333333",
+    "county_id": null,
+    "wikiDataId": "Q2588160",
+    "type": "municipality",
+    "native": "Xocchel",
+    "timezone": "America/Merida",
+    "population": 3451,
+    "population_year": 2020
+  },
+  {
     "id": 76154,
     "name": "Xocen",
     "state_id": 3466,
@@ -3298,6 +4675,23 @@
     "population_year": 2020
   },
   {
+    "id": 170446,
+    "name": "Yaxcabá",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "20.48333333",
+    "longitude": "-88.78333333",
+    "county_id": null,
+    "wikiDataId": "Q2576158",
+    "type": "municipality",
+    "native": "Yaxcabá",
+    "timezone": "America/Merida",
+    "population": 16350,
+    "population_year": 2020
+  },
+  {
     "id": 76224,
     "name": "Yaxcopoil",
     "state_id": 3466,
@@ -3349,6 +4743,23 @@
     "population_year": 2020
   },
   {
+    "id": 170447,
+    "name": "Yaxkukul",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.05000000",
+    "longitude": "-89.45000000",
+    "county_id": null,
+    "wikiDataId": "Q2588068",
+    "type": "municipality",
+    "native": "Yaxkukul",
+    "timezone": "America/Merida",
+    "population": 3293,
+    "population_year": 2020
+  },
+  {
     "id": 76239,
     "name": "Yobain",
     "state_id": 3466,
@@ -3363,6 +4774,23 @@
     "native": "Yobain",
     "timezone": "America/Merida",
     "population": 1876,
+    "population_year": 2020
+  },
+  {
+    "id": 170448,
+    "name": "Yobaín",
+    "state_id": 3466,
+    "state_code": "YUC",
+    "country_id": 142,
+    "country_code": "MX",
+    "latitude": "21.28333333",
+    "longitude": "-89.11666667",
+    "county_id": null,
+    "wikiDataId": "Q2588184",
+    "type": "municipality",
+    "native": "Yobaín",
+    "timezone": "America/Merida",
+    "population": 2215,
     "population_year": 2020
   },
   {

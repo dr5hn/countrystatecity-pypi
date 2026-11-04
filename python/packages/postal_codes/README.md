@@ -7,7 +7,7 @@
 [![postal-codes](https://static.pepy.tech/personalized-badge/countrystatecity-postal-codes?period=month&units=international_system&left_color=grey&right_color=brightgreen&left_text=postal-codes)](https://pepy.tech/project/countrystatecity-postal-codes)
 [![postal-codes](https://static.pepy.tech/personalized-badge/countrystatecity-postal-codes?period=week&units=international_system&left_color=grey&right_color=brightgreen&left_text=postal-codes)](https://pepy.tech/project/countrystatecity-postal-codes)
 
-Official Python package for postal/ZIP code data — 725,993 postcode/locality records representing 578,033 distinct codes across 116 countries, plus format metadata for 250 countries and validation regexes for 184. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
+Official Python package for postal/ZIP code data — 728,556 postcode/locality records representing 580,593 distinct country/code pairs across 117 countries, plus format metadata for 250 countries and validation regexes for 184. Part of the [countrystatecity](https://github.com/dr5hn/countrystatecity-pypi) ecosystem.
 
 Like the [countries](https://pypi.org/project/countrystatecity-countries/) package, postcode data is **lazy-loaded per country** — installing the package doesn't load anything into memory until you ask for a specific country's data.
 
@@ -115,7 +115,7 @@ class Postcode(BaseModel):
 
 ## Coverage
 
-Individual postcode listings are available for 116 countries with source data upstream: 725,993 postcode/locality records representing 578,033 distinct codes, with varying granularity per country. `get_postal_info_by_country()` returns format metadata for all 250 countries and validation regexes for the 184 countries where one is known, even if per-postcode listings aren't available. Check `postcodeCount` to see how many records are available for a given country.
+Individual postcode listings are available for 117 countries with source data upstream: 728,556 postcode/locality records representing 580,593 distinct country/code pairs, with varying granularity per country. `get_postal_info_by_country()` returns format metadata for all 250 countries and validation regexes for the 184 countries where one is known, even if per-postcode listings aren't available. Check `postcodeCount` to see how many records are available for a given country.
 
 ## License
 
@@ -126,8 +126,8 @@ ODbL-1.0 — see [LICENSE](LICENSE).
 | Package | Description |
 |---|---|
 | [countrystatecity-api](https://pypi.org/project/countrystatecity-api/) | **Official API client** — live data, sync + async, typed |
-| [countrystatecity-countries](https://pypi.org/project/countrystatecity-countries/) | 250 countries, 5,308 states, 171,938 cities |
-| [countrystatecity-timezones](https://pypi.org/project/countrystatecity-timezones/) | 432 IANA timezones with country associations and time conversion |
+| [countrystatecity-countries](https://pypi.org/project/countrystatecity-countries/) | 250 countries, 5,327 states, 156,169 cities |
+| [countrystatecity-timezones](https://pypi.org/project/countrystatecity-timezones/) | 432 country/timezone associations with country associations and time conversion |
 | [countrystatecity-currencies](https://pypi.org/project/countrystatecity-currencies/) | 249 country/currency associations |
 | [countrystatecity-translations](https://pypi.org/project/countrystatecity-translations/) | 4,724 translations in 19 languages |
 | [countrystatecity-phonecodes](https://pypi.org/project/countrystatecity-phonecodes/) | International phone/dialing codes for 250 countries |

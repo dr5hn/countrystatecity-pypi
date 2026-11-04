@@ -1,5 +1,22 @@
 [
   {
+    "id": 174204,
+    "name": "Abaji",
+    "state_id": 293,
+    "state_code": "FC",
+    "country_id": 161,
+    "country_code": "NG",
+    "latitude": "8.84000000",
+    "longitude": "6.81900000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Abaji",
+    "timezone": "Africa/Lagos",
+    "population": null,
+    "population_year": null
+  },
+  {
     "id": 76749,
     "name": "Abuja",
     "state_id": 293,
@@ -14,6 +31,23 @@
     "native": "Abuja",
     "timezone": "Africa/Lagos",
     "population": 2690000,
+    "population_year": null
+  },
+  {
+    "id": 174210,
+    "name": "Abuja Municipal",
+    "state_id": 293,
+    "state_code": "FC",
+    "country_id": 161,
+    "country_code": "NG",
+    "latitude": "8.88200000",
+    "longitude": "7.41800000",
+    "county_id": null,
+    "wikiDataId": null,
+    "type": "municipality",
+    "native": "Abuja Municipal",
+    "timezone": "Africa/Lagos",
+    "population": null,
     "population_year": null
   },
   {
