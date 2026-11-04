@@ -107,6 +107,30 @@ def verify(directory):
                 row = rows[filename]
                 if row["yanked"] or row["digests"]["sha256"] != digest:
                     raise ValueError(f"Yanked or hash-mismatched PyPI file: {filename}")
+                with urlopen(
+                    f"https://pypi.org/integrity/{name}/{version}/{filename}/provenance",
+                    timeout=30,
+                ) as response:
+                    provenance = json.load(response)
+                # PyPI verifies attestations on upload. This checks its published
+                # publisher identity, not an independent Sigstore signature verification.
+                expected_publisher = {
+                    "kind": "GitHub",
+                    "repository": "dr5hn/countrystatecity-pypi",
+                    "workflow": "publish.yml",
+                    "environment": "pypi",
+                }
+                if not any(
+                    bundle.get("attestations")
+                    and all(
+                        bundle.get("publisher", {}).get(key) == value
+                        for key, value in expected_publisher.items()
+                    )
+                    for bundle in provenance.get("attestation_bundles", [])
+                ):
+                    raise ValueError(
+                        f"Unexpected or missing PyPI publisher: {filename}"
+                    )
                 print(f"Verified {filename}: sha256:{digest}")
             return
         except HTTPError as error:

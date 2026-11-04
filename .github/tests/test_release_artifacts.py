@@ -1,5 +1,6 @@
 """Test release checks with synthetic archives; never install their contents."""
 
+import hashlib
 import io
 import json
 import runpy
@@ -107,4 +108,34 @@ class ReleaseArtifactTests(unittest.TestCase):
         ), patch("time.sleep"), self.assertRaisesRegex(
             RuntimeError, "complete release"
         ):
+            ARTIFACTS["verify"](self.dist)
+
+    def test_registry_requires_expected_publisher(self):
+        """Correct hashes without our trusted-publisher identity are insufficient."""
+        response = {
+            "urls": [
+                {
+                    "filename": path.name,
+                    "yanked": False,
+                    "digests": {
+                        "sha256": hashlib.sha256(path.read_bytes()).hexdigest()
+                    },
+                }
+                for path in (self.wheel, self.sdist)
+            ]
+        }
+
+        def fetch(url, **kwargs):
+            """Serve registry metadata and an absent publisher without networking."""
+            return io.BytesIO(
+                json.dumps(
+                    {"attestation_bundles": []}
+                    if url.endswith("/provenance")
+                    else response
+                ).encode()
+            )
+
+        with patch.dict(
+            ARTIFACTS["verify"].__globals__, urlopen=fetch
+        ), self.assertRaisesRegex(ValueError, "publisher"):
             ARTIFACTS["verify"](self.dist)
