@@ -31,7 +31,11 @@ Before approving a release, inspect its exact source commit, dependency changes,
 
 Keep PyPI and GitHub two-factor authentication enabled, preferably with passkeys or hardware security keys. Review collaborators, trusted publishers, sessions and security history periodically. Keep recovery codes offline and never share them with automation.
 
-`CODEOWNERS` requests owner review for workflow, dependency and packaging changes. It is not an enforcement mechanism without branch protection. The current version-bump workflow writes to `main`; introducing mandatory PR-only branch protection requires replacing that path with a reviewed release PR first. Do not silently bypass protected-branch rules to preserve automatic releases.
+Versions and changelogs belong in the release PR. The data updater prepares them before opening its PR; release preparation only validates the merged PR at the current `main` tip and cannot push commits. The expired November auto-merge hook has been retired.
+
+Main branch protection requires PRs and the `Release safety gate`, `review` and `audit-release-dependencies` checks, including for administrators. The stable safety gate includes every package/Python test job. Force pushes and branch deletion are disabled. This single-maintainer repository does not require a second person's approval; `CODEOWNERS` requests owner attention but is not a second-person security guarantee. The protected PyPI deployment still requires owner approval.
+
+Bot-created PRs use the built-in GitHub token and explicitly dispatch read-only CI at the generated branch, because those PRs do not trigger normal PR workflows. No persistent CI token or protected-branch bypass is required. Merge only the exact tested head, and never weaken protection to recover a failed release.
 
 These controls reduce exposure; they do not prove the source, dependencies or maintainer account cannot be compromised. A publish attestation identifies the publishing workflow, not a malware-free package.
 

@@ -26,9 +26,10 @@ class PublishSafetyTests(unittest.TestCase):
         self.assertIsNotNone(condition)
         self.assertEqual(
             condition.group(1),
-            "github.event_name == 'workflow_dispatch' || "
+            "github.repository == 'dr5hn/countrystatecity-pypi' && "
+            "github.ref == 'refs/heads/main' && (github.event_name == 'workflow_dispatch' || "
             "(github.event.pull_request.merged == true && "
-            "contains(github.event.pull_request.labels.*.name, 'data-update'))",
+            "contains(github.event.pull_request.labels.*.name, 'data-update')))",
         )
         self.assertIn('.merged == true and .base.ref == "main"', workflow)
         self.assertIn('any(.name == "data-update")', workflow)
@@ -82,6 +83,24 @@ class PublishSafetyTests(unittest.TestCase):
             'git merge-base --is-ancestor "$SOURCE_REF" origin/main', workflow
         )
 
+    def test_version_bump_is_reviewed_before_merge(self):
+        """The updater stages versions in its PR and cannot auto-merge it."""
+        workflow = (WORKFLOWS / "update-data.yml").read_text()
+        self.assertIn("data_version.py bump", workflow)
+        self.assertNotIn("gh pr merge", workflow)
+        updater = workflow.split("\n  validate-pr:\n")[0]
+        self.assertNotIn("actions: write", updater)
+        self.assertIn("gh workflow run python-ci.yml", workflow)
+        self.assertIn('"$ACTUAL_HEAD" = "$EXPECTED_HEAD"', workflow)
+
+    def test_required_gate_cannot_skip_a_matrix_failure(self):
+        """One stable protection check covers every package and Python version."""
+        workflow = (WORKFLOWS / "python-ci.yml").read_text()
+        self.assertIn("name: Release safety gate", workflow)
+        self.assertIn("if: always()", workflow)
+        self.assertIn("needs: [workflow-safety, test]", workflow)
+        self.assertNotIn("    paths:", workflow)
+
     def test_build_inputs_are_locked(self):
         """Release builds cannot resolve fresh dependencies or isolated build tools."""
         workflow = (WORKFLOWS / "publish.yml").read_text()
@@ -99,6 +118,10 @@ class PublishSafetyTests(unittest.TestCase):
         self.assertNotIn("pip install", workflow)
         self.assertNotIn("pytest ", workflow)
         self.assertNotIn("PYPI_TOKEN", workflow)
+        self.assertNotIn("contents: write", workflow)
+        self.assertNotIn("git push", workflow)
+        self.assertIn("data_version.py check --base", workflow)
+        self.assertIn("persist-credentials: false", workflow)
 
     def test_branch_names_are_not_shell_code(self):
         """workflow_run branch names must enter the shell through environment variables."""
