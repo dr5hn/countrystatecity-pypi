@@ -657,8 +657,9 @@ packaging==26.3 \
     --hash=sha256:d7193f7c8e4e93f444fde0262bf90af30e16fa0ad0ad44cb553c87339b23cd1c
 pathspec==1.1.1 \
     --hash=sha256:a00ce642f577bf7f473932318056212bc4f8bfdf53128c78bbd5af0b9b20b189
-platformdirs==4.13.6 \
-    --hash=sha256:21fc198fb09f3e78cadcdfd8a6ae4fd65cadc64a3cba78b694321c2996114a3e
+platformdirs==4.13.7 \
+    --hash=sha256:47664602fbecad0a6efa561fb690d20dbc26875fe8aedf65ba362935df619bbb \
+    --hash=sha256:f7f351c027d6632c30471124e1fdb6ac0fef9ccc5cbac1b34cb333431b1fc3e1
 Pygments==2.21.0 \
     --hash=sha256:2363c69b61c4a97c838da3b130dcd6468f4848992b21a82f2a63ec34377137d9
 typing_extensions==4.16.0 \
