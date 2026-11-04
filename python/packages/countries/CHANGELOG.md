@@ -1,5 +1,15 @@
 # Changelog
 
+## [3.1.0] - 2026-11-04
+
+### Added
+
+- County models and lazy country/state/ID lookups for 14,058 county equivalents across 26 countries, preserving cross-state memberships.
+
+### Changed
+
+- Advance the seven offline packages together; the API client remains independently versioned at 0.2.1.
+
 ## [3.0.1] - 2026-11-04
 
 ### Changed

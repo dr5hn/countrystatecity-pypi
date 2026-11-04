@@ -1,8 +1,8 @@
 """Pydantic models for countries, states, and cities."""
 
-from typing import Dict, List, Optional
+from typing import Any, Dict, List, Optional
 
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import BaseModel, ConfigDict, Field, field_validator, model_validator
 
 
 class Country(BaseModel):
@@ -70,3 +70,55 @@ class City(BaseModel):
     timezone: Optional[str] = None
     population: Optional[int] = None
     population_year: Optional[int] = None
+
+
+class CountyState(BaseModel):
+    """A county's membership in a state, including cross-state counties."""
+
+    model_config = ConfigDict(frozen=True, extra="forbid")
+
+    state_id: int = Field(gt=0)
+    state_code: str = Field(min_length=1)
+
+
+class County(BaseModel):
+    """County equivalent with country-specific coverage and state membership."""
+
+    model_config = ConfigDict(frozen=True, extra="forbid")
+
+    id: int = Field(gt=0)
+    name: str
+    country_id: int = Field(gt=0)
+    country_code: str = Field(pattern=r"^[A-Z]{2}$")
+    state_id: Optional[int] = Field(default=None, gt=0)
+    state_code: Optional[str] = None
+    states: Optional[List[CountyState]] = None
+    type: Optional[str] = None
+    type_local: Optional[str] = None
+    level: Optional[int] = None
+    parent_id: Optional[int] = Field(default=None, gt=0)
+    latitude: Optional[str] = None
+    longitude: Optional[str] = None
+    native: Optional[str] = None
+    population: Optional[int] = None
+    timezone: Optional[str] = None
+    translations: Optional[Dict[str, str]] = None
+    wikiDataId: Optional[str] = None
+
+    @field_validator("translations", mode="before")
+    @classmethod
+    def normalize_empty_translations(cls, value: Any) -> Any:
+        """The upstream exporter also represents empty translation maps as []."""
+        return {} if isinstance(value, list) and not value else value
+
+    @model_validator(mode="after")
+    def validate_state_membership(self) -> "County":
+        """Do not invent a single state for a cross-state county."""
+        if (self.state_id is None) != (self.state_code is None):
+            raise ValueError("County state id and code must both be present or null")
+        links = self.states or []
+        if len({link.state_id for link in links}) != len(links):
+            raise ValueError("Duplicate county state membership")
+        if len(links) > 1 and self.state_id is not None:
+            raise ValueError("Cross-state county must retain a null primary state")
+        return self

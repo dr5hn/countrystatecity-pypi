@@ -335,6 +335,7 @@ postcodes = get_postcodes_of_country("AD")
 - ✅ **250 countries** with metadata
 - ✅ **5,327 states/provinces**
 - ✅ **156,169 cities**
+- ✅ **14,058 county equivalents** across 26 countries, including cross-state memberships
 - ✅ **432 country/timezone associations** with GMT offsets and time conversion
 - ✅ **249 country/currency associations**
 - ✅ **4,724 translations** in 19 languages

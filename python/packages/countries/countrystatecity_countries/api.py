@@ -1,9 +1,42 @@
 """Public API functions for countries, states, and cities."""
 
+import re
 from typing import List, Optional
 
 from .loaders import DataLoader
-from .models import City, Country, State
+from .models import City, Country, County, State
+
+
+def get_counties_of_country(country_code: str) -> List[County]:
+    """Return county equivalents for an ISO2 country, or [] without export coverage."""
+    return [County(**row) for row in DataLoader.load_counties(country_code)]
+
+
+def get_county_by_id(county_id: int) -> Optional[County]:
+    """Find a county by snapshot ID, or None; IDs can change during migrations."""
+    if type(county_id) is not int or county_id <= 0:
+        raise ValueError("County id must be a positive integer")
+    for country in DataLoader.load_countries():
+        for row in DataLoader.load_counties(country["iso2"]):
+            if row["id"] == county_id:
+                return County(**row)
+    return None
+
+
+def get_counties_of_state(country_code: str, state_code: str) -> List[County]:
+    """Return single- and cross-state counties once each for an ISO2/state code pair."""
+    if not isinstance(state_code, str) or not re.fullmatch(
+        r"[A-Za-z0-9_-]+", state_code
+    ):
+        raise ValueError("County state code must be a non-empty state code")
+    code = state_code.upper()
+    return [
+        county
+        for county in get_counties_of_country(country_code)
+        if (county.state_code is not None and county.state_code.upper() == code)
+        or any(link.state_code.upper() == code for link in county.states or [])
+    ]
+
 
 # Countries API
 

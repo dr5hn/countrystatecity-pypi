@@ -1,6 +1,7 @@
 """Lazy data loader with caching."""
 
 import json
+import re
 from functools import lru_cache
 from pathlib import Path
 from typing import Any, Dict, List, cast
@@ -108,6 +109,23 @@ class DataLoader:
         cls.load_states.cache_clear()
         cls.load_cities.cache_clear()
         cls.load_country_cities.cache_clear()
+        cls.load_counties.cache_clear()
+
+    @classmethod
+    @lru_cache(maxsize=250)
+    def load_counties(cls, country_code: str) -> List[Dict[str, Any]]:
+        """Load only one country's counties; reject unsafe path components."""
+        if not isinstance(country_code, str) or not re.fullmatch(
+            r"[A-Za-z]{2}", country_code
+        ):
+            raise ValueError("County country code must be an ISO2 code")
+        file_path = (
+            cls._data_dir / "by-country" / country_code.upper() / "counties.json"
+        )
+        if not file_path.exists():
+            return []
+        with open(file_path, encoding="utf-8") as handle:
+            return cast(List[Dict[str, Any]], json.load(handle))
 
     @classmethod
     @lru_cache(maxsize=250)

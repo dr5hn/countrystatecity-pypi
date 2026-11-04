@@ -65,7 +65,7 @@ jobs:
       - name: Generate new data structure
         run: |
           cd python/packages/countries
-          python scripts/generate-data.py ../../data/source.json
+          python scripts/generate-data.py ../../data/source.json ../../data/counties.json
 
       - name: Regenerate derived package data
         run: |

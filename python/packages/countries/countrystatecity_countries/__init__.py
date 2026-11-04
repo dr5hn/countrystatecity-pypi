@@ -11,23 +11,26 @@ Example:
     'United States'
 """
 
-__version__ = "3.0.1"
+__version__ = "3.1.0"
 
 from .api import (  # Countries API; States API; Cities API
     get_cities_of_country,
     get_cities_of_state,
+    get_counties_of_country,
+    get_counties_of_state,
     get_countries,
     get_countries_by_region,
     get_countries_by_subregion,
     get_country_by_code,
     get_country_by_id,
+    get_county_by_id,
     get_state_by_code,
     get_states_of_country,
     search_cities,
     search_countries,
     search_states,
 )
-from .models import City, Country, State
+from .models import City, Country, County, CountyState, State
 
 __all__ = [
     # Version
@@ -36,6 +39,11 @@ __all__ = [
     "Country",
     "State",
     "City",
+    "County",
+    "CountyState",
+    "get_counties_of_country",
+    "get_counties_of_state",
+    "get_county_by_id",
     # Countries API
     "get_countries",
     "get_country_by_id",

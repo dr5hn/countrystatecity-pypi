@@ -120,6 +120,10 @@ def main():
                 raise ValueError(f"Invalid country code: {country['iso2']!r}")
         full_cities = json.loads(download_asset("json-cities.json.gz"))
         join_cities(countries, full_cities)
+        counties = json.loads(download_asset("json-counties.json.gz"))
+        (staging / "counties.json").write_text(
+            json.dumps(counties, ensure_ascii=False), encoding="utf-8"
+        )
         (staging / "source.json").write_text(
             json.dumps(countries, ensure_ascii=False), encoding="utf-8"
         )
@@ -162,6 +166,7 @@ def main():
             "counts": {
                 "countries": len(countries),
                 "cities": len(full_cities),
+                "counties": len(counties),
                 "postcodes": sum(map(len, grouped.values())),
             },
         }
@@ -169,7 +174,7 @@ def main():
             json.dumps(record, indent=2) + "\n", encoding="utf-8"
         )
         # Replace only this script's generated input files.
-        for name in ("source.json", "countries.json", "release.json"):
+        for name in ("source.json", "countries.json", "counties.json", "release.json"):
             shutil.copyfile(staging / name, DATA / name)
         postcodes_dir = DATA / "postcodes"
         backup = DATA / "postcodes.previous"

@@ -5,6 +5,7 @@
   "checksums": {
     "json-countries+states+cities.json.gz": "sha256:d748ee4faf6c8bda6c9f7f30e9126b14cb9e5fb0b6c187162a083e715479475d",
     "json-cities.json.gz": "sha256:3d7e1a11440ae6eeaaa8ce2bbb8345ad5357085f93cbee2ad2d0f24680e7e87d",
+    "json-counties.json.gz": "sha256:7a7f73094e7f179bf7bc3c0c2c9afa8ca0259b021bb71c7a45d6c18368289326",
     "json-postcodes.json.gz": "sha256:23b105f13d373e53ebab5f3761e0b24a7a3c142398141e7171e7e8e8094f9feb",
     "NOTICE-4-72-Clausula-Licencia-Abierta.txt": "sha256:6d94032c8a4acd9da801682a96118192d0a2a309f785dfb5498085c8558a9f4d",
     "NOTICE-pc_rebuild_7-distribution-notices.txt": "sha256:26253aea0cb5d917d9cd44f70fe41551fe0db28e54d18ace6982e9428e99bb8b",
@@ -15,6 +16,7 @@
   "counts": {
     "countries": 250,
     "cities": 156169,
+    "counties": 14058,
     "postcodes": 728556
   }
 }

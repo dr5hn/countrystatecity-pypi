@@ -35,7 +35,30 @@ source control.
 
 ## Current snapshot
 
-Version 3.0.1 uses pinned [`v5.2.0-export.1`](https://github.com/dr5hn/countries-states-cities-database/releases/tag/v5.2.0-export.1): 250 countries, 5,327 states and 156,169 cities. Compared with 3.0.0, it adds 3,791 city IDs and corrects supported values in 31,466 existing cities; no city IDs were retired. Counties and hierarchy remain separate planned work.
+Version 3.1.0 uses pinned [`v5.2.0-export.1`](https://github.com/dr5hn/countries-states-cities-database/releases/tag/v5.2.0-export.1): 250 countries, 5,327 states and 156,169 cities. Compared with 3.0.0, it adds 3,791 city IDs and corrects supported values in 31,466 existing cities; no city IDs were retired. County data is now available; city/state hierarchy remains planned.
+
+## County lookups
+
+The package includes 14,058 county equivalents across 26 countries, not universal worldwide county coverage. Records include country/state references, administrative type and level, parent county, native name, population, timezone, translations and Wikidata ID where supplied.
+
+```python
+from countrystatecity_countries import (
+    get_counties_of_country, get_counties_of_state, get_county_by_id,
+)
+
+counties = get_counties_of_country("US")  # Lazy country-only load
+waikato = get_counties_of_state("NZ", "WKO")
+waitomo = get_county_by_id(14023)
+assert waitomo is not None
+assert waitomo.state_id is None
+assert {state.state_code for state in waitomo.states or []} == {"MWT", "WKO"}
+```
+
+Seven counties span multiple states/regions, represented by 16 links. Their primary `state_id` and `state_code` stay null; use `states` instead of choosing an arbitrary state. State lookups include both single-state and multi-state counties once each. Existing `City.county_id` values can be joined to `County.id`.
+
+Country and state lookups use case-insensitive ISO2/state codes. Invalid code formats or non-positive/non-integer IDs raise `ValueError`; an absent county ID returns `None`, and countries without exported county coverage return `[]`. IDs refer to this snapshot and can change in an upstream migration.
+
+Null metadata remains null. The export's 107 empty translation arrays are normalized to empty dictionaries; populated maps are preserved. Data is loaded locally with no network calls or telemetry. Offline county support does not imply that a county endpoint exists in the hosted API.
 
 ## Upgrading to 3.0.0
 
